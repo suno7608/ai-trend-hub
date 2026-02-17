@@ -1,0 +1,184 @@
+{
+  "generated_at": "2026-02-17T15:22:32.414Z",
+  "counts": {
+    "daily": 10,
+    "weekly": 1,
+    "monthly": 1
+  },
+  "daily": [
+    {
+      "id": "retail_dive_20260217_001",
+      "title": "Retail's Risky AI Commerce Bet: Data Control and Market Share at Stake",
+      "date_published": "2026-02-17",
+      "source_name": "Retail Dive",
+      "categories": [
+        "commerce"
+      ],
+      "tags": [
+        "agentic-commerce",
+        "data-ownership",
+        "retail-strategy"
+      ],
+      "canonical_url": "https://www.retaildive.com/news/retails-ai-bet-risks-data-market-share/810202/"
+    },
+    {
+      "id": "commercetools_20260216_001",
+      "title": "7 AI Trends Shaping Agentic Commerce in 2026",
+      "date_published": "2026-02-16",
+      "source_name": "commercetools Blog",
+      "categories": [
+        "commerce",
+        "tech"
+      ],
+      "tags": [
+        "agentic-commerce",
+        "composable-commerce",
+        "AI-agents"
+      ],
+      "canonical_url": "https://commercetools.com/blog/ai-trends-shaping-agentic-commerce"
+    },
+    {
+      "id": "emarketer_20260215_001",
+      "title": "AI Shopping Tools Gain Traction, But Retailer Pushback Could Cloud 2026 Progress",
+      "date_published": "2026-02-15",
+      "source_name": "eMarketer",
+      "categories": [
+        "commerce",
+        "strategy"
+      ],
+      "tags": [
+        "agentic-commerce",
+        "retail-strategy",
+        "market-forecast"
+      ],
+      "canonical_url": "https://www.emarketer.com/content/ai-shopping-tools-gain-traction-retailer-pushback-could-cloud-2026-progress"
+    },
+    {
+      "id": "microsoft_20260215_001",
+      "title": "Agentic Commerce is the New Front Door to Retail",
+      "date_published": "2026-02-15",
+      "source_name": "Microsoft",
+      "categories": [
+        "commerce",
+        "tech"
+      ],
+      "tags": [
+        "agentic-commerce",
+        "copilot",
+        "microsoft"
+      ],
+      "canonical_url": "https://www.microsoft.com/en-us/industry/blog/retail/2026/02/09/how-agentic-commerce-is-becoming-the-new-front-door-to-retail/"
+    },
+    {
+      "id": "klaviyo_20260214_001",
+      "title": "8 Marketing Automation Trends: AI, Privacy & Personalization",
+      "date_published": "2026-02-14",
+      "source_name": "Klaviyo Blog",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "marketing-automation",
+        "personalization",
+        "privacy",
+        "zero-party-data"
+      ],
+      "canonical_url": "https://www.klaviyo.com/blog/marketing-automation-trends"
+    },
+    {
+      "id": "marketing_dive_20260214_001",
+      "title": "9 Marketing Predictions for 2026 as AI Fuels Polarity",
+      "date_published": "2026-02-14",
+      "source_name": "Marketing Dive",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "AI-marketing",
+        "personalization",
+        "predictions"
+      ],
+      "canonical_url": "https://www.marketingdive.com/news/marketing-predictions-for-2026/809124/"
+    },
+    {
+      "id": "criteo_20260213_001",
+      "title": "Criteo Launches Agentic Commerce Recommendation Service for AI Shopping Assistants",
+      "date_published": "2026-02-13",
+      "source_name": "PR Newswire / Criteo",
+      "categories": [
+        "commerce",
+        "tech"
+      ],
+      "tags": [
+        "criteo",
+        "MCP",
+        "recommendation",
+        "agentic-commerce"
+      ],
+      "canonical_url": "https://www.prnewswire.com/news-releases/criteo-introduces-agentic-commerce-recommendation-service-to-power-ai-shopping-assistants-302679859.html"
+    },
+    {
+      "id": "retail_brew_20260213_001",
+      "title": "Google Makes Etsy and Wayfair Items Shoppable Within Agentic AI Search",
+      "date_published": "2026-02-13",
+      "source_name": "Retail Brew",
+      "categories": [
+        "commerce",
+        "tech"
+      ],
+      "tags": [
+        "google",
+        "UCP",
+        "agentic-commerce",
+        "marketplace"
+      ],
+      "canonical_url": "https://www.retailbrew.com/stories/2026/02/11/google-makes-etsy-and-wayfair-items-shoppable-within-agentic-ai-search"
+    },
+    {
+      "id": "sap_20260212_001",
+      "title": "NRF 2026: SAP Builds AI Into the Core of Retail",
+      "date_published": "2026-02-12",
+      "source_name": "SAP News",
+      "categories": [
+        "commerce",
+        "tech"
+      ],
+      "tags": [
+        "SAP",
+        "NRF",
+        "agentic-AI",
+        "retail-operations"
+      ],
+      "canonical_url": "https://news.sap.com/2026/01/nrf-2026-sap-builds-ai-retail-core/"
+    },
+    {
+      "id": "wordstream_20260212_001",
+      "title": "The Biggest AI Marketing Trends for 2026",
+      "date_published": "2026-02-12",
+      "source_name": "WordStream",
+      "categories": [
+        "marketing",
+        "tech"
+      ],
+      "tags": [
+        "AI-marketing",
+        "search",
+        "AEO",
+        "content-generation"
+      ],
+      "canonical_url": "https://www.wordstream.com/blog/2026-ai-marketing-trends"
+    }
+  ],
+  "weekly": [
+    {
+      "week": "2026-W08",
+      "title": "Weekly Digest W08: Agentic Commerce 본격화 — Google UCP, Criteo MCP, 그리고 리테일러의 딜레마"
+    }
+  ],
+  "monthly": [
+    {
+      "month": "2026-02",
+      "title": "Monthly Deep Dive: Agentic Commerce 원년 — D2C가 알아야 할 5가지 전략적 시사점"
+    }
+  ]
+}

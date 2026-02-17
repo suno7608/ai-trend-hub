@@ -1,0 +1,32 @@
+- event: NRF Big Show
+  when: Jan (Annual)
+  location: New York
+  why: Retail/Commerce AI 최대 컨퍼런스
+- event: Shoptalk
+  when: Mar (Annual)
+  location: Las Vegas
+  why: D2C/Commerce 전문 컨퍼런스
+- event: CES
+  when: Jan (Annual)
+  location: Las Vegas
+  why: CE 업계 + AI 신제품 트렌드
+- event: IFA Berlin
+  when: Sep (Annual)
+  location: Berlin
+  why: 유럽 CE 시장 + AI 가전
+- event: DMEXCO
+  when: Sep (Annual)
+  location: Cologne
+  why: 디지털 마케팅/애드테크 최대
+- event: Web Summit
+  when: Nov (Annual)
+  location: Lisbon
+  why: AI 스타트업/투자 동향
+- event: Google I/O
+  when: May (Annual)
+  location: Mountain View
+  why: Google AI/Commerce 제품 발표
+- event: MS Ignite / Build
+  when: Nov / May
+  location: Online/Seattle
+  why: Agent 365, Copilot 업데이트

@@ -1,0 +1,71 @@
+name: Daily Content Pipeline (Template)
+
+# This workflow is a template for the daily content update pipeline.
+# In production, it would:
+# 1. Fetch RSS feeds from sources.yaml
+# 2. Process and summarize articles using AI
+# 3. Generate markdown files with proper schema
+# 4. Commit and push, triggering the deploy workflow
+
+on:
+  # Runs daily at 06:00 UTC (15:00 KST)
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+    inputs:
+      max_items:
+        description: 'Maximum number of items to fetch'
+        required: false
+        default: '15'
+
+permissions:
+  contents: write
+
+jobs:
+  collect-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run content pipeline
+        run: |
+          echo "📡 Daily Content Pipeline"
+          echo "========================"
+          echo ""
+          echo "Step 1: Fetch RSS feeds from sources.yaml"
+          echo "Step 2: Normalize and deduplicate"
+          echo "Step 3: AI summarization (Claude API / OpenAI)"
+          echo "Step 4: Generate markdown files"
+          echo "Step 5: Validate schema"
+          echo ""
+          echo "⚠️  This is a template workflow."
+          echo "    In production, replace this with actual pipeline scripts."
+          echo ""
+          echo "To implement the full pipeline, create:"
+          echo "  - scripts/collect.js  (RSS fetcher)"
+          echo "  - scripts/summarize.js (AI summarizer)"
+          echo "  - scripts/validate.js (Schema validator)"
+          echo ""
+          # Placeholder: Run the content collection script
+          # node scripts/collect.js --max-items=${{ github.event.inputs.max_items || '15' }}
+
+      - name: Build site
+        run: node scripts/build.js
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "AI Trend Hub Bot"
+          git add content/ dist/
+          git diff --staged --quiet || git commit -m "📰 Daily content update $(date +%Y-%m-%d)"
+          git push || echo "Nothing to push"

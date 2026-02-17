@@ -1,0 +1,581 @@
+- id: google_ads_commerce
+  name: Google Ads & Commerce Blog
+  category:
+  - ai_commerce
+  method: rss_or_scrape
+  feed_url: https://blog.google/products/ads-commerce/
+  frequency: weekly
+  status: existing
+  language: en
+  region: global
+  weight: 0.7
+  notes: RSS endpoint 검증 필요
+- id: shopify_engineering
+  name: Shopify Engineering Blog
+  category:
+  - ai_commerce
+  method: rss_or_scrape
+  feed_url: https://shopify.engineering
+  frequency: 2-3x/wk
+  status: existing
+  language: en
+  region: global
+  weight: 0.7
+  notes: RSS endpoint 검증 필요
+- id: practical_ecommerce
+  name: Practical Ecommerce
+  category:
+  - ai_commerce
+  method: rss
+  feed_url: https://www.practicalecommerce.com/feed
+  frequency: daily
+  status: existing
+  language: en
+  region: global
+  weight: 0.7
+  notes: ''
+- id: digital_commerce_360
+  name: Digital Commerce 360
+  category:
+  - ai_commerce
+  method: rss
+  feed_url: https://www.digitalcommerce360.com/feed
+  frequency: daily
+  status: existing
+  language: en
+  region: global
+  weight: 0.7
+  notes: ''
+- id: retail_dive
+  name: Retail Dive
+  category:
+  - ai_commerce
+  method: rss
+  feed_url: https://www.retaildive.com/feeds/news/
+  frequency: daily
+  status: existing
+  language: en
+  region: global
+  weight: 0.7
+  notes: ''
+- id: emarketer
+  name: eMarketer / Insider Intelligence
+  category:
+  - ai_commerce
+  - research
+  method: api_or_rss
+  feed_url: https://www.emarketer.com
+  frequency: daily
+  status: existing
+  language: en
+  region: global
+  weight: 0.7
+  notes: API/RSS 접근 방식 결정 필요
+- id: commercetools
+  name: commercetools Blog
+  category:
+  - ai_commerce
+  method: rss
+  feed_url: https://commercetools.com/blog/rss.xml
+  frequency: weekly
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: ''
+- id: mirakl
+  name: Mirakl Blog
+  category:
+  - ai_commerce
+  method: rss
+  feed_url: https://www.mirakl.com/blog/feed
+  frequency: 2x/wk
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: ''
+- id: shopify_commerce_plus_substack
+  name: Shopify Commerce+ (Substack)
+  category:
+  - ai_commerce
+  - newsletter
+  method: rss_or_scrape
+  feed_url: https://shopify.substack.com
+  frequency: weekly
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: Substack RSS 확인 필요(보통 /feed)
+- id: techcrunch_commerce
+  name: TechCrunch Commerce
+  category:
+  - ai_commerce
+  - startup
+  method: rss
+  feed_url: https://techcrunch.com/category/commerce/feed
+  frequency: daily
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: ''
+- id: marketing_ai_institute
+  name: Marketing AI Institute
+  category:
+  - ai_marketing
+  method: rss_or_scrape
+  feed_url: https://www.marketingaiinstitute.com/blog
+  frequency: 2-3x/wk
+  status: existing
+  language: en
+  region: global
+  weight: 0.7
+  notes: RSS endpoint 확인 필요
+- id: marketing_ai_show
+  name: The Marketing AI Show (Podcast)
+  category:
+  - ai_marketing
+  - podcast
+  method: rss
+  feed_url: https://feeds.megaphone.fm/marketingai
+  frequency: weekly
+  status: existing
+  language: en
+  region: global
+  weight: 0.7
+  notes: ''
+- id: hubspot_marketing
+  name: HubSpot Marketing Blog
+  category:
+  - ai_marketing
+  method: rss
+  feed_url: https://blog.hubspot.com/marketing/rss.xml
+  frequency: daily
+  status: existing
+  language: en
+  region: global
+  weight: 0.7
+  notes: ''
+- id: adweek
+  name: Adweek
+  category:
+  - ai_marketing
+  method: rss
+  feed_url: https://www.adweek.com/feed
+  frequency: daily
+  status: existing
+  language: en
+  region: global
+  weight: 0.7
+  notes: ''
+- id: mit_tech_review_ai
+  name: MIT Technology Review (AI)
+  category:
+  - ai_marketing
+  - ai_general
+  method: rss
+  feed_url: https://www.technologyreview.com/topic/artificial-intelligence/feed
+  frequency: daily
+  status: existing
+  language: en
+  region: global
+  weight: 0.7
+  notes: ''
+- id: the_verge_ai
+  name: The Verge (AI)
+  category:
+  - ai_marketing
+  - ce_industry
+  method: rss
+  feed_url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+  frequency: daily
+  status: existing
+  language: en
+  region: global
+  weight: 0.7
+  notes: ''
+- id: martech_org
+  name: MarTech.org
+  category:
+  - ai_marketing
+  - martech
+  method: rss
+  feed_url: https://martech.org/feed
+  frequency: daily
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: ''
+- id: marketing_dive
+  name: Marketing Dive
+  category:
+  - ai_marketing
+  method: rss
+  feed_url: https://www.marketingdive.com/feeds/news/
+  frequency: daily
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: ''
+- id: digiday
+  name: Digiday
+  category:
+  - ai_marketing
+  - adtech
+  method: rss
+  feed_url: https://digiday.com/feed
+  frequency: daily
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: ''
+- id: search_engine_land
+  name: Search Engine Land
+  category:
+  - ai_marketing
+  - seo
+  method: rss
+  feed_url: https://searchengineland.com/feed
+  frequency: daily
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: ''
+- id: klaviyo_blog
+  name: Klaviyo Blog
+  category:
+  - ai_marketing
+  - email
+  method: rss
+  feed_url: https://www.klaviyo.com/blog/feed
+  frequency: 2x/wk
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: ''
+- id: contentsquare_blog
+  name: Contentsquare Blog
+  category:
+  - ai_marketing
+  - cx_ux
+  method: rss
+  feed_url: https://contentsquare.com/blog/feed
+  frequency: weekly
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: ''
+- id: google_ai_blog
+  name: Google AI Blog
+  category:
+  - ai_general
+  method: rss_or_scrape
+  feed_url: https://blog.google/technology/ai/
+  frequency: 2-3x/wk
+  status: existing
+  language: en
+  region: global
+  weight: 0.7
+  notes: RSS endpoint 검증 필요
+- id: openai_blog
+  name: OpenAI Blog
+  category:
+  - ai_general
+  method: rss_or_scrape
+  feed_url: https://openai.com/blog
+  frequency: weekly
+  status: existing
+  language: en
+  region: global
+  weight: 0.7
+  notes: RSS endpoint 검증 필요
+- id: anthropic_news
+  name: Anthropic News
+  category:
+  - ai_general
+  method: rss_or_scrape
+  feed_url: https://www.anthropic.com/news
+  frequency: weekly
+  status: existing
+  language: en
+  region: global
+  weight: 0.7
+  notes: RSS endpoint 검증 필요
+- id: a16z_ai
+  name: a16z AI
+  category:
+  - ai_general
+  - strategy
+  method: rss_or_scrape
+  feed_url: https://a16z.com/ai
+  frequency: weekly
+  status: existing
+  language: en
+  region: global
+  weight: 0.7
+  notes: RSS endpoint 검증 필요
+- id: benedict_evans
+  name: Benedict Evans Newsletter
+  category:
+  - ai_general
+  - strategy
+  method: rss_or_scrape
+  feed_url: https://www.ben-evans.com/newsletter
+  frequency: weekly
+  status: existing
+  language: en
+  region: global
+  weight: 0.7
+  notes: RSS endpoint 검증 필요
+- id: state_of_ai_benaich
+  name: State of AI (Nathan Benaich)
+  category:
+  - ai_general
+  - investment
+  - newsletter
+  method: rss_or_scrape
+  feed_url: https://nathanbenaich.substack.com
+  frequency: monthly
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: Substack RSS 확인 필요(보통 /feed)
+- id: latent_space
+  name: Latent Space (The AI Index)
+  category:
+  - ai_general
+  - engineering
+  method: rss_or_scrape
+  feed_url: https://www.latent.space
+  frequency: 2x/wk
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: RSS endpoint 확인 필요
+- id: towards_ai_newsletter
+  name: Towards AI Newsletter
+  category:
+  - ai_general
+  - newsletter
+  method: rss_or_scrape
+  feed_url: https://newsletter.towardsai.net
+  frequency: weekly
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: RSS endpoint 확인 필요
+- id: forrester_dtc
+  name: Forrester DTC Blog
+  category:
+  - d2c_dtc
+  - research
+  method: scrape_or_rss
+  feed_url: https://www.forrester.com/blogs/category/direct-to-consumer-dtc/
+  frequency: 2x/mo
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: RSS 제공 여부 확인 필요
+- id: dtc_1800
+  name: 1-800-D2C Newsletter
+  category:
+  - d2c_dtc
+  - newsletter
+  method: newsletter
+  feed_url: https://1800dtc.com/newsletter
+  frequency: weekly
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: 뉴스레터 구독 기반 수집
+- id: d2cville_digest
+  name: D2C Digest / D2Cville
+  category:
+  - d2c_dtc
+  - newsletter
+  method: newsletter
+  feed_url: https://d2cville.com/newsletter
+  frequency: weekly
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: 뉴스레터 구독 기반 수집
+- id: retail_daily_substack
+  name: Retail Daily (Substack)
+  category:
+  - d2c_dtc
+  - ai_commerce
+  - newsletter
+  method: rss_or_scrape
+  feed_url: https://dpepper.substack.com
+  frequency: 2x/wk
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: Substack RSS 확인 필요(보통 /feed)
+- id: the_verge_tech
+  name: The Verge (Tech)
+  category:
+  - ce_industry
+  method: rss
+  feed_url: https://www.theverge.com/tech/rss/index.xml
+  frequency: daily
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: ''
+- id: cnet_news
+  name: CNET
+  category:
+  - ce_industry
+  method: rss
+  feed_url: https://www.cnet.com/rss/news/
+  frequency: daily
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: ''
+- id: retail_customer_experience
+  name: Retail Customer Experience (RCX)
+  category:
+  - ce_industry
+  - ai_commerce
+  method: rss
+  feed_url: https://retailcustomerexperience.com/feed
+  frequency: daily
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: ''
+- id: smartbrief_retail
+  name: SmartBrief Retail
+  category:
+  - ce_industry
+  - ai_commerce
+  method: scrape_or_rss
+  feed_url: https://www.smartbrief.com/original
+  frequency: daily
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: 필터링 필요(리테일 관련만)
+- id: salesforce_ai_blog
+  name: Salesforce AI Blog
+  category:
+  - platform_vendor
+  method: rss_or_scrape
+  feed_url: https://www.salesforce.com/blog/category/ai/
+  frequency: 2-3x/wk
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: RSS endpoint 확인 필요
+- id: adobe_experience_blog
+  name: Adobe Experience Blog
+  category:
+  - platform_vendor
+  - martech
+  method: rss_or_scrape
+  feed_url: https://business.adobe.com/blog
+  frequency: 2x/wk
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: RSS endpoint 확인 필요
+- id: amazon_science
+  name: Amazon Science
+  category:
+  - platform_vendor
+  - ai_general
+  method: rss_or_scrape
+  feed_url: https://www.amazon.science/blog
+  frequency: weekly
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: RSS endpoint 확인 필요
+- id: meta_ai_blog
+  name: Meta AI Blog
+  category:
+  - platform_vendor
+  - ai_general
+  method: rss_or_scrape
+  feed_url: https://ai.meta.com/blog/
+  frequency: 2x/mo
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: RSS endpoint 확인 필요
+- id: microsoft_ai_blog
+  name: Microsoft AI Blog
+  category:
+  - platform_vendor
+  - ai_general
+  method: rss_or_scrape
+  feed_url: https://blogs.microsoft.com/ai/
+  frequency: 2x/wk
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: RSS endpoint 확인 필요
+- id: segment_blog
+  name: Segment Blog
+  category:
+  - cdp_crm_clv
+  method: rss_or_scrape
+  feed_url: https://segment.com/blog/
+  frequency: weekly
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: RSS endpoint 확인 필요
+- id: mparticle_blog
+  name: mParticle Blog
+  category:
+  - cdp_crm_clv
+  method: rss_or_scrape
+  feed_url: https://www.mparticle.com/blog
+  frequency: 2x/mo
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: RSS endpoint 확인 필요
+- id: bloomreach_blog
+  name: Bloomreach Blog
+  category:
+  - cdp_crm_clv
+  - personalization
+  method: rss_or_scrape
+  feed_url: https://www.bloomreach.com/en/blog
+  frequency: 2x/wk
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: RSS endpoint 확인 필요
