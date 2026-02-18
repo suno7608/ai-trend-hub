@@ -82,18 +82,48 @@ const indexData = {
 
 // ── Home Page ────────────────────────────────────────────
 function buildHomePage() {
-  // Daily: show last 7 days only
-  const cutoff = new Date();
-  cutoff.setDate(cutoff.getDate() - 7);
-  const recentDaily = dailyItems.filter(d => {
-    if (!d.date_published) return true; // include items without date
-    return new Date(d.date_published) >= cutoff;
-  });
-  // If no recent items, show all (for PoC with limited data)
-  const homeDaily = recentDaily.length > 0 ? recentDaily : dailyItems;
-  const showArchiveLink = dailyItems.length > homeDaily.length;
+  const CONFIDENCE_THRESHOLD = 0.69;
+  const MAX_VISIBLE_CARDS = 7;
 
-  const dailyCardsHTML = homeDaily.map(d => T.renderDailyCard(d)).join('\n');
+  // Filter out low-confidence items (≤ 69%)
+  const qualityDaily = dailyItems.filter(d => {
+    const conf = d.confidence || 0;
+    // Keep manually created items (no confidence field) and high-confidence items
+    return conf === 0 || conf > CONFIDENCE_THRESHOLD;
+  });
+
+  // Sort by: newest first, then by confidence (highest first) as tiebreaker
+  const sortedDaily = [...qualityDaily].sort((a, b) => {
+    const dateA = new Date(a.date_published || 0);
+    const dateB = new Date(b.date_published || 0);
+    if (dateB.getTime() !== dateA.getTime()) return dateB - dateA;
+    return (b.confidence || 0) - (a.confidence || 0);
+  });
+
+  // Split into visible (first 7) and hidden (rest)
+  const visibleDaily = sortedDaily.slice(0, MAX_VISIBLE_CARDS);
+  const hiddenDaily = sortedDaily.slice(MAX_VISIBLE_CARDS);
+
+  const visibleCardsHTML = visibleDaily.map(d => T.renderDailyCard(d)).join('\n');
+  const hiddenCardsHTML = hiddenDaily.map(d => T.renderDailyCard(d)).join('\n');
+
+  const dailyCardsHTML = visibleCardsHTML
+    + (hiddenDaily.length > 0
+      ? `</div>
+      <div class="card-grid card-grid-hidden" id="hiddenDailyCards" style="display:none">
+        ${hiddenCardsHTML}`
+      : '');
+
+  const loadMoreBtnHTML = hiddenDaily.length > 0
+    ? `<button class="load-more-btn" id="loadMoreDaily" onclick="document.getElementById('hiddenDailyCards').style.display='';this.style.display='none';document.getElementById('showLessDaily').style.display='';">
+        <span class="lang-ko">📰 더보기 (${hiddenDaily.length}건 더)</span>
+        <span class="lang-en" style="display:none">📰 Load More (${hiddenDaily.length} more)</span>
+      </button>
+      <button class="load-more-btn load-less-btn" id="showLessDaily" style="display:none" onclick="document.getElementById('hiddenDailyCards').style.display='none';this.style.display='none';document.getElementById('loadMoreDaily').style.display='';">
+        <span class="lang-ko">접기 ▲</span>
+        <span class="lang-en" style="display:none">Show Less ▲</span>
+      </button>`
+    : '';
 
   // Weekly: show latest 1 only with link to detail
   const latestWeekly = weeklyItems[0];
@@ -111,14 +141,9 @@ function buildHomePage() {
     `<button class="filter-btn" data-filter="${c}" style="--filter-color:${T.categoryColor(c)}">${T.categoryLabel(c)}</button>`
   ).join('');
 
-  const archiveLinkHTML = showArchiveLink
-    ? `<a href="archive/daily/index.html" class="archive-link-btn">
+  const archiveLinkHTML = `<a href="archive/daily/index.html" class="archive-link-btn">
         <span class="lang-ko">📂 전체 아카이브 보기</span>
         <span class="lang-en" style="display:none">📂 View Full Archive</span>
-      </a>`
-    : `<a href="archive/daily/index.html" class="archive-link-btn">
-        <span class="lang-ko">📂 아카이브</span>
-        <span class="lang-en" style="display:none">📂 Archive</span>
       </a>`;
 
   const bodyContent = `
@@ -138,7 +163,7 @@ function buildHomePage() {
   <div class="stats-bar">
     <div class="container">
       <div class="stat">
-        <span class="stat-number">${dailyItems.length}</span>
+        <span class="stat-number">${sortedDaily.length}</span>
         <span class="stat-label lang-ko">전체 뉴스</span>
         <span class="stat-label lang-en" style="display:none">Total News</span>
       </div>
@@ -187,6 +212,7 @@ function buildHomePage() {
         ${dailyCardsHTML || '<p class="empty-state">아직 Daily 콘텐츠가 없습니다.</p>'}
       </div>
 
+      ${loadMoreBtnHTML}
       ${archiveLinkHTML}
     </section>
 
@@ -200,7 +226,20 @@ function buildHomePage() {
       <div class="card-grid card-grid-single">
         ${weeklyCardHTML || '<p class="empty-state">아직 Weekly 콘텐츠가 없습니다.</p>'}
       </div>
-      ${weeklyItems.length > 1 ? `<a href="archive/weekly/index.html" class="archive-link-btn"><span class="lang-ko">📂 지난 Weekly 보기</span><span class="lang-en" style="display:none">📂 View Past Weekly</span></a>` : ''}
+      ${weeklyItems.length > 1 ? `
+      <div class="weekly-past-list">
+        <h4 class="past-list-title">
+          <span class="lang-ko">지난 Digest</span>
+          <span class="lang-en" style="display:none">Past Digests</span>
+        </h4>
+        <div class="archive-list archive-list-compact">
+          ${weeklyItems.slice(1, 4).map(w => T.renderWeeklyListCard(w, `weekly/${w.week}.html`)).join('\n')}
+        </div>
+      </div>
+      <a href="archive/weekly/index.html" class="archive-link-btn">
+        <span class="lang-ko">📂 전체 Weekly 아카이브 (${weeklyItems.length}건)</span>
+        <span class="lang-en" style="display:none">📂 All Weekly Archive (${weeklyItems.length} issues)</span>
+      </a>` : ''}
     </section>
 
     <!-- Monthly Section -->
@@ -213,7 +252,20 @@ function buildHomePage() {
       <div class="card-grid card-grid-single">
         ${monthlyCardHTML || '<p class="empty-state">아직 Monthly 콘텐츠가 없습니다.</p>'}
       </div>
-      ${monthlyItems.length > 1 ? `<a href="archive/monthly/index.html" class="archive-link-btn"><span class="lang-ko">📂 지난 Monthly 보기</span><span class="lang-en" style="display:none">📂 View Past Monthly</span></a>` : ''}
+      ${monthlyItems.length > 1 ? `
+      <div class="monthly-past-list">
+        <h4 class="past-list-title">
+          <span class="lang-ko">지난 Deep Dive</span>
+          <span class="lang-en" style="display:none">Past Deep Dives</span>
+        </h4>
+        <div class="archive-list archive-list-compact">
+          ${monthlyItems.slice(1, 4).map(m => T.renderMonthlyListCard(m, `monthly/${m.month}.html`)).join('\n')}
+        </div>
+      </div>
+      <a href="archive/monthly/index.html" class="archive-link-btn">
+        <span class="lang-ko">📂 전체 Monthly 아카이브 (${monthlyItems.length}건)</span>
+        <span class="lang-en" style="display:none">📂 All Monthly Archive (${monthlyItems.length} issues)</span>
+      </a>` : ''}
     </section>
 
     <!-- Sources Section -->

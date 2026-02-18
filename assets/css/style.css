@@ -884,3 +884,59 @@ time { color: var(--text-tertiary); font-size: 11px; font-weight: 500; }
 ::-webkit-scrollbar-track { background: transparent; }
 ::-webkit-scrollbar-thumb { background: var(--border-strong); border-radius: 3px; }
 ::selection { background: rgba(99, 102, 241, 0.3); color: var(--text-primary); }
+
+/* ══════════ LOAD MORE / SHOW LESS BUTTONS ══════════ */
+.load-more-btn {
+  display: block;
+  margin: 24px auto 12px;
+  padding: 14px 36px;
+  background: var(--accent-indigo-dim);
+  color: var(--accent-indigo-light);
+  border: 1px solid var(--accent-indigo);
+  border-radius: var(--radius-md);
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+.load-more-btn:hover {
+  background: rgba(99, 102, 241, 0.2);
+  transform: translateY(-1px);
+}
+.load-less-btn {
+  background: transparent;
+  border-color: var(--border-default);
+  color: var(--text-secondary);
+}
+.load-less-btn:hover {
+  background: var(--bg-hover);
+  color: var(--text-primary);
+}
+
+/* ══════════ PAST LIST (Weekly/Monthly compact) ══════════ */
+.weekly-past-list,
+.monthly-past-list {
+  margin-top: 24px;
+}
+.past-list-title {
+  font-size: 14px;
+  color: var(--text-secondary);
+  margin-bottom: 12px;
+  font-weight: 500;
+}
+.archive-list-compact {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.archive-list-compact .archive-list-item {
+  padding: 12px 16px;
+  background: var(--bg-elevated);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-sm);
+  transition: all 0.2s ease;
+}
+.archive-list-compact .archive-list-item:hover {
+  border-color: var(--accent-indigo);
+  background: var(--bg-hover);
+}
