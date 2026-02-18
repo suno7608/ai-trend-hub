@@ -1,144 +1,451 @@
 [
   {
-    "title": "Meta&#8217;s new deal with Nvidia buys up millions of AI chips",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips",
+    "title": "Best Apple Watch for 2026",
+    "link": "https://www.cnet.com/tech/mobile/best-apple-watch/",
     "date_published": "2026-02-18",
-    "description": "Meta has struck a multiyear deal to expand its data centers with millions of Nvidia's Grace and Vera CPUs and Blackwell and Rubin GPUs. While Meta has long been using Nvidia's hardware for its AI products, this deal \"represents the first large-scale Nvidia Grace-only deployment,\" which Nvidia says will deliver \"significant performance-per-watt improvements in [Meta's] [&#8230;]",
-    "source_id": "the_verge_ai",
-    "source_name": "The Verge (AI)",
-    "source_url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-    "categories": [
-      "tech"
-    ],
-    "summary_ko": "메타가 엔비디아와 다년간 계약을 체결하여 수백만 개의 Grace, Vera CPU와 Blackwell, Rubin GPU로 데이터센터를 확장한다고 발표했습니다. 이번 계약은 엔비디아 Grace 전용 대규모 배포의 첫 사례로, 메타의 AI 제품 성능 대비 전력 효율성을 크게 개선할 것으로 예상됩니다. 메타는 오랫동안 AI 제품에 엔비디아 하드웨어를 사용해왔지만, 이번 계약은 규모면에서 새로운 이정표가 될 것입니다.",
-    "summary_en": "Meta has signed a multiyear deal with Nvidia to expand its data centers with millions of Grace and Vera CPUs along with Blackwell and Rubin GPUs. This deal represents the first large-scale Nvidia Grace-only deployment and is expected to deliver significant performance-per-watt improvements for Meta's AI products. While Meta has been using Nvidia hardware for AI products, this contract marks a new milestone in terms of scale.",
-    "so_what_ko": "AI 인프라 투자 확대는 D2C 기업들에게 더 정교한 개인화 마케팅과 고객 경험 개선 기회를 제공할 것입니다.",
-    "so_what_en": "Expanded AI infrastructure investment will provide D2C companies with opportunities for more sophisticated personalized marketing and improved customer experiences.",
-    "key_points": [
-      "Meta signs multiyear deal for millions of Nvidia AI chips",
-      "First large-scale Grace-only deployment for performance improvements",
-      "Significant expansion of Meta's AI infrastructure capabilities"
-    ],
-    "tags": [
-      "ai-infrastructure",
-      "nvidia-meta",
-      "data-centers",
-      "ai-chips"
-    ],
-    "confidence": 0.8,
-    "ai_processed": true
-  },
-  {
-    "title": "Is YouTube Down Right Now? Outage Hits Over 800K People According to Downdetector",
-    "link": "https://www.cnet.com/news-live/youtube-down-outage-updates-feb-2026/",
-    "date_published": "2026-02-18",
-    "description": "More than a million people around the world are reporting the popular video site has gone dark. Just in time for Olympics coverage!",
+    "description": "I tested every smartwatch that Apple sells, and here are the best ones to buy based on health features, battery life and your budget.",
     "source_id": "cnet_news",
     "source_name": "CNET",
     "source_url": "https://www.cnet.com/rss/news/",
     "categories": [
       "tech"
     ],
-    "summary_ko": "유튜브가 전 세계적으로 대규모 장애를 겪어 80만 명 이상의 사용자가 접속 문제를 보고했습니다. 다운디텍터에 따르면 실제로는 100만 명 이상이 장애를 경험한 것으로 나타났습니다. 올림픽 중계 시기와 겹쳐 더 많은 관심을 받고 있습니다.",
-    "summary_en": "YouTube experienced a major global outage with over 800,000 users reporting access issues according to Downdetector. The actual number affected was over one million people worldwide experiencing the service disruption. The timing coincided with Olympics coverage, drawing additional attention to the outage.",
-    "so_what_ko": "주요 플랫폼 장애는 D2C 브랜드의 마케팅 채널 다변화 필요성을 보여줍니다.",
-    "so_what_en": "Major platform outages highlight the need for D2C brands to diversify their marketing channels.",
+    "summary_ko": "CNET은 2026년 최고의 애플 워치 가이드를 발표했습니다. 건강 기능, 배터리 수명, 예산을 기준으로 애플이 판매하는 모든 스마트워치를 테스트했습니다. 소비자들의 구매 결정을 돕기 위한 종합적인 평가 결과를 제공했습니다.",
+    "summary_en": "CNET released its 2026 guide for the best Apple Watch models. They tested every smartwatch Apple sells based on health features, battery life, and budget considerations. The comprehensive review aims to help consumers make informed purchasing decisions.",
+    "so_what_ko": "웨어러블 기기 시장에서 건강 기능과 배터리 성능이 핵심 차별화 요소로 자리잡고 있어, D2C 브랜드들도 이러한 기준으로 제품을 개발해야 합니다.",
+    "so_what_en": "Health features and battery performance are becoming key differentiators in wearables, requiring D2C brands to prioritize these aspects in product development.",
     "key_points": [
-      "YouTube suffers global outage affecting over 800K users",
-      "Timing coincides with Olympics coverage period",
-      "Over one million users actually experienced disruption"
+      "Comprehensive testing of Apple's smartwatch lineup",
+      "Focus on health features and battery life as key criteria",
+      "Budget-based recommendations for different consumer segments"
     ],
     "tags": [
-      "youtube-outage",
-      "platform-reliability",
-      "service-disruption"
-    ],
-    "confidence": 0.7,
-    "ai_processed": true
-  },
-  {
-    "title": "5 Dietitian-Approved Air Fryer Recipes for Quick Meals and Snacks",
-    "link": "https://www.cnet.com/health/nutrition/healthiest-air-fryer-foods-according-registered-dietitians/",
-    "date_published": "2026-02-18",
-    "description": "We asked registered dietitians for their top healthy air fryer recipes. Their picks are perfect for easy meals.",
-    "source_id": "cnet_news",
-    "source_name": "CNET",
-    "source_url": "https://www.cnet.com/rss/news/",
-    "categories": [
-      "marketing"
-    ],
-    "summary_ko": "CNET이 영양사들이 승인한 에어프라이어 요리 5가지를 소개했습니다. 등록된 영양사들이 추천한 건강한 에어프라이어 레시피들로 간편한 식사와 간식 준비에 적합합니다. 이들의 추천 메뉴는 쉽고 빠른 요리를 원하는 사람들에게 완벽한 선택입니다.",
-    "summary_en": "CNET featured 5 dietitian-approved air fryer recipes for healthy cooking. The recommendations come from registered dietitians focusing on nutritious air fryer recipes suitable for quick meals and snacks. These picks are perfect for people seeking easy and fast cooking solutions.",
-    "so_what_ko": "건강한 요리 콘텐츠는 D2C 가전 브랜드들이 제품 활용도를 높이고 고객 충성도를 강화하는 콘텐츠 마케팅 전략으로 활용 가능합니다.",
-    "so_what_en": "Healthy cooking content can be leveraged by D2C appliance brands as content marketing strategy to increase product utilization and strengthen customer loyalty.",
-    "key_points": [
-      "Features 5 dietitian-approved air fryer recipes",
-      "Focus on healthy, quick meal preparation",
-      "Content aimed at easy cooking solutions"
-    ],
-    "tags": [
-      "air-fryer-recipes",
-      "health-content",
-      "kitchen-appliances",
-      "content-marketing"
+      "smartwatch",
+      "apple-watch",
+      "wearables",
+      "product-review"
     ],
     "confidence": 0.6,
     "ai_processed": true
   },
   {
-    "title": "Google Pixel 10A Rumors: Wednesday Reveal, New Colors, Preorders",
-    "link": "https://www.cnet.com/news-live/google-pixel-10a/",
-    "date_published": "2026-02-18",
-    "description": "While last year&#039;s Pixel 9A went on sale in April, the latest in Google&#039;s cheaper A series will launch on Wednesday.",
-    "source_id": "cnet_news",
-    "source_name": "CNET",
-    "source_url": "https://www.cnet.com/rss/news/",
+    "title": "Low-Value Imports Upend E.U. Ecommerce",
+    "link": "https://www.practicalecommerce.com/low-value-imports-upend-e-u-ecommerce",
+    "date_published": "2026-02-17",
+    "description": "The surge in imports valued at €150 or less is reshaping the region's online retailing.\nThe post Low-Value Imports Upend E.U. Ecommerce appeared first on Practical Ecommerce.",
+    "source_id": "practical_ecommerce",
+    "source_name": "Practical Ecommerce",
+    "source_url": "https://www.practicalecommerce.com/feed",
     "categories": [
-      "tech"
+      "commerce"
     ],
-    "summary_ko": "구글 픽셀 10A에 대한 소문들이 나오고 있으며, 수요일 공개와 새로운 색상, 사전주문 가능성이 언급되고 있습니다. 작년 픽셀 9A가 4월에 출시된 것과 달리, 구글의 저가형 A 시리즈 최신작은 수요일에 출시될 예정입니다. 이는 구글의 보급형 스마트폰 라인업에서 새로운 변화를 보여줍니다.",
-    "summary_en": "Rumors are circulating about Google Pixel 10A with a potential Wednesday reveal, new colors, and preorder availability. Unlike last year's Pixel 9A which went on sale in April, the latest in Google's cheaper A series is expected to launch on Wednesday. This represents a new shift in Google's budget smartphone lineup timing.",
-    "so_what_ko": "구글의 보급형 스마트폰 조기 출시는 D2C 전자제품 브랜드들에게 제품 출시 타이밍 전략 재검토 필요성을 시사합니다.",
-    "so_what_en": "Google's earlier budget smartphone launch suggests D2C electronics brands need to reconsider their product launch timing strategies.",
+    "summary_ko": "유럽 전자상거래 시장에서 150유로 이하 저가 수입품의 급증이 온라인 소매업계를 재편하고 있습니다. 이러한 저가 상품의 유입이 기존 유럽 전자상거래 생태계에 큰 변화를 가져오고 있습니다. 온라인 소매업체들은 새로운 경쟁 환경에 적응해야 하는 상황입니다.",
+    "summary_en": "The surge in imports valued at €150 or less is reshaping Europe's online retail landscape. This influx of low-value goods is causing significant changes to the existing EU ecommerce ecosystem. Online retailers must adapt to this new competitive environment.",
+    "so_what_ko": "저가 수입품의 급증으로 유럽 D2C 브랜드들은 가격 경쟁력 강화와 차별화된 가치 제안이 필요합니다.",
+    "so_what_en": "The surge in low-value imports requires European D2C brands to enhance price competitiveness and develop differentiated value propositions.",
     "key_points": [
-      "Google Pixel 10A rumors suggest Wednesday reveal",
-      "Earlier launch timing compared to previous A series",
-      "New colors and preorder options expected"
+      "€150 threshold creating new import dynamics",
+      "Reshaping of EU online retail landscape",
+      "Increased competition from low-value imports"
     ],
     "tags": [
-      "google-pixel",
-      "smartphone-launch",
-      "budget-devices",
-      "product-rumors"
+      "eu-ecommerce",
+      "import-regulations",
+      "low-value-goods",
+      "market-disruption"
     ],
     "confidence": 0.7,
     "ai_processed": true
   },
   {
-    "title": "Apple&#039;s Trio of AI Wearables Could Arrive as Soon as Next Year",
-    "link": "https://www.cnet.com/tech/mobile/apples-trio-of-ai-wearables-could-arrive-as-soon-as-next-year/",
-    "date_published": "2026-02-18",
-    "description": "Apple has glasses, AirPods and an AI pin in the works, according to the latest report from Bloomberg. And they&#039;ll all likely work with Apple&#039;s next wave of Google-infused AI.",
-    "source_id": "cnet_news",
-    "source_name": "CNET",
-    "source_url": "https://www.cnet.com/rss/news/",
+    "title": "Genuine Parts split will accelerate B2B digital strategy",
+    "link": "https://www.digitalcommerce360.com/2026/02/17/genuine-parts-split-separate-automotive-motion/",
+    "date_published": "2026-02-17",
+    "description": "Genuine Parts Co.’s decision to separate its automotive and industrial operations into two publicly traded companies is poised to sharpen its B2B ecommerce focus across both sectors. The Atlanta-based distributor said it expects to complete the tax-free separation in the first quarter of 2027. That would create an independent Global Automotive company and a standalone [&#8230;]\nThe post Genuine Parts split will accelerate B2B digital strategy appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
     "categories": [
-      "tech"
+      "commerce",
+      "strategy"
     ],
-    "summary_ko": "애플이 내년에 AI 웨어러블 3종 세트를 출시할 가능성이 있다고 블룸버그가 보도했습니다. 애플은 안경, 에어팟, AI 핀을 개발 중이며, 이들 제품은 모두 구글 기반 AI가 탑재된 애플의 차세대 AI 웨이브와 연동될 것으로 예상됩니다. 이는 애플의 웨어러블 생태계 확장을 보여주는 중요한 신호입니다.",
-    "summary_en": "Apple could launch a trio of AI wearables as soon as next year, according to Bloomberg's latest report. Apple is working on glasses, AirPods, and an AI pin, all expected to work with Apple's next wave of Google-infused AI. This represents a significant expansion of Apple's wearable ecosystem.",
-    "so_what_ko": "애플의 AI 웨어러블 확장은 D2C 웨어러블 브랜드들에게 AI 통합 제품 개발과 생태계 구축 전략의 중요성을 보여줍니다.",
-    "so_what_en": "Apple's AI wearable expansion highlights the importance of AI-integrated product development and ecosystem building strategies for D2C wearable brands.",
+    "summary_ko": "Genuine Parts Co.는 자동차 부문과 산업 부문을 두 개의 공개 거래 회사로 분할할 예정입니다. 2027년 1분기 완료 예정인 이번 분할은 B2B 전자상거래 전략에 집중할 수 있게 해줄 것입니다. 독립적인 글로벌 자동차 회사와 독립형 산업 회사가 각각 탄생할 예정입니다.",
+    "summary_en": "Genuine Parts Co. plans to separate its automotive and industrial operations into two publicly traded companies. The tax-free separation, expected to complete in Q1 2027, will sharpen B2B ecommerce focus across both sectors. This will create an independent Global Automotive company and a standalone industrial company.",
+    "so_what_ko": "기업 분할을 통한 전문화는 각 부문별 B2B 디지털 전략 강화를 가능하게 하여, 타겟 시장에 특화된 서비스 개발이 핵심이 됩니다.",
+    "so_what_en": "Corporate separation enabling specialization allows for enhanced B2B digital strategies, making target market-specific service development crucial.",
     "key_points": [
-      "Apple developing trio of AI wearables for potential next year launch",
-      "Products include glasses, AirPods, and AI pin",
-      "Integration with Google-infused AI technology"
+      "Separation into automotive and industrial companies",
+      "Expected completion in Q1 2027",
+      "Enhanced B2B ecommerce focus for both sectors"
     ],
     "tags": [
-      "apple-wearables",
-      "ai-integration",
-      "smart-glasses",
-      "wearable-ecosystem"
+      "b2b-commerce",
+      "corporate-restructuring",
+      "digital-strategy",
+      "specialization"
+    ],
+    "confidence": 0.8,
+    "ai_processed": true
+  },
+  {
+    "title": "Radial launches new Commerce Solutions services for payments and fraud prevention",
+    "link": "https://www.digitalcommerce360.com/2026/02/17/radial-launches-commerce-solutions-services/",
+    "date_published": "2026-02-17",
+    "description": "The fulfillment services and third-party logistics (3PL) provider Radial is adding new payments and fraud prevention options to its portfolio with the launch of Radial Commerce Solutions. Radial — which is in the process of transitioning its identity within the 3PL business unit paxon under the Belgium-based parent company bnode (formerly bpostgroup) — sees the [&#8230;]\nThe post Radial launches new Commerce Solutions services for payments and fraud prevention appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
+    "categories": [
+      "commerce"
+    ],
+    "summary_ko": "물류 서비스 및 3PL 제공업체인 Radial이 Radial Commerce Solutions를 출시하여 결제 및 사기 방지 옵션을 포트폴리오에 추가했습니다. 이 회사는 벨기에 모회사 bnode 산하에서 paxon으로 브랜드 전환을 진행 중입니다. 새로운 서비스는 기존 물류 서비스를 보완하는 종합적인 커머스 솔루션을 제공합니다.",
+    "summary_en": "Fulfillment services and 3PL provider Radial launched Radial Commerce Solutions, adding new payments and fraud prevention options to its portfolio. The company is transitioning its identity to paxon under Belgium-based parent company bnode. The new services complement existing logistics offerings with comprehensive commerce solutions.",
+    "so_what_ko": "물류업체들이 결제와 보안 서비스까지 확장하는 추세로, D2C 기업들은 통합 솔루션 파트너 선택이 중요해지고 있습니다.",
+    "so_what_en": "As logistics providers expand into payments and security services, choosing integrated solution partners becomes crucial for D2C companies.",
+    "key_points": [
+      "Expansion from logistics into payments and fraud prevention",
+      "Brand transition under new parent company structure",
+      "Comprehensive commerce solution approach"
+    ],
+    "tags": [
+      "logistics",
+      "payment-solutions",
+      "fraud-prevention",
+      "3pl-services"
+    ],
+    "confidence": 0.8,
+    "ai_processed": true
+  },
+  {
+    "title": "Protolabs launches ProDesk to expand AI quoting and production management",
+    "link": "https://www.digitalcommerce360.com/2026/02/17/protolabs-launches-prodesk-ai-quoting-production-management/",
+    "date_published": "2026-02-17",
+    "description": "Protolabs has introduced ProDesk, a new online platform, aimed at product development and procurement teams. The company said ProDesk combines automated quoting, artificial intelligence (AI)-powered design analysis and order management tools. It said ProDesk integrates real-time quoting with design for manufacturability, or DFM, analysis across its core services. Protolabs is a Minnesota-based digital manufacturer. Its [&#8230;]\nThe post Protolabs launches ProDesk to expand AI quoting and production management appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
+    "categories": [
+      "tech",
+      "commerce"
+    ],
+    "summary_ko": "미네소타 기반 디지털 제조업체 Protolabs가 ProDesk라는 새로운 온라인 플랫폼을 출시했습니다. 이 플랫폼은 자동화된 견적, AI 기반 설계 분석, 주문 관리 도구를 결합한 제품입니다. 실시간 견적과 제조 가능성 설계 분석을 핵심 서비스에 통합했습니다.",
+    "summary_en": "Minnesota-based digital manufacturer Protolabs introduced ProDesk, a new online platform targeting product development and procurement teams. The platform combines automated quoting, AI-powered design analysis, and order management tools. It integrates real-time quoting with design for manufacturability analysis across core services.",
+    "so_what_ko": "AI 기반 자동 견적과 설계 분석 도구의 도입은 B2B 제조업에서 고객 경험 향상과 운영 효율성 증대를 동시에 실현하는 모델을 제시합니다.",
+    "so_what_en": "AI-powered automated quoting and design analysis tools demonstrate how B2B manufacturing can simultaneously enhance customer experience and operational efficiency.",
+    "key_points": [
+      "AI-powered design analysis and automated quoting",
+      "Integrated order management system",
+      "Real-time manufacturability analysis"
+    ],
+    "tags": [
+      "ai-quoting",
+      "manufacturing",
+      "b2b-platform",
+      "design-analysis"
+    ],
+    "confidence": 0.8,
+    "ai_processed": true
+  },
+  {
+    "title": "Salesforce to acquire Cimulate in agentic commerce expansion",
+    "link": "https://www.digitalcommerce360.com/2026/02/17/salesforce-acquisition-cimulate-agentic-commerce/",
+    "date_published": "2026-02-17",
+    "description": "Salesforce has signed a definitive acquisition agreement for Cimulate, an artificial intelligence (AI)-powered product discovery startup. The move aims at strengthening Salesforce&#8217;s commerce technology and expanding its push into agent-driven retail experiences. The companies did not disclose financial terms. They expect to close the transaction in the first quarter of Salesforce’s fiscal year 2027, subject [&#8230;]\nThe post Salesforce to acquire Cimulate in agentic commerce expansion appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
+    "categories": [
+      "commerce",
+      "tech"
+    ],
+    "summary_ko": "세일즈포스가 AI 기반 상품 발견 스타트업 Cimulate를 인수한다고 발표했습니다. 이번 인수는 세일즈포스의 커머스 기술 강화와 에이전트 기반 리테일 경험 확장을 목표로 합니다. 거래는 2027년 1분기에 완료될 예정입니다.",
+    "summary_en": "Salesforce announced the acquisition of Cimulate, an AI-powered product discovery startup. The acquisition aims to strengthen Salesforce's commerce technology and expand into agent-driven retail experiences. The transaction is expected to close in Q1 of fiscal year 2027.",
+    "so_what_ko": "AI 기반 상품 발견 기술이 D2C 브랜드의 핵심 경쟁력이 되고 있어, 개인화된 쇼핑 경험 제공을 위한 기술 투자가 필요합니다.",
+    "so_what_en": "AI-powered product discovery is becoming critical for D2C brands, requiring investment in personalized shopping experience technologies.",
+    "key_points": [
+      "Salesforce acquires AI product discovery startup Cimulate",
+      "Focus on strengthening commerce technology capabilities",
+      "Expansion into agent-driven retail experiences",
+      "Transaction completion expected in Q1 FY2027"
+    ],
+    "tags": [
+      "salesforce",
+      "ai-commerce",
+      "product-discovery",
+      "agentic-retail"
+    ],
+    "confidence": 0.8,
+    "ai_processed": true
+  },
+  {
+    "title": "Pat McGrath Labs secures $30M financing",
+    "link": "https://www.retaildive.com/news/pat-mcgrath-labs-secures-30m-financing-existing-lender/812318/",
+    "date_published": "2026-02-17",
+    "description": "&lt;figure&gt;&lt;div&gt;&lt;img src=\"https://imgproxy.divecdn.com/UXloM6hUWXjN25UYUncA09z9nEBko7Ls2tTPMqFabrA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QTUdfR19TY2FmZm9sZGluZ18wMS5qcGc=.webp\"/&gt;&lt;/div&gt;&lt;/figure&gt;&lt;p&gt;The fresh capital comes from an existing lender. Meanwhile, founder Patricia McGrath will become chief creative officer as part of a Chapter 11 restructuring deal.&lt;/p&gt;",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "summary_ko": "뷰티 브랜드 Pat McGrath Labs가 기존 대출기관으로부터 3천만 달러의 자금을 확보했습니다. 창립자 Patricia McGrath는 Chapter 11 구조조정 과정에서 최고 크리에이티브 책임자가 됩니다. 이는 회사 재정 구조 개선을 위한 조치입니다.",
+    "summary_en": "Beauty brand Pat McGrath Labs secured $30 million in financing from an existing lender. Founder Patricia McGrath will become chief creative officer as part of a Chapter 11 restructuring deal. This represents efforts to improve the company's financial structure.",
+    "so_what_ko": "D2C 뷰티 브랜드도 경제 불확실성 속에서 재정 구조조정이 필요할 수 있어, 건전한 자금 관리와 다각화 전략이 중요합니다.",
+    "so_what_en": "D2C beauty brands may need financial restructuring amid economic uncertainty, highlighting the importance of sound financial management and diversification strategies.",
+    "key_points": [
+      "$30M financing secured from existing lender",
+      "Chapter 11 restructuring process underway",
+      "Founder transitions to chief creative officer role",
+      "Focus on financial structure improvement"
+    ],
+    "tags": [
+      "beauty-brand",
+      "financing",
+      "restructuring",
+      "pat-mcgrath-labs"
+    ],
+    "confidence": 0.7,
+    "ai_processed": true
+  },
+  {
+    "title": "Kohl’s launches ‘Deal Bar’ in all stores",
+    "link": "https://www.retaildive.com/news/kohls-launches-deal-bar-all-stores/812303/",
+    "date_published": "2026-02-17",
+    "description": "&lt;figure&gt;&lt;div&gt;&lt;img src=\"https://imgproxy.divecdn.com/yQhfkv8lJDusbu7C7Xt0ZtXLjEwmkEZFKP-mZHbUNiE/g:nowe:1:21/c:1277:721/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9rb2hsc19zZXBob3JhXzEuanBlZw==.webp\"/&gt;&lt;/div&gt;&lt;/figure&gt;&lt;p&gt;The front-of-store collection of items under $10 could appeal to the department store&amp;rsquo;s financially constrained customers, but is it enough?&lt;/p&gt;",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "summary_ko": "콜스가 전 매장에 10달러 이하 상품을 모은 'Deal Bar'를 출시했습니다. 이는 매장 전면에 위치한 저가 상품 컬렉션입니다. 경제적으로 제약을 받는 고객층에게 어필하기 위한 전략으로 보입니다.",
+    "summary_en": "Kohl's launched 'Deal Bar' featuring items under $10 in all stores. This front-of-store collection targets financially constrained customers. The initiative represents a strategy to appeal to budget-conscious shoppers.",
+    "so_what_ko": "경제 불확실성 시기에 저가 상품 라인업은 고객 유지에 중요한 전략이 될 수 있어, D2C 브랜드도 가격대별 상품 포트폴리오를 고려해야 합니다.",
+    "so_what_en": "Low-price product lineups can be crucial for customer retention during economic uncertainty, suggesting D2C brands should consider price-tiered product portfolios.",
+    "key_points": [
+      "Launch of 'Deal Bar' with items under $10",
+      "Front-of-store positioning for maximum visibility",
+      "Targeting financially constrained customers",
+      "Rollout across all Kohl's stores"
+    ],
+    "tags": [
+      "kohls",
+      "deal-bar",
+      "low-price-strategy",
+      "budget-shopping"
+    ],
+    "confidence": 0.6,
+    "ai_processed": true
+  },
+  {
+    "title": "6 brands to watch in 2026",
+    "link": "https://www.retaildive.com/news/brands-watch-2026-skims-tecovas-fp-movement/812225/",
+    "date_published": "2026-02-17",
+    "description": "&lt;p&gt;From Mango to Cyklar, legacy and emerging brands alike are leaning on physical retail to win over customers.&lt;/p&gt;",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "summary_ko": "2026년 주목할 브랜드들이 소개되었습니다. Skims, Tecovas, FP Movement 등 다양한 브랜드가 포함되었습니다. 기존 브랜드와 신규 브랜드 모두 고객 확보를 위해 오프라인 리테일에 의존하고 있습니다.",
+    "summary_en": "Six brands to watch in 2026 were highlighted, including various emerging and legacy brands. From Mango to Cyklar, brands are focusing on physical retail presence. Both established and new brands are leveraging offline stores to win customers.",
+    "so_what_ko": "D2C 브랜드들이 온라인에서 오프라인으로 확장하는 추세가 지속되고 있어, 옴니채널 전략과 물리적 매장 경험이 중요한 차별화 요소가 됩니다.",
+    "so_what_en": "The trend of D2C brands expanding from online to offline continues, making omnichannel strategies and physical store experiences key differentiators.",
+    "key_points": [
+      "Focus on emerging and legacy brands for 2026",
+      "Physical retail as key customer acquisition strategy",
+      "Both new and established brands leveraging offline presence",
+      "Emphasis on winning customers through retail experiences"
+    ],
+    "tags": [
+      "brand-trends",
+      "physical-retail",
+      "omnichannel",
+      "customer-acquisition"
+    ],
+    "confidence": 0.5,
+    "ai_processed": true
+  },
+  {
+    "title": "DTC rug brand Ernesta opens Dallas showroom",
+    "link": "https://www.retaildive.com/news/dtc-rug-brand-ernesta-opens-dallas-showroom/812240/",
+    "date_published": "2026-02-17",
+    "description": "&lt;figure&gt;&lt;div&gt;&lt;img src=\"https://imgproxy.divecdn.com/gHeKLrbmVV_anoD-0KSuFaIMQhKYjoNEx2hVeoM0rio/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Fcm5lc3RhX1Nob3dyb29tX1dhbGtlcjIuanBn.webp\"/&gt;&lt;/div&gt;&lt;/figure&gt;&lt;p&gt;The 1,256-square-foot space, which features an area for one-on-one consultations, marks the brand&amp;rsquo;s sixth store.&lt;/p&gt;",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "commerce"
+    ],
+    "summary_ko": "DTC 러그 브랜드 Ernesta가 달라스에 쇼룸을 오픈했습니다. 1,256 평방피트 규모의 공간에는 1대1 상담 구역이 마련되어 있습니다. 이는 브랜드의 6번째 매장입니다.",
+    "summary_en": "DTC rug brand Ernesta opened a showroom in Dallas. The 1,256-square-foot space features an area for one-on-one consultations. This marks the brand's sixth store location.",
+    "so_what_ko": "DTC 브랜드의 쇼룸 모델은 고관여 제품에 효과적이며, 개인 맞춤 상담 서비스를 통해 고객 경험과 전환율을 높일 수 있습니다.",
+    "so_what_en": "The showroom model is effective for high-involvement DTC products, enhancing customer experience and conversion rates through personalized consultation services.",
+    "key_points": [
+      "Sixth store opening for DTC rug brand Ernesta",
+      "1,256-square-foot showroom space in Dallas",
+      "Features one-on-one consultation area",
+      "Focus on personalized customer service"
+    ],
+    "tags": [
+      "dtc-brand",
+      "showroom",
+      "consultation-service",
+      "physical-expansion"
+    ],
+    "confidence": 0.7,
+    "ai_processed": true
+  },
+  {
+    "title": "Chubbies launches women’s swimwear brand",
+    "link": "https://www.retaildive.com/news/chubbies-launches-womens-swimwear-brand-cheekies/812246/",
+    "date_published": "2026-02-17",
+    "description": "&lt;figure&gt;&lt;div&gt;&lt;img src=\"https://imgproxy.divecdn.com/gOzzArX-ITo0WRkvcTD4XIZ5NFkueJOpqoDRDF0Tat8/g:nowe:448:201/c:1701:961/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DaHViYmllcy5qcGc=.webp\"/&gt;&lt;/div&gt;&lt;/figure&gt;&lt;p&gt;The stand-alone brand, dubbed Cheekies, launches with bikinis, one-piece suits and cover ups priced between $45 and $110.&lt;/p&gt;",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "commerce"
+    ],
+    "summary_ko": "남성 수영복 브랜드 Chubbies가 여성 수영복 브랜드 Cheekies를 런칭했습니다. 새로운 독립 브랜드는 비키니, 원피스 수영복, 커버업을 45-110달러 가격대로 출시합니다. 기존 남성 브랜드에서 여성 시장으로 확장하는 브랜드 포트폴리오 전략을 보여줍니다.",
+    "summary_en": "Men's swimwear brand Chubbies launched a women's swimwear brand called Cheekies. The standalone brand offers bikinis, one-piece suits, and cover-ups priced between $45 and $110. This represents a brand portfolio expansion strategy from the existing men's brand into the women's market.",
+    "so_what_ko": "D2C 브랜드는 성공한 카테고리에서 새로운 타겟 세그먼트로 확장할 때 독립적인 브랜드 런칭을 고려할 수 있습니다.",
+    "so_what_en": "D2C brands can consider launching independent brands when expanding from successful categories to new target segments.",
+    "key_points": [
+      "Chubbies launches women's swimwear brand Cheekies",
+      "Product range includes bikinis, one-pieces, and cover-ups",
+      "Price point ranges from $45 to $110",
+      "Standalone brand strategy for market expansion"
+    ],
+    "tags": [
+      "brand-expansion",
+      "swimwear",
+      "d2c-launch",
+      "market-expansion"
+    ],
+    "confidence": 0.8,
+    "ai_processed": true
+  },
+  {
+    "title": "#197: Something Big Is Happening, Claude Safety Risks, AI for Customer Success &amp; High-Profile Resignations",
+    "link": "",
+    "date_published": "2026-02-17",
+    "description": "Is the AI disruption we’ve been discussing more prominent than ever? Hosts Paul Roetzer and Mike Kaput dissect Matt Shumer’s viral \"Something Big Is Happening\" essay and a new sabotage report from Anthropic. We break down the latest departures from OpenAI and xAI, the delay of OpenAI’s device, and how AI is intensifying (not lightening) the modern workload.\n\nShow Notes: Access the show notes and show links here\n\nClick here to take this week's AI Pulse.\n\nTimestamps:\n\n00:00:00 — Intro\n\n00:05:51 — AI Pulse Survey\n\n00:07:58 — Something Big Is Happening\n\n00:27:06 — Claude Safety Risks\n\n00:46:37 — Academy Success Score\n\n01:03:33 — High Profile AI Resignations\n\n01:06:55 — OpenAI’s Changing Hardware Plans\n\n01:09:17 — Does AI Actually Intensify Work?\n\nThis week’s episode is sponsored by our 2026 State of AI Report.\n\nThis year, we’re going beyond marketing-specific research to uncover how AI is being adopted and utilized across the organization, and we need your help to create the most comprehen",
+    "source_id": "marketing_ai_show",
+    "source_name": "The Marketing AI Show (Podcast)",
+    "source_url": "https://feeds.megaphone.fm/marketingai",
+    "categories": [
+      "marketing"
+    ],
+    "summary_ko": "Marketing AI Show 팟캐스트에서 AI 혁신의 가속화와 Claude의 안전성 위험에 대해 논의했습니다. OpenAI와 xAI의 고위직 퇴사, OpenAI 디바이스 출시 연기 등 AI 업계 동향을 분석했습니다. AI가 업무 부하를 줄이기보다는 오히려 증가시키고 있다는 점도 다뤘습니다.",
+    "summary_en": "The Marketing AI Show podcast discussed the acceleration of AI disruption and Claude's safety risks. The show analyzed AI industry trends including high-profile departures from OpenAI and xAI, and OpenAI's device launch delay. They also covered how AI is intensifying rather than lightening modern workloads.",
+    "so_what_ko": "마케팅 팀은 AI 도입 시 업무량 증가와 안전성 리스크를 고려해야 하며, 업계 변화에 대한 지속적인 모니터링이 필요합니다.",
+    "so_what_en": "Marketing teams should consider increased workload and safety risks when adopting AI, requiring continuous monitoring of industry changes.",
+    "key_points": [
+      "Discussion of accelerating AI disruption in marketing",
+      "Analysis of Claude safety risks and limitations",
+      "Coverage of high-profile AI industry departures",
+      "AI intensifying rather than reducing workloads"
+    ],
+    "tags": [
+      "ai-trends",
+      "marketing-ai",
+      "industry-analysis",
+      "podcast"
+    ],
+    "confidence": 0.7,
+    "ai_processed": true
+  },
+  {
+    "title": "Generative engine optimization for small business: How to win with a small budget in 2026",
+    "link": "https://blog.hubspot.com/marketing/generative-engine-optimization-small-business",
+    "date_published": "2026-02-17",
+    "description": "&lt;div class=\"hs-featured-image-wrapper\"&gt; \r\n &lt;a href=\"https://blog.hubspot.com/marketing/generative-engine-optimization-small-business\" title=\"\" class=\"hs-featured-image-link\"&gt; &lt;img src=\"https://53.fs1.hubspotusercontent-na1.net/hubfs/53/geo-for-small-business-featured.png\" alt=\"geo for small businesses\" class=\"hs-featured-image\" style=\"width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;\"&gt; &lt;/a&gt; \r\n&lt;/div&gt; \r\n&lt;p&gt;&lt;a href=\"https://blog.hubspot.com/marketing/generative-engine-optimization-small-business\"&gt;&lt;/a&gt;In a past work life, I stole search rank positions #1 and zero and even featured snippets from much larger companies, including HubSpot. That’s why I firmly believe bootstrapped small-to-medium-sized businesses (SMB) can compete with big-budget corporations.&lt;/p&gt; \r\n&lt;p&gt;Strategies like SEO, social media, and generative engine optimization for small business make it possible.&lt;/p&gt;",
+    "source_id": "hubspot_marketing",
+    "source_name": "HubSpot Marketing Blog",
+    "source_url": "https://blog.hubspot.com/marketing/rss.xml",
+    "categories": [
+      "marketing"
+    ],
+    "summary_ko": "HubSpot 마케팅 블로그에서 소규모 비즈니스를 위한 생성형 엔진 최적화(GEO) 전략을 소개했습니다. 작은 예산으로도 대기업과 경쟁할 수 있는 방법을 제시하며, SEO, 소셜미디어, GEO를 활용한 전략을 강조했습니다. 과거 대기업들로부터 검색 순위 1위와 featured snippets을 차지한 사례를 바탕으로 실현 가능성을 입증했습니다.",
+    "summary_en": "HubSpot Marketing Blog introduced generative engine optimization (GEO) strategies for small businesses. The article presents methods for competing with large corporations on small budgets, emphasizing strategies using SEO, social media, and GEO. It demonstrates feasibility based on past cases of securing #1 search rankings and featured snippets from major companies.",
+    "so_what_ko": "중소규모 D2C 브랜드는 생성형 엔진 최적화를 통해 큰 예산 없이도 대기업과 경쟁할 수 있는 디지털 마케팅 기회를 확보할 수 있습니다.",
+    "so_what_en": "Small-to-medium D2C brands can secure digital marketing opportunities to compete with large corporations without big budgets through generative engine optimization.",
+    "key_points": [
+      "Generative engine optimization for small business budgets",
+      "Strategies to compete with larger corporations",
+      "Integration of SEO, social media, and GEO tactics",
+      "Proven success in winning search rankings from major companies"
+    ],
+    "tags": [
+      "geo",
+      "small-business",
+      "search-optimization",
+      "budget-marketing"
+    ],
+    "confidence": 0.8,
+    "ai_processed": true
+  },
+  {
+    "title": "EXCLUSIVE: McCann Wins Kroger&#8217;s US Creative Business",
+    "link": "https://www.adweek.com/agencies/exclusive-mccann-wins-krogers-us-creative-business/",
+    "date_published": "2026-02-17",
+    "description": "Kroger U.S. has named McCann as its creative agency of record, the agency confirmed to ADWEEK. The grocery retailer is one of over a dozen banners owned by The Kroger [&hellip;]",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
+    "categories": [
+      "marketing"
+    ],
+    "summary_ko": "미국 대형 식료품 체인 Kroger가 McCann을 미국 크리에이티브 대행사로 선정했다고 Adweek가 단독 보도했습니다. Kroger는 12개 이상의 브랜드를 보유한 대형 식료품 유통업체입니다. 이는 주요 소매업체의 마케팅 에이전시 변경 사례입니다.",
+    "summary_en": "Major US grocery chain Kroger has named McCann as its creative agency of record, exclusively reported by Adweek. Kroger is a large grocery retailer that owns over a dozen banners. This represents a significant marketing agency change for a major retailer.",
+    "so_what_ko": "대형 소매업체들의 에이전시 변경은 마케팅 트렌드 변화를 시사하며, D2C 브랜드도 성장에 따른 에이전시 파트너십 전략을 고려해야 합니다.",
+    "so_what_en": "Agency changes by major retailers indicate shifting marketing trends, and D2C brands should consider agency partnership strategies as they grow.",
+    "key_points": [
+      "Kroger selects McCann as creative agency of record",
+      "Major grocery retailer with 12+ brand banners",
+      "Significant agency account win for McCann",
+      "Exclusive reporting by Adweek"
+    ],
+    "tags": [
+      "agency-win",
+      "grocery-retail",
+      "creative-services",
+      "account-change"
+    ],
+    "confidence": 0.7,
+    "ai_processed": true
+  },
+  {
+    "title": "AI Isn&#8217;t Cutting Marketing Jobs—But It Is Making Them Harder",
+    "link": "https://www.adweek.com/brand-marketing/ai-making-marketing-jobs-harder/",
+    "date_published": "2026-02-17",
+    "description": "New data shows layoffs attributed to AI remain limited, even as expectations for faster, higher-volume output have risen.",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
+    "categories": [
+      "marketing"
+    ],
+    "summary_ko": "Adweek 보고서에 따르면 AI로 인한 마케팅 직업 감축은 제한적이지만, 업무 난이도는 증가하고 있습니다. AI 도입으로 더 빠르고 많은 양의 결과물에 대한 기대치가 높아졌습니다. 새로운 데이터는 AI가 일자리를 줄이기보다는 업무를 더 어렵게 만들고 있음을 보여줍니다.",
+    "summary_en": "According to an Adweek report, layoffs attributed to AI in marketing remain limited, but job difficulty is increasing. AI adoption has raised expectations for faster, higher-volume output. New data shows AI is making jobs harder rather than eliminating them.",
+    "so_what_ko": "D2C 마케팅 팀은 AI 도입 시 직원 해고보다는 업무 강도 증가와 성과 기대치 상승에 대비해야 하며, 적절한 워크로드 관리가 필요합니다.",
+    "so_what_en": "D2C marketing teams should prepare for increased work intensity and performance expectations rather than layoffs when adopting AI, requiring proper workload management.",
+    "key_points": [
+      "Limited AI-attributed marketing job layoffs",
+      "Increased expectations for faster, higher-volume output",
+      "AI making marketing jobs more challenging",
+      "Rising performance standards in AI-enabled workplaces"
+    ],
+    "tags": [
+      "ai-impact",
+      "marketing-jobs",
+      "workforce-trends",
+      "productivity-expectations"
     ],
     "confidence": 0.8,
     "ai_processed": true
