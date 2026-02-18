@@ -1,11 +1,74 @@
 {
-  "generated_at": "2026-02-18T03:06:57.569Z",
+  "generated_at": "2026-02-18T03:20:09.504Z",
   "counts": {
-    "daily": 11,
+    "daily": 16,
     "weekly": 1,
     "monthly": 1
   },
   "daily": [
+    {
+      "id": "daily_20260218_004",
+      "title": "5 Dietitian-Approved Air Fryer Recipes for Quick Meals and Snacks",
+      "date_published": "2026-02-18",
+      "source_name": "CNET",
+      "categories": [
+        "marketing"
+      ],
+      "tags": [
+        "air-fryer-recipes",
+        "health-content",
+        "kitchen-appliances",
+        "content-marketing"
+      ],
+      "canonical_url": "https://www.cnet.com/health/nutrition/healthiest-air-fryer-foods-according-registered-dietitians/"
+    },
+    {
+      "id": "daily_20260218_006",
+      "title": "Apple&#039;s Trio of AI Wearables Could Arrive as Soon as Next Year",
+      "date_published": "2026-02-18",
+      "source_name": "CNET",
+      "categories": [
+        "tech"
+      ],
+      "tags": [
+        "apple-wearables",
+        "ai-integration",
+        "smart-glasses",
+        "wearable-ecosystem"
+      ],
+      "canonical_url": "https://www.cnet.com/tech/mobile/apples-trio-of-ai-wearables-could-arrive-as-soon-as-next-year/"
+    },
+    {
+      "id": "daily_20260218_005",
+      "title": "Google Pixel 10A Rumors: Wednesday Reveal, New Colors, Preorders",
+      "date_published": "2026-02-18",
+      "source_name": "CNET",
+      "categories": [
+        "tech"
+      ],
+      "tags": [
+        "google-pixel",
+        "smartphone-launch",
+        "budget-devices",
+        "product-rumors"
+      ],
+      "canonical_url": "https://www.cnet.com/news-live/google-pixel-10a/"
+    },
+    {
+      "id": "daily_20260218_003",
+      "title": "Is YouTube Down Right Now? Outage Hits Over 800K People According to Downdetector",
+      "date_published": "2026-02-18",
+      "source_name": "CNET",
+      "categories": [
+        "tech"
+      ],
+      "tags": [
+        "youtube-outage",
+        "platform-reliability",
+        "service-disruption"
+      ],
+      "canonical_url": "https://www.cnet.com/news-live/youtube-down-outage-updates-feb-2026/"
+    },
     {
       "id": "daily_20260218_001",
       "title": "Google Launches AI-Powered Shopping Assistant for D2C Brands",
@@ -22,6 +85,22 @@
         "personalization"
       ],
       "canonical_url": "https://example.com/google-ai-shopping-test"
+    },
+    {
+      "id": "daily_20260218_002",
+      "title": "Meta&#8217;s new deal with Nvidia buys up millions of AI chips",
+      "date_published": "2026-02-18",
+      "source_name": "The Verge (AI)",
+      "categories": [
+        "tech"
+      ],
+      "tags": [
+        "ai-infrastructure",
+        "nvidia-meta",
+        "data-centers",
+        "ai-chips"
+      ],
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips"
     },
     {
       "id": "retail_dive_20260217_001",
