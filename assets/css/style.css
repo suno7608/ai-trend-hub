@@ -104,6 +104,7 @@ button { font-family: inherit; }
   display: flex; align-items: center; gap: 12px; letter-spacing: -0.02em;
 }
 .logo-icon { font-size: 36px; filter: drop-shadow(0 0 8px rgba(99,102,241,0.4)); }
+.logo-img { width: 36px; height: 36px; border-radius: 50%; vertical-align: middle; filter: drop-shadow(0 0 6px rgba(190,30,45,0.3)); }
 .tagline { color: rgba(199, 210, 254, 0.8); font-size: 14px; margin-top: 6px; }
 .header-right { display: flex; gap: 10px; align-items: center; }
 .lang-toggle, .theme-toggle {
@@ -849,6 +850,7 @@ time { color: var(--text-tertiary); font-size: 11px; font-weight: 500; }
   .site-header .container { flex-direction: column; align-items: flex-start; }
   .logo { font-size: 24px; }
   .logo-icon { font-size: 28px; }
+  .logo-img { width: 28px; height: 28px; }
   .tagline { font-size: 12px; }
   .header-right { width: 100%; justify-content: flex-end; }
   .nav-link { padding: 12px 16px; font-size: 12px; }

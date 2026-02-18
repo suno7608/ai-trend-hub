@@ -397,7 +397,7 @@
       if (!query) {
         searchResults.innerHTML = `
           <div class="search-initial-state">
-            <div class="search-initial-icon">🔮</div>
+            <div class="search-initial-icon">🔍</div>
             <p class="lang-ko">Daily · Weekly · Monthly 전체 콘텐츠를 검색할 수 있습니다.</p>
             <p class="lang-en" style="display:none">Search across all Daily · Weekly · Monthly content.</p>
             <div class="search-initial-hints">
