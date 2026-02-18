@@ -1,11 +1,28 @@
 {
-  "generated_at": "2026-02-18T01:33:08.129Z",
+  "generated_at": "2026-02-18T03:06:57.569Z",
   "counts": {
-    "daily": 10,
+    "daily": 11,
     "weekly": 1,
     "monthly": 1
   },
   "daily": [
+    {
+      "id": "daily_20260218_001",
+      "title": "Google Launches AI-Powered Shopping Assistant for D2C Brands",
+      "date_published": "2026-02-18",
+      "source_name": "TechCrunch Commerce",
+      "categories": [
+        "commerce",
+        "tech"
+      ],
+      "tags": [
+        "google",
+        "ai-shopping",
+        "d2c",
+        "personalization"
+      ],
+      "canonical_url": "https://example.com/google-ai-shopping-test"
+    },
     {
       "id": "retail_dive_20260217_001",
       "title": "Retail's Risky AI Commerce Bet: Data Control and Market Share at Stake",
