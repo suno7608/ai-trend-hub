@@ -8,15 +8,22 @@
 
 const fs = require('fs');
 const path = require('path');
-const https = require('https');
-const http = require('http');
 const YAML = require('yaml');
+const Parser = require('rss-parser');
 
 const ROOT = path.resolve(__dirname, '..');
 const SOURCES_PATH = path.join(ROOT, 'data', 'sources.yaml');
 const PROCESSED_PATH = path.join(ROOT, 'data', 'processed_urls.json');
 const OUTPUT_PATH = path.join(ROOT, 'data', 'collected_raw.json');
 const CONTENT_DIR = path.join(ROOT, 'content', 'daily');
+
+const rssParser = new Parser({
+  timeout: 10000,
+  headers: { 'User-Agent': 'AI-Trend-Hub-Bot/2.0 (+https://suno7608.github.io/ai-trend-hub/)' },
+  customFields: {
+    item: [['dc:date', 'dcDate'], ['content:encoded', 'contentEncoded']],
+  },
+});
 
 // ── Load sources from YAML ──
 function loadSources() {
@@ -68,72 +75,15 @@ function normalizeUrl(url) {
   }
 }
 
-// ── HTTP Fetch with redirect ──
-function fetchURL(url, timeout = 10000) {
-  return new Promise((resolve, reject) => {
-    const client = url.startsWith('https') ? https : http;
-    const req = client.get(url, {
-      headers: { 'User-Agent': 'AI-Trend-Hub-Bot/2.0 (+https://suno7608.github.io/ai-trend-hub/)' },
-      timeout
-    }, (res) => {
-      if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
-        return fetchURL(res.headers.location, timeout).then(resolve).catch(reject);
-      }
-      let data = '';
-      res.on('data', chunk => data += chunk);
-      res.on('end', () => resolve({ status: res.statusCode, data }));
-    });
-    req.on('error', reject);
-    req.on('timeout', () => { req.destroy(); reject(new Error('timeout')); });
-  });
-}
-
-// ── RSS/Atom Parser ──
-function parseRSSItems(xml) {
-  const items = [];
-
-  // RSS <item>
-  const itemRegex = /<item>([\s\S]*?)<\/item>/gi;
-  let match;
-  while ((match = itemRegex.exec(xml)) !== null) {
-    const x = match[1];
-    const title = extractTag(x, 'title');
-    const link = extractTag(x, 'link') || extractAttr(x, 'link', 'href');
-    const pubDate = extractTag(x, 'pubDate') || extractTag(x, 'dc:date');
-    const desc = extractTag(x, 'description');
-    if (title && title.length > 10) {
-      items.push({ title: title.trim(), link: link.trim(), pubDate, description: (desc || '').trim().substring(0, 1000) });
-    }
-  }
-
-  // Atom <entry>
-  if (items.length === 0) {
-    const entryRegex = /<entry>([\s\S]*?)<\/entry>/gi;
-    while ((match = entryRegex.exec(xml)) !== null) {
-      const x = match[1];
-      const title = extractTag(x, 'title');
-      const link = extractAttr(x, 'link', 'href') || extractTag(x, 'link');
-      const pubDate = extractTag(x, 'published') || extractTag(x, 'updated');
-      const desc = extractTag(x, 'summary') || extractTag(x, 'content');
-      if (title && title.length > 10) {
-        items.push({ title: title.trim(), link: link.trim(), pubDate, description: (desc || '').trim().substring(0, 1000) });
-      }
-    }
-  }
-
-  return items;
-}
-
-function extractTag(xml, tag) {
-  const re = new RegExp(`<${tag}[^>]*>(?:<!\\[CDATA\\[)?([\\s\\S]*?)(?:\\]\\]>)?<\\/${tag}>`, 'i');
-  const m = xml.match(re);
-  return m ? m[1].replace(/<[^>]+>/g, '').trim() : '';
-}
-
-function extractAttr(xml, tag, attr) {
-  const re = new RegExp(`<${tag}[^>]*${attr}="([^"]*)"`, 'i');
-  const m = xml.match(re);
-  return m ? m[1] : '';
+// ── Fetch and parse RSS/Atom feed via rss-parser ──
+async function fetchFeed(feedUrl) {
+  const feed = await rssParser.parseURL(feedUrl);
+  return (feed.items || []).map(item => ({
+    title: (item.title || '').trim(),
+    link: (item.link || '').trim(),
+    pubDate: item.pubDate || item.isoDate || item.dcDate || '',
+    description: (item.contentSnippet || item.content || item.contentEncoded || '').trim().substring(0, 1000),
+  })).filter(item => item.title && item.title.length > 10);
 }
 
 // ── Parse date to YYYY-MM-DD ──
@@ -166,33 +116,27 @@ async function main() {
   for (const source of sources) {
     try {
       process.stdout.write(`  📥 ${source.name || source.id}... `);
-      const result = await fetchURL(source.feed_url);
-      if (result.status === 200) {
-        const items = parseRSSItems(result.data);
-        let newItems = 0;
-        for (const item of items.slice(0, 5)) {
-          const normUrl = normalizeUrl(item.link);
-          if (processedUrls.has(normUrl)) {
-            skipCount++;
-            continue;
-          }
-          allItems.push({
-            title: item.title,
-            link: item.link,
-            date_published: parseDate(item.pubDate),
-            description: item.description,
-            source_id: source.id,
-            source_name: source.name || source.id,
-            source_url: source.feed_url,
-            categories: source.category || [],
-          });
-          newItems++;
+      const items = await fetchFeed(source.feed_url);
+      let newItems = 0;
+      for (const item of items.slice(0, 5)) {
+        const normUrl = normalizeUrl(item.link);
+        if (processedUrls.has(normUrl)) {
+          skipCount++;
+          continue;
         }
-        console.log(`✅ ${items.length} found, ${newItems} new`);
-      } else {
-        console.log(`⚠️  HTTP ${result.status}`);
-        errorCount++;
+        allItems.push({
+          title: item.title,
+          link: item.link,
+          date_published: parseDate(item.pubDate),
+          description: item.description,
+          source_id: source.id,
+          source_name: source.name || source.id,
+          source_url: source.feed_url,
+          categories: source.category || [],
+        });
+        newItems++;
       }
+      console.log(`✅ ${items.length} found, ${newItems} new`);
     } catch (e) {
       console.log(`❌ ${e.message}`);
       errorCount++;

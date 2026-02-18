@@ -41,14 +41,41 @@ function weekLabel(yw) {
 }
 
 // ── Page Shell ────────────────────────────────────────────
-function renderPageShell({ title, bodyContent, cssPath, jsPath, description }) {
+function renderPageShell({ title, bodyContent, cssPath, jsPath, description, canonicalPath, ogType }) {
+  const siteUrl = 'https://suno7608.github.io/ai-trend-hub';
+  const fullTitle = `${title} — LG AI Trend Hub`;
+  const desc = description || 'AI Commerce와 AI Marketing의 최신 트렌드, 뉴스, 인사이트를 한 곳에서.';
+  const canonical = canonicalPath ? `${siteUrl}/${canonicalPath}` : siteUrl;
+  const faviconPath = cssPath ? cssPath.replace('assets/css/style.css', 'assets/favicon.svg') : 'assets/favicon.svg';
+
   return `<!DOCTYPE html>
 <html lang="ko">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>${title} — LG AI Trend Hub</title>
-  <meta name="description" content="${description || 'AI Commerce와 AI Marketing의 최신 트렌드, 뉴스, 인사이트를 한 곳에서.'}">
+  <title>${fullTitle}</title>
+  <meta name="description" content="${desc}">
+  <link rel="canonical" href="${canonical}">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="${ogType || 'website'}">
+  <meta property="og:title" content="${fullTitle}">
+  <meta property="og:description" content="${desc}">
+  <meta property="og:url" content="${canonical}">
+  <meta property="og:site_name" content="LG AI Trend Hub">
+  <meta property="og:locale" content="ko_KR">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="${fullTitle}">
+  <meta name="twitter:description" content="${desc}">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="${faviconPath}">
+
+  <!-- Robots -->
+  <meta name="robots" content="index, follow">
+
   <link rel="stylesheet" href="${cssPath || 'assets/css/style.css'}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+KR:wght@400;500;600;700&display=swap" rel="stylesheet">

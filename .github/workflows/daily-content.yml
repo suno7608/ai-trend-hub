@@ -44,6 +44,7 @@ jobs:
         run: node scripts/summarize.js
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL || 'claude-sonnet-4-20250514' }}
 
       - name: "Step 3: Generate markdown files"
         run: node scripts/generate.js

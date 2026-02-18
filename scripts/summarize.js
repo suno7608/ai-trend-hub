@@ -16,7 +16,7 @@ const INPUT_PATH = path.join(ROOT, 'data', 'collected_raw.json');
 const OUTPUT_PATH = path.join(ROOT, 'data', 'summarized.json');
 
 const BATCH_SIZE = 5;
-const MODEL = 'claude-sonnet-4-20250514';
+const MODEL = process.env.CLAUDE_MODEL || 'claude-sonnet-4-20250514';
 
 const SYSTEM_PROMPT = `You are an AI editor for the "LG AI Trend Hub", a trend intelligence platform for the Global D2C (Direct-to-Consumer) organization at LG.
 
