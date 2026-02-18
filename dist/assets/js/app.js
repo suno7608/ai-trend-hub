@@ -140,6 +140,102 @@
     backToTop.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
   }
 
+  // ── Like & Share ──
+  const LIKES_KEY = 'ai-trend-hub-likes';
+
+  function getLikes() {
+    try { return JSON.parse(localStorage.getItem(LIKES_KEY) || '{}'); } catch { return {}; }
+  }
+
+  function saveLikes(likes) {
+    try { localStorage.setItem(LIKES_KEY, JSON.stringify(likes)); } catch {}
+  }
+
+  // Restore saved likes on page load
+  function restoreLikes() {
+    const likes = getLikes();
+    document.querySelectorAll('.social-actions').forEach(bar => {
+      const cardId = bar.dataset.cardId;
+      if (likes[cardId]) {
+        const btn = bar.querySelector('.like-btn');
+        const icon = btn.querySelector('.like-icon');
+        const count = btn.querySelector('.like-count');
+        btn.classList.add('liked');
+        icon.textContent = '♥';
+        count.textContent = likes[cardId];
+      }
+    });
+  }
+  restoreLikes();
+
+  // Share toast element
+  const shareToast = document.createElement('div');
+  shareToast.className = 'share-toast';
+  document.body.appendChild(shareToast);
+
+  function showToast(msg) {
+    shareToast.textContent = msg;
+    shareToast.classList.add('visible');
+    setTimeout(() => shareToast.classList.remove('visible'), 2000);
+  }
+
+  // Event delegation for like & share
+  document.addEventListener('click', (e) => {
+    const likeBtn = e.target.closest('.like-btn');
+    if (likeBtn) {
+      const bar = likeBtn.closest('.social-actions');
+      const cardId = bar.dataset.cardId;
+      const likes = getLikes();
+      const icon = likeBtn.querySelector('.like-icon');
+      const count = likeBtn.querySelector('.like-count');
+
+      if (likeBtn.classList.contains('liked')) {
+        // Unlike
+        likeBtn.classList.remove('liked');
+        likes[cardId] = Math.max(0, (likes[cardId] || 1) - 1);
+        if (likes[cardId] === 0) delete likes[cardId];
+        icon.textContent = '♡';
+      } else {
+        // Like
+        likeBtn.classList.add('liked');
+        likes[cardId] = (likes[cardId] || 0) + 1;
+        icon.textContent = '♥';
+      }
+      count.textContent = likes[cardId] || 0;
+      saveLikes(likes);
+      return;
+    }
+
+    const shareBtn = e.target.closest('.share-btn');
+    if (shareBtn) {
+      const title = shareBtn.dataset.title || 'LG AI Trend Hub';
+      const url = shareBtn.dataset.url || window.location.href;
+      const shareUrl = url || window.location.href;
+
+      // Try Web Share API first (mobile-friendly)
+      if (navigator.share) {
+        navigator.share({ title, url: shareUrl }).catch(() => {});
+      } else {
+        // Fallback: copy link to clipboard
+        navigator.clipboard.writeText(shareUrl).then(() => {
+          shareBtn.classList.add('copied');
+          showToast(currentLang === 'ko' ? '링크가 복사되었습니다!' : 'Link copied to clipboard!');
+          setTimeout(() => shareBtn.classList.remove('copied'), 2000);
+        }).catch(() => {
+          // Final fallback
+          const ta = document.createElement('textarea');
+          ta.value = shareUrl;
+          document.body.appendChild(ta);
+          ta.select();
+          document.execCommand('copy');
+          document.body.removeChild(ta);
+          showToast(currentLang === 'ko' ? '링크가 복사되었습니다!' : 'Link copied to clipboard!');
+        });
+      }
+      return;
+    }
+  });
+
   // ── Sources Grid ──
   const sourcesGrid = document.getElementById('sourcesGrid');
   if (sourcesGrid) {

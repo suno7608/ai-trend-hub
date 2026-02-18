@@ -136,6 +136,16 @@ function renderDailyCard(item, lang = 'ko') {
         <time>${item.date_published || ''}</time>
         ${item.confidence ? `<span class="confidence">신뢰도: ${(item.confidence * 100).toFixed(0)}%</span>` : ''}
       </div>
+      <div class="social-actions" data-card-id="daily-${item.id || item._filename}">
+        <button class="social-btn like-btn" data-action="like" title="좋아요">
+          <span class="like-icon">♡</span>
+          <span class="like-count">0</span>
+        </button>
+        <button class="social-btn share-btn" data-action="share" data-title="${(item.title || '').replace(/"/g, '&quot;')}" data-url="${item.canonical_url || ''}" title="공유하기">
+          <span class="share-icon">↗</span>
+          <span class="lang-ko">공유</span><span class="lang-en" style="display:none">Share</span>
+        </button>
+      </div>
     </article>`;
 }
 
@@ -154,6 +164,16 @@ function renderWeeklyCard(item) {
       <div class="card-body">
         ${item._body || ''}
       </div>
+      <div class="social-actions" data-card-id="weekly-${item.week || item._filename}">
+        <button class="social-btn like-btn" data-action="like" title="좋아요">
+          <span class="like-icon">♡</span>
+          <span class="like-count">0</span>
+        </button>
+        <button class="social-btn share-btn" data-action="share" data-title="${(item.title || '').replace(/"/g, '&quot;')}" data-url="" title="공유하기">
+          <span class="share-icon">↗</span>
+          <span class="lang-ko">공유</span><span class="lang-en" style="display:none">Share</span>
+        </button>
+      </div>
     </article>`;
 }
 
@@ -171,6 +191,16 @@ function renderMonthlyCard(item) {
       </div>
       <div class="card-body">
         ${item._body || ''}
+      </div>
+      <div class="social-actions" data-card-id="monthly-${item.month || item._filename}">
+        <button class="social-btn like-btn" data-action="like" title="좋아요">
+          <span class="like-icon">♡</span>
+          <span class="like-count">0</span>
+        </button>
+        <button class="social-btn share-btn" data-action="share" data-title="${(item.title || '').replace(/"/g, '&quot;')}" data-url="" title="공유하기">
+          <span class="share-icon">↗</span>
+          <span class="lang-ko">공유</span><span class="lang-en" style="display:none">Share</span>
+        </button>
       </div>
     </article>`;
 }
