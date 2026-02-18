@@ -1,4 +1,7 @@
-/* ── AI Trend Hub — Client-side App ── */
+/* ══════════════════════════════════════════════════
+   AI Trend Hub — Client App v2.0
+   Search, Filters, Language, Theme, Back-to-top
+   ══════════════════════════════════════════════════ */
 (function() {
   'use strict';
 
@@ -8,23 +11,18 @@
 
   function setLanguage(lang) {
     currentLang = lang;
-    document.querySelectorAll('.lang-ko').forEach(el => {
-      el.style.display = lang === 'ko' ? '' : 'none';
-    });
-    document.querySelectorAll('.lang-en').forEach(el => {
-      el.style.display = lang === 'en' ? '' : 'none';
-    });
+    document.querySelectorAll('.lang-ko').forEach(el => el.style.display = lang === 'ko' ? '' : 'none');
+    document.querySelectorAll('.lang-en').forEach(el => el.style.display = lang === 'en' ? '' : 'none');
     if (langToggle) {
       langToggle.querySelector('.lang-active').textContent = lang.toUpperCase();
       langToggle.querySelector('.lang-inactive').textContent = lang === 'ko' ? 'EN' : 'KO';
     }
+    // Update search placeholder
+    const si = document.getElementById('searchInput');
+    if (si) si.placeholder = lang === 'ko' ? '🔍 키워드, 태그, 소스로 검색...' : '🔍 Search by keyword, tag, source...';
   }
 
-  if (langToggle) {
-    langToggle.addEventListener('click', () => {
-      setLanguage(currentLang === 'ko' ? 'en' : 'ko');
-    });
-  }
+  if (langToggle) langToggle.addEventListener('click', () => setLanguage(currentLang === 'ko' ? 'en' : 'ko'));
 
   // ── Theme Toggle ──
   const themeToggle = document.getElementById('themeToggle');
@@ -38,9 +36,51 @@
     });
   }
 
+  // ── Search ──
+  const searchInput = document.getElementById('searchInput');
+  const searchCount = document.getElementById('searchResultsCount');
+  const allCards = document.querySelectorAll('.daily-card');
+
+  function performSearch() {
+    const query = (searchInput ? searchInput.value : '').toLowerCase().trim();
+    let visible = 0;
+
+    allCards.forEach(card => {
+      if (!query) {
+        card.style.display = '';
+        visible++;
+        return;
+      }
+      const text = card.textContent.toLowerCase();
+      const tags = (card.dataset.tags || '').toLowerCase();
+      const cats = (card.dataset.categories || '').toLowerCase();
+      const match = text.includes(query) || tags.includes(query) || cats.includes(query);
+      card.style.display = match ? '' : 'none';
+      if (match) visible++;
+    });
+
+    if (searchCount) {
+      if (query) {
+        searchCount.textContent = currentLang === 'ko'
+          ? `"${query}" 검색 결과: ${visible}건`
+          : `${visible} results for "${query}"`;
+        searchCount.classList.add('visible');
+      } else {
+        searchCount.classList.remove('visible');
+      }
+    }
+  }
+
+  if (searchInput) {
+    let debounce;
+    searchInput.addEventListener('input', () => {
+      clearTimeout(debounce);
+      debounce = setTimeout(performSearch, 200);
+    });
+  }
+
   // ── Filter Buttons ──
   const filterBtns = document.querySelectorAll('.filter-btn');
-  const cards = document.querySelectorAll('.daily-card');
 
   filterBtns.forEach(btn => {
     btn.addEventListener('click', () => {
@@ -48,7 +88,11 @@
       filterBtns.forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
 
-      cards.forEach(card => {
+      // Clear search when filter changes
+      if (searchInput) searchInput.value = '';
+      if (searchCount) searchCount.classList.remove('visible');
+
+      allCards.forEach(card => {
         if (filter === 'all') {
           card.style.display = '';
         } else {
@@ -66,7 +110,9 @@
       e.preventDefault();
       const target = document.querySelector(link.getAttribute('href'));
       if (target) {
-        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        const navHeight = document.querySelector('.section-nav')?.offsetHeight || 0;
+        const y = target.getBoundingClientRect().top + window.pageYOffset - navHeight - 8;
+        window.scrollTo({ top: y, behavior: 'smooth' });
         navLinks.forEach(l => l.classList.remove('active'));
         link.classList.add('active');
       }
@@ -75,46 +121,52 @@
 
   // ── Scroll Spy ──
   const sections = document.querySelectorAll('.content-section');
-  const observer = new IntersectionObserver((entries) => {
+  const navObserver = new IntersectionObserver((entries) => {
     entries.forEach(entry => {
       if (entry.isIntersecting) {
         const id = entry.target.id;
-        navLinks.forEach(l => {
-          l.classList.toggle('active', l.getAttribute('href') === `#${id}`);
-        });
+        navLinks.forEach(l => l.classList.toggle('active', l.getAttribute('href') === `#${id}`));
       }
     });
-  }, { threshold: 0.3 });
+  }, { threshold: 0.2, rootMargin: '-80px 0px -50% 0px' });
+  sections.forEach(s => navObserver.observe(s));
 
-  sections.forEach(s => observer.observe(s));
+  // ── Back to Top ──
+  const backToTop = document.getElementById('backToTop');
+  if (backToTop) {
+    window.addEventListener('scroll', () => {
+      backToTop.classList.toggle('visible', window.scrollY > 400);
+    }, { passive: true });
+    backToTop.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+  }
 
-  // ── Load Sources Data ──
+  // ── Sources Grid ──
   const sourcesGrid = document.getElementById('sourcesGrid');
   if (sourcesGrid) {
-    // Embedded sources from build
     const sources = [
       { name: 'Retail Dive', category: 'AI Commerce', status: 'active' },
       { name: 'commercetools Blog', category: 'AI Commerce', status: 'active' },
+      { name: 'Digital Commerce 360', category: 'AI Commerce', status: 'active' },
+      { name: 'Shopify Engineering', category: 'AI Commerce', status: 'active' },
+      { name: 'TechCrunch Commerce', category: 'AI Commerce', status: 'new' },
       { name: 'Marketing AI Institute', category: 'AI Marketing', status: 'active' },
       { name: 'Adweek', category: 'AI Marketing', status: 'active' },
-      { name: 'MIT Technology Review', category: 'AI General', status: 'active' },
-      { name: 'Anthropic News', category: 'AI General', status: 'active' },
-      { name: 'The Verge (AI)', category: 'AI General', status: 'active' },
-      { name: 'Digital Commerce 360', category: 'AI Commerce', status: 'active' },
       { name: 'HubSpot Marketing', category: 'AI Marketing', status: 'active' },
       { name: 'MarTech.org', category: 'AI Marketing', status: 'new' },
       { name: 'Digiday', category: 'AI Marketing', status: 'new' },
       { name: 'Search Engine Land', category: 'AI Marketing', status: 'new' },
-      { name: 'Shopify Engineering', category: 'AI Commerce', status: 'active' },
-      { name: 'TechCrunch Commerce', category: 'AI Commerce', status: 'new' },
+      { name: 'Klaviyo Blog', category: 'AI Marketing', status: 'new' },
+      { name: 'MIT Technology Review', category: 'AI General', status: 'active' },
+      { name: 'The Verge (AI)', category: 'AI General', status: 'active' },
+      { name: 'Anthropic News', category: 'AI General', status: 'active' },
       { name: 'Google AI Blog', category: 'AI General', status: 'active' },
       { name: 'OpenAI Blog', category: 'AI General', status: 'active' },
       { name: 'Salesforce AI Blog', category: 'Platform', status: 'new' },
       { name: 'Adobe Experience Blog', category: 'Platform', status: 'new' },
       { name: 'Segment Blog', category: 'CDP/CRM', status: 'new' },
       { name: 'Bloomreach Blog', category: 'CDP/CRM', status: 'new' },
+      { name: 'Forrester DTC Blog', category: 'D2C/DTC', status: 'new' },
     ];
-
     sourcesGrid.innerHTML = sources.map(s => `
       <div class="source-item">
         <div class="source-info">

@@ -7,7 +7,7 @@
   <meta name="description" content="AI Commerce와 AI Marketing의 최신 트렌드, 뉴스, 인사이트를 한 곳에서. Daily · Weekly · Monthly 큐레이션.">
   <link rel="stylesheet" href="assets/css/style.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+KR:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+KR:wght@400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
   <!-- Header -->
@@ -67,8 +67,18 @@
   </div>
 
   <main class="container main-content">
+    <!-- Search -->
+    <div class="search-container">
+      <div class="search-wrapper">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="searchInput" class="search-input" placeholder="🔍 키워드, 태그, 소스로 검색...">
+      </div>
+      <div id="searchResultsCount" class="search-results-count"></div>
+    </div>
+
     <!-- Filters -->
     <div class="filters">
+      <span class="filters-label">Filter</span>
       <button class="filter-btn active" data-filter="all">All</button>
       <button class="filter-btn" data-filter="commerce" style="--filter-color:#3B82F6">Commerce</button><button class="filter-btn" data-filter="tech" style="--filter-color:#10B981">Tech</button><button class="filter-btn" data-filter="strategy" style="--filter-color:#F59E0B">Strategy</button><button class="filter-btn" data-filter="marketing" style="--filter-color:#8B5CF6">Marketing</button>
     </div>
@@ -564,6 +574,9 @@ EU의 강화된 프라이버시 규제(AI Act 포함)로 인해 에이전틱 커
       <p class="footer-meta">Last build: 2026-02-17 | Content items: 12</p>
     </div>
   </footer>
+
+  <!-- Back to Top -->
+  <button id="backToTop" class="back-to-top" title="Back to top">↑</button>
 
   <script src="assets/js/app.js"></script>
 </body>

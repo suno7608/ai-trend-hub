@@ -198,7 +198,7 @@ function buildSite() {
   <meta name="description" content="AI Commerce와 AI Marketing의 최신 트렌드, 뉴스, 인사이트를 한 곳에서. Daily · Weekly · Monthly 큐레이션.">
   <link rel="stylesheet" href="assets/css/style.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+KR:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+KR:wght@400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
   <!-- Header -->
@@ -258,8 +258,18 @@ function buildSite() {
   </div>
 
   <main class="container main-content">
+    <!-- Search -->
+    <div class="search-container">
+      <div class="search-wrapper">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="searchInput" class="search-input" placeholder="🔍 키워드, 태그, 소스로 검색...">
+      </div>
+      <div id="searchResultsCount" class="search-results-count"></div>
+    </div>
+
     <!-- Filters -->
     <div class="filters">
+      <span class="filters-label">Filter</span>
       <button class="filter-btn active" data-filter="all">All</button>
       ${tagFiltersHTML}
     </div>
@@ -320,6 +330,9 @@ function buildSite() {
       <p class="footer-meta">Last build: ${new Date().toISOString().split('T')[0]} | Content items: ${dailyItems.length + weeklyItems.length + monthlyItems.length}</p>
     </div>
   </footer>
+
+  <!-- Back to Top -->
+  <button id="backToTop" class="back-to-top" title="Back to top">↑</button>
 
   <script src="assets/js/app.js"></script>
 </body>
