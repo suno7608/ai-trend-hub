@@ -86,7 +86,7 @@ function renderPageShell({ title, bodyContent, cssPath, jsPath, description, can
     <div class="container">
       <div class="header-left">
         <h1 class="logo">
-          <a href="${cssPath ? cssPath.replace('assets/css/style.css', '') || '/' : '/'}">
+          <a href="${cssPath ? cssPath.replace('assets/css/style.css', 'index.html') : 'index.html'}">
             <img class="logo-img" src="${faviconPath}" alt="LG" width="32" height="32">
             <span>LG AI Trend Hub</span>
           </a>

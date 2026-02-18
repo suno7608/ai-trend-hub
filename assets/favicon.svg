@@ -1,16 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
-  <!-- LG Logo - White bg, Red circle, Black details -->
-  <rect width="200" height="200" rx="20" fill="#fff"/>
+  <!-- LG Official Logo -->
   <!-- Red main circle -->
-  <circle cx="100" cy="100" r="80" fill="#C8003D"/>
-  <!-- Black outer arc (G curve) - gap at upper-right -->
-  <path d="M 100 26 A 74 74 0 1 0 155 42" fill="none" stroke="#000" stroke-width="9" stroke-linecap="round"/>
-  <!-- Black L vertical bar -->
-  <rect x="64" y="48" width="10" height="68" fill="#000"/>
-  <!-- Black L horizontal + G bottom bar -->
-  <rect x="64" y="106" width="54" height="10" fill="#000"/>
-  <!-- Black G vertical bar (right side) -->
-  <rect x="108" y="82" width="10" height="34" fill="#000"/>
-  <!-- Black nose dot -->
-  <circle cx="74" cy="58" r="8" fill="#000"/>
+  <circle cx="100" cy="100" r="97" fill="#A50034"/>
+  <!-- White outer arc (G curve) - gap at upper-right ~1 o'clock -->
+  <path d="M 100 14 A 86 86 0 1 0 168 38" fill="none" stroke="white" stroke-width="9" stroke-linecap="round"/>
+  <!-- White L vertical bar -->
+  <rect x="62" y="42" width="11" height="76" fill="white"/>
+  <!-- White L horizontal + G bottom bar -->
+  <rect x="62" y="107" width="60" height="11" fill="white"/>
+  <!-- White G vertical bar (right side) -->
+  <rect x="111" y="82" width="11" height="36" fill="white"/>
+  <!-- White nose dot -->
+  <circle cx="73" cy="55" r="9" fill="white"/>
 </svg>
