@@ -13,12 +13,6 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
 
 jobs:
   pipeline:
@@ -61,19 +55,3 @@ jobs:
           git add content/ dist/ data/processed_urls.json data/collected_raw.json data/summarized.json
           git diff --staged --quiet || git commit -m "📰 Daily content update $(date +%Y-%m-%d)"
           git push || echo "Nothing to push"
-
-      - name: "Step 7: Upload to GitHub Pages"
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./dist
-
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: pipeline
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
