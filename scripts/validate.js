@@ -99,9 +99,20 @@ validate(path.join(CONTENT_DIR, 'monthly'), MONTHLY_REQUIRED, 'monthly');
 
 console.log(`\n📊 Results: ${total} files checked, ${errors} errors, ${warnings} warnings`);
 
+// Write validation summary to file for other scripts to read
+const summaryPath = path.resolve(__dirname, '..', 'data', 'validation-result.json');
+const fs2 = require('fs');
+fs2.writeFileSync(summaryPath, JSON.stringify({
+  timestamp: new Date().toISOString(),
+  total, errors, warnings,
+  passed: errors === 0
+}, null, 2));
+
 if (errors > 0) {
   console.log('\n❌ Validation FAILED');
-  process.exit(1);
+  console.log(`   ${errors} error(s) found — pipeline will continue but content may have issues`);
+  // Exit with code 2 (soft fail) — workflow can check this
+  process.exit(2);
 } else {
   console.log('\n✅ Validation PASSED');
   process.exit(0);

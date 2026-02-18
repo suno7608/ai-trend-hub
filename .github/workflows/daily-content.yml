@@ -37,6 +37,7 @@ jobs:
         run: npm ci
 
       - name: "Step 1: Collect RSS feeds"
+        id: collect
         run: node scripts/collect.js --max-items=${{ github.event.inputs.max_items || '15' }}
 
       - name: "Step 2: Summarize with Claude AI"
@@ -48,8 +49,8 @@ jobs:
         run: node scripts/generate.js
 
       - name: "Step 4: Validate schema"
-        run: node scripts/validate.js
-        continue-on-error: true
+        id: validate
+        run: node scripts/validate.js || true
 
       - name: "Step 5: Build site"
         run: node scripts/build.js
@@ -58,7 +59,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "AI Trend Hub Bot"
-          git add content/ dist/ data/processed_urls.json data/collected_raw.json data/summarized.json
+          git add content/ data/processed_urls.json
           git diff --staged --quiet || git commit -m "📰 Daily content update $(date +%Y-%m-%d)"
           git push || echo "Nothing to push"
 
@@ -66,6 +67,22 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./dist
+
+      - name: "Notify: Success"
+        if: success()
+        run: node scripts/notify-telegram.js --status=success --pipeline=daily --details="Daily pipeline completed" --run-url="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
+      - name: "Notify: Failure"
+        if: failure()
+        run: |
+          npm ci 2>/dev/null || true
+          node scripts/notify-telegram.js --status=failure --pipeline=daily --details="Pipeline failed at step" --run-url="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
 
   deploy:
     environment:

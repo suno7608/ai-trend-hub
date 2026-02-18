@@ -59,7 +59,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "AI Trend Hub Bot"
-          git add content/weekly/ dist/
+          git add content/weekly/
           git diff --staged --quiet || git commit -m "📊 Weekly Digest $(date +%Y-W%V)"
           git push || echo "Nothing to push"
 
@@ -67,6 +67,22 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./dist
+
+      - name: "Notify: Success"
+        if: success()
+        run: node scripts/notify-telegram.js --status=success --pipeline=weekly --details="Weekly Digest generated" --run-url="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
+      - name: "Notify: Failure"
+        if: failure()
+        run: |
+          npm ci 2>/dev/null || true
+          node scripts/notify-telegram.js --status=failure --pipeline=weekly --details="Pipeline failed at step" --run-url="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
 
   deploy:
     environment:

@@ -3,3 +3,11 @@ node_modules/
 *.log
 .env
 .env.local
+
+# Build output (deployed via GitHub Pages artifact)
+dist/
+
+# Intermediate pipeline data (regenerated each run)
+data/collected_raw.json
+data/summarized.json
+data/validation-result.json
