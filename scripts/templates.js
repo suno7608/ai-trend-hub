@@ -46,7 +46,7 @@ function renderPageShell({ title, bodyContent, cssPath, jsPath, description, can
   const fullTitle = `${title} — LG AI Trend Hub`;
   const desc = description || 'AI Commerce와 AI Marketing의 최신 트렌드, 뉴스, 인사이트를 한 곳에서.';
   const canonical = canonicalPath ? `${siteUrl}/${canonicalPath}` : siteUrl;
-  const faviconPath = cssPath ? cssPath.replace('assets/css/style.css', 'assets/favicon.png') : 'assets/favicon.png';
+  const faviconPath = cssPath ? cssPath.replace('assets/css/style.css', 'assets/favicon.svg') : 'assets/favicon.svg';
 
   return `<!DOCTYPE html>
 <html lang="ko">
@@ -71,7 +71,7 @@ function renderPageShell({ title, bodyContent, cssPath, jsPath, description, can
   <meta name="twitter:description" content="${desc}">
 
   <!-- Favicon -->
-  <link rel="icon" type="image/png" href="${faviconPath}">
+  <link rel="icon" type="image/svg+xml" href="${faviconPath}">
 
   <!-- Robots -->
   <meta name="robots" content="index, follow">
@@ -375,22 +375,22 @@ function renderWeeklyListCard(item, detailUrl) {
 
 // ── Monthly Summary Card (compact, for archive listing) ───
 function renderMonthlyListCard(item, detailUrl) {
-  const reports = (item.featured_reports || []).slice(0, 3);
+  const reports = (item.featured_reports || []).slice(0, 5);
   const reportsHTML = reports.length
-    ? `<div class="archive-list-tags">${reports.map(r => `<span class="tag tag-sub">${typeof r === 'string' ? r : r}</span>`).join('')}</div>`
+    ? `<ul class="monthly-report-list">${reports.map(r => `<li>${typeof r === 'string' ? r : r}</li>`).join('')}</ul>`
     : '';
 
   return `
-    <a href="${detailUrl}" class="archive-list-item">
-      <div class="archive-list-meta">
+    <a href="${detailUrl}" class="archive-list-item monthly-list-item">
+      <div class="monthly-list-header">
         <span class="badge badge-monthly">📖 ${item.month}</span>
+        <span class="archive-list-arrow">→</span>
       </div>
-      <h3 class="archive-list-title">
+      <h3 class="archive-list-title monthly-list-title">
         <span class="lang-ko">${item.title || `${item.month} Deep Dive`}</span>
         <span class="lang-en" style="display:none">${item.title_en || `${item.month} Deep Dive`}</span>
       </h3>
       ${reportsHTML}
-      <span class="archive-list-arrow">→</span>
     </a>`;
 }
 

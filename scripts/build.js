@@ -793,8 +793,8 @@ function buildSite() {
   const jsFile = path.join(ASSETS_DIR, 'js', 'app.js');
   if (fs.existsSync(cssFile)) fs.copyFileSync(cssFile, path.join(DIST_DIR, 'assets', 'css', 'style.css'));
   if (fs.existsSync(jsFile)) fs.copyFileSync(jsFile, path.join(DIST_DIR, 'assets', 'js', 'app.js'));
-  const faviconPng = path.join(ASSETS_DIR, 'favicon.png');
-  if (fs.existsSync(faviconPng)) fs.copyFileSync(faviconPng, path.join(DIST_DIR, 'assets', 'favicon.png'));
+  const faviconSvg = path.join(ASSETS_DIR, 'favicon.svg');
+  if (fs.existsSync(faviconSvg)) fs.copyFileSync(faviconSvg, path.join(DIST_DIR, 'assets', 'favicon.svg'));
 
   let pageCount = 0;
 
