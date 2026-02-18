@@ -285,20 +285,25 @@ time { color: var(--text-tertiary); font-size: 11px; font-weight: 500; }
 .badge { padding: 4px 14px; border-radius: var(--radius-full); font-size: 11px; font-weight: 700; }
 .badge-weekly { background: rgba(245, 158, 11, 0.12); color: var(--accent-amber); border: 1px solid rgba(245, 158, 11, 0.2); }
 .badge-monthly { background: rgba(236, 72, 153, 0.12); color: var(--accent-pink); border: 1px solid rgba(236, 72, 153, 0.2); }
-.card-body { font-size: 14px; line-height: 1.85; color: var(--text-secondary); }
-.card-body h3, .card-body h4 { color: var(--text-primary); margin: 20px 0 8px; font-weight: 700; }
+.card-body { font-size: 14px; line-height: 1.9; color: var(--text-secondary); }
+.card-body p { margin-bottom: 14px; }
+.card-body p:last-child { margin-bottom: 0; }
+.card-body h2 { color: var(--text-primary); margin: 32px 0 14px; font-weight: 700; font-size: 19px; }
+.card-body h3, .card-body h4 { color: var(--text-primary); margin: 28px 0 12px; font-weight: 700; }
 .card-body h3 { font-size: 17px; }
 .card-body h4 { font-size: 15px; }
-.card-body ul, .card-body ol { padding-left: 20px; margin: 8px 0; }
-.card-body li { margin-bottom: 4px; }
+.card-body h2:first-child, .card-body h3:first-child, .card-body h4:first-child { margin-top: 0; }
+.card-body ul, .card-body ol { padding-left: 22px; margin: 12px 0 16px; }
+.card-body li { margin-bottom: 8px; line-height: 1.8; }
+.card-body li:last-child { margin-bottom: 0; }
 .card-body a { color: var(--accent-indigo-light); text-decoration: underline; text-decoration-color: rgba(129, 140, 248, 0.3); text-underline-offset: 2px; }
 .card-body a:hover { text-decoration-color: var(--accent-indigo-light); }
 .card-body blockquote {
-  border-left: 3px solid var(--accent-violet); padding: 12px 18px; margin: 16px 0;
+  border-left: 3px solid var(--accent-violet); padding: 16px 20px; margin: 20px 0;
   color: var(--text-secondary); font-style: italic;
   background: rgba(139, 92, 246, 0.05); border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
 }
-.card-body hr { border: none; border-top: 1px solid var(--border-default); margin: 20px 0; }
+.card-body hr { border: none; border-top: 1px solid var(--border-default); margin: 28px 0; }
 .card-body strong { color: var(--text-primary); font-weight: 600; }
 .card-body .trend-box {
   background: var(--bg-base);
@@ -326,36 +331,47 @@ time { color: var(--text-tertiary); font-size: 11px; font-weight: 500; }
   background: var(--bg-base);
   border: 1px solid var(--border-default);
   border-radius: var(--radius-md);
-  padding: 20px;
-  margin-bottom: 16px;
+  padding: 24px;
+  margin-bottom: 20px;
 }
 .card-body .report-card h3 {
   margin-top: 0;
+  margin-bottom: 14px;
+}
+.card-body .report-card h4 {
+  margin-top: 18px;
+  margin-bottom: 8px;
 }
 .card-body .action-items-box {
   background: linear-gradient(135deg, rgba(16,185,129,0.08), rgba(6,182,212,0.08));
   border: 1px solid rgba(16,185,129,0.2);
   border-radius: var(--radius-md);
-  padding: 20px;
-  margin-top: 24px;
+  padding: 24px;
+  margin-top: 32px;
 }
 .card-body .action-items-box h2 {
   color: var(--accent-emerald);
   margin-top: 0;
+  margin-bottom: 16px;
   font-size: 18px;
 }
+.card-body .action-items-box ol { margin: 14px 0; }
+.card-body .action-items-box li { margin-bottom: 10px; }
 .card-body .region-box {
   background: linear-gradient(135deg, rgba(99,102,241,0.08), rgba(139,92,246,0.08));
   border: 1px solid rgba(99,102,241,0.2);
   border-radius: var(--radius-md);
-  padding: 20px;
-  margin-top: 24px;
+  padding: 24px;
+  margin-top: 32px;
 }
 .card-body .region-box h2 {
   color: var(--accent-indigo-light);
   margin-top: 0;
+  margin-bottom: 16px;
   font-size: 18px;
 }
+.card-body .region-box p { margin-bottom: 16px; }
+.card-body .region-box p:last-child { margin-bottom: 0; }
 .card-body .quote-of-month {
   background: linear-gradient(135deg, rgba(139,92,246,0.1), rgba(99,102,241,0.05));
   border: 1px solid rgba(139,92,246,0.25);
@@ -579,6 +595,8 @@ time { color: var(--text-tertiary); font-size: 11px; font-weight: 500; }
 /* ══════════ DETAIL PAGE ══════════ */
 .detail-page { max-width: 900px; }
 .detail-card { animation: none; }
+.detail-card .card-body { padding: 8px 0; }
+.detail-card .card-title { font-size: 20px; margin-bottom: 16px; }
 
 /* ══════════ PREV / NEXT NAVIGATION ══════════ */
 .prev-next-nav {

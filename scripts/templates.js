@@ -46,7 +46,7 @@ function renderPageShell({ title, bodyContent, cssPath, jsPath, description, can
   const fullTitle = `${title} — LG AI Trend Hub`;
   const desc = description || 'AI Commerce와 AI Marketing의 최신 트렌드, 뉴스, 인사이트를 한 곳에서.';
   const canonical = canonicalPath ? `${siteUrl}/${canonicalPath}` : siteUrl;
-  const faviconPath = cssPath ? cssPath.replace('assets/css/style.css', 'assets/favicon.svg') : 'assets/favicon.svg';
+  const faviconPath = cssPath ? cssPath.replace('assets/css/style.css', 'assets/favicon.png') : 'assets/favicon.png';
 
   return `<!DOCTYPE html>
 <html lang="ko">
@@ -71,7 +71,7 @@ function renderPageShell({ title, bodyContent, cssPath, jsPath, description, can
   <meta name="twitter:description" content="${desc}">
 
   <!-- Favicon -->
-  <link rel="icon" type="image/svg+xml" href="${faviconPath}">
+  <link rel="icon" type="image/png" href="${faviconPath}">
 
   <!-- Robots -->
   <meta name="robots" content="index, follow">
