@@ -129,8 +129,8 @@ function buildHomePage() {
       <a href="#weekly" class="nav-link">📊 Weekly Digest</a>
       <a href="#monthly" class="nav-link">📖 Monthly Deep Dive</a>
       <a href="#sources" class="nav-link">📡 Sources</a>
-      <a href="archive/daily/index.html" class="nav-link nav-link-archive">📂 Archive</a>
       <a href="archive/search.html" class="nav-link nav-link-search">🔍 Search</a>
+      <a href="archive/daily/index.html" class="nav-link nav-link-archive">📂 Archive</a>
     </div>
   </nav>
 

@@ -120,10 +120,10 @@ function renderBreadcrumb(trail, baseUrl) {
 function renderArchiveNav(activePage, baseUrl) {
   const links = [
     { id: 'home', label_ko: '🏠 홈', label_en: '🏠 Home', url: `${baseUrl}index.html` },
+    { id: 'search', label_ko: '🔍 통합검색', label_en: '🔍 Search', url: `${baseUrl}archive/search.html` },
     { id: 'daily', label_ko: '📰 Daily', label_en: '📰 Daily', url: `${baseUrl}archive/daily/index.html` },
     { id: 'weekly', label_ko: '📊 Weekly', label_en: '📊 Weekly', url: `${baseUrl}archive/weekly/index.html` },
     { id: 'monthly', label_ko: '📖 Monthly', label_en: '📖 Monthly', url: `${baseUrl}archive/monthly/index.html` },
-    { id: 'search', label_ko: '🔍 통합검색', label_en: '🔍 Search', url: `${baseUrl}archive/search.html` },
   ];
 
   const linksHTML = links.map(l =>

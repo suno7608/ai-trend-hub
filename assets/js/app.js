@@ -267,11 +267,12 @@
     let activeCat = 'all';
     let activeSort = 'relevance';
 
-    // Load search index
-    const basePath = (document.querySelector('link[rel="stylesheet"]')?.href || '').split('assets/')[0] || '../';
-    const indexUrl = new URL('search-index.json', window.location.href.replace(/archive\/search\.html.*$/, ''));
+    // Load search index — resolve relative to the site root
+    const cssHref = document.querySelector('link[rel="stylesheet"]')?.getAttribute('href') || '';
+    const basePath = cssHref.replace(/assets\/css\/style\.css.*$/, '');
+    const indexUrl = basePath + 'search-index.json';
 
-    fetch(indexUrl).then(r => r.json()).then(data => {
+    fetch(indexUrl).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); }).then(data => {
       searchIndex = data;
       // Check URL params for initial query
       const params = new URLSearchParams(window.location.search);
