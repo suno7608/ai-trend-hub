@@ -1,19 +1,20 @@
 #!/usr/bin/env node
 /**
- * AI Trend Hub - Static Site Builder
+ * AI Trend Hub - Static Site Builder v2.0
  * Reads markdown content with YAML frontmatter → generates static HTML site
+ * Supports: Home page, Archive pages, Detail pages (Weekly/Monthly)
  */
 
 const fs = require('fs');
 const path = require('path');
 const matter = require('gray-matter');
 const { marked } = require('marked');
+const T = require('./templates');
 
 const ROOT = path.resolve(__dirname, '..');
 const CONTENT_DIR = path.join(ROOT, 'content');
 const DIST_DIR = path.join(ROOT, 'dist');
 const ASSETS_DIR = path.join(ROOT, 'assets');
-const DATA_DIR = path.join(ROOT, 'data');
 
 // ── Helpers ──────────────────────────────────────────────
 function ensureDir(dir) {
@@ -32,38 +33,14 @@ function readMarkdownFiles(dir) {
     .sort((a, b) => new Date(b.date_published || b.date || 0) - new Date(a.date_published || a.date || 0));
 }
 
-function categoryLabel(cat) {
-  const map = {
-    commerce: 'Commerce',
-    marketing: 'Marketing',
-    tech: 'Tech',
-    strategy: 'Strategy',
-    ai_commerce: 'AI Commerce',
-    ai_marketing: 'AI Marketing',
-    ai_general: 'AI General',
-    d2c_dtc: 'D2C/DTC',
-    ce_industry: 'CE Industry',
-    platform_vendor: 'Platform',
-    cdp_crm_clv: 'CDP/CRM'
-  };
-  return map[cat] || cat;
-}
-
-function categoryColor(cat) {
-  const map = {
-    commerce: '#3B82F6',
-    marketing: '#8B5CF6',
-    tech: '#10B981',
-    strategy: '#F59E0B',
-    ai_commerce: '#3B82F6',
-    ai_marketing: '#8B5CF6',
-    ai_general: '#10B981',
-    d2c_dtc: '#EC4899',
-    ce_industry: '#6366F1',
-    platform_vendor: '#F97316',
-    cdp_crm_clv: '#14B8A6'
-  };
-  return map[cat] || '#6B7280';
+function groupBy(arr, keyFn) {
+  const groups = {};
+  arr.forEach(item => {
+    const key = keyFn(item);
+    if (!groups[key]) groups[key] = [];
+    groups[key].push(item);
+  });
+  return groups;
 }
 
 // ── Load Content ─────────────────────────────────────────
@@ -71,196 +48,76 @@ const dailyItems = readMarkdownFiles(path.join(CONTENT_DIR, 'daily'));
 const weeklyItems = readMarkdownFiles(path.join(CONTENT_DIR, 'weekly'));
 const monthlyItems = readMarkdownFiles(path.join(CONTENT_DIR, 'monthly'));
 
+// Sort weekly/monthly by their specific fields
+weeklyItems.sort((a, b) => (b.week || '').localeCompare(a.week || ''));
+monthlyItems.sort((a, b) => (b.month || '').localeCompare(a.month || ''));
+
+// ── Group data for archives ──────────────────────────────
+const dailyByMonth = groupBy(dailyItems, item => (item.date_published || '').slice(0, 7));
+const weeklyByYear = groupBy(weeklyItems, item => (item.week || '').split('-')[0]);
+const monthlyByYear = groupBy(monthlyItems, item => (item.month || '').split('-')[0]);
+
 // ── Generate index.json ──────────────────────────────────
+const allTags = [...new Set(dailyItems.flatMap(d => d.tags || []))];
+const allCategories = [...new Set(dailyItems.flatMap(d => d.categories || []))];
+
 const indexData = {
   generated_at: new Date().toISOString(),
-  counts: {
-    daily: dailyItems.length,
-    weekly: weeklyItems.length,
-    monthly: monthlyItems.length
-  },
+  counts: { daily: dailyItems.length, weekly: weeklyItems.length, monthly: monthlyItems.length },
   daily: dailyItems.map(d => ({
-    id: d.id,
-    title: d.title,
-    date_published: d.date_published,
-    source_name: d.source_name,
-    categories: d.categories,
-    tags: d.tags,
-    canonical_url: d.canonical_url
+    id: d.id, title: d.title, date_published: d.date_published,
+    source_name: d.source_name, categories: d.categories, tags: d.tags, canonical_url: d.canonical_url
   })),
-  weekly: weeklyItems.map(w => ({
-    week: w.week,
-    title: w.title || `Week ${w.week} Digest`
-  })),
-  monthly: monthlyItems.map(m => ({
-    month: m.month,
-    title: m.title || `${m.month} Deep Dive`
-  }))
+  weekly: weeklyItems.map(w => ({ week: w.week, title: w.title || `Week ${w.week} Digest` })),
+  monthly: monthlyItems.map(m => ({ month: m.month, title: m.title || `${m.month} Deep Dive` }))
 };
 
-// ── Render Daily Card ────────────────────────────────────
-function renderDailyCard(item, lang = 'ko') {
-  const summary = lang === 'ko' ? (item.summary_ko || item.summary_en || '') : (item.summary_en || item.summary_ko || '');
-  const soWhat = lang === 'ko' ? (item.so_what_ko || item.so_what_en || '') : (item.so_what_en || item.so_what_ko || '');
-  const cats = (item.categories || []).map(c =>
-    `<span class="tag" style="background:${categoryColor(c)}20;color:${categoryColor(c)};border:1px solid ${categoryColor(c)}40">${categoryLabel(c)}</span>`
-  ).join('');
-  const tags = (item.tags || []).map(t =>
-    `<span class="tag tag-sub">${t}</span>`
-  ).join('');
-  const keyPoints = (item.key_points || []).map(kp => `<li>${kp}</li>`).join('');
+// ══════════════════════════════════════════════════════════
+//  PAGE BUILDERS
+// ══════════════════════════════════════════════════════════
 
-  return `
-    <article class="card daily-card" data-categories="${(item.categories||[]).join(',')}" data-tags="${(item.tags||[]).join(',')}" data-lang-ko data-lang-en>
-      <div class="card-header">
-        <div class="card-meta">
-          <span class="source-badge">${item.source_name || 'Unknown'}</span>
-        </div>
-        <div class="card-tags">${cats}${tags}</div>
-      </div>
-      <h3 class="card-title">
-        <a href="${item.canonical_url || '#'}" target="_blank" rel="noopener">${item.title || 'Untitled'}</a>
-      </h3>
-      <div class="card-summary">
-        <div class="lang-ko">${item.summary_ko || ''}</div>
-        <div class="lang-en" style="display:none">${item.summary_en || ''}</div>
-      </div>
-      ${keyPoints ? `<ul class="key-points">${keyPoints}</ul>` : ''}
-      <div class="so-what">
-        <strong>💡 So What</strong>
-        <div class="lang-ko">${item.so_what_ko || ''}</div>
-        <div class="lang-en" style="display:none">${item.so_what_en || ''}</div>
-      </div>
-      <div class="card-footer">
-        <a href="${item.canonical_url || '#'}" target="_blank" rel="noopener" class="read-more">원문 보기 →</a>
-        <time>${item.date_published || ''}</time>
-        ${item.confidence ? `<span class="confidence">신뢰도: ${(item.confidence * 100).toFixed(0)}%</span>` : ''}
-      </div>
-      <div class="social-actions" data-card-id="daily-${item.id || item._filename}">
-        <button class="social-btn like-btn" data-action="like" title="좋아요">
-          <span class="like-icon">♡</span>
-          <span class="like-count">0</span>
-        </button>
-        <button class="social-btn share-btn" data-action="share" data-title="${(item.title || '').replace(/"/g, '&quot;')}" data-url="${item.canonical_url || ''}" title="공유하기">
-          <span class="share-icon">↗</span>
-          <span class="lang-ko">공유</span><span class="lang-en" style="display:none">Share</span>
-        </button>
-      </div>
-    </article>`;
-}
+// ── Home Page ────────────────────────────────────────────
+function buildHomePage() {
+  // Daily: show last 7 days only
+  const cutoff = new Date();
+  cutoff.setDate(cutoff.getDate() - 7);
+  const recentDaily = dailyItems.filter(d => {
+    if (!d.date_published) return true; // include items without date
+    return new Date(d.date_published) >= cutoff;
+  });
+  // If no recent items, show all (for PoC with limited data)
+  const homeDaily = recentDaily.length > 0 ? recentDaily : dailyItems;
+  const showArchiveLink = dailyItems.length > homeDaily.length;
 
-// ── Render Weekly Card ───────────────────────────────────
-function renderWeeklyCard(item) {
-  return `
-    <article class="card weekly-card">
-      <div class="card-header">
-        <span class="badge badge-weekly">📊 Weekly Digest</span>
-        <time>${item.week || item.date_published || ''}</time>
-      </div>
-      <div class="card-title">
-        <span class="lang-ko">${item.title || `Week ${item.week} Digest`}</span>
-        <span class="lang-en" style="display:none">${item.title_en || `Week ${item.week} Digest`}</span>
-      </div>
-      <div class="card-body">
-        ${item._body || ''}
-      </div>
-      <div class="social-actions" data-card-id="weekly-${item.week || item._filename}">
-        <button class="social-btn like-btn" data-action="like" title="좋아요">
-          <span class="like-icon">♡</span>
-          <span class="like-count">0</span>
-        </button>
-        <button class="social-btn share-btn" data-action="share" data-title="${(item.title || '').replace(/"/g, '&quot;')}" data-url="" title="공유하기">
-          <span class="share-icon">↗</span>
-          <span class="lang-ko">공유</span><span class="lang-en" style="display:none">Share</span>
-        </button>
-      </div>
-    </article>`;
-}
+  const dailyCardsHTML = homeDaily.map(d => T.renderDailyCard(d)).join('\n');
 
-// ── Render Monthly Card ──────────────────────────────────
-function renderMonthlyCard(item) {
-  return `
-    <article class="card monthly-card">
-      <div class="card-header">
-        <span class="badge badge-monthly">📖 Monthly Deep Dive</span>
-        <time>${item.month || item.date_published || ''}</time>
-      </div>
-      <div class="card-title">
-        <span class="lang-ko">${item.title || `${item.month} Deep Dive`}</span>
-        <span class="lang-en" style="display:none">${item.title_en || `${item.month} Deep Dive`}</span>
-      </div>
-      <div class="card-body">
-        ${item._body || ''}
-      </div>
-      <div class="social-actions" data-card-id="monthly-${item.month || item._filename}">
-        <button class="social-btn like-btn" data-action="like" title="좋아요">
-          <span class="like-icon">♡</span>
-          <span class="like-count">0</span>
-        </button>
-        <button class="social-btn share-btn" data-action="share" data-title="${(item.title || '').replace(/"/g, '&quot;')}" data-url="" title="공유하기">
-          <span class="share-icon">↗</span>
-          <span class="lang-ko">공유</span><span class="lang-en" style="display:none">Share</span>
-        </button>
-      </div>
-    </article>`;
-}
+  // Weekly: show latest 1 only with link to detail
+  const latestWeekly = weeklyItems[0];
+  const weeklyCardHTML = latestWeekly
+    ? T.renderWeeklyCard(latestWeekly, { linkToDetail: true, detailUrl: `weekly/${latestWeekly.week}.html` })
+    : '';
 
-// ── Build HTML ───────────────────────────────────────────
-function buildSite() {
-  ensureDir(DIST_DIR);
-  ensureDir(path.join(DIST_DIR, 'assets', 'css'));
-  ensureDir(path.join(DIST_DIR, 'assets', 'js'));
+  // Monthly: show latest 1 only with link to detail
+  const latestMonthly = monthlyItems[0];
+  const monthlyCardHTML = latestMonthly
+    ? T.renderMonthlyCard(latestMonthly, { linkToDetail: true, detailUrl: `monthly/${latestMonthly.month}.html` })
+    : '';
 
-  // Copy assets
-  const cssFile = path.join(ASSETS_DIR, 'css', 'style.css');
-  const jsFile = path.join(ASSETS_DIR, 'js', 'app.js');
-  if (fs.existsSync(cssFile)) fs.copyFileSync(cssFile, path.join(DIST_DIR, 'assets', 'css', 'style.css'));
-  if (fs.existsSync(jsFile)) fs.copyFileSync(jsFile, path.join(DIST_DIR, 'assets', 'js', 'app.js'));
-
-  // Generate daily cards
-  const dailyCardsHTML = dailyItems.map(d => renderDailyCard(d)).join('\n');
-  const weeklyCardsHTML = weeklyItems.map(w => renderWeeklyCard(w)).join('\n');
-  const monthlyCardsHTML = monthlyItems.map(m => renderMonthlyCard(m)).join('\n');
-
-  // Collect all unique tags
-  const allTags = [...new Set(dailyItems.flatMap(d => d.tags || []))];
-  const allCategories = [...new Set(dailyItems.flatMap(d => d.categories || []))];
   const tagFiltersHTML = allCategories.map(c =>
-    `<button class="filter-btn" data-filter="${c}" style="--filter-color:${categoryColor(c)}">${categoryLabel(c)}</button>`
+    `<button class="filter-btn" data-filter="${c}" style="--filter-color:${T.categoryColor(c)}">${T.categoryLabel(c)}</button>`
   ).join('');
 
-  const html = `<!DOCTYPE html>
-<html lang="ko">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>LG AI Trend Hub — AI Commerce & Marketing Intelligence</title>
-  <meta name="description" content="AI Commerce와 AI Marketing의 최신 트렌드, 뉴스, 인사이트를 한 곳에서. Daily · Weekly · Monthly 큐레이션.">
-  <link rel="stylesheet" href="assets/css/style.css">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+KR:wght@400;500;600;700&display=swap" rel="stylesheet">
-</head>
-<body>
-  <!-- Header -->
-  <header class="site-header">
-    <div class="container">
-      <div class="header-left">
-        <h1 class="logo">
-          <span class="logo-icon">🔮</span>
-          <span>LG AI Trend Hub</span>
-        </h1>
-        <p class="tagline lang-ko">AI Commerce & Marketing Intelligence for LG Global DTC members</p>
-        <p class="tagline lang-en" style="display:none">AI Commerce & Marketing Intelligence for LG Global DTC members</p>
-      </div>
-      <div class="header-right">
-        <button id="langToggle" class="lang-toggle" title="Toggle Language">
-          <span class="lang-active">KO</span> / <span class="lang-inactive">EN</span>
-        </button>
-        <button id="themeToggle" class="theme-toggle" title="Toggle Theme">🌙</button>
-      </div>
-    </div>
-  </header>
+  const archiveLinkHTML = showArchiveLink
+    ? `<a href="archive/daily/index.html" class="archive-link-btn">
+        <span class="lang-ko">📂 전체 아카이브 보기</span>
+        <span class="lang-en" style="display:none">📂 View Full Archive</span>
+      </a>`
+    : `<a href="archive/daily/index.html" class="archive-link-btn">
+        <span class="lang-ko">📂 아카이브</span>
+        <span class="lang-en" style="display:none">📂 Archive</span>
+      </a>`;
 
+  const bodyContent = `
   <!-- Navigation -->
   <nav class="section-nav">
     <div class="container">
@@ -268,6 +125,7 @@ function buildSite() {
       <a href="#weekly" class="nav-link">📊 Weekly Digest</a>
       <a href="#monthly" class="nav-link">📖 Monthly Deep Dive</a>
       <a href="#sources" class="nav-link">📡 Sources</a>
+      <a href="archive/daily/index.html" class="nav-link nav-link-archive">📂 Archive</a>
     </div>
   </nav>
 
@@ -276,8 +134,8 @@ function buildSite() {
     <div class="container">
       <div class="stat">
         <span class="stat-number">${dailyItems.length}</span>
-        <span class="stat-label lang-ko">오늘의 뉴스</span>
-        <span class="stat-label lang-en" style="display:none">Today's News</span>
+        <span class="stat-label lang-ko">전체 뉴스</span>
+        <span class="stat-label lang-en" style="display:none">Total News</span>
       </div>
       <div class="stat">
         <span class="stat-number">${weeklyItems.length}</span>
@@ -303,10 +161,9 @@ function buildSite() {
       <div class="section-header">
         <h2>📰 <span class="lang-ko">Today's Feed</span><span class="lang-en" style="display:none">Today's Feed</span></h2>
         <span class="section-desc lang-ko">최신 AI Commerce & Marketing 뉴스</span>
-        <span class="section-desc lang-en" style="display:none">Latest AI Commerce & Marketing news (last 2-3 days)</span>
+        <span class="section-desc lang-en" style="display:none">Latest AI Commerce & Marketing news</span>
       </div>
 
-      <!-- Search & Filters (Inside Daily Section) -->
       <div class="search-container">
         <div class="search-wrapper">
           <span class="search-icon">🔍</span>
@@ -324,6 +181,8 @@ function buildSite() {
       <div class="card-grid">
         ${dailyCardsHTML || '<p class="empty-state">아직 Daily 콘텐츠가 없습니다.</p>'}
       </div>
+
+      ${archiveLinkHTML}
     </section>
 
     <!-- Weekly Section -->
@@ -334,8 +193,9 @@ function buildSite() {
         <span class="section-desc lang-en" style="display:none">This Week's Top 5 Trends</span>
       </div>
       <div class="card-grid card-grid-single">
-        ${weeklyCardsHTML || '<p class="empty-state">아직 Weekly 콘텐츠가 없습니다.</p>'}
+        ${weeklyCardHTML || '<p class="empty-state">아직 Weekly 콘텐츠가 없습니다.</p>'}
       </div>
+      ${weeklyItems.length > 1 ? `<a href="archive/weekly/index.html" class="archive-link-btn"><span class="lang-ko">📂 지난 Weekly 보기</span><span class="lang-en" style="display:none">📂 View Past Weekly</span></a>` : ''}
     </section>
 
     <!-- Monthly Section -->
@@ -346,8 +206,9 @@ function buildSite() {
         <span class="section-desc lang-en" style="display:none">Research-based in-depth analysis</span>
       </div>
       <div class="card-grid card-grid-single">
-        ${monthlyCardsHTML || '<p class="empty-state">아직 Monthly 콘텐츠가 없습니다.</p>'}
+        ${monthlyCardHTML || '<p class="empty-state">아직 Monthly 콘텐츠가 없습니다.</p>'}
       </div>
+      ${monthlyItems.length > 1 ? `<a href="archive/monthly/index.html" class="archive-link-btn"><span class="lang-ko">📂 지난 Monthly 보기</span><span class="lang-en" style="display:none">📂 View Past Monthly</span></a>` : ''}
     </section>
 
     <!-- Sources Section -->
@@ -359,39 +220,444 @@ function buildSite() {
       </div>
       <div class="sources-grid" id="sourcesGrid"></div>
     </section>
-  </main>
+  </main>`;
 
-  <!-- Footer -->
-  <footer class="site-footer">
-    <div class="container">
-      <p>© 2026 LG AI Trend Hub — LG Global D2C Insight</p>
-      <p class="lang-ko">AI Commerce & Marketing Trend Intelligence Hub</p>
-      <p class="lang-en" style="display:none">AI Commerce & Marketing Trend Intelligence Hub</p>
-      <p class="footer-meta">Last build: ${new Date().toISOString().split('T')[0]} | Content items: ${dailyItems.length + weeklyItems.length + monthlyItems.length}</p>
-    </div>
-  </footer>
+  return T.renderPageShell({
+    title: 'AI Commerce & Marketing Intelligence',
+    bodyContent,
+    cssPath: 'assets/css/style.css',
+    jsPath: 'assets/js/app.js',
+  });
+}
 
-  <!-- Back to Top -->
-  <button id="backToTop" class="back-to-top" title="Back to top">↑</button>
+// ── Daily Archive Index ──────────────────────────────────
+function buildDailyArchiveIndex() {
+  const months = Object.keys(dailyByMonth).sort().reverse();
+  const cardsHTML = months.map(ym => T.renderArchiveIndexCard({
+    label_ko: T.monthLabelKo(ym),
+    label_en: T.monthLabelEn(ym),
+    count: dailyByMonth[ym].length,
+    url: `${ym.split('-')[0]}/${ym.split('-')[1]}/index.html`,
+    icon: '📰'
+  })).join('\n');
 
-  <script src="assets/js/app.js"></script>
-</body>
-</html>`;
+  const bodyContent = `
+  ${T.renderArchiveNav('daily', '../../')}
+  <main class="container main-content">
+    <section class="content-section">
+      ${T.renderBreadcrumb([
+        { label_ko: '홈', label_en: 'Home', url: '../../index.html' },
+        { label_ko: 'Daily 아카이브', label_en: 'Daily Archive' }
+      ])}
+      <div class="section-header archive-section-header">
+        <h2>📰 <span class="lang-ko">Daily 아카이브</span><span class="lang-en" style="display:none">Daily Archive</span></h2>
+        <span class="section-desc lang-ko">월별로 모아보는 Daily 뉴스 피드</span>
+        <span class="section-desc lang-en" style="display:none">Daily news feed organized by month</span>
+      </div>
+      ${T.renderArchiveGrid(cardsHTML) || '<p class="empty-state">아직 콘텐츠가 없습니다.</p>'}
+    </section>
+  </main>`;
 
-  fs.writeFileSync(path.join(DIST_DIR, 'index.html'), html);
+  return T.renderPageShell({
+    title: 'Daily Archive',
+    bodyContent,
+    cssPath: '../../assets/css/style.css',
+    jsPath: '../../assets/js/app.js',
+  });
+}
+
+// ── Daily Monthly Page (e.g., /archive/daily/2026/02/) ───
+function buildDailyMonthPage(ym, items) {
+  const [year, month] = ym.split('-');
+  const dailyCardsHTML = items.map(d => T.renderDailyCard(d)).join('\n');
+
+  // Category filters for this month
+  const monthCats = [...new Set(items.flatMap(d => d.categories || []))];
+  const tagFiltersHTML = monthCats.map(c =>
+    `<button class="filter-btn" data-filter="${c}" style="--filter-color:${T.categoryColor(c)}">${T.categoryLabel(c)}</button>`
+  ).join('');
+
+  const bodyContent = `
+  ${T.renderArchiveNav('daily', '../../../../')}
+  <main class="container main-content">
+    <section class="content-section">
+      ${T.renderBreadcrumb([
+        { label_ko: '홈', label_en: 'Home', url: '../../../../index.html' },
+        { label_ko: 'Daily 아카이브', label_en: 'Daily Archive', url: '../../index.html' },
+        { label_ko: T.monthLabelKo(ym), label_en: T.monthLabelEn(ym) }
+      ])}
+      <div class="section-header archive-section-header">
+        <h2>📰 <span class="lang-ko">${T.monthLabelKo(ym)} Daily</span><span class="lang-en" style="display:none">${T.monthLabelEn(ym)} Daily</span></h2>
+        <span class="section-desc">${items.length} items</span>
+      </div>
+
+      <div class="search-container">
+        <div class="search-wrapper">
+          <span class="search-icon">🔍</span>
+          <input type="text" id="searchInput" class="search-input" placeholder="🔍 키워드, 태그, 소스로 검색...">
+        </div>
+        <div id="searchResultsCount" class="search-results-count"></div>
+      </div>
+
+      <div class="filters">
+        <span class="filters-label">Filter</span>
+        <button class="filter-btn active" data-filter="all">All</button>
+        ${tagFiltersHTML}
+      </div>
+
+      <div class="card-grid">
+        ${dailyCardsHTML}
+      </div>
+    </section>
+  </main>`;
+
+  return T.renderPageShell({
+    title: `${T.monthLabelEn(ym)} Daily`,
+    bodyContent,
+    cssPath: '../../../../assets/css/style.css',
+    jsPath: '../../../../assets/js/app.js',
+  });
+}
+
+// ── Weekly Archive Index ─────────────────────────────────
+function buildWeeklyArchiveIndex() {
+  const years = Object.keys(weeklyByYear).sort().reverse();
+  const cardsHTML = years.map(y => T.renderArchiveIndexCard({
+    label_ko: `${y}년`,
+    label_en: y,
+    count: weeklyByYear[y].length,
+    url: `${y}/index.html`,
+    icon: '📊'
+  })).join('\n');
+
+  const bodyContent = `
+  ${T.renderArchiveNav('weekly', '../../')}
+  <main class="container main-content">
+    <section class="content-section">
+      ${T.renderBreadcrumb([
+        { label_ko: '홈', label_en: 'Home', url: '../../index.html' },
+        { label_ko: 'Weekly 아카이브', label_en: 'Weekly Archive' }
+      ])}
+      <div class="section-header archive-section-header">
+        <h2>📊 <span class="lang-ko">Weekly 아카이브</span><span class="lang-en" style="display:none">Weekly Archive</span></h2>
+        <span class="section-desc lang-ko">주간 트렌드 다이제스트 모음</span>
+        <span class="section-desc lang-en" style="display:none">Weekly trend digest collection</span>
+      </div>
+      ${T.renderArchiveGrid(cardsHTML) || '<p class="empty-state">아직 콘텐츠가 없습니다.</p>'}
+    </section>
+  </main>`;
+
+  return T.renderPageShell({
+    title: 'Weekly Archive',
+    bodyContent,
+    cssPath: '../../assets/css/style.css',
+    jsPath: '../../assets/js/app.js',
+  });
+}
+
+// ── Weekly Year Page ─────────────────────────────────────
+function buildWeeklyYearPage(year, items) {
+  const listHTML = items.map(item =>
+    T.renderWeeklyListCard(item, `../../../weekly/${item.week}.html`)
+  ).join('\n');
+
+  const bodyContent = `
+  ${T.renderArchiveNav('weekly', '../../../')}
+  <main class="container main-content">
+    <section class="content-section">
+      ${T.renderBreadcrumb([
+        { label_ko: '홈', label_en: 'Home', url: '../../../index.html' },
+        { label_ko: 'Weekly 아카이브', label_en: 'Weekly Archive', url: '../index.html' },
+        { label_ko: `${year}년`, label_en: year }
+      ])}
+      <div class="section-header archive-section-header">
+        <h2>📊 <span class="lang-ko">${year}년 Weekly Digest</span><span class="lang-en" style="display:none">${year} Weekly Digest</span></h2>
+        <span class="section-desc">${items.length} issues</span>
+      </div>
+      <div class="archive-list">
+        ${listHTML}
+      </div>
+    </section>
+  </main>`;
+
+  return T.renderPageShell({
+    title: `${year} Weekly Digest`,
+    bodyContent,
+    cssPath: '../../../assets/css/style.css',
+    jsPath: '../../../assets/js/app.js',
+  });
+}
+
+// ── Weekly Detail Page ───────────────────────────────────
+function buildWeeklyDetailPage(item, prevItem, nextItem) {
+  const prev = prevItem ? { title: prevItem.week, url: `${prevItem.week}.html` } : null;
+  const next = nextItem ? { title: nextItem.week, url: `${nextItem.week}.html` } : null;
+  const year = (item.week || '').split('-')[0];
+
+  const bodyContent = `
+  ${T.renderArchiveNav('weekly', '../')}
+  <main class="container main-content">
+    <section class="content-section detail-page">
+      ${T.renderBreadcrumb([
+        { label_ko: '홈', label_en: 'Home', url: '../index.html' },
+        { label_ko: 'Weekly 아카이브', label_en: 'Weekly Archive', url: `../archive/weekly/index.html` },
+        { label_ko: `${year}년`, label_en: year, url: `../archive/weekly/${year}/index.html` },
+        { label_ko: item.week, label_en: item.week }
+      ])}
+
+      <article class="card weekly-card detail-card">
+        <div class="card-header">
+          <span class="badge badge-weekly">📊 Weekly Digest</span>
+          <time>${item.week}</time>
+        </div>
+        <div class="card-title">
+          <span class="lang-ko">${item.title || `Week ${item.week} Digest`}</span>
+          <span class="lang-en" style="display:none">${item.title_en || `Week ${item.week} Digest`}</span>
+        </div>
+        <div class="card-body">
+          ${item._body || ''}
+        </div>
+        <div class="social-actions" data-card-id="weekly-${item.week}">
+          <button class="social-btn like-btn" data-action="like" title="좋아요">
+            <span class="like-icon">♡</span>
+            <span class="like-count">0</span>
+          </button>
+          <button class="social-btn share-btn" data-action="share" data-title="${(item.title || '').replace(/"/g, '&quot;')}" data-url="" title="공유하기">
+            <span class="share-icon">↗</span>
+            <span class="lang-ko">공유</span><span class="lang-en" style="display:none">Share</span>
+          </button>
+        </div>
+      </article>
+
+      ${T.renderPrevNext({ prev, next, backUrl: `../archive/weekly/${year}/index.html`, backLabelKo: 'Weekly 목록으로', backLabelEn: 'Back to Weekly list' })}
+    </section>
+  </main>`;
+
+  return T.renderPageShell({
+    title: `${item.week} Weekly Digest`,
+    bodyContent,
+    cssPath: '../assets/css/style.css',
+    jsPath: '../assets/js/app.js',
+  });
+}
+
+// ── Monthly Archive Index ────────────────────────────────
+function buildMonthlyArchiveIndex() {
+  const years = Object.keys(monthlyByYear).sort().reverse();
+  const cardsHTML = years.map(y => T.renderArchiveIndexCard({
+    label_ko: `${y}년`,
+    label_en: y,
+    count: monthlyByYear[y].length,
+    url: `${y}/index.html`,
+    icon: '📖'
+  })).join('\n');
+
+  const bodyContent = `
+  ${T.renderArchiveNav('monthly', '../../')}
+  <main class="container main-content">
+    <section class="content-section">
+      ${T.renderBreadcrumb([
+        { label_ko: '홈', label_en: 'Home', url: '../../index.html' },
+        { label_ko: 'Monthly 아카이브', label_en: 'Monthly Archive' }
+      ])}
+      <div class="section-header archive-section-header">
+        <h2>📖 <span class="lang-ko">Monthly 아카이브</span><span class="lang-en" style="display:none">Monthly Archive</span></h2>
+        <span class="section-desc lang-ko">리서치 기반 월간 딥다이브 모음</span>
+        <span class="section-desc lang-en" style="display:none">Research-based monthly deep dive collection</span>
+      </div>
+      ${T.renderArchiveGrid(cardsHTML) || '<p class="empty-state">아직 콘텐츠가 없습니다.</p>'}
+    </section>
+  </main>`;
+
+  return T.renderPageShell({
+    title: 'Monthly Archive',
+    bodyContent,
+    cssPath: '../../assets/css/style.css',
+    jsPath: '../../assets/js/app.js',
+  });
+}
+
+// ── Monthly Year Page ────────────────────────────────────
+function buildMonthlyYearPage(year, items) {
+  const listHTML = items.map(item =>
+    T.renderMonthlyListCard(item, `../../../monthly/${item.month}.html`)
+  ).join('\n');
+
+  const bodyContent = `
+  ${T.renderArchiveNav('monthly', '../../../')}
+  <main class="container main-content">
+    <section class="content-section">
+      ${T.renderBreadcrumb([
+        { label_ko: '홈', label_en: 'Home', url: '../../../index.html' },
+        { label_ko: 'Monthly 아카이브', label_en: 'Monthly Archive', url: '../index.html' },
+        { label_ko: `${year}년`, label_en: year }
+      ])}
+      <div class="section-header archive-section-header">
+        <h2>📖 <span class="lang-ko">${year}년 Monthly Deep Dive</span><span class="lang-en" style="display:none">${year} Monthly Deep Dive</span></h2>
+        <span class="section-desc">${items.length} issues</span>
+      </div>
+      <div class="archive-list">
+        ${listHTML}
+      </div>
+    </section>
+  </main>`;
+
+  return T.renderPageShell({
+    title: `${year} Monthly Deep Dive`,
+    bodyContent,
+    cssPath: '../../../assets/css/style.css',
+    jsPath: '../../../assets/js/app.js',
+  });
+}
+
+// ── Monthly Detail Page ──────────────────────────────────
+function buildMonthlyDetailPage(item, prevItem, nextItem) {
+  const prev = prevItem ? { title: prevItem.month, url: `${prevItem.month}.html` } : null;
+  const next = nextItem ? { title: nextItem.month, url: `${nextItem.month}.html` } : null;
+  const year = (item.month || '').split('-')[0];
+
+  const bodyContent = `
+  ${T.renderArchiveNav('monthly', '../')}
+  <main class="container main-content">
+    <section class="content-section detail-page">
+      ${T.renderBreadcrumb([
+        { label_ko: '홈', label_en: 'Home', url: '../index.html' },
+        { label_ko: 'Monthly 아카이브', label_en: 'Monthly Archive', url: `../archive/monthly/index.html` },
+        { label_ko: `${year}년`, label_en: year, url: `../archive/monthly/${year}/index.html` },
+        { label_ko: T.monthLabelKo(item.month), label_en: T.monthLabelEn(item.month) }
+      ])}
+
+      <article class="card monthly-card detail-card">
+        <div class="card-header">
+          <span class="badge badge-monthly">📖 Monthly Deep Dive</span>
+          <time>${item.month}</time>
+        </div>
+        <div class="card-title">
+          <span class="lang-ko">${item.title || `${item.month} Deep Dive`}</span>
+          <span class="lang-en" style="display:none">${item.title_en || `${item.month} Deep Dive`}</span>
+        </div>
+        <div class="card-body">
+          ${item._body || ''}
+        </div>
+        <div class="social-actions" data-card-id="monthly-${item.month}">
+          <button class="social-btn like-btn" data-action="like" title="좋아요">
+            <span class="like-icon">♡</span>
+            <span class="like-count">0</span>
+          </button>
+          <button class="social-btn share-btn" data-action="share" data-title="${(item.title || '').replace(/"/g, '&quot;')}" data-url="" title="공유하기">
+            <span class="share-icon">↗</span>
+            <span class="lang-ko">공유</span><span class="lang-en" style="display:none">Share</span>
+          </button>
+        </div>
+      </article>
+
+      ${T.renderPrevNext({ prev, next, backUrl: `../archive/monthly/${year}/index.html`, backLabelKo: 'Monthly 목록으로', backLabelEn: 'Back to Monthly list' })}
+    </section>
+  </main>`;
+
+  return T.renderPageShell({
+    title: `${T.monthLabelEn(item.month)} Deep Dive`,
+    bodyContent,
+    cssPath: '../assets/css/style.css',
+    jsPath: '../assets/js/app.js',
+  });
+}
+
+// ══════════════════════════════════════════════════════════
+//  BUILD ALL
+// ══════════════════════════════════════════════════════════
+function buildSite() {
+  // Clean & prepare dist
+  ensureDir(DIST_DIR);
+  ensureDir(path.join(DIST_DIR, 'assets', 'css'));
+  ensureDir(path.join(DIST_DIR, 'assets', 'js'));
+
+  // Copy assets
+  const cssFile = path.join(ASSETS_DIR, 'css', 'style.css');
+  const jsFile = path.join(ASSETS_DIR, 'js', 'app.js');
+  if (fs.existsSync(cssFile)) fs.copyFileSync(cssFile, path.join(DIST_DIR, 'assets', 'css', 'style.css'));
+  if (fs.existsSync(jsFile)) fs.copyFileSync(jsFile, path.join(DIST_DIR, 'assets', 'js', 'app.js'));
+
+  let pageCount = 0;
+
+  // ── 1. Home page ───────────────────────────────────────
+  fs.writeFileSync(path.join(DIST_DIR, 'index.html'), buildHomePage());
   fs.writeFileSync(path.join(DIST_DIR, 'index.json'), JSON.stringify(indexData, null, 2));
+  pageCount++;
 
-  // Copy CNAME if exists
+  // ── 2. Daily Archive ───────────────────────────────────
+  const dailyArchiveDir = path.join(DIST_DIR, 'archive', 'daily');
+  ensureDir(dailyArchiveDir);
+  fs.writeFileSync(path.join(dailyArchiveDir, 'index.html'), buildDailyArchiveIndex());
+  pageCount++;
+
+  // Daily month pages
+  Object.keys(dailyByMonth).forEach(ym => {
+    const [year, month] = ym.split('-');
+    const monthDir = path.join(dailyArchiveDir, year, month);
+    ensureDir(monthDir);
+    fs.writeFileSync(path.join(monthDir, 'index.html'), buildDailyMonthPage(ym, dailyByMonth[ym]));
+    pageCount++;
+  });
+
+  // ── 3. Weekly Archive ──────────────────────────────────
+  const weeklyArchiveDir = path.join(DIST_DIR, 'archive', 'weekly');
+  ensureDir(weeklyArchiveDir);
+  fs.writeFileSync(path.join(weeklyArchiveDir, 'index.html'), buildWeeklyArchiveIndex());
+  pageCount++;
+
+  // Weekly year pages
+  Object.keys(weeklyByYear).forEach(year => {
+    const yearDir = path.join(weeklyArchiveDir, year);
+    ensureDir(yearDir);
+    fs.writeFileSync(path.join(yearDir, 'index.html'), buildWeeklyYearPage(year, weeklyByYear[year]));
+    pageCount++;
+  });
+
+  // Weekly detail pages
+  const weeklyDetailDir = path.join(DIST_DIR, 'weekly');
+  ensureDir(weeklyDetailDir);
+  weeklyItems.forEach((item, i) => {
+    const prevItem = weeklyItems[i + 1] || null; // older
+    const nextItem = weeklyItems[i - 1] || null; // newer
+    fs.writeFileSync(path.join(weeklyDetailDir, `${item.week}.html`), buildWeeklyDetailPage(item, prevItem, nextItem));
+    pageCount++;
+  });
+
+  // ── 4. Monthly Archive ─────────────────────────────────
+  const monthlyArchiveDir = path.join(DIST_DIR, 'archive', 'monthly');
+  ensureDir(monthlyArchiveDir);
+  fs.writeFileSync(path.join(monthlyArchiveDir, 'index.html'), buildMonthlyArchiveIndex());
+  pageCount++;
+
+  // Monthly year pages
+  Object.keys(monthlyByYear).forEach(year => {
+    const yearDir = path.join(monthlyArchiveDir, year);
+    ensureDir(yearDir);
+    fs.writeFileSync(path.join(yearDir, 'index.html'), buildMonthlyYearPage(year, monthlyByYear[year]));
+    pageCount++;
+  });
+
+  // Monthly detail pages
+  const monthlyDetailDir = path.join(DIST_DIR, 'monthly');
+  ensureDir(monthlyDetailDir);
+  monthlyItems.forEach((item, i) => {
+    const prevItem = monthlyItems[i + 1] || null;
+    const nextItem = monthlyItems[i - 1] || null;
+    fs.writeFileSync(path.join(monthlyDetailDir, `${item.month}.html`), buildMonthlyDetailPage(item, prevItem, nextItem));
+    pageCount++;
+  });
+
+  // ── 5. Misc ────────────────────────────────────────────
   const cname = path.join(ROOT, 'CNAME');
   if (fs.existsSync(cname)) fs.copyFileSync(cname, path.join(DIST_DIR, 'CNAME'));
-
-  // Create .nojekyll for GitHub Pages
   fs.writeFileSync(path.join(DIST_DIR, '.nojekyll'), '');
 
   console.log(`✅ Build complete!`);
   console.log(`   Daily: ${dailyItems.length} items`);
   console.log(`   Weekly: ${weeklyItems.length} items`);
   console.log(`   Monthly: ${monthlyItems.length} items`);
+  console.log(`   Pages generated: ${pageCount}`);
   console.log(`   Output: ${DIST_DIR}`);
 }
 

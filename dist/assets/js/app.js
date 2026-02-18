@@ -22,19 +22,32 @@
     if (si) si.placeholder = lang === 'ko' ? '🔍 키워드, 태그, 소스로 검색...' : '🔍 Search by keyword, tag, source...';
   }
 
-  if (langToggle) langToggle.addEventListener('click', () => setLanguage(currentLang === 'ko' ? 'en' : 'ko'));
+  if (langToggle) langToggle.addEventListener('click', () => {
+    const newLang = currentLang === 'ko' ? 'en' : 'ko';
+    setLanguage(newLang);
+    try { localStorage.setItem(LANG_KEY, newLang); } catch {}
+  });
 
-  // ── Theme Toggle ──
+  // ── Theme Toggle (persists across pages) ──
+  const THEME_KEY = 'ai-trend-hub-theme';
   const themeToggle = document.getElementById('themeToggle');
   let isDark = true;
-
+  try { isDark = (localStorage.getItem(THEME_KEY) || 'dark') === 'dark'; } catch {}
+  document.documentElement.setAttribute('data-theme', isDark ? 'dark' : 'light');
   if (themeToggle) {
+    themeToggle.textContent = isDark ? '🌙' : '☀️';
     themeToggle.addEventListener('click', () => {
       isDark = !isDark;
       document.documentElement.setAttribute('data-theme', isDark ? 'dark' : 'light');
       themeToggle.textContent = isDark ? '🌙' : '☀️';
+      try { localStorage.setItem(THEME_KEY, isDark ? 'dark' : 'light'); } catch {}
     });
   }
+
+  // ── Language Toggle (persists across pages) ──
+  const LANG_KEY = 'ai-trend-hub-lang';
+  try { const saved = localStorage.getItem(LANG_KEY); if (saved) currentLang = saved; } catch {}
+  setLanguage(currentLang);
 
   // ── Search ──
   const searchInput = document.getElementById('searchInput');
@@ -103,33 +116,40 @@
     });
   });
 
-  // ── Smooth Scroll Navigation ──
+  // ── Smooth Scroll Navigation (anchor links only) ──
   const navLinks = document.querySelectorAll('.nav-link');
   navLinks.forEach(link => {
-    link.addEventListener('click', (e) => {
-      e.preventDefault();
-      const target = document.querySelector(link.getAttribute('href'));
-      if (target) {
-        const navHeight = document.querySelector('.section-nav')?.offsetHeight || 0;
-        const y = target.getBoundingClientRect().top + window.pageYOffset - navHeight - 8;
-        window.scrollTo({ top: y, behavior: 'smooth' });
-        navLinks.forEach(l => l.classList.remove('active'));
-        link.classList.add('active');
-      }
-    });
+    const href = link.getAttribute('href');
+    // Only intercept anchor links (#daily, #weekly, etc.), not page URLs
+    if (href && href.startsWith('#')) {
+      link.addEventListener('click', (e) => {
+        e.preventDefault();
+        const target = document.querySelector(href);
+        if (target) {
+          const navHeight = document.querySelector('.section-nav')?.offsetHeight || 0;
+          const y = target.getBoundingClientRect().top + window.pageYOffset - navHeight - 8;
+          window.scrollTo({ top: y, behavior: 'smooth' });
+          navLinks.forEach(l => l.classList.remove('active'));
+          link.classList.add('active');
+        }
+      });
+    }
+    // Non-anchor links (archive pages) work normally as <a> tags
   });
 
-  // ── Scroll Spy ──
-  const sections = document.querySelectorAll('.content-section');
-  const navObserver = new IntersectionObserver((entries) => {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        const id = entry.target.id;
-        navLinks.forEach(l => l.classList.toggle('active', l.getAttribute('href') === `#${id}`));
-      }
-    });
-  }, { threshold: 0.2, rootMargin: '-80px 0px -50% 0px' });
-  sections.forEach(s => navObserver.observe(s));
+  // ── Scroll Spy (only on pages with sections) ──
+  const sections = document.querySelectorAll('.content-section[id]');
+  if (sections.length > 1) {
+    const navObserver = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          const id = entry.target.id;
+          navLinks.forEach(l => l.classList.toggle('active', l.getAttribute('href') === `#${id}`));
+        }
+      });
+    }, { threshold: 0.2, rootMargin: '-80px 0px -50% 0px' });
+    sections.forEach(s => navObserver.observe(s));
+  }
 
   // ── Back to Top ──
   const backToTop = document.getElementById('backToTop');
