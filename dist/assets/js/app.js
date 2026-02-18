@@ -144,28 +144,28 @@
   const sourcesGrid = document.getElementById('sourcesGrid');
   if (sourcesGrid) {
     const sources = [
-      { name: 'Retail Dive', category: 'AI Commerce', status: 'active' },
-      { name: 'commercetools Blog', category: 'AI Commerce', status: 'active' },
-      { name: 'Digital Commerce 360', category: 'AI Commerce', status: 'active' },
-      { name: 'Shopify Engineering', category: 'AI Commerce', status: 'active' },
-      { name: 'TechCrunch Commerce', category: 'AI Commerce', status: 'new' },
-      { name: 'Marketing AI Institute', category: 'AI Marketing', status: 'active' },
-      { name: 'Adweek', category: 'AI Marketing', status: 'active' },
-      { name: 'HubSpot Marketing', category: 'AI Marketing', status: 'active' },
-      { name: 'MarTech.org', category: 'AI Marketing', status: 'new' },
-      { name: 'Digiday', category: 'AI Marketing', status: 'new' },
-      { name: 'Search Engine Land', category: 'AI Marketing', status: 'new' },
-      { name: 'Klaviyo Blog', category: 'AI Marketing', status: 'new' },
-      { name: 'MIT Technology Review', category: 'AI General', status: 'active' },
-      { name: 'The Verge (AI)', category: 'AI General', status: 'active' },
-      { name: 'Anthropic News', category: 'AI General', status: 'active' },
-      { name: 'Google AI Blog', category: 'AI General', status: 'active' },
-      { name: 'OpenAI Blog', category: 'AI General', status: 'active' },
-      { name: 'Salesforce AI Blog', category: 'Platform', status: 'new' },
-      { name: 'Adobe Experience Blog', category: 'Platform', status: 'new' },
-      { name: 'Segment Blog', category: 'CDP/CRM', status: 'new' },
-      { name: 'Bloomreach Blog', category: 'CDP/CRM', status: 'new' },
-      { name: 'Forrester DTC Blog', category: 'D2C/DTC', status: 'new' },
+      { name: 'Retail Dive', category: 'AI Commerce', status: 'active', url: 'https://www.retaildive.com' },
+      { name: 'commercetools Blog', category: 'AI Commerce', status: 'active', url: 'https://commercetools.com/blog' },
+      { name: 'Digital Commerce 360', category: 'AI Commerce', status: 'active', url: 'https://www.digitalcommerce360.com' },
+      { name: 'Shopify Engineering', category: 'AI Commerce', status: 'active', url: 'https://shopify.engineering' },
+      { name: 'TechCrunch Commerce', category: 'AI Commerce', status: 'new', url: 'https://techcrunch.com/category/commerce/' },
+      { name: 'Marketing AI Institute', category: 'AI Marketing', status: 'active', url: 'https://www.marketingaiinstitute.com' },
+      { name: 'Adweek', category: 'AI Marketing', status: 'active', url: 'https://www.adweek.com' },
+      { name: 'HubSpot Marketing', category: 'AI Marketing', status: 'active', url: 'https://blog.hubspot.com/marketing' },
+      { name: 'MarTech.org', category: 'AI Marketing', status: 'new', url: 'https://martech.org' },
+      { name: 'Digiday', category: 'AI Marketing', status: 'new', url: 'https://digiday.com' },
+      { name: 'Search Engine Land', category: 'AI Marketing', status: 'new', url: 'https://searchengineland.com' },
+      { name: 'Klaviyo Blog', category: 'AI Marketing', status: 'new', url: 'https://www.klaviyo.com/blog' },
+      { name: 'MIT Technology Review', category: 'AI General', status: 'active', url: 'https://www.technologyreview.com' },
+      { name: 'The Verge (AI)', category: 'AI General', status: 'active', url: 'https://www.theverge.com/ai-artificial-intelligence' },
+      { name: 'Anthropic News', category: 'AI General', status: 'active', url: 'https://www.anthropic.com/news' },
+      { name: 'Google AI Blog', category: 'AI General', status: 'active', url: 'https://blog.google/technology/ai/' },
+      { name: 'OpenAI Blog', category: 'AI General', status: 'active', url: 'https://openai.com/blog' },
+      { name: 'Salesforce AI Blog', category: 'Platform', status: 'new', url: 'https://www.salesforce.com/blog/category/ai/' },
+      { name: 'Adobe Experience Blog', category: 'Platform', status: 'new', url: 'https://business.adobe.com/blog' },
+      { name: 'Segment Blog', category: 'CDP/CRM', status: 'new', url: 'https://segment.com/blog/' },
+      { name: 'Bloomreach Blog', category: 'CDP/CRM', status: 'new', url: 'https://www.bloomreach.com/en/blog' },
+      { name: 'Forrester DTC Blog', category: 'D2C/DTC', status: 'new', url: 'https://www.forrester.com/blogs/category/direct-to-consumer-dtc/' },
     ];
     sourcesGrid.innerHTML = sources.map(s => `
       <div class="source-item">
@@ -173,7 +173,10 @@
           <h4>${s.name}</h4>
           <span>${s.category}</span>
         </div>
-        <span class="source-status ${s.status}">${s.status === 'active' ? '✅ Active' : '🆕 New'}</span>
+        <div style="display:flex;gap:8px;align-items:center">
+          <a href="${s.url}" target="_blank" rel="noopener" class="source-link">Visit →</a>
+          <span class="source-status ${s.status}">${s.status === 'active' ? '✅ Active' : '🆕 New'}</span>
+        </div>
       </div>
     `).join('');
   }

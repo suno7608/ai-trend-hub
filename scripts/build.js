@@ -115,7 +115,6 @@ function renderDailyCard(item, lang = 'ko') {
       <div class="card-header">
         <div class="card-meta">
           <span class="source-badge">${item.source_name || 'Unknown'}</span>
-          <time>${item.date_published || ''}</time>
         </div>
         <div class="card-tags">${cats}${tags}</div>
       </div>
@@ -134,6 +133,7 @@ function renderDailyCard(item, lang = 'ko') {
       </div>
       <div class="card-footer">
         <a href="${item.canonical_url || '#'}" target="_blank" rel="noopener" class="read-more">원문 보기 →</a>
+        <time>${item.date_published || ''}</time>
         ${item.confidence ? `<span class="confidence">신뢰도: ${(item.confidence * 100).toFixed(0)}%</span>` : ''}
       </div>
     </article>`;
@@ -147,8 +147,13 @@ function renderWeeklyCard(item) {
         <span class="badge badge-weekly">📊 Weekly Digest</span>
         <time>${item.week || item.date_published || ''}</time>
       </div>
-      <h3 class="card-title">${item.title || `Week ${item.week} Digest`}</h3>
-      <div class="card-body">${item._body || ''}</div>
+      <div class="card-title">
+        <span class="lang-ko">${item.title || `Week ${item.week} Digest`}</span>
+        <span class="lang-en" style="display:none">${item.title_en || `Week ${item.week} Digest`}</span>
+      </div>
+      <div class="card-body">
+        ${item._body || ''}
+      </div>
     </article>`;
 }
 
@@ -160,8 +165,13 @@ function renderMonthlyCard(item) {
         <span class="badge badge-monthly">📖 Monthly Deep Dive</span>
         <time>${item.month || item.date_published || ''}</time>
       </div>
-      <h3 class="card-title">${item.title || `${item.month} Deep Dive`}</h3>
-      <div class="card-body">${item._body || ''}</div>
+      <div class="card-title">
+        <span class="lang-ko">${item.title || `${item.month} Deep Dive`}</span>
+        <span class="lang-en" style="display:none">${item.title_en || `${item.month} Deep Dive`}</span>
+      </div>
+      <div class="card-body">
+        ${item._body || ''}
+      </div>
     </article>`;
 }
 
@@ -258,22 +268,6 @@ function buildSite() {
   </div>
 
   <main class="container main-content">
-    <!-- Search -->
-    <div class="search-container">
-      <div class="search-wrapper">
-        <span class="search-icon">🔍</span>
-        <input type="text" id="searchInput" class="search-input" placeholder="🔍 키워드, 태그, 소스로 검색...">
-      </div>
-      <div id="searchResultsCount" class="search-results-count"></div>
-    </div>
-
-    <!-- Filters -->
-    <div class="filters">
-      <span class="filters-label">Filter</span>
-      <button class="filter-btn active" data-filter="all">All</button>
-      ${tagFiltersHTML}
-    </div>
-
     <!-- Daily Section -->
     <section id="daily" class="content-section">
       <div class="section-header">
@@ -281,6 +275,22 @@ function buildSite() {
         <span class="section-desc lang-ko">최신 AI Commerce & Marketing 뉴스 (최근 2~3일)</span>
         <span class="section-desc lang-en" style="display:none">Latest AI Commerce & Marketing news (last 2-3 days)</span>
       </div>
+
+      <!-- Search & Filters (Inside Daily Section) -->
+      <div class="search-container">
+        <div class="search-wrapper">
+          <span class="search-icon">🔍</span>
+          <input type="text" id="searchInput" class="search-input" placeholder="🔍 키워드, 태그, 소스로 검색...">
+        </div>
+        <div id="searchResultsCount" class="search-results-count"></div>
+      </div>
+
+      <div class="filters">
+        <span class="filters-label">Filter</span>
+        <button class="filter-btn active" data-filter="all">All</button>
+        ${tagFiltersHTML}
+      </div>
+
       <div class="card-grid">
         ${dailyCardsHTML || '<p class="empty-state">아직 Daily 콘텐츠가 없습니다.</p>'}
       </div>
@@ -324,7 +334,7 @@ function buildSite() {
   <!-- Footer -->
   <footer class="site-footer">
     <div class="container">
-      <p>© 2026 AI Trend Hub — Global D2C Organization</p>
+      <p>© 2026 AI Trend Hub — LG Global D2C Insight</p>
       <p class="lang-ko">AI Commerce & Marketing Trend Intelligence Hub</p>
       <p class="lang-en" style="display:none">AI Commerce & Marketing Trend Intelligence Hub</p>
       <p class="footer-meta">Last build: ${new Date().toISOString().split('T')[0]} | Content items: ${dailyItems.length + weeklyItems.length + monthlyItems.length}</p>

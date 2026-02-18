@@ -67,22 +67,6 @@
   </div>
 
   <main class="container main-content">
-    <!-- Search -->
-    <div class="search-container">
-      <div class="search-wrapper">
-        <span class="search-icon">🔍</span>
-        <input type="text" id="searchInput" class="search-input" placeholder="🔍 키워드, 태그, 소스로 검색...">
-      </div>
-      <div id="searchResultsCount" class="search-results-count"></div>
-    </div>
-
-    <!-- Filters -->
-    <div class="filters">
-      <span class="filters-label">Filter</span>
-      <button class="filter-btn active" data-filter="all">All</button>
-      <button class="filter-btn" data-filter="commerce" style="--filter-color:#3B82F6">Commerce</button><button class="filter-btn" data-filter="tech" style="--filter-color:#10B981">Tech</button><button class="filter-btn" data-filter="strategy" style="--filter-color:#F59E0B">Strategy</button><button class="filter-btn" data-filter="marketing" style="--filter-color:#8B5CF6">Marketing</button>
-    </div>
-
     <!-- Daily Section -->
     <section id="daily" class="content-section">
       <div class="section-header">
@@ -90,13 +74,28 @@
         <span class="section-desc lang-ko">최신 AI Commerce & Marketing 뉴스 (최근 2~3일)</span>
         <span class="section-desc lang-en" style="display:none">Latest AI Commerce & Marketing news (last 2-3 days)</span>
       </div>
+
+      <!-- Search & Filters (Inside Daily Section) -->
+      <div class="search-container">
+        <div class="search-wrapper">
+          <span class="search-icon">🔍</span>
+          <input type="text" id="searchInput" class="search-input" placeholder="🔍 키워드, 태그, 소스로 검색...">
+        </div>
+        <div id="searchResultsCount" class="search-results-count"></div>
+      </div>
+
+      <div class="filters">
+        <span class="filters-label">Filter</span>
+        <button class="filter-btn active" data-filter="all">All</button>
+        <button class="filter-btn" data-filter="commerce" style="--filter-color:#3B82F6">Commerce</button><button class="filter-btn" data-filter="tech" style="--filter-color:#10B981">Tech</button><button class="filter-btn" data-filter="strategy" style="--filter-color:#F59E0B">Strategy</button><button class="filter-btn" data-filter="marketing" style="--filter-color:#8B5CF6">Marketing</button>
+      </div>
+
       <div class="card-grid">
         
     <article class="card daily-card" data-categories="commerce" data-tags="agentic-commerce,data-ownership,retail-strategy" data-lang-ko data-lang-en>
       <div class="card-header">
         <div class="card-meta">
           <span class="source-badge">Retail Dive</span>
-          <time>2026-02-17</time>
         </div>
         <div class="card-tags"><span class="tag" style="background:#3B82F620;color:#3B82F6;border:1px solid #3B82F640">Commerce</span><span class="tag tag-sub">agentic-commerce</span><span class="tag tag-sub">data-ownership</span><span class="tag tag-sub">retail-strategy</span></div>
       </div>
@@ -115,6 +114,7 @@
       </div>
       <div class="card-footer">
         <a href="https://www.retaildive.com/news/retails-ai-bet-risks-data-market-share/810202/" target="_blank" rel="noopener" class="read-more">원문 보기 →</a>
+        <time>2026-02-17</time>
         <span class="confidence">신뢰도: 85%</span>
       </div>
     </article>
@@ -123,7 +123,6 @@
       <div class="card-header">
         <div class="card-meta">
           <span class="source-badge">commercetools Blog</span>
-          <time>2026-02-16</time>
         </div>
         <div class="card-tags"><span class="tag" style="background:#3B82F620;color:#3B82F6;border:1px solid #3B82F640">Commerce</span><span class="tag" style="background:#10B98120;color:#10B981;border:1px solid #10B98140">Tech</span><span class="tag tag-sub">agentic-commerce</span><span class="tag tag-sub">composable-commerce</span><span class="tag tag-sub">AI-agents</span></div>
       </div>
@@ -142,6 +141,7 @@
       </div>
       <div class="card-footer">
         <a href="https://commercetools.com/blog/ai-trends-shaping-agentic-commerce" target="_blank" rel="noopener" class="read-more">원문 보기 →</a>
+        <time>2026-02-16</time>
         <span class="confidence">신뢰도: 88%</span>
       </div>
     </article>
@@ -150,7 +150,6 @@
       <div class="card-header">
         <div class="card-meta">
           <span class="source-badge">eMarketer</span>
-          <time>2026-02-15</time>
         </div>
         <div class="card-tags"><span class="tag" style="background:#3B82F620;color:#3B82F6;border:1px solid #3B82F640">Commerce</span><span class="tag" style="background:#F59E0B20;color:#F59E0B;border:1px solid #F59E0B40">Strategy</span><span class="tag tag-sub">agentic-commerce</span><span class="tag tag-sub">retail-strategy</span><span class="tag tag-sub">market-forecast</span></div>
       </div>
@@ -169,6 +168,7 @@
       </div>
       <div class="card-footer">
         <a href="https://www.emarketer.com/content/ai-shopping-tools-gain-traction-retailer-pushback-could-cloud-2026-progress" target="_blank" rel="noopener" class="read-more">원문 보기 →</a>
+        <time>2026-02-15</time>
         <span class="confidence">신뢰도: 82%</span>
       </div>
     </article>
@@ -177,7 +177,6 @@
       <div class="card-header">
         <div class="card-meta">
           <span class="source-badge">Microsoft</span>
-          <time>2026-02-15</time>
         </div>
         <div class="card-tags"><span class="tag" style="background:#3B82F620;color:#3B82F6;border:1px solid #3B82F640">Commerce</span><span class="tag" style="background:#10B98120;color:#10B981;border:1px solid #10B98140">Tech</span><span class="tag tag-sub">agentic-commerce</span><span class="tag tag-sub">copilot</span><span class="tag tag-sub">microsoft</span></div>
       </div>
@@ -196,6 +195,7 @@
       </div>
       <div class="card-footer">
         <a href="https://www.microsoft.com/en-us/industry/blog/retail/2026/02/09/how-agentic-commerce-is-becoming-the-new-front-door-to-retail/" target="_blank" rel="noopener" class="read-more">원문 보기 →</a>
+        <time>2026-02-15</time>
         <span class="confidence">신뢰도: 87%</span>
       </div>
     </article>
@@ -204,7 +204,6 @@
       <div class="card-header">
         <div class="card-meta">
           <span class="source-badge">Klaviyo Blog</span>
-          <time>2026-02-14</time>
         </div>
         <div class="card-tags"><span class="tag" style="background:#8B5CF620;color:#8B5CF6;border:1px solid #8B5CF640">Marketing</span><span class="tag tag-sub">marketing-automation</span><span class="tag tag-sub">personalization</span><span class="tag tag-sub">privacy</span><span class="tag tag-sub">zero-party-data</span></div>
       </div>
@@ -223,6 +222,7 @@
       </div>
       <div class="card-footer">
         <a href="https://www.klaviyo.com/blog/marketing-automation-trends" target="_blank" rel="noopener" class="read-more">원문 보기 →</a>
+        <time>2026-02-14</time>
         <span class="confidence">신뢰도: 84%</span>
       </div>
     </article>
@@ -231,7 +231,6 @@
       <div class="card-header">
         <div class="card-meta">
           <span class="source-badge">Marketing Dive</span>
-          <time>2026-02-14</time>
         </div>
         <div class="card-tags"><span class="tag" style="background:#8B5CF620;color:#8B5CF6;border:1px solid #8B5CF640">Marketing</span><span class="tag tag-sub">AI-marketing</span><span class="tag tag-sub">personalization</span><span class="tag tag-sub">predictions</span></div>
       </div>
@@ -250,6 +249,7 @@
       </div>
       <div class="card-footer">
         <a href="https://www.marketingdive.com/news/marketing-predictions-for-2026/809124/" target="_blank" rel="noopener" class="read-more">원문 보기 →</a>
+        <time>2026-02-14</time>
         <span class="confidence">신뢰도: 83%</span>
       </div>
     </article>
@@ -258,7 +258,6 @@
       <div class="card-header">
         <div class="card-meta">
           <span class="source-badge">PR Newswire / Criteo</span>
-          <time>2026-02-13</time>
         </div>
         <div class="card-tags"><span class="tag" style="background:#3B82F620;color:#3B82F6;border:1px solid #3B82F640">Commerce</span><span class="tag" style="background:#10B98120;color:#10B981;border:1px solid #10B98140">Tech</span><span class="tag tag-sub">criteo</span><span class="tag tag-sub">MCP</span><span class="tag tag-sub">recommendation</span><span class="tag tag-sub">agentic-commerce</span></div>
       </div>
@@ -277,6 +276,7 @@
       </div>
       <div class="card-footer">
         <a href="https://www.prnewswire.com/news-releases/criteo-introduces-agentic-commerce-recommendation-service-to-power-ai-shopping-assistants-302679859.html" target="_blank" rel="noopener" class="read-more">원문 보기 →</a>
+        <time>2026-02-13</time>
         <span class="confidence">신뢰도: 79%</span>
       </div>
     </article>
@@ -285,7 +285,6 @@
       <div class="card-header">
         <div class="card-meta">
           <span class="source-badge">Retail Brew</span>
-          <time>2026-02-13</time>
         </div>
         <div class="card-tags"><span class="tag" style="background:#3B82F620;color:#3B82F6;border:1px solid #3B82F640">Commerce</span><span class="tag" style="background:#10B98120;color:#10B981;border:1px solid #10B98140">Tech</span><span class="tag tag-sub">google</span><span class="tag tag-sub">UCP</span><span class="tag tag-sub">agentic-commerce</span><span class="tag tag-sub">marketplace</span></div>
       </div>
@@ -304,6 +303,7 @@
       </div>
       <div class="card-footer">
         <a href="https://www.retailbrew.com/stories/2026/02/11/google-makes-etsy-and-wayfair-items-shoppable-within-agentic-ai-search" target="_blank" rel="noopener" class="read-more">원문 보기 →</a>
+        <time>2026-02-13</time>
         <span class="confidence">신뢰도: 86%</span>
       </div>
     </article>
@@ -312,7 +312,6 @@
       <div class="card-header">
         <div class="card-meta">
           <span class="source-badge">SAP News</span>
-          <time>2026-02-12</time>
         </div>
         <div class="card-tags"><span class="tag" style="background:#3B82F620;color:#3B82F6;border:1px solid #3B82F640">Commerce</span><span class="tag" style="background:#10B98120;color:#10B981;border:1px solid #10B98140">Tech</span><span class="tag tag-sub">SAP</span><span class="tag tag-sub">NRF</span><span class="tag tag-sub">agentic-AI</span><span class="tag tag-sub">retail-operations</span></div>
       </div>
@@ -331,6 +330,7 @@
       </div>
       <div class="card-footer">
         <a href="https://news.sap.com/2026/01/nrf-2026-sap-builds-ai-retail-core/" target="_blank" rel="noopener" class="read-more">원문 보기 →</a>
+        <time>2026-02-12</time>
         <span class="confidence">신뢰도: 81%</span>
       </div>
     </article>
@@ -339,7 +339,6 @@
       <div class="card-header">
         <div class="card-meta">
           <span class="source-badge">WordStream</span>
-          <time>2026-02-12</time>
         </div>
         <div class="card-tags"><span class="tag" style="background:#8B5CF620;color:#8B5CF6;border:1px solid #8B5CF640">Marketing</span><span class="tag" style="background:#10B98120;color:#10B981;border:1px solid #10B98140">Tech</span><span class="tag tag-sub">AI-marketing</span><span class="tag tag-sub">search</span><span class="tag tag-sub">AEO</span><span class="tag tag-sub">content-generation</span></div>
       </div>
@@ -358,6 +357,7 @@
       </div>
       <div class="card-footer">
         <a href="https://www.wordstream.com/blog/2026-ai-marketing-trends" target="_blank" rel="noopener" class="read-more">원문 보기 →</a>
+        <time>2026-02-12</time>
         <span class="confidence">신뢰도: 85%</span>
       </div>
     </article>
@@ -378,8 +378,16 @@
         <span class="badge badge-weekly">📊 Weekly Digest</span>
         <time>2026-W08</time>
       </div>
-      <h3 class="card-title">Weekly Digest W08: Agentic Commerce 본격화 — Google UCP, Criteo MCP, 그리고 리테일러의 딜레마</h3>
-      <div class="card-body"><h2>🏆 이번 주 Top 5 트렌드</h2>
+      <div class="card-title">
+        <span class="lang-ko">Weekly Digest W08: Agentic Commerce 본격화 — Google UCP, Criteo MCP, 그리고 리테일러의 딜레마</span>
+        <span class="lang-en" style="display:none">Weekly Digest W08: Agentic Commerce Goes Live — Google UCP, Criteo MCP, and the Retailer's Dilemma</span>
+      </div>
+      <div class="card-body">
+        <div class="lang-ko">
+
+<h2>🏆 이번 주 Top 5 트렌드</h2>
+<div class="trend-box">
+
 <h3>1. Agentic Commerce 플랫폼 전쟁 본격화</h3>
 <p>Google이 Universal Commerce Protocol(UCP)을 통해 Etsy·Wayfair 상품을 AI 검색 내에서 직접 구매 가능하게 만들었고, Criteo는 MCP 기반 Agentic Commerce Recommendation Service를 출시했다. Microsoft Copilot Checkout도 미국에서 정식 런칭하며, AI 에이전트를 통한 구매가 &quot;개념 증명&quot;에서 &quot;실제 거래&quot;로 넘어가는 전환점을 맞았다.</p>
 <p><strong>근거:</strong></p>
@@ -389,7 +397,10 @@
 <li><a href="https://www.microsoft.com/en-us/industry/blog/retail/2026/02/09/how-agentic-commerce-is-becoming-the-new-front-door-to-retail/">Microsoft: Agentic Commerce Is the New Front Door</a></li>
 </ul>
 <p><strong>💡 So What for D2C:</strong> D2C 브랜드는 자사 상품이 AI 에이전트에 의해 &quot;발견 가능&quot;하도록 구조화된 데이터(스키마, 리뷰, 가격 정보)를 정비해야 한다. UCP/MCP 같은 프로토콜에 조기 참여하면 AI 시대의 트래픽 선점 기회가 생긴다.</p>
-<hr>
+</div>
+
+<div class="trend-box">
+
 <h3>2. 리테일러 데이터 주권 위기</h3>
 <p>AI 플랫폼에 상품을 노출할수록 고객 데이터와 구매 여정의 통제권이 플랫폼으로 이전된다는 우려가 커지고 있다. Shopify·Amazon 등은 외부 AI 에이전트의 활동을 제한하기 시작했고, Walmart은 에이전트의 체크아웃 접근을 차단하는 가이드라인을 추가했다. Deloitte 조사에서 81%의 리테일 임원이 생성형 AI가 브랜드 충성도를 약화시킬 것이라 응답했다.</p>
 <p><strong>근거:</strong></p>
@@ -398,7 +409,10 @@
 <li><a href="https://www.emarketer.com/content/ai-shopping-tools-gain-traction-retailer-pushback-could-cloud-2026-progress">AI shopping tools gain traction, but retailer pushback</a></li>
 </ul>
 <p><strong>💡 So What for D2C:</strong> 1st-party 데이터 수집 채널(자사 앱, 멤버십, 뉴스레터)을 강화하는 것이 AI 시대 생존 전략의 핵심이다. AI 플랫폼 유통은 &quot;발견&quot;에만 활용하고, 전환·재구매는 자사 채널에서 일어나도록 설계해야 한다.</p>
-<hr>
+</div>
+
+<div class="trend-box">
+
 <h3>3. AI 마케팅 자동화 — 개인화 vs 프라이버시</h3>
 <p>87%의 브랜드가 2026년 개인화 투자를 늘리겠다고 밝혔지만, 실제로 크로스채널 개인화를 실행하는 브랜드는 소수에 불과하다. EU와 Apple의 규제 강화로 zero-party 데이터 전략이 필수가 되었고, &quot;데이터가 풍부한 브랜드와 추측하는 브랜드&quot;의 격차가 2026년의 핵심 분수령이 될 것이라는 전망이다.</p>
 <p><strong>근거:</strong></p>
@@ -407,7 +421,10 @@
 <li><a href="https://www.marketingdive.com/news/marketing-predictions-for-2026/809124/">9 marketing predictions for 2026</a></li>
 </ul>
 <p><strong>💡 So What for D2C:</strong> 퀴즈, 프레퍼런스 센터, 리뷰 등 zero-party 데이터를 적극 수집하고, CDP에 통합하여 &quot;추측이 아닌 데이터 기반 개인화&quot;를 실현해야 한다.</p>
-<hr>
+</div>
+
+<div class="trend-box">
+
 <h3>4. NRF 2026 후속: SAP·Microsoft 엔터프라이즈 AI 솔루션</h3>
 <p>NRF 2026에서 발표된 SAP의 MCP 기반 Storefront 서버와 Order Reliability Agent, Microsoft의 Copilot Checkout이 구체적인 제품으로 시장에 나왔다. 68%의 리테일러가 12~24개월 내 에이전틱 AI 배포를 계획하고 있어, 엔터프라이즈 AI는 &quot;전략 논의&quot;에서 &quot;구현 단계&quot;로 진입했다.</p>
 <p><strong>근거:</strong></p>
@@ -416,7 +433,10 @@
 <li><a href="https://news.microsoft.com/source/2026/01/08/microsoft-propels-retail-forward-with-agentic-ai-capabilities-that-power-intelligent-automation-for-every-retail-function/">Microsoft propels retail forward with agentic AI</a></li>
 </ul>
 <p><strong>💡 So What for D2C:</strong> 기존 ERP/커머스 스택이 AI-ready인지 점검하고, composable commerce 아키텍처 전환을 검토해야 한다. 특히 주문관리·재고·CX 영역에서 에이전틱 AI 적용 ROI가 가장 빠르게 나타날 전망이다.</p>
-<hr>
+</div>
+
+<div class="trend-box">
+
 <h3>5. AEO(AI Engine Optimization) 부상</h3>
 <p>전통적 SEO를 넘어 AI 검색 엔진(ChatGPT, Gemini, Perplexity)에서의 가시성을 확보하는 AEO가 마케팅 필수 역량으로 부상했다. 소비자가 &quot;플러머 근처&quot; 대신 &quot;오늘 오후 싱크대 고쳐줄 사람 찾아줘&quot;라고 AI에게 요청하는 시대에, 브랜드의 구조화된 데이터와 콘텐츠 품질이 AI 추천 여부를 결정한다.</p>
 <p><strong>근거:</strong></p>
@@ -425,7 +445,10 @@
 <li><a href="https://previsible.io/seo-ai-news/agentic-shopping/">Agentic Shopping: How AI Is Transforming Ecommerce</a></li>
 </ul>
 <p><strong>💡 So What for D2C:</strong> SEO 팀의 역할을 AEO로 확장해야 한다. 제품 페이지의 구조화 데이터(Schema.org), FAQ, 리뷰 데이터를 AI가 이해할 수 있도록 최적화하는 것이 2026년 D2C 마케팅의 최우선 과제다.</p>
-<hr>
+</div>
+
+<div class="risk-opportunity-box">
+
 <h2>📈 이번 주 관찰: 리스크와 기회</h2>
 <ol>
 <li><p><strong>리스크 — 플랫폼 종속 심화</strong>: Google/Microsoft/OpenAI의 네이티브 체크아웃이 확산되면 D2C의 자사몰 트래픽이 추가 감소할 수 있다. 대비 없이 AI 플랫폼에만 의존하면 마진과 데이터 모두를 잃을 위험이 있다.</p>
@@ -436,6 +459,89 @@
 </li>
 </ol>
 </div>
+
+</div>
+
+<div class="lang-en" style="display:none">
+
+<h2>🏆 This Week&#39;s Top 5 Trends</h2>
+<div class="trend-box">
+
+<h3>1. Agentic Commerce Platform War Heats Up</h3>
+<p>Google rolled out its Universal Commerce Protocol (UCP) making Etsy and Wayfair products purchasable directly within AI search. Criteo launched its MCP-based Agentic Commerce Recommendation Service. Microsoft Copilot Checkout went live in the US, marking the transition from proof-of-concept to real transactions.</p>
+<p><strong>Sources:</strong></p>
+<ul>
+<li><a href="https://www.retailbrew.com/stories/2026/02/11/google-makes-etsy-and-wayfair-items-shoppable-within-agentic-ai-search">Google makes Etsy and Wayfair items shoppable within agentic AI search</a></li>
+<li><a href="https://www.prnewswire.com/news-releases/criteo-introduces-agentic-commerce-recommendation-service-to-power-ai-shopping-assistants-302679859.html">Criteo Introduces Agentic Commerce Recommendation Service</a></li>
+<li><a href="https://www.microsoft.com/en-us/industry/blog/retail/2026/02/09/how-agentic-commerce-is-becoming-the-new-front-door-to-retail/">Microsoft: Agentic Commerce Is the New Front Door</a></li>
+</ul>
+<p><strong>💡 So What for D2C:</strong> D2C brands must ensure products are &quot;discoverable&quot; by AI agents through structured data (schema, reviews, pricing). Early participation in UCP/MCP protocols creates traffic acquisition opportunities in the AI era.</p>
+</div>
+
+<div class="trend-box">
+
+<h3>2. Retailer Data Sovereignty Crisis</h3>
+<p>Concerns grow that exposing products on AI platforms transfers control of customer data and purchase journeys to the platforms. Shopify and Amazon have begun restricting external AI agents, and Walmart added guidelines blocking agent checkout access. Deloitte found 81% of retail executives expect generative AI to weaken brand loyalty.</p>
+<p><strong>Sources:</strong></p>
+<ul>
+<li><a href="https://www.retaildive.com/news/retails-ai-bet-risks-data-market-share/810202/">Retail&#39;s risky AI commerce bet</a></li>
+<li><a href="https://www.emarketer.com/content/ai-shopping-tools-gain-traction-retailer-pushback-could-cloud-2026-progress">AI shopping tools gain traction, but retailer pushback</a></li>
+</ul>
+<p><strong>💡 So What for D2C:</strong> Strengthening 1st-party data channels (owned apps, membership, newsletters) is the core survival strategy. Use AI platforms for &quot;discovery&quot; only; conversion and repurchase should happen on owned channels.</p>
+</div>
+
+<div class="trend-box">
+
+<h3>3. AI Marketing Automation — Personalization vs Privacy</h3>
+<p>87% of brands plan to increase personalization investment in 2026, but few execute cross-channel personalization. EU and Apple regulatory tightening makes zero-party data strategy essential. The gap between &quot;data-rich brands and guessing brands&quot; will be the defining divide of 2026.</p>
+<p><strong>Sources:</strong></p>
+<ul>
+<li><a href="https://www.klaviyo.com/blog/marketing-automation-trends">8 Marketing Automation Trends for 2026</a></li>
+<li><a href="https://www.marketingdive.com/news/marketing-predictions-for-2026/809124/">9 marketing predictions for 2026</a></li>
+</ul>
+<p><strong>💡 So What for D2C:</strong> Actively collect zero-party data (quizzes, preference centers, reviews) and integrate with CDP to achieve &quot;data-driven personalization, not guesswork.&quot;</p>
+</div>
+
+<div class="trend-box">
+
+<h3>4. Post-NRF 2026: SAP &amp; Microsoft Enterprise AI Solutions</h3>
+<p>SAP&#39;s MCP-based Storefront server and Order Reliability Agent, plus Microsoft&#39;s Copilot Checkout, have launched as concrete products. With 68% of retailers planning agentic AI deployment within 12-24 months, enterprise AI has moved from &quot;strategic discussion&quot; to &quot;implementation phase.&quot;</p>
+<p><strong>Sources:</strong></p>
+<ul>
+<li><a href="https://news.sap.com/2026/01/nrf-2026-sap-builds-ai-retail-core/">NRF 2026: SAP Builds AI Into the Core of Retail</a></li>
+<li><a href="https://news.microsoft.com/source/2026/01/08/microsoft-propels-retail-forward-with-agentic-ai-capabilities-that-power-intelligent-automation-for-every-retail-function/">Microsoft propels retail forward with agentic AI</a></li>
+</ul>
+<p><strong>💡 So What for D2C:</strong> Assess whether existing ERP/commerce stacks are AI-ready and consider composable commerce architecture. Agentic AI ROI appears fastest in order management, inventory, and CX.</p>
+</div>
+
+<div class="trend-box">
+
+<h3>5. Rise of AEO (AI Engine Optimization)</h3>
+<p>Beyond traditional SEO, AEO — ensuring visibility in AI search engines (ChatGPT, Gemini, Perplexity) — has emerged as an essential marketing capability. Structured data and content quality now determine whether brands get recommended by AI.</p>
+<p><strong>Sources:</strong></p>
+<ul>
+<li><a href="https://www.wordstream.com/blog/2026-ai-marketing-trends">The Biggest AI Marketing Trends for 2026</a></li>
+<li><a href="https://previsible.io/seo-ai-news/agentic-shopping/">Agentic Shopping: How AI Is Transforming Ecommerce</a></li>
+</ul>
+<p><strong>💡 So What for D2C:</strong> Expand SEO teams into AEO. Optimizing product page structured data (Schema.org), FAQs, and review data for AI comprehension is the top D2C marketing priority for 2026.</p>
+</div>
+
+<div class="risk-opportunity-box">
+
+<h2>📈 This Week&#39;s Observations: Risks &amp; Opportunities</h2>
+<ol>
+<li><p><strong>Risk — Deepening Platform Dependency</strong>: As native checkout expands across Google/Microsoft/OpenAI, D2C direct traffic may further decline. Relying solely on AI platforms without preparation risks losing both margins and data.</p>
+</li>
+<li><p><strong>Opportunity — First-mover Advantage</strong>: Few D2C brands are investing in AI agent optimization yet. Investing in structured data and AEO now can secure competitive advantage.</p>
+</li>
+<li><p><strong>Observation — The Human Branding Paradox</strong>: As AI automates every channel, consumers are increasingly drawn to &quot;human-made&quot; authenticity. Balancing AI efficiency with human genuineness will be the core brand strategy challenge of 2026.</p>
+</li>
+</ol>
+</div>
+
+</div>
+
+      </div>
     </article>
       </div>
     </section>
@@ -454,15 +560,26 @@
         <span class="badge badge-monthly">📖 Monthly Deep Dive</span>
         <time>2026-02</time>
       </div>
-      <h3 class="card-title">Monthly Deep Dive: Agentic Commerce 원년 — D2C가 알아야 할 5가지 전략적 시사점</h3>
-      <div class="card-body"><h2>📖 2026년 2월 Monthly Deep Dive</h2>
+      <div class="card-title">
+        <span class="lang-ko">Monthly Deep Dive: Agentic Commerce 원년 — D2C가 알아야 할 5가지 전략적 시사점</span>
+        <span class="lang-en" style="display:none">Monthly Deep Dive: The Year of Agentic Commerce — 5 Strategic Implications for D2C</span>
+      </div>
+      <div class="card-body">
+        <div class="lang-ko">
+
+<h2>📖 2026년 2월 Monthly Deep Dive</h2>
+<div class="quote-of-month">
+
 <h3>이달의 문장 (Quote of the Month)</h3>
 <blockquote>
 <p>&quot;The gap in 2026 won&#39;t be between brands using AI and brands not using AI. It&#39;ll be between brands with rich customer data and brands guessing at what their customers want.&quot;
 — StackAdapt Personalization Report 2026</p>
 </blockquote>
-<hr>
+</div>
+
 <h2>핵심 보고서 요약</h2>
+<div class="report-card">
+
 <h3>1. McKinsey: Agentic Commerce의 조 단위 시장 전망</h3>
 <p><strong>핵심 포인트:</strong></p>
 <ul>
@@ -475,6 +592,10 @@
 <li>에이전틱 커머스는 이제 &quot;실험&quot;이 아닌 &quot;전략적 투자 영역&quot;으로 격상</li>
 <li>209억 달러 규모에서도 초기 진입 브랜드는 카테고리 내 AI 추천 점유율을 선점 가능</li>
 </ul>
+</div>
+
+<div class="report-card">
+
 <h3>2. Deloitte 2026 Retail Industry Global Outlook</h3>
 <p><strong>핵심 포인트:</strong></p>
 <ul>
@@ -487,6 +608,10 @@
 <li>가격만으로는 AI 에이전트 시대에 경쟁 불가 — 브랜드 스토리·커뮤니티·독점 제품 등 차별화 요소 강화 필요</li>
 <li>충성도 프로그램의 재설계: AI 에이전트가 &quot;이해&quot;할 수 있는 구조화된 혜택 제공 검토</li>
 </ul>
+</div>
+
+<div class="report-card">
+
 <h3>3. Forrester: 리테일 챗봇 사용자 1/4 도달 전망</h3>
 <p><strong>핵심 포인트:</strong></p>
 <ul>
@@ -499,6 +624,10 @@
 <li>자사몰에 AI 챗봇/어시스턴트 도입이 경쟁력의 기본 요건으로 부상</li>
 <li>챗봇 데이터를 CRM/CDP에 통합하여 고객 인사이트 강화</li>
 </ul>
+</div>
+
+<div class="report-card">
+
 <h3>4. Gartner: 엔터프라이즈 AI 에이전트 40% 보급 전망</h3>
 <p><strong>핵심 포인트:</strong></p>
 <ul>
@@ -511,6 +640,10 @@
 <li>주문관리·재고·고객서비스 등 운영 영역에 AI 에이전트 적용 검토 시급</li>
 <li>&quot;AI-ready&quot; 인프라(API-first, composable 아키텍처)가 기술 부채 해소의 관건</li>
 </ul>
+</div>
+
+<div class="report-card">
+
 <h3>5. StackAdapt: 디지털 마케팅 개인화 핵심 트렌드</h3>
 <p><strong>핵심 포인트:</strong></p>
 <ul>
@@ -523,7 +656,10 @@
 <li>CDP 도입·고도화가 개인화 전략의 필수 기반</li>
 <li>Zero-party 데이터(퀴즈, 프레퍼런스 센터) 수집을 체계화하여 AI 기반 개인화의 데이터 품질 확보</li>
 </ul>
-<hr>
+</div>
+
+<div class="action-items-box">
+
 <h2>🎯 D2C 조직 액션 아이템</h2>
 <ol>
 <li><p><strong>Agentic Commerce 대응 TF 구성</strong>: AI 플랫폼(Google UCP, Microsoft Copilot Checkout, OpenAI Shopping)에 자사 상품이 노출·거래 가능하도록 기술·데이터 준비를 담당할 크로스펑셔널 TF 출범 (담당: Commerce/IT/Data 공동)</p>
@@ -541,7 +677,10 @@
 <li><p><strong>월간 AI 트렌드 리뷰 정례화</strong>: AI Trend Hub를 활용하여 월 1회 조직 공유 세션을 통해 최신 동향과 액션 아이템을 리뷰 (담당: D2C Strategy)</p>
 </li>
 </ol>
-<hr>
+</div>
+
+<div class="region-box">
+
 <h2>🌏 지역별 관찰</h2>
 <p><strong>AMER (Americas):</strong>
 미국이 에이전틱 커머스의 최전선. Google·Microsoft·OpenAI·Amazon 모두 미국 시장을 우선 공략 중이며, 결제 인프라(Mastercard Agent Pay, Visa·Stripe 에이전트 프레임워크)도 미국 중심으로 확산. D2C 브랜드에게 가장 즉각적인 대응이 필요한 시장.</p>
@@ -550,6 +689,137 @@ EU의 강화된 프라이버시 규제(AI Act 포함)로 인해 에이전틱 커
 <p><strong>APAC (Asia Pacific):</strong>
 중국의 AI 커머스 생태계(Taobao AI, JD.com의 JIMI 에이전트)가 독자적으로 발전 중. 동남아시아에서는 Shopee·Lazada가 AI 추천 기능을 강화하고 있으며, 일본·한국은 LINE/카카오 기반의 AI 쇼핑 어시스턴트가 부상 중. D2C 브랜드는 지역별 플랫폼 전략이 필수.</p>
 </div>
+
+</div>
+
+<div class="lang-en" style="display:none">
+
+<h2>📖 February 2026 Monthly Deep Dive</h2>
+<div class="quote-of-month">
+
+<h3>Quote of the Month</h3>
+<blockquote>
+<p>&quot;The gap in 2026 won&#39;t be between brands using AI and brands not using AI. It&#39;ll be between brands with rich customer data and brands guessing at what their customers want.&quot;
+— StackAdapt Personalization Report 2026</p>
+</blockquote>
+</div>
+
+<h2>Key Report Summaries</h2>
+<div class="report-card">
+
+<h3>1. McKinsey: The Trillion-Dollar Agentic Commerce Market Outlook</h3>
+<p><strong>Key Takeaways:</strong></p>
+<ul>
+<li>AI agents are projected to mediate up to $1 trillion in US B2C retail transactions by 2030</li>
+<li>Global scale could expand to $3-5 trillion</li>
+<li>Currently (2026) represents 1.5% of total ecommerce (~$20.9 billion), but is growing 4x year-over-year</li>
+</ul>
+<p><strong>Implications for D2C:</strong></p>
+<ul>
+<li>Agentic commerce has shifted from &quot;experiment&quot; to &quot;strategic investment area&quot;</li>
+<li>Even at the $20.9 billion scale, early-entry brands can capture significant AI recommendation share within their category</li>
+</ul>
+</div>
+
+<div class="report-card">
+
+<h3>2. Deloitte 2026 Retail Industry Global Outlook</h3>
+<p><strong>Key Takeaways:</strong></p>
+<ul>
+<li>81% of retail executives expect generative AI to weaken brand loyalty by 2027</li>
+<li>As AI agents auto-compare pricing, reviews, and return policies, &quot;price transparency&quot; reaches maximum</li>
+<li>68% of retailers plan agentic AI deployment within 12-24 months</li>
+</ul>
+<p><strong>Implications for D2C:</strong></p>
+<ul>
+<li>Price alone cannot compete in the AI agent era — differentiation through brand story, community, and exclusive products is essential</li>
+<li>Loyalty programs require redesign to provide structured benefits that AI agents can &quot;understand&quot;</li>
+</ul>
+</div>
+
+<div class="report-card">
+
+<h3>3. Forrester: One-Quarter of Shoppers to Use Specialty Retail Chatbots</h3>
+<p><strong>Key Takeaways:</strong></p>
+<ul>
+<li>25% of consumers are expected to use specialist retail chatbots in 2026</li>
+<li>Agentic shopping assistants evolving beyond simple responses into &quot;purchase guide&quot; roles</li>
+<li>Per Bain &amp; Company, 30-45% of US consumers already use generative AI for product research</li>
+</ul>
+<p><strong>Implications for D2C:</strong></p>
+<ul>
+<li>Deploying AI chatbots/assistants on owned stores becomes a baseline competitive requirement</li>
+<li>Integrating chatbot data into CRM/CDP enhances customer insights</li>
+</ul>
+</div>
+
+<div class="report-card">
+
+<h3>4. Gartner: Enterprise AI Agents to Reach 40% Adoption</h3>
+<p><strong>Key Takeaways:</strong></p>
+<ul>
+<li>By end of 2026, 40% of enterprise applications are projected to include task-specific AI agents</li>
+<li>Retail technology spending reaches $388 billion, with AI investment growing 25% annually</li>
+<li>91% of retail leaders are investing in AI, with early adopters realizing 6x faster ROI</li>
+</ul>
+<p><strong>Implications for D2C:</strong></p>
+<ul>
+<li>Urgent: Evaluate AI agent deployment in operations (order management, inventory, customer service)</li>
+<li>&quot;AI-ready&quot; infrastructure (API-first, composable architecture) is critical to resolving technical debt</li>
+</ul>
+</div>
+
+<div class="report-card">
+
+<h3>5. StackAdapt: Key Digital Marketing Personalization Trends</h3>
+<p><strong>Key Takeaways:</strong></p>
+<ul>
+<li>87% of brands plan to expand personalization investment, but execution remains early-stage</li>
+<li>Data fragmentation, tool fragmentation, and measurement gaps are primary barriers to cross-channel personalization</li>
+<li>The AdTech/MarTech convergence makes &quot;identity-based real-time personalization&quot; the 2026 priority</li>
+</ul>
+<p><strong>Implications for D2C:</strong></p>
+<ul>
+<li>CDP adoption/enhancement is foundational to personalization strategy</li>
+<li>Systematize zero-party data collection (quizzes, preference centers) to ensure data quality for AI-driven personalization</li>
+</ul>
+</div>
+
+<div class="action-items-box">
+
+<h2>🎯 D2C Organization Action Items</h2>
+<ol>
+<li><p><strong>Establish Agentic Commerce Response Task Force</strong>: Form a cross-functional TF to ensure products are exposed and transactable on AI platforms (Google UCP, Microsoft Copilot Checkout, OpenAI Shopping) with technical and data readiness (Ownership: Commerce/IT/Data)</p>
+</li>
+<li><p><strong>Conduct Structured Data and AEO Audit</strong>: Ensure all product catalog Schema.org markup, review data, and price feeds are formatted for accurate AI agent reading (Ownership: Marketing/IT)</p>
+</li>
+<li><p><strong>Strengthen 1st-Party Data Strategy</strong>: Audit customer data leakage to AI platforms and reinforce direct collection channels via owned apps, membership programs, and newsletters (Ownership: CRM/Data)</p>
+</li>
+<li><p><strong>Deploy or Upgrade CDP</strong>: Select, implement, or audit existing CDP usage to resolve data fragmentation and enable cross-channel personalization (Ownership: Data/MarTech)</p>
+</li>
+<li><p><strong>Launch AI Chatbot PoC</strong>: Run AI shopping assistant pilot on owned store to measure conversion lift (Ownership: Commerce/CX)</p>
+</li>
+<li><p><strong>Redesign Loyalty Programs</strong>: Structure loyalty benefits so they are legible to AI agents and create differentiation when agents compare/recommend brands (Ownership: CRM/Strategy)</p>
+</li>
+<li><p><strong>Institutionalize Monthly AI Trend Reviews</strong>: Use AI Trend Hub to conduct monthly organization-wide briefings on latest developments and action items (Ownership: D2C Strategy)</p>
+</li>
+</ol>
+</div>
+
+<div class="region-box">
+
+<h2>🌏 Regional Observations</h2>
+<p><strong>AMER (Americas):</strong>
+The US is at the forefront of agentic commerce. Google, Microsoft, OpenAI, and Amazon all prioritize the US market, with payment infrastructure (Mastercard Agent Pay, Visa/Stripe agent frameworks) expanding US-first. D2C brands need immediate response in this market.</p>
+<p><strong>EMEA (Europe, Middle East, Africa):</strong>
+Stricter EU privacy regulations (including AI Act) are slowing agentic commerce adoption relative to the Americas. However, EMEA is pioneering zero-party data strategies in GDPR environments — D2C brands benefit from adopting EMEA&#39;s privacy-first approach as a global standard.</p>
+<p><strong>APAC (Asia Pacific):</strong>
+China&#39;s AI commerce ecosystem (Taobao AI, JD.com&#39;s JIMI agent) is developing independently. Southeast Asian platforms (Shopee, Lazada) are enhancing AI recommendation capabilities, while Japan and South Korea see AI shopping assistants emerging through LINE and Kakao. Regional platform strategies are essential for D2C success.</p>
+</div>
+
+</div>
+
+      </div>
     </article>
       </div>
     </section>
@@ -568,10 +838,10 @@ EU의 강화된 프라이버시 규제(AI Act 포함)로 인해 에이전틱 커
   <!-- Footer -->
   <footer class="site-footer">
     <div class="container">
-      <p>© 2026 AI Trend Hub — Global D2C Organization</p>
+      <p>© 2026 AI Trend Hub — LG Global D2C Insight</p>
       <p class="lang-ko">AI Commerce & Marketing Trend Intelligence Hub</p>
       <p class="lang-en" style="display:none">AI Commerce & Marketing Trend Intelligence Hub</p>
-      <p class="footer-meta">Last build: 2026-02-17 | Content items: 12</p>
+      <p class="footer-meta">Last build: 2026-02-18 | Content items: 12</p>
     </div>
   </footer>
 
