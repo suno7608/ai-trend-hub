@@ -120,9 +120,10 @@ function renderBreadcrumb(trail, baseUrl) {
 function renderArchiveNav(activePage, baseUrl) {
   const links = [
     { id: 'home', label_ko: '🏠 홈', label_en: '🏠 Home', url: `${baseUrl}index.html` },
-    { id: 'daily', label_ko: '📰 Daily 아카이브', label_en: '📰 Daily Archive', url: `${baseUrl}archive/daily/index.html` },
-    { id: 'weekly', label_ko: '📊 Weekly 아카이브', label_en: '📊 Weekly Archive', url: `${baseUrl}archive/weekly/index.html` },
-    { id: 'monthly', label_ko: '📖 Monthly 아카이브', label_en: '📖 Monthly Archive', url: `${baseUrl}archive/monthly/index.html` },
+    { id: 'daily', label_ko: '📰 Daily', label_en: '📰 Daily', url: `${baseUrl}archive/daily/index.html` },
+    { id: 'weekly', label_ko: '📊 Weekly', label_en: '📊 Weekly', url: `${baseUrl}archive/weekly/index.html` },
+    { id: 'monthly', label_ko: '📖 Monthly', label_en: '📖 Monthly', url: `${baseUrl}archive/monthly/index.html` },
+    { id: 'search', label_ko: '🔍 통합검색', label_en: '🔍 Search', url: `${baseUrl}archive/search.html` },
   ];
 
   const linksHTML = links.map(l =>
@@ -366,6 +367,19 @@ function renderMonthlyListCard(item, detailUrl) {
     </a>`;
 }
 
+// ── Archive Search Bar ────────────────────────────────────
+function renderArchiveSearch() {
+  return `
+    <div class="archive-search-container">
+      <div class="search-wrapper">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="archiveSearchInput" class="search-input archive-search-input"
+          placeholder="🔍 아카이브 검색...">
+      </div>
+      <div id="archiveSearchCount" class="search-results-count"></div>
+    </div>`;
+}
+
 module.exports = {
   categoryLabel,
   categoryColor,
@@ -383,4 +397,5 @@ module.exports = {
   renderArchiveGrid,
   renderWeeklyListCard,
   renderMonthlyListCard,
+  renderArchiveSearch,
 };

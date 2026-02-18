@@ -33,6 +33,10 @@ function readMarkdownFiles(dir) {
     .sort((a, b) => new Date(b.date_published || b.date || 0) - new Date(a.date_published || a.date || 0));
 }
 
+function stripHtml(html) {
+  return (html || '').replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
+}
+
 function groupBy(arr, keyFn) {
   const groups = {};
   arr.forEach(item => {
@@ -126,6 +130,7 @@ function buildHomePage() {
       <a href="#monthly" class="nav-link">📖 Monthly Deep Dive</a>
       <a href="#sources" class="nav-link">📡 Sources</a>
       <a href="archive/daily/index.html" class="nav-link nav-link-archive">📂 Archive</a>
+      <a href="archive/search.html" class="nav-link nav-link-search">🔍 Search</a>
     </div>
   </nav>
 
@@ -563,6 +568,165 @@ function buildMonthlyDetailPage(item, prevItem, nextItem) {
   });
 }
 
+// ── Search Index JSON ─────────────────────────────────────
+function buildSearchIndex() {
+  const items = [];
+
+  dailyItems.forEach(d => {
+    items.push({
+      type: 'daily',
+      id: d.id || d._filename,
+      title: d.title || '',
+      title_en: d.title || '',
+      date: d.date_published || '',
+      source: d.source_name || '',
+      categories: d.categories || [],
+      tags: d.tags || [],
+      summary_ko: d.summary_ko || '',
+      summary_en: d.summary_en || '',
+      so_what_ko: d.so_what_ko || '',
+      so_what_en: d.so_what_en || '',
+      body_text: stripHtml(d._body).slice(0, 500),
+      url: d.canonical_url || '',
+      page_url: `archive/daily/${(d.date_published || '').slice(0, 4)}/${(d.date_published || '').slice(5, 7)}/index.html`,
+    });
+  });
+
+  weeklyItems.forEach(w => {
+    items.push({
+      type: 'weekly',
+      id: w.week || w._filename,
+      title: w.title || `Week ${w.week} Digest`,
+      title_en: w.title_en || w.title || `Week ${w.week} Digest`,
+      date: w.week || '',
+      source: '',
+      categories: [],
+      tags: (w.top_keywords || []),
+      summary_ko: '',
+      summary_en: '',
+      so_what_ko: '',
+      so_what_en: '',
+      body_text: stripHtml(w._body).slice(0, 800),
+      url: '',
+      page_url: `weekly/${w.week}.html`,
+    });
+  });
+
+  monthlyItems.forEach(m => {
+    items.push({
+      type: 'monthly',
+      id: m.month || m._filename,
+      title: m.title || `${m.month} Deep Dive`,
+      title_en: m.title_en || m.title || `${m.month} Deep Dive`,
+      date: m.month || '',
+      source: '',
+      categories: [],
+      tags: [],
+      summary_ko: '',
+      summary_en: '',
+      so_what_ko: '',
+      so_what_en: '',
+      body_text: stripHtml(m._body).slice(0, 800),
+      url: '',
+      page_url: `monthly/${m.month}.html`,
+      featured_reports: m.featured_reports || [],
+    });
+  });
+
+  // Collect all categories across all types
+  const allSearchCategories = [...new Set(items.flatMap(i => i.categories))].filter(Boolean);
+
+  return { items, categories: allSearchCategories };
+}
+
+// ── Search Page ──────────────────────────────────────────
+function buildSearchPage() {
+  const bodyContent = `
+  ${T.renderArchiveNav('search', '../')}
+  <main class="container main-content">
+    <section class="content-section search-page">
+      ${T.renderBreadcrumb([
+        { label_ko: '홈', label_en: 'Home', url: '../index.html' },
+        { label_ko: '통합 검색', label_en: 'Search' }
+      ])}
+
+      <div class="section-header archive-section-header">
+        <h2>🔍 <span class="lang-ko">아카이브 통합 검색</span><span class="lang-en" style="display:none">Archive Search</span></h2>
+      </div>
+
+      <!-- Search Input -->
+      <div class="global-search-box">
+        <div class="search-wrapper global-search-wrapper">
+          <span class="search-icon">🔍</span>
+          <input type="text" id="globalSearchInput" class="search-input global-search-input"
+            placeholder="키워드로 Daily, Weekly, Monthly 전체 콘텐츠를 검색하세요..."
+            autofocus>
+        </div>
+      </div>
+
+      <!-- Type Filters -->
+      <div class="search-filters">
+        <div class="search-filter-group">
+          <span class="search-filter-label lang-ko">유형</span>
+          <span class="search-filter-label lang-en" style="display:none">Type</span>
+          <button class="search-filter-btn active" data-type="all">
+            <span class="lang-ko">전체</span><span class="lang-en" style="display:none">All</span>
+          </button>
+          <button class="search-filter-btn" data-type="daily">📰 Daily</button>
+          <button class="search-filter-btn" data-type="weekly">📊 Weekly</button>
+          <button class="search-filter-btn" data-type="monthly">📖 Monthly</button>
+        </div>
+        <div class="search-filter-group" id="categoryFilters">
+          <span class="search-filter-label lang-ko">카테고리</span>
+          <span class="search-filter-label lang-en" style="display:none">Category</span>
+          <button class="search-filter-btn cat-filter active" data-cat="all">
+            <span class="lang-ko">전체</span><span class="lang-en" style="display:none">All</span>
+          </button>
+          ${allCategories.map(c =>
+            `<button class="search-filter-btn cat-filter" data-cat="${c}" style="--filter-color:${T.categoryColor(c)}">${T.categoryLabel(c)}</button>`
+          ).join('')}
+        </div>
+        <div class="search-filter-group">
+          <span class="search-filter-label lang-ko">정렬</span>
+          <span class="search-filter-label lang-en" style="display:none">Sort</span>
+          <button class="search-filter-btn sort-btn active" data-sort="relevance">
+            <span class="lang-ko">관련도</span><span class="lang-en" style="display:none">Relevance</span>
+          </button>
+          <button class="search-filter-btn sort-btn" data-sort="newest">
+            <span class="lang-ko">최신순</span><span class="lang-en" style="display:none">Newest</span>
+          </button>
+          <button class="search-filter-btn sort-btn" data-sort="oldest">
+            <span class="lang-ko">오래된순</span><span class="lang-en" style="display:none">Oldest</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Search Stats -->
+      <div id="searchStats" class="search-stats"></div>
+
+      <!-- Results -->
+      <div id="searchResults" class="search-results">
+        <div class="search-initial-state">
+          <div class="search-initial-icon">🔮</div>
+          <p class="lang-ko">Daily · Weekly · Monthly 전체 콘텐츠를 검색할 수 있습니다.</p>
+          <p class="lang-en" style="display:none">Search across all Daily · Weekly · Monthly content.</p>
+          <div class="search-initial-hints">
+            <span class="lang-ko">예시: agentic commerce, D2C, AI 마케팅, McKinsey</span>
+            <span class="lang-en" style="display:none">Examples: agentic commerce, D2C, AI marketing, McKinsey</span>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>`;
+
+  return T.renderPageShell({
+    title: '통합 검색',
+    bodyContent,
+    cssPath: '../assets/css/style.css',
+    jsPath: '../assets/js/app.js',
+  });
+}
+
 // ══════════════════════════════════════════════════════════
 //  BUILD ALL
 // ══════════════════════════════════════════════════════════
@@ -648,7 +812,17 @@ function buildSite() {
     pageCount++;
   });
 
-  // ── 5. Misc ────────────────────────────────────────────
+  // ── 5. Search ──────────────────────────────────────────
+  const searchDir = path.join(DIST_DIR, 'archive');
+  ensureDir(searchDir);
+  fs.writeFileSync(path.join(searchDir, 'search.html'), buildSearchPage());
+  pageCount++;
+
+  const searchIndex = buildSearchIndex();
+  fs.writeFileSync(path.join(DIST_DIR, 'search-index.json'), JSON.stringify(searchIndex));
+  console.log(`   Search index: ${searchIndex.items.length} items indexed`);
+
+  // ── 6. Misc ────────────────────────────────────────────
   const cname = path.join(ROOT, 'CNAME');
   if (fs.existsSync(cname)) fs.copyFileSync(cname, path.join(DIST_DIR, 'CNAME'));
   fs.writeFileSync(path.join(DIST_DIR, '.nojekyll'), '');

@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>통합 검색 — LG AI Trend Hub</title>
+  <meta name="description" content="AI Commerce와 AI Marketing의 최신 트렌드, 뉴스, 인사이트를 한 곳에서.">
+  <link rel="stylesheet" href="../assets/css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+KR:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- Header -->
+  <header class="site-header">
+    <div class="container">
+      <div class="header-left">
+        <h1 class="logo">
+          <a href="../">
+            <span class="logo-icon">🔮</span>
+            <span>LG AI Trend Hub</span>
+          </a>
+        </h1>
+        <p class="tagline lang-ko">AI Commerce & Marketing Intelligence for LG Global DTC members</p>
+        <p class="tagline lang-en" style="display:none">AI Commerce & Marketing Intelligence for LG Global DTC members</p>
+      </div>
+      <div class="header-right">
+        <button id="langToggle" class="lang-toggle" title="Toggle Language">
+          <span class="lang-active">KO</span> / <span class="lang-inactive">EN</span>
+        </button>
+        <button id="themeToggle" class="theme-toggle" title="Toggle Theme">🌙</button>
+      </div>
+    </div>
+  </header>
+
+
+  
+  <nav class="section-nav">
+    <div class="container">
+      <a href="../index.html" class="nav-link">
+      <span class="lang-ko">🏠 홈</span>
+      <span class="lang-en" style="display:none">🏠 Home</span>
+    </a>
+      <a href="../archive/daily/index.html" class="nav-link">
+      <span class="lang-ko">📰 Daily</span>
+      <span class="lang-en" style="display:none">📰 Daily</span>
+    </a>
+      <a href="../archive/weekly/index.html" class="nav-link">
+      <span class="lang-ko">📊 Weekly</span>
+      <span class="lang-en" style="display:none">📊 Weekly</span>
+    </a>
+      <a href="../archive/monthly/index.html" class="nav-link">
+      <span class="lang-ko">📖 Monthly</span>
+      <span class="lang-en" style="display:none">📖 Monthly</span>
+    </a>
+      <a href="../archive/search.html" class="nav-link active">
+      <span class="lang-ko">🔍 통합검색</span>
+      <span class="lang-en" style="display:none">🔍 Search</span>
+    </a>
+    </div>
+  </nav>
+  <main class="container main-content">
+    <section class="content-section search-page">
+      <nav class="breadcrumb" aria-label="Breadcrumb"><a href="../index.html" class="breadcrumb-link">
+      <span class="lang-ko">홈</span>
+      <span class="lang-en" style="display:none">Home</span>
+    </a><span class="breadcrumb-sep">›</span><span class="breadcrumb-current">
+        <span class="lang-ko">통합 검색</span>
+        <span class="lang-en" style="display:none">Search</span>
+      </span></nav>
+
+      <div class="section-header archive-section-header">
+        <h2>🔍 <span class="lang-ko">아카이브 통합 검색</span><span class="lang-en" style="display:none">Archive Search</span></h2>
+      </div>
+
+      <!-- Search Input -->
+      <div class="global-search-box">
+        <div class="search-wrapper global-search-wrapper">
+          <span class="search-icon">🔍</span>
+          <input type="text" id="globalSearchInput" class="search-input global-search-input"
+            placeholder="키워드로 Daily, Weekly, Monthly 전체 콘텐츠를 검색하세요..."
+            autofocus>
+        </div>
+      </div>
+
+      <!-- Type Filters -->
+      <div class="search-filters">
+        <div class="search-filter-group">
+          <span class="search-filter-label lang-ko">유형</span>
+          <span class="search-filter-label lang-en" style="display:none">Type</span>
+          <button class="search-filter-btn active" data-type="all">
+            <span class="lang-ko">전체</span><span class="lang-en" style="display:none">All</span>
+          </button>
+          <button class="search-filter-btn" data-type="daily">📰 Daily</button>
+          <button class="search-filter-btn" data-type="weekly">📊 Weekly</button>
+          <button class="search-filter-btn" data-type="monthly">📖 Monthly</button>
+        </div>
+        <div class="search-filter-group" id="categoryFilters">
+          <span class="search-filter-label lang-ko">카테고리</span>
+          <span class="search-filter-label lang-en" style="display:none">Category</span>
+          <button class="search-filter-btn cat-filter active" data-cat="all">
+            <span class="lang-ko">전체</span><span class="lang-en" style="display:none">All</span>
+          </button>
+          <button class="search-filter-btn cat-filter" data-cat="commerce" style="--filter-color:#3B82F6">Commerce</button><button class="search-filter-btn cat-filter" data-cat="tech" style="--filter-color:#10B981">Tech</button><button class="search-filter-btn cat-filter" data-cat="strategy" style="--filter-color:#F59E0B">Strategy</button><button class="search-filter-btn cat-filter" data-cat="marketing" style="--filter-color:#8B5CF6">Marketing</button>
+        </div>
+        <div class="search-filter-group">
+          <span class="search-filter-label lang-ko">정렬</span>
+          <span class="search-filter-label lang-en" style="display:none">Sort</span>
+          <button class="search-filter-btn sort-btn active" data-sort="relevance">
+            <span class="lang-ko">관련도</span><span class="lang-en" style="display:none">Relevance</span>
+          </button>
+          <button class="search-filter-btn sort-btn" data-sort="newest">
+            <span class="lang-ko">최신순</span><span class="lang-en" style="display:none">Newest</span>
+          </button>
+          <button class="search-filter-btn sort-btn" data-sort="oldest">
+            <span class="lang-ko">오래된순</span><span class="lang-en" style="display:none">Oldest</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Search Stats -->
+      <div id="searchStats" class="search-stats"></div>
+
+      <!-- Results -->
+      <div id="searchResults" class="search-results">
+        <div class="search-initial-state">
+          <div class="search-initial-icon">🔮</div>
+          <p class="lang-ko">Daily · Weekly · Monthly 전체 콘텐츠를 검색할 수 있습니다.</p>
+          <p class="lang-en" style="display:none">Search across all Daily · Weekly · Monthly content.</p>
+          <div class="search-initial-hints">
+            <span class="lang-ko">예시: agentic commerce, D2C, AI 마케팅, McKinsey</span>
+            <span class="lang-en" style="display:none">Examples: agentic commerce, D2C, AI marketing, McKinsey</span>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <p>© 2026 LG AI Trend Hub — LG Global D2C Insight</p>
+      <p class="lang-ko">AI Commerce & Marketing Trend Intelligence Hub</p>
+      <p class="lang-en" style="display:none">AI Commerce & Marketing Trend Intelligence Hub</p>
+    </div>
+  </footer>
+
+  <!-- Back to Top -->
+  <button id="backToTop" class="back-to-top" title="Back to top">↑</button>
+
+  <script src="../assets/js/app.js"></script>
+</body>
+</html>

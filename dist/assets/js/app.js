@@ -256,6 +256,229 @@
     }
   });
 
+  // ── Global Archive Search (search page only) ──
+  const globalSearchInput = document.getElementById('globalSearchInput');
+  const searchResults = document.getElementById('searchResults');
+  const searchStats = document.getElementById('searchStats');
+
+  if (globalSearchInput && searchResults) {
+    let searchIndex = null;
+    let activeType = 'all';
+    let activeCat = 'all';
+    let activeSort = 'relevance';
+
+    // Load search index
+    const basePath = (document.querySelector('link[rel="stylesheet"]')?.href || '').split('assets/')[0] || '../';
+    const indexUrl = new URL('search-index.json', window.location.href.replace(/archive\/search\.html.*$/, ''));
+
+    fetch(indexUrl).then(r => r.json()).then(data => {
+      searchIndex = data;
+      // Check URL params for initial query
+      const params = new URLSearchParams(window.location.search);
+      const q = params.get('q');
+      if (q) {
+        globalSearchInput.value = q;
+        performGlobalSearch();
+      }
+    }).catch(() => {
+      searchResults.innerHTML = '<p class="empty-state">검색 인덱스를 불러올 수 없습니다.</p>';
+    });
+
+    // Type filters
+    document.querySelectorAll('.search-filter-btn[data-type]').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.search-filter-btn[data-type]').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        activeType = btn.dataset.type;
+        performGlobalSearch();
+      });
+    });
+
+    // Category filters
+    document.querySelectorAll('.search-filter-btn[data-cat]').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.search-filter-btn[data-cat]').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        activeCat = btn.dataset.cat;
+        performGlobalSearch();
+      });
+    });
+
+    // Sort buttons
+    document.querySelectorAll('.search-filter-btn[data-sort]').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.search-filter-btn[data-sort]').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        activeSort = btn.dataset.sort;
+        performGlobalSearch();
+      });
+    });
+
+    function highlightText(text, query) {
+      if (!query) return text;
+      const escaped = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      return text.replace(new RegExp(`(${escaped})`, 'gi'), '<mark class="search-highlight">$1</mark>');
+    }
+
+    function scoreItem(item, query) {
+      const q = query.toLowerCase();
+      let score = 0;
+      if ((item.title || '').toLowerCase().includes(q)) score += 10;
+      if ((item.title_en || '').toLowerCase().includes(q)) score += 8;
+      if ((item.summary_ko || '').toLowerCase().includes(q)) score += 5;
+      if ((item.summary_en || '').toLowerCase().includes(q)) score += 5;
+      if ((item.so_what_ko || '').toLowerCase().includes(q)) score += 3;
+      if ((item.so_what_en || '').toLowerCase().includes(q)) score += 3;
+      if ((item.tags || []).some(t => t.toLowerCase().includes(q))) score += 6;
+      if ((item.source || '').toLowerCase().includes(q)) score += 4;
+      if ((item.body_text || '').toLowerCase().includes(q)) score += 2;
+      if ((item.categories || []).some(c => c.toLowerCase().includes(q))) score += 4;
+      return score;
+    }
+
+    function typeBadge(type) {
+      const map = {
+        daily: '<span class="search-result-type type-daily">📰 Daily</span>',
+        weekly: '<span class="search-result-type type-weekly">📊 Weekly</span>',
+        monthly: '<span class="search-result-type type-monthly">📖 Monthly</span>'
+      };
+      return map[type] || '';
+    }
+
+    function renderResultCard(item, query) {
+      const title = highlightText(item.title || '', query);
+      const titleEn = highlightText(item.title_en || '', query);
+      const summary = item.summary_ko
+        ? highlightText((item.summary_ko || '').slice(0, 200), query)
+        : highlightText((item.body_text || '').slice(0, 200), query);
+      const summaryEn = item.summary_en
+        ? highlightText((item.summary_en || '').slice(0, 200), query)
+        : '';
+
+      const cats = (item.categories || []).map(c =>
+        `<span class="tag tag-sub">${c}</span>`
+      ).join('');
+      const tags = (item.tags || []).slice(0, 5).map(t =>
+        `<span class="tag tag-sub">${highlightText(t, query)}</span>`
+      ).join('');
+
+      const soWhat = item.so_what_ko
+        ? `<div class="search-result-sowhat"><strong>💡 So What:</strong> ${highlightText(item.so_what_ko.slice(0, 150), query)}...</div>`
+        : '';
+
+      const pageUrl = item.page_url ? `../${item.page_url}` : '#';
+      const sourceHtml = item.source ? `<span class="source-badge">${highlightText(item.source, query)}</span>` : '';
+
+      return `
+        <a href="${pageUrl}" class="search-result-card" data-type="${item.type}">
+          <div class="search-result-header">
+            ${typeBadge(item.type)}
+            ${sourceHtml}
+            <time>${item.date}</time>
+          </div>
+          <h3 class="search-result-title">
+            <span class="lang-ko">${title}</span>
+            <span class="lang-en" style="display:none">${titleEn || title}</span>
+          </h3>
+          <div class="search-result-summary">
+            <span class="lang-ko">${summary}${summary.length >= 200 ? '...' : ''}</span>
+            <span class="lang-en" style="display:none">${summaryEn || summary}${(summaryEn || summary).length >= 200 ? '...' : ''}</span>
+          </div>
+          ${soWhat}
+          <div class="search-result-tags">${cats}${tags}</div>
+        </a>`;
+    }
+
+    function performGlobalSearch() {
+      if (!searchIndex) return;
+      const query = globalSearchInput.value.trim();
+
+      if (!query) {
+        searchResults.innerHTML = `
+          <div class="search-initial-state">
+            <div class="search-initial-icon">🔮</div>
+            <p class="lang-ko">Daily · Weekly · Monthly 전체 콘텐츠를 검색할 수 있습니다.</p>
+            <p class="lang-en" style="display:none">Search across all Daily · Weekly · Monthly content.</p>
+            <div class="search-initial-hints">
+              <span class="lang-ko">예시: agentic commerce, D2C, AI 마케팅, McKinsey</span>
+              <span class="lang-en" style="display:none">Examples: agentic commerce, D2C, AI marketing, McKinsey</span>
+            </div>
+          </div>`;
+        searchStats.innerHTML = '';
+        // Re-apply current language
+        setLanguage(currentLang);
+        return;
+      }
+
+      // Filter by type
+      let results = searchIndex.items.filter(item => {
+        if (activeType !== 'all' && item.type !== activeType) return false;
+        if (activeCat !== 'all' && !(item.categories || []).includes(activeCat)) return false;
+        return true;
+      });
+
+      // Score and filter by query
+      results = results.map(item => ({ ...item, _score: scoreItem(item, query) }))
+        .filter(item => item._score > 0);
+
+      // Sort
+      if (activeSort === 'relevance') {
+        results.sort((a, b) => b._score - a._score);
+      } else if (activeSort === 'newest') {
+        results.sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+      } else if (activeSort === 'oldest') {
+        results.sort((a, b) => (a.date || '').localeCompare(b.date || ''));
+      }
+
+      // Render stats
+      const dailyCount = results.filter(r => r.type === 'daily').length;
+      const weeklyCount = results.filter(r => r.type === 'weekly').length;
+      const monthlyCount = results.filter(r => r.type === 'monthly').length;
+
+      searchStats.innerHTML = currentLang === 'ko'
+        ? `<strong>"${query}"</strong> 검색 결과 <strong>${results.length}</strong>건 — Daily ${dailyCount} · Weekly ${weeklyCount} · Monthly ${monthlyCount}`
+        : `<strong>${results.length}</strong> results for <strong>"${query}"</strong> — Daily ${dailyCount} · Weekly ${weeklyCount} · Monthly ${monthlyCount}`;
+
+      // Render results
+      if (results.length === 0) {
+        searchResults.innerHTML = `
+          <div class="search-empty-state">
+            <div class="search-empty-icon">🔍</div>
+            <p class="lang-ko">"${query}"에 대한 검색 결과가 없습니다.</p>
+            <p class="lang-en" style="display:none">No results found for "${query}".</p>
+            <div class="search-empty-tips">
+              <p class="lang-ko">다른 키워드로 검색하거나, 필터를 변경해 보세요.</p>
+              <p class="lang-en" style="display:none">Try different keywords or change the filters.</p>
+            </div>
+          </div>`;
+      } else {
+        searchResults.innerHTML = results.map(item => renderResultCard(item, query)).join('');
+      }
+
+      // Re-apply current language to new DOM
+      setLanguage(currentLang);
+    }
+
+    let globalDebounce;
+    globalSearchInput.addEventListener('input', () => {
+      clearTimeout(globalDebounce);
+      globalDebounce = setTimeout(performGlobalSearch, 250);
+    });
+
+    // Enter key support
+    globalSearchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        clearTimeout(globalDebounce);
+        performGlobalSearch();
+      }
+    });
+
+    // Update placeholder on lang change
+    globalSearchInput.placeholder = currentLang === 'ko'
+      ? '키워드로 Daily, Weekly, Monthly 전체 콘텐츠를 검색하세요...'
+      : 'Search across all Daily, Weekly, Monthly content...';
+  }
+
   // ── Sources Grid ──
   const sourcesGrid = document.getElementById('sourcesGrid');
   if (sourcesGrid) {
