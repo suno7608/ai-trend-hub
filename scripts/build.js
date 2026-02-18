@@ -204,7 +204,7 @@ function buildSite() {
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AI Trend Hub — AI Commerce & Marketing Intelligence</title>
+  <title>LG AI Trend Hub — AI Commerce & Marketing Intelligence</title>
   <meta name="description" content="AI Commerce와 AI Marketing의 최신 트렌드, 뉴스, 인사이트를 한 곳에서. Daily · Weekly · Monthly 큐레이션.">
   <link rel="stylesheet" href="assets/css/style.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -217,10 +217,10 @@ function buildSite() {
       <div class="header-left">
         <h1 class="logo">
           <span class="logo-icon">🔮</span>
-          <span>AI Trend Hub</span>
+          <span>LG AI Trend Hub</span>
         </h1>
-        <p class="tagline lang-ko">AI Commerce & Marketing Intelligence for Global D2C</p>
-        <p class="tagline lang-en" style="display:none">AI Commerce & Marketing Intelligence for Global D2C</p>
+        <p class="tagline lang-ko">AI Commerce & Marketing Intelligence for LG Global DTC members</p>
+        <p class="tagline lang-en" style="display:none">AI Commerce & Marketing Intelligence for LG Global DTC members</p>
       </div>
       <div class="header-right">
         <button id="langToggle" class="lang-toggle" title="Toggle Language">
@@ -272,7 +272,7 @@ function buildSite() {
     <section id="daily" class="content-section">
       <div class="section-header">
         <h2>📰 <span class="lang-ko">Today's Feed</span><span class="lang-en" style="display:none">Today's Feed</span></h2>
-        <span class="section-desc lang-ko">최신 AI Commerce & Marketing 뉴스 (최근 2~3일)</span>
+        <span class="section-desc lang-ko">최신 AI Commerce & Marketing 뉴스</span>
         <span class="section-desc lang-en" style="display:none">Latest AI Commerce & Marketing news (last 2-3 days)</span>
       </div>
 
@@ -334,7 +334,7 @@ function buildSite() {
   <!-- Footer -->
   <footer class="site-footer">
     <div class="container">
-      <p>© 2026 AI Trend Hub — LG Global D2C Insight</p>
+      <p>© 2026 LG AI Trend Hub — LG Global D2C Insight</p>
       <p class="lang-ko">AI Commerce & Marketing Trend Intelligence Hub</p>
       <p class="lang-en" style="display:none">AI Commerce & Marketing Trend Intelligence Hub</p>
       <p class="footer-meta">Last build: ${new Date().toISOString().split('T')[0]} | Content items: ${dailyItems.length + weeklyItems.length + monthlyItems.length}</p>
