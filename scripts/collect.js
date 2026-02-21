@@ -17,13 +17,22 @@ const PROCESSED_PATH = path.join(ROOT, 'data', 'processed_urls.json');
 const OUTPUT_PATH = path.join(ROOT, 'data', 'collected_raw.json');
 const CONTENT_DIR = path.join(ROOT, 'content', 'daily');
 
+const FEED_TIMEOUT = 15000; // 15s per feed
+const SCRIPT_TIMEOUT = 300000; // 5 min total script timeout
+
 const rssParser = new Parser({
-  timeout: 10000,
+  timeout: FEED_TIMEOUT,
   headers: { 'User-Agent': 'AI-Trend-Hub-Bot/2.0 (+https://suno7608.github.io/ai-trend-hub/)' },
   customFields: {
     item: [['dc:date', 'dcDate'], ['content:encoded', 'contentEncoded']],
   },
 });
+
+// Global script timeout — force exit after 5 minutes
+setTimeout(() => {
+  console.error('\n⏰ Script timeout (5 min) reached. Exiting with collected data...');
+  process.exit(0);
+}, SCRIPT_TIMEOUT);
 
 // ── Load sources from YAML ──
 function loadSources() {
@@ -75,9 +84,19 @@ function normalizeUrl(url) {
   }
 }
 
+// ── Fetch with hard timeout wrapper ──
+function withTimeout(promise, ms, label) {
+  return Promise.race([
+    promise,
+    new Promise((_, reject) =>
+      setTimeout(() => reject(new Error(`Timeout after ${ms/1000}s: ${label}`)), ms)
+    ),
+  ]);
+}
+
 // ── Fetch and parse RSS/Atom feed via rss-parser ──
 async function fetchFeed(feedUrl) {
-  const feed = await rssParser.parseURL(feedUrl);
+  const feed = await withTimeout(rssParser.parseURL(feedUrl), FEED_TIMEOUT, feedUrl);
   return (feed.items || []).map(item => ({
     title: (item.title || '').trim(),
     link: (item.link || '').trim(),

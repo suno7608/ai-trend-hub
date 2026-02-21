@@ -18,7 +18,7 @@ permissions:
 
 concurrency:
   group: "pages"
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   pipeline:
@@ -38,9 +38,11 @@ jobs:
 
       - name: "Step 1: Collect RSS feeds"
         id: collect
+        timeout-minutes: 7
         run: node scripts/collect.js --max-items=${{ github.event.inputs.max_items || '15' }}
 
       - name: "Step 2: Summarize with Claude AI"
+        timeout-minutes: 10
         run: node scripts/summarize.js
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
