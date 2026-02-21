@@ -2,8 +2,8 @@ name: Weekly Digest Pipeline
 
 on:
   schedule:
-    # Runs every Monday at 07:00 UTC (16:00 KST)
-    - cron: '0 7 * * 1'
+    # Runs every Sunday at 05:00 UTC (14:00 KST)
+    - cron: '0 5 * * 0'
   workflow_dispatch:
     inputs:
       week:
@@ -20,8 +20,8 @@ permissions:
   id-token: write
 
 concurrency:
-  group: "pages"
-  cancel-in-progress: false
+  group: "weekly-pipeline"
+  cancel-in-progress: true
 
 jobs:
   generate:
