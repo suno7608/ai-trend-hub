@@ -17,12 +17,13 @@ permissions:
   id-token: write
 
 concurrency:
-  group: "pages"
+  group: "daily-pipeline"
   cancel-in-progress: true
 
 jobs:
   pipeline:
     runs-on: ubuntu-latest
+    timeout-minutes: 25
     steps:
       - name: Checkout
         uses: actions/checkout@v4

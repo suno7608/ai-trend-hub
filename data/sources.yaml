@@ -5,11 +5,11 @@
   method: rss
   feed_url: https://shopify.engineering/blog.atom
   frequency: 2-3x/wk
-  status: existing
+  status: disabled
   language: en
   region: global
   weight: 0.7
-  notes: Atom feed 검증완료
+  notes: 404 — URL 변경됨 (2026-02-21 확인)
 - id: practical_ecommerce
   name: Practical Ecommerce
   category:
@@ -66,11 +66,11 @@
   method: rss
   feed_url: https://commercetools.com/blog/rss.xml
   frequency: weekly
-  status: new
+  status: disabled
   language: en
   region: global
   weight: 0.7
-  notes: ''
+  notes: 403 Forbidden (2026-02-21 확인)
 - id: mirakl
   name: Mirakl Blog
   category:
@@ -243,11 +243,11 @@
   method: rss
   feed_url: https://www.klaviyo.com/blog/feed
   frequency: 2x/wk
-  status: new
+  status: disabled
   language: en
   region: global
   weight: 0.7
-  notes: ''
+  notes: 404 — URL 변경됨 (2026-02-21 확인)
 - id: contentsquare_blog
   name: Contentsquare Blog
   category:
@@ -256,11 +256,11 @@
   method: rss
   feed_url: https://contentsquare.com/blog/feed
   frequency: weekly
-  status: new
+  status: disabled
   language: en
   region: global
   weight: 0.7
-  notes: ''
+  notes: 404 — URL 변경됨 (2026-02-21 확인)
 - id: google_ai_blog
   name: Google AI Blog
   category:
@@ -423,11 +423,11 @@
   method: rss
   feed_url: https://www.theverge.com/tech/rss/index.xml
   frequency: daily
-  status: new
+  status: disabled
   language: en
   region: global
   weight: 0.7
-  notes: ''
+  notes: 404 — URL 구조 변경됨 (2026-02-21 확인)
 - id: cnet_news
   name: CNET
   category:
@@ -448,11 +448,11 @@
   method: rss
   feed_url: https://retailcustomerexperience.com/feed
   frequency: daily
-  status: new
+  status: disabled
   language: en
   region: global
   weight: 0.7
-  notes: ''
+  notes: 404 — 사이트 폐쇄 또는 URL 변경 (2026-02-21 확인)
 - id: smartbrief_retail
   name: SmartBrief Retail
   category:

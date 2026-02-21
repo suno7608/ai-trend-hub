@@ -44,7 +44,7 @@ function loadSources() {
   const parsed = YAML.parse(raw);
   // sources.yaml has array of source objects
   const sources = (parsed.sources || parsed || []).filter(s =>
-    s.feed_url && s.method && s.method.includes('rss')
+    s.feed_url && s.method && s.method.includes('rss') && s.status !== 'disabled'
   );
   console.log(`📡 Loaded ${sources.length} RSS-capable sources from sources.yaml`);
   return sources;
