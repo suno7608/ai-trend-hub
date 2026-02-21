@@ -2,8 +2,8 @@ name: Monthly Deep Dive Pipeline
 
 on:
   schedule:
-    # Runs on the 1st of each month at 08:00 UTC (17:00 KST)
-    - cron: '0 8 1 * *'
+    # Runs on the 1st of each month at 05:00 UTC (14:00 KST)
+    - cron: '0 5 1 * *'
   workflow_dispatch:
     inputs:
       month:
@@ -20,12 +20,13 @@ permissions:
   id-token: write
 
 concurrency:
-  group: "pages"
-  cancel-in-progress: false
+  group: "monthly-pipeline"
+  cancel-in-progress: true
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - name: Checkout
         uses: actions/checkout@v4
