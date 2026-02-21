@@ -23,7 +23,7 @@ concurrency:
 jobs:
   pipeline:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 20
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -39,18 +39,28 @@ jobs:
 
       - name: "Step 1: Collect RSS feeds"
         id: collect
-        timeout-minutes: 7
+        timeout-minutes: 6
         run: node scripts/collect.js --max-items=${{ github.event.inputs.max_items || '15' }}
 
       - name: "Step 2: Summarize with Claude AI"
         timeout-minutes: 10
-        run: node scripts/summarize.js
+        run: |
+          if [ ! -s data/collected_raw.json ] || [ "$(cat data/collected_raw.json)" = "[]" ]; then
+            echo "⚠️ No articles collected. Skipping summarization."
+            exit 0
+          fi
+          node scripts/summarize.js
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL || 'claude-sonnet-4-20250514' }}
 
       - name: "Step 3: Generate markdown files"
-        run: node scripts/generate.js
+        run: |
+          if [ ! -s data/collected_raw.json ] || [ "$(cat data/collected_raw.json)" = "[]" ]; then
+            echo "⚠️ Skipping — no articles."
+            exit 0
+          fi
+          node scripts/generate.js
 
       - name: "Step 4: Validate schema"
         id: validate
