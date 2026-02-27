@@ -181,6 +181,14 @@ async function main() {
   // Save results
   fs.writeFileSync(OUTPUT_PATH, JSON.stringify(results, null, 2));
 
+  // ── Archive: append to daily JSONL file (never overwrite) ──
+  const archiveDir = path.join(path.resolve(__dirname, '..'), 'data', 'archive');
+  if (!fs.existsSync(archiveDir)) fs.mkdirSync(archiveDir, { recursive: true });
+  const today = new Date().toISOString().slice(0, 10);
+  const archivePath = path.join(archiveDir, `summarized_${today}.jsonl`);
+  const lines = results.map(item => JSON.stringify(item)).join('\n') + '\n';
+  fs.appendFileSync(archivePath, lines);
+
   const successCount = results.filter(r => r.ai_processed).length;
   const failCount = results.filter(r => !r.ai_processed).length;
 

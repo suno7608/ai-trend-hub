@@ -22,6 +22,7 @@ const ROOT = path.resolve(__dirname, '..');
 const SOURCES_PATH = path.join(ROOT, 'data', 'sources.yaml');
 const PROCESSED_PATH = path.join(ROOT, 'data', 'processed_urls.json');
 const OUTPUT_PATH = path.join(ROOT, 'data', 'collected_raw.json');
+const ARCHIVE_DIR = path.join(ROOT, 'data', 'archive');
 const CONTENT_DIR = path.join(ROOT, 'content', 'daily');
 
 const FEED_TIMEOUT = 12000;   // 12s per feed
@@ -55,12 +56,21 @@ function saveResults() {
   const maxItems = parseInt(process.env.MAX_ITEMS || '15');
   const output = allItems.slice(0, maxItems);
   fs.writeFileSync(OUTPUT_PATH, JSON.stringify(output, null, 2));
+
+  // ── Archive: append to daily JSONL file (never overwrite) ──
+  if (!fs.existsSync(ARCHIVE_DIR)) fs.mkdirSync(ARCHIVE_DIR, { recursive: true });
+  const today = new Date().toISOString().slice(0, 10);
+  const archivePath = path.join(ARCHIVE_DIR, `collected_${today}.jsonl`);
+  const lines = output.map(item => JSON.stringify(item)).join('\n') + '\n';
+  fs.appendFileSync(archivePath, lines);
+
   console.log(`\n📊 Results:`);
   console.log(`   Collected: ${output.length} new articles`);
   console.log(`   Duplicates skipped: ${skipCount}`);
   console.log(`   Feed errors: ${errorCount}`);
   console.log(`   Timed out: ${timedOut}`);
   console.log(`💾 Saved to data/collected_raw.json`);
+  console.log(`📦 Archived to data/archive/collected_${today}.jsonl`);
 }
 
 // ── Load sources from YAML ──
