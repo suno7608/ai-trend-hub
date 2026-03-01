@@ -33,17 +33,22 @@ function formatWeekString(year, week) {
 }
 
 function getWeekDateRange(year, week) {
-  // ISO week: Monday = day 1
+  // Week range: Sunday to Saturday (using ISO week number)
+  // Find the ISO Monday of this week, then go back 1 day to Sunday
   const jan4 = new Date(Date.UTC(year, 0, 4));
   const dayOfWeek = jan4.getUTCDay() || 7;
   const firstMonday = new Date(jan4);
   firstMonday.setUTCDate(jan4.getUTCDate() - dayOfWeek + 1);
 
-  const weekStart = new Date(firstMonday);
-  weekStart.setUTCDate(firstMonday.getUTCDate() + (week - 1) * 7);
+  const isoMonday = new Date(firstMonday);
+  isoMonday.setUTCDate(firstMonday.getUTCDate() + (week - 1) * 7);
 
-  const weekEnd = new Date(weekStart);
-  weekEnd.setUTCDate(weekStart.getUTCDate() + 6);
+  // Sunday = 1 day before Monday, Saturday = 5 days after Monday
+  const weekStart = new Date(isoMonday);
+  weekStart.setUTCDate(isoMonday.getUTCDate() - 1); // Sunday
+
+  const weekEnd = new Date(isoMonday);
+  weekEnd.setUTCDate(isoMonday.getUTCDate() + 5); // Saturday
 
   return {
     start: weekStart.toISOString().slice(0, 10),
@@ -268,11 +273,11 @@ async function main() {
   if (weekArg) {
     weekStr = weekArg.split('=')[1];
   } else {
-    // Default: previous week
+    // Default: previous week (Sun~Sat). Run on Sunday → yesterday is Saturday → that week.
     const now = new Date();
-    const lastWeek = new Date(now);
-    lastWeek.setDate(now.getDate() - 7);
-    const { year, week } = getISOWeek(lastWeek);
+    const yesterday = new Date(now);
+    yesterday.setDate(now.getDate() - 1);
+    const { year, week } = getISOWeek(yesterday);
     weekStr = formatWeekString(year, week);
   }
 
