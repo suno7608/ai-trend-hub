@@ -11,3 +11,9 @@ dist/
 data/collected_raw.json
 data/summarized.json
 data/validation-result.json
+
+# Secrets
+config/pipeline.env
+.env
+*.env
+!*.env.example
