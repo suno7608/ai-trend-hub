@@ -17,7 +17,7 @@ SCOPES = ["https://www.googleapis.com/auth/spreadsheets.readonly"]
 
 # Keep placeholder until real spreadsheet is ready.
 SPREADSHEET_ID = "1j0Bp3uFtUj5JhSiwDjI53exHgoWdK61DdtdphcxmU7c"
-RANGE_NAME = "Form Responses 1!B2:B"
+RANGE_NAME = "설문지 응답 시트2!B2:B"
 TOKEN_PATH = os.path.expanduser("~/.openclaw/workspace/tools/google-token.json")
 EMAIL_PATTERN = re.compile(r"^[A-Z0-9._%+\-]+@[A-Z0-9.\-]+\.[A-Z]{2,63}$", re.IGNORECASE)
 
@@ -80,8 +80,8 @@ def get_subscribers(
     resolved_spreadsheet_id = spreadsheet_id or os.getenv(
         "NEWSLETTER_SPREADSHEET_ID", SPREADSHEET_ID
     )
-    if resolved_spreadsheet_id == "1j0Bp3uFtUj5JhSiwDjI53exHgoWdK61DdtdphcxmU7c":
-        print("⚠️ SPREADSHEET_ID is placeholder. Update later with actual sheet ID.")
+    if not resolved_spreadsheet_id or resolved_spreadsheet_id == "YOUR_SPREADSHEET_ID_HERE":
+        print("⚠️ SPREADSHEET_ID is not configured. Set NEWSLETTER_SPREADSHEET_ID env var or update get_subscribers.py.")
         return []
 
     try:

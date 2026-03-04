@@ -449,5 +449,305 @@
     ],
     "confidence": 0.8,
     "ai_processed": true
+  },
+  {
+    "title": "Amazon, OpenAI에 $500억 투자 — 에이전틱 커머스 본격화",
+    "link": "https://www.cnbc.com/2026/02/27/amazon-open-ai-cloud-jassy-altman.html",
+    "date_published": "2026-03-05",
+    "description": "Amazon이 OpenAI에 500억 달러를 투자하며 AI 커머스 판도를 뒤흔들고 있다. OpenAI 모델을 Amazon 고객 서비스에 직접 탑재하고, 리테일·물류·디지털 서비스 전반에 AI를 확장할 계획. Amazon의 기존 Nova 모델과 결합해 **에이전틱 커머스(Agentic Commerce)** 시대를 앞당기고 있다.",
+    "source_id": "cnbc",
+    "source_name": "CNBC",
+    "source_url": "https://www.cnbc.com/2026/02/27/amazon-open-ai-cloud-jassy-altman.html",
+    "categories": [
+      "ai_commerce"
+    ],
+    "summary_ko": "Amazon이 OpenAI에 500억 달러를 투자하며 AI 커머스 판도를 뒤흔들고 있다. OpenAI 모델을 Amazon 고객 서비스에 직접 탑재하고, 리테일·물류·디지털 서비스 전반에 AI를 확장할 계획. Amazon의 기존 Nova 모델과 결합해 **에이전틱 커머스(Agentic Commerce)** 시대를 앞당기고 있다.",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "Meta, AI 쇼핑 도구 테스트 — ChatGPT·Gemini에 정면 도전",
+    "link": "https://www.cnet.com/tech/services-and-software/meta-new-ai-shopping-tool/",
+    "date_published": "2026-03-05",
+    "description": "Mark Zuckerberg의 Meta가 AI 기반 쇼핑 도구를 테스트 중. ChatGPT와 Google Gemini가 선점한 AI 쇼핑 시장에 뛰어들며 **Instagram·Facebook 커머스 생태계와 결합한 차별화**를 노린다.",
+    "source_id": "cnet",
+    "source_name": "CNET",
+    "source_url": "https://www.cnet.com/tech/services-and-software/meta-new-ai-shopping-tool/",
+    "categories": [
+      "ai_commerce"
+    ],
+    "summary_ko": "Mark Zuckerberg의 Meta가 AI 기반 쇼핑 도구를 테스트 중. ChatGPT와 Google Gemini가 선점한 AI 쇼핑 시장에 뛰어들며 **Instagram·Facebook 커머스 생태계와 결합한 차별화**를 노린다.",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "Amazon, 셀러 대상 AI '다이나믹 캔버스' 출시",
+    "link": "https://www.geekwire.com/2026/amazon-launches-ai-generated-canvas-for-sellers-as-e-commerce-platforms-race-to-add-ai-tools/",
+    "date_published": "2026-03-05",
+    "description": "Amazon이 Seller Central에 **AI 기반 '다이나믹 캔버스'** 기능을 도입. 셀러의 프롬프트에 맞춤형 비주얼 대시보드를 생성하며, 기존 AI 셀러 어시스턴트를 한층 강화했다.",
+    "source_id": "geekwire",
+    "source_name": "GeekWire",
+    "source_url": "https://www.geekwire.com/2026/amazon-launches-ai-generated-canvas-for-sellers-as-e-commerce-platforms-race-to-add-ai-tools/",
+    "categories": [
+      "ai_commerce"
+    ],
+    "summary_ko": "Amazon이 Seller Central에 **AI 기반 '다이나믹 캔버스'** 기능을 도입. 셀러의 프롬프트에 맞춤형 비주얼 대시보드를 생성하며, 기존 AI 셀러 어시스턴트를 한층 강화했다.",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "Google UCP(Universal Commerce Protocol) — Gemini로 쇼핑 결제까지",
+    "link": "https://winbuzzer.com/2026/03/03/meta-tests-ai-shopping-tool-challenge-chatgpt-gemini-xcxwbn/",
+    "date_published": "2026-03-05",
+    "description": "Google이 1월 출시한 **Universal Commerce Protocol**이 본격 작동 중. Gemini가 상품 비교, 가격 확인, Google Pay를 통한 결제까지 원스톱으로 처리하는 **유니버설 체크아웃** 표준을 구축했다.",
+    "source_id": "winbuzzer",
+    "source_name": "WinBuzzer",
+    "source_url": "https://winbuzzer.com/2026/03/03/meta-tests-ai-shopping-tool-challenge-chatgpt-gemini-xcxwbn/",
+    "categories": [
+      "ai_marketing"
+    ],
+    "summary_ko": "Google이 1월 출시한 **Universal Commerce Protocol**이 본격 작동 중. Gemini가 상품 비교, 가격 확인, Google Pay를 통한 결제까지 원스톱으로 처리하는 **유니버설 체크아웃** 표준을 구축했다.",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "에이전트 기반 마케팅 시스템의 부상",
+    "link": "https://www.analyticsinsight.net/artificial-intelligence/future-of-ai-in-marketing-analytics-trends-and-opportunities-in-2026",
+    "date_published": "2026-03-05",
+    "description": "2026년 가장 큰 변화는 **에이전트 기반(Agent-based) 시스템**의 부상. CMO들은 AI를 단순 도구가 아닌 전략·구조·거버넌스에 깊이 통합하는 방향으로 이동 중.",
+    "source_id": "analytics_insight",
+    "source_name": "Analytics Insight",
+    "source_url": "https://www.analyticsinsight.net/artificial-intelligence/future-of-ai-in-marketing-analytics-trends-and-opportunities-in-2026",
+    "categories": [
+      "ai_marketing"
+    ],
+    "summary_ko": "2026년 가장 큰 변화는 **에이전트 기반(Agent-based) 시스템**의 부상. CMO들은 AI를 단순 도구가 아닌 전략·구조·거버넌스에 깊이 통합하는 방향으로 이동 중.",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "AI 소셜 리스닝 — 트렌드를 '예측'하는 시대",
+    "link": "https://www.marketingbrew.com/stories/2026/03/02/how-marketers-are-using-ai-beyond-buzzwords",
+    "date_published": "2026-03-05",
+    "description": "Marketing Brew에 따르면, AI 기반 소셜 리스닝이 **감정·의도·신흥 테마를 자동 감지**하며, 트렌드가 메인스트림이 되기 전에 신호를 포착하는 '프로액티브 인텔리전스'로 진화 중.",
+    "source_id": "marketing_brew",
+    "source_name": "Marketing Brew",
+    "source_url": "https://www.marketingbrew.com/stories/2026/03/02/how-marketers-are-using-ai-beyond-buzzwords",
+    "categories": [
+      "ai_marketing"
+    ],
+    "summary_ko": "Marketing Brew에 따르면, AI 기반 소셜 리스닝이 **감정·의도·신흥 테마를 자동 감지**하며, 트렌드가 메인스트림이 되기 전에 신호를 포착하는 '프로액티브 인텔리전스'로 진화 중.",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "이메일 개인화의 미래: Predictive Reciprocity",
+    "link": "https://gritdaily.com/the-future-of-email-personalization-trends-and-predictions/",
+    "date_published": "2026-03-05",
+    "description": "AI가 과거 클릭이 아닌 **미래 의도를 예측**하는 'Predictive Reciprocity' 시대. 지역 경제 변화, 실시간 감정 분석 등 '마이크로 시그널'을 종합해 초개인화 이메일을 전송한다.",
+    "source_id": "grit_daily",
+    "source_name": "Grit Daily",
+    "source_url": "https://gritdaily.com/the-future-of-email-personalization-trends-and-predictions/",
+    "categories": [
+      "ai_commerce"
+    ],
+    "summary_ko": "AI가 과거 클릭이 아닌 **미래 의도를 예측**하는 'Predictive Reciprocity' 시대. 지역 경제 변화, 실시간 감정 분석 등 '마이크로 시그널'을 종합해 초개인화 이메일을 전송한다.",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "마케터 → 프로덕트 빌더 시대",
+    "link": "https://www.marketermilk.com/blog/ai-marketing-tools",
+    "date_published": "2026-03-05",
+    "description": "Lovable, Replit, Bolt, Claude Code, v0 등 노코드/AI 코딩 도구의 부상으로 **\"나는 기술자가 아니다\"는 더 이상 변명이 아닌 시대**. 마케터가 직접 툴을 만들고 관리하는 프로덕트 빌더로 변모 중.",
+    "source_id": "marketer_milk",
+    "source_name": "Marketer Milk",
+    "source_url": "https://www.marketermilk.com/blog/ai-marketing-tools",
+    "categories": [
+      "ai_marketing"
+    ],
+    "summary_ko": "Lovable, Replit, Bolt, Claude Code, v0 등 노코드/AI 코딩 도구의 부상으로 **\"나는 기술자가 아니다\"는 더 이상 변명이 아닌 시대**. 마케터가 직접 툴을 만들고 관리하는 프로덕트 빌더로 변모 중.",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "Google Discover 점유율 급등 — 뉴스 트래픽 구조 변화",
+    "link": "https://seafoammedia.com/march-2026-marketing-news-trends-insights/",
+    "date_published": "2026-03-05",
+    "description": "Google Discover의 뉴스 퍼블리셔 트래픽 점유율이 2023년 37%에서 **2026년 ~68%**로 급등. 반면 전통 웹검색은 51%→27%로 하락. AI 오버뷰 시대에 **에셋 다양성이 인프라**가 되고 있다.",
+    "source_id": "seafoam_media",
+    "source_name": "Seafoam Media",
+    "source_url": "https://seafoammedia.com/march-2026-marketing-news-trends-insights/",
+    "categories": [
+      "ai_marketing"
+    ],
+    "summary_ko": "Google Discover의 뉴스 퍼블리셔 트래픽 점유율이 2023년 37%에서 **2026년 ~68%**로 급등. 반면 전통 웹검색은 51%→27%로 하락. AI 오버뷰 시대에 **에셋 다양성이 인프라**가 되고 있다.",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "AI 쇼핑 플랫폼, 미국 리테일 이커머스의 1.5% 차지 ($209억)",
+    "link": "https://www.emarketer.com/content/faq-on-retail-technology--ai-s-role-reshaping-commerce-operations-customer-experience",
+    "date_published": "2026-03-05",
+    "description": "EMARKETER에 따르면 AI 플랫폼이 2026년 미국 리테일 이커머스 매출의 **1.5%($209억)**를 차지할 전망. AI 추천 엔진이 이제 **전체 상품 발견의 71%**를 이끌고 있다.",
+    "source_id": "emarketer",
+    "source_name": "EMARKETER",
+    "source_url": "https://www.emarketer.com/content/faq-on-retail-technology--ai-s-role-reshaping-commerce-operations-customer-experience",
+    "categories": [
+      "commerce"
+    ],
+    "summary_ko": "EMARKETER에 따르면 AI 플랫폼이 2026년 미국 리테일 이커머스 매출의 **1.5%($209억)**를 차지할 전망. AI 추천 엔진이 이제 **전체 상품 발견의 71%**를 이끌고 있다.",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "Walmart 이커머스 27% 성장 — AI 기반 광고 네트워크 확대",
+    "link": "https://www.rmwcommerce.com/podcast-episodes/march-2-2026-walmart-continues-its-tear-ecom-growth-at-27-perplexity-abandons-advertising-to-maintain-user-trust-the-great-parcel-reconfiguration-and-about-2028-global-intelligence-crisis",
+    "date_published": "2026-03-05",
+    "description": "Walmart Connect가 2027년까지 유일하게 점유율을 확대할 RMN(Retail Media Network)으로 전망. 2026년 증분 지출의 11% 차지. Amazon Ads와 합산 시 **RMN 증분 지출의 89.5%**를 장악.",
+    "source_id": "rmw_commerce",
+    "source_name": "RMW Commerce",
+    "source_url": "https://www.rmwcommerce.com/podcast-episodes/march-2-2026-walmart-continues-its-tear-ecom-growth-at-27-perplexity-abandons-advertising-to-maintain-user-trust-the-great-parcel-reconfiguration-and-about-2028-global-intelligence-crisis",
+    "categories": [
+      "commerce"
+    ],
+    "summary_ko": "Walmart Connect가 2027년까지 유일하게 점유율을 확대할 RMN(Retail Media Network)으로 전망. 2026년 증분 지출의 11% 차지. Amazon Ads와 합산 시 **RMN 증분 지출의 89.5%**를 장악.",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "Netcore 'Agentic Commerce Shift Report 2026' 발표",
+    "link": "https://martechedge.com/news/agentic-commerce-is-replacing-campaign-chaos-netcores-2026-report-maps-the-new-ecommerce-playbook",
+    "date_published": "2026-03-05",
+    "description": "챗봇에서 **세일즈 AI 에이전트**로의 전환이 본격화. 2025년의 교훈은 \"도구를 더 많이 쓴다고 수익이 늘지 않는다\"는 것. 성과를 낸 브랜드들은 **통합된 에이전트 시스템**에 집중했다.",
+    "source_id": "martech_edge",
+    "source_name": "MarTech Edge",
+    "source_url": "https://martechedge.com/news/agentic-commerce-is-replacing-campaign-chaos-netcores-2026-report-maps-the-new-ecommerce-playbook",
+    "categories": [
+      "ai_commerce"
+    ],
+    "summary_ko": "챗봇에서 **세일즈 AI 에이전트**로의 전환이 본격화. 2025년의 교훈은 \"도구를 더 많이 쓴다고 수익이 늘지 않는다\"는 것. 성과를 낸 브랜드들은 **통합된 에이전트 시스템**에 집중했다.",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "Perplexity, 광고 모델 포기 — 사용자 신뢰 우선",
+    "link": "https://www.rmwcommerce.com/podcast-episodes/march-2-2026-walmart-continues-its-tear-ecom-growth-at-27-perplexity-abandons-advertising-to-maintain-user-trust-the-great-parcel-reconfiguration-and-about-2028-global-intelligence-crisis",
+    "date_published": "2026-03-05",
+    "description": "Perplexity가 광고 수익 모델을 포기하고 **사용자 신뢰 유지를 선택**. AI 생태계가 '광고 수익화 vs 유료 구독' 두 갈래로 분화되는 현상이 뚜렷해지고 있다.",
+    "source_id": "rmw_commerce",
+    "source_name": "RMW Commerce",
+    "source_url": "https://www.rmwcommerce.com/podcast-episodes/march-2-2026-walmart-continues-its-tear-ecom-growth-at-27-perplexity-abandons-advertising-to-maintain-user-trust-the-great-parcel-reconfiguration-and-about-2028-global-intelligence-crisis",
+    "categories": [
+      "ai_commerce"
+    ],
+    "summary_ko": "Perplexity가 광고 수익 모델을 포기하고 **사용자 신뢰 유지를 선택**. AI 생태계가 '광고 수익화 vs 유료 구독' 두 갈래로 분화되는 현상이 뚜렷해지고 있다.",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "Astound Digital, AI 퍼포먼스 에이전트 'Storefront Pulse' 출시",
+    "link": "https://astounddigital.com/2026/03/04/astound-digital-launches-storefront-pulse-to-safeguard-ecommerce-revenue",
+    "date_published": "2026-03-05",
+    "description": "이커머스 매출을 보호하기 위한 **저니 중심 AI 퍼포먼스 감사 도구**. AI가 고객 여정 전체를 모니터링하며 매출 누수를 사전에 감지한다.",
+    "source_id": "astound_digital",
+    "source_name": "Astound Digital",
+    "source_url": "https://astounddigital.com/2026/03/04/astound-digital-launches-storefront-pulse-to-safeguard-ecommerce-revenue",
+    "categories": [
+      "commerce"
+    ],
+    "summary_ko": "이커머스 매출을 보호하기 위한 **저니 중심 AI 퍼포먼스 감사 도구**. AI가 고객 여정 전체를 모니터링하며 매출 누수를 사전에 감지한다.",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "AI 인플루언서 마케팅 에이전시 등장 — 'Post-Follower Era'",
+    "link": "https://www.vogue.com/article/a-new-ai-influencer-marketing-agency-is-here-for-the-post-follower-era",
+    "date_published": "2026-03-05",
+    "description": "Vogue가 보도한 새로운 AI 인플루언서 마케팅 에이전시. 팔로워 수가 아닌 **AI 기반 영향력 측정**으로 전환하며, 알고리즘이 기존 인플루언서 마케팅을 깨뜨리고 있다.",
+    "source_id": "vogue",
+    "source_name": "Vogue",
+    "source_url": "https://www.vogue.com/article/a-new-ai-influencer-marketing-agency-is-here-for-the-post-follower-era",
+    "categories": [
+      "ai_marketing"
+    ],
+    "summary_ko": "Vogue가 보도한 새로운 AI 인플루언서 마케팅 에이전시. 팔로워 수가 아닌 **AI 기반 영향력 측정**으로 전환하며, 알고리즘이 기존 인플루언서 마케팅을 깨뜨리고 있다.",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
   }
 ]

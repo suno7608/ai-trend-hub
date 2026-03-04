@@ -251,9 +251,9 @@ function renderDailyCard(item) {
         <div class="lang-en" style="display:none">${item.so_what_en || ''}</div>
       </div>
       <div class="card-footer">
-        <a href="${item.canonical_url || '#'}" target="_blank" rel="noopener" class="read-more">원문 보기 →</a>
+        <a href="${item.canonical_url || '#'}" target="_blank" rel="noopener" class="read-more"><span class="lang-ko">원문 보기 →</span><span class="lang-en" style="display:none">Read More →</span></a>
         <time>${item.date_published || ''}</time>
-        ${item.confidence ? `<span class="confidence">신뢰도: ${(item.confidence * 100).toFixed(0)}%</span>` : ''}
+        ${item.confidence ? `<span class="confidence"><span class="lang-ko">신뢰도: ${(item.confidence * 100).toFixed(0)}%</span><span class="lang-en" style="display:none">Confidence: ${(item.confidence * 100).toFixed(0)}%</span></span>` : ''}
       </div>
       <div class="social-actions" data-card-id="daily-${item.id || item._filename}">
         <button class="social-btn like-btn" data-action="like" title="좋아요">
@@ -420,13 +420,13 @@ function renderSubscribeSection() {
   return `
     <div class="subscribe-section">
       <div class="container">
-        <h2>📧 AI Commerce Daily 구독</h2>
-        <p>매일 아침 5시, AI 커머스 & 마케팅 최신 뉴스를 이메일로 받아보세요</p>
+        <h2><span class="lang-ko">📧 AI Commerce Daily 구독</span><span class="lang-en" style="display:none">📧 Subscribe to AI Commerce Daily</span></h2>
+        <p><span class="lang-ko">매일 아침 5시, AI 커머스 & 마케팅 최신 뉴스를 이메일로 받아보세요</span><span class="lang-en" style="display:none">Get the latest AI commerce & marketing news delivered to your inbox every morning</span></p>
         <a href="https://docs.google.com/forms/d/e/1FAIpQLScIA23358DcFIvwEKp6RYAOBdHhDVL6IuDFn-8UFLaTXYHEAA/viewform" 
            class="subscribe-button" 
            target="_blank"
            rel="noopener">
-          이메일로 구독하기 →
+          <span class="lang-ko">이메일로 구독하기 →</span><span class="lang-en" style="display:none">Subscribe via Email →</span>
         </a>
       </div>
     </div>
