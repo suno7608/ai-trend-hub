@@ -422,7 +422,7 @@ function renderSubscribeSection() {
       <div class="container">
         <h2>📧 AI Commerce Daily 구독</h2>
         <p>매일 아침 5시, AI 커머스 & 마케팅 최신 뉴스를 이메일로 받아보세요</p>
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLScO-1KzFXSI7thfY6QudDoW_JKnVEBMjCeXzjmakSMl-Qgf3g/viewform" 
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLScIA23358DcFIvwEKp6RYAOBdHhDVL6IuDFn-8UFLaTXYHEAA/viewform" 
            class="subscribe-button" 
            target="_blank"
            rel="noopener">
