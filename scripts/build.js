@@ -185,6 +185,8 @@ function buildHomePage() {
     </div>
   </div>
 
+  ${T.renderSubscribeSection()}
+
   <main class="container main-content">
     <!-- Daily Section -->
     <section id="daily" class="content-section">
