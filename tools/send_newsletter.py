@@ -138,14 +138,14 @@ def generate_html_newsletter(
             f"""
             <tr>
               <td style="padding:0 0 16px 0;">
-                <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:separate;background:#f8f7ff;border-radius:14px;border:1px solid #ece8ff;">
+                <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:separate;background:#1e1b2e;border-radius:14px;border:1px solid #2d2a3e;">
                   <tr>
                     <td style="padding:18px 18px 14px 18px;">
-                      <div style="font-size:18px;font-weight:700;line-height:1.4;color:#1f1d2b;">{emoji} {title}</div>
-                      <div style="margin-top:6px;font-size:12px;color:#6f6c85;">{meta}</div>
-                      <div style="margin-top:12px;font-size:14px;line-height:1.65;color:#3b3a48;">{summary}</div>
+                      <div style="font-size:18px;font-weight:700;line-height:1.4;color:#f0eeff;">{emoji} {title}</div>
+                      <div style="margin-top:6px;font-size:12px;color:#9d99b0;">{meta}</div>
+                      <div style="margin-top:12px;font-size:14px;line-height:1.65;color:#cbc7e0;">{summary}</div>
                       <div style="margin-top:14px;">
-                        <a href="{url}" target="_blank" rel="noopener" style="color:#5d3fd3;text-decoration:none;font-size:13px;font-weight:700;">원문 보기 →</a>
+                        <a href="{url}" target="_blank" rel="noopener" style="color:#a78bfa;text-decoration:none;font-size:13px;font-weight:700;">Read More →</a>
                       </div>
                     </td>
                   </tr>
@@ -156,7 +156,7 @@ def generate_html_newsletter(
         )
 
     items_html = "\n".join(items_html_parts) or """
-            <tr><td style="padding:12px 0;color:#6f6c85;">오늘 발송할 뉴스 항목이 없습니다.</td></tr>
+            <tr><td style="padding:12px 0;color:#9d99b0;">No news items available today.</td></tr>
     """
 
     return f"""<!DOCTYPE html>
@@ -165,51 +165,53 @@ def generate_html_newsletter(
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta name="x-apple-disable-message-reformatting" />
+    <meta name="color-scheme" content="dark" />
+    <meta name="supported-color-schemes" content="dark" />
     <title>AI Commerce Daily | {escape(date_str)}</title>
   </head>
-  <body style="margin:0;padding:0;background:#f3f1ff;">
+  <body style="margin:0;padding:0;background:#0d0b14;">
     <div style="display:none;max-height:0;overflow:hidden;opacity:0;">
       AI Commerce Daily {escape(date_str)}: 오늘의 핵심 AI 커머스/마케팅 뉴스 요약
     </div>
-    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#f3f1ff;padding:24px 12px;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#0d0b14;padding:24px 12px;">
       <tr>
         <td align="center">
-          <table role="presentation" width="640" cellpadding="0" cellspacing="0" style="width:100%;max-width:640px;background:#ffffff;border-radius:20px;overflow:hidden;">
+          <table role="presentation" width="640" cellpadding="0" cellspacing="0" style="width:100%;max-width:640px;background:#13111c;border-radius:20px;overflow:hidden;">
             <tr>
               <td style="padding:30px 24px;background:linear-gradient(135deg,#5f37ff 0%,#9a5bff 55%,#cf7bff 100%);color:#ffffff;">
                 <div style="font-size:13px;letter-spacing:1px;text-transform:uppercase;opacity:0.95;">AI Commerce Daily</div>
-                <h1 style="margin:8px 0 8px 0;font-size:30px;line-height:1.25;">매일 아침 5시, 핵심 뉴스만</h1>
-                <p style="margin:0;font-size:14px;line-height:1.6;opacity:0.95;">
+                <h1 style="margin:8px 0 8px 0;font-size:30px;line-height:1.25;color:#ffffff;">매일 아침 5시, 핵심 뉴스만</h1>
+                <p style="margin:0;font-size:14px;line-height:1.6;opacity:0.95;color:#f0eeff;">
                   AI 커머스 &amp; 마케팅 인사이트를 빠르게 확인하세요.
                 </p>
               </td>
             </tr>
             <tr>
-              <td style="padding:16px 24px;border-bottom:1px solid #efecff;background:#fcfbff;font-size:13px;color:#6f6c85;">
+              <td style="padding:16px 24px;border-bottom:1px solid #2d2a3e;background:#18152a;font-size:13px;color:#9d99b0;">
                 발행일: {escape(date_str)}
               </td>
             </tr>
             <tr>
-              <td style="padding:20px 24px 8px 24px;">
+              <td style="padding:20px 24px 8px 24px;background:#13111c;">
                 <table role="presentation" width="100%" cellpadding="0" cellspacing="0">{items_html}</table>
               </td>
             </tr>
             <tr>
-              <td style="padding:20px 24px 12px 24px;background:#f3f1ff;border-top:1px solid #efecff;">
+              <td style="padding:20px 24px 12px 24px;background:#18152a;border-top:1px solid #2d2a3e;">
                 <div style="text-align:center;margin-bottom:16px;">
-                  <div style="font-size:13px;font-weight:700;color:#5d3fd3;letter-spacing:0.5px;margin-bottom:10px;">📚 더 많은 인사이트 보기</div>
+                  <div style="font-size:13px;font-weight:700;color:#a78bfa;letter-spacing:0.5px;margin-bottom:10px;">📚 더 많은 인사이트 보기</div>
                   <a href="https://suno7608.github.io/ai-trend-hub/" target="_blank" rel="noopener" style="display:inline-block;padding:10px 22px;background:linear-gradient(135deg,#5f37ff,#9a5bff);color:#ffffff;text-decoration:none;border-radius:8px;font-size:13px;font-weight:700;margin:0 4px 8px 4px;">📊 AI Trend Hub</a>
                   <a href="https://suno7608.github.io/d2c-intel/" target="_blank" rel="noopener" style="display:inline-block;padding:10px 22px;background:linear-gradient(135deg,#5f37ff,#9a5bff);color:#ffffff;text-decoration:none;border-radius:8px;font-size:13px;font-weight:700;margin:0 4px 8px 4px;">🌐 D2C Intelligence Hub</a>
                 </div>
               </td>
             </tr>
             <tr>
-              <td style="padding:14px 24px 22px 24px;background:#fcfbff;color:#6f6c85;font-size:12px;line-height:1.7;">
-                <div style="font-weight:700;color:#2f2b45;">AI Commerce Daily</div>
+              <td style="padding:14px 24px 22px 24px;background:#0d0b14;color:#9d99b0;font-size:12px;line-height:1.7;">
+                <div style="font-weight:700;color:#f0eeff;">AI Commerce Daily</div>
                 <div>이 이메일은 구독자에게 발송되었습니다.</div>
                 <div style="margin-top:8px;">
                   구독 취소:
-                  <a href="{escape(unsubscribe_url, quote=True)}" style="color:#5d3fd3;text-decoration:none;">unsubscribe</a>
+                  <a href="{escape(unsubscribe_url, quote=True)}" style="color:#a78bfa;text-decoration:none;">unsubscribe</a>
                 </div>
               </td>
             </tr>
