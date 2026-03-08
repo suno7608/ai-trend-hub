@@ -749,5 +749,605 @@
     "tags": [],
     "confidence": 0.9,
     "ai_processed": true
+  },
+  {
+    "title": "Amazon-OpenAI 전략적 파트너십 발표",
+    "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-partnership-aws-elemental-inference-strands-labs-and-more-march-2-2026/",
+    "date_published": "2026-03-06",
+    "description": "**Amazon이 OpenAI에 $50B 투자, OpenAI 기업가치 $840B 달성** - AWS와 OpenAI의 다년간 전략적 파트너십 체결 - OpenAI 모델을 Amazon 고객 대면 애플리케이션에 통합 (Alexa 포함) - AWS의 AI 경쟁력 강화, Microsoft/Google 클라우드 경쟁 대응 - **Agentic Commerce** 분야 협력 가능성 시사 - Amazon 2026년 FCF 마이너스 전망 ($524.2M) - AI 투자 증가 - https://aws.amaz...",
+    "source_id": "aws.amazon.com",
+    "source_name": "aws.amazon.com",
+    "source_url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-partnership-aws-elemental-inference-strands-labs-and-more-march-2-2026/",
+    "categories": [
+      "ai_commerce"
+    ],
+    "summary_ko": "**Amazon이 OpenAI에 $50B 투자, OpenAI 기업가치 $840B 달성** - AWS와 OpenAI의 다년간 전략적 파트너십 체결 - OpenAI 모델을 Amazon 고객 대면 애플리케이션에 통합 (Alexa 포함) - AWS의 AI 경쟁력 강화, Microsoft/Google 클라우드 경쟁 대응 - **Agentic Commerce** 분야 협력 가능성 시사 - Amazon 2026년 FCF 마이너스 전망 ($524.2M) - AI 투자 증가 - https://aws.amaz...",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "Meta, AI 쇼핑 리서치 기능 테스트",
+    "link": "https://www.cnet.com/tech/services-and-software/meta-new-ai-shopping-tool/",
+    "date_published": "2026-03-06",
+    "description": "**ChatGPT/Gemini와 경쟁하는 AI 이커머스 도구 개발 중** - Meta AI 챗봇에 쇼핑 리서치 기능 추가 테스트 - Mark Zuckerberg, AI 이커머스 시장 진출 본격화 - OpenAI ChatGPT, Google Gemini와 정면 경쟁 - https://www.cnet.com/tech/services-and-software/meta-new-ai-shopping-tool/ - https://www.pymnts.com/meta/2026/meta-explores-ai-...",
+    "source_id": "cnet.com",
+    "source_name": "cnet.com",
+    "source_url": "https://www.cnet.com/tech/services-and-software/meta-new-ai-shopping-tool/",
+    "categories": [
+      "commerce"
+    ],
+    "summary_ko": "**ChatGPT/Gemini와 경쟁하는 AI 이커머스 도구 개발 중** - Meta AI 챗봇에 쇼핑 리서치 기능 추가 테스트 - Mark Zuckerberg, AI 이커머스 시장 진출 본격화 - OpenAI ChatGPT, Google Gemini와 정면 경쟁 - https://www.cnet.com/tech/services-and-software/meta-new-ai-shopping-tool/ - https://www.pymnts.com/meta/2026/meta-explores-ai-...",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "Walmart 이커머스 27% 성장",
+    "link": "https://www.rmwcommerce.com/podcast-episodes/march-2-2026-walmart-continues-its-tear-ecom-growth-at-27-perplexity-abandons-advertising-to-maintain-user-trust-the-great-parcel-reconfiguration-and-about-2028-global-intelligence-crisis",
+    "date_published": "2026-03-06",
+    "description": "**AI 기반 개인화 추천 엔진이 71% 차지** - Walmart Connect는 2027년까지 유일하게 점유율 증가 전망 (11% 증분 지출) - AI 기반 개인화가 광고를 넘어 전체 커머스로 확장 - 추천 엔진이 전체 거래의 71% 주도 - https://www.rmwcommerce.com/podcast-episodes/march-2-2026-walmart-continues-its-tear-ecom-growth-at-27-perplexity-abandons-advertising-to-m...",
+    "source_id": "rmwcommerce.com",
+    "source_name": "rmwcommerce.com",
+    "source_url": "https://www.rmwcommerce.com/podcast-episodes/march-2-2026-walmart-continues-its-tear-ecom-growth-at-27-perplexity-abandons-advertising-to-maintain-user-trust-the-great-parcel-reconfiguration-and-about-2028-global-intelligence-crisis",
+    "categories": [
+      "ai_marketing"
+    ],
+    "summary_ko": "**AI 기반 개인화 추천 엔진이 71% 차지** - Walmart Connect는 2027년까지 유일하게 점유율 증가 전망 (11% 증분 지출) - AI 기반 개인화가 광고를 넘어 전체 커머스로 확장 - 추천 엔진이 전체 거래의 71% 주도 - https://www.rmwcommerce.com/podcast-episodes/march-2-2026-walmart-continues-its-tear-ecom-growth-at-27-perplexity-abandons-advertising-to-m...",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "Zero-Click Search 시대 도래",
+    "link": "https://www.wordstream.com/blog/2026-ai-marketing-trends",
+    "date_published": "2026-03-06",
+    "description": "**ChatGPT, Perplexity, Gemini, Meta AI로 확산** - 사용자가 웹사이트 방문 없이 AI 도구 내에서 즉시 답변 획득 - 2026년 마케터의 새로운 도전: AI 검색 최적화 필수 - SEO에서 AIO (AI Optimization)로 전환 가속화",
+    "source_id": "wordstream.com",
+    "source_name": "wordstream.com",
+    "source_url": "https://www.wordstream.com/blog/2026-ai-marketing-trends",
+    "categories": [
+      "ai_marketing"
+    ],
+    "summary_ko": "**ChatGPT, Perplexity, Gemini, Meta AI로 확산** - 사용자가 웹사이트 방문 없이 AI 도구 내에서 즉시 답변 획득 - 2026년 마케터의 새로운 도전: AI 검색 최적화 필수 - SEO에서 AIO (AI Optimization)로 전환 가속화",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "Agentic Commerce가 캠페인 혼돈을 대체",
+    "link": "https://martechedge.com/news/agentic-commerce-is-replacing-campaign-chaos-netcores-2026-report-maps-the-new-ecommerce-playbook",
+    "date_published": "2026-03-06",
+    "description": "**Netcore의 2026 Agentic Commerce Shift Report** - 2025년 교훈: 더 많은 마케팅 툴 ≠ 더 많은 수익 - Agentic Commerce: AI 에이전트가 자율적으로 커머스 작업 수행 - 단순 챗봇에서 판매 AI 에이전트로 진화 - https://martechedge.com/news/agentic-commerce-is-replacing-campaign-chaos-netcores-2026-report-maps-the-new-ecommerce-playbo...",
+    "source_id": "martechedge.com",
+    "source_name": "martechedge.com",
+    "source_url": "https://martechedge.com/news/agentic-commerce-is-replacing-campaign-chaos-netcores-2026-report-maps-the-new-ecommerce-playbook",
+    "categories": [
+      "ai_marketing"
+    ],
+    "summary_ko": "**Netcore의 2026 Agentic Commerce Shift Report** - 2025년 교훈: 더 많은 마케팅 툴 ≠ 더 많은 수익 - Agentic Commerce: AI 에이전트가 자율적으로 커머스 작업 수행 - 단순 챗봇에서 판매 AI 에이전트로 진화 - https://martechedge.com/news/agentic-commerce-is-replacing-campaign-chaos-netcores-2026-report-maps-the-new-ecommerce-playbo...",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "AI 비디오 광고 생성 기술 진화",
+    "link": "https://www.jumpfly.com/blog/ai-in-online-advertising-5-key-trends-from-february-2026/",
+    "date_published": "2026-03-06",
+    "description": "**Seedance 2.0: 텍스트 프롬프트로 완전한 광고 시퀀스 생성** - 제품 공개 → 라이프스타일 장면 → CTA까지 하나의 프롬프트로 생성 - 최대 60fps 출력, 2026년 2월 카메라 컨트롤 벤치마크 1위 - 텍스트, 이미지, 오디오, 비디오 동시 입력 지원",
+    "source_id": "jumpfly.com",
+    "source_name": "jumpfly.com",
+    "source_url": "https://www.jumpfly.com/blog/ai-in-online-advertising-5-key-trends-from-february-2026/",
+    "categories": [
+      "ai_commerce"
+    ],
+    "summary_ko": "**Seedance 2.0: 텍스트 프롬프트로 완전한 광고 시퀀스 생성** - 제품 공개 → 라이프스타일 장면 → CTA까지 하나의 프롬프트로 생성 - 최대 60fps 출력, 2026년 2월 카메라 컨트롤 벤치마크 1위 - 텍스트, 이미지, 오디오, 비디오 동시 입력 지원",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "D2C 스타트업의 광고비 증가",
+    "link": "https://blog.mean.ceo/digital-advertising-trends-march-2026/",
+    "date_published": "2026-03-06",
+    "description": "**패션/라이프스타일 섹터에서 가장 강력** - 소규모 예산으로도 타겟팅과 퍼널 최적화로 큰 효과 - 멀티채널 캠페인 구축의 중요성 증가 - AI 모델을 활용한 광고 디자인이 이제 기본 필수 요소",
+    "source_id": "blog.mean.ceo",
+    "source_name": "blog.mean.ceo",
+    "source_url": "https://blog.mean.ceo/digital-advertising-trends-march-2026/",
+    "categories": [
+      "commerce"
+    ],
+    "summary_ko": "**패션/라이프스타일 섹터에서 가장 강력** - 소규모 예산으로도 타겟팅과 퍼널 최적화로 큰 효과 - 멀티채널 캠페인 구축의 중요성 증가 - AI 모델을 활용한 광고 디자인이 이제 기본 필수 요소",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "No-Code/AI-Assisted Building으로 이커머스 민주화",
+    "link": "https://www.bigcommerce.com/articles/ecommerce/ecommerce-trends/",
+    "date_published": "2026-03-06",
+    "description": "**개발 사이클 없이 빠른 캠페인 런칭** - 2026년 가장 빠른 브랜드: 긴 개발 사이클 없이 즉시 실행 - Lovable, Replit, Bolt, Claude Code, v0 등 도구로 누구나 소프트웨어 개발 가능 - \"기술적이지 않다\"는 변명이 더 이상 통하지 않음 - https://www.bigcommerce.com/articles/ecommerce/ecommerce-trends/ - https://www.marketermilk.com/blog/ai-marketing-tools",
+    "source_id": "bigcommerce.com",
+    "source_name": "bigcommerce.com",
+    "source_url": "https://www.bigcommerce.com/articles/ecommerce/ecommerce-trends/",
+    "categories": [
+      "ai_marketing"
+    ],
+    "summary_ko": "**개발 사이클 없이 빠른 캠페인 런칭** - 2026년 가장 빠른 브랜드: 긴 개발 사이클 없이 즉시 실행 - Lovable, Replit, Bolt, Claude Code, v0 등 도구로 누구나 소프트웨어 개발 가능 - \"기술적이지 않다\"는 변명이 더 이상 통하지 않음 - https://www.bigcommerce.com/articles/ecommerce/ecommerce-trends/ - https://www.marketermilk.com/blog/ai-marketing-tools",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "Astound Digital, Storefront Pulse 출시",
+    "link": "https://astounddigital.com/2026/03/04/astound-digital-launches-storefront-pulse-to-safeguard-ecommerce-revenue",
+    "date_published": "2026-03-06",
+    "description": "**AI 기반 성능 감사 도구로 이커머스 수익 보호** - Journey-centric AI 성능 감사 에이전트 - 고객 여정 중심의 스토어프론트 최적화 - 실시간 성능 모니터링 및 개선 제안",
+    "source_id": "astounddigital.com",
+    "source_name": "astounddigital.com",
+    "source_url": "https://astounddigital.com/2026/03/04/astound-digital-launches-storefront-pulse-to-safeguard-ecommerce-revenue",
+    "categories": [
+      "commerce"
+    ],
+    "summary_ko": "**AI 기반 성능 감사 도구로 이커머스 수익 보호** - Journey-centric AI 성능 감사 에이전트 - 고객 여정 중심의 스토어프론트 최적화 - 실시간 성능 모니터링 및 개선 제안",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "AI 마케팅의 핵심 요소 (2026)",
+    "link": "https://aiguideblog.com/ai-marketing-trends-2026/",
+    "date_published": "2026-03-06",
+    "description": "**Hyper-Personalization, Predictive Analytics, Automated Content** - 개인화된 사용자 경험을 위한 AI 알고리즘 - 예측 분석으로 고객 행동 예측 - 자동 콘텐츠 생성 및 인텔리전트 챗봇 - 음성 및 비주얼 검색 통합",
+    "source_id": "aiguideblog.com",
+    "source_name": "aiguideblog.com",
+    "source_url": "https://aiguideblog.com/ai-marketing-trends-2026/",
+    "categories": [
+      "ai_marketing"
+    ],
+    "summary_ko": "**Hyper-Personalization, Predictive Analytics, Automated Content** - 개인화된 사용자 경험을 위한 AI 알고리즘 - 예측 분석으로 고객 행동 예측 - 자동 콘텐츠 생성 및 인텔리전트 챗봇 - 음성 및 비주얼 검색 통합",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "OpenAI, ChatGPT 직접 체크아웃 기능 중단",
+    "link": "https://www.thekeyword.co/news/openai-drops-plan-for-direct-checkout-inside-chatgpt",
+    "date_published": "2026-03-07",
+    "description": "OpenAI가 ChatGPT 내 직접 구매 기능 개발을 중단하고, 제품 발견과 검색에 집중하기로 결정했습니다. 대신 외부 앱으로 거래 처리를 위임하며, Stripe와 함께 Agentic Commerce Protocol 개발은 계속 진행합니다. 이 결정은 사용자들이 ChatGPT에서 제품을 리서치하지만 실제 구매는 하지 않는 행동 패턴에 기반합니다. https://www.thekeyword.co/news/openai-drops-plan-for-direct-checkout-inside-chatg...",
+    "source_id": "thekeyword.co",
+    "source_name": "thekeyword.co",
+    "source_url": "https://www.thekeyword.co/news/openai-drops-plan-for-direct-checkout-inside-chatgpt",
+    "categories": [
+      "ai_commerce"
+    ],
+    "summary_ko": "OpenAI가 ChatGPT 내 직접 구매 기능 개발을 중단하고, 제품 발견과 검색에 집중하기로 결정했습니다. 대신 외부 앱으로 거래 처리를 위임하며, Stripe와 함께 Agentic Commerce Protocol 개발은 계속 진행합니다. 이 결정은 사용자들이 ChatGPT에서 제품을 리서치하지만 실제 구매는 하지 않는 행동 패턴에 기반합니다. https://www.thekeyword.co/news/openai-drops-plan-for-direct-checkout-inside-chatg...",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "Amazon, OpenAI에 150억 달러 투자",
+    "link": "https://the-decoder.com/chatgpt-users-research-products-but-wont-buy-there-forcing-openai-to-rethink-its-commerce-strategy/",
+    "date_published": "2026-03-07",
+    "description": "Amazon이 OpenAI에 150억 달러를 투자하고 최대 500억 달러까지 추가 투자 옵션을 확보했습니다. 이는 ChatGPT 사용자를 Amazon 플랫폼으로 유도하려는 전략적 투자로 분석됩니다. https://the-decoder.com/chatgpt-users-research-products-but-wont-buy-there-forcing-openai-to-rethink-its-commerce-strategy/",
+    "source_id": "the-decoder.com",
+    "source_name": "the-decoder.com",
+    "source_url": "https://the-decoder.com/chatgpt-users-research-products-but-wont-buy-there-forcing-openai-to-rethink-its-commerce-strategy/",
+    "categories": [
+      "ai_commerce"
+    ],
+    "summary_ko": "Amazon이 OpenAI에 150억 달러를 투자하고 최대 500억 달러까지 추가 투자 옵션을 확보했습니다. 이는 ChatGPT 사용자를 Amazon 플랫폼으로 유도하려는 전략적 투자로 분석됩니다. https://the-decoder.com/chatgpt-users-research-products-but-wont-buy-there-forcing-openai-to-rethink-its-commerce-strategy/",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "Google, Universal Commerce Protocol 런칭",
+    "link": "https://www.thedrum.com/opinion/kiri-masters-openai-is-killing-instant-checkout-but-don-t-dance-on-the-grave-of-agentic-shopping-just-yet",
+    "date_published": "2026-03-07",
+    "description": "Google이 2026년 1월 Universal Commerce Protocol을 런칭하며 AI Mode와 Gemini를 적극 푸시하고 있습니다. Shopping Graph와 Merchant Center를 활용해 이커머스 파괴에 적극 나서고 있습니다. https://www.thedrum.com/opinion/kiri-masters-openai-is-killing-instant-checkout-but-don-t-dance-on-the-grave-of-agentic-shopping-just-yet",
+    "source_id": "thedrum.com",
+    "source_name": "thedrum.com",
+    "source_url": "https://www.thedrum.com/opinion/kiri-masters-openai-is-killing-instant-checkout-but-don-t-dance-on-the-grave-of-agentic-shopping-just-yet",
+    "categories": [
+      "commerce"
+    ],
+    "summary_ko": "Google이 2026년 1월 Universal Commerce Protocol을 런칭하며 AI Mode와 Gemini를 적극 푸시하고 있습니다. Shopping Graph와 Merchant Center를 활용해 이커머스 파괴에 적극 나서고 있습니다. https://www.thedrum.com/opinion/kiri-masters-openai-is-killing-instant-checkout-but-don-t-dance-on-the-grave-of-agentic-shopping-just-yet",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "Meta, AI 쇼핑 도구 테스트 시작",
+    "link": "https://ww.fashionnetwork.com/news/Meta-quietly-trials-agentic-commerce-within-meta-ai,1813193.html",
+    "date_published": "2026-03-07",
+    "description": "Meta가 Meta AI 내에서 agentic commerce 기능을 조용히 테스트하고 있습니다. 체크아웃보다는 제품 발견에 초점을 맞추며, OpenAI 및 Google과 차별화된 접근을 시도합니다. https://ww.fashionnetwork.com/news/Meta-quietly-trials-agentic-commerce-within-meta-ai,1813193.html https://www.medianama.com/2026/03/223-meta-ai-shopping-assistant-...",
+    "source_id": "ww.fashionnetwork.com",
+    "source_name": "ww.fashionnetwork.com",
+    "source_url": "https://ww.fashionnetwork.com/news/Meta-quietly-trials-agentic-commerce-within-meta-ai,1813193.html",
+    "categories": [
+      "ai_commerce"
+    ],
+    "summary_ko": "Meta가 Meta AI 내에서 agentic commerce 기능을 조용히 테스트하고 있습니다. 체크아웃보다는 제품 발견에 초점을 맞추며, OpenAI 및 Google과 차별화된 접근을 시도합니다. https://ww.fashionnetwork.com/news/Meta-quietly-trials-agentic-commerce-within-meta-ai,1813193.html https://www.medianama.com/2026/03/223-meta-ai-shopping-assistant-...",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "AI 플랫폼, 2026년 미국 이커머스 판매의 1.5% 차지 전망",
+    "link": "https://www.emarketer.com/content/faq-on-retail-technology--ai-s-role-reshaping-commerce-operations-customer-experience",
+    "date_published": "2026-03-07",
+    "description": "AI 플랫폼이 2026년 미국 리테일 이커머스 판매의 1.5%인 209억 달러를 차지할 것으로 예측됩니다. 시장은 아직 초기 단계지만 빠르게 성장하고 있습니다. https://www.emarketer.com/content/faq-on-retail-technology--ai-s-role-reshaping-commerce-operations-customer-experience",
+    "source_id": "emarketer.com",
+    "source_name": "emarketer.com",
+    "source_url": "https://www.emarketer.com/content/faq-on-retail-technology--ai-s-role-reshaping-commerce-operations-customer-experience",
+    "categories": [
+      "commerce"
+    ],
+    "summary_ko": "AI 플랫폼이 2026년 미국 리테일 이커머스 판매의 1.5%인 209억 달러를 차지할 것으로 예측됩니다. 시장은 아직 초기 단계지만 빠르게 성장하고 있습니다. https://www.emarketer.com/content/faq-on-retail-technology--ai-s-role-reshaping-commerce-operations-customer-experience",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "AI 마케팅, 측정에서 실행으로 전환",
+    "link": "https://www.pymnts.com/artificial-intelligence-2/2026/marketings-ai-shift-is-from-measuring-campaigns-to-running-them/",
+    "date_published": "2026-03-07",
+    "description": "마케팅 AI가 캠페인 성과 측정에서 실제 캠페인 실행으로 역할이 진화하고 있습니다. AI가 수백 개의 데이터 포인트를 분석해 우선순위화된 실행 단계로 변환하며, 마케터에게 다음 액션을 자동 제안합니다. https://www.pymnts.com/artificial-intelligence-2/2026/marketings-ai-shift-is-from-measuring-campaigns-to-running-them/",
+    "source_id": "pymnts.com",
+    "source_name": "pymnts.com",
+    "source_url": "https://www.pymnts.com/artificial-intelligence-2/2026/marketings-ai-shift-is-from-measuring-campaigns-to-running-them/",
+    "categories": [
+      "ai_marketing"
+    ],
+    "summary_ko": "마케팅 AI가 캠페인 성과 측정에서 실제 캠페인 실행으로 역할이 진화하고 있습니다. AI가 수백 개의 데이터 포인트를 분석해 우선순위화된 실행 단계로 변환하며, 마케터에게 다음 액션을 자동 제안합니다. https://www.pymnts.com/artificial-intelligence-2/2026/marketings-ai-shift-is-from-measuring-campaigns-to-running-them/",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "하이브리드 인텔리전스 모델 부상",
+    "link": "https://digigrow.ca/blogs/how-ai-is-reshaping-future-digital-marketing-strategy-digigrow-canada",
+    "date_published": "2026-03-07",
+    "description": "콘텐츠 마케팅 전략이 인간 마케터와 머신러닝 시스템이 협업하는 하이브리드 인텔리전스 모델로 진화하고 있습니다. AI가 트렌딩 토픽 분석, 키워드 기회 제안, 검색을 위한 콘텐츠 구조 최적화를 수행합니다. https://digigrow.ca/blogs/how-ai-is-reshaping-future-digital-marketing-strategy-digigrow-canada",
+    "source_id": "digigrow.ca",
+    "source_name": "digigrow.ca",
+    "source_url": "https://digigrow.ca/blogs/how-ai-is-reshaping-future-digital-marketing-strategy-digigrow-canada",
+    "categories": [
+      "ai_marketing"
+    ],
+    "summary_ko": "콘텐츠 마케팅 전략이 인간 마케터와 머신러닝 시스템이 협업하는 하이브리드 인텔리전스 모델로 진화하고 있습니다. AI가 트렌딩 토픽 분석, 키워드 기회 제안, 검색을 위한 콘텐츠 구조 최적화를 수행합니다. https://digigrow.ca/blogs/how-ai-is-reshaping-future-digital-marketing-strategy-digigrow-canada",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "Klaviyo AI, 이메일 자동화 주도",
+    "link": "https://cybernews.com/ai-tools/best-ai-tools-for-ecommerce/",
+    "date_published": "2026-03-07",
+    "description": "Klaviyo AI가 리텐션, 세그멘테이션, 라이프사이클 자동화에서 강력한 성과를 보이며 이커머스 이메일 마케팅을 주도하고 있습니다. 외부 도구 없이 설명, 이메일, 이미지, 스토어프론트 콘텐츠를 생성할 수 있습니다. https://cybernews.com/ai-tools/best-ai-tools-for-ecommerce/",
+    "source_id": "cybernews.com",
+    "source_name": "cybernews.com",
+    "source_url": "https://cybernews.com/ai-tools/best-ai-tools-for-ecommerce/",
+    "categories": [
+      "ai_marketing"
+    ],
+    "summary_ko": "Klaviyo AI가 리텐션, 세그멘테이션, 라이프사이클 자동화에서 강력한 성과를 보이며 이커머스 이메일 마케팅을 주도하고 있습니다. 외부 도구 없이 설명, 이메일, 이미지, 스토어프론트 콘텐츠를 생성할 수 있습니다. https://cybernews.com/ai-tools/best-ai-tools-for-ecommerce/",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "Conversational Commerce, 쇼핑 카트 대체 중",
+    "link": "https://neuwark.com/blog/conversational-commerce-2026-ai-replacing-shopping-cart",
+    "date_published": "2026-03-07",
+    "description": "대화형 커머스가 전통적인 체크아웃 대비 4배 높은 전환율을 보이며 쇼핑 카트를 대체하고 있습니다. AI 쇼핑 어시스턴트가 새로운 구매 경험의 표준으로 자리잡고 있습니다. https://neuwark.com/blog/conversational-commerce-2026-ai-replacing-shopping-cart",
+    "source_id": "neuwark.com",
+    "source_name": "neuwark.com",
+    "source_url": "https://neuwark.com/blog/conversational-commerce-2026-ai-replacing-shopping-cart",
+    "categories": [
+      "ai_commerce"
+    ],
+    "summary_ko": "대화형 커머스가 전통적인 체크아웃 대비 4배 높은 전환율을 보이며 쇼핑 카트를 대체하고 있습니다. AI 쇼핑 어시스턴트가 새로운 구매 경험의 표준으로 자리잡고 있습니다. https://neuwark.com/blog/conversational-commerce-2026-ai-replacing-shopping-cart",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "2026 이커머스 핵심 트렌드: Agentic AI & 하이퍼 개인화",
+    "link": "https://www.tritonmarketing.co.uk/post/the-2026-trends-every-ecommerce-marketer-needs-to-know",
+    "date_published": "2026-03-07",
+    "description": "AI 기반 도구가 개인화된 제품 추천, 이메일 시퀀스, 온사이트 경험, 광고 크리에이티브를 대규모로 제공하고 있습니다. 단, 통합되고 신뢰할 수 있는 데이터가 전제 조건입니다. https://www.tritonmarketing.co.uk/post/the-2026-trends-every-ecommerce-marketer-needs-to-know",
+    "source_id": "tritonmarketing.co.uk",
+    "source_name": "tritonmarketing.co.uk",
+    "source_url": "https://www.tritonmarketing.co.uk/post/the-2026-trends-every-ecommerce-marketer-needs-to-know",
+    "categories": [
+      "ai_marketing"
+    ],
+    "summary_ko": "AI 기반 도구가 개인화된 제품 추천, 이메일 시퀀스, 온사이트 경험, 광고 크리에이티브를 대규모로 제공하고 있습니다. 단, 통합되고 신뢰할 수 있는 데이터가 전제 조건입니다. https://www.tritonmarketing.co.uk/post/the-2026-trends-every-ecommerce-marketer-needs-to-know",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "Meta, AI 쇼핑 어시스턴트 테스트 시작 - ChatGPT·Gemini와 경쟁 본격화",
+    "link": "https://www.cnet.com/tech/services-and-software/meta-new-ai-shopping-tool/",
+    "date_published": "2026-03-08",
+    "description": "Meta가 자사 AI 챗봇에 쇼핑 리서치 기능을 추가하며 OpenAI ChatGPT, Google Gemini와의 AI 쇼핑 전쟁에 뛰어들었습니다. 현재 미국 웹 버전에서 테스트 중이며, 'Avocado' 프로젝트(Meta Superintelligence Labs 개발)는 2026년 상반기 출시 예정입니다. 다만 ChatGPT/Gemini와 달리 체크아웃 기능은 제외하고 발견(Discovery)에 집중하고 있습니다. https://www.cnet.com/tech/services-and-sof...",
+    "source_id": "cnet.com",
+    "source_name": "cnet.com",
+    "source_url": "https://www.cnet.com/tech/services-and-software/meta-new-ai-shopping-tool/",
+    "categories": [
+      "ai_commerce"
+    ],
+    "summary_ko": "Meta가 자사 AI 챗봇에 쇼핑 리서치 기능을 추가하며 OpenAI ChatGPT, Google Gemini와의 AI 쇼핑 전쟁에 뛰어들었습니다. 현재 미국 웹 버전에서 테스트 중이며, 'Avocado' 프로젝트(Meta Superintelligence Labs 개발)는 2026년 상반기 출시 예정입니다. 다만 ChatGPT/Gemini와 달리 체크아웃 기능은 제외하고 발견(Discovery)에 집중하고 있습니다. https://www.cnet.com/tech/services-and-sof...",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "Mastercard, AI 에이전트 커머스 신뢰 구축 위한 'Verifiable Intent' 발표",
+    "link": "https://www.mastercard.com/us/en/news-and-trends/stories/2026/verifiable-intent.html",
+    "date_published": "2026-03-08",
+    "description": "Mastercard가 AI 에이전트가 사용자를 대신해 구매할 때 신뢰를 보장하는 새로운 프레임워크를 발표했습니다. AI 에이전트가 본격화되면서 \"누가 실제로 구매를 승인했는가\"에 대한 검증 메커니즘이 필수가 되고 있습니다. https://www.mastercard.com/us/en/news-and-trends/stories/2026/verifiable-intent.html",
+    "source_id": "mastercard.com",
+    "source_name": "mastercard.com",
+    "source_url": "https://www.mastercard.com/us/en/news-and-trends/stories/2026/verifiable-intent.html",
+    "categories": [
+      "ai_commerce"
+    ],
+    "summary_ko": "Mastercard가 AI 에이전트가 사용자를 대신해 구매할 때 신뢰를 보장하는 새로운 프레임워크를 발표했습니다. AI 에이전트가 본격화되면서 \"누가 실제로 구매를 승인했는가\"에 대한 검증 메커니즘이 필수가 되고 있습니다. https://www.mastercard.com/us/en/news-and-trends/stories/2026/verifiable-intent.html",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "OpenAI + AWS 파트너십 - Generative AI 앱 개발 환경 구축",
+    "link": "https://www.practicalecommerce.com/new-ecommerce-tools-march-4-2026",
+    "date_published": "2026-03-08",
+    "description": "OpenAI와 Amazon Web Services가 협력하여 AWS 고객이 OpenAI 모델을 활용한 생성형 AI 애플리케이션 및 에이전트를 구축, 배포, 관리할 수 있는 환경을 조성합니다. Amazon의 고객 대면 서비스에도 OpenAI 모델이 적용될 예정입니다. https://www.practicalecommerce.com/new-ecommerce-tools-march-4-2026",
+    "source_id": "practicalecommerce.com",
+    "source_name": "practicalecommerce.com",
+    "source_url": "https://www.practicalecommerce.com/new-ecommerce-tools-march-4-2026",
+    "categories": [
+      "ai_marketing"
+    ],
+    "summary_ko": "OpenAI와 Amazon Web Services가 협력하여 AWS 고객이 OpenAI 모델을 활용한 생성형 AI 애플리케이션 및 에이전트를 구축, 배포, 관리할 수 있는 환경을 조성합니다. Amazon의 고객 대면 서비스에도 OpenAI 모델이 적용될 예정입니다. https://www.practicalecommerce.com/new-ecommerce-tools-march-4-2026",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "2026년 AI 마케팅 자동화 - '자율 최적화 캠페인' 시대 개막",
+    "link": "https://www.wordstream.com/blog/2026-ai-marketing-trends",
+    "date_published": "2026-03-08",
+    "description": "2026년 마케팅 캠페인은 더 이상 마케터가 대시보드를 분석하고 예산을 조정하는 방식이 아닙니다. AI가 실시간으로 학습, 적응, 최적화를 **인간 개입 없이** 수행합니다. 주요 트렌드: - 초개인화(Hyper-personalization) 및 예측 분석 - 캠페인 자동화 및 지속적 최적화 - AI가 마케팅 팀 시간의 30%를 절약 → 고차원 창의성에 재투자 - 'Vibe Marketing' 등 새로운 마케팅 역할 등장 https://www.wordstream.com/blog/2026-ai...",
+    "source_id": "wordstream.com",
+    "source_name": "wordstream.com",
+    "source_url": "https://www.wordstream.com/blog/2026-ai-marketing-trends",
+    "categories": [
+      "ai_marketing"
+    ],
+    "summary_ko": "2026년 마케팅 캠페인은 더 이상 마케터가 대시보드를 분석하고 예산을 조정하는 방식이 아닙니다. AI가 실시간으로 학습, 적응, 최적화를 **인간 개입 없이** 수행합니다. 주요 트렌드: - 초개인화(Hyper-personalization) 및 예측 분석 - 캠페인 자동화 및 지속적 최적화 - AI가 마케팅 팀 시간의 30%를 절약 → 고차원 창의성에 재투자 - 'Vibe Marketing' 등 새로운 마케팅 역할 등장 https://www.wordstream.com/blog/2026-ai...",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "AI 과다 사용 경고 - \"무엇을 자동화하고, 무엇을 인간이 해야 하는가\"",
+    "link": "https://www.icsmarketingsolutions.com/post/ai-overload-in-marketing-what-to-automate-in-2026-and-what-to-keep-human",
+    "date_published": "2026-03-08",
+    "description": "많은 마케터들이 너무 많은 AI 툴을 전략 없이 사용하며 실패하고 있습니다. 결과: 일반적인 콘텐츠, 단절된 캠페인, 그리고 \"자동화 냄새\"를 멀리서도 감지하는 청중. 2026년 핵심은 **데이터 기반 의사결정**과 선택적 자동화입니다. https://www.icsmarketingsolutions.com/post/ai-overload-in-marketing-what-to-automate-in-2026-and-what-to-keep-human",
+    "source_id": "icsmarketingsolutions.com",
+    "source_name": "icsmarketingsolutions.com",
+    "source_url": "https://www.icsmarketingsolutions.com/post/ai-overload-in-marketing-what-to-automate-in-2026-and-what-to-keep-human",
+    "categories": [
+      "ai_marketing"
+    ],
+    "summary_ko": "많은 마케터들이 너무 많은 AI 툴을 전략 없이 사용하며 실패하고 있습니다. 결과: 일반적인 콘텐츠, 단절된 캠페인, 그리고 \"자동화 냄새\"를 멀리서도 감지하는 청중. 2026년 핵심은 **데이터 기반 의사결정**과 선택적 자동화입니다. https://www.icsmarketingsolutions.com/post/ai-overload-in-marketing-what-to-automate-in-2026-and-what-to-keep-human",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "Amazon Rufus - 생성형 AI 쇼핑 어시스턴트 전면 확대",
+    "link": "https://www.benzinga.com/markets/tech/26/03/51100580/alibaba-ai-just-handled-200m-orders-amazon-openai",
+    "date_published": "2026-03-08",
+    "description": "Amazon이 자사 앱에 내장된 생성형 AI 쇼핑 어시스턴트 Rufus를 통해 제품 질문 답변, 아이템 비교, Amazon 제품 카탈로그 기반 추천 구매를 제공하고 있습니다. \"Buy For Me\" 기능으로 Amazon 앱 안에서 타 브랜드 쇼핑도 가능하게 만들었습니다. https://www.benzinga.com/markets/tech/26/03/51100580/alibaba-ai-just-handled-200m-orders-amazon-openai",
+    "source_id": "benzinga.com",
+    "source_name": "benzinga.com",
+    "source_url": "https://www.benzinga.com/markets/tech/26/03/51100580/alibaba-ai-just-handled-200m-orders-amazon-openai",
+    "categories": [
+      "ai_commerce"
+    ],
+    "summary_ko": "Amazon이 자사 앱에 내장된 생성형 AI 쇼핑 어시스턴트 Rufus를 통해 제품 질문 답변, 아이템 비교, Amazon 제품 카탈로그 기반 추천 구매를 제공하고 있습니다. \"Buy For Me\" 기능으로 Amazon 앱 안에서 타 브랜드 쇼핑도 가능하게 만들었습니다. https://www.benzinga.com/markets/tech/26/03/51100580/alibaba-ai-just-handled-200m-orders-amazon-openai",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "Alibaba AI, 2억 건 주문 처리 - 쇼핑의 재정의",
+    "link": "https://www.benzinga.com/markets/tech/26/03/51100580/alibaba-ai-just-handled-200m-orders-amazon-openai",
+    "date_published": "2026-03-08",
+    "description": "Alibaba의 AI 시스템이 대규모 주문을 자동으로 처리하며 쇼핑 경험을 혁신하고 있습니다. Amazon, OpenAI와의 경쟁에서 아시아 시장 선도를 입증했습니다. https://www.benzinga.com/markets/tech/26/03/51100580/alibaba-ai-just-handled-200m-orders-amazon-openai",
+    "source_id": "benzinga.com",
+    "source_name": "benzinga.com",
+    "source_url": "https://www.benzinga.com/markets/tech/26/03/51100580/alibaba-ai-just-handled-200m-orders-amazon-openai",
+    "categories": [
+      "ai_commerce"
+    ],
+    "summary_ko": "Alibaba의 AI 시스템이 대규모 주문을 자동으로 처리하며 쇼핑 경험을 혁신하고 있습니다. Amazon, OpenAI와의 경쟁에서 아시아 시장 선도를 입증했습니다. https://www.benzinga.com/markets/tech/26/03/51100580/alibaba-ai-just-handled-200m-orders-amazon-openai",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "Return Policy Schema - AI 쇼핑 에이전트 신뢰도 향상",
+    "link": "https://www.toolient.com/2026/03/return-policy-schema-agent-trust-purchases.html",
+    "date_published": "2026-03-08",
+    "description": "연구 결과, AI 쇼핑 에이전트가 반품 정책이 **인간이 읽을 수 있는 텍스트**로만 작성된 제품 페이지를 건너뛰는 것으로 나타났습니다. 머신 리더블 데이터(Machine-readable Schema)로 변환 시 AI 에이전트의 신뢰도와 구매율이 증가합니다. https://www.toolient.com/2026/03/return-policy-schema-agent-trust-purchases.html",
+    "source_id": "toolient.com",
+    "source_name": "toolient.com",
+    "source_url": "https://www.toolient.com/2026/03/return-policy-schema-agent-trust-purchases.html",
+    "categories": [
+      "ai_commerce"
+    ],
+    "summary_ko": "연구 결과, AI 쇼핑 에이전트가 반품 정책이 **인간이 읽을 수 있는 텍스트**로만 작성된 제품 페이지를 건너뛰는 것으로 나타났습니다. 머신 리더블 데이터(Machine-readable Schema)로 변환 시 AI 에이전트의 신뢰도와 구매율이 증가합니다. https://www.toolient.com/2026/03/return-policy-schema-agent-trust-purchases.html",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "Astound Digital, 'Storefront Pulse' 출시 - AI 성능 감사 에이전트",
+    "link": "https://astounddigital.com/2026/03/04/astound-digital-launches-storefront-pulse-to-safeguard-ecommerce-revenue",
+    "date_published": "2026-03-08",
+    "description": "글로벌 디지털 경험 컨설팅 기업 Astound Digital이 AI 기반 성능 감사 도구 Storefront Pulse를 출시했습니다. 여정 중심(journey-centric) AI 에이전트로 이커머스 매출을 보호합니다. https://astounddigital.com/2026/03/04/astound-digital-launches-storefront-pulse-to-safeguard-ecommerce-revenue",
+    "source_id": "astounddigital.com",
+    "source_name": "astounddigital.com",
+    "source_url": "https://astounddigital.com/2026/03/04/astound-digital-launches-storefront-pulse-to-safeguard-ecommerce-revenue",
+    "categories": [
+      "commerce"
+    ],
+    "summary_ko": "글로벌 디지털 경험 컨설팅 기업 Astound Digital이 AI 기반 성능 감사 도구 Storefront Pulse를 출시했습니다. 여정 중심(journey-centric) AI 에이전트로 이커머스 매출을 보호합니다. https://astounddigital.com/2026/03/04/astound-digital-launches-storefront-pulse-to-safeguard-ecommerce-revenue",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
+  },
+  {
+    "title": "UMG, AI 슈퍼팬 경험 전략 발표 - D2C + 초개인화",
+    "link": "https://www.musicbusinessworldwide.com/sir-lucian-grainge-talks-ai-strategy-downtown-d2c-superfans-and-more-on-umgs-q4-earnings-call/",
+    "date_published": "2026-03-08",
+    "description": "Universal Music Group의 Lucian Grainge 회장이 AI를 통한 팬 초개인화 전략을 공개했습니다. 아티스트 중심 음악 경험을 통해 더 큰 개인화, 초개인화, 소셜 표현을 제공하는 새로운 AI 포맷을 개발 중입니다. https://www.musicbusinessworldwide.com/sir-lucian-grainge-talks-ai-strategy-downtown-d2c-superfans-and-more-on-umgs-q4-earnings-call/",
+    "source_id": "musicbusinessworldwide.com",
+    "source_name": "musicbusinessworldwide.com",
+    "source_url": "https://www.musicbusinessworldwide.com/sir-lucian-grainge-talks-ai-strategy-downtown-d2c-superfans-and-more-on-umgs-q4-earnings-call/",
+    "categories": [
+      "ai_marketing"
+    ],
+    "summary_ko": "Universal Music Group의 Lucian Grainge 회장이 AI를 통한 팬 초개인화 전략을 공개했습니다. 아티스트 중심 음악 경험을 통해 더 큰 개인화, 초개인화, 소셜 표현을 제공하는 새로운 AI 포맷을 개발 중입니다. https://www.musicbusinessworldwide.com/sir-lucian-grainge-talks-ai-strategy-downtown-d2c-superfans-and-more-on-umgs-q4-earnings-call/",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0.9,
+    "ai_processed": true
   }
 ]

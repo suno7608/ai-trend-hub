@@ -40,10 +40,20 @@ def parse_markdown_report(md_path: Path) -> list[dict]:
         # Remove leading emoji
         title = re.sub(r"^[^\w\s]*\s*", "", title_line).strip()
 
-        # Extract URLs
-        urls = re.findall(r"\[([^\]]+)\]\((https?://[^\)]+)\)", section)
-        link = urls[0][1] if urls else ""
-        source_name = urls[0][0] if urls else "Unknown"
+        # Extract URLs — support both markdown links [text](url) and plain URLs
+        md_urls = re.findall(r"\[([^\]]+)\]\((https?://[^\)]+)\)", section)
+        plain_urls = re.findall(r"(?<!\()(https?://[^\s\)]+)", section)
+        if md_urls:
+            link = md_urls[0][1]
+            source_name = md_urls[0][0]
+        elif plain_urls:
+            link = plain_urls[0]
+            # Try to extract domain as source name
+            domain_match = re.search(r"https?://(?:www\.)?([^/]+)", link)
+            source_name = domain_match.group(1) if domain_match else "Unknown"
+        else:
+            link = ""
+            source_name = "Unknown"
 
         # Description: lines between title and URLs
         desc_lines = []
@@ -126,7 +136,25 @@ def sync(target_date: str | None = None) -> int:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     SUMMARIZED_PATH.write_text(json.dumps(merged, ensure_ascii=False, indent=2), encoding="utf-8")
 
+    # Quality validation
+    missing_links = [i for i in new_items if not i.get("link", "").strip()]
+    missing_summary = [i for i in new_items if not (i.get("summary_ko") or i.get("summary_en") or i.get("description", "")).strip()]
+
     print(f"✅ Synced {len(new_items)} items for {target_date} → summarized.json (total: {len(merged)})")
+
+    if missing_links:
+        print(f"⚠️ QUALITY WARNING: {len(missing_links)}/{len(new_items)} items have NO link!")
+        for item in missing_links:
+            print(f"   - {item.get('title', '?')}")
+        print("   → newsletter_sender will skip these items. Fix the markdown source URLs.")
+
+    if missing_summary:
+        print(f"⚠️ QUALITY WARNING: {len(missing_summary)}/{len(new_items)} items have NO summary!")
+
+    if len(missing_links) == len(new_items):
+        print(f"🚫 CRITICAL: ALL items missing links! Newsletter will be empty. Aborting sync.")
+        return 1
+
     return 0
 
 

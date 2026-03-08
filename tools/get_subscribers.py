@@ -17,9 +17,15 @@ SCOPES = ["https://www.googleapis.com/auth/spreadsheets.readonly"]
 
 # Keep placeholder until real spreadsheet is ready.
 SPREADSHEET_ID = "1j0Bp3uFtUj5JhSiwDjI53exHgoWdK61DdtdphcxmU7c"
-RANGE_NAME = "설문지 응답 시트2!B2:B"
+# Multiple sheets: old form (시트2) + new public form (시트3)
+RANGE_NAMES = ["설문지 응답 시트2!B2:B", "설문지 응답 시트3!B2:C"]
 TOKEN_PATH = os.path.expanduser("~/.openclaw/workspace/tools/google-token.json")
 EMAIL_PATTERN = re.compile(r"^[A-Z0-9._%+\-]+@[A-Z0-9.\-]+\.[A-Z]{2,63}$", re.IGNORECASE)
+
+# Blocklist: emails that should never receive newsletters (bounce/delivery issues)
+BLOCKED_EMAILS: set[str] = {
+    "ektjs88@gmail.com",
+}
 
 
 def normalize_email(raw: str) -> str:
@@ -55,6 +61,10 @@ def _extract_unique_valid_emails(rows: Iterable[list[str]]) -> tuple[list[str], 
         if not is_valid_email(email):
             stats["invalid"] += 1
             continue
+        if email in BLOCKED_EMAILS:
+            stats.setdefault("blocked", 0)
+            stats["blocked"] += 1
+            continue
         if email in seen:
             stats["duplicates"] += 1
             continue
@@ -67,12 +77,12 @@ def _extract_unique_valid_emails(rows: Iterable[list[str]]) -> tuple[list[str], 
 
 def get_subscribers(
     spreadsheet_id: str | None = None,
-    range_name: str = RANGE_NAME,
+    range_names: list[str] | None = None,
     token_path: str = TOKEN_PATH,
     verbose: bool = False,
 ) -> list[str]:
     """
-    Return subscriber email list from Google Sheets.
+    Return subscriber email list from Google Sheets (multiple sheets).
 
     Returns:
         list[str]: Unique, normalized, validated emails.
@@ -84,36 +94,50 @@ def get_subscribers(
         print("⚠️ SPREADSHEET_ID is not configured. Set NEWSLETTER_SPREADSHEET_ID env var or update get_subscribers.py.")
         return []
 
+    resolved_ranges = range_names or RANGE_NAMES
+
     try:
         creds = _load_credentials(token_path=token_path)
         service = build("sheets", "v4", credentials=creds)
-        result = (
-            service.spreadsheets()
-            .values()
-            .get(spreadsheetId=resolved_spreadsheet_id, range=range_name)
-            .execute()
-        )
     except FileNotFoundError as error:
         print(f"❌ {error}")
         return []
-    except HttpError as error:
-        print(f"❌ Google Sheets API error: {error}")
-        return []
     except Exception as error:
-        print(f"❌ Failed to read subscribers: {error}")
+        print(f"❌ Failed to initialize Sheets API: {error}")
         return []
 
-    values = result.get("values", [])
-    if not values:
+    all_rows: list[list[str]] = []
+    for range_name in resolved_ranges:
+        try:
+            result = (
+                service.spreadsheets()
+                .values()
+                .get(spreadsheetId=resolved_spreadsheet_id, range=range_name)
+                .execute()
+            )
+            rows = result.get("values", [])
+            # Flatten: each row may have multiple email columns
+            for row in rows:
+                for cell in row:
+                    all_rows.append([cell])
+            if verbose:
+                print(f"ℹ️ {range_name}: {len(rows)} rows")
+        except HttpError as error:
+            print(f"⚠️ Skipping {range_name}: {error}")
+        except Exception as error:
+            print(f"⚠️ Skipping {range_name}: {error}")
+
+    if not all_rows:
         print("⚠️ No subscriber rows found.")
         return []
 
-    emails, stats = _extract_unique_valid_emails(values)
+    emails, stats = _extract_unique_valid_emails(all_rows)
     if verbose:
         print(
-            "ℹ️ Sheet parse stats - "
-            f"rows: {len(values)}, valid: {len(emails)}, "
-            f"empty: {stats['empty']}, invalid: {stats['invalid']}, duplicates: {stats['duplicates']}"
+            "ℹ️ Total parse stats - "
+            f"rows: {len(all_rows)}, valid: {len(emails)}, "
+            f"empty: {stats['empty']}, invalid: {stats['invalid']}, "
+            f"blocked: {stats.get('blocked', 0)}, duplicates: {stats['duplicates']}"
         )
 
     return emails
@@ -124,11 +148,12 @@ def main() -> int:
     parser.add_argument("--json", action="store_true", help="Print result as JSON array.")
     parser.add_argument("--verbose", action="store_true", help="Print parse stats.")
     parser.add_argument("--spreadsheet-id", default=None, help="Override spreadsheet ID.")
-    parser.add_argument("--range", dest="range_name", default=RANGE_NAME, help="A1 range.")
+    parser.add_argument("--range", dest="range_name", default=None, help="A1 range (overrides default multi-sheet).")
     args = parser.parse_args()
 
+    range_names = [args.range_name] if args.range_name else None
     subscribers = get_subscribers(
-        spreadsheet_id=args.spreadsheet_id, range_name=args.range_name, verbose=args.verbose
+        spreadsheet_id=args.spreadsheet_id, range_names=range_names, verbose=args.verbose
     )
 
     if args.json:

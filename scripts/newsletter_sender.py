@@ -184,6 +184,15 @@ def main() -> int:
         print(f"❌ Failed to load newsletter news: {error}")
         return 1
 
+    if not news_items:
+        print(f"🚫 BLOCKED: 0 news items after filtering for {target_date}. Newsletter NOT sent.")
+        print("   Possible cause: summarized.json items missing 'link' field.")
+        print("   Fix: check sync_obsidian_to_summarized.py URL parsing.")
+        return 1
+
+    if len(news_items) < 3:
+        print(f"⚠️ WARNING: Only {len(news_items)} items for {target_date}. Proceeding but quality may be low.")
+
     html = generate_html_newsletter(news_items, date_str=selected_date)
     preview_path = Path(args.preview_path)
     preview_path.parent.mkdir(parents=True, exist_ok=True)
