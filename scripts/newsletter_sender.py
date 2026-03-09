@@ -106,10 +106,13 @@ def _load_news_items(target_date: str, max_items: int) -> tuple[list[dict[str, s
                 "published": str(item.get("date_published", selected_date)),
                 "summary": summary,
                 "url": link,
+                "categories": [str(c) for c in categories],
             }
         )
 
-    newsletter_items.sort(key=lambda x: (x["source"], x["title"]))
+    # Sort by category order (ai_commerce → ai_marketing → commerce → others)
+    cat_order = {"ai_commerce": 0, "ai_marketing": 1, "commerce": 2}
+    newsletter_items.sort(key=lambda x: (cat_order.get((x.get("categories") or ["z"])[0], 9), x["title"]))
     return newsletter_items[:max_items], selected_date
 
 
@@ -193,7 +196,12 @@ def main() -> int:
     if len(news_items) < 3:
         print(f"⚠️ WARNING: Only {len(news_items)} items for {target_date}. Proceeding but quality may be low.")
 
-    html = generate_html_newsletter(news_items, date_str=selected_date)
+    # Load insights if available
+    insights_path = DATA_DIR / "newsletter_insights.json"
+    insights_data = _load_json(insights_path, default={})
+    insights_list = insights_data.get("insights", []) if insights_data.get("date") == selected_date else []
+
+    html = generate_html_newsletter(news_items, date_str=selected_date, insights=insights_list)
     preview_path = Path(args.preview_path)
     preview_path.parent.mkdir(parents=True, exist_ok=True)
     preview_path.write_text(html, encoding="utf-8")

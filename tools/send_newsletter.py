@@ -115,27 +115,17 @@ def send_newsletter(
         return False
 
 
-def generate_html_newsletter(
-    news_items: list[dict],
-    date_str: str | None = None,
-    unsubscribe_url: str = DEFAULT_UNSUBSCRIBE_URL,
-) -> str:
-    """Generate styled newsletter HTML."""
-    if date_str is None:
-        date_str = datetime.now().strftime("%Y-%m-%d")
+def _render_item_card(item: dict) -> str:
+    """Render a single news item card."""
+    emoji = escape(str(item.get("emoji", "📰")))
+    title = escape(str(item.get("title", "제목 없음")))
+    source = escape(str(item.get("source", "")))
+    published = escape(str(item.get("published", "")))
+    summary = escape(str(item.get("summary", "")))
+    url = escape(str(item.get("url", "#")), quote=True)
 
-    items_html_parts: list[str] = []
-    for item in news_items:
-        emoji = escape(str(item.get("emoji", "📰")))
-        title = escape(str(item.get("title", "제목 없음")))
-        source = escape(str(item.get("source", "")))
-        published = escape(str(item.get("published", "")))
-        summary = escape(str(item.get("summary", "")))
-        url = escape(str(item.get("url", "#")), quote=True)
-
-        meta = " · ".join(part for part in [source, published] if part)
-        items_html_parts.append(
-            f"""
+    meta = " · ".join(part for part in [source, published] if part)
+    return f"""
             <tr>
               <td style="padding:0 0 16px 0;">
                 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:separate;background:#1e1b2e;border-radius:14px;border:1px solid #2d2a3e;">
@@ -153,7 +143,92 @@ def generate_html_newsletter(
               </td>
             </tr>
             """
-        )
+
+
+def _render_section_header(title: str, emoji: str) -> str:
+    """Render a category section header."""
+    return f"""
+            <tr>
+              <td style="padding:24px 0 12px 0;">
+                <div style="font-size:20px;font-weight:800;color:#a78bfa;letter-spacing:0.3px;">{emoji} {escape(title)}</div>
+                <div style="margin-top:6px;height:2px;background:linear-gradient(90deg,#5f37ff,transparent);border-radius:2px;"></div>
+              </td>
+            </tr>
+            """
+
+
+def _render_insights_section(insights: list[str]) -> str:
+    """Render the insights & implications section."""
+    if not insights:
+        return ""
+    items_html = ""
+    for insight in insights:
+        items_html += f"""<li style="margin-bottom:10px;font-size:14px;line-height:1.65;color:#cbc7e0;">{escape(insight)}</li>"""
+    return f"""
+            <tr>
+              <td style="padding:8px 0 16px 0;">
+                <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:separate;background:#1a1730;border-radius:14px;border:1px solid #3d2a6e;">
+                  <tr>
+                    <td style="padding:18px 18px 14px 18px;">
+                      <div style="font-size:18px;font-weight:800;color:#cf7bff;margin-bottom:12px;">💡 인사이트 &amp; 시사점</div>
+                      <ul style="margin:0;padding-left:20px;">{items_html}</ul>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            """
+
+
+# Category display order and labels
+CATEGORY_SECTIONS = [
+    ("ai_commerce", "🛍️ AI 커머스 주요 동향"),
+    ("ai_marketing", "🎯 AI 마케팅 트렌드"),
+    ("commerce", "🏪 D2C/이커머스 AI 활용 사례"),
+]
+
+
+def generate_html_newsletter(
+    news_items: list[dict],
+    date_str: str | None = None,
+    unsubscribe_url: str = DEFAULT_UNSUBSCRIBE_URL,
+    insights: list[str] | None = None,
+) -> str:
+    """Generate styled newsletter HTML with category sections."""
+    if date_str is None:
+        date_str = datetime.now().strftime("%Y-%m-%d")
+
+    # Group items by category
+    grouped: dict[str, list[dict]] = {}
+    for item in news_items:
+        cats = item.get("categories", ["ai_commerce"])
+        cat = cats[0] if cats else "ai_commerce"
+        grouped.setdefault(cat, []).append(item)
+
+    items_html_parts: list[str] = []
+    has_sections = len(grouped) > 1
+
+    for cat_key, cat_label in CATEGORY_SECTIONS:
+        cat_items = grouped.pop(cat_key, [])
+        if not cat_items:
+            continue
+        if has_sections:
+            items_html_parts.append(_render_section_header(cat_label.split(" ", 1)[1], cat_label.split(" ")[0]))
+        for item in cat_items:
+            items_html_parts.append(_render_item_card(item))
+
+    # Any remaining categories
+    for cat_key, cat_items in grouped.items():
+        if not cat_items:
+            continue
+        if has_sections:
+            items_html_parts.append(_render_section_header("기타", "📰"))
+        for item in cat_items:
+            items_html_parts.append(_render_item_card(item))
+
+    # Add insights section
+    if insights:
+        items_html_parts.append(_render_insights_section(insights))
 
     items_html = "\n".join(items_html_parts) or """
             <tr><td style="padding:12px 0;color:#9d99b0;">No news items available today.</td></tr>

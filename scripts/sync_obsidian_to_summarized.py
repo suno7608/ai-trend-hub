@@ -16,6 +16,31 @@ DATA_DIR = Path(__file__).resolve().parents[1] / "data"
 SUMMARIZED_PATH = DATA_DIR / "summarized.json"
 
 
+INSIGHTS_PATH = DATA_DIR / "newsletter_insights.json"
+
+
+def parse_insights(text: str) -> list[str]:
+    """Extract 인사이트 & 시사점 section from markdown."""
+    insights: list[str] = []
+    # Find the insights section
+    match = re.search(r"##\s*💡\s*인사이트.*?\n(.*?)(?=\n##\s|\n---|\Z)", text, re.DOTALL)
+    if not match:
+        return insights
+    section = match.group(1)
+    # Extract ### sub-headers and their content as individual insights
+    sub_sections = re.split(r"^###\s+", section, flags=re.MULTILINE)
+    for sub in sub_sections[1:]:  # skip preamble
+        lines = sub.strip().split("\n")
+        title = lines[0].strip()
+        body_lines = [l.strip("- ").strip() for l in lines[1:] if l.strip() and not l.strip().startswith("📎")]
+        body = " ".join(body_lines).strip()
+        if title and body:
+            insights.append(f"{title}: {body}")
+        elif title:
+            insights.append(title)
+    return insights
+
+
 def parse_markdown_report(md_path: Path) -> list[dict]:
     """Parse an Obsidian AI Commerce News markdown file into summarized.json items."""
     text = md_path.read_text(encoding="utf-8")
@@ -112,6 +137,14 @@ def sync(target_date: str | None = None) -> int:
     if not new_items:
         print(f"⚠️ No news items parsed from {md_path}")
         return 1
+
+    # Extract and save insights
+    md_text = md_path.read_text(encoding="utf-8")
+    insights = parse_insights(md_text)
+    if insights:
+        insights_data = {"date": target_date, "insights": insights}
+        INSIGHTS_PATH.write_text(json.dumps(insights_data, ensure_ascii=False, indent=2), encoding="utf-8")
+        print(f"💡 Extracted {len(insights)} insights for {target_date}")
 
     # Load existing
     existing: list[dict] = []
