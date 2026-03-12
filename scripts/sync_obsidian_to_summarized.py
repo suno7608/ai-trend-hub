@@ -7,6 +7,7 @@ import json
 import re
 import sys
 from datetime import datetime
+from difflib import SequenceMatcher
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -17,6 +18,76 @@ SUMMARIZED_PATH = DATA_DIR / "summarized.json"
 
 
 INSIGHTS_PATH = DATA_DIR / "newsletter_insights.json"
+DEDUP_HISTORY_PATH = DATA_DIR / "newsletter_sent_titles.json"
+
+# --- Deduplication ---
+
+DEDUP_SIMILARITY_THRESHOLD = 0.55  # title similarity ratio to flag as duplicate
+DEDUP_LOOKBACK_DAYS = 7  # check against last N days of sent titles
+
+
+def _load_sent_titles() -> list[dict]:
+    """Load history of sent newsletter titles for dedup."""
+    if DEDUP_HISTORY_PATH.exists():
+        try:
+            return json.loads(DEDUP_HISTORY_PATH.read_text(encoding="utf-8"))
+        except Exception:
+            return []
+    return []
+
+
+def _save_sent_titles(titles: list[dict]) -> None:
+    """Save sent titles history, keeping only last 30 days."""
+    all_dates = sorted(set(t.get("date", "") for t in titles))
+    if len(all_dates) > 30:
+        cutoff = all_dates[-30]
+        titles = [t for t in titles if t.get("date", "") >= cutoff]
+    DEDUP_HISTORY_PATH.write_text(json.dumps(titles, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def record_sent_titles(items: list[dict], date: str) -> None:
+    """Record titles that were actually sent in newsletter."""
+    history = _load_sent_titles()
+    # Remove existing entries for same date
+    history = [t for t in history if t.get("date") != date]
+    for item in items:
+        history.append({"date": date, "title": item.get("title", "")})
+    _save_sent_titles(history)
+
+
+def dedup_against_history(new_items: list[dict], target_date: str) -> tuple[list[dict], list[dict]]:
+    """Remove items whose titles are too similar to recently sent newsletters.
+    
+    Returns (kept_items, removed_items).
+    """
+    history = _load_sent_titles()
+    # Only check against recent history (not same day)
+    recent_titles = [
+        t["title"] for t in history
+        if t.get("date", "") != target_date and t.get("title")
+    ]
+
+    if not recent_titles:
+        return new_items, []
+
+    kept = []
+    removed = []
+    for item in new_items:
+        title = item.get("title", "")
+        is_dup = False
+        for prev_title in recent_titles:
+            ratio = SequenceMatcher(None, title, prev_title).ratio()
+            if ratio >= DEDUP_SIMILARITY_THRESHOLD:
+                item["_dedup_match"] = prev_title
+                item["_dedup_ratio"] = round(ratio, 2)
+                is_dup = True
+                break
+        if is_dup:
+            removed.append(item)
+        else:
+            kept.append(item)
+
+    return kept, removed
 
 
 def parse_insights(text: str) -> list[str]:
@@ -145,6 +216,17 @@ def sync(target_date: str | None = None) -> int:
         insights_data = {"date": target_date, "insights": insights}
         INSIGHTS_PATH.write_text(json.dumps(insights_data, ensure_ascii=False, indent=2), encoding="utf-8")
         print(f"💡 Extracted {len(insights)} insights for {target_date}")
+
+    # Deduplicate against recently sent newsletters
+    new_items, removed_items = dedup_against_history(new_items, target_date)
+    if removed_items:
+        print(f"🔄 Dedup: {len(removed_items)} items removed (similar to recent newsletters):")
+        for r in removed_items:
+            print(f"   ❌ {r.get('title', '?')} (≈{r.get('_dedup_ratio', '?')} vs \"{r.get('_dedup_match', '?')}\")")
+    
+    if not new_items:
+        print(f"⚠️ All items were duplicates. Nothing new to sync.")
+        return 1
 
     # Load existing
     existing: list[dict] = []

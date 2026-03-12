@@ -235,6 +235,14 @@ def main() -> int:
         )
         print(f"📌 Send state updated: {STATE_PATH}")
 
+        # Record sent titles for future dedup
+        try:
+            from sync_obsidian_to_summarized import record_sent_titles
+            record_sent_titles(news_items, selected_date)
+            print(f"🔄 Dedup history updated: {len(news_items)} titles recorded")
+        except Exception as e:
+            print(f"⚠️ Dedup history update failed: {e}")
+
     return 0
 
 
