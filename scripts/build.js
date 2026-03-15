@@ -199,7 +199,7 @@ function buildHomePage() {
       <div class="search-container">
         <div class="search-wrapper">
           <span class="search-icon">🔍</span>
-          <input type="text" id="searchInput" class="search-input" placeholder="🔍 키워드, 태그, 소스로 검색...">
+          <input type="text" id="searchInput" class="search-input" placeholder="키워드, 태그, 소스로 검색..." aria-label="뉴스 검색">
         </div>
         <div id="searchResultsCount" class="search-results-count"></div>
       </div>
@@ -353,7 +353,7 @@ function buildDailyMonthPage(ym, items) {
       <div class="search-container">
         <div class="search-wrapper">
           <span class="search-icon">🔍</span>
-          <input type="text" id="searchInput" class="search-input" placeholder="🔍 키워드, 태그, 소스로 검색...">
+          <input type="text" id="searchInput" class="search-input" placeholder="키워드, 태그, 소스로 검색..." aria-label="뉴스 검색">
         </div>
         <div id="searchResultsCount" class="search-results-count"></div>
       </div>
@@ -714,7 +714,8 @@ function buildSearchPage() {
           <span class="search-icon">🔍</span>
           <input type="text" id="globalSearchInput" class="search-input global-search-input"
             placeholder="키워드로 Daily, Weekly, Monthly 전체 콘텐츠를 검색하세요..."
-            autofocus>
+            autofocus
+            aria-label="통합 검색">
         </div>
       </div>
 
@@ -786,6 +787,9 @@ function buildSearchPage() {
 // ══════════════════════════════════════════════════════════
 function buildSite() {
   // Clean & prepare dist
+  if (fs.existsSync(DIST_DIR)) {
+    fs.rmSync(DIST_DIR, { recursive: true, force: true });
+  }
   ensureDir(DIST_DIR);
   ensureDir(path.join(DIST_DIR, 'assets', 'css'));
   ensureDir(path.join(DIST_DIR, 'assets', 'js'));
@@ -797,6 +801,10 @@ function buildSite() {
   if (fs.existsSync(jsFile)) fs.copyFileSync(jsFile, path.join(DIST_DIR, 'assets', 'js', 'app.js'));
   const faviconSvg = path.join(ASSETS_DIR, 'favicon.svg');
   if (fs.existsSync(faviconSvg)) fs.copyFileSync(faviconSvg, path.join(DIST_DIR, 'assets', 'favicon.svg'));
+  const faviconPng = path.join(ASSETS_DIR, 'favicon.png');
+  if (fs.existsSync(faviconPng)) fs.copyFileSync(faviconPng, path.join(DIST_DIR, 'assets', 'favicon.png'));
+  const lgLogo = path.join(ASSETS_DIR, 'lg-logo.png');
+  if (fs.existsSync(lgLogo)) fs.copyFileSync(lgLogo, path.join(DIST_DIR, 'assets', 'lg-logo.png'));
 
   let pageCount = 0;
 
@@ -878,7 +886,28 @@ function buildSite() {
   fs.writeFileSync(path.join(DIST_DIR, 'search-index.json'), JSON.stringify(searchIndex));
   console.log(`   Search index: ${searchIndex.items.length} items indexed`);
 
-  // ── 6. Misc ────────────────────────────────────────────
+  // ── 6. Sitemap ──────────────────────────────────────────
+  const siteUrl = 'https://suno7608.github.io/ai-trend-hub';
+  const today = new Date().toISOString().slice(0, 10);
+  const sitemapEntries = [
+    `<url><loc>${siteUrl}/</loc><lastmod>${today}</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>`,
+    `<url><loc>${siteUrl}/archive/daily/index.html</loc><lastmod>${today}</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>`,
+    `<url><loc>${siteUrl}/archive/weekly/index.html</loc><lastmod>${today}</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>`,
+    `<url><loc>${siteUrl}/archive/monthly/index.html</loc><lastmod>${today}</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>`,
+    `<url><loc>${siteUrl}/archive/search.html</loc><lastmod>${today}</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>`,
+  ];
+  weeklyItems.forEach(w => {
+    sitemapEntries.push(`<url><loc>${siteUrl}/weekly/${w.week}.html</loc><lastmod>${today}</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>`);
+  });
+  monthlyItems.forEach(m => {
+    sitemapEntries.push(`<url><loc>${siteUrl}/monthly/${m.month}.html</loc><lastmod>${today}</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>`);
+  });
+  const sitemapXml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${sitemapEntries.join('\n')}\n</urlset>`;
+  fs.writeFileSync(path.join(DIST_DIR, 'sitemap.xml'), sitemapXml);
+  fs.writeFileSync(path.join(DIST_DIR, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${siteUrl}/sitemap.xml\n`);
+  console.log(`   Sitemap: ${sitemapEntries.length} URLs`);
+
+  // ── 7. Misc ────────────────────────────────────────────
   const cname = path.join(ROOT, 'CNAME');
   if (fs.existsSync(cname)) fs.copyFileSync(cname, path.join(DIST_DIR, 'CNAME'));
   fs.writeFileSync(path.join(DIST_DIR, '.nojekyll'), '');

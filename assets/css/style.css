@@ -1011,18 +1011,15 @@ time { color: var(--text-tertiary); font-size: 11px; font-weight: 500; }
   position: relative;
   overflow: hidden;
   transition: all 0.3s ease;
+  background: linear-gradient(135deg, #4c51bf 0%, #5a3d7a 100%);
+  box-shadow: 0 2px 12px rgba(76, 81, 191, 0.15);
+  color: #e2e8f0;
 }
 
 [data-theme="light"] .subscribe-section {
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   box-shadow: 0 2px 12px rgba(102, 126, 234, 0.2);
   color: white;
-}
-
-[data-theme="dark"] .subscribe-section {
-  background: linear-gradient(135deg, #4c51bf 0%, #5a3d7a 100%);
-  box-shadow: 0 2px 12px rgba(76, 81, 191, 0.15);
-  color: #e2e8f0;
 }
 
 .subscribe-section::before {
@@ -1072,6 +1069,10 @@ time { color: var(--text-tertiary); font-size: 11px; font-weight: 500; }
   text-decoration: none;
   transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
   letter-spacing: 0.01em;
+  background: rgba(255, 255, 255, 0.15);
+  color: #e2e8f0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+  backdrop-filter: blur(10px);
 }
 
 [data-theme="light"] .subscribe-button {
@@ -1083,19 +1084,6 @@ time { color: var(--text-tertiary); font-size: 11px; font-weight: 500; }
 [data-theme="light"] .subscribe-button:hover {
   color: #764ba2;
   box-shadow: 0 4px 14px rgba(0,0,0,0.2);
-}
-
-[data-theme="dark"] .subscribe-button {
-  background: rgba(255, 255, 255, 0.15);
-  color: #e2e8f0;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
-  backdrop-filter: blur(10px);
-}
-
-[data-theme="dark"] .subscribe-button:hover {
-  background: rgba(255, 255, 255, 0.22);
-  color: white;
-  box-shadow: 0 4px 14px rgba(0,0,0,0.3);
 }
 
 .subscribe-button:hover {

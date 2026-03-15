@@ -19,7 +19,7 @@
     }
     // Update search placeholder
     const si = document.getElementById('searchInput');
-    if (si) si.placeholder = lang === 'ko' ? '🔍 키워드, 태그, 소스로 검색...' : '🔍 Search by keyword, tag, source...';
+    if (si) si.placeholder = lang === 'ko' ? '키워드, 태그, 소스로 검색...' : 'Search by keyword, tag, source...';
   }
 
   if (langToggle) langToggle.addEventListener('click', () => {
@@ -476,8 +476,8 @@
 
     // Update placeholder on lang change
     globalSearchInput.placeholder = currentLang === 'ko'
-      ? '키워드로 Daily, Weekly, Monthly 전체 콘텐츠를 검색하세요...'
-      : 'Search across all Daily, Weekly, Monthly content...';
+      ? '키워드로 전체 콘텐츠를 검색하세요...'
+      : 'Search across all content...';
   }
 
   // ── Sources Grid ──

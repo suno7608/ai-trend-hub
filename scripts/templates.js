@@ -3,6 +3,17 @@
  * Reusable rendering functions for home, archive, and detail pages
  */
 
+// ── HTML Escape ──────────────────────────────────────────
+function escapeHtml(str) {
+  if (!str) return '';
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
 // ── Category Helpers ──────────────────────────────────────
 function categoryLabel(cat) {
   const map = {
@@ -103,10 +114,10 @@ function renderPageShell({ title, bodyContent, cssPath, jsPath, description, can
         <p class="tagline lang-en" style="display:none">AI Commerce & Marketing Intelligence for LG Global DTC members</p>
       </div>
       <div class="header-right">
-        <button id="langToggle" class="lang-toggle" title="Toggle Language">
+        <button id="langToggle" class="lang-toggle" title="Toggle Language" aria-label="언어 전환 / Toggle Language">
           <span class="lang-active">KO</span> / <span class="lang-inactive">EN</span>
         </button>
-        <button id="themeToggle" class="theme-toggle" title="Toggle Theme">🌙</button>
+        <button id="themeToggle" class="theme-toggle" title="Toggle Theme" aria-label="테마 전환 / Toggle Theme">🌙</button>
       </div>
     </div>
   </header>
@@ -123,7 +134,7 @@ ${bodyContent}
   </footer>
 
   <!-- Back to Top -->
-  <button id="backToTop" class="back-to-top" title="Back to top">↑</button>
+  <button id="backToTop" class="back-to-top" title="Back to top" aria-label="맨 위로 이동">↑</button>
 
   <script src="${jsPath || 'assets/js/app.js'}"></script>
 </body>
@@ -225,42 +236,42 @@ function renderDailyCard(item) {
     `<span class="tag" style="background:${categoryColor(c)}20;color:${categoryColor(c)};border:1px solid ${categoryColor(c)}40">${categoryLabel(c)}</span>`
   ).join('');
   const tags = (item.tags || []).map(t =>
-    `<span class="tag tag-sub">${t}</span>`
+    `<span class="tag tag-sub">${escapeHtml(t)}</span>`
   ).join('');
-  const keyPoints = (item.key_points || []).map(kp => `<li>${kp}</li>`).join('');
+  const keyPoints = (item.key_points || []).map(kp => `<li>${escapeHtml(kp)}</li>`).join('');
 
   return `
-    <article class="card daily-card" data-categories="${(item.categories||[]).join(',')}" data-tags="${(item.tags||[]).join(',')}" data-lang-ko data-lang-en>
+    <article class="card daily-card" data-categories="${escapeHtml((item.categories||[]).join(','))}" data-tags="${escapeHtml((item.tags||[]).join(','))}" data-lang-ko data-lang-en>
       <div class="card-header">
         <div class="card-meta">
-          <span class="source-badge">${item.source_name || 'Unknown'}</span>
+          <span class="source-badge">${escapeHtml(item.source_name) || 'Unknown'}</span>
         </div>
         <div class="card-tags">${cats}${tags}</div>
       </div>
       <h3 class="card-title">
-        <a href="${item.canonical_url || '#'}" target="_blank" rel="noopener">${item.title || 'Untitled'}</a>
+        <a href="${escapeHtml(item.canonical_url) || '#'}" target="_blank" rel="noopener">${escapeHtml(item.title) || 'Untitled'}</a>
       </h3>
       <div class="card-summary">
-        <div class="lang-ko">${item.summary_ko || ''}</div>
-        <div class="lang-en" style="display:none">${item.summary_en || ''}</div>
+        <div class="lang-ko">${escapeHtml(item.summary_ko)}</div>
+        <div class="lang-en" style="display:none">${escapeHtml(item.summary_en)}</div>
       </div>
       ${keyPoints ? `<ul class="key-points">${keyPoints}</ul>` : ''}
       <div class="so-what">
         <strong>💡 So What</strong>
-        <div class="lang-ko">${item.so_what_ko || ''}</div>
-        <div class="lang-en" style="display:none">${item.so_what_en || ''}</div>
+        <div class="lang-ko">${escapeHtml(item.so_what_ko)}</div>
+        <div class="lang-en" style="display:none">${escapeHtml(item.so_what_en)}</div>
       </div>
       <div class="card-footer">
-        <a href="${item.canonical_url || '#'}" target="_blank" rel="noopener" class="read-more"><span class="lang-ko">원문 보기 →</span><span class="lang-en" style="display:none">Read More →</span></a>
-        <time>${item.date_published || ''}</time>
+        <a href="${escapeHtml(item.canonical_url) || '#'}" target="_blank" rel="noopener" class="read-more"><span class="lang-ko">원문 보기 →</span><span class="lang-en" style="display:none">Read More →</span></a>
+        <time>${escapeHtml(item.date_published)}</time>
         ${item.confidence ? `<span class="confidence"><span class="lang-ko">신뢰도: ${(item.confidence * 100).toFixed(0)}%</span><span class="lang-en" style="display:none">Confidence: ${(item.confidence * 100).toFixed(0)}%</span></span>` : ''}
       </div>
-      <div class="social-actions" data-card-id="daily-${item.id || item._filename}">
+      <div class="social-actions" data-card-id="daily-${escapeHtml(item.id || item._filename)}">
         <button class="social-btn like-btn" data-action="like" title="좋아요">
           <span class="like-icon">♡</span>
           <span class="like-count">0</span>
         </button>
-        <button class="social-btn share-btn" data-action="share" data-title="${(item.title || '').replace(/"/g, '&quot;')}" data-url="${item.canonical_url || ''}" title="공유하기">
+        <button class="social-btn share-btn" data-action="share" data-title="${escapeHtml(item.title)}" data-url="${escapeHtml(item.canonical_url)}" title="공유하기">
           <span class="share-icon">↗</span>
           <span class="lang-ko">공유</span><span class="lang-en" style="display:none">Share</span>
         </button>
@@ -294,7 +305,7 @@ function renderWeeklyCard(item, options = {}) {
           <span class="like-icon">♡</span>
           <span class="like-count">0</span>
         </button>
-        <button class="social-btn share-btn" data-action="share" data-title="${(item.title || '').replace(/"/g, '&quot;')}" data-url="" title="공유하기">
+        <button class="social-btn share-btn" data-action="share" data-title="${escapeHtml(item.title)}" data-url="" title="공유하기">
           <span class="share-icon">↗</span>
           <span class="lang-ko">공유</span><span class="lang-en" style="display:none">Share</span>
         </button>
@@ -328,7 +339,7 @@ function renderMonthlyCard(item, options = {}) {
           <span class="like-icon">♡</span>
           <span class="like-count">0</span>
         </button>
-        <button class="social-btn share-btn" data-action="share" data-title="${(item.title || '').replace(/"/g, '&quot;')}" data-url="" title="공유하기">
+        <button class="social-btn share-btn" data-action="share" data-title="${escapeHtml(item.title)}" data-url="" title="공유하기">
           <span class="share-icon">↗</span>
           <span class="lang-ko">공유</span><span class="lang-en" style="display:none">Share</span>
         </button>
@@ -434,6 +445,7 @@ function renderSubscribeSection() {
 }
 
 module.exports = {
+  escapeHtml,
   categoryLabel,
   categoryColor,
   monthLabelKo,
