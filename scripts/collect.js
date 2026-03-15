@@ -119,6 +119,39 @@ function normalizeUrl(url) {
   }
 }
 
+// ── Irrelevant content filter ──────────────────────────────
+// Blocks non-AI/commerce content that slips through RSS feeds
+const IRRELEVANT_PATTERNS = [
+  /\bnyt\b.*\bcrossword\b/i,
+  /\bcrossword\b.*\bnyt\b/i,
+  /\bnyt\b.*\bconnections\b.*\bhints\b/i,
+  /\bconnections\b.*\bhints\b.*\banswers\b/i,
+  /\bnyt\b.*\bmini\b.*\bcrossword\b/i,
+  /\bmini\s+crossword\b.*\banswers\b/i,
+  /\bwordle\b.*\bhints?\b/i,
+  /\bwordle\b.*\banswer\b/i,
+  /\bnyt\b.*\bstrands\b.*\bhints\b/i,
+  /\bstrands\b.*\bhints\b.*\banswers\b/i,
+];
+
+function isIrrelevantTitle(title) {
+  const decoded = title.replace(/&#\d+;/g, '');
+  return IRRELEVANT_PATTERNS.some(pat => pat.test(decoded));
+}
+
+// ── HTML entity normalization for dedup ──
+function normalizeTitle(title) {
+  return (title || '')
+    .replace(/&#8216;|&#8217;|&#8218;|&#8219;|&lsquo;|&rsquo;/g, "'")
+    .replace(/&#8220;|&#8221;|&ldquo;|&rdquo;/g, '"')
+    .replace(/&#8211;|&ndash;/g, '-')
+    .replace(/&#8212;|&mdash;/g, '--')
+    .replace(/&#\d+;/g, '')
+    .replace(/&amp;/g, '&')
+    .trim()
+    .toLowerCase();
+}
+
 // ── Fetch with hard timeout wrapper ──
 function withTimeout(promise, ms, label) {
   let timer;
@@ -159,8 +192,19 @@ async function processSource(source, processedUrls) {
     const items = await fetchFeed(source.feed_url);
     let newItems = 0;
     for (const item of items.slice(0, 5)) {
+      // Skip irrelevant content (puzzles, games, etc.)
+      if (isIrrelevantTitle(item.title)) {
+        skipCount++;
+        continue;
+      }
       const normUrl = normalizeUrl(item.link);
       if (processedUrls.has(normUrl)) {
+        skipCount++;
+        continue;
+      }
+      // Title-based dedup: skip if normalized title already seen in this batch
+      const normTitle = normalizeTitle(item.title);
+      if (allItems.some(existing => normalizeTitle(existing.title) === normTitle)) {
         skipCount++;
         continue;
       }
