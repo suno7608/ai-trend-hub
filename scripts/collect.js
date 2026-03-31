@@ -29,6 +29,11 @@ const FEED_TIMEOUT = 12000;   // 12s per feed
 const SCRIPT_TIMEOUT = 240000; // 4min total (leaves time for save)
 const CONCURRENCY = 5;         // parallel feed fetches
 
+// ── AI Relevance Keywords ──
+const AI_KEYWORDS = ['ai', 'artificial intelligence', 'agentic', 'agent', 'generative', 'llm', 'gpt', 'claude', 'machine learning', 'automation', 'personalization', 'recommendation', 'chatbot', 'copilot', 'sidekick'];
+const COMMERCE_KEYWORDS = ['commerce', 'ecommerce', 'e-commerce', 'd2c', 'dtc', 'retail', 'shopping', 'checkout', 'conversion', 'marketplace'];
+const MARKETING_KEYWORDS = ['marketing', 'advertising', 'campaign', 'seo', 'content', 'email marketing', 'social media', 'martech', 'adtech', 'attribution', 'segmentation'];
+
 const rssParser = new Parser({
   timeout: FEED_TIMEOUT,
   headers: { 'User-Agent': 'AI-Trend-Hub-Bot/2.1 (+https://suno7608.github.io/ai-trend-hub/)' },
@@ -51,10 +56,45 @@ setTimeout(() => {
   process.exit(0);
 }, SCRIPT_TIMEOUT);
 
+function scoreRelevance(item) {
+  const text = `${item.title} ${item.description}`.toLowerCase();
+  let score = 0;
+  for (const kw of AI_KEYWORDS) {
+    if (text.includes(kw)) { score += 2; break; }
+  }
+  for (const kw of COMMERCE_KEYWORDS) {
+    if (text.includes(kw)) { score += 1; break; }
+  }
+  for (const kw of MARKETING_KEYWORDS) {
+    if (text.includes(kw)) { score += 1; break; }
+  }
+  return score;
+}
+
+function filterByRelevance(items) {
+  const scored = items.map(item => ({
+    ...item,
+    relevance_score: scoreRelevance(item),
+    relevance_label: (() => {
+      const s = scoreRelevance(item);
+      return s >= 2 ? 'high' : s === 1 ? 'medium' : 'low';
+    })(),
+  }));
+  const before = scored.length;
+  const filtered = scored.filter(item => item.relevance_score >= 1);
+  const removed = before - filtered.length;
+  if (removed > 0) {
+    console.log(`\n🎯 AI Relevance Filter: ${removed} low-relevance articles filtered out of ${before}`);
+  }
+  // Sort by relevance (desc), then by date (desc)
+  filtered.sort((a, b) => b.relevance_score - a.relevance_score || b.date_published.localeCompare(a.date_published));
+  return filtered;
+}
+
 function saveResults() {
-  allItems.sort((a, b) => b.date_published.localeCompare(a.date_published));
+  const filtered = filterByRelevance(allItems);
   const maxItems = parseInt(process.env.MAX_ITEMS || '15');
-  const output = allItems.slice(0, maxItems);
+  const output = filtered.slice(0, maxItems);
   fs.writeFileSync(OUTPUT_PATH, JSON.stringify(output, null, 2));
 
   // ── Archive: append to daily JSONL file (never overwrite) ──
