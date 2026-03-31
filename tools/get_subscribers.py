@@ -19,7 +19,7 @@ SCOPES = ["https://www.googleapis.com/auth/spreadsheets.readonly"]
 SPREADSHEET_ID = "1j0Bp3uFtUj5JhSiwDjI53exHgoWdK61DdtdphcxmU7c"
 # Multiple sheets: old form (시트2) + new public form (시트3)
 RANGE_NAMES = ["설문지 응답 시트2!B2:B", "설문지 응답 시트3!B2:C"]
-TOKEN_PATH = os.path.expanduser("~/.openclaw/workspace/tools/google-token.json")
+TOKEN_PATH = os.environ.get("GOOGLE_TOKEN_PATH", os.path.expanduser("~/.openclaw/workspace/tools/google-token.json"))
 EMAIL_PATTERN = re.compile(r"^[A-Z0-9._%+\-]+@[A-Z0-9.\-]+\.[A-Z]{2,63}$", re.IGNORECASE)
 
 # Blocklist: emails that should never receive newsletters (bounce/delivery issues)

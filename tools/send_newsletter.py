@@ -17,7 +17,7 @@ from google.oauth2.credentials import Credentials
 from googleapiclient.discovery import build
 
 SCOPES = ["https://www.googleapis.com/auth/gmail.send"]
-TOKEN_PATH = os.path.expanduser("~/.openclaw/workspace/tools/google-token.json")
+TOKEN_PATH = os.environ.get("GOOGLE_TOKEN_PATH", os.path.expanduser("~/.openclaw/workspace/tools/google-token.json"))
 DEFAULT_FROM_EMAIL = "suno7608@gmail.com"
 DEFAULT_UNSUBSCRIBE_URL = (
     "mailto:suno7608@gmail.com?subject=%EA%B5%AC%EB%8F%85%20%EC%B7%A8%EC%86%8C"
