@@ -887,7 +887,8 @@ function buildSite() {
   const monthlyChartsDir = path.join(CONTENT_DIR, 'monthly', 'charts');
   if (fs.existsSync(monthlyChartsDir)) {
     try {
-      const distChartsDir = path.join(DIST_DIR, 'archive', 'monthly', 'charts');
+      // Copy to dist/monthly/charts/ so relative img src="charts/YYYY-MM/..." resolves correctly
+      const distChartsDir = path.join(DIST_DIR, 'monthly', 'charts');
       fs.mkdirSync(distChartsDir, { recursive: true });
       // Copy all YYYY-MM chart subdirectories
       fs.readdirSync(monthlyChartsDir).forEach(subDir => {
@@ -900,7 +901,7 @@ function buildSite() {
           });
         }
       });
-      console.log(`   Monthly charts: copied to dist/archive/monthly/charts/`);
+      console.log(`   Monthly charts: copied to dist/monthly/charts/`);
     } catch (chartErr) {
       console.warn(`   ⚠️  Monthly charts copy skipped: ${chartErr.message}`);
     }
