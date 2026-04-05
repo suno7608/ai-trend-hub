@@ -206,10 +206,18 @@ function renderConfidenceChart(chartData, outputPath) {
     return seg;
   });
 
-  segments.forEach(s => {
-    if (s.value === 0) return;
-    slices += `<path d="M ${s.ix1} ${s.iy1} L ${s.x1} ${s.y1} A ${r} ${r} 0 ${s.largeArc} 1 ${s.x2} ${s.y2} L ${s.ix2} ${s.iy2} A ${innerR} ${innerR} 0 ${s.largeArc} 0 ${s.ix1} ${s.iy1} Z" fill="${s.color}"/>`;
-  });
+  const nonZero = segments.filter(s => s.value > 0);
+  if (nonZero.length === 1) {
+    // 100% single slice: SVG arc can't draw a full circle (same start/end point), use circles instead
+    const s = nonZero[0];
+    slices += `<circle cx="${cx}" cy="${cy}" r="${r}" fill="${s.color}"/>`;
+    slices += `<circle cx="${cx}" cy="${cy}" r="${innerR}" fill="${COLORS.white}"/>`;
+  } else {
+    segments.forEach(s => {
+      if (s.value === 0) return;
+      slices += `<path d="M ${s.ix1} ${s.iy1} L ${s.x1} ${s.y1} A ${r} ${r} 0 ${s.largeArc} 1 ${s.x2} ${s.y2} L ${s.ix2} ${s.iy2} A ${innerR} ${innerR} 0 ${s.largeArc} 0 ${s.ix1} ${s.iy1} Z" fill="${s.color}"/>`;
+    });
+  }
 
   // Legend
   let legend = '';
