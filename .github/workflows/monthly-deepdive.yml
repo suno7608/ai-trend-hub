@@ -1,4 +1,4 @@
-name: Monthly Deep Dive Pipeline
+name: Monthly Deep Dive Pipeline v2.0
 
 on:
   schedule:
@@ -7,10 +7,14 @@ on:
   workflow_dispatch:
     inputs:
       month:
-        description: 'Target month (e.g. 2026-02). Leave empty for previous month.'
+        description: 'Target month (e.g. 2026-04). Leave empty for previous month.'
         required: false
       force:
         description: 'Overwrite existing deep dive'
+        required: false
+        default: 'false'
+      simple:
+        description: 'Use simple mode (v1.0 fallback, skips 7-stage pipeline)'
         required: false
         default: 'false'
 
@@ -26,7 +30,7 @@ concurrency:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 25
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -40,7 +44,7 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: "Step 1: Generate Monthly Deep Dive"
+      - name: "Step 1: Generate Monthly Deep Dive (7-Stage Pipeline)"
         run: |
           ARGS=""
           if [ -n "${{ github.event.inputs.month }}" ]; then
@@ -49,6 +53,10 @@ jobs:
           if [ "${{ github.event.inputs.force }}" = "true" ]; then
             ARGS="$ARGS --force"
           fi
+          if [ "${{ github.event.inputs.simple }}" = "true" ]; then
+            ARGS="$ARGS --simple"
+          fi
+          echo "Running: node scripts/generate-monthly.js $ARGS"
           node scripts/generate-monthly.js $ARGS
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
@@ -62,7 +70,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "AI Trend Hub Bot"
           git add content/monthly/
-          git diff --staged --quiet || git commit -m "📖 Monthly Deep Dive $(date +%Y-%m)"
+          git diff --staged --quiet || git commit -m "📖 Monthly Deep Dive $(date +%Y-%m) (Enhanced v2.0)"
           git push || echo "Nothing to push"
 
       - name: "Step 4: Upload to GitHub Pages"
@@ -72,7 +80,7 @@ jobs:
 
       - name: "Notify: Success"
         if: success()
-        run: node scripts/notify-telegram.js --status=success --pipeline=monthly --details="Monthly Deep Dive generated" --run-url="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+        run: node scripts/notify-telegram.js --status=success --pipeline=monthly --details="Monthly Deep Dive v2.0 generated (7-stage pipeline)" --run-url="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
@@ -81,7 +89,7 @@ jobs:
         if: failure()
         run: |
           npm ci 2>/dev/null || true
-          node scripts/notify-telegram.js --status=failure --pipeline=monthly --details="Pipeline failed at step" --run-url="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          node scripts/notify-telegram.js --status=failure --pipeline=monthly --details="Monthly Deep Dive v2.0 pipeline failed" --run-url="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}

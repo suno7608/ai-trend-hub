@@ -883,6 +883,29 @@ function buildSite() {
   if (fs.existsSync(cname)) fs.copyFileSync(cname, path.join(DIST_DIR, 'CNAME'));
   fs.writeFileSync(path.join(DIST_DIR, '.nojekyll'), '');
 
+  // ── 7. Monthly Charts (SVG assets for enhanced deep dive) ─
+  const monthlyChartsDir = path.join(CONTENT_DIR, 'monthly', 'charts');
+  if (fs.existsSync(monthlyChartsDir)) {
+    try {
+      const distChartsDir = path.join(DIST_DIR, 'archive', 'monthly', 'charts');
+      fs.mkdirSync(distChartsDir, { recursive: true });
+      // Copy all YYYY-MM chart subdirectories
+      fs.readdirSync(monthlyChartsDir).forEach(subDir => {
+        const src = path.join(monthlyChartsDir, subDir);
+        const dst = path.join(distChartsDir, subDir);
+        if (fs.statSync(src).isDirectory()) {
+          fs.mkdirSync(dst, { recursive: true });
+          fs.readdirSync(src).forEach(file => {
+            fs.copyFileSync(path.join(src, file), path.join(dst, file));
+          });
+        }
+      });
+      console.log(`   Monthly charts: copied to dist/archive/monthly/charts/`);
+    } catch (chartErr) {
+      console.warn(`   ⚠️  Monthly charts copy skipped: ${chartErr.message}`);
+    }
+  }
+
   console.log(`✅ Build complete!`);
   console.log(`   Daily: ${dailyItems.length} items`);
   console.log(`   Weekly: ${weeklyItems.length} items`);
