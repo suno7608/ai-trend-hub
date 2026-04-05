@@ -890,18 +890,28 @@ function buildSite() {
       // Copy to dist/monthly/charts/ so relative img src="charts/YYYY-MM/..." resolves correctly
       const distChartsDir = path.join(DIST_DIR, 'monthly', 'charts');
       fs.mkdirSync(distChartsDir, { recursive: true });
+      // Also copy to dist/charts/ so root-level index.html (which embeds monthly content) can find them
+      const distRootChartsDir = path.join(DIST_DIR, 'charts');
+      fs.mkdirSync(distRootChartsDir, { recursive: true });
       // Copy all YYYY-MM chart subdirectories
       fs.readdirSync(monthlyChartsDir).forEach(subDir => {
         const src = path.join(monthlyChartsDir, subDir);
-        const dst = path.join(distChartsDir, subDir);
         if (fs.statSync(src).isDirectory()) {
+          // Copy to dist/monthly/charts/YYYY-MM/
+          const dst = path.join(distChartsDir, subDir);
           fs.mkdirSync(dst, { recursive: true });
           fs.readdirSync(src).forEach(file => {
             fs.copyFileSync(path.join(src, file), path.join(dst, file));
           });
+          // Copy to dist/charts/YYYY-MM/ (for root-relative paths in index.html)
+          const dstRoot = path.join(distRootChartsDir, subDir);
+          fs.mkdirSync(dstRoot, { recursive: true });
+          fs.readdirSync(src).forEach(file => {
+            fs.copyFileSync(path.join(src, file), path.join(dstRoot, file));
+          });
         }
       });
-      console.log(`   Monthly charts: copied to dist/monthly/charts/`);
+      console.log(`   Monthly charts: copied to dist/monthly/charts/ and dist/charts/`);
     } catch (chartErr) {
       console.warn(`   ⚠️  Monthly charts copy skipped: ${chartErr.message}`);
     }
