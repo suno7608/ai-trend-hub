@@ -43,7 +43,16 @@ function loadMonthlyArticles(monthStr) {
         so_what_en: data.so_what_en || '',
         key_points: data.key_points || [],
         confidence: data.confidence || 0,
-        canonical_url: data.canonical_url || ''
+        relevance_score: data.relevance_score || 0,
+        canonical_url: data.canonical_url || '',
+        // ── Monthly pre-indexing fields (v2.0) ──
+        strategic_theme: data.strategic_theme || null,
+        regions: data.regions || ['GLOBAL'],
+        business_impact: data.business_impact || 'MEDIUM',
+        sentiment: data.sentiment || 'NEUTRAL',
+        key_entities: data.key_entities || [],
+        one_line_insight_ko: data.one_line_insight_ko || '',
+        one_line_insight_en: data.one_line_insight_en || '',
       });
     }
   }

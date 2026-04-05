@@ -1,7 +1,13 @@
 #!/usr/bin/env node
 /**
- * AI Trend Hub — AI Summarizer v1.0
+ * AI Trend Hub — AI Summarizer v2.0
  * Reads collected_raw.json → calls Claude API → outputs summarized.json
+ *
+ * v2.0 changes:
+ * - Added monthly pre-indexing fields in same API call (zero extra cost):
+ *   strategic_theme, regions, business_impact, sentiment, key_entities,
+ *   one_line_insight_ko/en
+ * - These fields allow monthly pipeline to skip Stage 1 entirely
  *
  * Requires: ANTHROPIC_API_KEY environment variable
  * Usage: node scripts/summarize.js
@@ -20,7 +26,7 @@ const MODEL = process.env.CLAUDE_MODEL || 'claude-sonnet-4-20250514';
 
 const SYSTEM_PROMPT = `You are an AI editor for the "LG AI Trend Hub", a trend intelligence platform for the Global D2C (Direct-to-Consumer) organization at LG.
 
-Your task: Analyze news articles about AI Commerce, AI Marketing, and AI Technology, then produce structured summaries.
+Your task: Analyze news articles about AI Commerce, AI Marketing, and AI Technology, then produce structured summaries AND strategic metadata.
 
 STRICT RULES:
 - NEVER fabricate facts, statistics, or quotes not in the source
@@ -33,6 +39,13 @@ STRICT RULES:
 - categories: from ["commerce", "marketing", "tech", "strategy", "agentic_commerce", "ai_marketing"]
 - relevance_score: 0.0-1.0 indicating how relevant the article is to AI Marketing or Agentic Commerce (flag articles below 0.5)
 - confidence: 0.5-1.0 based on source quality and content depth
+- strategic_theme: ONE of AI_AGENT | AI_COMMERCE | AI_MARKETING | AI_PERSONALIZATION | RETAIL_TRANSFORMATION | DATA_STRATEGY | COMPETITIVE_DYNAMICS | CUSTOMER_EXPERIENCE | PLATFORM_ECOSYSTEM | EMERGING_TECH
+- regions: array of applicable regions from [GLOBAL, AMER, EMEA, APAC] (can be multiple)
+- business_impact: ONE of HIGH | MEDIUM | LOW (impact on LG D2C organization)
+- sentiment: ONE of OPPORTUNITY | THREAT | NEUTRAL (from LG D2C perspective)
+- key_entities: array of key companies, products, or technologies mentioned (max 5)
+- one_line_insight_ko: single Korean sentence capturing the core strategic insight
+- one_line_insight_en: single English sentence capturing the core strategic insight
 
 Return ONLY valid JSON array, no markdown code blocks.`;
 
@@ -50,7 +63,7 @@ ${a.description || '(no description available)'}
 
   return `Analyze these ${articles.length} articles and return a JSON array with one object per article.
 
-Each object must have:
+Each object must have ALL of the following fields:
 {
   "index": 0,
   "summary_ko": "한국어 3문장 요약",
@@ -61,7 +74,14 @@ Each object must have:
   "categories": ["commerce"],
   "tags": ["tag1", "tag2", "tag3"],
   "relevance_score": 0.8,
-  "confidence": 0.8
+  "confidence": 0.8,
+  "strategic_theme": "AI_AGENT",
+  "regions": ["GLOBAL"],
+  "business_impact": "HIGH",
+  "sentiment": "OPPORTUNITY",
+  "key_entities": ["OpenAI", "ChatGPT"],
+  "one_line_insight_ko": "한 줄 핵심 인사이트 (한국어)",
+  "one_line_insight_en": "One-line core insight (English)"
 }
 
 ${items}
@@ -75,7 +95,7 @@ async function summarizeBatch(client, articles) {
   try {
     const response = await client.messages.create({
       model: MODEL,
-      max_tokens: 4096,
+      max_tokens: 6000,
       system: SYSTEM_PROMPT,
       messages: [{ role: 'user', content: prompt }],
     });
@@ -108,6 +128,14 @@ async function summarizeBatch(client, articles) {
         tags: ai.tags || [],
         relevance_score: ai.relevance_score ?? 0.5,
         confidence: ai.confidence || 0.5,
+        // ── Monthly pre-indexing fields (v2.0) ──
+        strategic_theme: ai.strategic_theme || 'EMERGING_TECH',
+        regions: ai.regions || ['GLOBAL'],
+        business_impact: ai.business_impact || 'MEDIUM',
+        sentiment: ai.sentiment || 'NEUTRAL',
+        key_entities: ai.key_entities || [],
+        one_line_insight_ko: ai.one_line_insight_ko || '',
+        one_line_insight_en: ai.one_line_insight_en || '',
         ai_processed: true,
       };
     });
@@ -132,7 +160,7 @@ async function summarizeBatch(client, articles) {
 }
 
 async function main() {
-  console.log('🤖 AI Trend Hub — AI Summarizer v1.0');
+  console.log('🤖 AI Trend Hub — AI Summarizer v2.0');
   console.log('=====================================\n');
 
   // Check API key

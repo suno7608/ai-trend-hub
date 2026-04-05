@@ -53,7 +53,14 @@ function buildFrontmatter(item, id) {
     `language_original: "en"`,
     `categories: [${(item.categories || ['tech']).map(c => `"${c}"`).join(', ')}]`,
     `tags: [${(item.tags || []).map(t => `"${t}"`).join(', ')}]`,
-    `regions: ["global"]`,
+    // ── Monthly pre-indexing fields (v2.0) ──
+    `strategic_theme: "${item.strategic_theme || 'EMERGING_TECH'}"`,
+    `regions: [${(item.regions || ['GLOBAL']).map(r => `"${r}"`).join(', ')}]`,
+    `business_impact: "${item.business_impact || 'MEDIUM'}"`,
+    `sentiment: "${item.sentiment || 'NEUTRAL'}"`,
+    `key_entities: [${(item.key_entities || []).map(e => `"${escapeYaml(e)}"`).join(', ')}]`,
+    `one_line_insight_ko: "${escapeYaml(item.one_line_insight_ko || '')}"`,
+    `one_line_insight_en: "${escapeYaml(item.one_line_insight_en || '')}"`,
     `summary_ko: "${escapeYaml(item.summary_ko)}"`,
     `summary_en: "${escapeYaml(item.summary_en)}"`,
     `so_what_ko: "${escapeYaml(item.so_what_ko)}"`,
@@ -61,6 +68,7 @@ function buildFrontmatter(item, id) {
     `key_points:`,
     ...(item.key_points || []).map(p => `  - "${escapeYaml(p)}"`),
     `confidence: ${item.confidence || 0.5}`,
+    `relevance_score: ${item.relevance_score ?? 0.5}`,
     '---',
   ];
   return yaml.join('\n');
