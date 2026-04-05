@@ -263,10 +263,20 @@ async function main() {
   }
 
   // Load content
-  const articles = loadMonthlyArticles(monthStr);
+  const allArticles = loadMonthlyArticles(monthStr);
   const weeklyDigests = loadWeeklyDigests(monthStr);
 
-  console.log(`📄 Found ${articles.length} daily articles (all loaded)`);
+  // For v2.0 pipeline: filter to confidence >= 0.85 to reduce API cost & time
+  // For simple mode: still use top 30 (handled inside generateSimple)
+  const CONFIDENCE_THRESHOLD = 0.85;
+  const articles = simpleFlag
+    ? allArticles
+    : allArticles.filter(a => (a.confidence || 0) >= CONFIDENCE_THRESHOLD);
+
+  console.log(`📄 Found ${allArticles.length} daily articles total`);
+  if (!simpleFlag) {
+    console.log(`🎯 Filtered to ${articles.length} articles with confidence ≥ ${CONFIDENCE_THRESHOLD} (pipeline input)`);
+  }
   console.log(`📊 Found ${weeklyDigests.length} weekly digests\n`);
 
   if (articles.length === 0) {
