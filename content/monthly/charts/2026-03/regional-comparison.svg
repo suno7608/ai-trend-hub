@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380" width="600" height="380" font-family="Arial, sans-serif">
+  <title>Regional Distribution</title>
+  <rect width="600" height="380" fill="#FFFFFF" rx="8"/>
+  
+  <rect x="0" y="0" width="600" height="380" fill="#FFFFFF" rx="8" opacity="1"/>
+  <rect x="0" y="0" width="600" height="48" fill="#1B2A4A" rx="8" opacity="1"/>
+  <rect x="0" y="40" width="600" height="8" fill="#1B2A4A" rx="0" opacity="1"/>
+  <text x="300" y="30" text-anchor="middle" font-size="16" fill="#FFFFFF" font-weight="bold" font-style="normal">Regional Trend Distribution</text>
+  <line x1="60" y1="300" x2="570" y2="300" stroke="#F3F4F6" stroke-width="1"/><text x="52" y="304" text-anchor="end" font-size="11" fill="#9CA3AF" font-weight="normal" font-style="normal">0</text><line x1="60" y1="238.46153846153845" x2="570" y2="238.46153846153845" stroke="#F3F4F6" stroke-width="1"/><text x="52" y="242.46153846153845" text-anchor="end" font-size="11" fill="#9CA3AF" font-weight="normal" font-style="normal">10</text><line x1="60" y1="176.92307692307693" x2="570" y2="176.92307692307693" stroke="#F3F4F6" stroke-width="1"/><text x="52" y="180.92307692307693" text-anchor="end" font-size="11" fill="#9CA3AF" font-weight="normal" font-style="normal">20</text><line x1="60" y1="115.38461538461539" x2="570" y2="115.38461538461539" stroke="#F3F4F6" stroke-width="1"/><text x="52" y="119.38461538461539" text-anchor="end" font-size="11" fill="#9CA3AF" font-weight="normal" font-style="normal">30</text>
+  <rect x="88.6875" y="60" width="70.125" height="240" fill="#1B2A4A" rx="4" opacity="1"/><rect x="216.1875" y="195.3846153846154" width="70.125" height="104.61538461538461" fill="#A50034" rx="4" opacity="1"/><rect x="343.6875" y="293.84615384615387" width="70.125" height="6.153846153846153" fill="#2E75B6" rx="4" opacity="1"/><rect x="471.1875" y="293.84615384615387" width="70.125" height="6.153846153846153" fill="#16A34A" rx="4" opacity="1"/>
+  <text x="123.75" y="52" text-anchor="middle" font-size="13" fill="#1B2A4A" font-weight="bold" font-style="normal">39</text><text x="251.25" y="187.3846153846154" text-anchor="middle" font-size="13" fill="#A50034" font-weight="bold" font-style="normal">17</text><text x="378.75" y="285.84615384615387" text-anchor="middle" font-size="13" fill="#2E75B6" font-weight="bold" font-style="normal">1</text><text x="506.25" y="285.84615384615387" text-anchor="middle" font-size="13" fill="#16A34A" font-weight="bold" font-style="normal">1</text>
+  <text x="123.75" y="320" text-anchor="middle" font-size="13" fill="#1F2937" font-weight="bold" font-style="normal">GLOBAL</text><text x="251.25" y="320" text-anchor="middle" font-size="13" fill="#1F2937" font-weight="bold" font-style="normal">AMER</text><text x="378.75" y="320" text-anchor="middle" font-size="13" fill="#1F2937" font-weight="bold" font-style="normal">EMEA</text><text x="506.25" y="320" text-anchor="middle" font-size="13" fill="#1F2937" font-weight="bold" font-style="normal">APAC</text>
+  <line x1="60" y1="60" x2="60" y2="300" stroke="#6B7280" stroke-width="1"/>
+  <line x1="60" y1="300" x2="570" y2="300" stroke="#6B7280" stroke-width="1"/>
+  
+</svg>
