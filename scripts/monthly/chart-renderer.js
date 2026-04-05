@@ -39,7 +39,9 @@ function text(x, y, content, opts = {}) {
   const color = opts.color || COLORS.text;
   const weight = opts.bold ? 'bold' : 'normal';
   const italic = opts.italic ? 'italic' : 'normal';
-  return `<text x="${x}" y="${y}" text-anchor="${anchor}" font-size="${size}" fill="${color}" font-weight="${weight}" font-style="${italic}">${content}</text>`;
+  // Escape XML special characters so SVG stays valid
+  const escaped = String(content).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  return `<text x="${x}" y="${y}" text-anchor="${anchor}" font-size="${size}" fill="${color}" font-weight="${weight}" font-style="${italic}">${escaped}</text>`;
 }
 
 function rect(x, y, w, h, color, opts = {}) {
