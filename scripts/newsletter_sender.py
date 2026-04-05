@@ -84,6 +84,26 @@ def _load_news_items(target_date: str, max_items: int) -> tuple[list[dict[str, s
             f"ℹ️ No items for {target_date}. Falling back to latest available date: {selected_date}"
         )
 
+    # Filter out low-relevance items
+    PRIORITY_CATEGORIES = {"ai_marketing", "ai_commerce", "agentic", "agentic_commerce"}
+    before_count = len(selected)
+    filtered = []
+    for item in selected:
+        rel_score = item.get("relevance_score")
+        if rel_score is not None and float(rel_score) < 0.5:
+            continue
+        filtered.append(item)
+    if before_count != len(filtered):
+        print(f"🎯 Relevance filter: {before_count - len(filtered)} low-relevance items removed")
+
+    # Prioritize AI Marketing / Agentic Commerce items
+    def _priority_key(item: dict) -> int:
+        cats = set(item.get("categories", []))
+        return 0 if cats & PRIORITY_CATEGORIES else 1
+
+    filtered.sort(key=_priority_key)
+    selected = filtered
+
     seen_links: set[str] = set()
     newsletter_items: list[dict[str, str]] = []
     for item in selected:

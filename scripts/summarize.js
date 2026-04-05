@@ -30,7 +30,8 @@ STRICT RULES:
 - so_what_ko/en: 1-2 actionable sentences for D2C business perspective
 - key_points: 2-4 bullet points
 - tags: 3-5 lowercase hyphenated tags relevant to the article
-- categories: from ["commerce", "marketing", "tech", "strategy"]
+- categories: from ["commerce", "marketing", "tech", "strategy", "agentic_commerce", "ai_marketing"]
+- relevance_score: 0.0-1.0 indicating how relevant the article is to AI Marketing or Agentic Commerce (flag articles below 0.5)
 - confidence: 0.5-1.0 based on source quality and content depth
 
 Return ONLY valid JSON array, no markdown code blocks.`;
@@ -59,6 +60,7 @@ Each object must have:
   "key_points": ["point1", "point2", "point3"],
   "categories": ["commerce"],
   "tags": ["tag1", "tag2", "tag3"],
+  "relevance_score": 0.8,
   "confidence": 0.8
 }
 
@@ -104,6 +106,7 @@ async function summarizeBatch(client, articles) {
         key_points: ai.key_points || [],
         categories: ai.categories || article.categories || ['tech'],
         tags: ai.tags || [],
+        relevance_score: ai.relevance_score ?? 0.5,
         confidence: ai.confidence || 0.5,
         ai_processed: true,
       };
@@ -120,6 +123,7 @@ async function summarizeBatch(client, articles) {
       key_points: [],
       categories: article.categories || ['tech'],
       tags: [],
+      relevance_score: 0.0,
       confidence: 0.0,
       ai_processed: false,
       ai_error: error.message,

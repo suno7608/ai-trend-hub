@@ -179,11 +179,11 @@
   method: rss
   feed_url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   frequency: daily
-  status: existing
+  status: disabled
   language: en
   region: global
   weight: 0.7
-  notes: ''
+  notes: 'Disabled: too general AI, not focused on marketing/commerce'
 - id: martech_org
   name: MarTech.org
   category:
@@ -435,11 +435,11 @@
   method: rss
   feed_url: https://www.cnet.com/rss/news/
   frequency: daily
-  status: new
+  status: disabled
   language: en
   region: global
   weight: 0.7
-  notes: ''
+  notes: 'Disabled: too general tech news, produces noise'
 - id: retail_customer_experience
   name: Retail Customer Experience (RCX)
   category:
@@ -567,3 +567,92 @@
   region: global
   weight: 0.7
   notes: RSS 미제공
+- id: salesforce_agentforce
+  name: Salesforce Agentforce Blog
+  category:
+  - ai_commerce
+  - agentic
+  method: rss
+  feed_url: https://www.salesforce.com/blog/category/ai/feed/
+  frequency: 2-3x/wk
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: ''
+- id: shopify_ai
+  name: Shopify AI Blog
+  category:
+  - ai_commerce
+  - agentic
+  method: rss
+  feed_url: https://www.shopify.com/blog/topics/shopify-ai/feed
+  frequency: weekly
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: ''
+- id: voiceflow_blog
+  name: Voiceflow Blog
+  category:
+  - agentic
+  - ai_commerce
+  method: rss
+  feed_url: https://www.voiceflow.com/blog/rss.xml
+  frequency: weekly
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: ''
+- id: sierra_ai
+  name: Sierra AI Blog
+  category:
+  - agentic
+  - ai_commerce
+  method: rss
+  feed_url: https://sierra.ai/blog/rss
+  frequency: weekly
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: ''
+- id: ai_business
+  name: AI Business
+  category:
+  - ai_marketing
+  - ai_general
+  method: rss
+  feed_url: https://aibusiness.com/rss.xml
+  frequency: daily
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: ''
+- id: synthesia_blog
+  name: Synthesia Blog
+  category:
+  - ai_marketing
+  method: rss
+  feed_url: https://www.synthesia.io/blog/rss.xml
+  frequency: weekly
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: ''
+- id: jasper_blog
+  name: Jasper AI Blog
+  category:
+  - ai_marketing
+  method: rss
+  feed_url: https://www.jasper.ai/blog/rss.xml
+  frequency: weekly
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: ''
