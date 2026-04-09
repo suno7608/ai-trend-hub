@@ -57,10 +57,37 @@ def _emoji_for_categories(categories: list[str]) -> str:
     return "📰"
 
 
+def _load_archive_items() -> list[dict]:
+    """Load all items from archive JSONL files."""
+    archive_dir = DATA_DIR / "archive"
+    items: list[dict] = []
+    if not archive_dir.exists():
+        return items
+    for jsonl_file in sorted(archive_dir.glob("summarized_*.jsonl")):
+        try:
+            for line in jsonl_file.read_text(encoding="utf-8").splitlines():
+                line = line.strip()
+                if line:
+                    items.append(json.loads(line))
+        except Exception as error:
+            print(f"⚠️ Failed to load archive {jsonl_file}: {error}")
+    return items
+
+
 def _load_news_items(target_date: str, max_items: int) -> tuple[list[dict[str, str]], str]:
     raw_items = _load_json(SUMMARIZED_PATH, default=[])
+
+    # Merge archive data so recent dates are always available
+    archive_items = _load_archive_items()
+    if archive_items:
+        existing_links = {item.get("link") for item in raw_items}
+        for item in archive_items:
+            if item.get("link") not in existing_links:
+                raw_items.append(item)
+                existing_links.add(item.get("link"))
+
     if not isinstance(raw_items, list) or not raw_items:
-        raise RuntimeError(f"No usable data in {SUMMARIZED_PATH}")
+        raise RuntimeError(f"No usable data in {SUMMARIZED_PATH} or archive/")
 
     same_day = [item for item in raw_items if str(item.get("date_published", "")) == target_date]
     selected = same_day
@@ -75,7 +102,7 @@ def _load_news_items(target_date: str, max_items: int) -> tuple[list[dict[str, s
             }
         )
         if not available_dates:
-            raise RuntimeError("No date_published in summarized.json")
+            raise RuntimeError("No date_published in summarized.json or archive/")
         selected_date = available_dates[-1]
         selected = [
             item for item in raw_items if str(item.get("date_published", "")) == selected_date
