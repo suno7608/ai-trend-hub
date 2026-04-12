@@ -75,6 +75,8 @@ def _load_archive_items() -> list[dict]:
 
 
 def _load_news_items(target_date: str, max_items: int) -> tuple[list[dict[str, str]], str]:
+    from datetime import date, timedelta
+
     raw_items = _load_json(SUMMARIZED_PATH, default=[])
 
     # Merge archive data so recent dates are always available
@@ -89,39 +91,72 @@ def _load_news_items(target_date: str, max_items: int) -> tuple[list[dict[str, s
     if not isinstance(raw_items, list) or not raw_items:
         raise RuntimeError(f"No usable data in {SUMMARIZED_PATH} or archive/")
 
-    same_day = [item for item in raw_items if str(item.get("date_published", "")) == target_date]
-    selected = same_day
+    # ── Date selection strategy ───────────────────────────────────────────
+    # RSS feeds often publish articles 1-3 days behind the actual collection
+    # date. Using a strict "date_published == today" filter leaves most
+    # freshly-collected articles unused. Instead we use a 3-day rolling window:
+    # primary = last 3 days; fallback = last 7 days; last resort = latest date.
+    # This ensures the newsletter always contains recently-collected content.
+    try:
+        target_dt = date.fromisoformat(target_date)
+    except ValueError:
+        target_dt = date.today()
+
+    # Build a set of the 3 most recent calendar dates (today + 2 days back)
+    window_3d = {str(target_dt - timedelta(days=i)) for i in range(3)}
+    window_7d = {str(target_dt - timedelta(days=i)) for i in range(7)}
+
+    in_3d = [item for item in raw_items if str(item.get("date_published", "")) in window_3d]
     selected_date = target_date
 
-    if not selected:
-        available_dates = sorted(
-            {
-                str(item.get("date_published", ""))
-                for item in raw_items
-                if isinstance(item.get("date_published"), str) and item.get("date_published")
-            }
-        )
-        if not available_dates:
-            raise RuntimeError("No date_published in summarized.json or archive/")
-        selected_date = available_dates[-1]
-        selected = [
-            item for item in raw_items if str(item.get("date_published", "")) == selected_date
-        ]
-        print(
-            f"ℹ️ No items for {target_date}. Falling back to latest available date: {selected_date}"
-        )
+    if in_3d:
+        selected = in_3d
+        print(f"📅 Date filter: {len(selected)} items within 3-day window ({min(window_3d)}~{target_date})")
+    else:
+        # Expand to 7-day window
+        in_7d = [item for item in raw_items if str(item.get("date_published", "")) in window_7d]
+        if in_7d:
+            # Use the latest date that has content within the 7-day window
+            latest_in_window = max(
+                str(item.get("date_published", "")) for item in in_7d
+                if str(item.get("date_published", "")) in window_7d
+            )
+            selected_date = latest_in_window
+            selected = [item for item in in_7d if str(item.get("date_published", "")) == selected_date]
+            print(f"📅 Date filter: no 3-day items. Using 7-day window latest: {selected_date} ({len(selected)} items)")
+        else:
+            # Last resort: most recent available date in entire archive
+            available_dates = sorted(
+                {
+                    str(item.get("date_published", ""))
+                    for item in raw_items
+                    if isinstance(item.get("date_published"), str) and item.get("date_published")
+                }
+            )
+            if not available_dates:
+                raise RuntimeError("No date_published in summarized.json or archive/")
+            selected_date = available_dates[-1]
+            selected = [item for item in raw_items if str(item.get("date_published", "")) == selected_date]
+            print(f"⚠️ No items in 7-day window. Falling back to oldest available: {selected_date}")
 
-    # Filter out low-relevance items
+    # ── Quality filter: relevance + confidence ────────────────────────────
     PRIORITY_CATEGORIES = {"ai_marketing", "ai_commerce", "agentic", "agentic_commerce"}
+    MIN_RELEVANCE = 0.5
+    MIN_CONFIDENCE = 0.6   # raised from implicit 0 — skip low-quality summaries
+
     before_count = len(selected)
     filtered = []
     for item in selected:
         rel_score = item.get("relevance_score")
-        if rel_score is not None and float(rel_score) < 0.5:
+        confidence = item.get("confidence", 1.0)  # default 1.0 for older items without score
+        if rel_score is not None and float(rel_score) < MIN_RELEVANCE:
+            continue
+        if float(confidence) < MIN_CONFIDENCE:
             continue
         filtered.append(item)
-    if before_count != len(filtered):
-        print(f"🎯 Relevance filter: {before_count - len(filtered)} low-relevance items removed")
+    removed = before_count - len(filtered)
+    if removed > 0:
+        print(f"🎯 Quality filter: {removed} low-relevance/confidence items removed (of {before_count})")
 
     # Prioritize AI Marketing / Agentic Commerce items
     def _priority_key(item: dict) -> int:
