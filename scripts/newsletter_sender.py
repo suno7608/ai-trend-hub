@@ -240,6 +240,19 @@ def main() -> int:
         print("   Fix: check sync_obsidian_to_summarized.py URL parsing.")
         return 1
 
+    # ── Second duplicate guard: content-date based ─────────────────────────
+    # Prevents re-sending old content when today has no new articles and the
+    # fallback selects a previously-sent archive date.
+    # (First guard above checked target_date; this checks the actual content date.)
+    if not args.allow_resend and selected_date != target_date:
+        recently_sent = set(state.get("recently_sent_content_dates", []))
+        if selected_date in recently_sent:
+            print(
+                f"⏭️ Skip: content for {selected_date} was already sent recently "
+                f"(fallback re-send prevention). No new articles for {target_date}."
+            )
+            return 0
+
     if len(news_items) < 3:
         print(f"⚠️ WARNING: Only {len(news_items)} items for {target_date}. Proceeding but quality may be low.")
 
@@ -271,13 +284,23 @@ def main() -> int:
     )
 
     if args.send:
+        # Maintain a rolling 14-day window of content dates actually sent.
+        # This prevents the fallback from re-sending the same old content on days
+        # when no new articles are collected.
+        recently_sent = list(state.get("recently_sent_content_dates", []))
+        if selected_date not in recently_sent:
+            recently_sent.append(selected_date)
+        recently_sent = recently_sent[-14:]  # keep last 14 entries
+
         _save_json(
             STATE_PATH,
             {
                 "last_sent_date": target_date,
+                "last_sent_content_date": selected_date,
                 "last_sent_at_kst": now_kst.isoformat(),
                 "last_recipient_count": len(recipients),
                 "last_news_items": len(news_items),
+                "recently_sent_content_dates": recently_sent,
             },
         )
         print(f"📌 Send state updated: {STATE_PATH}")

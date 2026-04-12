@@ -73,7 +73,9 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "AI Trend Hub Bot"
-          git add content/ data/processed_urls.json data/archive/ data/summarized.json
+          # newsletter_state.json MUST be committed so next run can read last_sent_date
+          # and avoid sending the same newsletter twice (state was previously ephemeral)
+          git add content/ data/processed_urls.json data/archive/ data/summarized.json data/newsletter_state.json
           git diff --staged --quiet || git commit -m "📰 Daily content update $(date +%Y-%m-%d)"
           git push || echo "Nothing to push"
 
