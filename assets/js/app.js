@@ -484,28 +484,46 @@
   const sourcesGrid = document.getElementById('sourcesGrid');
   if (sourcesGrid) {
     const sources = [
+      // ── AI Commerce ──
       { name: 'Retail Dive', category: 'AI Commerce', status: 'active', url: 'https://www.retaildive.com' },
-      { name: 'commercetools Blog', category: 'AI Commerce', status: 'active', url: 'https://commercetools.com/blog' },
       { name: 'Digital Commerce 360', category: 'AI Commerce', status: 'active', url: 'https://www.digitalcommerce360.com' },
-      { name: 'Shopify Engineering', category: 'AI Commerce', status: 'active', url: 'https://shopify.engineering' },
-      { name: 'TechCrunch Commerce', category: 'AI Commerce', status: 'new', url: 'https://techcrunch.com/category/commerce/' },
-      { name: 'Marketing AI Institute', category: 'AI Marketing', status: 'active', url: 'https://www.marketingaiinstitute.com' },
+      { name: 'Practical Ecommerce', category: 'AI Commerce', status: 'active', url: 'https://www.practicalecommerce.com' },
+      { name: 'TechCrunch Commerce', category: 'AI Commerce', status: 'active', url: 'https://techcrunch.com/category/commerce/' },
+      { name: 'Modern Retail', category: 'AI Commerce', status: 'new', url: 'https://www.modernretail.co' },
+      { name: 'Payments Dive', category: 'AI Commerce', status: 'new', url: 'https://www.paymentsdive.com' },
+      { name: 'Mirakl Blog', category: 'AI Commerce', status: 'active', url: 'https://www.mirakl.com/blog' },
+      { name: 'Shopify AI Blog', category: 'AI Commerce', status: 'active', url: 'https://www.shopify.com/blog/topics/shopify-ai' },
+      { name: 'Retail Daily (Substack)', category: 'AI Commerce', status: 'active', url: 'https://dpepper.substack.com' },
+      // ── AI Marketing ──
+      { name: 'Digiday', category: 'AI Marketing', status: 'active', url: 'https://digiday.com' },
+      { name: 'MarTech.org', category: 'AI Marketing', status: 'active', url: 'https://martech.org' },
+      { name: 'Marketing Dive', category: 'AI Marketing', status: 'active', url: 'https://www.marketingdive.com' },
       { name: 'Adweek', category: 'AI Marketing', status: 'active', url: 'https://www.adweek.com' },
+      { name: 'Ad Age', category: 'AI Marketing', status: 'new', url: 'https://adage.com' },
+      { name: 'The Drum', category: 'AI Marketing', status: 'new', url: 'https://www.thedrum.com' },
       { name: 'HubSpot Marketing', category: 'AI Marketing', status: 'active', url: 'https://blog.hubspot.com/marketing' },
-      { name: 'MarTech.org', category: 'AI Marketing', status: 'new', url: 'https://martech.org' },
-      { name: 'Digiday', category: 'AI Marketing', status: 'new', url: 'https://digiday.com' },
-      { name: 'Search Engine Land', category: 'AI Marketing', status: 'new', url: 'https://searchengineland.com' },
-      { name: 'Klaviyo Blog', category: 'AI Marketing', status: 'new', url: 'https://www.klaviyo.com/blog' },
+      { name: 'Marketing AI Institute', category: 'AI Marketing', status: 'active', url: 'https://www.marketingaiinstitute.com' },
+      { name: 'Search Engine Land', category: 'AI Marketing', status: 'active', url: 'https://searchengineland.com' },
+      { name: 'AI Business', category: 'AI Marketing', status: 'active', url: 'https://aibusiness.com' },
+      // ── AI General ──
+      { name: 'VentureBeat AI', category: 'AI General', status: 'new', url: 'https://venturebeat.com/category/ai/' },
+      { name: 'TechCrunch AI', category: 'AI General', status: 'new', url: 'https://techcrunch.com/category/artificial-intelligence/' },
+      { name: 'WIRED (AI)', category: 'AI General', status: 'new', url: 'https://www.wired.com/tag/artificial-intelligence/' },
       { name: 'MIT Technology Review', category: 'AI General', status: 'active', url: 'https://www.technologyreview.com' },
-      { name: 'The Verge (AI)', category: 'AI General', status: 'active', url: 'https://www.theverge.com/ai-artificial-intelligence' },
-      { name: 'Anthropic News', category: 'AI General', status: 'active', url: 'https://www.anthropic.com/news' },
       { name: 'Google AI Blog', category: 'AI General', status: 'active', url: 'https://blog.google/technology/ai/' },
       { name: 'OpenAI Blog', category: 'AI General', status: 'active', url: 'https://openai.com/blog' },
-      { name: 'Salesforce AI Blog', category: 'Platform', status: 'new', url: 'https://www.salesforce.com/blog/category/ai/' },
-      { name: 'Adobe Experience Blog', category: 'Platform', status: 'new', url: 'https://business.adobe.com/blog' },
-      { name: 'Segment Blog', category: 'CDP/CRM', status: 'new', url: 'https://segment.com/blog/' },
-      { name: 'Bloomreach Blog', category: 'CDP/CRM', status: 'new', url: 'https://www.bloomreach.com/en/blog' },
-      { name: 'Forrester DTC Blog', category: 'D2C/DTC', status: 'new', url: 'https://www.forrester.com/blogs/category/direct-to-consumer-dtc/' },
+      { name: 'Microsoft AI Blog', category: 'AI General', status: 'active', url: 'https://blogs.microsoft.com/ai/' },
+      { name: 'Amazon Science', category: 'AI General', status: 'active', url: 'https://www.amazon.science' },
+      { name: 'Import AI (Jack Clark)', category: 'AI General', status: 'new', url: 'https://jack-clark.net' },
+      { name: 'Latent Space', category: 'AI General', status: 'active', url: 'https://www.latent.space' },
+      { name: 'Benedict Evans', category: 'AI General', status: 'active', url: 'https://www.ben-evans.com' },
+      // ── Agentic AI ──
+      { name: 'Salesforce Agentforce', category: 'Agentic AI', status: 'active', url: 'https://www.salesforce.com/blog/category/ai/' },
+      { name: 'Voiceflow Blog', category: 'Agentic AI', status: 'active', url: 'https://www.voiceflow.com/blog' },
+      { name: 'Sierra AI Blog', category: 'Agentic AI', status: 'active', url: 'https://sierra.ai/blog' },
+      // ── D2C/DTC ──
+      { name: 'Shopify Commerce+ (Substack)', category: 'D2C/DTC', status: 'active', url: 'https://shopify.substack.com' },
+      { name: '1-800-D2C Newsletter', category: 'D2C/DTC', status: 'active', url: 'https://1800dtc.com/newsletter' },
     ];
     sourcesGrid.innerHTML = sources.map(s => `
       <div class="source-item">
