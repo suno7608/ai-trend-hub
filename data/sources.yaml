@@ -656,3 +656,106 @@
   region: global
   weight: 0.7
   notes: ''
+- id: venturebeat_ai
+  name: VentureBeat AI
+  category:
+  - ai_general
+  - ai_marketing
+  - ai_commerce
+  method: rss
+  feed_url: https://venturebeat.com/category/ai/feed/
+  frequency: daily
+  status: new
+  language: en
+  region: global
+  weight: 0.85
+  notes: 하루 15-20개 기사, enterprise AI 커버 최강, 신뢰도 높음
+- id: modern_retail
+  name: Modern Retail
+  category:
+  - ai_commerce
+  - d2c_dtc
+  method: rss
+  feed_url: https://www.modernretail.co/feed/
+  frequency: daily
+  status: new
+  language: en
+  region: global
+  weight: 0.8
+  notes: Digiday 자매 매체, 커머스/리테일 특화 데일리
+- id: adage
+  name: Ad Age
+  category:
+  - ai_marketing
+  - adtech
+  method: rss
+  feed_url: https://adage.com/rss
+  frequency: daily
+  status: new
+  language: en
+  region: global
+  weight: 0.8
+  notes: 광고/마케팅 업계 최고 권위지, AI 마케팅 커버리지 우수
+- id: the_drum
+  name: The Drum
+  category:
+  - ai_marketing
+  method: rss
+  feed_url: https://www.thedrum.com/rss
+  frequency: daily
+  status: new
+  language: en
+  region: global
+  weight: 0.75
+  notes: 글로벌 마케팅 데일리, 영국 기반 비US 관점 포함
+- id: wired_ai
+  name: WIRED (AI)
+  category:
+  - ai_general
+  - ai_commerce
+  method: rss
+  feed_url: https://www.wired.com/tag/artificial-intelligence/rss
+  frequency: daily
+  status: new
+  language: en
+  region: global
+  weight: 0.8
+  notes: 기술/비즈니스 권위지, AI 비즈니스 영향 심층 분석
+- id: import_ai
+  name: Import AI (Jack Clark)
+  category:
+  - ai_general
+  method: rss
+  feed_url: https://jack-clark.net/feed/
+  frequency: weekly
+  status: new
+  language: en
+  region: global
+  weight: 0.75
+  notes: Anthropic 공동창업자 주간 AI 뉴스레터, 기술+비즈니스 딥다이브
+- id: techcrunch_ai
+  name: TechCrunch AI
+  category:
+  - ai_general
+  - ai_commerce
+  - startup
+  method: rss
+  feed_url: https://techcrunch.com/category/artificial-intelligence/feed/
+  frequency: daily
+  status: new
+  language: en
+  region: global
+  weight: 0.8
+  notes: TC AI 섹션 (기존 commerce 섹션과 별개), 스타트업/펀딩 중심
+- id: payments_dive
+  name: Payments Dive
+  category:
+  - ai_commerce
+  method: rss
+  feed_url: https://www.paymentsdive.com/feeds/news/
+  frequency: daily
+  status: new
+  language: en
+  region: global
+  weight: 0.7
+  notes: 커머스 인접 핀테크/결제 데일리, AI 결제 혁신 커버리지
