@@ -1,664 +1,669 @@
 [
   {
-    "title": "Walmart-owned Flipkart, Amazon are squeezing India’s quick commerce startups",
-    "link": "https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/",
-    "date_published": "2026-04-12",
-    "description": "Flipkart's ongoing expansion beyond major cities and heavy discounting is raising risks for India's quick commerce startups, analysts say.",
-    "source_id": "techcrunch_commerce",
-    "source_name": "TechCrunch Commerce",
-    "source_url": "https://techcrunch.com/category/commerce/feed",
+    "title": "Creator content has become critical for retail media networks",
+    "link": "https://www.modernretail.co/marketing/creator-content-has-become-critical-for-retail-media-networks/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-04-13",
+    "description": "Two fast-growing advertising sectors -- retail media and the creator economy -- are increasingly becoming interlinked. Here's how more retail media networks are incorporating creator campaigns into their offerings.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
     "categories": [
-      "commerce",
-      "strategy"
+      "marketing",
+      "commerce"
+    ],
+    "relevance_score": 0.7,
+    "relevance_label": "high",
+    "summary_ko": "리테일 미디어 네트워크에서 크리에이터 콘텐츠의 중요성이 급속히 증가하고 있다. 빠르게 성장하는 두 광고 분야인 리테일 미디어와 크리에이터 이코노미가 점점 더 연결되고 있다. 더 많은 리테일 미디어 네트워크들이 크리에이터 캠페인을 자사 서비스에 통합하고 있다.",
+    "summary_en": "Creator content has become increasingly critical for retail media networks as two fast-growing advertising sectors converge. The retail media and creator economy are becoming more interlinked than ever before. More retail media networks are incorporating creator campaigns into their service offerings.",
+    "so_what_ko": "D2C 브랜드는 리테일 미디어 플랫폼에서 크리에이터 파트너십을 통해 더 진정성 있는 콘텐츠 마케팅을 구현할 수 있다.",
+    "so_what_en": "D2C brands can leverage creator partnerships within retail media platforms to create more authentic and engaging content marketing strategies.",
+    "key_points": [
+      "Retail media networks increasingly integrating creator content",
+      "Convergence of retail media and creator economy sectors",
+      "Growing importance of authentic creator-driven advertising"
+    ],
+    "tags": [
+      "retail-media",
+      "creator-economy",
+      "content-marketing"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "retail media networks",
+      "creator economy"
+    ],
+    "one_line_insight_ko": "리테일 미디어와 크리에이터 이코노미의 융합이 D2C 브랜드에게 새로운 마케팅 기회를 제공한다.",
+    "one_line_insight_en": "The convergence of retail media and creator economy presents new marketing opportunities for D2C brands.",
+    "ai_processed": true
+  },
+  {
+    "title": "In Graphic Detail: New data shows publishers face growing AI bot, third-party scraper activity",
+    "link": "https://digiday.com/media/in-graphic-detail-new-data-shows-publishers-face-growing-ai-bot-third-party-scraper-activity/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-04-13",
+    "description": "New data shows publishers face a surge in AI bots and third-party scrapers harvesting content without compensation.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "tech",
+      "marketing"
     ],
     "relevance_score": 0.6,
     "relevance_label": "high",
-    "summary_ko": "월마트 소유의 플립카트와 아마존이 인도 주요 도시를 넘어 확장하며 대대적인 할인을 통해 시장 점유율을 확대하고 있습니다. 이러한 공격적 전략으로 인해 인도의 퀵 커머스 스타트업들이 경쟁 압박을 받고 있다고 분석가들이 지적했습니다. 대형 플레이어들의 자본력을 바탕으로 한 시장 장악이 소규모 업체들의 생존을 위협하고 있습니다.",
-    "summary_en": "Walmart-owned Flipkart and Amazon are expanding beyond major cities in India while implementing heavy discounting strategies to gain market share. Analysts indicate that these aggressive tactics are putting pressure on India's quick commerce startups. The capital-backed market domination by large players is threatening the survival of smaller competitors.",
-    "so_what_ko": "LG는 인도 D2C 시장 진출 시 대형 플랫폼과의 경쟁보다는 차별화된 고객 경험과 프리미엄 포지셔닝을 통한 독자적 채널 구축이 필요합니다.",
-    "so_what_en": "LG should focus on building differentiated customer experiences and premium positioning through independent channels rather than competing directly with major platforms in the Indian D2C market.",
+    "summary_ko": "새로운 데이터에 따르면 퍼블리셔들이 AI 봇과 제3자 스크래퍼의 급증하는 활동에 직면하고 있다. 이들은 보상 없이 콘텐츠를 수집하고 있어 퍼블리셔들에게 우려를 불러일으키고 있다. AI 봇의 콘텐츠 수집 활동이 크게 증가하는 추세다.",
+    "summary_en": "New data reveals publishers are facing a surge in AI bot and third-party scraper activity harvesting content without compensation. This represents a growing concern for content creators and publishers in the digital space. The trend shows significant increases in automated content collection activities.",
+    "so_what_ko": "D2C 브랜드는 자사 콘텐츠 보호를 위해 AI 스크래핑 대응책을 마련하고, 동시에 AI 도구 활용 시 저작권 이슈를 고려해야 한다.",
+    "so_what_en": "D2C brands need to implement content protection measures against AI scraping while being mindful of copyright issues when using AI tools for content creation.",
     "key_points": [
-      "Flipkart and Amazon expanding beyond tier-1 cities in India",
-      "Heavy discounting strategy pressuring quick commerce startups",
-      "Capital advantage enabling market consolidation",
-      "Competitive risks for smaller players in quick commerce sector"
+      "Publishers experiencing surge in AI bot activity",
+      "Content harvesting without compensation increasing",
+      "Third-party scrapers becoming more prevalent"
     ],
     "tags": [
-      "quick-commerce",
-      "india-market",
-      "platform-competition",
-      "market-expansion"
+      "ai-bots",
+      "content-scraping",
+      "publisher-challenges"
     ],
     "confidence": 0.7,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "strategic_theme": "DATA_STRATEGY",
     "regions": [
-      "APAC"
+      "GLOBAL"
     ],
     "business_impact": "MEDIUM",
     "sentiment": "THREAT",
     "key_entities": [
-      "Flipkart",
-      "Amazon",
-      "Walmart"
+      "AI bots",
+      "publishers",
+      "third-party scrapers"
     ],
-    "one_line_insight_ko": "인도 커머스 시장에서 대형 플랫폼의 자본력 기반 확장이 소규모 업체들의 생존을 위협하고 있어 차별화 전략이 필수입니다.",
-    "one_line_insight_en": "Capital-backed expansion by major platforms in India's commerce market threatens smaller players, making differentiation strategies essential.",
+    "one_line_insight_ko": "AI 봇의 콘텐츠 수집 급증으로 브랜드들의 지적재산권 보호 전략이 더욱 중요해지고 있다.",
+    "one_line_insight_en": "The surge in AI bot content harvesting makes intellectual property protection strategies more critical for brands.",
     "ai_processed": true
   },
   {
-    "title": "ChatGPT for marketing teams",
-    "link": "https://openai.com/academy/marketing",
-    "date_published": "2026-04-10",
-    "description": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
-    "source_id": "openai_blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
+    "title": "Media Buying Briefing: What buyers got out of the NewFronts and expect to happen in the upfronts",
+    "link": "https://digiday.com/media-buying/media-buying-briefing-what-buyers-got-out-of-the-newfronts-and-expect-to-happen-in-the-upfronts/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-04-13",
+    "description": "As the Newfronts try to show off better tools, content and measurement, the broader upfront market is trying to stay the course in the face of economic uncertainty.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
     "categories": [
-      "ai_marketing",
       "marketing"
-    ],
-    "relevance_score": 0.9,
-    "relevance_label": "high",
-    "summary_ko": "OpenAI가 마케팅 팀을 위한 ChatGPT 활용 가이드를 발표했습니다. 캠페인 기획, 콘텐츠 생성, 성과 분석 등 마케팅 업무 전반에서 ChatGPT를 활용하는 방법을 제시했습니다. 아이디어에서 실행까지의 과정을 더욱 빠르게 진행할 수 있도록 지원합니다.",
-    "summary_en": "OpenAI has released a guide for marketing teams on using ChatGPT effectively. The guide covers campaign planning, content generation, performance analysis, and other comprehensive marketing tasks. It supports faster progression from ideas to execution in marketing workflows.",
-    "so_what_ko": "LG 마케팅 팀은 ChatGPT를 활용한 콘텐츠 제작 및 캠페인 기획 프로세스 도입을 통해 마케팅 효율성과 창의성을 동시에 높일 수 있습니다.",
-    "so_what_en": "LG marketing teams can enhance both efficiency and creativity by implementing ChatGPT-powered content creation and campaign planning processes.",
-    "key_points": [
-      "OpenAI provides comprehensive marketing guide for ChatGPT",
-      "Covers campaign planning and content generation workflows",
-      "Enables faster idea-to-execution marketing processes",
-      "Includes performance analysis capabilities"
-    ],
-    "tags": [
-      "chatgpt-marketing",
-      "content-generation",
-      "campaign-planning",
-      "marketing-automation"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "OpenAI",
-      "ChatGPT"
-    ],
-    "one_line_insight_ko": "마케팅 팀의 ChatGPT 활용이 체계화되면서 AI 기반 마케팅 워크플로우의 표준화가 가속화되고 있습니다.",
-    "one_line_insight_en": "The systematization of ChatGPT usage for marketing teams is accelerating the standardization of AI-powered marketing workflows.",
-    "ai_processed": true
-  },
-  {
-    "title": "Why Pfizer and other blue-chip brands are building internal AI search hubs to reclaim control",
-    "link": "https://digiday.com/marketing/why-pfizer-and-other-blue-chip-brands-are-building-internal-ai-search-hubs-to-reclaim-control/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-04-10",
-    "description": "As AI upends traditional rankings, big spenders like Pfizer and other blue-chip brands are building internal task forces.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
-    "categories": [
-      "ai_marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.8,
-    "relevance_label": "high",
-    "summary_ko": "화이자를 비롯한 대형 브랜드들이 AI 검색 환경 변화에 대응하기 위해 내부 AI 검색 허브를 구축하고 있습니다. 전통적인 검색 랭킹 시스템이 AI로 인해 변화하면서 브랜드들이 통제권을 되찾기 위한 전담 조직을 운영하고 있습니다. 이는 AI 시대에 브랜드 가시성을 확보하기 위한 선제적 대응으로 평가됩니다.",
-    "summary_en": "Major brands like Pfizer are building internal AI search hubs to respond to AI-driven changes in search environments. As traditional search ranking systems evolve due to AI, brands are operating dedicated task forces to reclaim control. This represents a proactive response to secure brand visibility in the AI era.",
-    "so_what_ko": "LG도 AI 검색 환경 변화에 대비해 내부 AI 검색 최적화 전담팀을 구성하고 브랜드 가시성 확보 전략을 수립해야 합니다.",
-    "so_what_en": "LG should establish an internal AI search optimization team and develop brand visibility strategies to prepare for AI-driven search environment changes.",
-    "key_points": [
-      "Blue-chip brands building internal AI search task forces",
-      "AI disrupting traditional search ranking systems",
-      "Brands seeking to reclaim control over visibility",
-      "Proactive approach to AI-era marketing challenges"
-    ],
-    "tags": [
-      "ai-search",
-      "brand-visibility",
-      "search-optimization",
-      "internal-teams"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Pfizer"
-    ],
-    "one_line_insight_ko": "AI 검색 환경 변화에 대응하기 위한 기업들의 내부 전담팀 구축이 새로운 마케팅 필수 역량으로 부상하고 있습니다.",
-    "one_line_insight_en": "Building internal specialized teams to respond to AI search environment changes is emerging as a new essential marketing capability for enterprises.",
-    "ai_processed": true
-  },
-  {
-    "title": "OpenAI has quietly launched its ads manager as it races to build out its ads business",
-    "link": "https://digiday.com/marketing/openai-has-quietly-launched-its-ads-manager-as-it-races-to-build-out-its-ads-business/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-04-10",
-    "description": "The AI platform quietly launched its ads manager within its ChatGPT ads pilot advertisers last week, and also lowered the barrier to joining the test.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
-    "categories": [
-      "ai_marketing",
-      "tech"
-    ],
-    "relevance_score": 0.9,
-    "relevance_label": "high",
-    "summary_ko": "OpenAI가 ChatGPT 광고 파일럿 참여 광고주들을 대상으로 광고 관리자 플랫폼을 조용히 출시했습니다. 광고 사업 구축을 위한 경쟁에서 테스트 참여 장벽도 낮춰 더 많은 광고주들의 참여를 유도하고 있습니다. 이는 OpenAI의 수익화 전략 다각화의 핵심 요소로 평가됩니다.",
-    "summary_en": "OpenAI has quietly launched its ads manager platform for ChatGPT ads pilot participants. The company is lowering barriers to test participation to attract more advertisers as it races to build out its advertising business. This represents a key element of OpenAI's revenue diversification strategy.",
-    "so_what_ko": "ChatGPT의 광고 플랫폼 정식 출시에 대비해 LG는 AI 대화형 광고 전략과 창의적 광고 포맷 개발을 준비해야 합니다.",
-    "so_what_en": "LG should prepare AI conversational advertising strategies and creative ad format development in anticipation of ChatGPT's official advertising platform launch.",
-    "key_points": [
-      "OpenAI launches ads manager for ChatGPT pilot advertisers",
-      "Lowered barriers to test participation",
-      "Part of broader advertising business development",
-      "Revenue diversification strategy for OpenAI"
-    ],
-    "tags": [
-      "chatgpt-ads",
-      "ads-manager",
-      "ai-advertising",
-      "openai-monetization"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "OpenAI",
-      "ChatGPT"
-    ],
-    "one_line_insight_ko": "OpenAI의 광고 사업 진출은 AI 플랫폼을 통한 새로운 광고 채널의 등장을 의미하며 마케터들에게 혁신적 기회를 제공합니다.",
-    "one_line_insight_en": "OpenAI's entry into advertising represents the emergence of new AI platform-based ad channels, offering innovative opportunities for marketers.",
-    "ai_processed": true
-  },
-  {
-    "title": "Using projects in ChatGPT",
-    "link": "https://openai.com/academy/projects",
-    "date_published": "2026-04-10",
-    "description": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
-    "source_id": "openai_blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
-    "categories": [
-      "tech"
     ],
     "relevance_score": 0.4,
     "relevance_label": "high",
-    "summary_ko": "OpenAI가 ChatGPT의 프로젝트 기능 사용법에 대한 가이드를 발표했습니다. 채팅, 파일, 지시사항을 체계적으로 조직화하고 지속적인 작업을 관리할 수 있는 방법을 제시했습니다. 더 효과적인 협업을 위한 프로젝트 관리 기능의 활용법을 안내합니다.",
-    "summary_en": "OpenAI has released a guide on using ChatGPT's project features effectively. It provides methods to systematically organize chats, files, and instructions while managing ongoing work. The guide offers instruction on using project management features for more effective collaboration.",
-    "so_what_ko": "LG 팀들은 ChatGPT 프로젝트 기능을 활용해 D2C 관련 업무 프로세스를 체계화하고 팀 간 협업 효율성을 높일 수 있습니다.",
-    "so_what_en": "LG teams can systematize D2C-related work processes and enhance inter-team collaboration efficiency by utilizing ChatGPT's project features.",
+    "summary_ko": "뉴프론츠에서 미디어 바이어들이 얻은 인사이트와 업프론트에서의 기대사항을 다룬다. 뉴프론츠는 더 나은 도구, 콘텐츠, 측정 방법을 선보이려 노력하고 있다. 경제적 불확실성 속에서도 전반적인 업프론트 시장은 기존 방향을 유지하려 하고 있다.",
+    "summary_en": "The article covers what media buyers gained from the NewFronts and their expectations for the upcoming upfronts. NewFronts are attempting to showcase better tools, content, and measurement capabilities. The broader upfront market is trying to maintain course despite economic uncertainty.",
+    "so_what_ko": "D2C 브랜드는 뉴프론츠에서 선보인 새로운 측정 도구와 콘텐츠 기술을 활용하여 더 효과적인 미디어 투자 전략을 수립할 수 있다.",
+    "so_what_en": "D2C brands can leverage new measurement tools and content technologies showcased at NewFronts to develop more effective media investment strategies.",
     "key_points": [
-      "OpenAI provides guide for ChatGPT project organization",
-      "Covers chat, file, and instruction management",
-      "Enables better ongoing work management",
-      "Supports improved team collaboration workflows"
+      "NewFronts showcasing improved tools and measurement",
+      "Economic uncertainty affecting upfront market decisions",
+      "Media buyers seeking better content and analytics solutions"
     ],
     "tags": [
-      "chatgpt-projects",
-      "workflow-management",
-      "team-collaboration",
-      "productivity"
+      "newfronts",
+      "upfronts",
+      "media-buying"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "NewFronts",
+      "upfronts",
+      "media buyers"
+    ],
+    "one_line_insight_ko": "경제 불확실성 속에서도 미디어 측정과 콘텐츠 기술의 발전이 계속되고 있어 브랜드에게 새로운 기회를 제공한다.",
+    "one_line_insight_en": "Despite economic uncertainty, advances in media measurement and content technology continue to provide new opportunities for brands.",
+    "ai_processed": true
+  },
+  {
+    "title": "‘Ask Maps’ Elevates Local Merchants",
+    "link": "https://www.practicalecommerce.com/ask-maps-elevates-local-merchants",
+    "date_published": "2026-04-12",
+    "description": "Google Maps latest AI-driven feature is an opportunity for local businesses to elevate visibility.\nThe post ‘Ask Maps’ Elevates Local Merchants appeared first on Practical Ecommerce.",
+    "source_id": "practical_ecommerce",
+    "source_name": "Practical Ecommerce",
+    "source_url": "https://www.practicalecommerce.com/feed",
+    "categories": [
+      "tech",
+      "commerce"
+    ],
+    "relevance_score": 0.8,
+    "relevance_label": "high",
+    "summary_ko": "구글 맵스의 최신 AI 기반 기능인 'Ask Maps'가 지역 비즈니스의 가시성 향상 기회를 제공한다. 이 새로운 기능은 지역 상인들이 더 잘 노출될 수 있도록 도와준다. AI 기술을 활용한 지역 검색 경험의 혁신이 이루어지고 있다.",
+    "summary_en": "Google Maps' latest AI-driven feature 'Ask Maps' provides an opportunity for local businesses to enhance their visibility. This new functionality helps local merchants achieve better exposure in search results. AI technology is revolutionizing the local search experience for businesses.",
+    "so_what_ko": "D2C 브랜드는 'Ask Maps' 기능을 활용하여 지역 기반 고객 발견성을 높이고, AI 기반 지역 검색 최적화 전략을 수립해야 한다.",
+    "so_what_en": "D2C brands should leverage 'Ask Maps' to increase local customer discoverability and develop AI-powered local search optimization strategies.",
+    "key_points": [
+      "Google Maps introducing AI-driven 'Ask Maps' feature",
+      "Enhanced visibility opportunities for local businesses",
+      "AI technology improving local search experiences"
+    ],
+    "tags": [
+      "google-maps",
+      "local-search",
+      "ai-features"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "AI_COMMERCE",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Google Maps",
+      "Ask Maps",
+      "local businesses"
+    ],
+    "one_line_insight_ko": "구글 맵스의 AI 기능이 지역 비즈니스 발견성을 혁신하며 D2C 브랜드에게 새로운 고객 접점을 제공한다.",
+    "one_line_insight_en": "Google Maps' AI features revolutionize local business discoverability, offering D2C brands new customer touchpoints.",
+    "ai_processed": true
+  },
+  {
+    "title": "Modern Retail Podcast: Has the latest sneaker bubble officially burst?",
+    "link": "https://www.modernretail.co/podcasts/modern-retail-podcast-has-the-latest-sneaker-bubble-officially-burst/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-04-11",
+    "description": "Allbirds' downward trajectory is indicative of how fierce the sneaker competition has become, as newer and legacy players vie for market share. This week's episode of the Modern Retail Podcast digs into the state of the sneaker market, looking at which players are up and which ones are down.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
+    "categories": [
+      "strategy",
+      "commerce"
+    ],
+    "relevance_score": 0.5,
+    "relevance_label": "high",
+    "summary_ko": "최신 스니커즈 버블이 공식적으로 터졌는지에 대한 논의가 이어지고 있다. 올버드의 하락세는 신규 브랜드와 레거시 플레이어들이 시장 점유율을 두고 경쟁하는 치열한 스니커즈 시장 상황을 보여준다. 이번 에피소드는 어떤 플레이어들이 상승세이고 어떤 플레이어들이 하락세인지 분석한다.",
+    "summary_en": "There's ongoing discussion about whether the latest sneaker bubble has officially burst. Allbirds' downward trajectory exemplifies how fierce the sneaker competition has become as newer and legacy players compete for market share. The episode analyzes which players are rising and which are declining in the market.",
+    "so_what_ko": "D2C 스니커즈 브랜드들은 포화된 시장에서 차별화된 가치 제안과 혁신적인 마케팅 전략이 생존에 필수적임을 인식해야 한다.",
+    "so_what_en": "D2C sneaker brands must recognize that differentiated value propositions and innovative marketing strategies are essential for survival in the saturated market.",
+    "key_points": [
+      "Sneaker market experiencing potential bubble burst",
+      "Fierce competition between new and legacy brands",
+      "Allbirds serving as example of market challenges"
+    ],
+    "tags": [
+      "sneaker-market",
+      "brand-competition",
+      "market-saturation"
     ],
     "confidence": 0.7,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "Allbirds",
+      "sneaker market"
+    ],
+    "one_line_insight_ko": "스니커즈 시장의 포화와 경쟁 심화는 D2C 브랜드들에게 명확한 차별화 전략의 중요성을 보여준다.",
+    "one_line_insight_en": "Market saturation and intensified competition in sneakers highlight the importance of clear differentiation strategies for D2C brands.",
+    "ai_processed": true
+  },
+  {
+    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+    "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+    "date_published": "2026-01-22",
+    "description": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure.\nTQ Ventures led the round, with participation from FPV Ventures, Redpoint, and Unusual Ventures. The investment values Railway as one of the most significant infrastructure startups to emerge during the AI boom, capitalizing on developer frustration with the complexity and cost of traditional platforms like Amazon Web Services and Google Cloud.\n\"As AI models get better at writing code, more and more people are asking the age-old question: where, and how, do I run my applications?\" said Jake Cooper, Railway's 28-year-old founder and chief executive, in an exclusive interview with VentureBeat. \"The last generation of cloud primitives were slow and outdated, and now wit",
+    "source_id": "venturebeat_ai",
+    "source_name": "VentureBeat AI",
+    "source_url": "https://venturebeat.com/category/ai/feed/",
+    "categories": [
+      "tech",
+      "commerce"
+    ],
+    "relevance_score": 0.6,
+    "relevance_label": "high",
+    "summary_ko": "Railway가 AI 네이티브 클라우드 인프라로 AWS에 도전하며 시리즈 B에서 1억 달러를 조달했습니다. 마케팅 비용 없이 200만 개발자를 확보한 이 회사는 기존 클라우드 플랫폼의 복잡성과 비용 문제를 해결하고자 합니다. AI 애플리케이션 수요 급증으로 차세대 클라우드 인프라의 필요성이 대두되고 있습니다.",
+    "summary_en": "Railway raised $100 million in Series B funding to challenge AWS with AI-native cloud infrastructure. The company has attracted 2 million developers without spending on marketing, addressing complexity and cost issues of traditional cloud platforms. Surging demand for AI applications is exposing limitations of legacy cloud infrastructure.",
+    "so_what_ko": "D2C 기업들이 AI 기반 애플리케이션을 구축할 때 Railway 같은 차세대 클라우드 플랫폼을 고려해 개발 비용과 복잡성을 줄일 수 있습니다.",
+    "so_what_en": "D2C companies should consider next-generation cloud platforms like Railway when building AI-powered applications to reduce development costs and complexity.",
+    "key_points": [
+      "Railway raised $100M Series B without spending on marketing, attracting 2M developers",
+      "Targets limitations of legacy cloud infrastructure like AWS and Google Cloud",
+      "Focuses on AI-native cloud solutions for modern application development",
+      "Led by TQ Ventures with participation from major VCs"
+    ],
+    "tags": [
+      "cloud-infrastructure",
+      "ai-native",
+      "developer-platform",
+      "aws-competitor",
+      "venture-funding"
+    ],
+    "confidence": 0.8,
     "strategic_theme": "EMERGING_TECH",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Railway",
+      "AWS",
+      "Google Cloud",
+      "TQ Ventures",
+      "Jake Cooper"
+    ],
+    "one_line_insight_ko": "AI 네이티브 클라우드 인프라가 기존 플랫폼의 한계를 극복하며 D2C 기업의 AI 애플리케이션 개발을 단순화할 수 있습니다.",
+    "one_line_insight_en": "AI-native cloud infrastructure can simplify AI application development for D2C companies by overcoming legacy platform limitations.",
+    "ai_processed": true
+  },
+  {
+    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+    "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+    "date_published": "2026-01-16",
+    "description": "Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a billboard in San Francisco displaying what looked like gibberish: five strings of random numbers.\nThe numbers were actually AI tokens. Decoded, they led to a coding challenge: build an algorithm to act as a digital bouncer at Berghain, the Berlin nightclub famous for rejecting nearly everyone at the door. Within days, thousands attempted the puzzle. 430 cracked it. Some got hired. The winner flew to Berlin, all expenses paid.\nThat unconventional approach has now attracted $69 million in Series B funding, led by Ribbit Capital with participation from Evantic and existing investors Sequoia Capital, Conviction, and Pear VC. The round values Listen Labs at $500 million and brings its total capital to $100 million. In nine months since launch, the co",
+    "source_id": "venturebeat_ai",
+    "source_name": "VentureBeat AI",
+    "source_url": "https://venturebeat.com/category/ai/feed/",
+    "categories": [
+      "ai_marketing",
+      "tech"
+    ],
+    "relevance_score": 0.8,
+    "relevance_label": "high",
+    "summary_ko": "Listen Labs가 AI 고객 인터뷰 확대를 위해 6천9백만 달러를 조달했습니다. 회사는 바이럴 빌보드 채용 캠페인으로 주목받으며 AI 토큰을 활용한 창의적 마케팅을 선보였습니다. 출시 9개월 만에 5억 달러 가치로 평가받으며 총 1억 달러 자본을 확보했습니다.",
+    "summary_en": "Listen Labs raised $69 million in Series B funding to scale AI customer interviews. The company gained attention through a viral billboard hiring campaign using AI tokens for creative marketing. Nine months post-launch, it achieved a $500 million valuation with $100 million total capital.",
+    "so_what_ko": "AI 고객 인터뷰 기술과 창의적 마케팅 방식은 D2C 기업이 고객 인사이트 수집과 브랜드 인지도 제고를 동시에 달성할 수 있는 새로운 방법을 제시합니다.",
+    "so_what_en": "AI customer interview technology and creative marketing approaches offer D2C companies new ways to simultaneously gather customer insights and boost brand awareness.",
+    "key_points": [
+      "Raised $69M Series B led by Ribbit Capital, valuing company at $500M",
+      "Viral marketing campaign using AI tokens for engineer recruitment",
+      "Focuses on scaling AI-powered customer interview technology",
+      "Achieved rapid growth in 9 months since launch"
+    ],
+    "tags": [
+      "ai-interviews",
+      "customer-insights",
+      "viral-marketing",
+      "ai-tokens",
+      "startup-funding"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Listen Labs",
+      "Alfred Wahlforss",
+      "Ribbit Capital",
+      "Sequoia Capital",
+      "Berghain"
+    ],
+    "one_line_insight_ko": "AI 고객 인터뷰와 창의적 마케팅의 결합이 D2C 기업의 고객 이해와 브랜드 구축에 혁신적 접근법을 제공합니다.",
+    "one_line_insight_en": "The combination of AI customer interviews and creative marketing provides an innovative approach for D2C companies to understand customers and build brands.",
+    "ai_processed": true
+  },
+  {
+    "title": "‘I’m playing the long game’: Journalists are striking out alone and discovering the business is toughest beat of all",
+    "link": "https://digiday.com/media/im-playing-the-long-game-journalists-are-striking-out-alone-and-discovering-the-business-is-toughest-beat-of-all/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-04-13",
+    "description": "News Creators have become preferred sources for younger viewers, but how do they grow and sustain their independent endeavors?",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.4,
+    "relevance_label": "high",
+    "summary_ko": "젊은 시청자들에게 뉴스 크리에이터들이 선호되는 정보원이 되고 있습니다. 독립 언론인들이 개인 사업을 시작하고 있지만 비즈니스 운영이 가장 어려운 과제로 나타났습니다. 개인 미디어 사업의 성장과 지속가능성이 주요 관심사가 되고 있습니다.",
+    "summary_en": "News creators have become preferred sources for younger viewers as they strike out independently. Journalists are discovering that running the business side is the toughest challenge of all. Growing and sustaining independent media endeavors remains a key concern.",
+    "so_what_ko": "D2C 브랜드들은 젊은 소비자 타겟팅을 위해 개인 크리에이터들과의 협업을 강화해야 하며, 이들의 비즈니스 지속가능성을 지원하는 파트너십 모델을 고려해야 합니다.",
+    "so_what_en": "D2C brands should strengthen collaborations with independent creators to target younger consumers and consider partnership models that support their business sustainability.",
+    "key_points": [
+      "Independent news creators becoming preferred sources for younger audiences",
+      "Business operations pose biggest challenge for journalist entrepreneurs",
+      "Growing focus on sustainability of independent media ventures",
+      "Shift in media consumption patterns among younger demographics"
+    ],
+    "tags": [
+      "creator-economy",
+      "independent-media",
+      "younger-audiences",
+      "media-entrepreneurship",
+      "content-creators"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "LOW",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "OpenAI",
-      "ChatGPT"
+      "원문에서 확인되지 않음"
     ],
-    "one_line_insight_ko": "AI 도구의 프로젝트 관리 기능 강화는 기업 워크플로우의 체계적 관리와 협업 효율성 향상을 가능하게 합니다.",
-    "one_line_insight_en": "Enhanced project management features in AI tools enable systematic workflow management and improved collaboration efficiency in enterprises.",
+    "one_line_insight_ko": "젊은 소비자들의 개인 크리에이터 선호 트렌드는 D2C 브랜드의 마케팅 전략 재편을 요구합니다.",
+    "one_line_insight_en": "The trend of younger consumers preferring independent creators demands a strategic shift in D2C brand marketing approaches.",
     "ai_processed": true
   },
   {
-    "title": "Our response to the Axios developer tool compromise",
-    "link": "https://openai.com/index/axios-developer-tool-compromise",
-    "date_published": "2026-04-10",
-    "description": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
-    "source_id": "openai_blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
+    "title": "Kohl’s is stepping up its creator efforts as it attempts a sales reset",
+    "link": "https://www.modernretail.co/marketing/kohls-is-stepping-up-its-creator-efforts-as-it-attempts-a-sales-reset/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-04-13",
+    "description": "Kohl's is funneling more resources into its creator program, including through a new affiliate model, as it looks to boost revenue and raise awareness.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
     "categories": [
-      "tech"
+      "commerce",
+      "marketing"
     ],
-    "relevance_score": 0.3,
+    "relevance_score": 0.7,
     "relevance_label": "high",
-    "summary_ko": "OpenAI가 Axios 공급망 공격에 대응해 macOS 코드 서명 인증서를 교체하고 앱을 업데이트했습니다. 회사는 사용자 데이터가 손상되지 않았음을 확인했습니다. 이번 사건은 AI 플랫폼의 보안 취약성을 보여주는 사례입니다.",
-    "summary_en": "OpenAI responded to the Axios supply chain attack by rotating macOS code signing certificates and updating applications. The company confirmed that no user data was compromised during the incident. This event highlights security vulnerabilities in AI platforms.",
-    "so_what_ko": "AI 플랫폼 보안 강화가 D2C 비즈니스의 신뢰성 확보에 필수적임을 시사합니다.",
-    "so_what_en": "Demonstrates the critical need for robust AI platform security to maintain D2C business trust and reliability.",
+    "summary_ko": "Kohl's가 매출 회복을 위해 크리에이터 프로그램에 더 많은 자원을 투입하고 있습니다. 새로운 어필리에이트 모델을 포함하여 매출 증대와 인지도 제고를 목표로 하고 있습니다. 크리에이터 마케팅이 기존 리테일러의 핵심 전략으로 부상하고 있습니다.",
+    "summary_en": "Kohl's is investing more resources into its creator program as it attempts a sales reset. The retailer is implementing a new affiliate model to boost revenue and raise brand awareness. Creator marketing is emerging as a core strategy for traditional retailers.",
+    "so_what_ko": "기존 리테일러들이 크리에이터 프로그램을 강화하는 추세는 D2C 브랜드들이 차별화된 크리에이터 파트너십 전략을 개발해야 할 필요성을 시사합니다.",
+    "so_what_en": "Traditional retailers strengthening creator programs indicates D2C brands need to develop differentiated creator partnership strategies to maintain competitive advantage.",
     "key_points": [
-      "Supply chain security vulnerabilities in AI platforms",
-      "Proactive incident response and transparency",
-      "User data protection measures"
+      "Kohl's increasing investment in creator programs for sales recovery",
+      "Introduction of new affiliate model for revenue boost",
+      "Focus on raising brand awareness through creator partnerships",
+      "Traditional retail embracing creator marketing strategies"
     ],
     "tags": [
-      "security",
-      "ai-platform",
-      "supply-chain"
+      "creator-programs",
+      "affiliate-marketing",
+      "retail-strategy",
+      "brand-awareness",
+      "sales-recovery"
     ],
     "confidence": 0.7,
-    "strategic_theme": "EMERGING_TECH",
+    "strategic_theme": "AI_MARKETING",
     "regions": [
-      "GLOBAL"
+      "AMER"
     ],
     "business_impact": "MEDIUM",
     "sentiment": "THREAT",
     "key_entities": [
-      "OpenAI",
-      "Axios",
-      "macOS"
+      "Kohl's"
     ],
-    "one_line_insight_ko": "AI 플랫폼 공급망 보안이 D2C 비즈니스 연속성의 핵심 요소로 부상하고 있습니다.",
-    "one_line_insight_en": "AI platform supply chain security is emerging as a critical factor for D2C business continuity.",
+    "one_line_insight_ko": "전통 리테일러의 크리에이터 마케팅 강화는 D2C 브랜드들의 경쟁 우위를 위협하고 있습니다.",
+    "one_line_insight_en": "Traditional retailers' strengthened creator marketing efforts are threatening the competitive advantage of D2C brands.",
     "ai_processed": true
   },
   {
-    "title": "Using custom GPTs",
-    "link": "https://openai.com/academy/custom-gpts",
-    "date_published": "2026-04-10",
-    "description": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
-    "source_id": "openai_blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
+    "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
+    "link": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+    "date_published": "2026-04-12",
+    "description": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
     "categories": [
-      "marketing",
-      "tech"
+      "tech",
+      "strategy"
     ],
-    "relevance_score": 0.8,
+    "relevance_score": 0.5,
     "relevance_label": "high",
-    "summary_ko": "OpenAI가 워크플로우 자동화와 일관된 결과물 생성을 위한 커스텀 GPT 구축 방법을 제시했습니다. 이를 통해 특정 목적에 맞는 AI 어시스턴트를 만들 수 있습니다. 비즈니스 효율성 향상을 위한 실용적 가이드를 제공합니다.",
-    "summary_en": "OpenAI introduced methods for building custom GPTs to automate workflows and maintain consistent outputs. This enables creation of purpose-built AI assistants for specific business needs. The guide provides practical approaches for improving business efficiency.",
-    "so_what_ko": "D2C 기업들이 고객 서비스, 마케팅 콘텐츠 생성 등 특화된 AI 도구를 구축해 운영 효율성을 크게 향상시킬 수 있습니다.",
-    "so_what_en": "D2C companies can build specialized AI tools for customer service and marketing content creation to significantly improve operational efficiency.",
+    "summary_ko": "트럼프 행정부 관계자들이 은행들에게 Anthropic의 Mythos 모델 테스트를 권장할 가능성이 제기되었습니다. 국방부가 최근 Anthropic을 공급망 위험 요소로 지정했다는 점에서 이는 특히 놀라운 보고입니다. AI 모델의 금융 분야 적용과 관련된 정책적 복잡성이 드러나고 있습니다.",
+    "summary_en": "Trump administration officials may be encouraging banks to test Anthropic's Mythos model. This report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk. Policy complexities around AI model adoption in financial services are emerging.",
+    "so_what_ko": "AI 모델 도입에 대한 정부 정책의 불확실성은 D2C 기업들이 AI 기술 채택 시 규제 리스크를 신중히 평가해야 함을 시사합니다.",
+    "so_what_en": "Government policy uncertainty around AI model adoption suggests D2C companies must carefully assess regulatory risks when implementing AI technologies.",
     "key_points": [
-      "Custom GPT development for specific business functions",
-      "Workflow automation capabilities",
-      "Consistent output generation for brand consistency"
+      "Trump officials potentially encouraging bank testing of Anthropic's Mythos",
+      "Contradicts DOD's recent classification of Anthropic as supply-chain risk",
+      "Highlights policy inconsistencies in AI adoption across government agencies",
+      "Raises questions about AI regulation in financial services"
     ],
     "tags": [
-      "custom-gpt",
-      "workflow-automation",
-      "ai-assistant"
+      "anthropic",
+      "ai-regulation",
+      "financial-services",
+      "government-policy",
+      "supply-chain-risk"
     ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_AGENT",
+    "confidence": 0.6,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
     "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "OpenAI",
-      "GPT",
-      "ChatGPT"
-    ],
-    "one_line_insight_ko": "커스텀 GPT는 D2C 브랜드가 개인화된 고객 경험을 확장 가능하게 구현할 수 있는 핵심 도구입니다.",
-    "one_line_insight_en": "Custom GPTs are key tools enabling D2C brands to implement personalized customer experiences at scale.",
-    "ai_processed": true
-  },
-  {
-    "title": "Analyzing data with ChatGPT",
-    "link": "https://openai.com/academy/data-analysis",
-    "date_published": "2026-04-10",
-    "description": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
-    "source_id": "openai_blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
-    "categories": [
-      "marketing",
-      "tech"
-    ],
-    "relevance_score": 0.7,
-    "relevance_label": "high",
-    "summary_ko": "ChatGPT를 활용한 데이터 분석 방법론이 공개되어 데이터셋 탐색부터 시각화, 실행 가능한 인사이트 도출까지 포괄합니다. 비즈니스 의사결정을 위한 AI 기반 분석 도구로 활용 가능합니다. 데이터 분석의 접근성을 크게 향상시키는 솔루션을 제시합니다.",
-    "summary_en": "A comprehensive methodology for data analysis using ChatGPT covers dataset exploration, visualization, and actionable insight generation. It serves as an AI-powered analytical tool for business decision-making. This solution significantly improves accessibility to data analysis.",
-    "so_what_ko": "D2C 기업들이 복잡한 고객 데이터를 쉽게 분석하고 마케팅 전략 수립에 활용할 수 있는 민주화된 분석 도구를 확보할 수 있습니다.",
-    "so_what_en": "D2C companies can access democratized analytical tools to easily analyze complex customer data and develop marketing strategies.",
-    "key_points": [
-      "AI-powered data exploration and analysis",
-      "Automated visualization generation",
-      "Actionable business insights from data"
-    ],
-    "tags": [
-      "data-analysis",
-      "chatgpt",
-      "business-intelligence"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "DATA_STRATEGY",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "ChatGPT",
-      "OpenAI"
-    ],
-    "one_line_insight_ko": "AI 기반 데이터 분석의 민주화로 D2C 브랜드의 데이터 드리븐 의사결정이 가속화될 것입니다.",
-    "one_line_insight_en": "Democratization of AI-powered data analysis will accelerate data-driven decision making for D2C brands.",
-    "ai_processed": true
-  },
-  {
-    "title": "Anthropic’s Glasswing Highlights AI’s Security Paradox",
-    "link": "https://aibusiness.com/generative-ai/anthropic-s-glasswing-highlights-ai-s-security-paradox",
-    "date_published": "2026-04-10",
-    "description": "A new initiative arrives amid growing concerns about AI’s ability to identify vulnerabilities, pointing to a broader shift toward AI-driven security.",
-    "source_id": "ai_business",
-    "source_name": "AI Business",
-    "source_url": "https://aibusiness.com/rss.xml",
-    "categories": [
-      "tech"
-    ],
-    "relevance_score": 0.4,
-    "relevance_label": "high",
-    "summary_ko": "Anthropic의 Glasswing 이니셔티브가 AI의 보안 패러독스를 부각시키며 취약점 식별 능력에 대한 우려를 제기했습니다. AI 기반 보안으로의 광범위한 전환을 시사합니다. 보안 분야에서 AI의 양면성이 주요 이슈로 떠오르고 있습니다.",
-    "summary_en": "Anthropic's Glasswing initiative highlights AI's security paradox, raising concerns about AI's vulnerability identification capabilities. This signals a broader shift toward AI-driven security solutions. The dual nature of AI in security is emerging as a major issue.",
-    "so_what_ko": "D2C 플랫폼 보안에서 AI를 활용할 때 방어와 공격 양면의 리스크를 동시에 고려한 전략이 필요합니다.",
-    "so_what_en": "D2C platforms need strategies that consider both defensive and offensive risks when implementing AI for security.",
-    "key_points": [
-      "AI's dual role in cybersecurity - both protector and potential threat",
-      "Growing shift toward AI-driven security solutions",
-      "Need for balanced approach to AI security implementation"
-    ],
-    "tags": [
-      "ai-security",
-      "cybersecurity",
-      "vulnerability"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "EMERGING_TECH",
-    "regions": [
-      "GLOBAL"
+      "AMER"
     ],
     "business_impact": "MEDIUM",
     "sentiment": "THREAT",
     "key_entities": [
       "Anthropic",
-      "Glasswing"
+      "Mythos",
+      "Department of Defense",
+      "Trump administration"
     ],
-    "one_line_insight_ko": "AI 보안 패러독스는 D2C 기업들이 AI 도입 시 보안 전략을 근본적으로 재검토해야 함을 의미합니다.",
-    "one_line_insight_en": "The AI security paradox means D2C companies must fundamentally reconsider security strategies when adopting AI.",
+    "one_line_insight_ko": "AI 기술에 대한 정부 정책의 일관성 부족은 기업의 AI 도입 전략에 불확실성을 가중시키고 있습니다.",
+    "one_line_insight_en": "Inconsistent government policies on AI technology are adding uncertainty to corporate AI adoption strategies.",
     "ai_processed": true
   },
   {
-    "title": "Intel Secures New AI Infrastructure Deal With Google",
-    "link": "https://aibusiness.com/generative-ai/intel-secures-new-ai-infrastructure-deal-google",
-    "date_published": "2026-04-10",
-    "description": "The agreement is one of many AI infrastructure deals among major tech vendors over the last few months.",
-    "source_id": "ai_business",
-    "source_name": "AI Business",
-    "source_url": "https://aibusiness.com/rss.xml",
+    "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
+    "link": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "date_published": "2026-04-12",
+    "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
     "categories": [
       "tech"
-    ],
-    "relevance_score": 0.3,
-    "relevance_label": "high",
-    "summary_ko": "인텔이 구글과 새로운 AI 인프라 계약을 체결했습니다. 최근 몇 달간 주요 기술 업체들 간 AI 인프라 거래가 활발해지고 있는 추세입니다. 클라우드 및 AI 컴퓨팅 시장의 경쟁이 심화되고 있음을 보여줍니다.",
-    "summary_en": "Intel secured a new AI infrastructure deal with Google. This represents one of many AI infrastructure agreements among major tech vendors in recent months. The deal demonstrates intensifying competition in cloud and AI computing markets.",
-    "so_what_ko": "AI 인프라 시장의 경쟁 심화로 D2C 기업들이 더 다양하고 경쟁력 있는 AI 서비스 옵션을 확보할 수 있게 될 것입니다.",
-    "so_what_en": "Intensifying AI infrastructure competition will provide D2C companies with more diverse and competitive AI service options.",
-    "key_points": [
-      "Strategic partnerships in AI infrastructure market",
-      "Increasing competition among tech giants",
-      "Expansion of AI computing capabilities"
-    ],
-    "tags": [
-      "ai-infrastructure",
-      "cloud-computing",
-      "strategic-partnership"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "PLATFORM_ECOSYSTEM",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Intel",
-      "Google"
-    ],
-    "one_line_insight_ko": "AI 인프라 시장의 파트너십 확대는 D2C 기업들의 AI 도입 비용 절감과 접근성 향상을 가져올 것입니다.",
-    "one_line_insight_en": "Expanding AI infrastructure partnerships will reduce AI adoption costs and improve accessibility for D2C companies.",
-    "ai_processed": true
-  },
-  {
-    "title": "South Korean Chipmaker Partners with SKT, Arm for Sovereign AI",
-    "link": "https://aibusiness.com/generative-ai/south-korean-chipmaker-partners-skt-arm-sovereign-ai",
-    "date_published": "2026-04-10",
-    "description": "Rebellions said it will work with the companies to boost AI and telecom data centers, as it pushes its market expansion.",
-    "source_id": "ai_business",
-    "source_name": "AI Business",
-    "source_url": "https://aibusiness.com/rss.xml",
-    "categories": [
-      "tech",
-      "strategy"
     ],
     "relevance_score": 0.6,
     "relevance_label": "high",
-    "summary_ko": "한국 칩메이커 리벨리온이 SKT, Arm과 파트너십을 체결하여 주권 AI 개발에 나섰습니다. 이들은 AI 및 통신 데이터센터 강화를 통해 시장 확장을 추진하고 있습니다. 한국 반도체 업계의 AI 인프라 구축 가속화가 예상됩니다.",
-    "summary_en": "South Korean chipmaker Rebellions partnered with SKT and Arm to develop sovereign AI capabilities. The collaboration aims to boost AI and telecom data centers while pushing market expansion. This partnership signals acceleration in Korea's AI infrastructure development.",
-    "so_what_ko": "한국의 AI 칩셋 기술 발전은 LG의 글로벌 D2C 사업에서 현지 AI 인프라 활용 기회를 제공할 것입니다.",
-    "so_what_en": "Korea's advancing AI chipset technology could provide opportunities for LG's global D2C business to leverage local AI infrastructure capabilities.",
+    "summary_ko": "AI의 확산으로 새로운 용어와 전문 슬랭이 급증하고 있어 이해가 필요한 상황입니다. TechCrunch AI에서 LLM부터 할루시네이션까지 주요 AI 용어들에 대한 간단한 가이드를 제공했습니다. 이는 AI 기술을 비즈니스에 도입하려는 기업들에게 기본적인 이해 도구를 제공합니다.",
+    "summary_en": "The rise of AI has created an avalanche of new terminology and slang that requires understanding. TechCrunch AI has provided a simple glossary covering key AI terms from LLMs to hallucinations. This serves as a foundational understanding tool for businesses looking to implement AI technologies.",
+    "so_what_ko": "D2C 조직이 AI 기술을 도입할 때 팀 간 원활한 소통을 위해 공통된 AI 용어 이해가 필수적입니다.",
+    "so_what_en": "D2C organizations need shared AI terminology understanding for smooth team communication when implementing AI technologies.",
     "key_points": [
-      "Rebellions partners with SKT and Arm for sovereign AI development",
-      "Focus on boosting AI and telecom data center capabilities",
-      "Market expansion strategy for Korean chipmaker",
-      "Strengthening Korea's AI infrastructure ecosystem"
+      "AI 확산으로 새로운 전문용어 급증",
+      "LLM부터 할루시네이션까지 주요 용어 가이드 제공",
+      "비즈니스 AI 도입을 위한 기초 지식 필요성"
     ],
     "tags": [
-      "sovereign-ai",
-      "korean-chipmaker",
-      "ai-infrastructure",
-      "partnerships"
+      "ai-terminology",
+      "llm",
+      "business-education"
     ],
     "confidence": 0.7,
     "strategic_theme": "EMERGING_TECH",
-    "regions": [
-      "APAC"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Rebellions",
-      "SKT",
-      "Arm"
-    ],
-    "one_line_insight_ko": "한국의 주권 AI 인프라 강화는 현지 D2C 사업의 AI 활용 기회를 확대할 것입니다.",
-    "one_line_insight_en": "Korea's sovereign AI infrastructure strengthening will expand AI utilization opportunities for local D2C operations.",
-    "ai_processed": true
-  },
-  {
-    "title": "Should You Give Your AI Agent a Human Name?",
-    "link": "https://www.salesforce.com/blog/naming-an-ai-agent/",
-    "date_published": "2026-04-10",
-    "description": "Our guide to the pros and cons of naming agents, and tips for how to do it.",
-    "source_id": "salesforce_agentforce",
-    "source_name": "Salesforce Agentforce Blog",
-    "source_url": "https://www.salesforce.com/blog/category/ai/feed/",
-    "categories": [
-      "commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.9,
-    "relevance_label": "high",
-    "summary_ko": "Salesforce가 AI 에이전트에 인간적인 이름을 부여하는 것의 장단점을 분석했습니다. 에이전트 명명에 대한 가이드라인과 실용적인 팁을 제공하고 있습니다. AI 에이전트의 인간화가 고객 경험에 미치는 영향을 검토했습니다.",
-    "summary_en": "Salesforce analyzed the pros and cons of giving AI agents human names. The guide provides practical tips and guidelines for agent naming strategies. The analysis examines how humanizing AI agents impacts customer experience.",
-    "so_what_ko": "AI 에이전트의 명명 전략은 LG D2C 고객과의 정서적 연결을 강화하고 브랜드 친밀도를 높일 수 있습니다.",
-    "so_what_en": "AI agent naming strategies can strengthen emotional connections with LG D2C customers and increase brand affinity.",
-    "key_points": [
-      "Analysis of pros and cons of naming AI agents",
-      "Practical guidelines for agent naming strategies",
-      "Impact of humanization on customer experience",
-      "Best practices for AI agent personalization"
-    ],
-    "tags": [
-      "ai-agent",
-      "naming-strategy",
-      "customer-experience",
-      "personalization"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Salesforce",
-      "AI Agent"
-    ],
-    "one_line_insight_ko": "AI 에이전트의 인간적 명명은 D2C 브랜드와 고객 간 정서적 유대감을 강화하는 핵심 전략입니다.",
-    "one_line_insight_en": "Human-like naming of AI agents is a key strategy for strengthening emotional bonds between D2C brands and customers.",
-    "ai_processed": true
-  },
-  {
-    "title": "Creating Pathways into AI for People with Disabilities",
-    "link": "https://www.salesforce.com/blog/ai-careers-for-people-with-disabilities/",
-    "date_published": "2026-04-10",
-    "description": "Salesforce launches a new AI training program with the Center for Independent Living to expand access to AI skills and create inclusive pathways into the AI economy for people with disabilities.",
-    "source_id": "salesforce_agentforce",
-    "source_name": "Salesforce Agentforce Blog",
-    "source_url": "https://www.salesforce.com/blog/category/ai/feed/",
-    "categories": [
-      "strategy",
-      "tech"
-    ],
-    "relevance_score": 0.4,
-    "relevance_label": "high",
-    "summary_ko": "Salesforce가 장애인을 위한 AI 교육 프로그램을 독립생활센터와 함께 출범했습니다. 이 프로그램은 AI 경제에 대한 포용적 접근을 확대하는 것을 목표로 합니다. 장애인의 AI 기술 접근성을 높이고 경력 개발 기회를 제공합니다.",
-    "summary_en": "Salesforce launched a new AI training program with the Center for Independent Living for people with disabilities. The program aims to expand inclusive access to AI skills and career opportunities. It focuses on creating pathways into the AI economy for underserved communities.",
-    "so_what_ko": "포용적 AI 접근성은 LG D2C의 다양한 고객층 확보와 브랜드 가치 강화에 기여할 수 있습니다.",
-    "so_what_en": "Inclusive AI accessibility can contribute to LG D2C's diverse customer base expansion and brand value enhancement.",
-    "key_points": [
-      "AI training program for people with disabilities launched",
-      "Partnership with Center for Independent Living",
-      "Focus on inclusive access to AI skills",
-      "Creating pathways into AI economy for underserved communities"
-    ],
-    "tags": [
-      "inclusive-ai",
-      "accessibility",
-      "training-program",
-      "diversity"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Salesforce",
-      "Center for Independent Living"
-    ],
-    "one_line_insight_ko": "포용적 AI 교육은 다양성 확보와 사회적 책임 경영을 통한 브랜드 차별화 기회를 제공합니다.",
-    "one_line_insight_en": "Inclusive AI education provides brand differentiation opportunities through diversity and social responsibility initiatives.",
-    "ai_processed": true
-  },
-  {
-    "title": "The Real AI Race Isn't About Models or Data. It's About Context.",
-    "link": "https://blog.hubspot.com/marketing/the-real-ai-race-isnt-about-models-or-data-its-about-context",
-    "date_published": "2026-04-09",
-    "description": "Every company I talk to right now is convinced they have an AI problem.",
-    "source_id": "hubspot_marketing",
-    "source_name": "HubSpot Marketing Blog",
-    "source_url": "https://blog.hubspot.com/marketing/rss.xml",
-    "categories": [
-      "marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.8,
-    "relevance_label": "high",
-    "summary_ko": "HubSpot이 AI 경쟁의 핵심이 모델이나 데이터가 아닌 맥락(Context)이라고 주장했습니다. 모든 기업이 AI 문제를 안고 있다고 확신하고 있는 상황을 분석했습니다. AI 구현에서 맥락적 이해의 중요성을 강조했습니다.",
-    "summary_en": "HubSpot argues that the real AI race isn't about models or data, but about context. The analysis addresses how every company believes they have an AI problem. It emphasizes the importance of contextual understanding in AI implementation.",
-    "so_what_ko": "맥락 기반 AI 구현은 LG D2C의 개인화된 고객 경험 제공과 마케팅 효과성 극대화에 핵심적입니다.",
-    "so_what_en": "Context-based AI implementation is crucial for LG D2C's personalized customer experience delivery and marketing effectiveness maximization.",
-    "key_points": [
-      "Context identified as key differentiator in AI race",
-      "Companies universally struggling with AI implementation",
-      "Importance of contextual understanding over raw data",
-      "Strategic approach to AI deployment beyond technology"
-    ],
-    "tags": [
-      "ai-context",
-      "implementation-strategy",
-      "competitive-advantage",
-      "marketing-ai"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "HubSpot"
-    ],
-    "one_line_insight_ko": "AI의 진정한 경쟁력은 데이터나 모델이 아닌 고객 맥락을 이해하는 능력에서 나옵니다.",
-    "one_line_insight_en": "True AI competitive advantage comes from the ability to understand customer context, not data or models.",
-    "ai_processed": true
-  },
-  {
-    "title": "Svedka addresses Gen Z’s digital burnout with Y2K-inspired flip phone",
-    "link": "https://www.marketingdive.com/news/svedka-addresses-gen-zs-digital-burnout-with-y2k-inspired-flip-phone/816992/",
-    "date_published": "2026-04-09",
-    "description": "The Svedphone includes only two features — the ability to call and text — and follows the brand’s poorly received AI-generated Super Bowl ad.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
-    "categories": [
-      "marketing"
-    ],
-    "relevance_score": 0.3,
-    "relevance_label": "high",
-    "summary_ko": "보드카 브랜드 스베드카가 Z세대의 디지털 번아웃에 대응해 Y2K 스타일의 플립폰을 출시했습니다. 스베드폰은 통화와 문자 기능만을 제공하는 미니멀한 디바이스입니다. 이는 브랜드의 AI 생성 슈퍼볼 광고가 부정적 반응을 받은 후 나온 전략입니다.",
-    "summary_en": "Vodka brand Svedka launched a Y2K-inspired flip phone to address Gen Z's digital burnout. The Svedphone offers only calling and texting features as a minimalist device. This strategy follows the brand's poorly received AI-generated Super Bowl advertisement.",
-    "so_what_ko": "디지털 피로감에 대한 역발상 마케팅은 LG D2C가 AI 과의존 위험을 피하고 고객의 진정한 니즈를 파악하는 데 시사점을 제공합니다.",
-    "so_what_en": "Counter-digital marketing approaches provide insights for LG D2C to avoid over-reliance on AI and understand customers' authentic needs.",
-    "key_points": [
-      "Y2K-inspired flip phone targeting Gen Z digital burnout",
-      "Minimalist device with only call and text functions",
-      "Response to negative reception of AI-generated advertising",
-      "Counter-trend marketing strategy against digital overwhelm"
-    ],
-    "tags": [
-      "digital-burnout",
-      "gen-z-marketing",
-      "counter-trend",
-      "minimalism"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "LOW",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "Svedka",
-      "Svedphone"
+      "TechCrunch",
+      "LLM"
     ],
-    "one_line_insight_ko": "AI 과의존에 대한 소비자 반발은 기술과 인간성의 균형을 찾는 마케팅 전략의 중요성을 보여줍니다.",
-    "one_line_insight_en": "Consumer backlash against AI over-reliance highlights the importance of marketing strategies that balance technology with humanity.",
+    "one_line_insight_ko": "AI 도입 성공을 위해서는 조직 내 공통된 AI 용어 이해가 선행되어야 합니다.",
+    "one_line_insight_en": "Successful AI adoption requires shared understanding of AI terminology across the organization.",
+    "ai_processed": true
+  },
+  {
+    "title": "At the HumanX conference, everyone was talking about Claude",
+    "link": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+    "date_published": "2026-04-12",
+    "description": "Anthropic was the star of the show at San Francisco's AI-centric conference.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "categories": [
+      "tech"
+    ],
+    "relevance_score": 0.5,
+    "relevance_label": "high",
+    "summary_ko": "샌프란시스코의 AI 중심 컨퍼런스인 HumanX에서 Anthropic이 주목받았습니다. 모든 참가자들이 Claude에 대해 이야기하며 큰 관심을 보였습니다. 이는 AI 업계에서 Claude의 영향력이 급속히 확대되고 있음을 보여줍니다.",
+    "summary_en": "Anthropic was the star at San Francisco's AI-focused HumanX conference. Everyone was talking about Claude, showing significant interest in the AI assistant. This demonstrates Claude's rapidly expanding influence in the AI industry.",
+    "so_what_ko": "Claude와 같은 고성능 AI 어시스턴트가 업계 표준이 되어가는 트렌드를 주시하고 D2C 운영에 활용 방안을 검토해야 합니다.",
+    "so_what_en": "Monitor the trend of high-performance AI assistants like Claude becoming industry standards and explore integration opportunities for D2C operations.",
+    "key_points": [
+      "HumanX 컨퍼런스에서 Anthropic이 주목받음",
+      "Claude에 대한 업계 관심도 급상승",
+      "AI 어시스턴트 시장에서의 경쟁 심화"
+    ],
+    "tags": [
+      "claude",
+      "anthropic",
+      "ai-assistant"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Anthropic",
+      "Claude",
+      "HumanX"
+    ],
+    "one_line_insight_ko": "Claude의 업계 주목도 상승은 AI 어시스턴트 시장의 새로운 경쟁 구도를 시사합니다.",
+    "one_line_insight_en": "Claude's rising industry attention signals a new competitive landscape in the AI assistant market.",
+    "ai_processed": true
+  },
+  {
+    "title": "Applications of AI at OpenAI",
+    "link": "https://openai.com/academy/applications-of-ai",
+    "date_published": "2026-04-10",
+    "description": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "categories": [
+      "tech",
+      "strategy"
+    ],
+    "relevance_score": 0.7,
+    "relevance_label": "high",
+    "summary_ko": "OpenAI에서 ChatGPT, Codex, API 등의 제품들이 실제 업무와 개발, 일상 작업에 어떻게 활용되는지 소개했습니다. AI 기술이 이론을 넘어 실용적인 비즈니스 솔루션으로 자리잡고 있습니다. 다양한 산업 분야에서 OpenAI 제품들의 실제 적용 사례들을 확인할 수 있습니다.",
+    "summary_en": "OpenAI showcases how products like ChatGPT, Codex, and APIs are applied to real-world work, development, and everyday tasks. AI technology is moving beyond theory to become practical business solutions. Various industry applications of OpenAI products demonstrate real-world implementation cases.",
+    "so_what_ko": "OpenAI 제품들의 실용적 활용 사례를 참고하여 LG D2C 운영 효율성 향상과 고객 서비스 개선에 적용할 수 있습니다.",
+    "so_what_en": "Reference practical use cases of OpenAI products to improve LG D2C operational efficiency and enhance customer service.",
+    "key_points": [
+      "ChatGPT, Codex, API의 실무 활용 방안 제시",
+      "AI 기술의 실용적 비즈니스 솔루션화",
+      "다양한 산업 분야 적용 사례 확인 가능"
+    ],
+    "tags": [
+      "openai",
+      "chatgpt",
+      "business-applications"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "OpenAI",
+      "ChatGPT",
+      "Codex"
+    ],
+    "one_line_insight_ko": "OpenAI 제품들의 실무 적용 사례는 D2C 운영 혁신의 구체적 로드맵을 제시합니다.",
+    "one_line_insight_en": "Real-world applications of OpenAI products provide a concrete roadmap for D2C operational innovation.",
+    "ai_processed": true
+  },
+  {
+    "title": "Getting started with ChatGPT",
+    "link": "https://openai.com/academy/getting-started",
+    "date_published": "2026-04-10",
+    "description": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "categories": [
+      "tech"
+    ],
+    "relevance_score": 0.6,
+    "relevance_label": "high",
+    "summary_ko": "OpenAI에서 ChatGPT 사용법에 대한 기초 가이드를 제공했습니다. 첫 대화 시작부터 글쓰기, 브레인스토밍, 문제 해결까지 AI와 함께하는 간단한 방법들을 안내합니다. 이는 AI 초보자들도 쉽게 접근할 수 있도록 돕는 실용적인 시작 가이드입니다.",
+    "summary_en": "OpenAI provides a beginner's guide to using ChatGPT effectively. It covers everything from starting your first conversation to writing, brainstorming, and problem-solving with AI assistance. This practical starter guide helps AI newcomers easily access and utilize the technology.",
+    "so_what_ko": "D2C 팀원들의 AI 활용 능력 향상을 위해 체계적인 교육 프로그램과 가이드라인 구축이 필요합니다.",
+    "so_what_en": "Systematic training programs and guidelines are needed to enhance D2C team members' AI utilization capabilities.",
+    "key_points": [
+      "ChatGPT 사용법 기초 가이드 제공",
+      "글쓰기부터 문제해결까지 다양한 활용법 안내",
+      "AI 초보자도 쉽게 접근 가능한 실용적 가이드"
+    ],
+    "tags": [
+      "chatgpt",
+      "user-guide",
+      "ai-training"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "EMERGING_TECH",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "OpenAI",
+      "ChatGPT"
+    ],
+    "one_line_insight_ko": "체계적인 AI 사용 교육이 조직의 AI 활용 역량을 결정하는 핵심 요소입니다.",
+    "one_line_insight_en": "Systematic AI usage education is a key factor determining an organization's AI utilization capabilities.",
+    "ai_processed": true
+  },
+  {
+    "title": "ChatGPT for operations teams",
+    "link": "https://openai.com/academy/operations",
+    "date_published": "2026-04-10",
+    "description": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "categories": [
+      "tech",
+      "strategy"
+    ],
+    "relevance_score": 0.9,
+    "relevance_label": "high",
+    "summary_ko": "OpenAI에서 운영팀이 ChatGPT를 활용해 워크플로우 간소화, 협업 개선, 프로세스 표준화, 빠른 실행을 달성하는 방법을 안내했습니다. 운영 효율성 향상을 위한 구체적인 AI 활용 전략을 제시합니다. 이는 D2C 운영 최적화에 직접 적용 가능한 실용적 솔루션입니다.",
+    "summary_en": "OpenAI guides how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution. It presents specific AI utilization strategies for enhancing operational efficiency. This provides practical solutions directly applicable to D2C operations optimization.",
+    "so_what_ko": "ChatGPT를 활용한 운영팀 워크플로우 최적화 방안을 LG D2C 운영 프로세스에 즉시 적용하여 효율성을 높일 수 있습니다.",
+    "so_what_en": "ChatGPT-powered operations workflow optimization can be immediately applied to LG D2C operational processes to enhance efficiency.",
+    "key_points": [
+      "운영팀의 ChatGPT 활용 가이드 제공",
+      "워크플로우 간소화와 협업 개선 방안 제시",
+      "프로세스 표준화를 통한 실행 속도 향상"
+    ],
+    "tags": [
+      "operations",
+      "workflow-optimization",
+      "process-automation"
+    ],
+    "confidence": 0.9,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "OpenAI",
+      "ChatGPT"
+    ],
+    "one_line_insight_ko": "운영팀의 ChatGPT 활용은 D2C 프로세스 효율성을 즉시 향상시킬 수 있는 실용적 솔루션입니다.",
+    "one_line_insight_en": "ChatGPT utilization by operations teams is a practical solution that can immediately enhance D2C process efficiency.",
     "ai_processed": true
   }
 ]
