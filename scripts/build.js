@@ -137,9 +137,17 @@ function buildHomePage() {
     ? T.renderMonthlyCard(latestMonthly, { linkToDetail: true, detailUrl: `monthly/${latestMonthly.month}.html` })
     : '';
 
-  const tagFiltersHTML = allCategories.map(c =>
-    `<button class="filter-btn" data-filter="${c}" style="--filter-color:${T.categoryColor(c)}">${T.categoryLabel(c)}</button>`
-  ).join('');
+  const preferredFilters = ['ai_marketing', 'agentic_commerce'];
+  const remainingFilters = allCategories.filter(c => !preferredFilters.includes(c));
+  const orderedFilters = [
+    ...preferredFilters.filter(c => allCategories.includes(c)),
+    ...(remainingFilters.length ? ['other'] : []),
+  ];
+  const tagFiltersHTML = orderedFilters.map(c => {
+    const label = c === 'other' ? 'Other' : T.categoryLabel(c);
+    const color = c === 'other' ? '#6B7280' : T.categoryColor(c);
+    return `<button class="filter-btn" data-filter="${c}" style="--filter-color:${color}">${label}</button>`;
+  }).join('');
 
   const archiveLinkHTML = `<a href="archive/daily/index.html" class="archive-link-btn">
         <span class="lang-ko">📂 전체 아카이브 보기</span>
@@ -194,14 +202,6 @@ function buildHomePage() {
         <h2>📰 <span class="lang-ko">Today's Feed</span><span class="lang-en" style="display:none">Today's Feed</span></h2>
         <span class="section-desc lang-ko">최신 AI Commerce & Marketing 뉴스</span>
         <span class="section-desc lang-en" style="display:none">Latest AI Commerce & Marketing news</span>
-      </div>
-
-      <div class="search-container">
-        <div class="search-wrapper">
-          <span class="search-icon">🔍</span>
-          <input type="text" id="searchInput" class="search-input" placeholder="🔍 키워드, 태그, 소스로 검색...">
-        </div>
-        <div id="searchResultsCount" class="search-results-count"></div>
       </div>
 
       <div class="filters">

@@ -55,50 +55,8 @@
   try { const saved = localStorage.getItem(LANG_KEY); if (saved) currentLang = saved; } catch {}
   setLanguage(currentLang);
 
-  // ── Search ──
-  const searchInput = document.getElementById('searchInput');
-  const searchCount = document.getElementById('searchResultsCount');
+  // ── Feed Filters ──
   const allCards = document.querySelectorAll('.daily-card');
-
-  function performSearch() {
-    const query = (searchInput ? searchInput.value : '').toLowerCase().trim();
-    let visible = 0;
-
-    allCards.forEach(card => {
-      if (!query) {
-        card.style.display = '';
-        visible++;
-        return;
-      }
-      const text = card.textContent.toLowerCase();
-      const tags = (card.dataset.tags || '').toLowerCase();
-      const cats = (card.dataset.categories || '').toLowerCase();
-      const match = text.includes(query) || tags.includes(query) || cats.includes(query);
-      card.style.display = match ? '' : 'none';
-      if (match) visible++;
-    });
-
-    if (searchCount) {
-      if (query) {
-        searchCount.textContent = currentLang === 'ko'
-          ? `"${query}" 검색 결과: ${visible}건`
-          : `${visible} results for "${query}"`;
-        searchCount.classList.add('visible');
-      } else {
-        searchCount.classList.remove('visible');
-      }
-    }
-  }
-
-  if (searchInput) {
-    let debounce;
-    searchInput.addEventListener('input', () => {
-      clearTimeout(debounce);
-      debounce = setTimeout(performSearch, 200);
-    });
-  }
-
-  // ── Filter Buttons ──
   const filterBtns = document.querySelectorAll('.filter-btn');
 
   filterBtns.forEach(btn => {
@@ -107,17 +65,18 @@
       filterBtns.forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
 
-      // Clear search when filter changes
-      if (searchInput) searchInput.value = '';
-      if (searchCount) searchCount.classList.remove('visible');
-
       allCards.forEach(card => {
         if (filter === 'all') {
           card.style.display = '';
-        } else {
-          const cats = card.dataset.categories || '';
-          card.style.display = cats.includes(filter) ? '' : 'none';
+          return;
         }
+
+        const cats = (card.dataset.categories || '').split(',').map(s => s.trim()).filter(Boolean);
+        const isOther = filter === 'other';
+        const isMatch = isOther
+          ? !cats.includes('ai_marketing') && !cats.includes('agentic_commerce')
+          : cats.includes(filter);
+        card.style.display = isMatch ? '' : 'none';
       });
     });
   });
