@@ -19,10 +19,10 @@ SCOPES = ["https://www.googleapis.com/auth/spreadsheets.readonly"]
 KR_SPREADSHEET_ID = "1j0Bp3uFtUj5JhSiwDjI53exHgoWdK61DdtdphcxmU7c"
 EN_SPREADSHEET_ID = "18raZEl8XvctJPUigvN2g7DNSjLSV4_fHcZQgcu0bHs0"
 SPREADSHEET_ID = KR_SPREADSHEET_ID
-# Multiple sheets: old form (시트2) + new public form (시트3)
-DEFAULT_RANGE_NAMES = ["설문지 응답 시트2!B2:B", "설문지 응답 시트3!B2:C"]
-KO_RANGE_NAMES = ["설문지 응답 시트2!B2:B", "설문지 응답 시트3!B2:C"]
-EN_RANGE_NAMES = ["'설문지 응답 시트1'!B2:B", "'EN subscriber'!B2:B", "EN_Newsletter!B2:B"]
+# Canonical subscriber sheets
+DEFAULT_RANGE_NAMES = ["'설문지 응답 시트4'!B2:B"]
+KO_RANGE_NAMES = ["'설문지 응답 시트4'!B2:B"]
+EN_RANGE_NAMES = ["EN_Newsletter!B2:B"]
 TOKEN_PATH = os.environ.get("GOOGLE_TOKEN_PATH", os.path.expanduser("~/.openclaw/workspace/tools/google-token.json"))
 EMAIL_PATTERN = re.compile(r"^[A-Z0-9._%+\-]+@[A-Z0-9.\-]+\.[A-Z]{2,63}$", re.IGNORECASE)
 
