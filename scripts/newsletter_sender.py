@@ -74,7 +74,7 @@ def _load_archive_items() -> list[dict]:
     return items
 
 
-def _load_news_items(target_date: str, max_items: int) -> tuple[list[dict[str, str]], str]:
+def _load_news_items(target_date: str, max_items: int, language: str = "ko") -> tuple[list[dict[str, str]], str]:
     from datetime import date, timedelta
 
     raw_items = _load_json(SUMMARIZED_PATH, default=[])
@@ -174,7 +174,13 @@ def _load_news_items(target_date: str, max_items: int) -> tuple[list[dict[str, s
             continue
         seen_links.add(link)
 
-        summary = str(item.get("summary_ko") or item.get("summary_en") or item.get("description") or "")
+        summary = str(
+            item.get("summary_en") if language == "en" else item.get("summary_ko")
+            or item.get("summary_en")
+            or item.get("summary_ko")
+            or item.get("description")
+            or ""
+        )
         summary = " ".join(summary.split())
         if len(summary) > 280:
             summary = summary[:277].rstrip() + "..."
@@ -202,7 +208,9 @@ def _within_send_window(now_kst: datetime, target_hour: int, window_minutes: int
     return now_kst.hour == target_hour and 0 <= now_kst.minute < window_minutes
 
 
-def _build_subject(date_str: str) -> str:
+def _build_subject(date_str: str, language: str = "ko") -> str:
+    if language == "en":
+        return f"[AI Trend Hub] {date_str} AI Commerce and Marketing Brief"
     return f"[AI Commerce Daily] {date_str} AI 커머스 & 마케팅 뉴스"
 
 
@@ -270,7 +278,7 @@ def main() -> int:
         return 1
 
     try:
-        news_items, selected_date = _load_news_items(target_date=target_date, max_items=args.max_items)
+        news_items, selected_date = _load_news_items(target_date=target_date, max_items=args.max_items, language=args.language)
     except Exception as error:
         print(f"❌ Failed to load newsletter news: {error}")
         return 1
@@ -302,13 +310,13 @@ def main() -> int:
     insights_data = _load_json(insights_path, default={})
     insights_list = insights_data.get("insights", []) if insights_data.get("date") == selected_date else []
 
-    html = generate_html_newsletter(news_items, date_str=selected_date, insights=insights_list)
+    html = generate_html_newsletter(news_items, date_str=selected_date, insights=insights_list, language=args.language)
     preview_path = Path(args.preview_path)
     preview_path.parent.mkdir(parents=True, exist_ok=True)
     preview_path.write_text(html, encoding="utf-8")
     print(f"📝 Preview saved: {preview_path}")
 
-    subject = _build_subject(selected_date)
+    subject = _build_subject(selected_date, language=args.language)
     success = send_newsletter(
         to_emails=recipients,
         subject=subject,

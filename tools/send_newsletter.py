@@ -115,10 +115,10 @@ def send_newsletter(
         return False
 
 
-def _render_item_card(item: dict) -> str:
+def _render_item_card(item: dict, language: str = "ko") -> str:
     """Render a single news item card."""
     emoji = escape(str(item.get("emoji", "📰")))
-    title = escape(str(item.get("title", "제목 없음")))
+    title = escape(str(item.get("title", "Untitled" if language == "en" else "제목 없음")))
     source = escape(str(item.get("source", "")))
     published = escape(str(item.get("published", "")))
     summary = escape(str(item.get("summary", "")))
@@ -135,7 +135,7 @@ def _render_item_card(item: dict) -> str:
                       <div style="margin-top:6px;font-size:12px;color:#9d99b0;">{meta}</div>
                       <div style="margin-top:12px;font-size:14px;line-height:1.65;color:#cbc7e0;">{summary}</div>
                       <div style="margin-top:14px;">
-                        <a href="{url}" target="_blank" rel="noopener" style="color:#a78bfa;text-decoration:none;font-size:13px;font-weight:700;">Read More →</a>
+                        <a href="{url}" target="_blank" rel="noopener" style="color:#a78bfa;text-decoration:none;font-size:13px;font-weight:700;">{"Read More →" if language == "en" else "자세히 보기 →"}</a>
                       </div>
                     </td>
                   </tr>
@@ -157,7 +157,7 @@ def _render_section_header(title: str, emoji: str) -> str:
             """
 
 
-def _render_insights_section(insights: list[str]) -> str:
+def _render_insights_section(insights: list[str], language: str = "ko") -> str:
     """Render the insights & implications section."""
     if not insights:
         return ""
@@ -170,7 +170,7 @@ def _render_insights_section(insights: list[str]) -> str:
                 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:separate;background:#1a1730;border-radius:14px;border:1px solid #3d2a6e;">
                   <tr>
                     <td style="padding:18px 18px 14px 18px;">
-                      <div style="font-size:18px;font-weight:800;color:#cf7bff;margin-bottom:12px;">💡 인사이트 &amp; 시사점</div>
+                      <div style="font-size:18px;font-weight:800;color:#cf7bff;margin-bottom:12px;">{"💡 Insights and Implications" if language == "en" else "💡 인사이트 &amp; 시사점"}</div>
                       <ul style="margin:0;padding-left:20px;">{items_html}</ul>
                     </td>
                   </tr>
@@ -181,11 +181,18 @@ def _render_insights_section(insights: list[str]) -> str:
 
 
 # Category display order and labels
-CATEGORY_SECTIONS = [
-    ("ai_commerce", "🛍️ AI 커머스 주요 동향"),
-    ("ai_marketing", "🎯 AI 마케팅 트렌드"),
-    ("commerce", "🏪 D2C/이커머스 AI 활용 사례"),
-]
+CATEGORY_SECTIONS = {
+    "ko": [
+        ("ai_commerce", "🛍️ AI 커머스 주요 동향"),
+        ("ai_marketing", "🎯 AI 마케팅 트렌드"),
+        ("commerce", "🏪 D2C/이커머스 AI 활용 사례"),
+    ],
+    "en": [
+        ("ai_commerce", "🛍️ Key AI Commerce Trends"),
+        ("ai_marketing", "🎯 AI Marketing Trends"),
+        ("commerce", "🏪 D2C and Ecommerce Use Cases"),
+    ],
+}
 
 
 def generate_html_newsletter(
@@ -193,6 +200,7 @@ def generate_html_newsletter(
     date_str: str | None = None,
     unsubscribe_url: str = DEFAULT_UNSUBSCRIBE_URL,
     insights: list[str] | None = None,
+    language: str = "ko",
 ) -> str:
     """Generate styled newsletter HTML with category sections."""
     if date_str is None:
@@ -208,34 +216,53 @@ def generate_html_newsletter(
     items_html_parts: list[str] = []
     has_sections = len(grouped) > 1
 
-    for cat_key, cat_label in CATEGORY_SECTIONS:
+    sections = CATEGORY_SECTIONS.get(language, CATEGORY_SECTIONS["ko"])
+
+    for cat_key, cat_label in sections:
         cat_items = grouped.pop(cat_key, [])
         if not cat_items:
             continue
         if has_sections:
             items_html_parts.append(_render_section_header(cat_label.split(" ", 1)[1], cat_label.split(" ")[0]))
         for item in cat_items:
-            items_html_parts.append(_render_item_card(item))
+            items_html_parts.append(_render_item_card(item, language=language))
 
     # Any remaining categories
     for cat_key, cat_items in grouped.items():
         if not cat_items:
             continue
         if has_sections:
-            items_html_parts.append(_render_section_header("기타", "📰"))
+            items_html_parts.append(_render_section_header("Other" if language == "en" else "기타", "📰"))
         for item in cat_items:
-            items_html_parts.append(_render_item_card(item))
+            items_html_parts.append(_render_item_card(item, language=language))
 
     # Add insights section
     if insights:
-        items_html_parts.append(_render_insights_section(insights))
+        items_html_parts.append(_render_insights_section(insights, language=language))
 
     items_html = "\n".join(items_html_parts) or """
             <tr><td style="padding:12px 0;color:#9d99b0;">No news items available today.</td></tr>
     """
 
+    title_text = "AI Commerce Daily" if language == "ko" else "AI Trend Hub Newsletter"
+    preheader = (
+        f"AI Commerce Daily {escape(date_str)}: 오늘의 핵심 AI 커머스/마케팅 뉴스 요약"
+        if language == "ko"
+        else f"AI Trend Hub Newsletter {escape(date_str)}: top AI commerce and marketing updates"
+    )
+    hero_title = "매일 아침 5시, 핵심 뉴스만" if language == "ko" else "Your English brief on AI commerce and marketing"
+    hero_desc = (
+        "AI 커머스 &amp; 마케팅 인사이트를 빠르게 확인하세요."
+        if language == "ko"
+        else "A concise roundup of AI commerce and marketing insights for global readers."
+    )
+    issue_label = "발행일" if language == "ko" else "Issue date"
+    more_label = "📚 더 많은 인사이트 보기" if language == "ko" else "📚 Explore more insights"
+    footer_sent = "이 이메일은 구독자에게 발송되었습니다." if language == "ko" else "This email was sent to newsletter subscribers."
+    unsubscribe_label = "구독 취소" if language == "ko" else "Unsubscribe"
+
     return f"""<!DOCTYPE html>
-<html lang="ko">
+<html lang="{language}">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
@@ -246,7 +273,7 @@ def generate_html_newsletter(
   </head>
   <body style="margin:0;padding:0;background:#0d0b14;">
     <div style="display:none;max-height:0;overflow:hidden;opacity:0;">
-      AI Commerce Daily {escape(date_str)}: 오늘의 핵심 AI 커머스/마케팅 뉴스 요약
+      {preheader}
     </div>
     <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#0d0b14;padding:24px 12px;">
       <tr>
@@ -254,16 +281,16 @@ def generate_html_newsletter(
           <table role="presentation" width="640" cellpadding="0" cellspacing="0" style="width:100%;max-width:640px;background:#13111c;border-radius:20px;overflow:hidden;">
             <tr>
               <td style="padding:30px 24px;background:linear-gradient(135deg,#5f37ff 0%,#9a5bff 55%,#cf7bff 100%);color:#ffffff;">
-                <div style="font-size:13px;letter-spacing:1px;text-transform:uppercase;opacity:0.95;">AI Commerce Daily</div>
-                <h1 style="margin:8px 0 8px 0;font-size:30px;line-height:1.25;color:#ffffff;">매일 아침 5시, 핵심 뉴스만</h1>
+                <div style="font-size:13px;letter-spacing:1px;text-transform:uppercase;opacity:0.95;">{title_text}</div>
+                <h1 style="margin:8px 0 8px 0;font-size:30px;line-height:1.25;color:#ffffff;">{hero_title}</h1>
                 <p style="margin:0;font-size:14px;line-height:1.6;opacity:0.95;color:#f0eeff;">
-                  AI 커머스 &amp; 마케팅 인사이트를 빠르게 확인하세요.
+                  {hero_desc}
                 </p>
               </td>
             </tr>
             <tr>
               <td style="padding:16px 24px;border-bottom:1px solid #2d2a3e;background:#18152a;font-size:13px;color:#9d99b0;">
-                발행일: {escape(date_str)}
+                {issue_label}: {escape(date_str)}
               </td>
             </tr>
             <tr>
@@ -274,7 +301,7 @@ def generate_html_newsletter(
             <tr>
               <td style="padding:20px 24px 12px 24px;background:#18152a;border-top:1px solid #2d2a3e;">
                 <div style="text-align:center;margin-bottom:16px;">
-                  <div style="font-size:13px;font-weight:700;color:#a78bfa;letter-spacing:0.5px;margin-bottom:10px;">📚 더 많은 인사이트 보기</div>
+                  <div style="font-size:13px;font-weight:700;color:#a78bfa;letter-spacing:0.5px;margin-bottom:10px;">{more_label}</div>
                   <a href="https://suno7608.github.io/ai-trend-hub/" target="_blank" rel="noopener" style="display:inline-block;padding:10px 22px;background:linear-gradient(135deg,#5f37ff,#9a5bff);color:#ffffff;text-decoration:none;border-radius:8px;font-size:13px;font-weight:700;margin:0 4px 8px 4px;">📊 AI Trend Hub</a>
                   <a href="https://suno7608.github.io/d2c-intel/" target="_blank" rel="noopener" style="display:inline-block;padding:10px 22px;background:linear-gradient(135deg,#5f37ff,#9a5bff);color:#ffffff;text-decoration:none;border-radius:8px;font-size:13px;font-weight:700;margin:0 4px 8px 4px;">🌐 D2C Intelligence Hub</a>
                 </div>
@@ -282,10 +309,10 @@ def generate_html_newsletter(
             </tr>
             <tr>
               <td style="padding:14px 24px 22px 24px;background:#0d0b14;color:#9d99b0;font-size:12px;line-height:1.7;">
-                <div style="font-weight:700;color:#f0eeff;">AI Commerce Daily</div>
-                <div>이 이메일은 구독자에게 발송되었습니다.</div>
+                <div style="font-weight:700;color:#f0eeff;">{title_text}</div>
+                <div>{footer_sent}</div>
                 <div style="margin-top:8px;">
-                  구독 취소:
+                  {unsubscribe_label}:
                   <a href="{escape(unsubscribe_url, quote=True)}" style="color:#a78bfa;text-decoration:none;">unsubscribe</a>
                 </div>
               </td>
