@@ -164,7 +164,21 @@ def _load_news_items(target_date: str, max_items: int, language: str = "ko") -> 
         return 0 if cats & PRIORITY_CATEGORIES else 1
 
     filtered.sort(key=_priority_key)
-    selected = filtered
+
+    if language == "en":
+        english_ready = []
+        english_partial = []
+        for item in filtered:
+            has_title_en = bool(str(item.get("title_en") or "").strip())
+            has_summary_en = bool(str(item.get("summary_en") or "").strip())
+            if has_title_en and has_summary_en:
+                english_ready.append(item)
+            elif has_title_en or has_summary_en:
+                english_partial.append(item)
+        selected = english_ready + english_partial
+        print(f"🌐 EN filter: {len(english_ready)} full EN items, {len(english_partial)} partial EN items")
+    else:
+        selected = filtered
 
     seen_links: set[str] = set()
     newsletter_items: list[dict[str, str]] = []
@@ -174,8 +188,9 @@ def _load_news_items(target_date: str, max_items: int, language: str = "ko") -> 
             continue
         seen_links.add(link)
 
+        preferred_summary = item.get("summary_en") if language == "en" else item.get("summary_ko")
         summary = str(
-            item.get("summary_en") if language == "en" else item.get("summary_ko")
+            preferred_summary
             or item.get("summary_en")
             or item.get("summary_ko")
             or item.get("description")
@@ -186,10 +201,18 @@ def _load_news_items(target_date: str, max_items: int, language: str = "ko") -> 
             summary = summary[:277].rstrip() + "..."
 
         categories = item.get("categories") if isinstance(item.get("categories"), list) else []
+        preferred_title = item.get("title_en") if language == "en" else item.get("title")
+        title = str(
+            preferred_title
+            or item.get("title")
+            or item.get("title_en")
+            or "Untitled"
+        )
+
         newsletter_items.append(
             {
                 "emoji": _emoji_for_categories([str(c) for c in categories]),
-                "title": str(item.get("title", "Untitled")),
+                "title": title,
                 "source": str(item.get("source_name", "Unknown")),
                 "published": str(item.get("date_published", selected_date)),
                 "summary": summary,

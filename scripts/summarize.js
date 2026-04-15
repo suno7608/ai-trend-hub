@@ -31,6 +31,7 @@ Your task: Analyze news articles about AI Commerce, AI Marketing, and AI Technol
 STRICT RULES:
 - NEVER fabricate facts, statistics, or quotes not in the source
 - If uncertain, say "원문에서 확인되지 않음"
+- title_en: concise natural English headline, based on the source title, max 140 chars
 - summary_ko: exactly 3 Korean sentences, max 400 chars
 - summary_en: exactly 3 English sentences, max 400 chars
 - so_what_ko/en: 1-2 actionable sentences for D2C business perspective
@@ -66,6 +67,7 @@ ${a.description || '(no description available)'}
 Each object must have ALL of the following fields:
 {
   "index": 0,
+  "title_en": "Natural English headline",
   "summary_ko": "한국어 3문장 요약",
   "summary_en": "English 3-sentence summary",
   "so_what_ko": "D2C 관점 시사점 (한국어)",
@@ -119,6 +121,7 @@ async function summarizeBatch(client, articles) {
       const ai = json[i] || json.find(r => r.index === i) || {};
       return {
         ...article,
+        title_en: ai.title_en || article.title || '',
         summary_ko: ai.summary_ko || '',
         summary_en: ai.summary_en || '',
         so_what_ko: ai.so_what_ko || '',
