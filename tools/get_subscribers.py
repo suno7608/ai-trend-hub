@@ -15,10 +15,14 @@ from googleapiclient.errors import HttpError
 
 SCOPES = ["https://www.googleapis.com/auth/spreadsheets.readonly"]
 
-# Keep placeholder until real spreadsheet is ready.
-SPREADSHEET_ID = "1j0Bp3uFtUj5JhSiwDjI53exHgoWdK61DdtdphcxmU7c"
+# KR and EN subscribers are stored in separate Google Sheets.
+KR_SPREADSHEET_ID = "1j0Bp3uFtUj5JhSiwDjI53exHgoWdK61DdtdphcxmU7c"
+EN_SPREADSHEET_ID = "18raZEl8XvctJPUigvN2g7DNSjLSV4_fHcZQgcu0bHs0"
+SPREADSHEET_ID = KR_SPREADSHEET_ID
 # Multiple sheets: old form (시트2) + new public form (시트3)
-RANGE_NAMES = ["설문지 응답 시트2!B2:B", "설문지 응답 시트3!B2:C"]
+DEFAULT_RANGE_NAMES = ["설문지 응답 시트2!B2:B", "설문지 응답 시트3!B2:C"]
+KO_RANGE_NAMES = ["설문지 응답 시트2!B2:B", "설문지 응답 시트3!B2:C"]
+EN_RANGE_NAMES = ["EN_newsletter!B2:B"]
 TOKEN_PATH = os.environ.get("GOOGLE_TOKEN_PATH", os.path.expanduser("~/.openclaw/workspace/tools/google-token.json"))
 EMAIL_PATTERN = re.compile(r"^[A-Z0-9._%+\-]+@[A-Z0-9.\-]+\.[A-Z]{2,63}$", re.IGNORECASE)
 
@@ -80,6 +84,7 @@ def get_subscribers(
     range_names: list[str] | None = None,
     token_path: str = TOKEN_PATH,
     verbose: bool = False,
+    language: str = "all",
 ) -> list[str]:
     """
     Return subscriber email list from Google Sheets (multiple sheets).
@@ -87,14 +92,24 @@ def get_subscribers(
     Returns:
         list[str]: Unique, normalized, validated emails.
     """
-    resolved_spreadsheet_id = spreadsheet_id or os.getenv(
-        "NEWSLETTER_SPREADSHEET_ID", SPREADSHEET_ID
-    )
+    if spreadsheet_id:
+        resolved_spreadsheet_id = spreadsheet_id
+    elif language == "en":
+        resolved_spreadsheet_id = os.getenv("NEWSLETTER_EN_SPREADSHEET_ID", EN_SPREADSHEET_ID)
+    else:
+        resolved_spreadsheet_id = os.getenv("NEWSLETTER_SPREADSHEET_ID", KR_SPREADSHEET_ID)
     if not resolved_spreadsheet_id or resolved_spreadsheet_id == "YOUR_SPREADSHEET_ID_HERE":
         print("⚠️ SPREADSHEET_ID is not configured. Set NEWSLETTER_SPREADSHEET_ID env var or update get_subscribers.py.")
         return []
 
-    resolved_ranges = range_names or RANGE_NAMES
+    if range_names:
+        resolved_ranges = range_names
+    elif language == "ko":
+        resolved_ranges = KO_RANGE_NAMES
+    elif language == "en":
+        resolved_ranges = EN_RANGE_NAMES
+    else:
+        resolved_ranges = DEFAULT_RANGE_NAMES + EN_RANGE_NAMES
 
     try:
         creds = _load_credentials(token_path=token_path)
@@ -149,11 +164,12 @@ def main() -> int:
     parser.add_argument("--verbose", action="store_true", help="Print parse stats.")
     parser.add_argument("--spreadsheet-id", default=None, help="Override spreadsheet ID.")
     parser.add_argument("--range", dest="range_name", default=None, help="A1 range (overrides default multi-sheet).")
+    parser.add_argument("--language", choices=["all", "ko", "en"], default="all", help="Filter subscriber source by language.")
     args = parser.parse_args()
 
     range_names = [args.range_name] if args.range_name else None
     subscribers = get_subscribers(
-        spreadsheet_id=args.spreadsheet_id, range_names=range_names, verbose=args.verbose
+        spreadsheet_id=args.spreadsheet_id, range_names=range_names, verbose=args.verbose, language=args.language
     )
 
     if args.json:

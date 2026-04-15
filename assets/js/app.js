@@ -20,6 +20,12 @@
     // Update search placeholder
     const si = document.getElementById('searchInput');
     if (si) si.placeholder = lang === 'ko' ? '🔍 키워드, 태그, 소스로 검색...' : '🔍 Search by keyword, tag, source...';
+
+    // Update subscribe link by language
+    const subscribeBtn = document.querySelector('.subscribe-button[data-ko-href][data-en-href]');
+    if (subscribeBtn) {
+      subscribeBtn.href = lang === 'en' ? subscribeBtn.dataset.enHref : subscribeBtn.dataset.koHref;
+    }
   }
 
   if (langToggle) langToggle.addEventListener('click', () => {

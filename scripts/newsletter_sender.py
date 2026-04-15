@@ -229,6 +229,12 @@ def main() -> int:
         help="Path to save generated newsletter HTML.",
     )
     parser.add_argument(
+        "--language",
+        choices=["ko", "en"],
+        default="ko",
+        help="Newsletter audience language.",
+    )
+    parser.add_argument(
         "--recipient",
         action="append",
         default=[],
@@ -253,7 +259,7 @@ def main() -> int:
         return 0
 
     try:
-        subscribers = get_subscribers(verbose=True)
+        subscribers = get_subscribers(verbose=True, language=args.language)
     except Exception as error:
         print(f"❌ Failed to fetch subscribers: {error}")
         return 1
