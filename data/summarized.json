@@ -1,30 +1,31 @@
 [
   {
-    "title": "Creator content has become critical for retail media networks",
-    "link": "https://digiday.com/marketing/creator-content-has-become-critical-for-retail-media-networks/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-04-14",
-    "description": "Execs in the advertising businesses of retailers like Walmart, Best Buy and Albertsons see value in incorporating more creator-led content.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
+    "title": "Inside American Eagle’s latest bet on Sydney Sweeney for its summer campaign",
+    "link": "https://www.marketingdive.com/news/inside-american-eagles-latest-bet-on-sydney-sweeney-for-its-summer-campaig/817425/",
+    "date_published": "2026-04-15",
+    "description": "CMO Craig Brommers details the next chapter of a tie-up that proved highly successful — and controversial — for the Gen Z denim retailer.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
     "categories": [
       "marketing"
     ],
-    "relevance_score": 0.7,
+    "relevance_score": 0.4,
     "relevance_label": "high",
-    "summary_ko": "월마트, 베스트바이, 알버슨스 등 주요 리테일러들이 소매 미디어 네트워크에서 크리에이터 주도 콘텐츠의 가치를 인식하고 있습니다. 리테일 미디어 광고 사업 임원들은 크리에이터 콘텐츠 통합을 통해 광고 효과를 높이려 하고 있습니다. 이는 소매업계에서 크리에이터 마케팅이 핵심 전략으로 부상하고 있음을 보여줍니다.",
-    "summary_en": "Major retailers like Walmart, Best Buy, and Albertsons are recognizing the value of incorporating creator-led content into their retail media networks. Executives in these retailers' advertising businesses see significant potential in integrating more creator content to enhance advertising effectiveness. This trend indicates creator marketing is becoming a critical strategy in the retail industry.",
-    "so_what_ko": "LG D2C 조직은 소매 파트너들과의 협력에서 크리에이터 콘텐츠를 활용한 마케팅 전략을 강화해야 합니다.",
-    "so_what_en": "LG's D2C organization should strengthen creator content marketing strategies in partnerships with retail media networks.",
+    "title_en": "American Eagle doubles down on Sydney Sweeney partnership for summer campaign sequel",
+    "summary_ko": "아메리칸 이글이 시드니 스위니와의 성공적인 파트너십을 연장하여 여름 캠페인을 진행한다고 발표했습니다. 이전 캠페인이 논란에도 불구하고 높은 성과를 거두면서 Z세대 타겟팅 전략을 지속하고 있습니다. CMO 크레이그 브로머스는 이번 캠페인의 전략적 배경을 상세히 설명했습니다.",
+    "summary_en": "American Eagle is extending its successful partnership with Sydney Sweeney for a summer campaign sequel. Despite previous controversy, the collaboration proved highly effective for the Gen Z-focused denim retailer. CMO Craig Brommers detailed the strategic reasoning behind continuing this celebrity partnership approach.",
+    "so_what_ko": "셀럽 인플루언서 마케팅이 논란을 불러일으켜도 실제 매출 성과가 입증되면 지속할 가치가 있음을 보여주는 사례입니다.",
+    "so_what_en": "Demonstrates that celebrity influencer marketing can be worth continuing despite controversy if it delivers proven sales results.",
     "key_points": [
-      "Major retailers integrating creator content into retail media networks",
-      "Advertising executives see value in creator-led content",
-      "Growing trend of creator marketing in retail industry"
+      "American Eagle continues Sydney Sweeney partnership despite previous controversy",
+      "Campaign proved highly successful for Gen Z audience engagement",
+      "CMO provides strategic insights into celebrity marketing decisions"
     ],
     "tags": [
-      "creator-marketing",
-      "retail-media-networks",
-      "content-strategy"
+      "celebrity-marketing",
+      "gen-z",
+      "influencer-campaigns"
     ],
     "confidence": 0.7,
     "strategic_theme": "AI_MARKETING",
@@ -34,89 +35,86 @@
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Walmart",
-      "Best Buy",
-      "Albertsons"
+      "American Eagle",
+      "Sydney Sweeney",
+      "Craig Brommers"
     ],
-    "one_line_insight_ko": "주요 리테일러들이 크리에이터 콘텐츠를 소매 미디어 네트워크의 핵심 전략으로 채택하고 있습니다.",
-    "one_line_insight_en": "Major retailers are adopting creator content as a core strategy for retail media networks.",
+    "one_line_insight_ko": "논란을 감수하고서라도 검증된 셀럽 파트너십을 지속하는 것이 Z세대 마케팅에서 효과적일 수 있습니다.",
+    "one_line_insight_en": "Continuing proven celebrity partnerships despite controversy can be effective for Gen Z marketing strategies.",
     "ai_processed": true
   },
   {
-    "title": "Salesforce shares approach toward integration with OpenAI’s ChatGPT",
-    "link": "https://www.digitalcommerce360.com/2026/04/13/salesforce-pilot-integration-openai-chatgpt/",
-    "date_published": "2026-04-13",
-    "description": "Ecommerce technology provider Salesforce has been piloting a program in which it offers its merchants an integration with OpenAI’s ChatGPT. This is part of a growing trend among retailers and technology providers to join more artificial intelligence (AI)-powered platforms as additional channels to make sales. Gordon Evans, chief marketing officer of Salesforce’s Commerce Cloud, shared […]\nThe post Salesforce shares approach toward integration with OpenAI’s ChatGPT appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
+    "title": "Forbes creates wine vertical, commerce shop and membership business as AI squeezes traffic",
+    "link": "https://digiday.com/media/forbes-creates-wine-vertical-commerce-shop-and-membership-business-as-ai-squeezes-traffic/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-04-15",
+    "description": "Forbes is launching a wine-focused vertical, commerce site and membership program  to grow consumer revenue and offset declining traffic.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
     "categories": [
       "commerce",
-      "tech"
+      "strategy"
     ],
-    "relevance_score": 0.9,
+    "relevance_score": 0.7,
     "relevance_label": "high",
-    "summary_ko": "세일즈포스가 OpenAI의 ChatGPT와의 통합 파일럿 프로그램을 운영하며 AI 기반 판매 채널 확대를 추진하고 있습니다. 이커머스 기술 제공업체들이 AI 플랫폼을 추가 판매 채널로 활용하는 트렌드가 확산되고 있습니다. 세일즈포스 커머스 클라우드의 CMO 고든 에반스가 이러한 접근 방식을 공유했습니다.",
-    "summary_en": "Salesforce is piloting an integration program with OpenAI's ChatGPT as part of expanding AI-powered sales channels. This reflects a growing trend among retailers and technology providers to leverage AI platforms as additional sales channels. Gordon Evans, CMO of Salesforce's Commerce Cloud, shared insights about this strategic approach.",
-    "so_what_ko": "LG는 ChatGPT 같은 AI 플랫폼을 새로운 판매 채널로 활용하는 전략을 고려해야 합니다.",
-    "so_what_en": "LG should consider leveraging AI platforms like ChatGPT as new sales channels for D2C expansion.",
+    "title_en": "Forbes launches wine vertical and commerce site to combat AI-driven traffic decline",
+    "summary_ko": "포브스가 AI로 인한 트래픽 감소에 대응하여 와인 전문 버티컬과 커머스 사이트, 멤버십 프로그램을 출시했습니다. 이는 소비자 수익을 늘리고 감소하는 웹사이트 트래픽을 상쇄하기 위한 전략입니다. 미디어 기업들이 AI 시대에 새로운 수익원을 모색하는 대표적 사례로 평가됩니다.",
+    "summary_en": "Forbes is launching a wine-focused vertical, commerce site, and membership program to combat declining traffic caused by AI. This strategy aims to grow consumer revenue and offset reduced website traffic. The move represents how media companies are seeking new revenue streams in the AI era.",
+    "so_what_ko": "AI가 기존 트래픽 모델을 위협하는 상황에서 미디어 기업도 D2C 커머스로 직접적인 수익 창출을 모색하고 있어 경쟁이 심화될 수 있습니다.",
+    "so_what_en": "As AI threatens traditional traffic models, media companies are also pursuing D2C commerce for direct revenue, potentially intensifying competition.",
     "key_points": [
-      "Salesforce piloting ChatGPT integration for merchants",
-      "Growing trend of AI platforms as sales channels",
-      "Technology providers expanding AI-powered commerce solutions"
+      "Forbes launches wine vertical and commerce site to diversify revenue",
+      "Strategy addresses AI-driven decline in website traffic",
+      "Includes membership program for consumer revenue growth"
     ],
     "tags": [
-      "ai-integration",
-      "chatgpt",
-      "salesforce",
-      "ecommerce-platforms"
+      "media-commerce",
+      "ai-impact",
+      "revenue-diversification"
     ],
     "confidence": 0.8,
-    "strategic_theme": "AI_COMMERCE",
+    "strategic_theme": "RETAIL_TRANSFORMATION",
     "regions": [
       "GLOBAL"
     ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
+    "business_impact": "MEDIUM",
+    "sentiment": "THREAT",
     "key_entities": [
-      "Salesforce",
-      "OpenAI",
-      "ChatGPT",
-      "Commerce Cloud",
-      "Gordon Evans"
+      "Forbes"
     ],
-    "one_line_insight_ko": "세일즈포스의 ChatGPT 통합은 AI 플랫폼이 새로운 커머스 채널로 부상하고 있음을 보여줍니다.",
-    "one_line_insight_en": "Salesforce's ChatGPT integration demonstrates AI platforms emerging as new commerce channels.",
+    "one_line_insight_ko": "AI가 전통적인 미디어 트래픽을 위협하면서 콘텐츠 기업들도 D2C 커머스 영역에 진출하고 있습니다.",
+    "one_line_insight_en": "AI's threat to traditional media traffic is driving content companies to enter the D2C commerce space.",
     "ai_processed": true
   },
   {
-    "title": "Archer teams with ‘Mandalorian and Grogu’ for first entertainment deal",
-    "link": "https://www.marketingdive.com/news/archer-teams-with-mandalorian-and-grogu-for-first-entertainment-deal/817296/",
-    "date_published": "2026-04-13",
-    "description": "As the meat snacks marketer expands, it is collaborating with the “Star Wars” universe for a campaign spanning retail, digital, social and out-of-home.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
+    "title": "Sydney Sweeney On Swapping Jeans for Shorts In Her American Eagle Sequel",
+    "link": "https://www.adweek.com/brand-marketing/sydney-sweeney-on-swapping-jeans-for-shorts-in-her-american-eagle-sequel/",
+    "date_published": "2026-04-15",
+    "description": "ADWEEK spoke to the actress about the new ‘Syd for Short’ campaign, which follows the polarizing but successful 'Sydney Sweeney Has Great Jeans'",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
     "categories": [
       "marketing"
     ],
     "relevance_score": 0.4,
     "relevance_label": "high",
-    "summary_ko": "육류 스낵 브랜드 아처(Archer)가 첫 엔터테인먼트 파트너십으로 '만달로리안 앤 그로구'와 협업하고 있습니다. 이번 캠페인은 리테일, 디지털, 소셜, 옥외광고를 아우르는 통합 마케팅으로 진행됩니다. 스타워즈 유니버스와의 협력으로 브랜드 확장을 추진하고 있습니다.",
-    "summary_en": "Meat snacks marketer Archer is collaborating with 'Mandalorian and Grogu' for its first entertainment deal. The campaign spans retail, digital, social, and out-of-home advertising channels in an integrated marketing approach. This partnership with the Star Wars universe supports the brand's expansion efforts.",
-    "so_what_ko": "LG는 인기 엔터테인먼트 IP와의 협업을 통해 D2C 브랜드 인지도를 높이는 전략을 고려할 수 있습니다.",
-    "so_what_en": "LG could consider entertainment IP partnerships to enhance D2C brand awareness and engagement.",
+    "title_en": "Sydney Sweeney discusses 'Syd for Short' sequel campaign with American Eagle",
+    "summary_ko": "시드니 스위니가 아메리칸 이글의 새로운 'Syd for Short' 캠페인에 대해 인터뷰에서 언급했습니다. 이는 논란이 되었지만 성공적이었던 이전 'Sydney Sweeney Has Great Jeans' 캠페인의 후속작입니다. 이번에는 청바지에서 반바지로 초점을 전환한 여름 시즌 전략을 보여줍니다.",
+    "summary_en": "Sydney Sweeney discussed American Eagle's new 'Syd for Short' campaign in an interview with ADWEEK. This follows the polarizing but successful 'Sydney Sweeney Has Great Jeans' campaign. The new campaign shifts focus from jeans to shorts for summer season strategy.",
+    "so_what_ko": "성공적인 인플루언서 캠페인의 연속성을 통해 브랜드 일관성을 유지하면서도 계절별 상품 전환을 자연스럽게 연결하는 전략을 보여줍니다.",
+    "so_what_en": "Shows how to maintain brand consistency through influencer campaign continuity while naturally transitioning to seasonal product focus.",
     "key_points": [
-      "Archer's first entertainment partnership with Star Wars IP",
-      "Integrated campaign across multiple channels",
-      "Entertainment collaborations for brand expansion"
+      "Sydney Sweeney continues partnership with American Eagle",
+      "Campaign transitions from jeans to shorts for summer",
+      "Builds on previous controversial but successful campaign"
     ],
     "tags": [
-      "entertainment-partnerships",
-      "brand-collaboration",
-      "integrated-marketing"
+      "celebrity-endorsement",
+      "seasonal-campaigns",
+      "brand-continuity"
     ],
-    "confidence": 0.6,
+    "confidence": 0.7,
     "strategic_theme": "AI_MARKETING",
     "regions": [
       "AMER"
@@ -124,62 +122,19 @@
     "business_impact": "LOW",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "Archer",
-      "Mandalorian",
-      "Star Wars"
+      "Sydney Sweeney",
+      "American Eagle",
+      "ADWEEK"
     ],
-    "one_line_insight_ko": "엔터테인먼트 IP 협업이 브랜드 확장의 효과적인 마케팅 전략으로 활용되고 있습니다.",
-    "one_line_insight_en": "Entertainment IP collaborations are being leveraged as effective brand expansion marketing strategies.",
+    "one_line_insight_ko": "성공적인 셀럽 파트너십을 계절별 상품 라인으로 자연스럽게 확장하는 것이 브랜드 일관성 유지에 효과적입니다.",
+    "one_line_insight_en": "Naturally extending successful celebrity partnerships across seasonal product lines maintains effective brand consistency.",
     "ai_processed": true
   },
   {
-    "title": "Why brands can’t stop acting like reply guys and jumping into viral comment threads on social media",
-    "link": "https://www.modernretail.co/marketing/why-brands-cant-stop-acting-like-reply-guys-and-jumping-into-viral-comment-threads-on-social-media/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-04-14",
-    "description": "Brands are jumping into viral comment threads on TikTok, Instagram and X to generate real-time engagement. Not only is this an effective tactic to gain more likes and followers, but it can also help strike creator partnerships on the fly.",
-    "source_id": "modern_retail",
-    "source_name": "Modern Retail",
-    "source_url": "https://www.modernretail.co/feed/",
-    "categories": [
-      "marketing"
-    ],
-    "relevance_score": 0.6,
-    "relevance_label": "high",
-    "summary_ko": "브랜드들이 TikTok, 인스타그램, X에서 바이럴 댓글 스레드에 적극 참여하여 실시간 참여도를 높이고 있습니다. 이러한 전략은 좋아요와 팔로워 증가뿐만 아니라 즉석 크리에이터 파트너십 체결에도 도움이 됩니다. 브랜드들이 소셜미디어에서 '댓글충'처럼 행동하는 현상이 마케팅 트렌드로 자리잡고 있습니다.",
-    "summary_en": "Brands are actively jumping into viral comment threads on TikTok, Instagram, and X to generate real-time engagement. This tactic effectively increases likes and followers while also enabling spontaneous creator partnerships. The phenomenon of brands acting like 'reply guys' has become a notable marketing trend on social media.",
-    "so_what_ko": "LG는 소셜미디어에서 바이럴 순간을 포착하여 실시간 참여를 통한 브랜드 인지도 확산 전략을 활용해야 합니다.",
-    "so_what_en": "LG should leverage real-time viral moment engagement strategies to amplify brand awareness through social media interactions.",
-    "key_points": [
-      "Brands jumping into viral comment threads for engagement",
-      "Real-time social media interaction driving follower growth",
-      "Spontaneous creator partnerships emerging from comment engagement"
-    ],
-    "tags": [
-      "social-media-engagement",
-      "viral-marketing",
-      "real-time-marketing"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "TikTok",
-      "Instagram",
-      "X"
-    ],
-    "one_line_insight_ko": "브랜드들이 바이럴 댓글 참여를 통해 실시간 고객 engagement를 극대화하고 있습니다.",
-    "one_line_insight_en": "Brands are maximizing real-time customer engagement through viral comment thread participation.",
-    "ai_processed": true
-  },
-  {
-    "title": "AG1 lands in Target as its year of retail expansion continues",
-    "link": "https://www.modernretail.co/operations/ag1-lands-in-target-as-its-year-of-retail-expansion-continues/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-04-14",
-    "description": "AG1's year of retail expansion continues. Months after launching in Costco and The Vitamin Shoppe, AG1 is announcing today that it is entering Target.",
+    "title": "Why home retailers are plagued with financial challenges",
+    "link": "https://www.modernretail.co/operations/why-home-retailers-are-plagued-with-financial-challenges/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-04-15",
+    "description": "The housing market, alongside the pressure of inflation, fluctuating tariff policies and other financial situations such as being crushed with hundreds of millions in debt, has resulted in bankruptcy, closures or acquisitions for many prominent home chains. Most recently, Bed Bath & Beyond Inc. announced it was acquiring The Container Store.",
     "source_id": "modern_retail",
     "source_name": "Modern Retail",
     "source_url": "https://www.modernretail.co/feed/",
@@ -187,21 +142,22 @@
       "commerce",
       "strategy"
     ],
-    "relevance_score": 0.8,
+    "relevance_score": 0.6,
     "relevance_label": "high",
-    "summary_ko": "D2C 건강보조식품 브랜드 AG1이 코스트코와 비타민샵 진출에 이어 타겟에 입점하며 소매 확장을 지속하고 있습니다. AG1의 소매 채널 확장 전략이 올해 계속 이어지고 있음을 보여줍니다. 온라인 중심 브랜드가 전통 소매 채널로 확장하는 트렌드가 지속되고 있습니다.",
-    "summary_en": "D2C health supplement brand AG1 continues its retail expansion by launching in Target, following previous entries into Costco and The Vitamin Shoppe. This represents AG1's ongoing year of retail expansion strategy. The trend of online-native brands expanding into traditional retail channels continues.",
-    "so_what_ko": "LG D2C 브랜드들도 주요 소매 채널 확장을 통해 고객 접점을 늘리는 옴니채널 전략을 강화해야 합니다.",
-    "so_what_en": "LG D2C brands should strengthen omnichannel strategies by expanding into major retail channels to increase customer touchpoints.",
+    "title_en": "Home retailers face mounting financial challenges amid market pressures",
+    "summary_ko": "주택 시장 침체와 인플레이션, 변동하는 관세 정책 등이 홈 리테일러들에게 심각한 재정적 어려움을 가져다주고 있습니다. 수억 달러의 부채에 시달리는 많은 주요 홈 체인들이 파산, 폐점, 인수합병을 겪고 있습니다. 최근 베드 바스 앤 비욘드가 컨테이너 스토어를 인수한다고 발표했습니다.",
+    "summary_en": "The housing market downturn, inflation, and fluctuating tariff policies are creating severe financial challenges for home retailers. Many prominent home chains burdened with hundreds of millions in debt are experiencing bankruptcy, closures, or acquisitions. Most recently, Bed Bath & Beyond announced it was acquiring The Container Store.",
+    "so_what_ko": "홈 카테고리 시장의 구조조정이 가속화되면서 새로운 시장 진입 기회가 생기거나 기존 경쟁사 인수를 통한 시장 확대 기회를 모색할 수 있습니다.",
+    "so_what_en": "Accelerating restructuring in the home category market creates opportunities for new market entry or expansion through acquiring struggling competitors.",
     "key_points": [
-      "AG1 launching in Target after Costco and Vitamin Shoppe",
-      "Continued retail expansion strategy for D2C brand",
-      "Online-native brands moving into traditional retail"
+      "Home retailers facing severe financial pressures from multiple factors",
+      "Housing market and inflation creating industry-wide challenges",
+      "Major consolidation occurring with acquisitions like Bed Bath & Beyond buying Container Store"
     ],
     "tags": [
-      "d2c-retail-expansion",
-      "omnichannel-strategy",
-      "ag1"
+      "retail-consolidation",
+      "market-challenges",
+      "home-category"
     ],
     "confidence": 0.8,
     "strategic_theme": "RETAIL_TRANSFORMATION",
@@ -211,444 +167,499 @@
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "AG1",
-      "Target",
-      "Costco",
-      "The Vitamin Shoppe"
+      "Bed Bath & Beyond",
+      "The Container Store"
     ],
-    "one_line_insight_ko": "D2C 브랜드 AG1의 주요 소매체인 연속 진출은 옴니채널 확장 전략의 성공 사례를 보여줍니다.",
-    "one_line_insight_en": "AG1's consecutive major retail chain expansions demonstrate successful omnichannel expansion strategy for D2C brands.",
+    "one_line_insight_ko": "홈 카테고리의 대규모 구조조정은 강한 재정력을 가진 기업들에게 시장 확장의 기회를 제공하고 있습니다.",
+    "one_line_insight_en": "Massive restructuring in the home category is creating market expansion opportunities for financially strong companies.",
     "ai_processed": true
   },
   {
-    "title": "On, Zendaya launch first co-created collection",
-    "link": "https://www.retaildive.com/news/on-zendaya-launch-first-co-created-collection/817285/",
-    "date_published": "2026-04-13",
-    "description": "The collection — which features tank tops, T-shirts, jackets, pants and more — comes to life through a marketing campaign directed by Spike Jonze.",
+    "title": "J.C. Penney’s latest campaign highlights ballers on a budget",
+    "link": "https://www.retaildive.com/news/jc-penney-inside-lane-campaign-basketball/817417/",
+    "date_published": "2026-04-14",
+    "description": "The department store’s “Inside Lane” features five college and professional women's basketball players sporting everyday looks.",
     "source_id": "retail_dive",
     "source_name": "Retail Dive",
     "source_url": "https://www.retaildive.com/feeds/news/",
     "categories": [
-      "marketing",
-      "strategy"
+      "marketing"
     ],
     "relevance_score": 0.4,
     "relevance_label": "high",
-    "summary_ko": "스위스 스포츠웨어 브랜드 On이 배우 젠다야와 첫 공동 개발 컬렉션을 출시했습니다. 이 컬렉션은 탱크톱, 티셔츠, 재킷, 바지 등으로 구성되어 있습니다. 스파이크 존즈가 감독한 마케팅 캠페인을 통해 홍보되고 있습니다.",
-    "summary_en": "Swiss sportswear brand On has launched its first co-created collection with actress Zendaya. The collection features tank tops, T-shirts, jackets, pants and more. The launch is supported by a marketing campaign directed by Spike Jonze.",
-    "so_what_ko": "셀럽과의 공동 창작 컬렉션은 D2C 브랜드에게 강력한 차별화 전략이 될 수 있으며, 유명 감독을 활용한 마케팅은 브랜드 스토리텔링을 강화합니다.",
-    "so_what_en": "Celebrity co-creation collections can serve as powerful differentiation strategies for D2C brands, while leveraging renowned directors for marketing campaigns strengthens brand storytelling.",
+    "title_en": "J.C. Penney's 'Inside Lane' campaign features women's basketball players in everyday looks",
+    "summary_ko": "J.C. 페니가 대학 및 프로 여자 농구 선수 5명을 모델로 한 'Inside Lane' 캠페인을 시작했습니다. 이 캠페인은 일상적인 룩을 선보이며 예산을 고려하는 소비자들을 타겟으로 합니다. 백화점이 스포츠 마케팅을 통해 젊은 고객층에 어필하는 전략을 보여줍니다.",
+    "summary_en": "J.C. Penney launched the 'Inside Lane' campaign featuring five college and professional women's basketball players in everyday looks. The campaign targets budget-conscious consumers while highlighting relatable styling. This shows the department store's strategy to appeal to younger demographics through sports marketing.",
+    "so_what_ko": "스포츠 마케팅을 통한 어스틱 브랜딩이 예산 제약이 있는 젊은 소비자층에게 어필할 수 있는 효과적인 접근법임을 보여줍니다.",
+    "so_what_en": "Sports marketing with authentic branding proves to be an effective approach for appealing to budget-conscious younger consumers.",
     "key_points": [
-      "On brand collaborates with Zendaya for co-created collection",
-      "Campaign directed by acclaimed filmmaker Spike Jonze",
-      "Collection includes diverse apparel categories"
+      "J.C. Penney features women's basketball players in new campaign",
+      "Campaign focuses on everyday, accessible styling for budget-conscious shoppers",
+      "Department store uses sports marketing to connect with younger demographics"
     ],
     "tags": [
-      "celebrity-collaboration",
-      "co-creation",
-      "brand-partnership"
+      "sports-marketing",
+      "budget-fashion",
+      "authentic-branding"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "J.C. Penney"
+    ],
+    "one_line_insight_ko": "스포츠 선수를 활용한 어스틱한 일상 스타일링은 예산 의식적인 젊은 소비자층에게 효과적인 마케팅 접근법입니다.",
+    "one_line_insight_en": "Authentic everyday styling with athletes is an effective marketing approach for budget-conscious younger consumers.",
+    "ai_processed": true
+  },
+  {
+    "title": "David’s Bridal brings wedding shopping to ChatGPT, Copilot",
+    "link": "https://www.retaildive.com/news/davids-bridal-ai-shopping-chatgpt-copilot/817407/",
+    "date_published": "2026-04-14",
+    "description": "In addition to integrating its assortment with the chatbots, the bridal retailer will audit its inventory to make it more suitable for AI shopping experiences.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "commerce",
+      "agentic_commerce"
+    ],
+    "relevance_score": 0.9,
+    "relevance_label": "high",
+    "title_en": "David's Bridal Integrates Wedding Shopping with ChatGPT and Copilot",
+    "summary_ko": "David's Bridal이 ChatGPT와 Copilot 챗봇에 자사 상품을 통합하여 웨딩 쇼핑 경험을 제공한다고 발표했습니다. 브라이덜 업계에서는 최초로 AI 쇼핑 경험을 위해 재고를 감사하고 최적화할 계획입니다. 이를 통해 고객들은 AI 챗봇을 통해 더욱 개인화된 웨딩 쇼핑을 경험할 수 있게 됩니다.",
+    "summary_en": "David's Bridal announced integration of its wedding assortment with ChatGPT and Copilot chatbots for enhanced shopping experiences. The bridal retailer is the first in its industry to audit and optimize inventory specifically for AI-powered shopping interactions. This enables customers to access personalized wedding shopping assistance through AI chatbots.",
+    "so_what_ko": "전문 소매업체가 AI 챗봇을 통한 쇼핑 경험을 위해 재고 최적화까지 진행하는 것은 LG D2C에게 AI 커머스 준비의 중요성을 시사합니다.",
+    "so_what_en": "A specialty retailer optimizing inventory for AI shopping experiences signals the importance of preparing comprehensive AI commerce strategies for LG D2C operations.",
+    "key_points": [
+      "First bridal retailer to integrate with major AI chatbots",
+      "Inventory audit specifically for AI shopping optimization",
+      "Integration with both ChatGPT and Microsoft Copilot"
+    ],
+    "tags": [
+      "chatgpt",
+      "ai-shopping",
+      "bridal-retail",
+      "inventory-optimization"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "AGENTIC_COMMERCE",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "David's Bridal",
+      "ChatGPT",
+      "Microsoft Copilot"
+    ],
+    "one_line_insight_ko": "전문 소매업체의 AI 챗봇 통합은 재고 최적화까지 포함하는 포괄적 AI 커머스 전략의 필요성을 보여줍니다.",
+    "one_line_insight_en": "Specialty retailer's AI chatbot integration demonstrates the need for comprehensive AI commerce strategies including inventory optimization.",
+    "ai_processed": true
+  },
+  {
+    "title": "Albertsons factors rising fuel costs into fulfillment, delivery",
+    "link": "https://www.digitalcommerce360.com/2026/04/14/albertsons-fuel-costs-fulfillment-delivery/",
+    "date_published": "2026-04-14",
+    "description": "Albertsons is factoring in rising fuel costs into its outlook as it seeks to grow its fulfillment and delivery. On Albertsons’ fiscal Q4 2025 earnings call with analysts, executives shared how the retailer is approaching inflation and overall cost increases. Speaking broadly about inflation first, CEO Susan Morris said Albertsons still expects industry inflation on […]\nThe post Albertsons factors rising fuel costs into fulfillment, delivery appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.3,
+    "relevance_label": "high",
+    "title_en": "Albertsons Adjusts Fulfillment Strategy Amid Rising Fuel Costs",
+    "summary_ko": "Albertsons가 상승하는 연료비를 배송 및 풀필먼트 전략에 반영한다고 발표했습니다. CEO Susan Morris는 Q4 실적 발표에서 업계 인플레이션에 대한 회사의 접근 방식을 공유했습니다. 연료비 상승이 전체적인 비용 증가와 함께 배송 서비스 확장 계획에 영향을 미치고 있습니다.",
+    "summary_en": "Albertsons announced it is factoring rising fuel costs into its fulfillment and delivery strategy outlook. CEO Susan Morris shared the company's approach to industry inflation during Q4 earnings call with analysts. Rising fuel costs are impacting delivery service expansion plans alongside overall cost increases.",
+    "so_what_ko": "소매업체의 연료비 상승 대응은 LG D2C의 배송비 최적화와 풀필먼트 전략 수립에 참고할 수 있는 사례입니다.",
+    "so_what_en": "Retailer's response to rising fuel costs provides insights for LG D2C's delivery cost optimization and fulfillment strategy development.",
+    "key_points": [
+      "Fuel cost increases affecting delivery expansion plans",
+      "Strategic adjustment to fulfillment operations",
+      "CEO addressing inflation impact during earnings call"
+    ],
+    "tags": [
+      "fuel-costs",
+      "delivery-strategy",
+      "fulfillment",
+      "inflation-impact"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "Albertsons",
+      "Susan Morris"
+    ],
+    "one_line_insight_ko": "연료비 상승은 소매업체의 배송 전략 재조정을 촉진하며 비용 효율성 확보가 핵심 과제가 되고 있습니다.",
+    "one_line_insight_en": "Rising fuel costs are driving retailers to adjust delivery strategies with cost efficiency becoming a critical challenge.",
+    "ai_processed": true
+  },
+  {
+    "title": "Amazon expands grocery delivery partnership with Winn-Dixie in Florida",
+    "link": "https://www.digitalcommerce360.com/2026/04/14/amazon-grocery-delivery-partnership-winn-dixie/",
+    "date_published": "2026-04-14",
+    "description": "Amazon and Winn-Dixie have announced their expansion of a grocery delivery partnership in Florida. The expansion increases same-day delivery availability for online grocery orders across the state, reaching more of Florida’s largest metropolitan areas. The companies said consumers can check delivery availability in their area by visiting amazon.com/winndixie or using the Amazon shopping app. This […]\nThe post Amazon expands grocery delivery partnership with Winn-Dixie in Florida appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
+    "categories": [
+      "commerce"
+    ],
+    "relevance_score": 0.4,
+    "relevance_label": "high",
+    "title_en": "Amazon Expands Grocery Delivery Partnership with Winn-Dixie in Florida",
+    "summary_ko": "Amazon과 Winn-Dixie가 플로리다에서 식료품 배송 파트너십을 확장한다고 발표했습니다. 이번 확장으로 플로리다 주요 대도시 지역에서 당일 배송 서비스 이용 가능성이 증가합니다. 고객들은 amazon.com/winndixie나 Amazon 쇼핑 앱을 통해 해당 지역 배송 가능 여부를 확인할 수 있습니다.",
+    "summary_en": "Amazon and Winn-Dixie announced expansion of their grocery delivery partnership in Florida. The expansion increases same-day delivery availability across Florida's largest metropolitan areas. Customers can check delivery availability through amazon.com/winndixie or the Amazon shopping app.",
+    "so_what_ko": "Amazon의 지역 파트너십 확장 전략은 LG D2C의 로컬 배송 네트워크 구축과 파트너십 전략에 시사점을 제공합니다.",
+    "so_what_en": "Amazon's regional partnership expansion strategy offers insights for LG D2C's local delivery network development and partnership strategies.",
+    "key_points": [
+      "Partnership expansion in major Florida metropolitan areas",
+      "Same-day delivery availability increase",
+      "Integration with Amazon's shopping platform and app"
+    ],
+    "tags": [
+      "amazon-partnership",
+      "grocery-delivery",
+      "same-day-delivery",
+      "florida-expansion"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "PLATFORM_ECOSYSTEM",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Amazon",
+      "Winn-Dixie"
+    ],
+    "one_line_insight_ko": "Amazon의 지역 소매업체 파트너십 확장은 플랫폼 생태계 확장을 위한 전략적 접근법을 보여줍니다.",
+    "one_line_insight_en": "Amazon's regional retailer partnership expansion demonstrates strategic approaches for platform ecosystem growth.",
+    "ai_processed": true
+  },
+  {
+    "title": "American Express launches developer kit, purchase protection for agentic commerce",
+    "link": "https://www.digitalcommerce360.com/2026/04/14/american-express-agentic-commerce-developer-kit-purchase-protection/",
+    "date_published": "2026-04-14",
+    "description": "American Express has launched a developer kit in addition to purchase protection for agentic commerce transactions, the payments company shared with Digital Commerce 360. Its “Agentic Commerce Experiences” (ACE) developer kit features five key components, Luke Gebb, executive vice president and global head of innovation, told Digital Commerce 360. He described agentic commerce as “a […]\nThe post American Express launches developer kit, purchase protection for agentic commerce appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
+    "categories": [
+      "agentic_commerce",
+      "tech"
+    ],
+    "relevance_score": 0.95,
+    "relevance_label": "high",
+    "title_en": "American Express Launches Developer Kit and Purchase Protection for Agentic Commerce",
+    "summary_ko": "American Express가 에이전틱 커머스 거래를 위한 개발자 키트와 구매 보호 서비스를 출시했습니다. ACE(Agentic Commerce Experiences) 개발자 키트는 5가지 핵심 구성요소를 포함하고 있다고 Luke Gebb 혁신 담당 부사장이 설명했습니다. 이는 AI 에이전트를 통한 자동화된 구매 과정에서 결제 보안과 구매 보호를 강화하는 솔루션입니다.",
+    "summary_en": "American Express launched a developer kit and purchase protection for agentic commerce transactions. The ACE (Agentic Commerce Experiences) developer kit features five key components according to Luke Gebb, executive VP of innovation. This solution enhances payment security and purchase protection in AI agent-driven automated purchasing processes.",
+    "so_what_ko": "금융 서비스 업체의 에이전틱 커머스 지원은 LG D2C의 AI 기반 자동 구매 시스템 구축 시 결제 보안 파트너십의 중요성을 시사합니다.",
+    "so_what_en": "Financial services support for agentic commerce highlights the importance of payment security partnerships for LG D2C's AI-driven automated purchasing systems.",
+    "key_points": [
+      "Launch of ACE developer kit with five key components",
+      "Purchase protection specifically for agentic commerce",
+      "Executive leadership driving innovation in AI commerce payments"
+    ],
+    "tags": [
+      "american-express",
+      "agentic-commerce",
+      "developer-kit",
+      "purchase-protection"
+    ],
+    "confidence": 0.9,
+    "strategic_theme": "AGENTIC_COMMERCE",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "American Express",
+      "Luke Gebb",
+      "ACE"
+    ],
+    "one_line_insight_ko": "금융 서비스의 에이전틱 커머스 지원 도구 출시는 AI 자동 구매 시대의 결제 인프라 준비가 시작되었음을 의미합니다.",
+    "one_line_insight_en": "Financial services launching agentic commerce support tools signals the beginning of payment infrastructure preparation for the AI automated purchasing era.",
+    "ai_processed": true
+  },
+  {
+    "title": "AEO vs. GEO explained: What marketers need to know now",
+    "link": "https://blog.hubspot.com/marketing/aeo-vs-geo",
+    "date_published": "2026-04-14",
+    "description": "Marketers use AEO and GEO interchangeably, but there is a difference, and that’s what will be defined and explained in this article. In brief, AEO optimizes content for answer boxes and voice search results, while GEO targets AI chatbot citations and generated summaries.",
+    "source_id": "hubspot_marketing",
+    "source_name": "HubSpot Marketing Blog",
+    "source_url": "https://blog.hubspot.com/marketing/rss.xml",
+    "categories": [
+      "marketing",
+      "ai_marketing"
+    ],
+    "relevance_score": 0.8,
+    "relevance_label": "high",
+    "title_en": "AEO vs GEO: Essential Knowledge for Modern AI Marketing",
+    "summary_ko": "마케터들이 혼용해서 사용하는 AEO와 GEO의 차이점이 명확히 정의되었습니다. AEO는 답변 박스와 음성 검색 결과를 위한 콘텐츠 최적화에 중점을 두고 있습니다. GEO는 AI 챗봇 인용과 생성된 요약을 타겟으로 하는 최적화 방식입니다.",
+    "summary_en": "The distinction between AEO and GEO, often used interchangeably by marketers, has been clearly defined. AEO focuses on optimizing content for answer boxes and voice search results. GEO targets AI chatbot citations and generated summaries for optimization.",
+    "so_what_ko": "AI 시대의 SEO 전략 분화는 LG D2C가 콘텐츠 마케팅에서 AEO와 GEO를 구분하여 최적화 전략을 수립해야 함을 시사합니다.",
+    "so_what_en": "SEO strategy differentiation in the AI era indicates LG D2C needs to develop separate optimization strategies for AEO and GEO in content marketing.",
+    "key_points": [
+      "Clear distinction between AEO and GEO optimization strategies",
+      "AEO targets answer boxes and voice search results",
+      "GEO focuses on AI chatbot citations and generated summaries"
+    ],
+    "tags": [
+      "aeo",
+      "geo",
+      "ai-optimization",
+      "content-marketing"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "HubSpot"
+    ],
+    "one_line_insight_ko": "AEO와 GEO의 구분은 AI 시대 콘텐츠 마케팅에서 검색과 챗봇 최적화를 별도로 접근해야 함을 보여줍니다.",
+    "one_line_insight_en": "The distinction between AEO and GEO demonstrates the need for separate approaches to search and chatbot optimization in AI-era content marketing.",
+    "ai_processed": true
+  },
+  {
+    "title": "Inside Modelo’s largest soccer investment to date ahead of World Cup",
+    "link": "https://www.marketingdive.com/news/modelo-largest-soccer-investment-to-date-ahead-of-world-cup/817204/",
+    "date_published": "2026-04-14",
+    "description": "As part of its “Cerveza for Fútbol” platform, the beer brand is launching a “Best Seat in the House” campaign across TV, social, digital and other channels.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
+    "categories": [
+      "marketing"
+    ],
+    "relevance_score": 0.3,
+    "relevance_label": "high",
+    "title_en": "Modelo Makes Largest Soccer Investment for World Cup with 'Best Seat in the House' Campaign",
+    "summary_ko": "맥주 브랜드 모델로가 월드컵을 앞두고 'Cerveza for Fútbol' 플랫폼의 일환으로 역대 최대 규모의 축구 투자를 단행했습니다. 'Best Seat in the House' 캠페인을 TV, 소셜, 디지털 등 다양한 채널에서 런칭했습니다. 이는 스포츠 마케팅을 통한 브랜드 인지도 확산 전략의 일환입니다.",
+    "summary_en": "Beer brand Modelo has announced its largest soccer investment to date ahead of the World Cup as part of its 'Cerveza for Fútbol' platform. The brand is launching a 'Best Seat in the House' campaign across TV, social, digital and other channels. This represents a significant sports marketing strategy to expand brand awareness.",
+    "so_what_ko": "스포츠 이벤트를 활용한 대규모 멀티채널 캠페인은 D2C 브랜드가 글로벌 인지도를 높이는 효과적인 전략을 보여줍니다.",
+    "so_what_en": "Large-scale multi-channel campaigns leveraging sports events demonstrate effective strategies for D2C brands to boost global awareness.",
+    "key_points": [
+      "Modelo's largest soccer investment to date for World Cup marketing",
+      "'Best Seat in the House' campaign across multiple channels",
+      "Part of broader 'Cerveza for Fútbol' platform strategy"
+    ],
+    "tags": [
+      "sports-marketing",
+      "multi-channel",
+      "brand-awareness"
     ],
     "confidence": 0.6,
     "strategic_theme": "AI_MARKETING",
     "regions": [
       "GLOBAL"
     ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "On",
-      "Zendaya",
-      "Spike Jonze"
-    ],
-    "one_line_insight_ko": "셀럽 공동창작과 유명 감독 마케팅을 결합한 프리미엄 브랜딩 전략이 주목받고 있습니다.",
-    "one_line_insight_en": "Premium branding strategies combining celebrity co-creation with renowned director marketing campaigns are gaining prominence.",
-    "ai_processed": true
-  },
-  {
-    "title": "Stanley 1913’s approach to product development through diversity",
-    "link": "https://www.retaildive.com/news/stanley-product-development-diversity/817228/",
-    "date_published": "2026-04-13",
-    "description": "Executive Graham Nearn spoke to Retail Dive about how Stanley is expanding its offerings as it grows into a global brand.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "strategy",
-      "commerce"
-    ],
-    "relevance_score": 0.3,
-    "relevance_label": "high",
-    "summary_ko": "Stanley 1913의 임원 Graham Nearn이 다양성을 통한 제품 개발 접근법에 대해 설명했습니다. Stanley는 글로벌 브랜드로 성장하면서 제품 라인업을 확장하고 있습니다. 다양성이 혁신적인 제품 개발의 핵심 요소로 작용하고 있습니다.",
-    "summary_en": "Stanley 1913 executive Graham Nearn discussed the company's approach to product development through diversity. Stanley is expanding its product offerings as it grows into a global brand. Diversity serves as a key element in driving innovative product development.",
-    "so_what_ko": "다양성 중심의 제품 개발은 D2C 브랜드의 글로벌 확장 시 필수적이며, 포용적 혁신이 경쟁 우위를 창출할 수 있습니다.",
-    "so_what_en": "Diversity-driven product development is essential for D2C brands' global expansion, with inclusive innovation creating competitive advantages.",
-    "key_points": [
-      "Stanley emphasizes diversity in product development",
-      "Company expanding globally with broader product range",
-      "Inclusive approach driving innovation strategy"
-    ],
-    "tags": [
-      "product-development",
-      "diversity",
-      "global-expansion"
-    ],
-    "confidence": 0.5,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "GLOBAL"
-    ],
     "business_impact": "LOW",
-    "sentiment": "OPPORTUNITY",
+    "sentiment": "NEUTRAL",
     "key_entities": [
-      "Stanley 1913",
-      "Graham Nearn"
+      "Modelo",
+      "World Cup"
     ],
-    "one_line_insight_ko": "다양성 중심 제품 개발이 글로벌 브랜드 확장의 핵심 전략으로 부상하고 있습니다.",
-    "one_line_insight_en": "Diversity-centered product development is emerging as a key strategy for global brand expansion.",
+    "one_line_insight_ko": "스포츠 이벤트 마케팅은 브랜드 인지도 확산을 위한 강력한 멀티채널 전략입니다.",
+    "one_line_insight_en": "Sports event marketing serves as a powerful multi-channel strategy for brand awareness expansion.",
     "ai_processed": true
   },
   {
-    "title": "Nike’s innovation chief departs as leadership turnover continues",
-    "link": "https://www.retaildive.com/news/nike-innovation-chief-tony-bignell-exits-andy-caine-turnaround/817310/",
-    "date_published": "2026-04-13",
-    "description": "Turnarounds rely on innovation cycles, and the abrupt departure of Tony Bignell could be another sign that the retail giant isn’t out of the woods, one analyst said.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "strategy",
-      "commerce"
-    ],
-    "relevance_score": 0.4,
-    "relevance_label": "high",
-    "summary_ko": "나이키의 혁신 담당 최고책임자 Tony Bignell이 갑작스럽게 퇴사했습니다. 이는 나이키의 지속적인 경영진 교체의 일환으로 보입니다. 한 애널리스트는 이러한 혁신 부문 리더의 갑작스러운 이탈이 나이키가 아직 어려움에서 벗어나지 못했다는 신호일 수 있다고 분석했습니다.",
-    "summary_en": "Nike's innovation chief Tony Bignell has departed abruptly as leadership turnover continues. This represents part of ongoing executive changes at the retail giant. An analyst suggested that the sudden departure of the innovation leader could signal Nike isn't out of the woods yet.",
-    "so_what_ko": "대형 브랜드의 혁신 부문 리더십 불안정성은 D2C 브랜드들에게 기회가 될 수 있으며, 안정적인 혁신 조직 구축이 중요합니다.",
-    "so_what_en": "Leadership instability in innovation departments at major brands can create opportunities for D2C brands, highlighting the importance of building stable innovation organizations.",
-    "key_points": [
-      "Nike innovation chief Tony Bignell exits suddenly",
-      "Part of continuing leadership turnover at Nike",
-      "Analyst views departure as sign of ongoing challenges"
-    ],
-    "tags": [
-      "leadership-change",
-      "innovation-management",
-      "corporate-restructuring"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Nike",
-      "Tony Bignell",
-      "Andy Caine"
-    ],
-    "one_line_insight_ko": "메이저 브랜드의 혁신 리더십 공백은 D2C 브랜드들의 시장 기회를 확대시킬 수 있습니다.",
-    "one_line_insight_en": "Innovation leadership gaps at major brands can expand market opportunities for D2C brands.",
-    "ai_processed": true
-  },
-  {
-    "title": "TD SYNNEX Q1 revenue surpasses expectations",
-    "link": "https://www.digitalcommerce360.com/2026/04/13/td-synnex-revenue-q1-fy26/",
-    "date_published": "2026-04-13",
-    "description": "TD SYNNEX reported record revenue in its fiscal Q1 2026, propelled by continued demand and successful artificial intelligence (AI) integration. The IT distributor said revenue reached $17.2 billion in the quarter ended Feb. 28, an 18% increase over the same period in the previous year. That result significantly outpaced projects, the company said. Net income […]\nThe post TD SYNNEX Q1 revenue surpasses expectations appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
-    "categories": [
-      "tech",
-      "commerce"
-    ],
-    "relevance_score": 0.7,
-    "relevance_label": "high",
-    "summary_ko": "IT 유통업체 TD SYNNEX가 2026년 1분기에 기대치를 뛰어넘는 매출을 기록했습니다. 매출은 172억 달러로 전년 동기 대비 18% 증가한 기록적인 수치를 달성했습니다. 지속적인 수요와 성공적인 인공지능(AI) 통합이 성장을 견인했다고 회사는 밝혔습니다.",
-    "summary_en": "IT distributor TD SYNNEX reported record revenue in fiscal Q1 2026, surpassing expectations. Revenue reached $17.2 billion, an 18% increase over the same period in the previous year. The company attributed growth to continued demand and successful artificial intelligence integration.",
-    "so_what_ko": "AI 통합이 B2B 유통업체의 매출 성장을 견인하고 있어, D2C 브랜드들도 AI 기술 도입을 통해 운영 효율성과 매출 증대를 기대할 수 있습니다.",
-    "so_what_en": "AI integration is driving revenue growth for B2B distributors, suggesting D2C brands can also expect operational efficiency and revenue increases through AI technology adoption.",
-    "key_points": [
-      "TD SYNNEX achieved record Q1 revenue of $17.2 billion",
-      "18% year-over-year growth exceeded projections",
-      "AI integration identified as key growth driver"
-    ],
-    "tags": [
-      "ai-integration",
-      "revenue-growth",
-      "b2b-distribution"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_COMMERCE",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "TD SYNNEX"
-    ],
-    "one_line_insight_ko": "AI 통합이 유통업체의 매출 성장을 견인하며 D2C 브랜드들의 AI 도입 필요성을 시사합니다.",
-    "one_line_insight_en": "AI integration is driving distributor revenue growth, signaling the need for D2C brands to adopt AI technologies.",
-    "ai_processed": true
-  },
-  {
-    "title": "Chipotle overhauls rewards system",
-    "link": "https://www.marketingdive.com/news/chipotle-rewards-relaunch-freepotle-returns/817317/",
-    "date_published": "2026-04-13",
-    "description": "More free items and an in-store campaign to boost enrollment could help the fast casual giant expand its already considerable rewards base.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
+    "title": "AI rewards brand meaning and punishes everything else",
+    "link": "https://martech.org/ai-rewards-brand-meaning-and-punishes-everything-else/",
+    "date_published": "2026-04-14",
+    "description": "As AI reshapes discovery, brands built on transactions lose ground. Use this prompt to test and strengthen your brand’s visibility.\nThe post AI rewards brand meaning and punishes everything else appeared first on MarTech.",
+    "source_id": "martech_org",
+    "source_name": "MarTech.org",
+    "source_url": "https://martech.org/feed",
     "categories": [
       "marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.6,
-    "relevance_label": "high",
-    "summary_ko": "치폴레가 리워드 시스템을 전면 개편했습니다. 더 많은 무료 아이템 제공과 매장 내 가입 캠페인을 통해 이미 상당한 규모의 리워드 회원 기반을 확대하려고 합니다. 패스트 캐주얼 거대 브랜드의 고객 충성도 강화 전략으로 주목받고 있습니다.",
-    "summary_en": "Chipotle has overhauled its rewards system with more free items and an in-store enrollment campaign. The fast casual giant aims to expand its already considerable rewards member base. This strategy focuses on strengthening customer loyalty through enhanced benefits.",
-    "so_what_ko": "리워드 시스템 개편과 매장 내 가입 캠페인은 D2C 브랜드들이 고객 충성도를 높이고 회원 기반을 확대할 수 있는 효과적인 전략입니다.",
-    "so_what_en": "Rewards system overhauls and in-store enrollment campaigns represent effective strategies for D2C brands to enhance customer loyalty and expand membership bases.",
-    "key_points": [
-      "Chipotle relaunches rewards program with enhanced benefits",
-      "In-store campaign designed to boost enrollment",
-      "Strategy targets expansion of existing rewards member base"
-    ],
-    "tags": [
-      "loyalty-program",
-      "customer-retention",
-      "rewards-system"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Chipotle",
-      "Freepotle"
-    ],
-    "one_line_insight_ko": "리워드 프로그램 혁신이 고객 충성도 강화와 매출 증대의 핵심 전략으로 부상하고 있습니다.",
-    "one_line_insight_en": "Rewards program innovation is emerging as a key strategy for enhancing customer loyalty and driving revenue growth.",
-    "ai_processed": true
-  },
-  {
-    "title": "AI search adoption splits along income lines",
-    "link": "https://martech.org/ai-search-adoption-splits-along-income-lines/",
-    "date_published": "2026-04-13",
-    "description": "Higher-value audiences are adopting AI faster, fragmenting search behavior and reshaping decisions before the click.\nThe post AI search adoption splits along income lines appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
-    "categories": [
-      "marketing"
-    ],
-    "relevance_score": 0.8,
-    "relevance_label": "high",
-    "summary_ko": "AI 검색 도구 채택이 소득 수준에 따라 분화되고 있어 고소득층이 먼저 AI를 활용하고 있습니다. 이로 인해 검색 행동이 파편화되고 클릭 전 의사결정 과정이 재편되고 있습니다. 고가치 고객층의 AI 도구 사용이 마케팅 전략에 새로운 변화를 요구하고 있습니다.",
-    "summary_en": "AI search tool adoption is splitting along income lines with higher-income audiences adopting AI faster. This is fragmenting search behavior and reshaping decision-making processes before users even click. The trend is creating new challenges for marketers as valuable customer segments change their search patterns.",
-    "so_what_ko": "고소득층 고객을 타겟으로 하는 D2C 브랜드는 AI 검색 환경에 최적화된 마케팅 전략을 우선적으로 개발해야 합니다.",
-    "so_what_en": "D2C brands targeting higher-income customers need to prioritize developing marketing strategies optimized for AI search environments.",
-    "key_points": [
-      "AI search adoption varies by income level",
-      "Higher-value audiences are early AI adopters",
-      "Search behavior fragmentation is occurring",
-      "Decision-making processes are changing pre-click"
-    ],
-    "tags": [
-      "ai-search",
-      "customer-segmentation",
-      "search-behavior"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "AI search tools",
-      "MarTech"
-    ],
-    "one_line_insight_ko": "고소득층의 AI 검색 도구 우선 채택으로 D2C는 고가치 고객층을 위한 차별화된 AI 마케팅 전략이 필요합니다.",
-    "one_line_insight_en": "Higher-income consumers' early AI search adoption requires D2C brands to develop differentiated AI marketing strategies for high-value customer segments.",
-    "ai_processed": true
-  },
-  {
-    "title": "A framework for auditing generative AI outputs pre-launch",
-    "link": "https://martech.org/a-framework-for-auditing-generative-ai-outputs-pre-launch/",
-    "date_published": "2026-04-13",
-    "description": "A structured review process helps teams enforce brand voice and reduce legal risk before AI-generated content reaches market.\nThe post A framework for auditing generative AI outputs pre-launch appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
-    "categories": [
-      "marketing"
+      "tech"
     ],
     "relevance_score": 0.9,
     "relevance_label": "high",
-    "summary_ko": "AI 생성 콘텐츠의 출시 전 체계적인 검토 프로세스에 대한 프레임워크가 제시되었습니다. 이 과정을 통해 브랜드 보이스를 일관되게 유지하고 법적 리스크를 줄일 수 있습니다. 시장 출시 전 AI 콘텐츠의 품질 관리가 중요한 이슈로 부각되고 있습니다.",
-    "summary_en": "A framework for auditing generative AI outputs before launch has been presented to help teams maintain brand consistency. The structured review process helps enforce brand voice and reduce legal risks. Quality control of AI-generated content before market release is becoming a critical issue.",
-    "so_what_ko": "D2C 브랜드는 AI 생성 콘텐츠 활용 시 브랜드 일관성과 법적 리스크 관리를 위한 체계적인 검토 프로세스 도입이 필수적입니다.",
-    "so_what_en": "D2C brands must implement systematic review processes for AI-generated content to ensure brand consistency and manage legal risks.",
+    "title_en": "AI Discovery Revolution Rewards Meaningful Brands While Punishing Transaction-Based Marketing",
+    "summary_ko": "AI가 발견 과정을 재편하면서 의미 있는 브랜드는 보상받고 단순 거래 기반 브랜드는 뒤처지고 있습니다. AI 시대에는 브랜드의 본질적 가치와 의미가 가시성을 결정하는 핵심 요소가 되었습니다. 브랜드는 자신의 가시성을 테스트하고 강화할 수 있는 프롬프트를 활용해야 합니다.",
+    "summary_en": "As AI reshapes the discovery process, brands built on meaningful foundations are being rewarded while transaction-based brands lose ground. In the AI era, a brand's intrinsic value and meaning have become key determinants of visibility. Brands should utilize prompts to test and strengthen their visibility in AI-driven discovery.",
+    "so_what_ko": "D2C 브랜드는 단순 거래 중심에서 벗어나 브랜드 스토리와 가치를 강화하여 AI 검색에서의 가시성을 확보해야 합니다.",
+    "so_what_en": "D2C brands must move beyond transaction-focus to strengthen brand story and values for better visibility in AI-driven search.",
     "key_points": [
-      "Framework for auditing AI outputs pre-launch",
-      "Helps maintain brand voice consistency",
-      "Reduces legal risks",
-      "Structured review process for AI content"
+      "AI discovery rewards brand meaning over transactional approaches",
+      "Brand visibility increasingly depends on intrinsic value proposition",
+      "Prompts available to test brand strength in AI discovery"
     ],
     "tags": [
-      "ai-content",
-      "brand-governance",
-      "content-audit"
+      "ai-discovery",
+      "brand-meaning",
+      "search-visibility"
     ],
     "confidence": 0.8,
     "strategic_theme": "AI_MARKETING",
     "regions": [
       "GLOBAL"
     ],
-    "business_impact": "MEDIUM",
+    "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Generative AI",
+      "AI",
       "MarTech"
     ],
-    "one_line_insight_ko": "AI 콘텐츠의 브랜드 일관성과 리스크 관리를 위한 체계적 검토 프로세스가 D2C의 핵심 역량이 되고 있습니다.",
-    "one_line_insight_en": "Systematic review processes for AI content are becoming core competencies for D2C brands to maintain brand consistency and manage risks.",
+    "one_line_insight_ko": "AI 시대의 브랜드 가시성은 거래가 아닌 의미와 가치에 의해 결정됩니다.",
+    "one_line_insight_en": "Brand visibility in the AI era is determined by meaning and value, not transactions.",
     "ai_processed": true
   },
   {
-    "title": "An Amazon warehouse worker died on the job at Oregon facility",
-    "link": "https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility/",
+    "title": "How AI Is Democratizing Content and Creating Today&#8217;s &#8216;Access Era&#8217;",
+    "link": "https://www.adweek.com/social-marketing/how-ai-democratizing-content-and-creating-todays-access-era/",
     "date_published": "2026-04-14",
-    "description": "Though Amazon has faced issues with warehouse safety, the company said that the death was not work related.",
-    "source_id": "techcrunch_commerce",
-    "source_name": "TechCrunch Commerce",
-    "source_url": "https://techcrunch.com/category/commerce/feed",
-    "categories": [
-      "commerce"
-    ],
-    "relevance_score": 0.3,
-    "relevance_label": "high",
-    "summary_ko": "아마존 오리건 창고에서 직원이 업무 중 사망하는 사고가 발생했습니다. 아마존은 이 사망 사고가 업무와 관련이 없다고 발표했습니다. 아마존의 창고 안전 문제가 지속적으로 제기되고 있는 상황입니다.",
-    "summary_en": "A warehouse worker died on the job at an Amazon facility in Oregon. Amazon stated that the death was not work-related. The incident adds to ongoing concerns about Amazon's warehouse safety issues.",
-    "so_what_ko": "창고 안전 관리는 D2C 물류 운영의 핵심 요소로, 직원 안전과 브랜드 평판 관리가 필수적입니다.",
-    "so_what_en": "Warehouse safety management is critical for D2C logistics operations, requiring focus on employee safety and brand reputation management.",
-    "key_points": [
-      "Worker death at Amazon Oregon facility",
-      "Amazon claims death was not work-related",
-      "Ongoing warehouse safety concerns",
-      "Impact on company reputation"
-    ],
-    "tags": [
-      "warehouse-safety",
-      "logistics",
-      "worker-safety"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "Amazon",
-      "Oregon facility"
-    ],
-    "one_line_insight_ko": "물류 창고 안전 관리는 D2C 브랜드의 지속가능한 운영과 평판 관리에 직결되는 중요한 요소입니다.",
-    "one_line_insight_en": "Warehouse safety management is directly linked to sustainable operations and reputation management for D2C brands.",
-    "ai_processed": true
-  },
-  {
-    "title": "Publicis Groupe Grows for 20th Straight Quarter, But Momentum Slows",
-    "link": "https://www.adweek.com/agencies/publicis-groupe-grows-for-20th-straight-quarter-but-momentum-slows/",
-    "date_published": "2026-04-14",
-    "description": "Conflict in the Middle East weighed on the Group’s revenue growth.",
+    "description": "Higgsfield AI's Mahi de Silva reveals how creativity barriers are coming down at ADWEEK's Social Media Week.",
     "source_id": "adweek",
     "source_name": "Adweek",
     "source_url": "https://www.adweek.com/feed",
     "categories": [
-      "marketing"
+      "marketing",
+      "tech"
     ],
-    "relevance_score": 0.4,
+    "relevance_score": 0.8,
     "relevance_label": "high",
-    "summary_ko": "퍼블리시스 그룹이 20분기 연속 성장을 기록했으나 성장 모멘텀이 둔화되고 있습니다. 중동 지역의 갈등이 그룹의 매출 성장에 부정적 영향을 미쳤습니다. 글로벌 정치적 불안정이 광고업계 성장에 제약 요인으로 작용하고 있습니다.",
-    "summary_en": "Publicis Groupe achieved growth for the 20th consecutive quarter but momentum is slowing. Conflict in the Middle East weighed on the Group's revenue growth. Global political instability is acting as a constraint on advertising industry growth.",
-    "so_what_ko": "지정학적 리스크가 마케팅 투자에 미치는 영향을 고려하여 D2C는 지역별 마케팅 전략의 유연성을 확보해야 합니다.",
-    "so_what_en": "D2C brands should secure flexibility in regional marketing strategies considering the impact of geopolitical risks on marketing investments.",
+    "title_en": "AI Democratizes Content Creation in the New 'Access Era' of Digital Marketing",
+    "summary_ko": "AI가 콘텐츠 제작을 민주화하며 오늘날의 '접근성 시대'를 만들어가고 있습니다. Higgsfield AI의 마히 데 실바가 ADWEEK 소셜 미디어 위크에서 창작 장벽이 무너지고 있음을 밝혔습니다. AI 기술을 통해 더 많은 사람들이 고품질 콘텐츠를 제작할 수 있게 되었습니다.",
+    "summary_en": "AI is democratizing content creation and ushering in today's 'Access Era' of digital marketing. Higgsfield AI's Mahi de Silva revealed at ADWEEK's Social Media Week how creativity barriers are coming down. AI technology is enabling more people to create high-quality content than ever before.",
+    "so_what_ko": "D2C 브랜드는 AI를 활용한 콘텐츠 민주화 트렌드를 통해 비용 효율적이고 창의적인 마케팅 콘텐츠를 대량 생산할 수 있습니다.",
+    "so_what_en": "D2C brands can leverage AI-driven content democratization to produce cost-effective and creative marketing content at scale.",
     "key_points": [
-      "20th consecutive quarter of growth",
-      "Growth momentum slowing",
-      "Middle East conflict impacting revenue",
-      "Geopolitical factors affecting advertising"
+      "AI is democratizing content creation across industries",
+      "Creative barriers are being removed through AI technology",
+      "New 'Access Era' enables broader participation in content creation"
     ],
     "tags": [
-      "advertising-industry",
-      "geopolitical-risk",
-      "growth-slowdown"
+      "content-democratization",
+      "ai-creativity",
+      "access-era"
     ],
-    "confidence": 0.8,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "confidence": 0.7,
+    "strategic_theme": "AI_MARKETING",
     "regions": [
       "GLOBAL"
     ],
-    "business_impact": "MEDIUM",
-    "sentiment": "THREAT",
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Publicis Groupe",
-      "Middle East"
+      "Higgsfield AI",
+      "Mahi de Silva",
+      "ADWEEK"
     ],
-    "one_line_insight_ko": "지정학적 불안정이 글로벌 마케팅 투자에 미치는 영향을 고려한 리스크 관리 전략이 필요합니다.",
-    "one_line_insight_en": "Risk management strategies considering geopolitical instability's impact on global marketing investments are essential.",
+    "one_line_insight_ko": "AI 기반 콘텐츠 민주화는 마케팅 창작의 진입 장벽을 크게 낮추고 있습니다.",
+    "one_line_insight_en": "AI-powered content democratization is significantly lowering barriers to marketing creativity.",
     "ai_processed": true
   },
   {
-    "title": "JCPenney Brings Its Battle Against Fashion Elitism to Women&#8217;s Basketball",
-    "link": "https://www.adweek.com/brand-marketing/jcpenney-brings-its-battle-against-fashion-elitism-to-womens-basketball/",
+    "title": "BMW Digital Founder Urges Brands to Trade Moments for Commitments",
+    "link": "https://www.adweek.com/social-marketing/bmw-digital-neandre-broussard-social-media-week/",
     "date_published": "2026-04-14",
-    "description": "JCPenney breaks into women's sports with Inside Lane, an extension of its message that great style doesn't have to cost a fortune.",
+    "description": "At Social Media Week, NeAndre Broussard argued that consistency will outperform trend-driven campaigns.",
     "source_id": "adweek",
     "source_name": "Adweek",
     "source_url": "https://www.adweek.com/feed",
     "categories": [
+      "strategy",
       "marketing"
     ],
     "relevance_score": 0.6,
     "relevance_label": "high",
-    "summary_ko": "JCPenney가 여성 농구를 통해 패션 엘리트주의에 맞서는 마케팅 캠페인을 전개하고 있습니다. 'Inside Lane'이라는 캠페인을 통해 좋은 스타일이 비싸지 않아도 된다는 메시지를 전달하고 있습니다. 여성 스포츠 마케팅을 통해 브랜드의 접근성과 포용성을 강조하는 전략입니다.",
-    "summary_en": "JCPenney is using women's basketball to battle fashion elitism through marketing campaigns. The 'Inside Lane' campaign extends their message that great style doesn't have to be expensive. The strategy emphasizes brand accessibility and inclusivity through women's sports marketing.",
-    "so_what_ko": "D2C 브랜드는 스포츠 마케팅을 통해 브랜드의 포용성과 접근성을 강조하여 차별화된 포지셔닝을 구축할 수 있습니다.",
-    "so_what_en": "D2C brands can build differentiated positioning by emphasizing inclusivity and accessibility through sports marketing.",
+    "title_en": "BMW Digital Founder Advocates Consistency Over Trend-Chasing in Brand Strategy",
+    "summary_ko": "BMW 디지털 창립자 니앤드레 브루사드가 소셜 미디어 위크에서 브랜드는 순간적 트렌드보다 지속적 약속에 집중해야 한다고 주장했습니다. 일관성이 트렌드 중심 캠페인보다 더 나은 성과를 낼 것이라고 강조했습니다. 브랜드는 모멘트보다 커미트먼트를 선택해야 한다는 메시지를 전달했습니다.",
+    "summary_en": "BMW Digital founder NeAndre Broussard argued at Social Media Week that brands should focus on sustained commitments rather than momentary trends. He emphasized that consistency will outperform trend-driven campaigns. The message stressed choosing commitments over moments in brand strategy.",
+    "so_what_ko": "D2C 브랜드는 단발성 트렌드 마케팅보다 일관된 브랜드 메시지와 가치를 지속적으로 전달하는 전략이 더 효과적임을 인식해야 합니다.",
+    "so_what_en": "D2C brands should recognize that consistent brand messaging and values are more effective than one-off trend marketing.",
     "key_points": [
-      "JCPenney entering women's sports marketing",
-      "Inside Lane campaign message",
-      "Fighting fashion elitism",
-      "Emphasizing style accessibility"
+      "BMW Digital founder advocates for brand consistency over trend-chasing",
+      "Long-term commitments outperform momentary campaigns",
+      "Strategic focus should be on sustained brand values"
     ],
     "tags": [
-      "sports-marketing",
-      "brand-positioning",
-      "inclusivity"
+      "brand-consistency",
+      "long-term-strategy",
+      "social-media"
     ],
-    "confidence": 0.8,
+    "confidence": 0.7,
     "strategic_theme": "CUSTOMER_EXPERIENCE",
     "regions": [
-      "AMER"
+      "GLOBAL"
     ],
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "JCPenney",
-      "Inside Lane"
+      "BMW",
+      "NeAndre Broussard",
+      "Social Media Week"
     ],
-    "one_line_insight_ko": "스포츠 마케팅을 통한 브랜드 포용성 강조는 D2C가 대중적 접근성을 확보하는 효과적인 전략입니다.",
-    "one_line_insight_en": "Emphasizing brand inclusivity through sports marketing is an effective strategy for D2C brands to achieve mass accessibility.",
+    "one_line_insight_ko": "브랜드 성공은 트렌드 추격이 아닌 일관된 약속과 가치 전달에서 나옵니다.",
+    "one_line_insight_en": "Brand success comes from consistent commitment and value delivery, not trend-chasing.",
+    "ai_processed": true
+  },
+  {
+    "title": "Amazon hits pause on controversial change to its advertising payment system that had caused a seller revolt",
+    "link": "https://www.modernretail.co/operations/amazon-hits-pause-on-controversial-change-to-its-advertising-payment-system-that-had-caused-a-seller-revolt/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-04-14",
+    "description": "Amazon is hitting pause on a controversial change to its advertising payment system after backlash from sellers who said the update would disrupt cash flow and billing flexibility.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.7,
+    "relevance_label": "high",
+    "title_en": "Amazon Pauses Controversial Ad Payment System Changes After Seller Revolt",
+    "summary_ko": "아마존이 판매자들의 강한 반발로 인해 논란이 된 광고 결제 시스템 변경을 일시 중단했습니다. 판매자들은 이 업데이트가 현금 흐름과 결제 유연성을 방해할 것이라고 우려를 표명했습니다. 이번 결정은 플랫폼 정책 변경 시 판매자 의견 수렴의 중요성을 보여줍니다.",
+    "summary_en": "Amazon has paused controversial changes to its advertising payment system following strong backlash from sellers. Sellers expressed concerns that the update would disrupt cash flow and billing flexibility. This decision highlights the importance of seller input when making platform policy changes.",
+    "so_what_ko": "D2C 브랜드는 아마존 같은 플랫폼 정책 변화에 민감하게 반응하고 집단적 목소리를 통해 불리한 변경사항에 대응할 수 있음을 확인했습니다.",
+    "so_what_en": "D2C brands can effectively respond to unfavorable platform policy changes through collective action and vocal opposition.",
+    "key_points": [
+      "Amazon paused controversial advertising payment system changes",
+      "Seller revolt cited cash flow and billing flexibility concerns",
+      "Demonstrates power of collective seller feedback on platform policies"
+    ],
+    "tags": [
+      "amazon-advertising",
+      "seller-revolt",
+      "platform-policy"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "PLATFORM_ECOSYSTEM",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Amazon",
+      "Modern Retail"
+    ],
+    "one_line_insight_ko": "플랫폼 판매자들의 집단적 반발은 정책 변경을 되돌릴 수 있는 강력한 힘입니다.",
+    "one_line_insight_en": "Collective seller pushback can be a powerful force in reversing platform policy changes.",
     "ai_processed": true
   }
 ]
