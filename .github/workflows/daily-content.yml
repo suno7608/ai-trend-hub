@@ -89,7 +89,7 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: "Step 9: Send daily newsletter"
+      - name: "Step 9: Send KR and EN newsletters"
         run: |
           if [ ! -s data/summarized.json ] || [ "$(cat data/summarized.json)" = "[]" ]; then
             echo "⚠️ No summarized articles. Skipping newsletter."
@@ -98,13 +98,14 @@ jobs:
           pip install google-auth google-auth-oauthlib google-api-python-client
           # Write Google token from secret
           echo '${{ secrets.GOOGLE_TOKEN_JSON }}' > /tmp/google-token.json
-          python3 scripts/newsletter_sender.py --send --force
+          python3 scripts/newsletter_sender.py --language ko --send --force
+          python3 scripts/newsletter_sender.py --language en --send --force
         env:
           GOOGLE_TOKEN_PATH: /tmp/google-token.json
 
       - name: "Notify: Success"
         if: success()
-        run: node scripts/notify-telegram.js --status=success --pipeline=daily --details="Daily pipeline completed + newsletter sent" --run-url="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+        run: node scripts/notify-telegram.js --status=success --pipeline=daily --details="Daily pipeline completed + KR/EN newsletters sent" --run-url="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
