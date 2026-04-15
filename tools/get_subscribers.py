@@ -22,7 +22,7 @@ SPREADSHEET_ID = KR_SPREADSHEET_ID
 # Canonical subscriber sheets
 DEFAULT_RANGE_NAMES = ["'설문지 응답 시트4'!B2:B"]
 KO_RANGE_NAMES = ["'설문지 응답 시트4'!B2:B"]
-EN_RANGE_NAMES = ["EN_Newsletter!B2:B"]
+EN_RANGE_NAMES = ["'설문지 응답 시트4'!B2:B"]
 TOKEN_PATH = os.environ.get("GOOGLE_TOKEN_PATH", os.path.expanduser("~/.openclaw/workspace/tools/google-token.json"))
 EMAIL_PATTERN = re.compile(r"^[A-Z0-9._%+\-]+@[A-Z0-9.\-]+\.[A-Z]{2,63}$", re.IGNORECASE)
 
