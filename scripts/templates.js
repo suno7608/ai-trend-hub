@@ -417,7 +417,7 @@ function renderArchiveSearch() {
 
 // ── Subscribe Section ────────────────────────────────────
 function renderSubscribeSection() {
-  const koFormUrl = 'https://docs.google.com/forms/d/e/1FAIpQLSd8etnrJSjXFNMWFg0-TQjqur-JL0TK4anujlCyuJFcsWrkcQ/viewform';
+  const koFormUrl = 'https://docs.google.com/forms/d/e/1FAIpQLSd7qCYdB5GFuKdRut-H0OT7t9xNX9XvYoqWHhuv-pGMg0HtfQ/viewform';
   const enFormUrl = 'https://docs.google.com/forms/d/e/1FAIpQLSe2x7aIGrDrjIy7Z7uYHbqwnVnuqbECyRXvx9YrEUeUwVRlXA/viewform';
 
   return `
