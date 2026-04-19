@@ -1,123 +1,31 @@
 [
   {
-    "title": "The Weekly Closeout: Allbirds’ ‘AI-washing’ and Nike’s ongoing exec turnover",
-    "link": "https://www.retaildive.com/news/allbirds-ai-washing-nikes-executive-turnover-innovation-chief-exits/817724/",
-    "date_published": "2026-04-17",
-    "description": "The footwear retailer announced a pivot no one saw coming, while another leader walked out the door at the sportswear giant.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.6,
-    "relevance_label": "high",
-    "title_en": "Allbirds faces 'AI-washing' criticism as Nike experiences executive turnover",
-    "summary_ko": "신발 브랜드 Allbirds가 예상치 못한 AI 전략 전환을 발표했습니다. Nike는 지속적인 임원진 교체로 또 다른 리더가 회사를 떠났습니다. 두 브랜드 모두 혁신과 리더십에서 중요한 변화를 겪고 있습니다.",
-    "summary_en": "Footwear retailer Allbirds announced an unexpected pivot toward AI strategy. Nike continues experiencing executive turnover with another leader departing the company. Both brands are undergoing significant changes in innovation and leadership approaches.",
-    "so_what_ko": "AI 기술 도입 시 진정성 있는 가치 제공 없이 마케팅만 앞세우는 'AI 워싱'을 피해야 합니다.",
-    "so_what_en": "D2C brands must avoid 'AI-washing' by ensuring genuine value delivery rather than superficial AI marketing claims.",
-    "key_points": [
-      "Allbirds announced unexpected AI strategy pivot",
-      "Nike faces ongoing executive leadership turnover",
-      "'AI-washing' concerns in retail industry"
-    ],
-    "tags": [
-      "ai-washing",
-      "executive-turnover",
-      "retail-strategy"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Allbirds",
-      "Nike"
-    ],
-    "one_line_insight_ko": "AI 도입 시 실질적 가치 창출 없는 '워싱' 전략은 브랜드 신뢰도를 해칠 수 있습니다.",
-    "one_line_insight_en": "AI adoption without genuine value creation risks damaging brand credibility through 'washing' strategies.",
-    "ai_processed": true
-  },
-  {
-    "title": "UK grocer Tesco goes all in on AI with Adobe",
-    "link": "https://www.digitalcommerce360.com/2026/04/17/uk-grocer-tesco-ai-adobe/",
-    "date_published": "2026-04-17",
-    "description": "U.K. grocery giant Tesco has teamed up with U.S. software giant Adobe to make supermarket shopping AI-infused and easier. Tesco plans to use Adobe’s agentic AI capabilities and Adobe Firefly Foundry to assist its personalization and AI teams in better anticipating customer needs. The retailer seeks to deliver better tailored content, offers and experiences across […]\nThe post UK grocer Tesco goes all in on AI with Adobe appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
-    "categories": [
-      "ai_marketing",
-      "commerce"
-    ],
-    "relevance_score": 0.9,
-    "relevance_label": "high",
-    "title_en": "UK grocery giant Tesco partners with Adobe for comprehensive AI shopping experience",
-    "summary_ko": "영국 대형 식료품 체인 Tesco가 Adobe와 파트너십을 체결하여 AI 기반 쇼핑 경험을 구축합니다. Adobe의 에이전틱 AI와 Firefly Foundry를 활용해 개인화 팀이 고객 니즈를 예측할 예정입니다. 맞춤형 콘텐츠와 오퍼, 경험을 전 채널에 걸쳐 제공하는 것이 목표입니다.",
-    "summary_en": "UK grocery giant Tesco partnered with Adobe to create AI-infused shopping experiences. The retailer will use Adobe's agentic AI capabilities and Firefly Foundry to help personalization teams anticipate customer needs. The goal is delivering tailored content, offers, and experiences across all channels.",
-    "so_what_ko": "대형 소매업체의 Adobe 에이전틱 AI 도입은 D2C 브랜드들도 유사한 개인화 플랫폼 투자를 검토해야 함을 시사합니다.",
-    "so_what_en": "Major retailer's Adobe agentic AI adoption signals D2C brands should consider similar personalization platform investments.",
-    "key_points": [
-      "Tesco partners with Adobe for AI-powered shopping",
-      "Implementation of agentic AI capabilities",
-      "Focus on personalization and customer need anticipation",
-      "Cross-channel tailored content delivery"
-    ],
-    "tags": [
-      "agentic-ai",
-      "personalization",
-      "grocery-retail",
-      "adobe-partnership"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_PERSONALIZATION",
-    "regions": [
-      "EMEA"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Tesco",
-      "Adobe",
-      "Adobe Firefly Foundry"
-    ],
-    "one_line_insight_ko": "대형 식료품 체인의 에이전틱 AI 도입은 개인화 기반 고객 경험이 소매업계 필수 요소임을 보여줍니다.",
-    "one_line_insight_en": "Major grocer's agentic AI adoption demonstrates personalized customer experience is becoming essential in retail.",
-    "ai_processed": true
-  },
-  {
-    "title": "The growing debate over digital price tags",
-    "link": "https://www.modernretail.co/operations/the-growing-debate-over-digital-price-tags/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "title": "[AINews] The Two Sides of OpenClaw",
+    "link": "https://www.latent.space/p/ainews-the-two-sides-of-openclaw",
     "date_published": "2026-04-18",
-    "description": "This week's episode of the Modern Retail Podcast digs into the debate around electronic shelf labels.",
-    "source_id": "modern_retail",
-    "source_name": "Modern Retail",
-    "source_url": "https://www.modernretail.co/feed/",
+    "description": "a quiet day lets us reflect on openclaw this week.",
+    "source_id": "latent_space",
+    "source_name": "Latent Space (The AI Index)",
+    "source_url": "https://www.latent.space/feed",
     "categories": [
-      "tech",
-      "commerce"
+      "tech"
     ],
-    "relevance_score": 0.4,
+    "relevance_score": 0.3,
     "relevance_label": "high",
-    "title_en": "Digital price tags spark growing retail industry debate",
-    "summary_ko": "전자 가격 표시 라벨(ESL)을 둘러싼 소매업계 논쟁이 확산되고 있습니다. 디지털 가격 태그의 도입과 관련된 다양한 이슈들이 제기되고 있습니다. 소매업계에서 가격 표시 기술의 변화가 중요한 화두로 부상했습니다.",
-    "summary_en": "The retail industry is experiencing growing debate around electronic shelf labels (ESL). Various issues surrounding digital price tag implementation are being raised. Price display technology changes have become a significant topic in retail operations.",
-    "so_what_ko": "디지털 가격 태그 도입 시 고객 투명성과 운영 효율성 간의 균형을 신중히 고려해야 합니다.",
-    "so_what_en": "D2C brands must carefully balance customer transparency and operational efficiency when considering digital price tag adoption.",
+    "title_en": "AI Community Reflects on OpenClaw Developments This Week",
+    "summary_ko": "AI 커뮤니티가 이번 주 OpenClaw 관련 개발 상황을 조용히 되돌아보는 시간을 가졌습니다. 구체적인 내용은 원문에서 확인되지 않음. 기술 업계의 성찰적 접근이 주목받고 있습니다.",
+    "summary_en": "The AI community took time to quietly reflect on OpenClaw developments this week. Specific details were not confirmed in the source material. The tech industry's reflective approach is gaining attention.",
+    "so_what_ko": "AI 기술 동향에 대한 깊이 있는 분석과 성찰이 D2C 전략 수립에 중요한 인사이트를 제공할 수 있습니다.",
+    "so_what_en": "In-depth analysis and reflection on AI technology trends can provide valuable insights for D2C strategy development.",
     "key_points": [
-      "Growing debate over electronic shelf labels",
-      "Digital price tag implementation challenges",
-      "Retail operations technology evolution"
+      "AI community engaging in reflective analysis",
+      "OpenClaw technology being discussed",
+      "Industry taking pause for strategic consideration"
     ],
     "tags": [
-      "digital-pricing",
-      "electronic-shelf-labels",
-      "retail-operations"
+      "openclaw",
+      "ai-reflection",
+      "tech-analysis"
     ],
     "confidence": 0.5,
     "strategic_theme": "EMERGING_TECH",
@@ -127,134 +35,136 @@
     "business_impact": "LOW",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "Electronic Shelf Labels"
+      "OpenClaw"
     ],
-    "one_line_insight_ko": "디지털 가격 표시 기술은 운영 효율성을 높이지만 고객 신뢰도 관리가 핵심입니다.",
-    "one_line_insight_en": "Digital pricing technology improves operational efficiency but requires careful customer trust management.",
+    "one_line_insight_ko": "AI 기술 발전에 대한 업계의 성찰적 접근이 전략적 사고의 중요성을 시사합니다.",
+    "one_line_insight_en": "Industry's reflective approach to AI development signals the importance of strategic thinking in technology advancement.",
     "ai_processed": true
   },
   {
-    "title": "Iris Founder Talks AI-Powered Finance",
-    "link": "https://www.practicalecommerce.com/iris-founder-talks-ai-powered-finance",
-    "date_published": "2026-04-17",
-    "description": "Drew Fallon's platform forecasts profitability, cash flow, inventory, and more — anything a CFO would do, he says.\nThe post Iris Founder Talks AI-Powered Finance appeared first on Practical Ecommerce.",
-    "source_id": "practical_ecommerce",
-    "source_name": "Practical Ecommerce",
-    "source_url": "https://www.practicalecommerce.com/feed",
+    "title": "AI chip startup Cerebras files for IPO",
+    "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+    "date_published": "2026-04-18",
+    "description": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
     "categories": [
       "tech",
       "commerce"
     ],
     "relevance_score": 0.7,
     "relevance_label": "high",
-    "title_en": "Iris platform delivers AI-powered finance solutions for ecommerce CFOs",
-    "summary_ko": "Drew Fallon의 Iris 플랫폼이 AI 기반 금융 솔루션을 제공합니다. 이 플랫폼은 수익성, 현금 흐름, 재고 등을 예측합니다. CFO가 수행하는 모든 업무를 AI로 처리할 수 있다고 개발자는 설명합니다.",
-    "summary_en": "Drew Fallon's Iris platform provides AI-powered financial solutions for ecommerce. The platform forecasts profitability, cash flow, inventory, and more financial metrics. The founder claims it can handle anything a CFO would typically manage.",
-    "so_what_ko": "AI 기반 재무 예측 도구는 D2C 브랜드의 재고 관리와 현금 흐름 최적화에 필수적인 솔루션이 될 수 있습니다.",
-    "so_what_en": "AI-powered financial forecasting tools can become essential for D2C brands' inventory management and cash flow optimization.",
+    "title_en": "AI Chip Startup Cerebras Files for IPO with Major AWS and OpenAI Partnerships",
+    "summary_ko": "AI 칩 스타트업 Cerebras가 IPO를 신청했습니다. 회사는 최근 AWS와 아마존 데이터센터에서 Cerebras 칩을 사용하는 계약을 체결했습니다. 또한 OpenAI와 100억 달러 이상의 거래를 성사시켰다고 보고됩니다.",
+    "summary_en": "AI chip startup Cerebras has filed for an initial public offering. The company recently announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers. Additionally, it secured a deal with OpenAI reportedly worth more than $10 billion.",
+    "so_what_ko": "AI 인프라 투자 증가는 D2C 기업들이 AI 기반 서비스 개발 시 더 강력한 컴퓨팅 파워에 접근할 수 있음을 의미합니다.",
+    "so_what_en": "Increased AI infrastructure investment means D2C companies will have access to more powerful computing capabilities when developing AI-powered services.",
     "key_points": [
-      "AI platform forecasts profitability and cash flow",
-      "Comprehensive financial management automation",
-      "Ecommerce-focused CFO functionality"
+      "Cerebras filing for IPO signals AI chip market maturation",
+      "Strategic partnerships with AWS and OpenAI worth $10+ billion",
+      "Growing demand for specialized AI computing infrastructure"
     ],
     "tags": [
-      "ai-finance",
-      "financial-forecasting",
-      "ecommerce-tools",
-      "cash-flow-management"
+      "cerebras",
+      "ipo",
+      "ai-chips",
+      "aws-partnership",
+      "openai-deal"
     ],
-    "confidence": 0.7,
-    "strategic_theme": "DATA_STRATEGY",
+    "confidence": 0.8,
+    "strategic_theme": "EMERGING_TECH",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Iris",
-      "Drew Fallon"
+      "Cerebras",
+      "AWS",
+      "OpenAI",
+      "Amazon"
     ],
-    "one_line_insight_ko": "AI 기반 재무 예측 플랫폼은 D2C 브랜드의 데이터 기반 의사결정을 혁신적으로 개선할 수 있습니다.",
-    "one_line_insight_en": "AI-powered financial forecasting platforms can revolutionize data-driven decision making for D2C brands.",
+    "one_line_insight_ko": "AI 칩 시장의 성숙은 D2C 기업들의 AI 활용 가능성을 크게 확장시킬 것입니다.",
+    "one_line_insight_en": "The maturation of the AI chip market will significantly expand AI utilization possibilities for D2C companies.",
     "ai_processed": true
   },
   {
-    "title": "Backcountry acquires Coalatree as it debuts brand incubator",
-    "link": "https://www.retaildive.com/news/backcountry-brand-incubator-acquires-coalatree/817752/",
-    "date_published": "2026-04-17",
-    "description": "The retailer, which bought cycling company Velotech in September, is looking for more partnerships with up-and-coming brands.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
+    "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
+    "link": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+    "date_published": "2026-04-18",
+    "description": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
     "categories": [
-      "strategy",
-      "commerce"
+      "strategy"
     ],
-    "relevance_score": 0.3,
+    "relevance_score": 0.6,
     "relevance_label": "high",
-    "title_en": "Backcountry launches brand incubator with Coalatree acquisition",
-    "summary_ko": "아웃도어 리테일러 Backcountry가 브랜드 인큐베이터를 출범하며 Coalatree를 인수했습니다. 9월에 자전거 회사 Velotech을 인수한 바 있는 이 회사는 신흥 브랜드와의 파트너십을 확대하고 있습니다. 성장하는 브랜드들과의 협력에 적극적으로 나서고 있습니다.",
-    "summary_en": "Outdoor retailer Backcountry launched a brand incubator with the acquisition of Coalatree. The company, which bought cycling company Velotech in September, is expanding partnerships with emerging brands. They are actively seeking collaborations with up-and-coming brands.",
-    "so_what_ko": "브랜드 인큐베이터 모델은 기존 D2C 브랜드가 신규 브랜드 육성을 통해 포트폴리오를 확장하는 새로운 성장 전략입니다.",
-    "so_what_en": "Brand incubator models represent new growth strategies for established D2C brands to expand portfolios through emerging brand development.",
+    "title_en": "Anthropic Rebuilds Ties with Trump Administration Despite Pentagon Supply-Chain Risk Designation",
+    "summary_ko": "Anthropic이 최근 펜타곤으로부터 공급망 위험 기업으로 지정되었음에도 불구하고 트럼프 행정부와의 관계 개선을 도모하고 있습니다. 회사는 여전히 행정부 고위 관계자들과 대화를 이어가고 있습니다. 정치적 환경 변화 속에서도 AI 기업의 정부 관계 유지 노력이 계속되고 있습니다.",
+    "summary_en": "Anthropic is working to improve relations with the Trump administration despite being recently designated as a supply-chain risk by the Pentagon. The company continues to engage in discussions with high-level administration members. AI companies persist in maintaining government relationships amid changing political landscapes.",
+    "so_what_ko": "AI 기업들의 정치적 리스크 관리는 D2C 기업들이 AI 파트너 선택 시 정부 정책 변화를 고려해야 함을 시사합니다.",
+    "so_what_en": "Political risk management by AI companies suggests D2C firms must consider government policy changes when selecting AI partners.",
     "key_points": [
-      "Backcountry debuts brand incubator program",
-      "Coalatree acquisition following Velotech purchase",
-      "Focus on partnerships with emerging brands"
+      "Anthropic designated as supply-chain risk by Pentagon",
+      "Company maintaining dialogue with Trump administration",
+      "Political relationships crucial for AI company operations"
     ],
     "tags": [
-      "brand-incubator",
-      "acquisition",
-      "emerging-brands",
-      "portfolio-expansion"
+      "anthropic",
+      "trump-administration",
+      "pentagon",
+      "supply-chain-risk",
+      "government-relations"
     ],
-    "confidence": 0.6,
+    "confidence": 0.8,
     "strategic_theme": "COMPETITIVE_DYNAMICS",
     "regions": [
       "AMER"
     ],
-    "business_impact": "LOW",
-    "sentiment": "OPPORTUNITY",
+    "business_impact": "MEDIUM",
+    "sentiment": "THREAT",
     "key_entities": [
-      "Backcountry",
-      "Coalatree",
-      "Velotech"
+      "Anthropic",
+      "Pentagon",
+      "Trump administration"
     ],
-    "one_line_insight_ko": "기존 브랜드의 인큐베이터 모델은 신규 브랜드 발굴과 육성을 통한 차별화된 성장 전략입니다.",
-    "one_line_insight_en": "Established brands' incubator models offer differentiated growth strategies through emerging brand discovery and development.",
+    "one_line_insight_ko": "AI 기업의 정치적 위험 관리는 D2C 기업의 AI 파트너십 전략에 중요한 고려사항입니다.",
+    "one_line_insight_en": "Political risk management of AI companies is a crucial consideration for D2C partnership strategies.",
     "ai_processed": true
   },
   {
-    "title": "David’s Bridal adds two AI platforms as shopping channels",
-    "link": "https://www.digitalcommerce360.com/2026/04/17/davids-bridal-shopping-ai-platforms-chatgpt-copilot/",
-    "date_published": "2026-04-17",
-    "description": "David’s Bridal is now bringing its online storefront directly into popular artificial intelligence (AI) chat platforms to add new shopping channels. Shoppers can now browse and buy wedding gowns, bridesmaids’ dresses and other special-occasion attire via Microsoft Copilot and OpenAI’s ChatGPT. The in-app experience, which went live April 13, runs on Shopify’s new “agentic storefronts.” […]\nThe post David’s Bridal adds two AI platforms as shopping channels appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
+    "title": "The App Store is booming again, and AI may be why",
+    "link": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+    "date_published": "2026-04-18",
+    "description": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
     "categories": [
       "commerce",
-      "agentic_commerce"
+      "tech"
     ],
-    "relevance_score": 0.9,
+    "relevance_score": 0.8,
     "relevance_label": "high",
-    "title_en": "David's Bridal integrates AI-powered shopping channels through ChatGPT and Microsoft Copilot",
-    "summary_ko": "데이비드 브라이덜이 Microsoft Copilot과 OpenAI ChatGPT를 통해 AI 쇼핑 채널을 추가했습니다. 고객들은 이제 AI 챗 플랫폼에서 직접 웨딩드레스와 특별행사 의상을 탐색하고 구매할 수 있습니다. 이 서비스는 Shopify의 새로운 '에이전트 스토어프론트' 기술을 활용하여 4월 13일부터 시작되었습니다.",
-    "summary_en": "David's Bridal has integrated AI-powered shopping channels through Microsoft Copilot and OpenAI's ChatGPT platforms. Customers can now browse and purchase wedding gowns, bridesmaids' dresses, and special-occasion attire directly within AI chat platforms. The service launched on April 13 using Shopify's new 'agentic storefronts' technology.",
-    "so_what_ko": "AI 채팅 플랫폼을 새로운 판매 채널로 활용하는 것은 고객 접점을 확장하고 구매 여정을 단순화하는 혁신적 접근법입니다.",
-    "so_what_en": "Leveraging AI chat platforms as new sales channels represents an innovative approach to expand customer touchpoints and streamline the purchase journey.",
+    "title_en": "App Store Experiences Boom with AI-Powered Mobile Apps Leading Growth in 2026",
+    "summary_ko": "Appfigures의 새로운 데이터에 따르면 2026년 앱 스토어에서 새로운 앱 출시가 급증하고 있습니다. AI 도구들이 모바일 소프트웨어 붐을 주도하고 있는 것으로 보입니다. 이는 AI 기술이 모바일 앱 개발 생태계를 크게 변화시키고 있음을 시사합니다.",
+    "summary_en": "New data from Appfigures shows a surge of new app launches in the App Store during 2026. AI tools appear to be driving a mobile software boom. This suggests AI technology is significantly transforming the mobile app development ecosystem.",
+    "so_what_ko": "AI 기반 모바일 앱의 급증은 D2C 기업들이 AI를 활용한 고객 접점 확대 기회를 제공합니다.",
+    "so_what_en": "The surge in AI-powered mobile apps provides D2C companies opportunities to expand customer touchpoints through AI utilization.",
     "key_points": [
-      "First major retailer to integrate shopping directly into ChatGPT and Microsoft Copilot",
-      "Uses Shopify's new agentic storefront technology for seamless commerce integration",
-      "Enables browsing and purchasing special-occasion attire within AI chat interfaces",
-      "Represents shift toward conversational commerce through AI platforms"
+      "Significant increase in new app launches in 2026",
+      "AI tools driving mobile software development boom",
+      "App Store experiencing renewed growth momentum"
     ],
     "tags": [
-      "agentic-commerce",
-      "conversational-commerce",
-      "ai-shopping",
-      "chatgpt-integration",
-      "shopify"
+      "app-store",
+      "ai-apps",
+      "mobile-software",
+      "appfigures",
+      "software-boom"
     ],
     "confidence": 0.8,
     "strategic_theme": "AI_COMMERCE",
@@ -264,287 +174,440 @@
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "David's Bridal",
-      "ChatGPT",
-      "Microsoft Copilot",
-      "Shopify",
-      "OpenAI"
+      "App Store",
+      "Appfigures"
     ],
-    "one_line_insight_ko": "AI 챗봇을 통한 직접 쇼핑 기능은 고객과의 접점을 근본적으로 변화시키는 새로운 커머스 패러다임입니다.",
-    "one_line_insight_en": "Direct shopping through AI chatbots represents a fundamental shift in commerce paradigms by transforming customer touchpoints.",
+    "one_line_insight_ko": "AI 기반 모바일 앱 생태계의 급성장은 D2C 기업들에게 새로운 시장 진입 기회를 제공합니다.",
+    "one_line_insight_en": "Rapid growth in the AI-powered mobile app ecosystem offers new market entry opportunities for D2C companies.",
     "ai_processed": true
   },
   {
-    "title": "Synthetic research is a promise with a catch",
-    "link": "https://martech.org/synthetic-research-is-a-promise-with-a-catch/",
+    "title": "CBP preps tariff refund portal for April 20 launch",
+    "link": "https://www.retaildive.com/news/cbp-tariff-refund-process-launch-april-20/817800/",
     "date_published": "2026-04-17",
-    "description": "Brands are rushing into AI-driven synthetic insights — but without governance and validation, results can mislead. Balance speed with accuracy.\nThe post Synthetic research is a promise with a catch appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
+    "description": "The system will go live at 8 a.m. EDT to begin the electronic returns process for an estimated $127 billion in tariffs, the agency said.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
     "categories": [
-      "marketing",
-      "ai_marketing"
+      "commerce"
     ],
-    "relevance_score": 0.7,
+    "relevance_score": 0.4,
     "relevance_label": "high",
-    "title_en": "Synthetic research offers promise but requires careful governance to avoid misleading insights",
-    "summary_ko": "브랜드들이 AI 기반 합성 인사이트로 급속히 이동하고 있지만, 거버넌스와 검증 없이는 잘못된 결과를 초래할 수 있습니다. 속도와 정확성 사이의 균형이 중요합니다. 적절한 검증 프로세스 없이는 합성 연구가 오히려 마케팅 의사결정을 잘못 이끌 수 있습니다.",
-    "summary_en": "Brands are rapidly adopting AI-driven synthetic insights, but without proper governance and validation, results can be misleading. The key challenge is balancing speed with accuracy in research processes. Without adequate verification procedures, synthetic research risks misdirecting marketing decisions.",
-    "so_what_ko": "합성 연구 도입 시 검증 프레임워크와 거버넌스 체계를 먼저 구축해야 신뢰할 수 있는 마케팅 인사이트를 얻을 수 있습니다.",
-    "so_what_en": "Organizations must establish validation frameworks and governance systems before adopting synthetic research to ensure reliable marketing insights.",
+    "title_en": "CBP Launches Electronic Tariff Refund Portal for $127 Billion in Returns",
+    "summary_ko": "미국 관세청(CBP)이 4월 20일 관세 환급 포털을 출시할 예정입니다. 이 시스템은 동부시간 오전 8시부터 가동되어 전자 환급 절차를 시작합니다. 약 1270억 달러 규모의 관세 환급이 예상됩니다.",
+    "summary_en": "The U.S. Customs and Border Protection (CBP) is set to launch a tariff refund portal on April 20. The system will go live at 8 a.m. EDT to begin electronic returns processing. An estimated $127 billion in tariffs is expected to be refunded.",
+    "so_what_ko": "관세 환급 시스템의 디지털화는 D2C 기업들의 국제 무역 비용 절감과 현금 흐름 개선에 도움이 될 것입니다.",
+    "so_what_en": "Digitization of the tariff refund system will help D2C companies reduce international trade costs and improve cash flow.",
     "key_points": [
-      "AI-driven synthetic research is gaining rapid adoption among brands",
-      "Lack of governance and validation can lead to misleading insights",
-      "Balance between speed and accuracy is crucial for reliable results",
-      "Proper verification procedures are essential for trustworthy synthetic research"
+      "Electronic tariff refund portal launching April 20",
+      "$127 billion in estimated tariff refunds",
+      "Streamlined digital process for customs returns"
     ],
     "tags": [
-      "synthetic-research",
-      "ai-governance",
-      "data-validation",
-      "marketing-insights",
-      "research-accuracy"
+      "cbp",
+      "tariff-refund",
+      "electronic-portal",
+      "customs",
+      "trade-facilitation"
+    ],
+    "confidence": 0.9,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "CBP",
+      "U.S. Customs"
+    ],
+    "one_line_insight_ko": "관세 환급 프로세스의 디지털화는 D2C 기업들의 국제 사업 운영 효율성을 크게 향상시킬 것입니다.",
+    "one_line_insight_en": "Digitization of tariff refund processes will significantly improve operational efficiency for D2C companies' international business operations.",
+    "ai_processed": true
+  },
+  {
+    "title": "How robots learn: A brief, contemporary history",
+    "link": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
+    "date_published": "2026-04-17",
+    "description": "Roboticists used to dream big but build small. They’d hope to match or exceed the extraordinary complexity of the human body, and then they’d spend their career refining robotic arms for auto plants. Aim for C-3P0; end up with the Roomba.  The real ambition for many of these researchers was the robot of science fiction—one…",
+    "source_id": "mit_tech_review_ai",
+    "source_name": "MIT Technology Review (AI)",
+    "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+    "categories": [
+      "tech"
+    ],
+    "relevance_score": 0.4,
+    "relevance_label": "high",
+    "title_en": "How Robots Learn: A Brief Contemporary History of AI Development",
+    "summary_ko": "로봇공학자들은 인간 수준의 복잡성을 목표로 했지만 실제로는 제한적인 용도의 로봇을 개발해왔습니다. SF 영화의 C-3PO를 꿈꿨지만 결과적으로 룸바 같은 단순한 로봇을 만들어냈습니다. 이는 로봇 학습과 AI 발전의 현실적 한계를 보여줍니다.",
+    "summary_en": "Roboticists have historically aimed for human-level complexity but ended up building limited-use robots. They dreamed of science fiction robots like C-3PO but ended up creating simple devices like the Roomba. This demonstrates the practical limitations of robot learning and AI development.",
+    "so_what_ko": "D2C 브랜드는 AI 로봇 기술의 현실적 한계를 이해하고 단계적 도입 전략을 수립해야 합니다.",
+    "so_what_en": "D2C brands should understand the realistic limitations of AI robotics and develop phased implementation strategies.",
+    "key_points": [
+      "Gap between robotics ambitions and practical achievements",
+      "Evolution from complex goals to simple, functional solutions",
+      "Historical perspective on AI and robotics development"
+    ],
+    "tags": [
+      "robotics",
+      "ai-development",
+      "technology-evolution"
     ],
     "confidence": 0.7,
-    "strategic_theme": "DATA_STRATEGY",
+    "strategic_theme": "EMERGING_TECH",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "C-3PO",
+      "Roomba"
+    ],
+    "one_line_insight_ko": "로봇공학의 현실적 발전은 야심찬 목표보다는 실용적 솔루션에 집중되어 있습니다.",
+    "one_line_insight_en": "Robotics development focuses on practical solutions rather than ambitious goals.",
+    "ai_processed": true
+  },
+  {
+    "title": "Bauer Media Group slashes publishing headcount in company-wide restructure",
+    "link": "https://digiday.com/media/bauer-media-group-slashes-publishing-headcount-in-company-wide-restructure/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-04-17",
+    "description": "Some claim cutbacks will impact 20-30% of publishing headcount, with AIOs and escalating costs linked to Iran conflict cited.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "marketing"
+    ],
+    "relevance_score": 0.6,
+    "relevance_label": "high",
+    "title_en": "Bauer Media Group Cuts Publishing Jobs Amid AI and Cost Pressures",
+    "summary_ko": "바우어 미디어 그룹이 전사적 구조조정을 통해 출판 부문 인력을 대폭 감축했습니다. 일부는 20-30%의 출판 인력이 영향을 받을 것으로 추정하고 있습니다. AI 도입과 이란 분쟁으로 인한 비용 상승이 주요 원인으로 거론됩니다.",
+    "summary_en": "Bauer Media Group has significantly reduced publishing headcount through company-wide restructuring. Some estimate 20-30% of publishing staff will be impacted. AI implementation and escalating costs from Iran conflict are cited as key drivers.",
+    "so_what_ko": "미디어 업계의 AI 도입은 인력 구조조정을 가속화하고 있어, D2C 브랜드의 콘텐츠 마케팅 전략 재검토가 필요합니다.",
+    "so_what_en": "AI adoption in media is accelerating workforce restructuring, requiring D2C brands to reassess their content marketing strategies.",
+    "key_points": [
+      "20-30% reduction in publishing headcount",
+      "AI implementation driving cost pressures",
+      "Industry-wide restructuring in media sector"
+    ],
+    "tags": [
+      "media-restructuring",
+      "ai-automation",
+      "cost-reduction"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
+    "sentiment": "THREAT",
     "key_entities": [
-      "MarTech",
-      "AI Research",
-      "Synthetic Insights"
+      "Bauer Media Group"
     ],
-    "one_line_insight_ko": "합성 연구의 속도 장점을 활용하되 검증 체계 없이는 잘못된 의사결정으로 이어질 수 있어 주의가 필요합니다.",
-    "one_line_insight_en": "While synthetic research offers speed advantages, it requires robust validation systems to prevent misguided decision-making.",
+    "one_line_insight_ko": "AI 도입이 미디어 업계의 인력 구조를 근본적으로 변화시키고 있습니다.",
+    "one_line_insight_en": "AI adoption is fundamentally reshaping workforce structures in the media industry.",
     "ai_processed": true
   },
   {
-    "title": "AI’s shortlist is the new B2B battleground",
-    "link": "https://martech.org/the-new-b2b-battleground-is-getting-on-ais-shortlist/",
+    "title": "Puma’s AI head says the brand is still giving ‘the keys to the consumer’ as it invests in digital concierge",
+    "link": "https://digiday.com/marketing/pumas-ai-head-says-the-brand-is-still-giving-the-keys-to-the-consumer-as-it-invests-in-digital-concierge/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
     "date_published": "2026-04-17",
-    "description": "G2’s latest research shows AI chatbots are now shaping B2B vendor visibility, shortlists and even final selections.\nThe post AI’s shortlist is the new B2B battleground appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
+    "description": "Puma , this month, debuted a new AI-powered “digital human” concierge named “Dylan” in its Las Vegas flagship.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
     "categories": [
-      "marketing",
-      "ai_marketing"
+      "commerce",
+      "marketing"
+    ],
+    "relevance_score": 0.9,
+    "relevance_label": "high",
+    "title_en": "Puma Launches AI Digital Concierge 'Dylan' in Las Vegas Flagship",
+    "summary_ko": "푸마가 라스베이거스 플래그십 스토어에 'Dylan'이라는 AI 기반 디지털 휴먼 컨시어지를 선보였습니다. 이 AI 도구는 고객에게 개인화된 서비스를 제공하면서도 고객 주도권을 유지한다고 강조합니다. 푸마의 AI 책임자는 브랜드가 여전히 소비자에게 열쇠를 맡기고 있다고 표현했습니다.",
+    "summary_en": "Puma has launched an AI-powered digital human concierge named 'Dylan' at its Las Vegas flagship store. The AI tool provides personalized customer service while maintaining consumer control. Puma's AI head emphasized that the brand is still 'giving the keys to the consumer'.",
+    "so_what_ko": "AI 컨시어지는 D2C 브랜드의 매장 경험을 혁신할 수 있으며, 고객 주도권 유지가 성공의 핵심입니다.",
+    "so_what_en": "AI concierges can revolutionize D2C brand store experiences, with maintaining customer control being key to success.",
+    "key_points": [
+      "AI-powered digital human concierge in flagship store",
+      "Emphasis on maintaining consumer control",
+      "Personalized customer service through AI"
+    ],
+    "tags": [
+      "ai-concierge",
+      "digital-human",
+      "retail-experience"
+    ],
+    "confidence": 0.9,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Puma",
+      "Dylan"
+    ],
+    "one_line_insight_ko": "AI 컨시어지는 고객 경험을 개선하면서도 고객 주도권을 유지하는 것이 핵심입니다.",
+    "one_line_insight_en": "AI concierges must enhance customer experience while preserving customer agency.",
+    "ai_processed": true
+  },
+  {
+    "title": "‘Everything is coming down’: ChatGPT ads are getting cheaper",
+    "link": "https://digiday.com/marketing/everything-is-coming-down-chatgpt-ads-are-getting-cheaper/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-04-17",
+    "description": "While the pilot CPM started out at $60, advertisers are now seeing that price drop to as low as $25, just nine weeks into the test.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "marketing"
     ],
     "relevance_score": 0.8,
     "relevance_label": "high",
-    "title_en": "AI chatbots now influence B2B vendor selection and shortlist decisions",
-    "summary_ko": "G2의 최신 연구에 따르면 AI 챗봇이 이제 B2B 벤더 가시성, 후보 목록 작성, 최종 선택에까지 영향을 미치고 있습니다. AI가 B2B 구매 여정에서 중요한 역할을 담당하게 되었습니다. 기업들은 AI 플랫폼에서의 가시성 확보가 새로운 경쟁 요소가 되었음을 인식해야 합니다.",
-    "summary_en": "G2's latest research reveals that AI chatbots are now influencing B2B vendor visibility, shortlists, and final selections. AI has become a significant factor in the B2B buying journey. Companies must recognize that visibility on AI platforms has become a new competitive battleground.",
-    "so_what_ko": "B2B 마케터들은 AI 챗봇 플랫폼에서의 브랜드 가시성과 정확한 정보 제공을 새로운 마케팅 우선순위로 설정해야 합니다.",
-    "so_what_en": "B2B marketers must prioritize brand visibility and accurate information provision on AI chatbot platforms as a new marketing imperative.",
+    "title_en": "ChatGPT Ad Prices Drop Significantly as Platform Matures",
+    "summary_ko": "ChatGPT 광고의 가격이 크게 하락하고 있습니다. 파일럿 프로그램 시작 시 CPM이 60달러였지만, 9주 만에 25달러까지 떨어졌습니다. 이는 ChatGPT 광고 플랫폼이 성숙해지면서 나타나는 현상입니다.",
+    "summary_en": "ChatGPT advertising prices are dropping significantly. While pilot CPM started at $60, advertisers are now seeing prices as low as $25 after just nine weeks. This reflects the maturing of ChatGPT's advertising platform.",
+    "so_what_ko": "ChatGPT 광고 비용 하락은 D2C 브랜드에게 새로운 마케팅 채널 진입 기회를 제공합니다.",
+    "so_what_en": "Declining ChatGPT ad costs present D2C brands with new marketing channel entry opportunities.",
     "key_points": [
-      "AI chatbots significantly influence B2B vendor selection processes",
-      "Vendor visibility on AI platforms affects shortlist inclusion",
-      "G2 research confirms AI's growing role in B2B purchase decisions",
-      "New competitive battleground emerging around AI platform presence"
+      "CPM prices dropped from $60 to $25 in 9 weeks",
+      "ChatGPT advertising platform is maturing",
+      "Cost reduction making platform more accessible"
     ],
     "tags": [
-      "b2b-marketing",
-      "ai-chatbots",
-      "vendor-selection",
-      "ai-visibility",
-      "purchase-decisions"
+      "chatgpt-ads",
+      "cpm-pricing",
+      "ai-advertising"
     ],
-    "confidence": 0.8,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "confidence": 0.9,
+    "strategic_theme": "AI_MARKETING",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "G2",
-      "AI Chatbots",
-      "B2B Vendors"
+      "ChatGPT",
+      "OpenAI"
     ],
-    "one_line_insight_ko": "AI 챗봇이 B2B 구매 결정에 미치는 영향력이 커지면서 AI 플랫폼에서의 브랜드 가시성이 새로운 경쟁 우위 요소가 되었습니다.",
-    "one_line_insight_en": "As AI chatbots increasingly influence B2B purchasing decisions, brand visibility on AI platforms has become a new competitive advantage.",
+    "one_line_insight_ko": "ChatGPT 광고 플랫폼의 성숙화로 D2C 브랜드의 AI 마케팅 진입 장벽이 낮아지고 있습니다.",
+    "one_line_insight_en": "ChatGPT advertising platform maturation is lowering entry barriers for D2C brands into AI marketing.",
     "ai_processed": true
   },
   {
-    "title": "Reclaiming the power of the story — fueled by data and AI",
-    "link": "https://martech.org/reclaiming-the-power-of-the-story-fueled-by-data-and-ai/",
+    "title": "The Next ANA CEO Will Have to Face Down The Threat of AI",
+    "link": "https://www.adweek.com/brand-marketing/the-next-ana-ceo-will-have-to-face-down-the-threat-of-ai/",
     "date_published": "2026-04-17",
-    "description": "High-volume automation can often dilute your brand’s voice. Join us on May 6 to learn how to use AI as a creative partner, not a replacement.\nThe post Reclaiming the power of the story — fueled by data and AI appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
+    "description": "Bob Liodice says his successor must be more than a \"brand guy\" to tackle the challenges facing today's marketers",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
     "categories": [
       "marketing",
-      "ai_marketing"
-    ],
-    "relevance_score": 0.6,
-    "relevance_label": "high",
-    "title_en": "Brands explore AI as creative partner to maintain authentic storytelling",
-    "summary_ko": "대량 자동화가 종종 브랜드 보이스를 희석시키는 상황에서, 브랜드들이 AI를 대체재가 아닌 창작 파트너로 활용하는 방법을 모색하고 있습니다. 5월 6일 세션에서 AI를 통한 창의적 스토리텔링 방법론을 다룰 예정입니다. 데이터와 AI를 활용하여 스토리의 힘을 되찾는 것이 핵심 주제입니다.",
-    "summary_en": "As high-volume automation often dilutes brand voice, companies are exploring how to use AI as a creative partner rather than replacement. A May 6 session will address creative storytelling methodologies using AI. The focus is on reclaiming the power of storytelling through data and AI integration.",
-    "so_what_ko": "브랜드는 AI를 단순 자동화 도구가 아닌 창의적 파트너로 활용하여 개인화된 메시지를 전달하면서도 브랜드 정체성을 유지해야 합니다.",
-    "so_what_en": "Brands should leverage AI as a creative partner rather than mere automation tool to deliver personalized messages while maintaining brand identity.",
-    "key_points": [
-      "High-volume automation can dilute authentic brand voice",
-      "AI should be positioned as creative partner, not replacement",
-      "Focus on maintaining storytelling authenticity with AI assistance",
-      "Data and AI integration can enhance rather than diminish creative output"
-    ],
-    "tags": [
-      "ai-creativity",
-      "brand-storytelling",
-      "creative-automation",
-      "brand-voice",
-      "content-strategy"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "MarTech",
-      "Brand Storytelling",
-      "AI Creative Tools"
-    ],
-    "one_line_insight_ko": "AI를 창의적 파트너로 활용하는 접근법이 브랜드 정체성을 유지하면서 개인화된 콘텐츠를 제공하는 핵심 전략이 되고 있습니다.",
-    "one_line_insight_en": "Using AI as a creative partner is becoming essential for delivering personalized content while preserving brand identity.",
-    "ai_processed": true
-  },
-  {
-    "title": "A 15-minute AI workflow to clean campaign data",
-    "link": "https://martech.org/a-15-minute-ai-workflow-to-clean-campaign-data/",
-    "date_published": "2026-04-17",
-    "description": "Fix inconsistent names, titles and company fields using AI and a spreadsheet, improve personalization and segmentation before you launch.\nThe post A 15-minute AI workflow to clean campaign data appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
-    "categories": [
-      "marketing",
-      "ai_marketing"
-    ],
-    "relevance_score": 0.5,
-    "relevance_label": "high",
-    "title_en": "15-minute AI workflow streamlines campaign data cleaning for better personalization",
-    "summary_ko": "AI와 스프레드시트를 활용한 15분 워크플로우로 캠페인 데이터의 불일치하는 이름, 직책, 회사명 필드를 정리할 수 있습니다. 이를 통해 캠페인 런칭 전 개인화와 세분화 품질을 향상시킬 수 있습니다. 간단한 AI 도구로도 데이터 품질을 크게 개선할 수 있음을 보여줍니다.",
-    "summary_en": "A 15-minute AI workflow using spreadsheets can clean inconsistent names, titles, and company fields in campaign data. This improves personalization and segmentation quality before campaign launch. The approach demonstrates how simple AI tools can significantly enhance data quality.",
-    "so_what_ko": "데이터 정리를 위한 AI 워크플로우를 도입하면 마케팅 캠페인의 개인화 정확도를 높이고 고객 경험을 개선할 수 있습니다.",
-    "so_what_en": "Implementing AI workflows for data cleaning can improve marketing campaign personalization accuracy and enhance customer experience.",
-    "key_points": [
-      "15-minute AI workflow efficiently cleans campaign data inconsistencies",
-      "Improves personalization and segmentation before campaign launch",
-      "Uses accessible tools like AI and spreadsheets for data quality enhancement",
-      "Demonstrates practical application of AI for marketing operations"
-    ],
-    "tags": [
-      "data-cleaning",
-      "ai-workflow",
-      "campaign-optimization",
-      "personalization",
-      "marketing-automation"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "DATA_STRATEGY",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "AI Workflow",
-      "Campaign Data",
-      "Marketing Automation"
-    ],
-    "one_line_insight_ko": "간단한 AI 워크플로우로도 마케팅 데이터 품질을 크게 개선하여 개인화 캠페인의 효과를 높일 수 있습니다.",
-    "one_line_insight_en": "Simple AI workflows can significantly improve marketing data quality, enhancing the effectiveness of personalized campaigns.",
-    "ai_processed": true
-  },
-  {
-    "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
-    "link": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
-    "date_published": "2026-04-17",
-    "description": "The gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from finance apps to talk shows, a certain shoe company just rebranded as an AI infrastructure play, and Anthropic unveiled a model it says is too powerful to release publicly …but apparently not too […]",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "categories": [
-      "tech",
       "strategy"
     ],
-    "relevance_score": 0.6,
+    "relevance_score": 0.7,
     "relevance_label": "high",
-    "title_en": "OpenAI's Spending Spree Widens AI Industry Gap Amid Infrastructure Consolidation",
-    "summary_ko": "OpenAI가 금융 앱부터 토크쇼까지 다양한 분야로 인수합병을 확대하고 있습니다. AI 업계 내부자들과 일반인 사이의 격차가 확대되고 있으며 새로운 용어들이 등장하고 있습니다. Anthropic은 공개하기에는 너무 강력하다고 주장하는 새 모델을 공개했습니다.",
-    "summary_en": "OpenAI is expanding through acquisitions spanning from finance apps to talk shows, demonstrating aggressive market consolidation. The gap between AI industry insiders and the general public is widening, creating new vocabulary and spending patterns. Anthropic unveiled a new model they claim is too powerful for public release, highlighting the rapid advancement in AI capabilities.",
-    "so_what_ko": "AI 기업들의 급격한 생태계 확장은 D2C 브랜드들이 다양한 AI 솔루션을 통합적으로 활용해야 함을 시사합니다.",
-    "so_what_en": "The rapid AI ecosystem expansion suggests D2C brands need to integrate diverse AI solutions holistically rather than relying on single-point solutions.",
+    "title_en": "Next ANA CEO Must Tackle AI Threats to Marketing Industry",
+    "summary_ko": "ANA(Association of National Advertisers)의 차기 CEO는 AI가 마케팅 업계에 가하는 위협에 대응해야 합니다. 현 CEO인 밥 리오디체는 후임자가 단순한 '브랜드 전문가'를 넘어서야 한다고 강조했습니다. 오늘날 마케터들이 직면한 도전과제를 해결하기 위해서는 더 포괄적인 역량이 필요합니다.",
+    "summary_en": "The next CEO of ANA (Association of National Advertisers) must address AI threats to the marketing industry. Current CEO Bob Liodice emphasized that his successor must be more than just a 'brand guy'. Comprehensive capabilities are needed to tackle challenges facing today's marketers.",
+    "so_what_ko": "마케팅 업계 리더십이 AI 위협을 인식하고 있어, D2C 브랜드도 AI 대응 전략을 강화해야 합니다.",
+    "so_what_en": "Marketing industry leadership recognizes AI threats, requiring D2C brands to strengthen AI response strategies.",
     "key_points": [
-      "OpenAI pursuing aggressive acquisition strategy across multiple sectors",
-      "Growing divide between AI industry insiders and general market",
-      "Companies rebranding as AI infrastructure plays",
-      "New AI models emerging with unprecedented capabilities"
+      "ANA leadership transition amid AI challenges",
+      "Need for comprehensive skills beyond traditional brand expertise",
+      "Industry-wide recognition of AI impact on marketing"
     ],
     "tags": [
-      "ai-consolidation",
-      "market-expansion",
-      "infrastructure-play",
-      "industry-gap"
+      "ana-leadership",
+      "ai-threats",
+      "marketing-industry"
     ],
-    "confidence": 0.7,
+    "confidence": 0.8,
     "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "ANA",
+      "Bob Liodice"
+    ],
+    "one_line_insight_ko": "마케팅 업계 최고 기관도 AI 위협을 심각하게 인식하고 대응 방안을 모색하고 있습니다.",
+    "one_line_insight_en": "Top marketing industry organizations are seriously recognizing and seeking responses to AI threats.",
+    "ai_processed": true
+  },
+  {
+    "title": "Week of April 6 Morning News Ratings: Savannah Guthrie Returns",
+    "link": "https://www.adweek.com/tvnewser/week-of-april-6-2026-morning-news-ratings/",
+    "date_published": "2026-04-17",
+    "description": "Today remained in the lead",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
+    "categories": [
+      "marketing"
+    ],
+    "relevance_score": 0.2,
+    "relevance_label": "high",
+    "title_en": "Morning News Ratings Show Today Maintains Lead as Savannah Guthrie Returns",
+    "summary_ko": "사반나 거스리가 복귀한 4월 6일 주간 아침 뉴스 시청률에서 투데이 쇼가 계속 선두를 유지했습니다. 해당 기사는 주요 아침 뉴스 프로그램들의 시청률 경쟁 상황을 다루고 있습니다. 미디어 산업의 시청률 동향과 출연진 변화의 영향을 보여줍니다.",
+    "summary_en": "The Today Show maintained its leading position in morning news ratings during the week of April 6th as Savannah Guthrie returned to the program. The article covers the competitive landscape among major morning news programs. It demonstrates the impact of talent changes on media industry viewership trends.",
+    "so_what_ko": "전통 미디어의 시청률 경쟁은 D2C 브랜드에게 참고할만한 콘텐츠 마케팅 전략을 제시합니다.",
+    "so_what_en": "Traditional media rating competition offers content marketing strategy insights for D2C brands.",
+    "key_points": [
+      "Today Show maintains ratings leadership",
+      "Savannah Guthrie's return impacts viewership",
+      "Morning news competitive landscape analysis"
+    ],
+    "tags": [
+      "media-ratings",
+      "content-marketing",
+      "traditional-media"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Today Show",
+      "Savannah Guthrie",
+      "Adweek"
+    ],
+    "one_line_insight_ko": "전통 미디어의 인물 중심 브랜딩 전략이 여전히 시청률에 영향을 미친다는 점을 확인했습니다.",
+    "one_line_insight_en": "Traditional media's personality-driven branding strategy continues to significantly impact viewership ratings.",
+    "ai_processed": true
+  },
+  {
+    "title": "[AINews] Anthropic Claude Opus 4.7 - literally one step better than 4.6 in every dimension",
+    "link": "https://www.latent.space/p/ainews-anthropic-claude-opus-47-literally",
+    "date_published": "2026-04-17",
+    "description": "The new SOTA model asserts its dominance.",
+    "source_id": "latent_space",
+    "source_name": "Latent Space (The AI Index)",
+    "source_url": "https://www.latent.space/feed",
+    "categories": [
+      "tech"
+    ],
+    "relevance_score": 0.7,
+    "relevance_label": "high",
+    "title_en": "Anthropic Releases Claude Opus 4.7 with Incremental Improvements Across All Dimensions",
+    "summary_ko": "Anthropic이 Claude Opus 4.7을 출시하며 이전 버전 4.6 대비 모든 영역에서 개선된 성능을 보여준다고 발표했습니다. 새로운 SOTA 모델이 시장에서의 지배적 위치를 확고히 하고 있습니다. AI 모델의 지속적인 성능 향상이 업계 경쟁을 더욱 치열하게 만들고 있습니다.",
+    "summary_en": "Anthropic launched Claude Opus 4.7, showing improved performance across all dimensions compared to the previous version 4.6. The new state-of-the-art model is asserting its dominant position in the market. Continuous AI model performance improvements are intensifying industry competition.",
+    "so_what_ko": "최신 AI 모델의 성능 향상은 D2C 브랜드의 고객 서비스와 개인화 전략에 새로운 기회를 제공합니다.",
+    "so_what_en": "Latest AI model performance improvements offer new opportunities for D2C brands in customer service and personalization strategies.",
+    "key_points": [
+      "Claude Opus 4.7 shows improvements in all dimensions",
+      "New SOTA model establishes market dominance",
+      "AI model competition intensifies with continuous upgrades"
+    ],
+    "tags": [
+      "claude-ai",
+      "anthropic",
+      "ai-models",
+      "sota"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "EMERGING_TECH",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
+    "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "OpenAI",
-      "Anthropic"
+      "Anthropic",
+      "Claude Opus",
+      "Latent Space"
     ],
-    "one_line_insight_ko": "AI 생태계의 급속한 통합이 진행되면서 브랜드들은 포괄적인 AI 전략이 필요합니다.",
-    "one_line_insight_en": "Rapid AI ecosystem consolidation requires brands to develop comprehensive AI strategies beyond point solutions.",
+    "one_line_insight_ko": "AI 모델의 점진적 성능 개선이 지속되면서 비즈니스 활용 가능성이 확대되고 있습니다.",
+    "one_line_insight_en": "Incremental AI model performance improvements are expanding business application possibilities.",
     "ai_processed": true
   },
   {
-    "title": "Stop Making AI Slop – Build a Foundation for Authentic AI Content",
-    "link": "https://www.salesforce.com/blog/authentic-ai-content/",
+    "title": "Isabelle/HOL: The proof assistant behind the Nitro Isolation Engine",
+    "link": "https://www.amazon.science/blog/isabelle-hol-the-proof-assistant-behind-the-nitro-isolation-engine",
     "date_published": "2026-04-17",
-    "description": "Agentic AI works best when it’s architected to protect your brand’s unique identity and amplify a human-led point of view",
+    "description": "Isabelle/HOL's balance of expressiveness, automation, and scalability enabled the world's first formally verified cloud hypervisor.",
+    "source_id": "amazon_science",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science/index.rss",
+    "categories": [
+      "tech"
+    ],
+    "relevance_score": 0.4,
+    "relevance_label": "high",
+    "title_en": "Amazon Uses Isabelle/HOL Proof Assistant for World's First Verified Cloud Hypervisor",
+    "summary_ko": "아마존이 Nitro Isolation Engine 개발에 Isabelle/HOL 증명 도우미를 활용했다고 발표했습니다. 이는 세계 최초로 공식 검증된 클라우드 하이퍼바이저 구현을 가능하게 했습니다. Isabelle/HOL의 표현력, 자동화, 확장성의 균형이 이러한 혁신을 실현시켰습니다.",
+    "summary_en": "Amazon announced using the Isabelle/HOL proof assistant for developing the Nitro Isolation Engine. This enabled the implementation of the world's first formally verified cloud hypervisor. The balance of Isabelle/HOL's expressiveness, automation, and scalability made this innovation possible.",
+    "so_what_ko": "공식 검증된 클라우드 인프라는 D2C 플랫폼의 보안성과 신뢰성을 크게 향상시킬 수 있습니다.",
+    "so_what_en": "Formally verified cloud infrastructure can significantly enhance security and reliability for D2C platforms.",
+    "key_points": [
+      "World's first formally verified cloud hypervisor",
+      "Isabelle/HOL enables formal verification at scale",
+      "Amazon Nitro demonstrates advanced security architecture"
+    ],
+    "tags": [
+      "cloud-security",
+      "formal-verification",
+      "amazon-nitro",
+      "hypervisor"
+    ],
+    "confidence": 0.9,
+    "strategic_theme": "PLATFORM_ECOSYSTEM",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Amazon",
+      "Isabelle/HOL",
+      "Nitro Isolation Engine"
+    ],
+    "one_line_insight_ko": "공식 검증 기술이 클라우드 보안의 새로운 표준을 제시하며 플랫폼 신뢰성을 혁신하고 있습니다.",
+    "one_line_insight_en": "Formal verification technology is setting new standards for cloud security and revolutionizing platform reliability.",
+    "ai_processed": true
+  },
+  {
+    "title": "5 Tips to Help Marketers Navigate AI Email Summaries",
+    "link": "https://www.salesforce.com/blog/ai-email-summaries/",
+    "date_published": "2026-04-17",
+    "description": "Learn how you can still stand out in the inbox and get your messages across to readers",
     "source_id": "salesforce_agentforce",
     "source_name": "Salesforce Agentforce Blog",
     "source_url": "https://www.salesforce.com/blog/category/ai/feed/",
     "categories": [
-      "agentic_commerce",
-      "ai_marketing"
+      "marketing",
+      "agentic_commerce"
     ],
     "relevance_score": 0.9,
     "relevance_label": "high",
-    "title_en": "Salesforce Emphasizes Authentic AI Content Over Generic AI-Generated Material",
-    "summary_ko": "Salesforce는 브랜드 고유의 정체성을 보호하고 인간 주도적 관점을 증폭시키는 Agentic AI 구조의 중요성을 강조했습니다. 단순한 AI 생성 콘텐츠가 아닌 진정성 있는 AI 콘텐츠 제작이 필요하다고 주장합니다. AI 에이전트는 브랜드의 독특한 목소리를 유지하면서 작동해야 합니다.",
-    "summary_en": "Salesforce emphasizes the importance of architecting Agentic AI to protect brand identity and amplify human-led perspectives. The company advocates for authentic AI content creation rather than generic AI-generated material. AI agents should operate while maintaining the brand's unique voice and values.",
-    "so_what_ko": "D2C 브랜드들은 AI 콘텐츠 생성 시 브랜드 고유성과 진정성을 유지하는 프레임워크 구축이 필수적입니다.",
-    "so_what_en": "D2C brands must build frameworks that maintain brand authenticity and uniqueness when implementing AI content generation strategies.",
+    "title_en": "5 Marketing Tips for Standing Out in AI-Generated Email Summaries",
+    "summary_ko": "Salesforce가 AI 이메일 요약 시대에 마케터들이 수신자의 관심을 끌 수 있는 5가지 팁을 제시했습니다. AI가 이메일을 요약하는 환경에서도 메시지를 효과적으로 전달하는 방법을 설명합니다. 이메일 마케팅의 새로운 도전과 기회를 다루고 있습니다.",
+    "summary_en": "Salesforce presented 5 tips for marketers to capture recipients' attention in the era of AI email summaries. The article explains how to effectively deliver messages even when AI summarizes emails. It addresses new challenges and opportunities in email marketing.",
+    "so_what_ko": "AI 이메일 요약 기능이 보편화되면서 D2C 브랜드는 더 간결하고 임팩트 있는 이메일 마케팅 전략을 개발해야 합니다.",
+    "so_what_en": "As AI email summarization becomes prevalent, D2C brands must develop more concise and impactful email marketing strategies.",
     "key_points": [
-      "Agentic AI should protect and amplify brand identity",
-      "Emphasis on authentic content over generic AI output",
-      "Human-led perspective remains crucial in AI implementation",
-      "Brand voice preservation in automated content creation"
+      "AI email summaries change how messages are consumed",
+      "Marketers need new strategies for inbox visibility",
+      "Email content optimization for AI processing"
     ],
     "tags": [
-      "authentic-content",
-      "brand-identity",
-      "agentic-ai",
-      "content-strategy"
+      "email-marketing",
+      "ai-summaries",
+      "salesforce",
+      "marketing-strategy"
     ],
     "confidence": 0.8,
-    "strategic_theme": "AI_AGENT",
+    "strategic_theme": "AI_MARKETING",
     "regions": [
       "GLOBAL"
     ],
@@ -554,143 +617,52 @@
       "Salesforce",
       "Agentforce"
     ],
-    "one_line_insight_ko": "AI 에이전트 구현 시 브랜드 진정성 유지가 경쟁우위의 핵심 요소입니다.",
-    "one_line_insight_en": "Maintaining brand authenticity in AI agent implementation is the key differentiator for competitive advantage.",
+    "one_line_insight_ko": "AI 이메일 요약 기능이 마케팅 커뮤니케이션의 패러다임을 바꾸고 있어 새로운 전략이 필요합니다.",
+    "one_line_insight_en": "AI email summarization is shifting marketing communication paradigms, requiring new strategic approaches.",
     "ai_processed": true
   },
   {
-    "title": "Unpacked: How loyalty programs power lifecycle marketing strategies",
-    "link": "https://www.modernretail.co/sponsored/unpacked-how-loyalty-programs-power-lifecycle-marketing-strategies/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-04-16",
-    "description": "This Unpacked guide, sponsored by SheerID, explores how loyalty is no longer earned through rewards alone; it’s built through relevance, transparency and sustained commitment to understanding customers over time.  Shifts in consumer behavior — specifically the desire for data privacy and instant, personalized recognition — and AI’s acceleration of the buying process are making traditional […]",
-    "source_id": "modern_retail",
-    "source_name": "Modern Retail",
-    "source_url": "https://www.modernretail.co/feed/",
+    "title": "The Real AI Shift Isn’t New Models. It’s Control.",
+    "link": "https://aibusiness.com/generative-ai/the-real-ai-shift-isn-t-new-models-s-control-",
+    "date_published": "2026-04-17",
+    "description": "As AI use accelerates, the challenge is no longer building systems but managing them at scale.",
+    "source_id": "ai_business",
+    "source_name": "AI Business",
+    "source_url": "https://aibusiness.com/rss.xml",
     "categories": [
-      "commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.7,
-    "relevance_label": "high",
-    "title_en": "DoorDash Expands Beyond Food to Win Over Apparel and Retail Brands",
-    "summary_ko": "DoorDash가 음식 배달을 넘어 소매 및 의류 브랜드와의 파트너십을 확대하고 있습니다. 회사의 기업 영업 및 사업 개발 담당 VP는 이러한 확장이 원래 비전의 자연스러운 연장선이라고 설명했습니다. 의류 브랜드들이 DoorDash 플랫폼에 관심을 보이고 있습니다.",
-    "summary_en": "DoorDash is expanding beyond food delivery into retail and apparel brand partnerships as part of its platform evolution. The company's VP of enterprise sales describes this expansion as a natural extension of their original vision. Apparel brands are showing increasing interest in the DoorDash platform for retail distribution.",
-    "so_what_ko": "배달 플랫폼의 다각화는 D2C 브랜드들에게 새로운 즉석 배송 채널 기회를 제공하며, 옴니채널 전략 재검토가 필요합니다.",
-    "so_what_en": "Delivery platform diversification offers D2C brands new instant delivery channel opportunities, requiring omnichannel strategy reconsideration.",
-    "key_points": [
-      "DoorDash expanding from food to retail and apparel partnerships",
-      "Platform diversification creating new distribution channels",
-      "Apparel brands adopting on-demand delivery models",
-      "Marketplace evolution beyond traditional categories"
-    ],
-    "tags": [
-      "platform-expansion",
-      "delivery-diversification",
-      "retail-partnerships",
-      "omnichannel"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "PLATFORM_ECOSYSTEM",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "DoorDash"
-    ],
-    "one_line_insight_ko": "배달 플랫폼의 카테고리 확장은 D2C 브랜드들에게 즉석 배송 기회를 제공합니다.",
-    "one_line_insight_en": "Delivery platform category expansion provides D2C brands with immediate fulfillment opportunities.",
-    "ai_processed": true
-  },
-  {
-    "title": "Marketplace Briefing: How DoorDash is winning over apparel brands",
-    "link": "https://www.modernretail.co/technology/marketplace-briefing-how-doordash-is-winning-over-apparel-brands/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-04-16",
-    "description": "DoorDash is expanding beyond food delivery into retail and apparel partnerships. Mike Goldblatt, DoorDash's VP of enterprise sales and business development for grocery and retail, says the expansion is a natural extension of the company's original vision.",
-    "source_id": "modern_retail",
-    "source_name": "Modern Retail",
-    "source_url": "https://www.modernretail.co/feed/",
-    "categories": [
-      "ai_marketing",
-      "commerce"
+      "strategy",
+      "tech"
     ],
     "relevance_score": 0.8,
     "relevance_label": "high",
-    "title_en": "Modern Loyalty Programs Drive Lifecycle Marketing Through AI-Powered Personalization",
-    "summary_ko": "현대의 로열티 프로그램은 더 이상 리워드만으로 고객 충성도를 얻지 않으며 관련성, 투명성, 지속적인 고객 이해를 통해 구축됩니다. 데이터 프라이버시 요구와 즉석 개인화된 인식에 대한 소비자 행동 변화가 전통적인 접근법을 변화시키고 있습니다. AI의 구매 프로세스 가속화가 라이프사이클 마케팅 전략을 재정의하고 있습니다.",
-    "summary_en": "Modern loyalty programs no longer earn customer loyalty through rewards alone but build it through relevance, transparency and sustained customer understanding. Consumer behavior shifts toward data privacy and instant personalized recognition are transforming traditional approaches. AI's acceleration of the buying process is redefining lifecycle marketing strategies.",
-    "so_what_ko": "D2C 브랜드들은 AI 기반 개인화를 활용하여 전통적인 리워드 중심에서 관계 중심의 로열티 프로그램으로 전환해야 합니다.",
-    "so_what_en": "D2C brands must shift from traditional reward-based to relationship-focused loyalty programs leveraging AI-powered personalization.",
+    "title_en": "AI's Real Challenge Shifts from Building Models to Managing Control at Scale",
+    "summary_ko": "AI 사용이 가속화되면서 진짜 도전은 새로운 모델 구축이 아니라 대규모 AI 시스템 관리와 제어라고 분석했습니다. AI 기술의 성숙과 함께 운영 및 거버넌스의 중요성이 부각되고 있습니다. 기업들은 AI 시스템의 확장성과 통제 가능성에 더 집중해야 할 시점입니다.",
+    "summary_en": "As AI adoption accelerates, the real challenge is no longer building new models but managing and controlling AI systems at scale. The importance of operations and governance is emerging alongside AI technology maturation. Companies need to focus more on scalability and controllability of AI systems.",
+    "so_what_ko": "D2C 기업들은 AI 기술 도입보다 AI 거버넌스와 운영 체계 구축에 더 많은 투자를 해야 합니다.",
+    "so_what_en": "D2C companies should invest more in AI governance and operational frameworks rather than just AI technology adoption.",
     "key_points": [
-      "Loyalty built through relevance and transparency, not just rewards",
-      "Consumer demand for data privacy and instant personalization",
-      "AI acceleration transforming traditional lifecycle marketing",
-      "Sustained customer understanding becoming competitive advantage"
+      "AI challenge shifts from building to managing systems",
+      "Control and governance become critical at scale",
+      "Operational excellence more important than model innovation"
     ],
     "tags": [
-      "loyalty-programs",
-      "lifecycle-marketing",
-      "ai-personalization",
-      "customer-data"
+      "ai-governance",
+      "system-management",
+      "ai-control",
+      "scalability"
     ],
     "confidence": 0.8,
-    "strategic_theme": "AI_PERSONALIZATION",
+    "strategic_theme": "DATA_STRATEGY",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "SheerID"
-    ],
-    "one_line_insight_ko": "AI 기반 개인화가 로열티 프로그램의 패러다임을 리워드에서 관계 중심으로 전환시키고 있습니다.",
-    "one_line_insight_en": "AI-powered personalization is shifting loyalty program paradigms from reward-based to relationship-focused approaches.",
-    "ai_processed": true
-  },
-  {
-    "title": "Visa, Mastercard settle merchant claims",
-    "link": "https://www.paymentsdive.com/news/visa-mastercard-settle-merchant-claims/817693/",
-    "date_published": "2026-04-16",
-    "description": "About 65 retailers suing the networks over card swipe fees in a New York case have now settled claims.",
-    "source_id": "payments_dive",
-    "source_name": "Payments Dive",
-    "source_url": "https://www.paymentsdive.com/feeds/news/",
-    "categories": [
-      "commerce"
-    ],
-    "relevance_score": 0.4,
-    "relevance_label": "high",
-    "title_en": "Visa and Mastercard Settle Merchant Fee Disputes with 65 Retailers",
-    "summary_ko": "뉴욕 소송에서 카드 스와이프 수수료를 놓고 네트워크 업체들을 고소한 약 65개 소매업체들이 클레임을 합의했습니다. Visa와 Mastercard가 가맹점 수수료 분쟁을 해결했습니다. 결제 네트워크와 소매업체 간의 장기간 분쟁이 마무리되었습니다.",
-    "summary_en": "About 65 retailers who sued card networks over swipe fees in a New York case have reached settlement agreements. Visa and Mastercard have resolved merchant fee disputes that had been ongoing for an extended period. The settlement concludes long-standing litigation between payment networks and retail merchants.",
-    "so_what_ko": "결제 수수료 합의는 D2C 브랜드들의 결제 비용 구조 최적화 기회를 제공하며, 대안 결제 솔루션 검토가 필요합니다.",
-    "so_what_en": "Payment fee settlements provide D2C brands opportunities to optimize payment cost structures and consider alternative payment solutions.",
-    "key_points": [
-      "65 retailers settled card swipe fee disputes with major networks",
-      "Resolution of long-standing payment processing cost litigation",
-      "Potential impact on merchant fee structures",
-      "Settlement may influence future payment cost negotiations"
-    ],
-    "tags": [
-      "payment-fees",
-      "merchant-settlement",
-      "card-networks",
-      "retail-costs"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "Visa",
-      "Mastercard"
+      "AI Business"
     ],
-    "one_line_insight_ko": "결제 수수료 분쟁 해결은 소매업체들의 비용 구조 재검토 기회를 제공합니다.",
-    "one_line_insight_en": "Payment fee dispute resolution provides retailers with cost structure optimization opportunities.",
+    "one_line_insight_ko": "AI의 핵심 과제가 기술 개발에서 시스템 관리와 거버넌스로 전환되고 있습니다.",
+    "one_line_insight_en": "AI's core challenge is shifting from technology development to system management and governance.",
     "ai_processed": true
   }
 ]
