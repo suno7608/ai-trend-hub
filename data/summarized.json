@@ -1,668 +1,685 @@
 [
   {
-    "title": "[AINews] The Two Sides of OpenClaw",
-    "link": "https://www.latent.space/p/ainews-the-two-sides-of-openclaw",
-    "date_published": "2026-04-18",
-    "description": "a quiet day lets us reflect on openclaw this week.",
-    "source_id": "latent_space",
-    "source_name": "Latent Space (The AI Index)",
-    "source_url": "https://www.latent.space/feed",
+    "title": "Why Mondelez is hiring a global lead to solve for AI-driven shopping bots",
+    "link": "https://digiday.com/marketing/why-mondelez-is-hiring-a-global-lead-to-solve-for-ai-driven-shopping-bots/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-04-20",
+    "description": "Agentic commerce has moved from hype to reality, prompting Mondelez to hire a global lead focused on the shift.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
     "categories": [
-      "tech"
+      "commerce",
+      "marketing",
+      "strategy"
     ],
-    "relevance_score": 0.3,
+    "relevance_score": 0.9,
     "relevance_label": "high",
-    "title_en": "AI Community Reflects on OpenClaw Developments This Week",
-    "summary_ko": "AI 커뮤니티가 이번 주 OpenClaw 관련 개발 상황을 조용히 되돌아보는 시간을 가졌습니다. 구체적인 내용은 원문에서 확인되지 않음. 기술 업계의 성찰적 접근이 주목받고 있습니다.",
-    "summary_en": "The AI community took time to quietly reflect on OpenClaw developments this week. Specific details were not confirmed in the source material. The tech industry's reflective approach is gaining attention.",
-    "so_what_ko": "AI 기술 동향에 대한 깊이 있는 분석과 성찰이 D2C 전략 수립에 중요한 인사이트를 제공할 수 있습니다.",
-    "so_what_en": "In-depth analysis and reflection on AI technology trends can provide valuable insights for D2C strategy development.",
+    "title_en": "Mondelez Hires Global Lead to Navigate AI-Driven Shopping Bot Revolution",
+    "summary_ko": "몬델리즈가 AI 기반 쇼핑 봇의 현실적 도입에 대응하기 위해 글로벌 리드를 채용했습니다. 에이전틱 커머스가 과대광고에서 현실로 전환되면서 기업들이 적극 대응에 나서고 있습니다. 이는 AI 쇼핑 환경 변화에 대한 대형 브랜드의 전략적 접근을 보여줍니다.",
+    "summary_en": "Mondelez has hired a global lead to address the reality of AI-driven shopping bots as they transition from hype to practical implementation. Agentic commerce is becoming a tangible business reality requiring dedicated strategic leadership. This move signals major brands are taking proactive steps to navigate AI-powered shopping environments.",
+    "so_what_ko": "대형 FMCG 브랜드들이 AI 쇼핑 봇에 전담 인력을 배치하는 것은 D2C 브랜드들도 에이전틱 커머스 대응 전략을 수립해야 함을 시사합니다.",
+    "so_what_en": "Major FMCG brands dedicating specialized roles to AI shopping bots indicates D2C brands must develop agentic commerce strategies to remain competitive.",
     "key_points": [
-      "AI community engaging in reflective analysis",
-      "OpenClaw technology being discussed",
-      "Industry taking pause for strategic consideration"
+      "Mondelez hired a dedicated global lead for AI-driven shopping bots",
+      "Agentic commerce has evolved from hype to business reality",
+      "Major brands are investing in specialized AI commerce leadership"
     ],
     "tags": [
-      "openclaw",
-      "ai-reflection",
-      "tech-analysis"
+      "agentic-commerce",
+      "ai-shopping-bots",
+      "mondelez",
+      "retail-transformation"
     ],
-    "confidence": 0.5,
-    "strategic_theme": "EMERGING_TECH",
+    "confidence": 0.7,
+    "strategic_theme": "AI_AGENT",
     "regions": [
       "GLOBAL"
     ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "OpenClaw"
+      "Mondelez",
+      "AI shopping bots",
+      "Agentic commerce"
     ],
-    "one_line_insight_ko": "AI 기술 발전에 대한 업계의 성찰적 접근이 전략적 사고의 중요성을 시사합니다.",
-    "one_line_insight_en": "Industry's reflective approach to AI development signals the importance of strategic thinking in technology advancement.",
+    "one_line_insight_ko": "대형 브랜드의 에이전틱 커머스 전담 인력 채용은 AI 쇼핑 봇 시대의 본격 도래를 알리는 신호입니다.",
+    "one_line_insight_en": "Major brands hiring dedicated agentic commerce leaders signals the mainstream arrival of AI shopping bot era.",
     "ai_processed": true
   },
   {
-    "title": "AI chip startup Cerebras files for IPO",
-    "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
-    "date_published": "2026-04-18",
-    "description": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
+    "title": "Modern Retail+ Research: Expectations around AI are straining brand-agency relationships",
+    "link": "https://www.modernretail.co/ai-strategies/modern-retail-research-expectations-around-ai-are-straining-brand-agency-relationships/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-04-20",
+    "description": "Overall, agencies’ top concerns this year are client spending and the effects of AI. Thirty-eight percent of agency professionals anticipated that the biggest challenge the agency industry will face in 2026 is reduced client budgets, while 38% said the same about the effects of AI. That’s according to a Modern Retail+ Research survey conducted in the fourth quarter of 2025 among 62 agency professionals.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
+    "categories": [
+      "marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.7,
+    "relevance_label": "high",
+    "title_en": "AI Expectations Strain Brand-Agency Relationships as Budgets Tighten",
+    "summary_ko": "에이전시 전문가들이 2026년 최대 과제로 클라이언트 예산 축소(38%)와 AI 영향(38%)을 동등하게 꼽았습니다. Modern Retail+ 리서치에 따르면 AI에 대한 기대치가 브랜드-에이전시 관계에 부담을 주고 있습니다. 62명의 에이전시 전문가를 대상으로 한 2025년 4분기 조사 결과입니다.",
+    "summary_en": "Agency professionals equally cite reduced client budgets (38%) and AI effects (38%) as the biggest challenges for 2026. AI expectations are creating strain in brand-agency relationships according to Modern Retail+ Research. The survey was conducted in Q4 2025 among 62 agency professionals.",
+    "so_what_ko": "AI 도입 압박과 예산 제약이 동시에 발생하면서 D2C 브랜드들은 비용 효율적인 AI 마케팅 전략을 수립해야 합니다.",
+    "so_what_en": "D2C brands must develop cost-effective AI marketing strategies as AI adoption pressure coincides with budget constraints.",
+    "key_points": [
+      "38% of agencies cite both budget cuts and AI effects as top 2026 challenges",
+      "AI expectations are straining brand-agency relationships",
+      "Survey conducted among 62 agency professionals in Q4 2025"
+    ],
+    "tags": [
+      "agency-relationships",
+      "ai-expectations",
+      "budget-constraints",
+      "marketing-challenges"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "Modern Retail",
+      "Agency professionals",
+      "AI marketing"
+    ],
+    "one_line_insight_ko": "AI 기대치와 예산 압박이 동시 발생하면서 마케팅 생태계의 구조적 변화가 가속화되고 있습니다.",
+    "one_line_insight_en": "Simultaneous AI expectations and budget pressures are accelerating structural changes in the marketing ecosystem.",
+    "ai_processed": true
+  },
+  {
+    "title": "Lowe’s aims to make mulch buying easier with AI",
+    "link": "https://www.modernretail.co/technology/lowes-aims-to-make-mulch-buying-easier-with-ai/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-04-20",
+    "description": "Lowe's is using AI to improve the mulch-buying process -- a critical piece of spring sales for the home improvement retailer. Through a new AI-powered feature called \"Mulch Me Now,\" Lowe's Mylow AI assistant will help customers calculate how much mulch they need.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
+    "categories": [
+      "commerce",
+      "tech"
+    ],
+    "relevance_score": 0.8,
+    "relevance_label": "high",
+    "title_en": "Lowe's Launches AI-Powered Mulch Calculator to Simplify Spring Shopping",
+    "summary_ko": "로우스가 봄 판매의 핵심인 멀치 구매 과정을 개선하기 위해 AI를 활용하고 있습니다. 'Mulch Me Now'라는 새로운 AI 기능을 통해 로우스의 Mylow AI 어시스턴트가 고객의 멀치 필요량 계산을 도와줍니다. 홈 개선 리테일러가 AI로 복잡한 구매 결정을 단순화하는 사례입니다.",
+    "summary_en": "Lowe's is using AI to improve the mulch-buying process, a critical component of spring sales for the home improvement retailer. The new AI-powered feature called 'Mulch Me Now' enables Lowe's Mylow AI assistant to help customers calculate mulch requirements. This demonstrates how retailers are using AI to simplify complex purchasing decisions.",
+    "so_what_ko": "로우스의 AI 계산기는 D2C 브랜드들이 복잡한 제품 선택을 AI로 단순화하여 고객 경험을 개선할 수 있음을 보여줍니다.",
+    "so_what_en": "Lowe's AI calculator demonstrates how D2C brands can use AI to simplify complex product selections and enhance customer experience.",
+    "key_points": [
+      "Lowe's launched 'Mulch Me Now' AI-powered feature",
+      "Mylow AI assistant helps calculate mulch requirements",
+      "Focuses on improving spring sales through simplified purchasing"
+    ],
+    "tags": [
+      "ai-assistant",
+      "product-calculator",
+      "customer-experience",
+      "retail-innovation"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Lowe's",
+      "Mylow AI",
+      "Mulch Me Now"
+    ],
+    "one_line_insight_ko": "AI 계산기를 통한 제품 선택 단순화는 복잡한 구매 결정에서 고객 편의성을 높이는 핵심 전략입니다.",
+    "one_line_insight_en": "AI calculators that simplify product selection are key strategies for enhancing customer convenience in complex purchasing decisions.",
+    "ai_processed": true
+  },
+  {
+    "title": "Mixed Reports on AI Ecommerce Traffic",
+    "link": "https://www.practicalecommerce.com/mixed-reports-on-ai-ecommerce-traffic",
+    "date_published": "2026-04-19",
+    "description": "AI as an acquisition channel is early and uneven, yet the signals suggest a once-in-a-generation shift.\nThe post Mixed Reports on AI Ecommerce Traffic appeared first on Practical Ecommerce.",
+    "source_id": "practical_ecommerce",
+    "source_name": "Practical Ecommerce",
+    "source_url": "https://www.practicalecommerce.com/feed",
+    "categories": [
+      "commerce",
+      "marketing"
+    ],
+    "relevance_score": 0.8,
+    "relevance_label": "high",
+    "title_en": "Mixed Signals Emerge for AI as Ecommerce Traffic Acquisition Channel",
+    "summary_ko": "AI가 이커머스 트래픽 획득 채널로서 초기 단계이며 결과가 고르지 않다고 보고되었습니다. 하지만 신호들은 한 세대에 한 번 있을 변화를 시사하고 있습니다. AI 상거래 트래픽에 대한 혼재된 보고서가 나오고 있는 상황입니다.",
+    "summary_en": "AI as an acquisition channel for ecommerce is in early stages with uneven results being reported. However, the signals suggest a once-in-a-generation shift is occurring. Mixed reports are emerging about AI ecommerce traffic performance.",
+    "so_what_ko": "AI 트래픽 획득이 아직 초기 단계이므로 D2C 브랜드들은 성급한 판단보다는 지속적인 테스트와 모니터링이 필요합니다.",
+    "so_what_en": "D2C brands should focus on continuous testing and monitoring rather than hasty decisions, as AI traffic acquisition is still in early stages.",
+    "key_points": [
+      "AI as ecommerce acquisition channel shows mixed early results",
+      "Signals point to a generational shift in commerce",
+      "Performance data remains uneven across implementations"
+    ],
+    "tags": [
+      "traffic-acquisition",
+      "ai-commerce",
+      "ecommerce-trends",
+      "performance-marketing"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "AI_COMMERCE",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "AI commerce",
+      "Ecommerce traffic",
+      "Acquisition channels"
+    ],
+    "one_line_insight_ko": "AI 트래픽 획득의 혼재된 성과는 새로운 채널의 성숙기까지 시간이 필요함을 보여줍니다.",
+    "one_line_insight_en": "Mixed AI traffic acquisition performance indicates time is needed for this new channel to mature.",
+    "ai_processed": true
+  },
+  {
+    "title": "Digiday+ Research: Agencies punt budget growth expectations to 2027 — while AI worries intensify",
+    "link": "https://digiday.com/media-buying/digiday-research-agencies-punt-budget-growth-expectations-to-2027-while-ai-worries-intensify/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-04-20",
+    "description": "Agencies’ top concerns this year are client spending and the effects of AI, according to a Digiday+ Research survey conducted in the fourth quarter of 2025 among 62 agency professionals.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.7,
+    "relevance_label": "high",
+    "title_en": "Agencies Delay Budget Growth Hopes to 2027 as AI Concerns Intensify",
+    "summary_ko": "에이전시들이 예산 성장 기대를 2027년으로 연기하고 있으며 AI에 대한 우려가 심화되고 있습니다. 62명의 에이전시 전문가를 대상으로 한 Digiday+ 리서치에 따르면 올해 에이전시들의 최대 관심사는 클라이언트 지출과 AI 영향입니다. 2025년 4분기에 실시된 조사 결과입니다.",
+    "summary_en": "Agencies are pushing budget growth expectations to 2027 while AI worries intensify according to Digiday+ Research. The survey of 62 agency professionals shows that agencies' top concerns this year are client spending and AI effects. The research was conducted in the fourth quarter of 2025.",
+    "so_what_ko": "에이전시들의 AI 우려 증가는 D2C 브랜드들이 인하우스 AI 역량 강화를 통해 에이전시 의존도를 줄일 기회를 제공합니다.",
+    "so_what_en": "Agencies' growing AI concerns present opportunities for D2C brands to reduce agency dependence by strengthening in-house AI capabilities.",
+    "key_points": [
+      "Agencies postpone budget growth expectations until 2027",
+      "Client spending and AI effects are top agency concerns",
+      "62 agency professionals surveyed in Q4 2025"
+    ],
+    "tags": [
+      "agency-budgets",
+      "ai-concerns",
+      "marketing-industry",
+      "budget-planning"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Digiday",
+      "Marketing agencies",
+      "AI technology"
+    ],
+    "one_line_insight_ko": "에이전시의 AI 적응 지연은 브랜드들이 직접 AI 마케팅 역량을 구축할 기회의 창을 열어줍니다.",
+    "one_line_insight_en": "Agencies' delayed AI adaptation opens windows of opportunity for brands to build direct AI marketing capabilities.",
+    "ai_processed": true
+  },
+  {
+    "title": "From page views to propensity: How the Daily Mail is retooling for a zero-click world",
+    "link": "https://digiday.com/media/from-page-views-to-propensity-how-the-daily-mail-is-retooling-for-a-zero-click-world/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-04-20",
+    "description": "The pressure of zero-click underpins a wider product overhaul: games upgraded from sideshow to front door, new hubs like Crime Desk designed to keep niche communities coming back, an AI-powered dynamic paywall tuned to user behavior; a bigger bet on personalization and the app as a primary destination.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.7,
+    "relevance_label": "high",
+    "title_en": "Daily Mail Shifts from Page Views to User Propensity in Zero-Click Era",
+    "summary_ko": "데일리 메일이 제로 클릭 환경에 대응하여 페이지뷰 중심에서 사용자 성향 기반 모델로 전환하고 있습니다. AI 기반 다이나믹 페이월과 개인화 강화, 앱 우선 전략을 통해 사용자 행동 패턴을 분석합니다. 게임과 틈새 커뮤니티 허브를 활용해 사용자 재방문을 유도하는 새로운 제품 전략을 추진하고 있습니다.",
+    "summary_en": "Daily Mail is transitioning from page view metrics to user propensity models in response to the zero-click environment. The company implements AI-powered dynamic paywalls and enhanced personalization with an app-first strategy to analyze user behavior patterns. They are pursuing new product strategies using games and niche community hubs to drive user retention.",
+    "so_what_ko": "전통 미디어의 AI 기반 개인화 전략은 D2C 브랜드가 참고할 수 있는 사용자 행동 분석과 다이나믹 콘텐츠 전략의 모범 사례입니다.",
+    "so_what_en": "Traditional media's AI-driven personalization strategies provide valuable reference cases for D2C brands in user behavior analysis and dynamic content strategies.",
+    "key_points": [
+      "AI-powered dynamic paywall tuned to user behavior patterns",
+      "Shift from page views to propensity-based metrics",
+      "Enhanced personalization and app-first strategy",
+      "Games and niche community hubs for user retention"
+    ],
+    "tags": [
+      "ai-personalization",
+      "zero-click",
+      "dynamic-paywall",
+      "user-behavior"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "AI_PERSONALIZATION",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Daily Mail",
+      "AI paywall",
+      "personalization"
+    ],
+    "one_line_insight_ko": "제로 클릭 시대에 AI 기반 사용자 성향 분석이 전통적인 페이지뷰 지표를 대체하는 핵심 전략으로 부상하고 있습니다.",
+    "one_line_insight_en": "AI-driven user propensity analysis is emerging as a key strategy replacing traditional page view metrics in the zero-click era.",
+    "ai_processed": true
+  },
+  {
+    "title": "OpenAI’s existential questions",
+    "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+    "date_published": "2026-04-19",
+    "description": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
     "source_id": "techcrunch_ai",
     "source_name": "TechCrunch AI",
     "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
     "categories": [
       "tech",
-      "commerce"
-    ],
-    "relevance_score": 0.7,
-    "relevance_label": "high",
-    "title_en": "AI Chip Startup Cerebras Files for IPO with Major AWS and OpenAI Partnerships",
-    "summary_ko": "AI 칩 스타트업 Cerebras가 IPO를 신청했습니다. 회사는 최근 AWS와 아마존 데이터센터에서 Cerebras 칩을 사용하는 계약을 체결했습니다. 또한 OpenAI와 100억 달러 이상의 거래를 성사시켰다고 보고됩니다.",
-    "summary_en": "AI chip startup Cerebras has filed for an initial public offering. The company recently announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers. Additionally, it secured a deal with OpenAI reportedly worth more than $10 billion.",
-    "so_what_ko": "AI 인프라 투자 증가는 D2C 기업들이 AI 기반 서비스 개발 시 더 강력한 컴퓨팅 파워에 접근할 수 있음을 의미합니다.",
-    "so_what_en": "Increased AI infrastructure investment means D2C companies will have access to more powerful computing capabilities when developing AI-powered services.",
-    "key_points": [
-      "Cerebras filing for IPO signals AI chip market maturation",
-      "Strategic partnerships with AWS and OpenAI worth $10+ billion",
-      "Growing demand for specialized AI computing infrastructure"
-    ],
-    "tags": [
-      "cerebras",
-      "ipo",
-      "ai-chips",
-      "aws-partnership",
-      "openai-deal"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "EMERGING_TECH",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Cerebras",
-      "AWS",
-      "OpenAI",
-      "Amazon"
-    ],
-    "one_line_insight_ko": "AI 칩 시장의 성숙은 D2C 기업들의 AI 활용 가능성을 크게 확장시킬 것입니다.",
-    "one_line_insight_en": "The maturation of the AI chip market will significantly expand AI utilization possibilities for D2C companies.",
-    "ai_processed": true
-  },
-  {
-    "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
-    "link": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
-    "date_published": "2026-04-18",
-    "description": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "categories": [
       "strategy"
     ],
-    "relevance_score": 0.6,
+    "relevance_score": 0.5,
     "relevance_label": "high",
-    "title_en": "Anthropic Rebuilds Ties with Trump Administration Despite Pentagon Supply-Chain Risk Designation",
-    "summary_ko": "Anthropic이 최근 펜타곤으로부터 공급망 위험 기업으로 지정되었음에도 불구하고 트럼프 행정부와의 관계 개선을 도모하고 있습니다. 회사는 여전히 행정부 고위 관계자들과 대화를 이어가고 있습니다. 정치적 환경 변화 속에서도 AI 기업의 정부 관계 유지 노력이 계속되고 있습니다.",
-    "summary_en": "Anthropic is working to improve relations with the Trump administration despite being recently designated as a supply-chain risk by the Pentagon. The company continues to engage in discussions with high-level administration members. AI companies persist in maintaining government relationships amid changing political landscapes.",
-    "so_what_ko": "AI 기업들의 정치적 리스크 관리는 D2C 기업들이 AI 파트너 선택 시 정부 정책 변화를 고려해야 함을 시사합니다.",
-    "so_what_en": "Political risk management by AI companies suggests D2C firms must consider government policy changes when selecting AI partners.",
+    "title_en": "OpenAI Faces Existential Challenges Despite Recent Acquisitions",
+    "summary_ko": "OpenAI가 최근 인수를 통해서도 해결되지 않는 두 가지 근본적인 문제에 직면하고 있습니다. 원문에서 구체적인 문제점은 확인되지 않았지만 회사의 존재론적 과제들이 논의되고 있습니다. 이러한 문제들이 AI 업계 전반에 미치는 영향이 주목받고 있습니다.",
+    "summary_en": "OpenAI is facing two fundamental existential problems that recent acquisitions have not addressed. While specific issues are not confirmed in the source, the company's existential challenges are being discussed. The impact of these problems on the broader AI industry is drawing attention.",
+    "so_what_ko": "AI 선도 기업의 구조적 문제는 D2C 기업들이 AI 의존도를 높이기 전에 리스크 분산 전략을 고려해야 함을 시사합니다.",
+    "so_what_en": "Structural issues at leading AI companies suggest D2C businesses should consider risk diversification strategies before increasing AI dependency.",
     "key_points": [
-      "Anthropic designated as supply-chain risk by Pentagon",
-      "Company maintaining dialogue with Trump administration",
-      "Political relationships crucial for AI company operations"
+      "OpenAI facing two major existential problems",
+      "Recent acquisitions not addressing core challenges",
+      "Broader implications for AI industry stability"
     ],
     "tags": [
-      "anthropic",
-      "trump-administration",
-      "pentagon",
-      "supply-chain-risk",
-      "government-relations"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "Anthropic",
-      "Pentagon",
-      "Trump administration"
-    ],
-    "one_line_insight_ko": "AI 기업의 정치적 위험 관리는 D2C 기업의 AI 파트너십 전략에 중요한 고려사항입니다.",
-    "one_line_insight_en": "Political risk management of AI companies is a crucial consideration for D2C partnership strategies.",
-    "ai_processed": true
-  },
-  {
-    "title": "The App Store is booming again, and AI may be why",
-    "link": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
-    "date_published": "2026-04-18",
-    "description": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "categories": [
-      "commerce",
-      "tech"
-    ],
-    "relevance_score": 0.8,
-    "relevance_label": "high",
-    "title_en": "App Store Experiences Boom with AI-Powered Mobile Apps Leading Growth in 2026",
-    "summary_ko": "Appfigures의 새로운 데이터에 따르면 2026년 앱 스토어에서 새로운 앱 출시가 급증하고 있습니다. AI 도구들이 모바일 소프트웨어 붐을 주도하고 있는 것으로 보입니다. 이는 AI 기술이 모바일 앱 개발 생태계를 크게 변화시키고 있음을 시사합니다.",
-    "summary_en": "New data from Appfigures shows a surge of new app launches in the App Store during 2026. AI tools appear to be driving a mobile software boom. This suggests AI technology is significantly transforming the mobile app development ecosystem.",
-    "so_what_ko": "AI 기반 모바일 앱의 급증은 D2C 기업들이 AI를 활용한 고객 접점 확대 기회를 제공합니다.",
-    "so_what_en": "The surge in AI-powered mobile apps provides D2C companies opportunities to expand customer touchpoints through AI utilization.",
-    "key_points": [
-      "Significant increase in new app launches in 2026",
-      "AI tools driving mobile software development boom",
-      "App Store experiencing renewed growth momentum"
-    ],
-    "tags": [
-      "app-store",
-      "ai-apps",
-      "mobile-software",
-      "appfigures",
-      "software-boom"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_COMMERCE",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "App Store",
-      "Appfigures"
-    ],
-    "one_line_insight_ko": "AI 기반 모바일 앱 생태계의 급성장은 D2C 기업들에게 새로운 시장 진입 기회를 제공합니다.",
-    "one_line_insight_en": "Rapid growth in the AI-powered mobile app ecosystem offers new market entry opportunities for D2C companies.",
-    "ai_processed": true
-  },
-  {
-    "title": "CBP preps tariff refund portal for April 20 launch",
-    "link": "https://www.retaildive.com/news/cbp-tariff-refund-process-launch-april-20/817800/",
-    "date_published": "2026-04-17",
-    "description": "The system will go live at 8 a.m. EDT to begin the electronic returns process for an estimated $127 billion in tariffs, the agency said.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "commerce"
-    ],
-    "relevance_score": 0.4,
-    "relevance_label": "high",
-    "title_en": "CBP Launches Electronic Tariff Refund Portal for $127 Billion in Returns",
-    "summary_ko": "미국 관세청(CBP)이 4월 20일 관세 환급 포털을 출시할 예정입니다. 이 시스템은 동부시간 오전 8시부터 가동되어 전자 환급 절차를 시작합니다. 약 1270억 달러 규모의 관세 환급이 예상됩니다.",
-    "summary_en": "The U.S. Customs and Border Protection (CBP) is set to launch a tariff refund portal on April 20. The system will go live at 8 a.m. EDT to begin electronic returns processing. An estimated $127 billion in tariffs is expected to be refunded.",
-    "so_what_ko": "관세 환급 시스템의 디지털화는 D2C 기업들의 국제 무역 비용 절감과 현금 흐름 개선에 도움이 될 것입니다.",
-    "so_what_en": "Digitization of the tariff refund system will help D2C companies reduce international trade costs and improve cash flow.",
-    "key_points": [
-      "Electronic tariff refund portal launching April 20",
-      "$127 billion in estimated tariff refunds",
-      "Streamlined digital process for customs returns"
-    ],
-    "tags": [
-      "cbp",
-      "tariff-refund",
-      "electronic-portal",
-      "customs",
-      "trade-facilitation"
-    ],
-    "confidence": 0.9,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "CBP",
-      "U.S. Customs"
-    ],
-    "one_line_insight_ko": "관세 환급 프로세스의 디지털화는 D2C 기업들의 국제 사업 운영 효율성을 크게 향상시킬 것입니다.",
-    "one_line_insight_en": "Digitization of tariff refund processes will significantly improve operational efficiency for D2C companies' international business operations.",
-    "ai_processed": true
-  },
-  {
-    "title": "How robots learn: A brief, contemporary history",
-    "link": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
-    "date_published": "2026-04-17",
-    "description": "Roboticists used to dream big but build small. They’d hope to match or exceed the extraordinary complexity of the human body, and then they’d spend their career refining robotic arms for auto plants. Aim for C-3P0; end up with the Roomba.  The real ambition for many of these researchers was the robot of science fiction—one…",
-    "source_id": "mit_tech_review_ai",
-    "source_name": "MIT Technology Review (AI)",
-    "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-    "categories": [
-      "tech"
-    ],
-    "relevance_score": 0.4,
-    "relevance_label": "high",
-    "title_en": "How Robots Learn: A Brief Contemporary History of AI Development",
-    "summary_ko": "로봇공학자들은 인간 수준의 복잡성을 목표로 했지만 실제로는 제한적인 용도의 로봇을 개발해왔습니다. SF 영화의 C-3PO를 꿈꿨지만 결과적으로 룸바 같은 단순한 로봇을 만들어냈습니다. 이는 로봇 학습과 AI 발전의 현실적 한계를 보여줍니다.",
-    "summary_en": "Roboticists have historically aimed for human-level complexity but ended up building limited-use robots. They dreamed of science fiction robots like C-3PO but ended up creating simple devices like the Roomba. This demonstrates the practical limitations of robot learning and AI development.",
-    "so_what_ko": "D2C 브랜드는 AI 로봇 기술의 현실적 한계를 이해하고 단계적 도입 전략을 수립해야 합니다.",
-    "so_what_en": "D2C brands should understand the realistic limitations of AI robotics and develop phased implementation strategies.",
-    "key_points": [
-      "Gap between robotics ambitions and practical achievements",
-      "Evolution from complex goals to simple, functional solutions",
-      "Historical perspective on AI and robotics development"
-    ],
-    "tags": [
-      "robotics",
-      "ai-development",
-      "technology-evolution"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "EMERGING_TECH",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "C-3PO",
-      "Roomba"
-    ],
-    "one_line_insight_ko": "로봇공학의 현실적 발전은 야심찬 목표보다는 실용적 솔루션에 집중되어 있습니다.",
-    "one_line_insight_en": "Robotics development focuses on practical solutions rather than ambitious goals.",
-    "ai_processed": true
-  },
-  {
-    "title": "Bauer Media Group slashes publishing headcount in company-wide restructure",
-    "link": "https://digiday.com/media/bauer-media-group-slashes-publishing-headcount-in-company-wide-restructure/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-04-17",
-    "description": "Some claim cutbacks will impact 20-30% of publishing headcount, with AIOs and escalating costs linked to Iran conflict cited.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
-    "categories": [
-      "marketing"
-    ],
-    "relevance_score": 0.6,
-    "relevance_label": "high",
-    "title_en": "Bauer Media Group Cuts Publishing Jobs Amid AI and Cost Pressures",
-    "summary_ko": "바우어 미디어 그룹이 전사적 구조조정을 통해 출판 부문 인력을 대폭 감축했습니다. 일부는 20-30%의 출판 인력이 영향을 받을 것으로 추정하고 있습니다. AI 도입과 이란 분쟁으로 인한 비용 상승이 주요 원인으로 거론됩니다.",
-    "summary_en": "Bauer Media Group has significantly reduced publishing headcount through company-wide restructuring. Some estimate 20-30% of publishing staff will be impacted. AI implementation and escalating costs from Iran conflict are cited as key drivers.",
-    "so_what_ko": "미디어 업계의 AI 도입은 인력 구조조정을 가속화하고 있어, D2C 브랜드의 콘텐츠 마케팅 전략 재검토가 필요합니다.",
-    "so_what_en": "AI adoption in media is accelerating workforce restructuring, requiring D2C brands to reassess their content marketing strategies.",
-    "key_points": [
-      "20-30% reduction in publishing headcount",
-      "AI implementation driving cost pressures",
-      "Industry-wide restructuring in media sector"
-    ],
-    "tags": [
-      "media-restructuring",
-      "ai-automation",
-      "cost-reduction"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "Bauer Media Group"
-    ],
-    "one_line_insight_ko": "AI 도입이 미디어 업계의 인력 구조를 근본적으로 변화시키고 있습니다.",
-    "one_line_insight_en": "AI adoption is fundamentally reshaping workforce structures in the media industry.",
-    "ai_processed": true
-  },
-  {
-    "title": "Puma’s AI head says the brand is still giving ‘the keys to the consumer’ as it invests in digital concierge",
-    "link": "https://digiday.com/marketing/pumas-ai-head-says-the-brand-is-still-giving-the-keys-to-the-consumer-as-it-invests-in-digital-concierge/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-04-17",
-    "description": "Puma , this month, debuted a new AI-powered “digital human” concierge named “Dylan” in its Las Vegas flagship.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
-    "categories": [
-      "commerce",
-      "marketing"
-    ],
-    "relevance_score": 0.9,
-    "relevance_label": "high",
-    "title_en": "Puma Launches AI Digital Concierge 'Dylan' in Las Vegas Flagship",
-    "summary_ko": "푸마가 라스베이거스 플래그십 스토어에 'Dylan'이라는 AI 기반 디지털 휴먼 컨시어지를 선보였습니다. 이 AI 도구는 고객에게 개인화된 서비스를 제공하면서도 고객 주도권을 유지한다고 강조합니다. 푸마의 AI 책임자는 브랜드가 여전히 소비자에게 열쇠를 맡기고 있다고 표현했습니다.",
-    "summary_en": "Puma has launched an AI-powered digital human concierge named 'Dylan' at its Las Vegas flagship store. The AI tool provides personalized customer service while maintaining consumer control. Puma's AI head emphasized that the brand is still 'giving the keys to the consumer'.",
-    "so_what_ko": "AI 컨시어지는 D2C 브랜드의 매장 경험을 혁신할 수 있으며, 고객 주도권 유지가 성공의 핵심입니다.",
-    "so_what_en": "AI concierges can revolutionize D2C brand store experiences, with maintaining customer control being key to success.",
-    "key_points": [
-      "AI-powered digital human concierge in flagship store",
-      "Emphasis on maintaining consumer control",
-      "Personalized customer service through AI"
-    ],
-    "tags": [
-      "ai-concierge",
-      "digital-human",
-      "retail-experience"
-    ],
-    "confidence": 0.9,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Puma",
-      "Dylan"
-    ],
-    "one_line_insight_ko": "AI 컨시어지는 고객 경험을 개선하면서도 고객 주도권을 유지하는 것이 핵심입니다.",
-    "one_line_insight_en": "AI concierges must enhance customer experience while preserving customer agency.",
-    "ai_processed": true
-  },
-  {
-    "title": "‘Everything is coming down’: ChatGPT ads are getting cheaper",
-    "link": "https://digiday.com/marketing/everything-is-coming-down-chatgpt-ads-are-getting-cheaper/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-04-17",
-    "description": "While the pilot CPM started out at $60, advertisers are now seeing that price drop to as low as $25, just nine weeks into the test.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
-    "categories": [
-      "marketing"
-    ],
-    "relevance_score": 0.8,
-    "relevance_label": "high",
-    "title_en": "ChatGPT Ad Prices Drop Significantly as Platform Matures",
-    "summary_ko": "ChatGPT 광고의 가격이 크게 하락하고 있습니다. 파일럿 프로그램 시작 시 CPM이 60달러였지만, 9주 만에 25달러까지 떨어졌습니다. 이는 ChatGPT 광고 플랫폼이 성숙해지면서 나타나는 현상입니다.",
-    "summary_en": "ChatGPT advertising prices are dropping significantly. While pilot CPM started at $60, advertisers are now seeing prices as low as $25 after just nine weeks. This reflects the maturing of ChatGPT's advertising platform.",
-    "so_what_ko": "ChatGPT 광고 비용 하락은 D2C 브랜드에게 새로운 마케팅 채널 진입 기회를 제공합니다.",
-    "so_what_en": "Declining ChatGPT ad costs present D2C brands with new marketing channel entry opportunities.",
-    "key_points": [
-      "CPM prices dropped from $60 to $25 in 9 weeks",
-      "ChatGPT advertising platform is maturing",
-      "Cost reduction making platform more accessible"
-    ],
-    "tags": [
-      "chatgpt-ads",
-      "cpm-pricing",
-      "ai-advertising"
-    ],
-    "confidence": 0.9,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "ChatGPT",
-      "OpenAI"
-    ],
-    "one_line_insight_ko": "ChatGPT 광고 플랫폼의 성숙화로 D2C 브랜드의 AI 마케팅 진입 장벽이 낮아지고 있습니다.",
-    "one_line_insight_en": "ChatGPT advertising platform maturation is lowering entry barriers for D2C brands into AI marketing.",
-    "ai_processed": true
-  },
-  {
-    "title": "The Next ANA CEO Will Have to Face Down The Threat of AI",
-    "link": "https://www.adweek.com/brand-marketing/the-next-ana-ceo-will-have-to-face-down-the-threat-of-ai/",
-    "date_published": "2026-04-17",
-    "description": "Bob Liodice says his successor must be more than a \"brand guy\" to tackle the challenges facing today's marketers",
-    "source_id": "adweek",
-    "source_name": "Adweek",
-    "source_url": "https://www.adweek.com/feed",
-    "categories": [
-      "marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.7,
-    "relevance_label": "high",
-    "title_en": "Next ANA CEO Must Tackle AI Threats to Marketing Industry",
-    "summary_ko": "ANA(Association of National Advertisers)의 차기 CEO는 AI가 마케팅 업계에 가하는 위협에 대응해야 합니다. 현 CEO인 밥 리오디체는 후임자가 단순한 '브랜드 전문가'를 넘어서야 한다고 강조했습니다. 오늘날 마케터들이 직면한 도전과제를 해결하기 위해서는 더 포괄적인 역량이 필요합니다.",
-    "summary_en": "The next CEO of ANA (Association of National Advertisers) must address AI threats to the marketing industry. Current CEO Bob Liodice emphasized that his successor must be more than just a 'brand guy'. Comprehensive capabilities are needed to tackle challenges facing today's marketers.",
-    "so_what_ko": "마케팅 업계 리더십이 AI 위협을 인식하고 있어, D2C 브랜드도 AI 대응 전략을 강화해야 합니다.",
-    "so_what_en": "Marketing industry leadership recognizes AI threats, requiring D2C brands to strengthen AI response strategies.",
-    "key_points": [
-      "ANA leadership transition amid AI challenges",
-      "Need for comprehensive skills beyond traditional brand expertise",
-      "Industry-wide recognition of AI impact on marketing"
-    ],
-    "tags": [
-      "ana-leadership",
-      "ai-threats",
-      "marketing-industry"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "ANA",
-      "Bob Liodice"
-    ],
-    "one_line_insight_ko": "마케팅 업계 최고 기관도 AI 위협을 심각하게 인식하고 대응 방안을 모색하고 있습니다.",
-    "one_line_insight_en": "Top marketing industry organizations are seriously recognizing and seeking responses to AI threats.",
-    "ai_processed": true
-  },
-  {
-    "title": "Week of April 6 Morning News Ratings: Savannah Guthrie Returns",
-    "link": "https://www.adweek.com/tvnewser/week-of-april-6-2026-morning-news-ratings/",
-    "date_published": "2026-04-17",
-    "description": "Today remained in the lead",
-    "source_id": "adweek",
-    "source_name": "Adweek",
-    "source_url": "https://www.adweek.com/feed",
-    "categories": [
-      "marketing"
-    ],
-    "relevance_score": 0.2,
-    "relevance_label": "high",
-    "title_en": "Morning News Ratings Show Today Maintains Lead as Savannah Guthrie Returns",
-    "summary_ko": "사반나 거스리가 복귀한 4월 6일 주간 아침 뉴스 시청률에서 투데이 쇼가 계속 선두를 유지했습니다. 해당 기사는 주요 아침 뉴스 프로그램들의 시청률 경쟁 상황을 다루고 있습니다. 미디어 산업의 시청률 동향과 출연진 변화의 영향을 보여줍니다.",
-    "summary_en": "The Today Show maintained its leading position in morning news ratings during the week of April 6th as Savannah Guthrie returned to the program. The article covers the competitive landscape among major morning news programs. It demonstrates the impact of talent changes on media industry viewership trends.",
-    "so_what_ko": "전통 미디어의 시청률 경쟁은 D2C 브랜드에게 참고할만한 콘텐츠 마케팅 전략을 제시합니다.",
-    "so_what_en": "Traditional media rating competition offers content marketing strategy insights for D2C brands.",
-    "key_points": [
-      "Today Show maintains ratings leadership",
-      "Savannah Guthrie's return impacts viewership",
-      "Morning news competitive landscape analysis"
-    ],
-    "tags": [
-      "media-ratings",
-      "content-marketing",
-      "traditional-media"
+      "openai",
+      "acquisitions",
+      "existential-challenges",
+      "ai-industry"
     ],
     "confidence": 0.6,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Today Show",
-      "Savannah Guthrie",
-      "Adweek"
-    ],
-    "one_line_insight_ko": "전통 미디어의 인물 중심 브랜딩 전략이 여전히 시청률에 영향을 미친다는 점을 확인했습니다.",
-    "one_line_insight_en": "Traditional media's personality-driven branding strategy continues to significantly impact viewership ratings.",
-    "ai_processed": true
-  },
-  {
-    "title": "[AINews] Anthropic Claude Opus 4.7 - literally one step better than 4.6 in every dimension",
-    "link": "https://www.latent.space/p/ainews-anthropic-claude-opus-47-literally",
-    "date_published": "2026-04-17",
-    "description": "The new SOTA model asserts its dominance.",
-    "source_id": "latent_space",
-    "source_name": "Latent Space (The AI Index)",
-    "source_url": "https://www.latent.space/feed",
-    "categories": [
-      "tech"
-    ],
-    "relevance_score": 0.7,
-    "relevance_label": "high",
-    "title_en": "Anthropic Releases Claude Opus 4.7 with Incremental Improvements Across All Dimensions",
-    "summary_ko": "Anthropic이 Claude Opus 4.7을 출시하며 이전 버전 4.6 대비 모든 영역에서 개선된 성능을 보여준다고 발표했습니다. 새로운 SOTA 모델이 시장에서의 지배적 위치를 확고히 하고 있습니다. AI 모델의 지속적인 성능 향상이 업계 경쟁을 더욱 치열하게 만들고 있습니다.",
-    "summary_en": "Anthropic launched Claude Opus 4.7, showing improved performance across all dimensions compared to the previous version 4.6. The new state-of-the-art model is asserting its dominant position in the market. Continuous AI model performance improvements are intensifying industry competition.",
-    "so_what_ko": "최신 AI 모델의 성능 향상은 D2C 브랜드의 고객 서비스와 개인화 전략에 새로운 기회를 제공합니다.",
-    "so_what_en": "Latest AI model performance improvements offer new opportunities for D2C brands in customer service and personalization strategies.",
-    "key_points": [
-      "Claude Opus 4.7 shows improvements in all dimensions",
-      "New SOTA model establishes market dominance",
-      "AI model competition intensifies with continuous upgrades"
-    ],
-    "tags": [
-      "claude-ai",
-      "anthropic",
-      "ai-models",
-      "sota"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "EMERGING_TECH",
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
+    "sentiment": "THREAT",
     "key_entities": [
-      "Anthropic",
-      "Claude Opus",
-      "Latent Space"
+      "OpenAI"
     ],
-    "one_line_insight_ko": "AI 모델의 점진적 성능 개선이 지속되면서 비즈니스 활용 가능성이 확대되고 있습니다.",
-    "one_line_insight_en": "Incremental AI model performance improvements are expanding business application possibilities.",
+    "one_line_insight_ko": "AI 업계 선도 기업의 근본적 과제는 AI 의존 비즈니스 모델의 리스크를 부각시키고 있습니다.",
+    "one_line_insight_en": "Fundamental challenges at leading AI companies are highlighting risks in AI-dependent business models.",
     "ai_processed": true
   },
   {
-    "title": "Isabelle/HOL: The proof assistant behind the Nitro Isolation Engine",
-    "link": "https://www.amazon.science/blog/isabelle-hol-the-proof-assistant-behind-the-nitro-isolation-engine",
-    "date_published": "2026-04-17",
-    "description": "Isabelle/HOL's balance of expressiveness, automation, and scalability enabled the world's first formally verified cloud hypervisor.",
-    "source_id": "amazon_science",
-    "source_name": "Amazon Science",
-    "source_url": "https://www.amazon.science/index.rss",
+    "title": "The 12-month window",
+    "link": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+    "date_published": "2026-04-19",
+    "description": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
     "categories": [
-      "tech"
+      "tech",
+      "strategy"
+    ],
+    "relevance_score": 0.6,
+    "relevance_label": "high",
+    "title_en": "AI Startups Face 12-Month Window Before Foundation Models Expand",
+    "summary_ko": "많은 AI 스타트업들이 파운데이션 모델이 아직 자신들의 영역으로 확장하지 않았기 때문에 존재할 수 있습니다. 하지만 이러한 상황이 영원히 지속되지 않을 것이라는 점을 스타트업들도 인정하고 있습니다. 원문에서 구체적인 12개월 기간에 대한 설명은 확인되지 않았습니다.",
+    "summary_en": "Many AI startups exist because foundation models haven't expanded into their specific categories yet. However, these startups acknowledge that this situation won't last forever. The specific 12-month timeframe details are not confirmed in the source material.",
+    "so_what_ko": "AI 스타트업의 제한된 경쟁 우위 기간은 D2C 기업들이 AI 솔루션 선택 시 장기적 파트너십보다는 유연한 접근이 필요함을 의미합니다.",
+    "so_what_en": "The limited competitive advantage period for AI startups suggests D2C companies need flexible approaches rather than long-term partnerships when selecting AI solutions.",
+    "key_points": [
+      "AI startups exist in gaps where foundation models haven't expanded",
+      "Limited time window before foundation models enter new categories",
+      "Startups acknowledge temporary nature of their market position"
+    ],
+    "tags": [
+      "ai-startups",
+      "foundation-models",
+      "competitive-window",
+      "market-dynamics"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "AI startups",
+      "foundation models"
+    ],
+    "one_line_insight_ko": "AI 스타트업들의 경쟁 우위는 일시적이며, 기업들은 AI 파트너 선택에서 장기적 안정성보다 단기적 유연성을 고려해야 합니다.",
+    "one_line_insight_en": "AI startups' competitive advantages are temporary, requiring businesses to prioritize short-term flexibility over long-term stability in AI partner selection.",
+    "ai_processed": true
+  },
+  {
+    "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
+    "link": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
+    "date_published": "2026-04-19",
+    "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "categories": [
+      "tech",
+      "strategy"
     ],
     "relevance_score": 0.4,
     "relevance_label": "high",
-    "title_en": "Amazon Uses Isabelle/HOL Proof Assistant for World's First Verified Cloud Hypervisor",
-    "summary_ko": "아마존이 Nitro Isolation Engine 개발에 Isabelle/HOL 증명 도우미를 활용했다고 발표했습니다. 이는 세계 최초로 공식 검증된 클라우드 하이퍼바이저 구현을 가능하게 했습니다. Isabelle/HOL의 표현력, 자동화, 확장성의 균형이 이러한 혁신을 실현시켰습니다.",
-    "summary_en": "Amazon announced using the Isabelle/HOL proof assistant for developing the Nitro Isolation Engine. This enabled the implementation of the world's first formally verified cloud hypervisor. The balance of Isabelle/HOL's expressiveness, automation, and scalability made this innovation possible.",
-    "so_what_ko": "공식 검증된 클라우드 인프라는 D2C 플랫폼의 보안성과 신뢰성을 크게 향상시킬 수 있습니다.",
-    "so_what_en": "Formally verified cloud infrastructure can significantly enhance security and reliability for D2C platforms.",
+    "title_en": "Uber Enters Asset-Heavy Era as AI Transforms Mobility",
+    "summary_ko": "우버가 자산 중심 전략 시대에 진입하고 있으며, AI가 교통 분야에서 중요한 역할을 담당하고 있습니다. TechCrunch Mobility에서 운송의 미래와 AI의 역할이 그 어느 때보다 중요해지고 있다고 보도했습니다. 원문에서 구체적인 자산 전략 세부사항은 확인되지 않았습니다.",
+    "summary_en": "Uber is entering an asset-heavy strategic era while AI plays an increasingly important role in the transportation sector. TechCrunch Mobility reports that the future of transportation and AI's role are more important than ever. Specific asset strategy details are not confirmed in the source material.",
+    "so_what_ko": "우버의 자산 중심 전략 전환은 플랫폼 비즈니스에서 수직 통합으로의 변화를 보여주며, D2C 기업들의 공급망 전략에 시사점을 제공합니다.",
+    "so_what_en": "Uber's shift to asset-heavy strategy demonstrates the transition from platform business to vertical integration, providing insights for D2C companies' supply chain strategies.",
     "key_points": [
-      "World's first formally verified cloud hypervisor",
-      "Isabelle/HOL enables formal verification at scale",
-      "Amazon Nitro demonstrates advanced security architecture"
+      "Uber transitioning to asset-heavy business model",
+      "AI playing increasingly important role in mobility sector",
+      "Shift from platform to more integrated approach"
     ],
     "tags": [
-      "cloud-security",
-      "formal-verification",
-      "amazon-nitro",
-      "hypervisor"
+      "uber",
+      "asset-heavy",
+      "mobility",
+      "ai-transportation"
     ],
-    "confidence": 0.9,
+    "confidence": 0.6,
     "strategic_theme": "PLATFORM_ECOSYSTEM",
     "regions": [
       "GLOBAL"
     ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
     "key_entities": [
-      "Amazon",
-      "Isabelle/HOL",
-      "Nitro Isolation Engine"
+      "Uber",
+      "AI",
+      "mobility"
     ],
-    "one_line_insight_ko": "공식 검증 기술이 클라우드 보안의 새로운 표준을 제시하며 플랫폼 신뢰성을 혁신하고 있습니다.",
-    "one_line_insight_en": "Formal verification technology is setting new standards for cloud security and revolutionizing platform reliability.",
+    "one_line_insight_ko": "플랫폼 기업의 자산 중심 전략 전환은 디지털 퍼스트 기업들도 물리적 자산 통합을 고려해야 함을 시사합니다.",
+    "one_line_insight_en": "Platform companies' shift to asset-heavy strategies suggests digital-first businesses should consider physical asset integration.",
     "ai_processed": true
   },
   {
-    "title": "5 Tips to Help Marketers Navigate AI Email Summaries",
-    "link": "https://www.salesforce.com/blog/ai-email-summaries/",
+    "title": "Amex to buy Hypercard",
+    "link": "https://www.paymentsdive.com/news/amex-to-buy-hypercard/817795/",
     "date_published": "2026-04-17",
-    "description": "Learn how you can still stand out in the inbox and get your messages across to readers",
-    "source_id": "salesforce_agentforce",
-    "source_name": "Salesforce Agentforce Blog",
-    "source_url": "https://www.salesforce.com/blog/category/ai/feed/",
+    "description": "The card company has agreed to purchase the agentic expense management firm backed by OpenAI CEO Sam Altman.",
+    "source_id": "payments_dive",
+    "source_name": "Payments Dive",
+    "source_url": "https://www.paymentsdive.com/feeds/news/",
     "categories": [
-      "marketing",
-      "agentic_commerce"
+      "commerce",
+      "tech"
     ],
-    "relevance_score": 0.9,
+    "relevance_score": 0.8,
     "relevance_label": "high",
-    "title_en": "5 Marketing Tips for Standing Out in AI-Generated Email Summaries",
-    "summary_ko": "Salesforce가 AI 이메일 요약 시대에 마케터들이 수신자의 관심을 끌 수 있는 5가지 팁을 제시했습니다. AI가 이메일을 요약하는 환경에서도 메시지를 효과적으로 전달하는 방법을 설명합니다. 이메일 마케팅의 새로운 도전과 기회를 다루고 있습니다.",
-    "summary_en": "Salesforce presented 5 tips for marketers to capture recipients' attention in the era of AI email summaries. The article explains how to effectively deliver messages even when AI summarizes emails. It addresses new challenges and opportunities in email marketing.",
-    "so_what_ko": "AI 이메일 요약 기능이 보편화되면서 D2C 브랜드는 더 간결하고 임팩트 있는 이메일 마케팅 전략을 개발해야 합니다.",
-    "so_what_en": "As AI email summarization becomes prevalent, D2C brands must develop more concise and impactful email marketing strategies.",
+    "title_en": "American Express Acquires AI-Powered Expense Management Firm Hypercard",
+    "summary_ko": "아메리칸 익스프레스가 OpenAI CEO 샘 알트만이 투자한 에이전틱 경비 관리 회사 Hypercard를 인수하기로 합의했습니다. 이번 인수는 전통적인 금융 서비스 기업이 AI 에이전트 기술을 적극 도입하는 사례입니다. 원문에서 인수 금액이나 구체적인 통합 계획은 확인되지 않았습니다.",
+    "summary_en": "American Express has agreed to acquire Hypercard, an agentic expense management firm backed by OpenAI CEO Sam Altman. This acquisition represents a case of traditional financial services companies actively adopting AI agent technology. Acquisition amount or specific integration plans are not confirmed in the source material.",
+    "so_what_ko": "전통 금융 기업의 AI 에이전트 기술 인수는 D2C 기업들도 에이전틱 커머스 도입을 통해 고객 경험을 자동화할 수 있는 기회를 보여줍니다.",
+    "so_what_en": "Traditional financial firms' acquisition of AI agent technology shows opportunities for D2C companies to automate customer experiences through agentic commerce adoption.",
     "key_points": [
-      "AI email summaries change how messages are consumed",
-      "Marketers need new strategies for inbox visibility",
-      "Email content optimization for AI processing"
+      "Amex acquiring agentic expense management firm Hypercard",
+      "OpenAI CEO Sam Altman previously backed the company",
+      "Traditional finance embracing AI agent technology"
     ],
     "tags": [
-      "email-marketing",
-      "ai-summaries",
-      "salesforce",
-      "marketing-strategy"
+      "amex",
+      "hypercard",
+      "agentic-commerce",
+      "expense-management"
     ],
     "confidence": 0.8,
-    "strategic_theme": "AI_MARKETING",
+    "strategic_theme": "AI_AGENT",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Salesforce",
-      "Agentforce"
+      "American Express",
+      "Hypercard",
+      "Sam Altman",
+      "OpenAI"
     ],
-    "one_line_insight_ko": "AI 이메일 요약 기능이 마케팅 커뮤니케이션의 패러다임을 바꾸고 있어 새로운 전략이 필요합니다.",
-    "one_line_insight_en": "AI email summarization is shifting marketing communication paradigms, requiring new strategic approaches.",
+    "one_line_insight_ko": "전통 금융 기업의 에이전틱 기술 인수는 AI 에이전트가 고객 서비스 자동화의 핵심 전략으로 부상하고 있음을 보여줍니다.",
+    "one_line_insight_en": "Traditional financial firms' acquisition of agentic technology shows AI agents are emerging as key strategies for customer service automation.",
     "ai_processed": true
   },
   {
-    "title": "The Real AI Shift Isn’t New Models. It’s Control.",
-    "link": "https://aibusiness.com/generative-ai/the-real-ai-shift-isn-t-new-models-s-control-",
+    "title": "OpenAI GPT-5.4-Cyber is More Open Than Claude Mythos",
+    "link": "https://aibusiness.com/generative-ai/openai-gpt-5-4-cyber-more-open-than-claude-mythos",
     "date_published": "2026-04-17",
-    "description": "As AI use accelerates, the challenge is no longer building systems but managing them at scale.",
+    "description": "The model could help cybersecurity experts better prepare for attacks.",
     "source_id": "ai_business",
     "source_name": "AI Business",
     "source_url": "https://aibusiness.com/rss.xml",
+    "categories": [
+      "tech"
+    ],
+    "relevance_score": 0.4,
+    "relevance_label": "high",
+    "title_en": "OpenAI's GPT-5.4-Cyber Outperforms Claude in Cybersecurity Applications",
+    "summary_ko": "OpenAI가 사이버보안 전문가들의 공격 대비를 지원하는 GPT-5.4-Cyber 모델을 발표했습니다. 이 모델은 Claude Mythos보다 더 개방적인 특성을 보입니다. 사이버보안 분야에서 AI의 활용도가 높아지고 있습니다.",
+    "summary_en": "OpenAI released GPT-5.4-Cyber model to help cybersecurity experts better prepare for attacks. The model demonstrates more openness compared to Claude Mythos. AI utilization in cybersecurity is increasing significantly.",
+    "so_what_ko": "D2C 기업들은 강화된 사이버보안 AI 도구를 활용해 고객 데이터 보호와 온라인 거래 안전성을 크게 개선할 수 있습니다.",
+    "so_what_en": "D2C companies can leverage enhanced cybersecurity AI tools to significantly improve customer data protection and online transaction security.",
+    "key_points": [
+      "GPT-5.4-Cyber specifically designed for cybersecurity applications",
+      "Model shows superior openness compared to Claude Mythos",
+      "Helps cybersecurity experts prepare for potential attacks"
+    ],
+    "tags": [
+      "cybersecurity",
+      "gpt-model",
+      "ai-security"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "EMERGING_TECH",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "OpenAI",
+      "GPT-5.4-Cyber",
+      "Claude Mythos"
+    ],
+    "one_line_insight_ko": "AI 기반 사이버보안 도구의 발전으로 D2C 기업의 데이터 보호 역량이 강화되고 있습니다.",
+    "one_line_insight_en": "AI-powered cybersecurity tools are enhancing D2C companies' data protection capabilities.",
+    "ai_processed": true
+  },
+  {
+    "title": "Making AI operational in constrained public sector environments",
+    "link": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
+    "date_published": "2026-04-16",
+    "description": "The AI boom has hit across industries, and public sector organizations are facing pressure to accelerate adoption. At the same time, government institutions face distinct constraints around security, governance, and operations that set them apart from their business counterparts. For this reason, purpose-built small language models (SLMs) offer a promising path to operationalize AI in…",
+    "source_id": "mit_tech_review_ai",
+    "source_name": "MIT Technology Review (AI)",
+    "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+    "categories": [
+      "tech",
+      "strategy"
+    ],
+    "relevance_score": 0.5,
+    "relevance_label": "high",
+    "title_en": "Small Language Models Enable AI Operations in Government Constraints",
+    "summary_ko": "공공부문 조직들이 AI 도입 압력을 받고 있지만 보안과 거버넌스 제약이 있습니다. 소규모 언어 모델(SLM)이 제약된 정부 환경에서 AI를 운영화하는 유망한 방법으로 제시됩니다. 정부 기관들은 민간 기업과 다른 운영상 제약을 직면하고 있습니다.",
+    "summary_en": "Public sector organizations face pressure to adopt AI while dealing with security and governance constraints. Small Language Models (SLMs) offer a promising path to operationalize AI in constrained government environments. Government institutions face distinct operational constraints different from business counterparts.",
+    "so_what_ko": "D2C 기업들은 SLM 기술을 활용해 규제가 엄격한 환경에서도 AI 솔루션을 구현할 수 있으며, 이는 글로벌 확장 시 유용할 것입니다.",
+    "so_what_en": "D2C companies can leverage SLM technology to implement AI solutions in highly regulated environments, which will be valuable for global expansion.",
+    "key_points": [
+      "Public sector faces unique AI adoption constraints",
+      "Small Language Models provide viable solution for constrained environments",
+      "Security and governance requirements differ from business settings",
+      "Purpose-built models offer advantages over general solutions"
+    ],
+    "tags": [
+      "small-language-models",
+      "government-ai",
+      "ai-constraints"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Small Language Models",
+      "MIT Technology Review"
+    ],
+    "one_line_insight_ko": "제약된 환경에서도 AI를 운영화할 수 있는 SLM 기술이 규제 준수가 중요한 D2C 비즈니스에 적용 가능합니다.",
+    "one_line_insight_en": "SLM technology that enables AI operationalization in constrained environments is applicable to compliance-critical D2C businesses.",
+    "ai_processed": true
+  },
+  {
+    "title": "Treating enterprise AI as an operating layer",
+    "link": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
+    "date_published": "2026-04-16",
+    "description": "There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks—GPT versus Gemini, reasoning scores, and marginal capability gains. But in practice, the more durable advantage is structural: who owns the operating layer where intelligence is applied, governed, and improved.…",
+    "source_id": "mit_tech_review_ai",
+    "source_name": "MIT Technology Review (AI)",
+    "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
     "categories": [
       "strategy",
       "tech"
     ],
     "relevance_score": 0.8,
     "relevance_label": "high",
-    "title_en": "AI's Real Challenge Shifts from Building Models to Managing Control at Scale",
-    "summary_ko": "AI 사용이 가속화되면서 진짜 도전은 새로운 모델 구축이 아니라 대규모 AI 시스템 관리와 제어라고 분석했습니다. AI 기술의 성숙과 함께 운영 및 거버넌스의 중요성이 부각되고 있습니다. 기업들은 AI 시스템의 확장성과 통제 가능성에 더 집중해야 할 시점입니다.",
-    "summary_en": "As AI adoption accelerates, the real challenge is no longer building new models but managing and controlling AI systems at scale. The importance of operations and governance is emerging alongside AI technology maturation. Companies need to focus more on scalability and controllability of AI systems.",
-    "so_what_ko": "D2C 기업들은 AI 기술 도입보다 AI 거버넌스와 운영 체계 구축에 더 많은 투자를 해야 합니다.",
-    "so_what_en": "D2C companies should invest more in AI governance and operational frameworks rather than just AI technology adoption.",
+    "title_en": "Enterprise AI Operating Layer Becomes Key Competitive Advantage",
+    "summary_ko": "기업용 AI에서 진정한 경쟁 우위는 파운데이션 모델이 아닌 운영 레이어에 있습니다. 지능이 적용되고 관리되며 개선되는 운영 레이어를 소유하는 것이 구조적 우위를 제공합니다. 벤치마크와 모델 성능보다 운영 구조가 더 지속 가능한 우위를 만듭니다.",
+    "summary_en": "The real competitive advantage in enterprise AI lies not in foundation models but in the operating layer. Owning the operating layer where intelligence is applied, governed, and improved provides structural advantage. Operational structure creates more sustainable advantage than benchmarks and model performance.",
+    "so_what_ko": "D2C 기업들은 AI 모델 자체보다 AI가 운영되는 플랫폼과 인프라에 투자하여 지속 가능한 경쟁 우위를 확보해야 합니다.",
+    "so_what_en": "D2C companies should invest in AI operating platforms and infrastructure rather than just models to secure sustainable competitive advantage.",
     "key_points": [
-      "AI challenge shifts from building to managing systems",
-      "Control and governance become critical at scale",
-      "Operational excellence more important than model innovation"
+      "Operating layer ownership more important than model capabilities",
+      "Structural advantages outweigh marginal performance gains",
+      "Intelligence application and governance create competitive moats",
+      "Enterprise focus shifting from benchmarks to operational control"
     ],
     "tags": [
-      "ai-governance",
-      "system-management",
-      "ai-control",
-      "scalability"
+      "enterprise-ai",
+      "operating-layer",
+      "competitive-advantage"
     ],
     "confidence": 0.8,
-    "strategic_theme": "DATA_STRATEGY",
+    "strategic_theme": "PLATFORM_ECOSYSTEM",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "HIGH",
-    "sentiment": "NEUTRAL",
+    "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "AI Business"
+      "Enterprise AI",
+      "Operating Layer",
+      "Foundation Models"
     ],
-    "one_line_insight_ko": "AI의 핵심 과제가 기술 개발에서 시스템 관리와 거버넌스로 전환되고 있습니다.",
-    "one_line_insight_en": "AI's core challenge is shifting from technology development to system management and governance.",
+    "one_line_insight_ko": "AI 모델보다 운영 레이어 소유권이 D2C 기업의 지속 가능한 경쟁 우위를 결정합니다.",
+    "one_line_insight_en": "Operating layer ownership, not AI models, determines sustainable competitive advantage for D2C companies.",
+    "ai_processed": true
+  },
+  {
+    "title": "Why having “humans in the loop” in an AI war is an illusion",
+    "link": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
+    "date_published": "2026-04-16",
+    "description": "The availability of artificial intelligence for use in warfare is at the center of a legal battle between Anthropic and the Pentagon. This debate has become urgent, with AI playing a bigger role than ever before in the current conflict with Iran. AI is no longer just helping humans analyze intelligence. It is now an…",
+    "source_id": "mit_tech_review_ai",
+    "source_name": "MIT Technology Review (AI)",
+    "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+    "categories": [
+      "tech"
+    ],
+    "relevance_score": 0.3,
+    "relevance_label": "high",
+    "title_en": "Human-in-the-Loop AI Control Proves Illusory in Military Applications",
+    "summary_ko": "AI 전쟁에서 '인간이 고리에 있는' 시스템이 환상임이 드러나고 있습니다. Anthropic과 펜타곤 간의 법적 분쟁이 전쟁용 AI 사용을 중심으로 벌어지고 있습니다. AI가 현재 이란과의 분쟁에서 정보 분석을 넘어 더 큰 역할을 하고 있습니다.",
+    "summary_en": "Human-in-the-loop systems in AI warfare are proving to be an illusion. A legal battle between Anthropic and the Pentagon centers on AI use in warfare. AI now plays a bigger role than intelligence analysis in current conflict with Iran.",
+    "so_what_ko": "D2C 기업들은 AI 자율성과 인간 제어 사이의 균형을 신중히 고려해야 하며, 특히 자동화된 고객 서비스와 거래 처리에서 투명성을 확보해야 합니다.",
+    "so_what_en": "D2C companies must carefully balance AI autonomy and human control, especially ensuring transparency in automated customer service and transaction processing.",
+    "key_points": [
+      "Human oversight in AI systems may be more limited than assumed",
+      "Legal and ethical debates surrounding AI autonomy intensifying",
+      "AI expanding beyond support roles to active decision-making"
+    ],
+    "tags": [
+      "ai-ethics",
+      "human-control",
+      "ai-autonomy"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "Anthropic",
+      "Pentagon",
+      "AI Warfare"
+    ],
+    "one_line_insight_ko": "AI 자율성 증가로 D2C 기업들은 고객 대면 AI 시스템에서 인간 감독의 한계를 인식해야 합니다.",
+    "one_line_insight_en": "Increasing AI autonomy requires D2C companies to recognize the limits of human oversight in customer-facing AI systems.",
+    "ai_processed": true
+  },
+  {
+    "title": "Introducing GPT-Rosalind for life sciences research",
+    "link": "https://openai.com/index/introducing-gpt-rosalind",
+    "date_published": "2026-04-16",
+    "description": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "categories": [
+      "tech"
+    ],
+    "relevance_score": 0.4,
+    "relevance_label": "high",
+    "title_en": "OpenAI Launches GPT-Rosalind for Life Sciences Research",
+    "summary_ko": "OpenAI가 생명과학 연구를 위한 GPT-Rosalind를 출시했습니다. 이 프론티어 추론 모델은 신약 발견, 유전체학 분석, 단백질 추론을 가속화합니다. 과학 연구 워크플로우를 지원하는 전문 AI 모델입니다.",
+    "summary_en": "OpenAI launched GPT-Rosalind for life sciences research. This frontier reasoning model accelerates drug discovery, genomics analysis, and protein reasoning. It's a specialized AI model supporting scientific research workflows.",
+    "so_what_ko": "D2C 헬스케어 및 웰니스 브랜드들은 전문 AI 모델을 활용해 개인 맞춤형 건강 솔루션과 제품 개발을 혁신할 수 있습니다.",
+    "so_what_en": "D2C healthcare and wellness brands can leverage specialized AI models to innovate personalized health solutions and product development.",
+    "key_points": [
+      "Specialized AI model for life sciences applications",
+      "Accelerates drug discovery and genomics analysis",
+      "Demonstrates trend toward domain-specific AI models"
+    ],
+    "tags": [
+      "life-sciences-ai",
+      "specialized-models",
+      "drug-discovery"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "EMERGING_TECH",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "OpenAI",
+      "GPT-Rosalind",
+      "Life Sciences"
+    ],
+    "one_line_insight_ko": "전문 분야별 AI 모델의 등장으로 D2C 기업들도 특화된 AI 솔루션을 고려해야 할 때입니다.",
+    "one_line_insight_en": "The emergence of domain-specific AI models signals D2C companies should consider specialized AI solutions.",
     "ai_processed": true
   }
 ]
