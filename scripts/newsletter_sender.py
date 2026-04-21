@@ -285,8 +285,12 @@ def main() -> int:
         return 0
 
     state = _load_json(STATE_PATH, default={})
-    if not args.allow_resend and state.get("last_sent_date") == target_date:
-        print(f"⏭️ Skip: newsletter already marked sent for {target_date}.")
+    lang_key = f"last_sent_date_{args.language}"
+    already_sent = state.get(lang_key) == target_date or (
+        args.language == "ko" and state.get("last_sent_date") == target_date and lang_key not in state
+    )
+    if not args.allow_resend and already_sent:
+        print(f"⏭️ Skip: {args.language.upper()} newsletter already marked sent for {target_date}.")
         return 0
 
     try:
@@ -364,17 +368,15 @@ def main() -> int:
             recently_sent.append(selected_date)
         recently_sent = recently_sent[-14:]  # keep last 14 entries
 
-        _save_json(
-            STATE_PATH,
-            {
-                "last_sent_date": target_date,
-                "last_sent_content_date": selected_date,
-                "last_sent_at_kst": now_kst.isoformat(),
-                "last_recipient_count": len(recipients),
-                "last_news_items": len(news_items),
-                "recently_sent_content_dates": recently_sent,
-            },
-        )
+        state.update({
+            f"last_sent_date_{args.language}": target_date,
+            f"last_sent_content_date_{args.language}": selected_date,
+            f"last_sent_at_kst_{args.language}": now_kst.isoformat(),
+            f"last_recipient_count_{args.language}": len(recipients),
+            "last_news_items": len(news_items),
+            "recently_sent_content_dates": recently_sent,
+        })
+        _save_json(STATE_PATH, state)
         print(f"📌 Send state updated: {STATE_PATH}")
 
         # Record sent titles for future dedup

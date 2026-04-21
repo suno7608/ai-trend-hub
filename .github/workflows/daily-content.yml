@@ -103,6 +103,13 @@ jobs:
         env:
           GOOGLE_TOKEN_PATH: /tmp/google-token.json
 
+      - name: "Step 10: Commit newsletter state"
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "AI Trend Hub Bot"
+          git add data/newsletter_state.json
+          git diff --staged --quiet || git commit -m "📌 Newsletter state update $(date +%Y-%m-%d)" && git push || echo "Nothing to commit"
+
       - name: "Notify: Success"
         if: success()
         run: node scripts/notify-telegram.js --status=success --pipeline=daily --details="Daily pipeline completed + KR/EN newsletters sent" --run-url="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
