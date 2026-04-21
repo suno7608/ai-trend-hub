@@ -1,557 +1,315 @@
 [
   {
-    "title": "Dollar General prioritizes in-store audio over digital screens",
-    "link": "https://www.modernretail.co/technology/dollar-general-prioritizes-in-store-audio-over-digital-screens/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-04-21",
-    "description": "As retailers start to experiment with digital screens to display advertising in stores, Dollar General is taking a more old-school approach.",
-    "source_id": "modern_retail",
-    "source_name": "Modern Retail",
-    "source_url": "https://www.modernretail.co/feed/",
-    "categories": [
-      "commerce",
-      "marketing"
-    ],
-    "relevance_score": 0.4,
-    "relevance_label": "high",
-    "title_en": "Dollar General Prioritizes In-Store Audio Over Digital Screens for Retail Marketing",
-    "summary_ko": "달러 제너럴이 매장 내 디지털 스크린 대신 오디오 마케팅을 우선시하는 전략을 채택했습니다. 다른 소매업체들이 매장 내 광고용 디지털 스크린 실험을 하는 가운데 더 전통적인 접근 방식을 선택했습니다. 이는 비용 효율성과 고객 경험을 고려한 차별화된 매장 내 마케팅 전략으로 보입니다.",
-    "summary_en": "Dollar General has adopted a strategy prioritizing in-store audio marketing over digital screens. While other retailers experiment with digital screens for in-store advertising, the company chose a more traditional approach. This represents a differentiated in-store marketing strategy considering cost efficiency and customer experience.",
-    "so_what_ko": "LG D2C는 매장 내 마케팅 전략에서 고객 경험과 비용 효율성의 균형을 고려해야 합니다.",
-    "so_what_en": "LG D2C should consider balancing customer experience and cost efficiency in in-store marketing strategies.",
-    "key_points": [
-      "Dollar General chooses audio marketing over digital screens",
-      "Contrasts with industry trend toward digital displays",
-      "Focus on cost-effective traditional approaches"
-    ],
-    "tags": [
-      "in-store-marketing",
-      "audio-advertising",
-      "retail-strategy"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Dollar General"
-    ],
-    "one_line_insight_ko": "전통적인 오디오 마케팅이 디지털 혁신보다 비용 효율적일 수 있음을 보여주는 사례입니다.",
-    "one_line_insight_en": "Traditional audio marketing can be more cost-effective than digital innovation in certain retail contexts.",
-    "ai_processed": true
-  },
-  {
-    "title": "How ThredUp is using AI to improve its marketing operations and move further up the funnel",
-    "link": "https://www.modernretail.co/marketing/how-thredup-is-using-ai-to-improve-its-marketing-operations-and-move-further-up-the-funnel/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-04-21",
-    "description": "At the Modern Retail Marketing Summit in Huntington Beach, California, ThredUp's SVP and head of marketing, Kristen Brophy, spoke about the company's approach to customer acquisition and, specifically, how ThredUp is trying to improve its forecasting with the help of AI.",
-    "source_id": "modern_retail",
-    "source_name": "Modern Retail",
-    "source_url": "https://www.modernretail.co/feed/",
+    "title": "How SMBs Can Gain An Edge With Agentic AI: Key Trends From Our Marketing Report",
+    "link": "https://www.salesforce.com/blog/smb-takeaways-from-the-state-of-marketing/",
+    "date_published": "2026-04-20",
+    "description": "Our 10th annual State of Marketing Report surveyed 4,450 marketers worldwide — here's what the data said: SMBs can outpace the competition with agentic AI.",
+    "source_id": "salesforce_agentforce",
+    "source_name": "Salesforce Agentforce Blog",
+    "source_url": "https://www.salesforce.com/blog/category/ai/feed/",
     "categories": [
       "marketing",
-      "ai_marketing"
+      "agentic_commerce",
+      "strategy"
     ],
     "relevance_score": 0.9,
     "relevance_label": "high",
-    "title_en": "ThredUp Leverages AI to Enhance Marketing Operations and Customer Acquisition Forecasting",
-    "summary_ko": "중고의류 플랫폼 ThredUp이 AI를 활용해 마케팅 운영을 개선하고 고객 획득 예측 정확도를 높이고 있습니다. 회사의 마케팅 책임자가 Modern Retail 마케팅 서밋에서 AI 기반 예측 모델 도입 전략을 발표했습니다. 이를 통해 마케팅 퍼널 상단에서의 고객 확보 효율성을 개선하고 있습니다.",
-    "summary_en": "Secondhand clothing platform ThredUp is using AI to improve marketing operations and enhance customer acquisition forecasting accuracy. The company's marketing head presented AI-powered forecasting model strategies at the Modern Retail Marketing Summit. This approach aims to improve customer acquisition efficiency at the top of the marketing funnel.",
-    "so_what_ko": "LG D2C는 AI 기반 고객 획득 예측 모델을 도입하여 마케팅 ROI를 개선할 수 있습니다.",
-    "so_what_en": "LG D2C can implement AI-powered customer acquisition forecasting models to improve marketing ROI.",
+    "title_en": "SMBs Can Gain Competitive Edge Through Agentic AI Marketing, Salesforce Report Reveals",
+    "summary_ko": "세일즈포스의 10차 마케팅 현황 보고서는 전 세계 4,450명의 마케터를 조사한 결과를 발표했습니다. 중소기업들이 에이전트 AI를 활용해 경쟁 우위를 확보할 수 있다는 주요 트렌드를 확인했습니다. SMB들이 AI 에이전트를 통해 대기업과 경쟁할 수 있는 새로운 기회가 제시되었습니다.",
+    "summary_en": "Salesforce's 10th annual State of Marketing Report surveyed 4,450 marketers worldwide to identify key trends. The data reveals that small and medium businesses can outpace competition by leveraging agentic AI capabilities. SMBs now have new opportunities to compete with larger enterprises through AI agent implementation.",
+    "so_what_ko": "LG D2C는 중소기업 경쟁사들이 에이전트 AI로 빠르게 발전할 수 있음을 인지하고, 자체 AI 에이전트 역량을 강화해야 합니다.",
+    "so_what_en": "LG D2C must recognize that SMB competitors can rapidly advance with agentic AI and should strengthen its own AI agent capabilities to maintain competitive advantage.",
     "key_points": [
-      "ThredUp implements AI for marketing forecasting",
-      "Focus on improving customer acquisition efficiency",
-      "AI helps optimize top-of-funnel marketing strategies"
+      "4,450 marketers surveyed globally for comprehensive insights",
+      "Agentic AI enables SMBs to compete with larger enterprises",
+      "Marketing automation through AI agents becoming critical differentiator"
     ],
     "tags": [
-      "ai-forecasting",
-      "customer-acquisition",
-      "marketing-automation"
+      "agentic-ai",
+      "smb-marketing",
+      "marketing-automation",
+      "competitive-advantage"
     ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_MARKETING",
+    "confidence": 0.7,
+    "strategic_theme": "AI_AGENT",
     "regions": [
-      "AMER"
+      "GLOBAL"
     ],
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "ThredUp",
-      "Modern Retail"
+      "Salesforce",
+      "Agentforce"
     ],
-    "one_line_insight_ko": "AI 기반 마케팅 예측이 고객 획득 효율성 향상의 핵심 동력이 되고 있습니다.",
-    "one_line_insight_en": "AI-powered marketing forecasting is becoming the key driver for improving customer acquisition efficiency.",
+    "one_line_insight_ko": "중소기업도 에이전트 AI로 대기업과 경쟁할 수 있는 시대가 도래했습니다.",
+    "one_line_insight_en": "The era has arrived where SMBs can compete with large enterprises through agentic AI.",
     "ai_processed": true
   },
   {
-    "title": "Digiday+ Research: Marketing workflows benefit from AI, but trust is still a barrier to adoption",
-    "link": "https://digiday.com/marketing/digiday-research-marketing-workflows-benefit-from-ai-but-trust-is-still-a-barrier-to-adoption/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "title": "#210: Stanford 2026 AI Index, OpenAI Internal Shakeups, What Agents Mean for Business, Claude Design & Dwarkesh vs. Jensen",
+    "link": "",
     "date_published": "2026-04-21",
-    "description": "Research shows that while marketers see AI's benefits, trust and complexity issues are barriers to widespread adoption.",
+    "description": "OpenAI is \"deeply unfocused,\" says one of its own early investors. And that's only one of many threads pulling at the company this week.\n\nPaul and Mike dig into OpenAI's reorg, IPO drama, and valuation pushback, Stanford's 2026 AI Index, the real implications of AI agents in the enterprise, Tim Cook's Apple exit, Anthropic's White House thaw, the Dwarkesh-Jensen Huang debate, Claude Design's launch, and rapid-fire updates across Claude Opus 4.7, Cerebras, Harvey Agents, and more.\n\nShow Notes: Access the show notes and show links here\n\nAI Pulse Survey: Fill out this weeks AI Pulse Survey here\n\nTimestamps:\n\n00:00:00 — Intro\n\n00:05:41 — The 2026 AI Index Report\n\n00:19:10 — OpenAI Shifts and Shakeups\n\n00:34:27 — The Business Implications of Agents\n\n00:50:56 — Apple’s Tim Cook Stepping Down\n\n00:54:11 — Anthropic Launches Claude Design, Targets Canva and Figma\n\n01:01:26 — Anthropic's Possible Reconciliation with the White House\n\n01:06:02 — Dwarkesh vs. Jensen\n\n01:15:08 — Gen AI Traffic Share",
+    "source_id": "marketing_ai_show",
+    "source_name": "The Marketing AI Show (Podcast)",
+    "source_url": "https://feeds.megaphone.fm/marketingai",
+    "categories": [
+      "tech",
+      "strategy",
+      "agentic_commerce"
+    ],
+    "relevance_score": 0.8,
+    "relevance_label": "high",
+    "title_en": "OpenAI Faces Internal Turmoil While AI Agents Transform Enterprise Business Models",
+    "summary_ko": "OpenAI의 초기 투자자가 회사가 '극도로 집중력이 부족하다'고 비판하며 내부 혼란이 드러났습니다. AI 에이전트가 기업 비즈니스에 미치는 실질적 영향과 함께 OpenAI의 재조직, IPO 드라마가 논의되었습니다. 스탠포드 2026 AI 인덱스와 기업용 AI 에이전트의 의미가 분석되었습니다.",
+    "summary_en": "OpenAI faces criticism from early investors calling the company 'deeply unfocused' amid internal restructuring and IPO drama. The podcast explores real implications of AI agents in enterprise business transformation. Stanford's 2026 AI Index and enterprise AI agent adoption patterns are analyzed.",
+    "so_what_ko": "OpenAI의 불안정성은 LG에게 다양한 AI 공급업체 포트폴리오 구축의 중요성을 시사하며, 기업용 AI 에이전트 도입 전략을 수립해야 합니다.",
+    "so_what_en": "OpenAI's instability highlights the importance for LG to build a diversified AI vendor portfolio and develop enterprise AI agent adoption strategies.",
+    "key_points": [
+      "OpenAI facing internal organizational challenges and investor criticism",
+      "AI agents showing real business transformation potential in enterprise",
+      "Stanford 2026 AI Index provides market intelligence insights"
+    ],
+    "tags": [
+      "openai-crisis",
+      "ai-agents",
+      "enterprise-transformation",
+      "market-intelligence"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "OpenAI",
+      "Stanford AI Index",
+      "Anthropic",
+      "Claude Design"
+    ],
+    "one_line_insight_ko": "OpenAI의 내부 혼란은 AI 생태계의 불안정성을 보여주며 다각화 전략의 필요성을 강조합니다.",
+    "one_line_insight_en": "OpenAI's internal turmoil reveals AI ecosystem instability and emphasizes the need for diversification strategies.",
+    "ai_processed": true
+  },
+  {
+    "title": "Ad Tech Briefing: The days of bloat are over, as efficiency drives ad tech’s C-suite exodus",
+    "link": "https://digiday.com/media-buying/ad-tech-briefing-the-days-of-bloat-are-over-as-efficiency-drives-ad-techs-c-suite-exodus/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-04-21",
+    "description": "Faced with increasing competition from LLMs, ad tech players have to better demonstrate their value-add.",
     "source_id": "digiday",
     "source_name": "Digiday",
     "source_url": "https://digiday.com/feed",
     "categories": [
       "marketing",
-      "ai_marketing"
+      "tech",
+      "strategy"
     ],
     "relevance_score": 0.8,
     "relevance_label": "high",
-    "title_en": "AI Benefits Marketing Workflows but Trust and Complexity Remain Adoption Barriers",
-    "summary_ko": "Digiday 연구에 따르면 마케터들이 AI의 마케팅 워크플로우 개선 효과를 인정하지만 신뢰성과 복잡성 문제가 도입 장벽으로 작용하고 있습니다. 마케터들은 AI 도구의 이점을 인식하면서도 기술의 신뢰성과 사용 복잡성에 대한 우려를 표명하고 있습니다. 이는 AI 마케팅 기술의 광범위한 채택을 저해하는 주요 요인으로 나타났습니다.",
-    "summary_en": "According to Digiday research, marketers acknowledge AI's benefits for improving marketing workflows, but trust and complexity issues act as adoption barriers. Marketers recognize the benefits of AI tools while expressing concerns about technology reliability and usage complexity. This has emerged as a major factor hindering widespread adoption of AI marketing technologies.",
-    "so_what_ko": "LG D2C는 AI 마케팅 도구 도입 시 사용자 신뢰성 확보와 복잡성 해결에 우선 순위를 두어야 합니다.",
-    "so_what_en": "LG D2C should prioritize building user trust and addressing complexity when implementing AI marketing tools.",
+    "title_en": "Ad Tech Industry Faces C-Suite Exodus as LLMs Drive Efficiency Demands",
+    "summary_ko": "LLM의 경쟁 증가로 인해 애드테크 업계가 가치 증명의 압박을 받고 있습니다. 효율성 중심의 변화로 인해 애드테크 기업들의 C-레벨 임원 교체가 급증하고 있습니다. 과도한 복잡성의 시대가 끝나고 간소화된 솔루션이 요구되고 있습니다.",
+    "summary_en": "Ad tech companies face increasing pressure to demonstrate value-add as LLMs intensify competition. The industry is experiencing a C-suite exodus driven by efficiency-focused transformation demands. The era of bloated solutions is ending as streamlined approaches become essential.",
+    "so_what_ko": "LG D2C는 광고 기술 스택을 단순화하고 LLM 기반 마케팅 솔루션으로의 전환을 고려해야 합니다.",
+    "so_what_en": "LG D2C should consider simplifying its ad tech stack and transitioning to LLM-based marketing solutions for improved efficiency.",
     "key_points": [
-      "Marketers see AI workflow benefits but hesitate to adopt",
-      "Trust and complexity are primary adoption barriers",
-      "Need for simpler, more transparent AI solutions"
+      "LLM competition forcing ad tech value demonstration",
+      "C-suite exodus reflecting industry transformation pressure",
+      "Shift from complex to streamlined advertising solutions"
     ],
     "tags": [
-      "ai-adoption",
-      "marketing-technology",
-      "trust-barriers"
+      "ad-tech-disruption",
+      "llm-competition",
+      "marketing-efficiency",
+      "industry-transformation"
     ],
     "confidence": 0.8,
-    "strategic_theme": "AI_MARKETING",
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "MEDIUM",
     "sentiment": "THREAT",
     "key_entities": [
-      "Digiday"
+      "LLMs",
+      "Ad Tech"
     ],
-    "one_line_insight_ko": "AI 마케팅 도구의 성공적 도입을 위해서는 기술적 우수성보다 신뢰성과 사용 편의성이 더 중요합니다.",
-    "one_line_insight_en": "Trustworthiness and ease of use are more critical than technical excellence for successful AI marketing tool adoption.",
+    "one_line_insight_ko": "LLM이 애드테크 업계를 파괴하며 효율성 중심의 새로운 마케팅 패러다임을 만들고 있습니다.",
+    "one_line_insight_en": "LLMs are disrupting the ad tech industry and creating a new efficiency-driven marketing paradigm.",
     "ai_processed": true
   },
   {
-    "title": "Organic Search Winners Share 5 Traits",
-    "link": "https://www.practicalecommerce.com/organic-search-winners-share-5-traits",
-    "date_published": "2026-04-20",
-    "description": "A just-released study of 400 websites identifies organic-search success across multiple core updates.  \nThe post Organic Search Winners Share 5 Traits appeared first on Practical Ecommerce.",
-    "source_id": "practical_ecommerce",
-    "source_name": "Practical Ecommerce",
-    "source_url": "https://www.practicalecommerce.com/feed",
+    "title": "Why OpenAI is ‘running at lightning speed’ to build an ad business",
+    "link": "https://digiday.com/podcasts/why-openai-is-running-at-lightning-speed-to-build-an-ad-business/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-04-21",
+    "description": "The AI ad wars have officially begun, and OpenAI is staffing up and dropping rates to lure brands away from the likes of Meta and Google.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
     "categories": [
       "marketing",
-      "strategy"
+      "strategy",
+      "tech"
     ],
-    "relevance_score": 0.6,
+    "relevance_score": 0.9,
     "relevance_label": "high",
-    "title_en": "Study Reveals Five Key Traits of Organic Search Winners Across Algorithm Updates",
-    "summary_ko": "400개 웹사이트를 대상으로 한 최신 연구에서 구글의 여러 핵심 알고리즘 업데이트에도 불구하고 유기적 검색에서 성공하는 5가지 공통 특성이 확인되었습니다. 이 연구는 검색 엔진 최적화 전략에서 일관되게 성과를 내는 요소들을 분석했습니다. 검색 알고리즘 변화에 대응하는 지속가능한 SEO 전략의 핵심 요소들이 도출되었습니다.",
-    "summary_en": "A latest study of 400 websites identified five common traits that lead to organic search success despite multiple Google core algorithm updates. The research analyzed factors that consistently perform well in search engine optimization strategies. Key elements for sustainable SEO strategies responding to search algorithm changes were derived.",
-    "so_what_ko": "LG D2C는 알고리즘 변화에 견고한 SEO 전략을 통해 지속적인 유기적 트래픽 확보가 필요합니다.",
-    "so_what_en": "LG D2C needs robust SEO strategies that withstand algorithm changes for sustained organic traffic acquisition.",
+    "title_en": "OpenAI Aggressively Builds Ad Business to Compete with Meta and Google",
+    "summary_ko": "AI 광고 전쟁이 공식적으로 시작되었으며 OpenAI가 적극적으로 광고 사업을 구축하고 있습니다. OpenAI는 Meta와 Google에서 브랜드를 유치하기 위해 인력을 충원하고 요금을 인하하고 있습니다. 번개 속도로 광고 비즈니스 구축에 나서고 있는 상황입니다.",
+    "summary_en": "The AI advertising wars have officially begun with OpenAI aggressively building its advertising business. OpenAI is staffing up and dropping rates to attract brands away from established players like Meta and Google. The company is moving at lightning speed to establish its presence in the ad market.",
+    "so_what_ko": "LG D2C는 OpenAI의 광고 플랫폼 진출로 인한 새로운 마케팅 채널 기회를 평가하고 기존 Meta, Google 의존도를 재검토해야 합니다.",
+    "so_what_en": "LG D2C should evaluate new marketing channel opportunities from OpenAI's ad platform entry and reassess dependency on existing Meta and Google channels.",
     "key_points": [
-      "Study identifies five traits of organic search success",
-      "Analysis covers 400 websites across multiple algorithm updates",
-      "Focus on sustainable SEO strategies"
+      "OpenAI rapidly entering advertising market with competitive pricing",
+      "Direct challenge to Meta and Google's advertising dominance",
+      "AI-powered advertising creating new channel opportunities"
     ],
     "tags": [
-      "seo-strategy",
-      "organic-search",
-      "algorithm-updates"
+      "openai-advertising",
+      "ai-ad-wars",
+      "marketing-channels",
+      "competitive-pricing"
     ],
-    "confidence": 0.7,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "confidence": 0.8,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
     "regions": [
       "GLOBAL"
     ],
-    "business_impact": "MEDIUM",
+    "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Google",
-      "Practical Ecommerce"
+      "OpenAI",
+      "Meta",
+      "Google"
     ],
-    "one_line_insight_ko": "검색 알고리즘 변화에 적응하는 지속가능한 SEO 전략이 장기적 성공의 열쇠입니다.",
-    "one_line_insight_en": "Sustainable SEO strategies that adapt to algorithm changes are key to long-term success.",
+    "one_line_insight_ko": "OpenAI의 광고 시장 진입은 기존 Meta-Google 광고 독점체제에 균열을 만들며 새로운 기회를 창출합니다.",
+    "one_line_insight_en": "OpenAI's entry into advertising creates cracks in the Meta-Google ad duopoly and generates new opportunities.",
     "ai_processed": true
   },
   {
-    "title": "Uber Eats launches retail returns",
-    "link": "https://www.retaildive.com/news/uber-eats-launches-retail-returns/817964/",
-    "date_published": "2026-04-20",
-    "description": "The delivery company wants to solve one of the biggest pain points in retail, and is starting with companies like Best Buy and Dick’s Sporting Goods.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
+    "title": "[AINews] Moonshot Kimi K2.6: the world's leading Open Model refreshes to catch up to Opus 4.6 (ahead of DeepSeek v4?)",
+    "link": "https://www.latent.space/p/ainews-moonshot-kimi-k26-the-worlds",
+    "date_published": "2026-04-21",
+    "description": "Yay Kimi!!!",
+    "source_id": "latent_space",
+    "source_name": "Latent Space (The AI Index)",
+    "source_url": "https://www.latent.space/feed",
     "categories": [
-      "commerce"
+      "tech"
+    ],
+    "relevance_score": 0.4,
+    "relevance_label": "high",
+    "title_en": "Moonshot Kimi K2.6 Model Advances to Match Opus 4.6 Performance Levels",
+    "summary_ko": "Moonshot의 Kimi K2.6가 세계 최고의 오픈 모델로 업데이트되어 Opus 4.6 수준을 따라잡았습니다. 중국 AI 모델이 서구 모델과 경쟁할 수 있는 성능을 달성했습니다. DeepSeek v4 출시에 앞서 중국 AI 생태계의 발전을 보여주는 사례입니다.",
+    "summary_en": "Moonshot's Kimi K2.6 has been updated as the world's leading open model to catch up with Opus 4.6 performance levels. The Chinese AI model has achieved competitive performance against Western models. This demonstrates the advancement of China's AI ecosystem ahead of DeepSeek v4 release.",
+    "so_what_ko": "중국 AI 모델의 급속한 발전은 LG가 다양한 지역의 AI 기술을 평가하고 글로벌 AI 공급망 다양화를 고려해야 함을 시사합니다.",
+    "so_what_en": "Rapid advancement of Chinese AI models suggests LG should evaluate AI technologies from various regions and consider global AI supply chain diversification.",
+    "key_points": [
+      "Kimi K2.6 achieving competitive performance with leading Western models",
+      "Chinese AI ecosystem demonstrating rapid advancement",
+      "Open model competition intensifying globally"
+    ],
+    "tags": [
+      "chinese-ai",
+      "model-competition",
+      "open-source",
+      "global-ai-landscape"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "EMERGING_TECH",
+    "regions": [
+      "APAC",
+      "GLOBAL"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Moonshot",
+      "Kimi K2.6",
+      "Opus 4.6",
+      "DeepSeek"
+    ],
+    "one_line_insight_ko": "중국 AI 모델의 성능 향상은 글로벌 AI 경쟁 구도의 변화를 시사합니다.",
+    "one_line_insight_en": "Chinese AI model performance improvements signal shifts in the global AI competitive landscape.",
+    "ai_processed": true
+  },
+  {
+    "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
+    "link": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
+    "date_published": "2026-04-20",
+    "description": "Tech workers in China are being instructed by their bosses to train AI agents to replace them—and it’s prompting a wave of soul-searching among otherwise enthusiastic early adopters.  Earlier this month a GitHub project called Colleague Skill, which claimed workers could use it to “distill” their colleagues’ skills and personality traits and replicate them with…",
+    "source_id": "mit_tech_review_ai",
+    "source_name": "MIT Technology Review (AI)",
+    "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+    "categories": [
+      "tech",
+      "strategy"
     ],
     "relevance_score": 0.7,
     "relevance_label": "high",
-    "title_en": "Uber Eats Launches Retail Returns Service to Address Key E-commerce Pain Point",
-    "summary_ko": "우버이츠가 소매업계의 주요 고충인 반품 처리를 해결하기 위한 새로운 서비스를 출시했습니다. 베스트바이와 딕스 스포팅굿스 등의 업체와 파트너십을 시작으로 반품 배송 서비스를 제공합니다. 이는 배송 회사가 전통적인 음식 배달 서비스를 넘어 소매 생태계로 확장하는 전략적 움직임입니다.",
-    "summary_en": "Uber Eats launched a new service to address retail returns, one of the biggest pain points in the industry. Starting with partnerships with companies like Best Buy and Dick's Sporting Goods, they provide return delivery services. This represents a strategic move for the delivery company to expand beyond traditional food delivery into the retail ecosystem.",
-    "so_what_ko": "LG D2C는 반품 프로세스 개선을 통해 고객 경험을 향상시키고 새로운 배송 파트너십을 고려해야 합니다.",
-    "so_what_en": "LG D2C should improve customer experience through enhanced return processes and consider new delivery partnerships.",
+    "title_en": "Chinese Tech Workers Train AI Doubles While Pushing Back Against Replacement",
+    "summary_ko": "중국 기술직 근로자들이 상사의 지시에 따라 자신을 대체할 AI 에이전트를 훈련시키고 있습니다. GitHub의 'Colleague Skill' 프로젝트를 통해 동료의 기술과 성격을 AI로 복제할 수 있게 되었습니다. 이러한 상황은 AI 기술에 열성적이던 근로자들 사이에서도 깊은 고민을 불러일으키고 있습니다.",
+    "summary_en": "Tech workers in China are being instructed by their employers to train AI agents that could replace them in their roles. A GitHub project called 'Colleague Skill' enables workers to replicate colleagues' skills and personality traits using AI technology. This development is causing soul-searching among workers who were previously enthusiastic early adopters of AI.",
+    "so_what_ko": "D2C 조직은 AI 에이전트 도입 시 직원들의 저항과 우려를 사전에 관리하고, 인력 대체가 아닌 보완적 협업 모델을 구축해야 합니다.",
+    "so_what_en": "D2C organizations must proactively manage employee concerns and resistance when implementing AI agents, focusing on complementary collaboration models rather than replacement.",
     "key_points": [
-      "Uber Eats enters retail returns market",
-      "Partnerships with Best Buy and Dick's Sporting Goods",
-      "Addresses major e-commerce pain point"
+      "Chinese tech workers training AI doubles to potentially replace themselves",
+      "GitHub 'Colleague Skill' project enables replication of worker skills and traits",
+      "Growing employee pushback and concerns about AI replacement",
+      "Soul-searching among previously enthusiastic AI early adopters"
     ],
     "tags": [
-      "retail-returns",
-      "delivery-services",
-      "customer-experience"
+      "ai-agents",
+      "workforce-automation",
+      "employee-concerns",
+      "skills-replication"
     ],
     "confidence": 0.8,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "strategic_theme": "AI_AGENT",
     "regions": [
-      "AMER"
+      "APAC"
     ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Uber Eats",
-      "Best Buy",
-      "Dick's Sporting Goods"
-    ],
-    "one_line_insight_ko": "배송 플랫폼의 소매 서비스 확장이 새로운 고객 경험 개선 기회를 창출하고 있습니다.",
-    "one_line_insight_en": "Delivery platform expansion into retail services is creating new opportunities for customer experience improvement.",
-    "ai_processed": true
-  },
-  {
-    "title": "Home Depot eyes same-day, next-day delivery site in New York",
-    "link": "https://www.retaildive.com/news/home-depot-same-next-day-delivery-new-york/817918/",
-    "date_published": "2026-04-20",
-    "description": "The potential distribution center in Yaphank, which the retailer is seeking a tax break for, would be part of its wider supply chain investment strategy.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.4,
-    "relevance_label": "high",
-    "title_en": "Home Depot explores same-day delivery hub in New York to enhance supply chain",
-    "summary_ko": "홈디포가 뉴욕 야팽크에 당일/익일 배송을 위한 물류센터 구축을 검토하고 있다. 이는 세금 혜택을 추진하는 프로젝트로 회사의 광범위한 공급망 투자 전략의 일환이다. 배송 속도 향상을 통한 고객 경험 개선이 목표다.",
-    "summary_en": "Home Depot is considering establishing a distribution center in Yaphank, New York for same-day and next-day delivery services. The retailer is seeking tax breaks for this project as part of its broader supply chain investment strategy. The initiative aims to enhance customer experience through faster delivery capabilities.",
-    "so_what_ko": "홈디포의 당일 배송 투자는 D2C 브랜드들이 속도 경쟁에서 살아남기 위해 물류 혁신에 더 큰 투자가 필요함을 시사한다.",
-    "so_what_en": "Home Depot's same-day delivery investment signals that D2C brands must prioritize logistics innovation to compete in the speed-driven retail landscape.",
-    "key_points": [
-      "Home Depot planning distribution center in Yaphank, NY for faster delivery",
-      "Seeking tax incentives for supply chain infrastructure investment",
-      "Part of broader strategy to enhance delivery speed capabilities"
-    ],
-    "tags": [
-      "supply-chain",
-      "delivery",
-      "logistics",
-      "retail-infrastructure"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Home Depot"
-    ],
-    "one_line_insight_ko": "전통 소매업체의 당일 배송 투자는 D2C의 속도 경쟁력 확보 필요성을 강조한다.",
-    "one_line_insight_en": "Traditional retailer's same-day delivery investment highlights the need for D2C brands to secure speed competitiveness.",
-    "ai_processed": true
-  },
-  {
-    "title": "Target to open 6 new stores in May",
-    "link": "https://www.retaildive.com/news/target-opening-six-new-stores-may/817921/",
-    "date_published": "2026-04-20",
-    "description": "The mass retailer is leaning into larger store footprints, with most of the new locations topping its average square footage.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.3,
-    "relevance_label": "high",
-    "title_en": "Target expands physical footprint with six new stores featuring larger formats",
-    "summary_ko": "타겟이 5월에 6개의 신규 매장을 오픈한다고 발표했다. 대부분의 신규 매장은 기존 평균 면적보다 큰 대형 매장 형태로 구성된다. 이는 타겟의 물리적 매장 확장 전략의 일환이다.",
-    "summary_en": "Target announced it will open six new stores in May as part of its expansion strategy. Most of the new locations will feature larger store footprints exceeding the retailer's average square footage. This represents Target's commitment to expanding its physical retail presence.",
-    "so_what_ko": "타겟의 대형 매장 확장은 옴니채널 전략에서 물리적 공간의 중요성을 보여주며, D2C 브랜드도 오프라인 접점 확대를 고려해야 함을 시사한다.",
-    "so_what_en": "Target's large-format store expansion demonstrates the importance of physical spaces in omnichannel strategy, suggesting D2C brands should consider expanding offline touchpoints.",
-    "key_points": [
-      "Target opening six new stores in May 2026",
-      "New locations feature larger footprints than average store size",
-      "Represents commitment to physical retail expansion strategy"
-    ],
-    "tags": [
-      "retail-expansion",
-      "store-format",
-      "omnichannel",
-      "physical-retail"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Target"
-    ],
-    "one_line_insight_ko": "대형 매장 확장 전략은 디지털 시대에도 물리적 공간의 가치가 여전히 중요함을 보여준다.",
-    "one_line_insight_en": "Large-format store expansion strategy shows that physical space value remains important even in the digital era.",
-    "ai_processed": true
-  },
-  {
-    "title": "Richard Baker claps back, moves to quash subpoena in Saks Global bankruptcy case",
-    "link": "https://www.retaildive.com/news/richard-baker-quash-subpoena-saks-global-bankruptcy/817914/",
-    "date_published": "2026-04-20",
-    "description": "The retailer’s former executive chairman said he’s been locked out of his company email and doesn’t have all the details a group of creditors is seeking.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "commerce"
-    ],
-    "relevance_score": 0.2,
-    "relevance_label": "high",
-    "title_en": "Former Saks executive faces legal battle over bankruptcy subpoena access",
-    "summary_ko": "삭스 글로벌 파산 사건에서 전 회장 리처드 베이커가 법정소환장 무효화 신청을 제출했다. 그는 회사 이메일 접근이 차단되어 채권자들이 요구하는 세부 정보를 제공할 수 없다고 주장했다. 이는 삭스 글로벌의 파산 절차와 관련된 법적 분쟁이다.",
-    "summary_en": "Former Saks Global executive chairman Richard Baker is moving to quash a subpoena in the company's bankruptcy case. He claims he's been locked out of company email and lacks access to details sought by creditors. This represents ongoing legal disputes related to Saks Global's bankruptcy proceedings.",
-    "so_what_ko": "고급 소매업체의 파산과 법적 분쟁은 D2C 브랜드들이 재무 안정성과 거버넌스 체계 구축의 중요성을 재인식해야 함을 보여준다.",
-    "so_what_en": "Luxury retailer's bankruptcy and legal disputes highlight the importance for D2C brands to prioritize financial stability and governance frameworks.",
-    "key_points": [
-      "Richard Baker challenging subpoena in Saks Global bankruptcy",
-      "Former executive claims lack of access to company information",
-      "Ongoing legal complications in bankruptcy proceedings"
-    ],
-    "tags": [
-      "bankruptcy",
-      "legal-dispute",
-      "retail-crisis",
-      "governance"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
+    "business_impact": "HIGH",
     "sentiment": "THREAT",
     "key_entities": [
-      "Saks Global",
-      "Richard Baker"
+      "GitHub",
+      "Colleague Skill",
+      "Chinese tech companies"
     ],
-    "one_line_insight_ko": "명품 소매업체의 파산은 브랜드 관리와 재무 안정성의 중요성을 부각시킨다.",
-    "one_line_insight_en": "Luxury retailer's bankruptcy underscores the critical importance of brand management and financial stability.",
+    "one_line_insight_ko": "AI 에이전트 도입 시 직원 저항 관리가 기술적 구현만큼 중요한 성공 요소가 되고 있습니다.",
+    "one_line_insight_en": "Employee resistance management is becoming as critical as technical implementation for successful AI agent adoption.",
     "ai_processed": true
   },
   {
-    "title": "QVC Group files for Chapter 11 bankruptcy",
-    "link": "https://www.digitalcommerce360.com/2026/04/20/qvc-group-files-chapter-11-bankruptcy/",
+    "title": "Adobe expands agency partnerships as part of agentic AI platform debut",
+    "link": "https://www.marketingdive.com/news/adobe-debuts-agentic-ai-platform-expanded-agency-partnerships/817896/",
     "date_published": "2026-04-20",
-    "description": "QVC Group has announced its filing for Chapter 11 bankruptcy and a restructuring support agreement. The company, which owns television channels QVC and HSN, announced its filing on April 16, 2026. QVC said its bankruptcy filing factored into how it would implement its restructuring agreement, which outlines a plan to “substantially reduce the company’s debt […]\nThe post QVC Group files for Chapter 11 bankruptcy appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
-    "categories": [
-      "commerce"
-    ],
-    "relevance_score": 0.4,
-    "relevance_label": "high",
-    "title_en": "QVC Group files Chapter 11 bankruptcy amid debt restructuring efforts",
-    "summary_ko": "QVC 그룹이 4월 16일 챕터 11 파산보호 신청을 발표했다. QVC와 HSN 텔레비전 채널을 소유한 회사는 구조조정 지원 협약도 함께 발표했다. 이번 파산 신청은 회사 부채를 대폭 줄이는 구조조정 계획 실행을 위한 것이다.",
-    "summary_en": "QVC Group announced its Chapter 11 bankruptcy filing on April 16, 2026, along with a restructuring support agreement. The company, which owns QVC and HSN television channels, is implementing this as part of a plan to substantially reduce company debt. The bankruptcy filing enables the execution of their restructuring agreement.",
-    "so_what_ko": "전통적인 TV 쇼핑 채널의 파산은 D2C 브랜드들이 디지털 전환과 새로운 커머스 채널 확보의 긴급성을 보여준다.",
-    "so_what_en": "Traditional TV shopping channel's bankruptcy demonstrates the urgency for D2C brands to secure digital transformation and new commerce channels.",
-    "key_points": [
-      "QVC Group filed Chapter 11 bankruptcy on April 16, 2026",
-      "Company owns QVC and HSN television shopping channels",
-      "Restructuring plan aims to substantially reduce company debt"
-    ],
-    "tags": [
-      "bankruptcy",
-      "tv-commerce",
-      "debt-restructuring",
-      "retail-decline"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "QVC Group",
-      "HSN"
-    ],
-    "one_line_insight_ko": "TV 쇼핑의 몰락은 전통적인 커머스 모델의 한계와 디지털 혁신 필요성을 명확히 보여준다.",
-    "one_line_insight_en": "TV shopping's decline clearly demonstrates the limitations of traditional commerce models and the necessity for digital innovation.",
-    "ai_processed": true
-  },
-  {
-    "title": "Lululemon launches ecommerce site in Mexico",
-    "link": "https://www.digitalcommerce360.com/2026/04/20/lululemon-launches-ecommerce-website-mexico/",
-    "date_published": "2026-04-20",
-    "description": "Apparel brand Lululemon announced its launch of an ecommerce website in Mexico, as of April 20. The retailer’s new ecommerce site “scales its integrated retail and digital presence and omnichannel capabilities in the market,” according to the announcement. The company also said the site complements Lululemon’s plans to increase its physical-store footprint in Mexico during […]\nThe post Lululemon launches ecommerce site in Mexico appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
-    "categories": [
-      "commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.6,
-    "relevance_label": "high",
-    "title_en": "Lululemon launches ecommerce site in Mexico to expand Latin American presence",
-    "summary_ko": "룰루레몬이 4월 20일 멕시코에서 이커머스 웹사이트를 런칭했다고 발표했다. 새로운 이커머스 사이트는 멕시코 시장에서 통합 소매 및 디지털 존재감과 옴니채널 역량을 확장한다고 회사가 밝혔다. 이는 멕시코 내 물리적 매장 확장 계획을 보완하는 전략이다.",
-    "summary_en": "Lululemon announced the launch of its ecommerce website in Mexico on April 20, expanding its digital presence in Latin America. The company stated the new site scales its integrated retail and digital presence and omnichannel capabilities in the market. This complements Lululemon's plans to increase its physical store footprint in Mexico.",
-    "so_what_ko": "룰루레몬의 멕시코 이커머스 진출은 D2C 브랜드들이 라틴아메리카 시장 진출 시 디지털 우선 전략의 효과성을 보여준다.",
-    "so_what_en": "Lululemon's Mexico ecommerce launch demonstrates the effectiveness of digital-first strategy for D2C brands entering Latin American markets.",
-    "key_points": [
-      "Lululemon launched ecommerce website in Mexico on April 20",
-      "Strategy focuses on scaling omnichannel capabilities in the market",
-      "Digital launch complements planned physical store expansion"
-    ],
-    "tags": [
-      "market-expansion",
-      "ecommerce-launch",
-      "omnichannel",
-      "latin-america"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Lululemon"
-    ],
-    "one_line_insight_ko": "글로벌 브랜드의 디지털 우선 시장 진입 전략은 D2C의 국제 확장 모델을 제시한다.",
-    "one_line_insight_en": "Global brand's digital-first market entry strategy provides a D2C international expansion model.",
-    "ai_processed": true
-  },
-  {
-    "title": "‘We’re not Nespresso’: Inside Green Mountain Coffee Roasters’ new campaign",
-    "link": "https://www.marketingdive.com/news/inside-green-mountain-coffee-roasters-new-campaign/817817/",
-    "date_published": "2026-04-20",
-    "description": "The Keurig Dr Pepper brand is focusing on farm-grown quality in an effort that introduces a green mountain goat as a mascot — not a celebrity ambassador.",
+    "description": "Omnicom, Publicis and WPP are among the agencies that are standardizing on the new CX Enterprise platform to co-develop solutions for joint clients.",
     "source_id": "marketing_dive",
     "source_name": "Marketing Dive",
     "source_url": "https://www.marketingdive.com/feeds/news/",
     "categories": [
-      "marketing"
-    ],
-    "relevance_score": 0.3,
-    "relevance_label": "high",
-    "title_en": "Green Mountain Coffee Roasters Launches Farm-Quality Campaign with Goat Mascot",
-    "summary_ko": "Keurig Dr Pepper의 Green Mountain Coffee Roasters가 농장 재배 품질에 초점을 맞춘 새로운 캠페인을 출시했습니다. 이번 캠페인은 유명인 대신 녹색 산 염소를 마스코트로 도입했습니다. 브랜드는 네스프레소와 차별화된 포지셔닝을 강조하고 있습니다.",
-    "summary_en": "Green Mountain Coffee Roasters, a Keurig Dr Pepper brand, launched a new campaign focusing on farm-grown quality. The campaign introduces a green mountain goat as mascot instead of celebrity ambassadors. The brand emphasizes differentiated positioning from competitors like Nespresso.",
-    "so_what_ko": "D2C 브랜드는 유명인보다 진정성 있는 브랜드 스토리와 독특한 마스코트를 통해 차별화할 수 있습니다.",
-    "so_what_en": "D2C brands can differentiate through authentic brand storytelling and unique mascots rather than celebrity endorsements.",
-    "key_points": [
-      "Farm-quality positioning strategy",
-      "Goat mascot over celebrity endorsement",
-      "Differentiation from premium competitors"
-    ],
-    "tags": [
-      "brand-positioning",
-      "mascot-marketing",
-      "coffee-industry"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Green Mountain Coffee Roasters",
-      "Keurig Dr Pepper",
-      "Nespresso"
-    ],
-    "one_line_insight_ko": "유명인 대신 진정성 있는 마스코트를 활용한 브랜드 차별화 전략이 주목받고 있습니다.",
-    "one_line_insight_en": "Authentic mascot-driven brand differentiation is emerging as an alternative to celebrity endorsements.",
-    "ai_processed": true
-  },
-  {
-    "title": "If Comments Are the New Frontline, How Is Your Brand Showing Up?",
-    "link": "https://www.adweek.com/social-marketing/if-comments-are-the-new-frontline-how-is-your-brand-showing-up/",
-    "date_published": "2026-04-20",
-    "description": "This post was created in partnership with Respondology AI is changing how brands interact on social media. Increasingly, the real action is happening in the comments—where conversations unfold, and brand […]",
-    "source_id": "adweek",
-    "source_name": "Adweek",
-    "source_url": "https://www.adweek.com/feed",
-    "categories": [
       "ai_marketing",
-      "marketing"
-    ],
-    "relevance_score": 0.8,
-    "relevance_label": "high",
-    "title_en": "AI Transforms Brand Engagement in Social Media Comments",
-    "summary_ko": "AI 기술이 소셜 미디어에서 브랜드 상호작용 방식을 변화시키고 있습니다. 댓글 섹션이 새로운 고객 접점의 최전선으로 부상하고 있습니다. 브랜드들은 이 영역에서의 전략적 대응이 필요합니다.",
-    "summary_en": "AI is changing how brands interact on social media platforms. Comments sections are emerging as the new frontline for customer engagement. Brands need strategic approaches for this evolving interaction space.",
-    "so_what_ko": "D2C 브랜드는 AI 기반 댓글 관리 시스템을 도입하여 고객 접점을 강화하고 실시간 응답 품질을 향상시켜야 합니다.",
-    "so_what_en": "D2C brands should implement AI-powered comment management systems to strengthen customer touchpoints and improve real-time response quality.",
-    "key_points": [
-      "Comments as new customer engagement frontline",
-      "AI-powered social media interaction tools",
-      "Strategic brand presence in conversations"
-    ],
-    "tags": [
-      "social-media",
-      "ai-engagement",
-      "customer-interaction"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Respondology"
-    ],
-    "one_line_insight_ko": "AI가 소셜 미디어 댓글을 새로운 고객 관계 관리의 핵심 채널로 전환시키고 있습니다.",
-    "one_line_insight_en": "AI is transforming social media comments into a critical channel for customer relationship management.",
-    "ai_processed": true
-  },
-  {
-    "title": "Social Media Marketing Enters Its AI Intelligence Era",
-    "link": "https://www.adweek.com/social-marketing/social-media-marketing-enters-its-ai-intelligence-era/",
-    "date_published": "2026-04-20",
-    "description": "This post was created in partnership with Viral Nation Data is at the center of social media marketing’s shift to AI. As social media generates an unprecedented volume of signals, […]",
-    "source_id": "adweek",
-    "source_name": "Adweek",
-    "source_url": "https://www.adweek.com/feed",
-    "categories": [
-      "ai_marketing",
-      "marketing"
+      "strategy"
     ],
     "relevance_score": 0.9,
     "relevance_label": "high",
-    "title_en": "Social Media Marketing Transforms Through AI Intelligence Revolution",
-    "summary_ko": "소셜 미디어 마케팅이 AI 인텔리전스 시대로 진입하고 있습니다. 데이터가 AI 기반 소셜 미디어 마케팅 전환의 중심에 있습니다. 소셜 미디어에서 생성되는 대규모 신호 데이터가 마케팅 전략을 혁신하고 있습니다.",
-    "summary_en": "Social media marketing is entering its AI intelligence era. Data is at the center of AI-driven social media marketing transformation. Unprecedented volume of social media signals is revolutionizing marketing strategies.",
-    "so_what_ko": "D2C 브랜드는 AI 기반 소셜 미디어 인사이트 플랫폼을 활용하여 고객 행동 예측과 개인화된 마케팅을 구현해야 합니다.",
-    "so_what_en": "D2C brands must leverage AI-powered social media intelligence platforms for customer behavior prediction and personalized marketing implementation.",
+    "title_en": "Adobe Debuts Agentic AI Platform with Major Agency Partnerships",
+    "summary_ko": "Adobe가 새로운 에이전틱 AI 플랫폼인 CX Enterprise를 출시하며 주요 광고 대행사와의 파트너십을 확대했습니다. Omnicom, Publicis, WPP 등 글로벌 광고 대행사들이 이 플랫폼을 표준으로 채택하고 있습니다. 공동 고객을 위한 솔루션을 함께 개발하는 협력 모델을 구축하고 있습니다.",
+    "summary_en": "Adobe has launched its new agentic AI platform called CX Enterprise while expanding partnerships with major advertising agencies. Global agencies including Omnicom, Publicis, and WPP are standardizing on this new platform. They are establishing collaborative models to co-develop solutions for joint clients.",
+    "so_what_ko": "D2C 브랜드들은 Adobe의 에이전틱 AI 플랫폼을 통해 대행사와의 협업을 강화하고 고객 경험 개선을 위한 새로운 기회를 모색해야 합니다.",
+    "so_what_en": "D2C brands should explore new opportunities for enhanced agency collaboration and customer experience improvement through Adobe's agentic AI platform.",
     "key_points": [
-      "Data-driven AI transformation in social marketing",
-      "Unprecedented volume of social signals",
-      "AI intelligence reshaping marketing strategies"
+      "Adobe launches CX Enterprise agentic AI platform",
+      "Major agencies (Omnicom, Publicis, WPP) adopting platform as standard",
+      "Co-development of solutions for joint clients",
+      "Expanded agency partnership strategy"
     ],
     "tags": [
-      "social-intelligence",
-      "ai-transformation",
-      "data-driven-marketing"
+      "agentic-ai",
+      "agency-partnerships",
+      "customer-experience",
+      "platform-standardization"
     ],
     "confidence": 0.8,
     "strategic_theme": "AI_MARKETING",
@@ -561,44 +319,190 @@
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Viral Nation"
+      "Adobe",
+      "CX Enterprise",
+      "Omnicom",
+      "Publicis",
+      "WPP"
     ],
-    "one_line_insight_ko": "AI 인텔리전스가 소셜 미디어 마케팅의 패러다임을 데이터 중심으로 완전히 재편하고 있습니다.",
-    "one_line_insight_en": "AI intelligence is completely reshaping social media marketing paradigms around data-centricity.",
+    "one_line_insight_ko": "Adobe의 에이전틱 AI 플랫폼이 광고 대행사 생태계의 표준이 되면서 마케팅 업계의 AI 전환을 가속화하고 있습니다.",
+    "one_line_insight_en": "Adobe's agentic AI platform is becoming the industry standard for agencies, accelerating AI transformation in marketing.",
     "ai_processed": true
   },
   {
-    "title": "Adobe rebrands Experience Cloud as ‘CX Enterprise,’ goes all-in on AI agents",
-    "link": "https://martech.org/adobe-rebrands-experience-cloud-as-cx-enterprise-goes-all-in-on-ai-agents/",
+    "title": "Marketers Need to Stop Chasing Data and Start Harnessing Audience Signals",
+    "link": "https://www.adweek.com/social-marketing/marketers-need-to-stop-chasing-data-and-start-harnessing-audience-signals/",
     "date_published": "2026-04-20",
-    "description": "Adobe Summit 2026 in Las Vegas reveals Adobe CX Enterprise, AI agents and new GenStudio modules to solve your content and data bottlenecks.\nThe post Adobe rebrands Experience Cloud as ‘CX Enterprise,’ goes all-in on AI agents appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
+    "description": "This post was created in partnership with Sprout Social Brands have more data than ever, but most of it remains untapped. What’s missing isn’t more data. It’s the signal that […]",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
     "categories": [
       "ai_marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.8,
+    "relevance_label": "high",
+    "title_en": "Marketers Should Focus on Audience Signals Over Data Collection",
+    "summary_ko": "마케터들은 더 많은 데이터를 수집하는 것보다 오디언스 시그널을 활용하는 것에 집중해야 합니다. 브랜드들은 그 어느 때보다 많은 데이터를 보유하고 있지만 대부분이 활용되지 않고 있습니다. 필요한 것은 더 많은 데이터가 아니라 의미 있는 신호를 찾아내는 것입니다.",
+    "summary_en": "Marketers need to shift focus from collecting more data to harnessing meaningful audience signals. Brands have more data than ever before, but most of it remains untapped and unused. What's missing isn't more data collection, but the ability to identify and act on meaningful signals.",
+    "so_what_ko": "D2C 조직은 데이터 수집보다는 기존 데이터에서 고객 행동의 의미 있는 신호를 추출하고 활용하는 능력을 개발해야 합니다.",
+    "so_what_en": "D2C organizations should develop capabilities to extract and utilize meaningful customer behavior signals from existing data rather than focusing on data collection.",
+    "key_points": [
+      "Brands have more data than ever but most remains untapped",
+      "Focus should shift from data collection to signal identification",
+      "Need for better audience signal interpretation capabilities",
+      "Partnership content with Sprout Social"
+    ],
+    "tags": [
+      "audience-signals",
+      "data-utilization",
+      "customer-insights",
+      "marketing-strategy"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "DATA_STRATEGY",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Sprout Social",
+      "Adweek"
+    ],
+    "one_line_insight_ko": "마케팅에서 데이터 양보다 질적 신호 분석이 경쟁 우위의 핵심이 되고 있습니다.",
+    "one_line_insight_en": "Quality signal analysis is becoming more crucial than data quantity for marketing competitive advantage.",
+    "ai_processed": true
+  },
+  {
+    "title": "OpenAI helps Hyatt advance AI among colleagues",
+    "link": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+    "date_published": "2026-04-20",
+    "description": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "categories": [
+      "tech",
+      "strategy"
+    ],
+    "relevance_score": 0.6,
+    "relevance_label": "high",
+    "title_en": "Hyatt Advances AI Implementation with ChatGPT Enterprise Deployment",
+    "summary_ko": "하얏트호텔이 전 세계 직원들을 대상으로 ChatGPT Enterprise를 배포했습니다. GPT-5.4와 Codex를 활용하여 생산성, 운영 효율성, 그리고 고객 경험을 개선하고 있습니다. OpenAI가 하얏트의 AI 도입을 지원하며 동료들 간의 AI 활용을 촉진하고 있습니다.",
+    "summary_en": "Hyatt has deployed ChatGPT Enterprise across its global workforce to enhance operations and customer service. The hotel chain is using GPT-5.4 and Codex to improve productivity, operational efficiency, and guest experiences. OpenAI is supporting Hyatt's AI advancement among colleagues throughout the organization.",
+    "so_what_ko": "D2C 조직도 전사적 AI 도구 배포를 통해 고객 서비스와 운영 효율성을 동시에 개선할 수 있는 기회를 검토해야 합니다.",
+    "so_what_en": "D2C organizations should consider enterprise-wide AI tool deployment opportunities to simultaneously improve customer service and operational efficiency.",
+    "key_points": [
+      "Hyatt deploys ChatGPT Enterprise globally across workforce",
+      "Uses GPT-5.4 and Codex for productivity and operations improvement",
+      "Focus on enhancing guest experiences through AI",
+      "OpenAI partnership for AI advancement among colleagues"
+    ],
+    "tags": [
+      "enterprise-ai",
+      "customer-experience",
+      "operational-efficiency",
+      "workforce-ai"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Hyatt",
+      "OpenAI",
+      "ChatGPT Enterprise",
+      "GPT-5.4",
+      "Codex"
+    ],
+    "one_line_insight_ko": "호스피털리티 업계의 전사적 AI 도입이 고객 경험과 운영 효율성 개선의 새로운 표준을 제시하고 있습니다.",
+    "one_line_insight_en": "Enterprise-wide AI adoption in hospitality is setting new standards for customer experience and operational efficiency improvements.",
+    "ai_processed": true
+  },
+  {
+    "title": "🔬 Training Transformers to solve 95% failure rate of Cancer Trials — Ron Alfa & Daniel Bear, Noetik",
+    "link": "https://www.latent.space/p/noetik",
+    "date_published": "2026-04-20",
+    "description": "95% of cancer treatments fail to pass clinical trials, but it may be a matching problem — that Noetik is solving with autoregressive transformers like TARIO-2!",
+    "source_id": "latent_space",
+    "source_name": "Latent Space (The AI Index)",
+    "source_url": "https://www.latent.space/feed",
+    "categories": [
+      "tech"
+    ],
+    "relevance_score": 0.3,
+    "relevance_label": "high",
+    "title_en": "Transformers Address 95% Cancer Trial Failure Rate Through AI Matching",
+    "summary_ko": "암 치료법의 95%가 임상 시험에서 실패하는 문제를 AI가 해결하고 있습니다. Noetik은 이것이 매칭 문제라고 보고 TARIO-2 같은 자기회귀 트랜스포머를 활용해 해결책을 제시하고 있습니다. 트랜스포머 모델을 훈련시켜 암 치료의 성공률을 높이는 연구가 진행되고 있습니다.",
+    "summary_en": "AI is addressing the 95% failure rate of cancer treatments in clinical trials through better patient-treatment matching. Noetik views this as a matching problem and is using autoregressive transformers like TARIO-2 to solve it. Training transformer models to improve cancer treatment success rates represents a significant breakthrough in medical AI.",
+    "so_what_ko": "D2C 헬스케어 브랜드들은 AI 매칭 기술을 통해 개인 맞춤형 제품 추천과 고객 세분화의 정확성을 크게 향상시킬 수 있습니다.",
+    "so_what_en": "D2C healthcare brands can leverage AI matching technologies to significantly improve personalized product recommendations and customer segmentation accuracy.",
+    "key_points": [
+      "95% of cancer treatments fail in clinical trials",
+      "Noetik frames this as a matching problem solvable by AI",
+      "TARIO-2 autoregressive transformers being used for solution",
+      "Training transformers to improve treatment success rates"
+    ],
+    "tags": [
+      "transformer-models",
+      "medical-ai",
+      "matching-algorithms",
+      "clinical-trials"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "EMERGING_TECH",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Noetik",
+      "TARIO-2",
+      "Latent Space"
+    ],
+    "one_line_insight_ko": "AI 매칭 기술이 의료 분야를 넘어 개인화된 고객 경험의 새로운 가능성을 제시하고 있습니다.",
+    "one_line_insight_en": "AI matching technologies are revealing new possibilities for personalized customer experiences beyond the medical field.",
+    "ai_processed": true
+  },
+  {
+    "title": "Adobe Launches AI Agent Platform for CX",
+    "link": "https://aibusiness.com/agentic-ai/adobe-launches-ai-agent-platform-for-cx",
+    "date_published": "2026-04-20",
+    "description": "The company is looking to bolster customer service by scaling AI agent workflows, but it's entering a noisy market.",
+    "source_id": "ai_business",
+    "source_name": "AI Business",
+    "source_url": "https://aibusiness.com/rss.xml",
+    "categories": [
+      "marketing",
       "tech"
     ],
     "relevance_score": 0.9,
     "relevance_label": "high",
-    "title_en": "Adobe Rebrands to CX Enterprise and Embraces AI Agents Strategy",
-    "summary_ko": "Adobe가 Experience Cloud를 'CX Enterprise'로 리브랜딩하며 AI 에이전트에 전면적으로 투자한다고 발표했습니다. Adobe Summit 2026에서 새로운 GenStudio 모듈과 함께 콘텐츠 및 데이터 병목 현상 해결책을 제시했습니다. 이는 고객 경험 분야에서 AI 에이전트의 본격적인 도입을 의미합니다.",
-    "summary_en": "Adobe announced rebranding Experience Cloud as 'CX Enterprise' with full commitment to AI agents. At Adobe Summit 2026, new GenStudio modules were revealed to solve content and data bottlenecks. This represents mainstream adoption of AI agents in customer experience domain.",
-    "so_what_ko": "LG D2C는 Adobe의 AI 에이전트 기반 CX 솔루션을 활용하여 콘텐츠 생성과 고객 데이터 관리 효율성을 대폭 향상시킬 수 있습니다.",
-    "so_what_en": "LG D2C can leverage Adobe's AI agent-powered CX solutions to significantly improve content generation and customer data management efficiency.",
+    "title_en": "Adobe Launches AI Agent Platform to Transform Customer Experience",
+    "summary_ko": "Adobe가 고객 서비스를 향상시키기 위해 AI 에이전트 워크플로우를 확장하는 새로운 플랫폼을 출시했습니다. 이 플랫폼은 고객 경험(CX) 자동화를 목표로 하고 있습니다. 하지만 경쟁이 치열한 시장에 진입하는 상황입니다.",
+    "summary_en": "Adobe has launched a new AI agent platform designed to enhance customer service through scaled AI agent workflows. The platform focuses on customer experience automation and workflow optimization. However, Adobe is entering an increasingly competitive market space.",
+    "so_what_ko": "D2C 브랜드는 Adobe의 AI 에이전트 플랫폼을 활용해 고객 서비스 자동화와 개인화된 CX를 구현할 수 있는 기회를 얻었습니다.",
+    "so_what_en": "D2C brands can leverage Adobe's AI agent platform to implement automated customer service and deliver personalized customer experiences at scale.",
     "key_points": [
-      "Adobe Experience Cloud rebranded to CX Enterprise",
-      "Full commitment to AI agents strategy",
-      "New GenStudio modules for content bottlenecks",
-      "AI agents mainstream adoption in CX"
+      "Adobe launches AI agent platform for customer experience enhancement",
+      "Focus on scaling AI agent workflows for customer service",
+      "Entering competitive AI agent market space",
+      "Potential for automated customer experience delivery"
     ],
     "tags": [
-      "adobe",
       "ai-agents",
-      "cx-platform",
-      "martech"
+      "customer-experience",
+      "adobe",
+      "automation",
+      "cx-platform"
     ],
-    "confidence": 0.9,
+    "confidence": 0.7,
     "strategic_theme": "AI_AGENT",
     "regions": [
       "GLOBAL"
@@ -607,57 +511,201 @@
     "sentiment": "OPPORTUNITY",
     "key_entities": [
       "Adobe",
-      "Experience Cloud",
-      "CX Enterprise",
-      "GenStudio"
+      "AI agents",
+      "customer experience"
     ],
-    "one_line_insight_ko": "Adobe의 AI 에이전트 중심 CX 플랫폼 전환은 마케팅 기술 생태계의 새로운 표준을 제시하고 있습니다.",
-    "one_line_insight_en": "Adobe's AI agent-centric CX platform transformation is setting new standards for the martech ecosystem.",
+    "one_line_insight_ko": "Adobe의 AI 에이전트 플랫폼은 D2C 브랜드의 고객 서비스 자동화와 개인화 전략의 새로운 가능성을 제시합니다.",
+    "one_line_insight_en": "Adobe's AI agent platform presents new opportunities for D2C brands to automate customer service and enhance personalization strategies.",
     "ai_processed": true
   },
   {
-    "title": "Is your AI readiness a mirage? by AtData",
-    "link": "https://martech.org/is-your-ai-readiness-a-mirage/",
+    "title": "Siemens Trials Nvidia-Powered Humanoid",
+    "link": "https://aibusiness.com/generative-ai/siemens-trials-nvidia-powered-humanoid",
     "date_published": "2026-04-20",
-    "description": "Everyone is rushing to apply AI, but foundational identity gaps, fraud and bad inputs are only being amplified, not solved, by models.\nThe post Is your AI readiness a mirage? appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
+    "description": "The trial, which took place at a Siemens factory in Germany, was pitched as a crucial step towards fully AI-integrated operations.",
+    "source_id": "ai_business",
+    "source_name": "AI Business",
+    "source_url": "https://aibusiness.com/rss.xml",
     "categories": [
-      "ai_marketing",
       "tech"
     ],
-    "relevance_score": 0.8,
+    "relevance_score": 0.4,
     "relevance_label": "high",
-    "title_en": "AI Readiness Reality Check: Foundational Data Issues Persist",
-    "summary_ko": "기업들이 AI 도입을 서두르고 있지만 기본적인 신원 확인 격차와 사기, 잘못된 입력 데이터 문제가 해결되지 않고 있습니다. AI 모델이 이러한 문제를 해결하기보다는 오히려 증폭시키고 있다고 지적됩니다. 많은 기업의 AI 준비 상태가 신기루일 수 있다는 경고가 제기되고 있습니다.",
-    "summary_en": "Companies are rushing to apply AI, but foundational identity gaps, fraud, and bad input data remain unresolved. AI models are amplifying rather than solving these underlying issues. Many organizations' AI readiness may be a mirage according to industry warnings.",
-    "so_what_ko": "D2C 브랜드는 AI 도입 전에 고품질 데이터 기반과 신원 인증 시스템을 먼저 구축해야 하며, 성급한 AI 적용은 기존 문제를 더욱 악화시킬 수 있습니다.",
-    "so_what_en": "D2C brands must establish high-quality data foundations and identity verification systems before AI implementation, as rushed AI adoption may worsen existing problems.",
+    "title_en": "Siemens Tests Nvidia-Powered Humanoid Robots in German Factory Operations",
+    "summary_ko": "지멘스가 독일 공장에서 엔비디아 기반 휴머노이드 로봇을 시험 운영했습니다. 이번 시험은 완전한 AI 통합 운영을 향한 중요한 단계로 평가됩니다. 제조업에서 AI와 로봇 기술의 실용적 적용 가능성을 보여주는 사례입니다.",
+    "summary_en": "Siemens conducted trials of Nvidia-powered humanoid robots at a German factory facility. The trial was positioned as a crucial step towards fully AI-integrated manufacturing operations. This represents practical application of AI and robotics technology in industrial settings.",
+    "so_what_ko": "제조업체들의 AI 로봇 도입이 가속화되면서 D2C 브랜드도 공급망과 물류 자동화에 대한 전략적 검토가 필요합니다.",
+    "so_what_en": "As manufacturers accelerate AI robot adoption, D2C brands should strategically review automation opportunities in their supply chain and logistics operations.",
     "key_points": [
-      "Foundational data quality issues persist",
-      "AI amplifies rather than solves core problems",
-      "Identity verification gaps remain unaddressed",
-      "AI readiness assessment needs reality check"
+      "Siemens trials Nvidia-powered humanoid robots in factory",
+      "Step towards fully AI-integrated manufacturing operations",
+      "Industrial application of advanced robotics technology",
+      "Potential implications for automated manufacturing"
     ],
     "tags": [
-      "data-quality",
-      "ai-readiness",
-      "identity-verification",
-      "martech"
+      "humanoid-robots",
+      "nvidia",
+      "siemens",
+      "manufacturing",
+      "ai-integration"
     ],
-    "confidence": 0.8,
-    "strategic_theme": "DATA_STRATEGY",
+    "confidence": 0.6,
+    "strategic_theme": "EMERGING_TECH",
+    "regions": [
+      "EMEA"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Siemens",
+      "Nvidia",
+      "humanoid robots"
+    ],
+    "one_line_insight_ko": "제조업에서 AI 로봇의 실용적 적용이 확산되면서 D2C 브랜드도 공급망 자동화 기회를 모색해야 합니다.",
+    "one_line_insight_en": "As AI robots find practical applications in manufacturing, D2C brands should explore supply chain automation opportunities.",
+    "ai_processed": true
+  },
+  {
+    "title": "AI Chipmaker Cerebras Files for IPO",
+    "link": "https://aibusiness.com/generative-ai/ai-chipmaker-cerebras-files-for-ipo",
+    "date_published": "2026-04-20",
+    "description": "The move comes after the vendor forged significant deals with OpenAI and AWS earlier this year.",
+    "source_id": "ai_business",
+    "source_name": "AI Business",
+    "source_url": "https://aibusiness.com/rss.xml",
+    "categories": [
+      "tech"
+    ],
+    "relevance_score": 0.3,
+    "relevance_label": "high",
+    "title_en": "AI Chip Maker Cerebras Files for IPO Following Major OpenAI and AWS Deals",
+    "summary_ko": "AI 칩 제조업체 Cerebras가 기업공개(IPO)를 신청했습니다. 이번 결정은 올해 초 OpenAI와 AWS와 체결한 주요 계약에 이어 나온 것입니다. AI 하드웨어 시장의 성장과 투자 관심을 보여주는 사례입니다.",
+    "summary_en": "AI chipmaker Cerebras has filed for an initial public offering. This move follows significant deals forged with OpenAI and AWS earlier this year. The filing demonstrates growing investment interest in AI hardware infrastructure.",
+    "so_what_ko": "AI 인프라 투자가 활발해지면서 D2C 브랜드도 AI 기술 도입에 필요한 하드웨어 비용 최적화 전략을 검토해야 합니다.",
+    "so_what_en": "With increasing AI infrastructure investments, D2C brands should review hardware cost optimization strategies for AI technology implementation.",
+    "key_points": [
+      "Cerebras files for IPO in AI chip market",
+      "Company secured major deals with OpenAI and AWS",
+      "Growing investment interest in AI hardware infrastructure",
+      "Demonstrates AI infrastructure market expansion"
+    ],
+    "tags": [
+      "cerebras",
+      "ipo",
+      "ai-chips",
+      "openai",
+      "aws"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "EMERGING_TECH",
     "regions": [
       "GLOBAL"
     ],
-    "business_impact": "HIGH",
-    "sentiment": "THREAT",
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
     "key_entities": [
-      "AtData"
+      "Cerebras",
+      "OpenAI",
+      "AWS",
+      "AI chips"
     ],
-    "one_line_insight_ko": "AI 성공을 위해서는 화려한 기술보다 견고한 데이터 기반이 먼저 구축되어야 합니다.",
-    "one_line_insight_en": "Solid data foundations must be established before flashy AI technology for true success.",
+    "one_line_insight_ko": "AI 칩 시장의 투자 활성화는 D2C 브랜드의 AI 도입 비용 구조에 장기적 영향을 미칠 것입니다.",
+    "one_line_insight_en": "Active investment in the AI chip market will have long-term implications for D2C brands' AI adoption cost structures.",
+    "ai_processed": true
+  },
+  {
+    "title": "Physical AI Edges Closer to Real-World Deployments",
+    "link": "https://aibusiness.com/generative-ai/physical-ai-edges-closer-real-world-deployments",
+    "date_published": "2026-04-20",
+    "description": "A new report from French IT consulting firm Capgemini found that businesses are rapidly moving physical AI from experimentation to implementation.",
+    "source_id": "ai_business",
+    "source_name": "AI Business",
+    "source_url": "https://aibusiness.com/rss.xml",
+    "categories": [
+      "tech",
+      "strategy"
+    ],
+    "relevance_score": 0.6,
+    "relevance_label": "high",
+    "title_en": "Physical AI Moves from Experimentation to Real-World Business Implementation",
+    "summary_ko": "프랑스 IT 컨설팅 회사 캡제미니의 새로운 보고서에 따르면 기업들이 물리적 AI를 실험 단계에서 실제 구현 단계로 빠르게 전환하고 있습니다. 물리적 AI의 실용적 배포가 현실에 가까워지고 있습니다. 기업들의 AI 도입 패턴이 변화하고 있음을 시사합니다.",
+    "summary_en": "A new report from French IT consulting firm Capgemini reveals businesses are rapidly moving physical AI from experimentation to implementation phases. Physical AI deployment is edging closer to real-world applications. This indicates a shift in enterprise AI adoption patterns toward practical implementation.",
+    "so_what_ko": "물리적 AI의 실용화가 가속화되면서 D2C 브랜드도 매장 운영, 재고 관리, 고객 서비스에서 물리적 AI 도입을 검토해야 합니다.",
+    "so_what_en": "As physical AI moves toward practical implementation, D2C brands should consider adopting physical AI in store operations, inventory management, and customer service.",
+    "key_points": [
+      "Capgemini report shows shift from AI experimentation to implementation",
+      "Physical AI moving closer to real-world deployments",
+      "Enterprise AI adoption patterns changing toward practical use",
+      "Businesses accelerating physical AI implementation"
+    ],
+    "tags": [
+      "physical-ai",
+      "capgemini",
+      "implementation",
+      "enterprise-adoption",
+      "real-world-deployment"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "EMERGING_TECH",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Capgemini",
+      "physical AI",
+      "enterprise deployment"
+    ],
+    "one_line_insight_ko": "물리적 AI의 실용화 단계 진입은 D2C 브랜드에게 오프라인 고객 경험 혁신의 새로운 기회를 제공합니다.",
+    "one_line_insight_en": "The shift to practical physical AI implementation offers D2C brands new opportunities to revolutionize offline customer experiences.",
+    "ai_processed": true
+  },
+  {
+    "title": "Chinese Vendor Claims First Large-Scale Embodied AI Deployment",
+    "link": "https://aibusiness.com/generative-ai/chinese-vendor-large-scale-embodied-ai-deployment",
+    "date_published": "2026-04-20",
+    "description": "Agibot says its project marks a significant shift in embodied AI from pilots to industrial use.",
+    "source_id": "ai_business",
+    "source_name": "AI Business",
+    "source_url": "https://aibusiness.com/rss.xml",
+    "categories": [
+      "tech"
+    ],
+    "relevance_score": 0.5,
+    "relevance_label": "high",
+    "title_en": "Chinese Vendor Agibot Claims First Large-Scale Embodied AI Industrial Deployment",
+    "summary_ko": "중국의 Agibot이 대규모 구현형 AI의 최초 산업 배포를 달성했다고 발표했습니다. 이 프로젝트는 구현형 AI가 시험 단계에서 실제 산업 사용으로 전환되는 중요한 변화를 의미한다고 합니다. 아시아 지역에서 AI 로봇 기술의 실용화가 가속화되고 있음을 보여줍니다.",
+    "summary_en": "Chinese company Agibot claims to have achieved the first large-scale embodied AI deployment in industrial settings. The project represents a significant shift from pilot programs to actual industrial use of embodied AI. This demonstrates accelerating practical adoption of AI robotics technology in Asia.",
+    "so_what_ko": "아시아 지역에서 구현형 AI의 산업 적용이 본격화되면서 D2C 브랜드도 아시아 시장에서의 AI 기반 운영 효율성 확보가 필요합니다.",
+    "so_what_en": "As embodied AI industrial applications accelerate in Asia, D2C brands need to secure AI-driven operational efficiency in Asian markets.",
+    "key_points": [
+      "Agibot claims first large-scale embodied AI industrial deployment",
+      "Shift from pilot programs to actual industrial use",
+      "Chinese company leading in embodied AI implementation",
+      "Demonstrates practical AI robotics adoption in Asia"
+    ],
+    "tags": [
+      "agibot",
+      "embodied-ai",
+      "china",
+      "industrial-deployment",
+      "large-scale"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "EMERGING_TECH",
+    "regions": [
+      "APAC"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Agibot",
+      "embodied AI",
+      "industrial deployment"
+    ],
+    "one_line_insight_ko": "중국의 구현형 AI 대규모 배포 성공은 아시아 시장에서 AI 기반 운영 혁신의 새로운 벤치마크를 제시합니다.",
+    "one_line_insight_en": "China's successful large-scale embodied AI deployment sets a new benchmark for AI-driven operational innovation in Asian markets.",
     "ai_processed": true
   }
 ]
