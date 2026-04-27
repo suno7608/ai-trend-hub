@@ -1,344 +1,655 @@
 [
   {
-    "title": "Anthropic created a test marketplace for agent-on-agent commerce",
-    "link": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
-    "date_published": "2026-04-25",
-    "description": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
-    "source_id": "techcrunch_commerce",
-    "source_name": "TechCrunch Commerce",
-    "source_url": "https://techcrunch.com/category/commerce/feed",
+    "title": "Media Buying Briefing: Agencies turn creators into test labs for campaigns and product innovation",
+    "link": "https://digiday.com/media-buying/media-buying-briefing-agencies-turn-creators-into-test-labs-for-campaigns-and-product-innovation/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-04-27",
+    "description": "Horizon Media’s one example, through its Blue Hour Studios, which is working with advertisers like SharkNinja to pressure-test and adapt campaigns on the fly, using creators in the beginning stages.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
     "categories": [
-      "commerce",
-      "tech"
+      "marketing"
     ],
-    "relevance_score": 0.9,
+    "relevance_score": 0.7,
     "relevance_label": "high",
-    "title_en": "Anthropic Tests AI Agent Marketplace with Real Money Transactions",
-    "summary_ko": "Anthropic은 AI 에이전트가 구매자와 판매자 역할을 하는 실험적 거래 마켓플레이스를 만들었습니다. 이 실험에서 AI 에이전트들은 실제 상품과 실제 돈으로 거래를 체결했습니다. 이는 에이전트 기반 상거래의 새로운 가능성을 보여주는 시도입니다.",
-    "summary_en": "Anthropic created an experimental classified marketplace where AI agents acted as both buyers and sellers. In this test environment, AI agents negotiated and completed real transactions using actual goods and money. This experiment demonstrates the potential for agent-driven commerce in future digital marketplaces.",
-    "so_what_ko": "AI 에이전트 간 자동화된 상거래가 현실화되면 D2C 기업들은 고객 대신 AI 에이전트와 거래해야 할 수 있어 새로운 마케팅 전략이 필요합니다.",
-    "so_what_en": "As AI agent-to-agent commerce becomes reality, D2C companies may need to develop new strategies to engage with AI agents acting on behalf of customers rather than direct human interaction.",
+    "title_en": "Agencies Transform Creators into Campaign Testing Labs for Product Innovation",
+    "summary_ko": "Horizon Media의 Blue Hour Studios는 SharkNinja 같은 광고주와 협력해 크리에이터를 활용한 캠페인 테스트를 진행하고 있다. 에이전시들이 크리에이터를 캠페인과 제품 혁신의 테스트 실험실로 활용하는 새로운 접근법을 도입했다. 이는 캠페인 초기 단계에서 실시간 적응과 압력 테스트를 가능하게 한다.",
+    "summary_en": "Horizon Media's Blue Hour Studios partners with advertisers like SharkNinja to conduct campaign testing using creators. Agencies are adopting a new approach of turning creators into testing laboratories for campaigns and product innovation. This enables real-time adaptation and pressure-testing during the early stages of campaigns.",
+    "so_what_ko": "LG D2C는 크리에이터 기반 테스트 랩 모델을 도입해 제품 출시 전 시장 반응을 사전 검증하고 캠페인 효과를 극대화할 수 있다.",
+    "so_what_en": "LG D2C can adopt creator-based testing lab models to pre-validate market reactions before product launches and maximize campaign effectiveness.",
     "key_points": [
-      "AI agents successfully completed real money transactions in experimental marketplace",
-      "Both buying and selling roles were performed autonomously by AI agents",
-      "Demonstrates potential shift toward agent-mediated commerce"
+      "Agencies using creators as testing environments for campaigns",
+      "Real-time campaign adaptation and pressure-testing capabilities",
+      "SharkNinja case study with Horizon Media's Blue Hour Studios"
     ],
     "tags": [
-      "ai-agents",
-      "autonomous-commerce",
-      "marketplace",
-      "anthropic"
+      "creator-marketing",
+      "campaign-testing",
+      "agency-innovation"
     ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_AGENT",
+    "confidence": 0.6,
+    "strategic_theme": "AI_MARKETING",
     "regions": [
       "GLOBAL"
     ],
-    "business_impact": "HIGH",
+    "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Anthropic"
+      "Horizon Media",
+      "Blue Hour Studios",
+      "SharkNinja"
     ],
-    "one_line_insight_ko": "AI 에이전트 간 자동 거래 실험은 향후 D2C 상거래 환경의 근본적 변화를 예고합니다.",
-    "one_line_insight_en": "Anthropic's agent-to-agent commerce experiment signals a fundamental shift in how D2C transactions may operate in the future.",
+    "one_line_insight_ko": "크리에이터를 활용한 캠페인 테스트 랩은 D2C 브랜드의 시장 진입 리스크를 크게 줄일 수 있는 전략적 도구다.",
+    "one_line_insight_en": "Creator-based campaign testing labs represent a strategic tool to significantly reduce market entry risks for D2C brands.",
     "ai_processed": true
   },
   {
-    "title": "Anthropic created a test marketplace for agent-on-agent commerce",
-    "link": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
-    "date_published": "2026-04-25",
-    "description": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "title": "At 55, Email Is Vital for Marketers",
+    "link": "https://www.practicalecommerce.com/email-at-55-is-vital-for-marketers",
+    "date_published": "2026-04-26",
+    "description": "A direct connection with prospects is key in an AI world, where traditional acquisition channels are changing. \nThe post At 55, Email Is Vital for Marketers appeared first on Practical Ecommerce.",
+    "source_id": "practical_ecommerce",
+    "source_name": "Practical Ecommerce",
+    "source_url": "https://www.practicalecommerce.com/feed",
     "categories": [
-      "commerce",
-      "tech"
+      "marketing",
+      "commerce"
     ],
-    "relevance_score": 0.9,
+    "relevance_score": 0.6,
     "relevance_label": "high",
-    "title_en": "Anthropic Tests AI Agent Marketplace with Real Money Transactions",
-    "summary_ko": "Anthropic은 AI 에이전트가 구매자와 판매자 역할을 하는 실험적 거래 마켓플레이스를 만들었습니다. 이 실험에서 AI 에이전트들은 실제 상품과 실제 돈으로 거래를 체결했습니다. 이는 에이전트 기반 상거래의 새로운 가능성을 보여주는 시도입니다.",
-    "summary_en": "Anthropic created an experimental classified marketplace where AI agents acted as both buyers and sellers. In this test environment, AI agents negotiated and completed real transactions using actual goods and money. This experiment demonstrates the potential for agent-driven commerce in future digital marketplaces.",
-    "so_what_ko": "AI 에이전트 간 자동화된 상거래가 현실화되면 D2C 기업들은 고객 대신 AI 에이전트와 거래해야 할 수 있어 새로운 마케팅 전략이 필요합니다.",
-    "so_what_en": "As AI agent-to-agent commerce becomes reality, D2C companies may need to develop new strategies to engage with AI agents acting on behalf of customers rather than direct human interaction.",
+    "title_en": "Email Marketing Remains Vital at 55 in AI-Driven Commerce Era",
+    "summary_ko": "이메일 마케팅이 탄생 55년이 지난 현재에도 마케터들에게 여전히 핵심적인 역할을 하고 있다. AI가 변화시키는 세상에서 전통적인 고객 획득 채널이 변화하고 있어 잠재 고객과의 직접적인 연결이 더욱 중요해졌다. 이메일은 AI 시대에도 변함없이 가치 있는 마케팅 도구로 자리잡고 있다.",
+    "summary_en": "Email marketing continues to play a crucial role for marketers 55 years after its inception. As AI transforms traditional customer acquisition channels, direct connections with prospects have become increasingly important. Email remains a consistently valuable marketing tool even in the AI era.",
+    "so_what_ko": "LG D2C는 AI 시대에 변화하는 고객 획득 환경에서 이메일 마케팅의 직접적 연결 가치를 재평가하고 강화해야 한다.",
+    "so_what_en": "LG D2C should reassess and strengthen the direct connection value of email marketing in the changing customer acquisition landscape of the AI era.",
     "key_points": [
-      "AI agents successfully completed real money transactions in experimental marketplace",
-      "Both buying and selling roles were performed autonomously by AI agents",
-      "Demonstrates potential shift toward agent-mediated commerce"
+      "Email marketing maintains vital importance after 55 years",
+      "Direct customer connections become crucial as AI changes acquisition channels",
+      "Traditional acquisition methods evolving in AI-driven world"
     ],
     "tags": [
-      "ai-agents",
-      "autonomous-commerce",
-      "marketplace",
-      "anthropic"
+      "email-marketing",
+      "customer-acquisition",
+      "ai-impact"
     ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_AGENT",
+    "confidence": 0.5,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
     "regions": [
       "GLOBAL"
     ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Anthropic"
-    ],
-    "one_line_insight_ko": "AI 에이전트 간 자동 거래 실험은 향후 D2C 상거래 환경의 근본적 변화를 예고합니다.",
-    "one_line_insight_en": "Anthropic's agent-to-agent commerce experiment signals a fundamental shift in how D2C transactions may operate in the future.",
-    "ai_processed": true
-  },
-  {
-    "title": "Maine’s governor vetoes data center moratorium",
-    "link": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
-    "date_published": "2026-04-25",
-    "description": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "categories": [
-      "tech"
-    ],
-    "relevance_score": 0.3,
-    "relevance_label": "high",
-    "title_en": "Maine Governor Vetoes Statewide Data Center Moratorium",
-    "summary_ko": "메인주 주지사가 미국 최초의 주 차원 데이터센터 건설 금지 법안을 거부했습니다. 이 법안(L.D. 307)은 2027년 11월 1일까지 새로운 데이터센터 건설을 금지하는 내용이었습니다. 주지사의 거부권 행사로 데이터센터 건설이 계속 가능해졌습니다.",
-    "summary_en": "Maine's governor vetoed legislation that would have imposed the country's first statewide moratorium on new data centers. The bill L.D. 307 would have banned new data center construction until November 1, 2027. The veto allows continued data center development in the state.",
-    "so_what_ko": "데이터센터 건설 제한 해제는 AI 인프라 확장에 긍정적이지만, D2C 기업들은 지역별 규제 변화를 모니터링해야 합니다.",
-    "so_what_en": "The lifted restrictions support AI infrastructure expansion, but D2C companies should monitor regional regulatory changes that could impact cloud operations.",
-    "key_points": [
-      "First proposed statewide data center moratorium in US was vetoed",
-      "Moratorium would have lasted until November 2027",
-      "Decision supports continued AI infrastructure development"
-    ],
-    "tags": [
-      "data-centers",
-      "regulation",
-      "maine",
-      "infrastructure"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "EMERGING_TECH",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
+    "business_impact": "MEDIUM",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "Maine"
+      "Email Marketing"
     ],
-    "one_line_insight_ko": "데이터센터 규제 동향은 AI 서비스 인프라의 지역적 가용성에 영향을 줄 수 있습니다.",
-    "one_line_insight_en": "Data center regulatory trends could impact regional availability of AI services infrastructure.",
+    "one_line_insight_ko": "AI 시대에도 이메일은 고객과의 직접적 연결이라는 고유 가치로 마케팅의 핵심 도구로 남을 것이다.",
+    "one_line_insight_en": "Even in the AI era, email will remain a core marketing tool due to its unique value of direct customer connection.",
     "ai_processed": true
   },
   {
-    "title": "OpenAI CEO apologizes to Tumbler Ridge community",
-    "link": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-    "date_published": "2026-04-25",
-    "description": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "title": "Marketers join OpenAI’s ad pilot, nudged by FOMO",
+    "link": "https://digiday.com/marketing/marketers-join-openais-ad-pilot-nudged-by-fomo/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-04-27",
+    "description": "Weeks into the offering going live, it’s unclear if the tech company’s ad platform offers real value to marketers.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
     "categories": [
+      "marketing",
       "tech"
     ],
-    "relevance_score": 0.2,
+    "relevance_score": 0.8,
     "relevance_label": "high",
-    "title_en": "OpenAI CEO Apologizes to Canadian Community Over Safety Incident",
-    "summary_ko": "OpenAI CEO 샘 알트만이 캐나다 텀블러 리지 지역 주민들에게 사과 편지를 보냈습니다. 최근 발생한 총격 사건의 용의자에 대해 법 집행 기관에 알리지 못한 것에 대해 깊은 유감을 표했습니다. 이는 AI 기업의 사회적 책임과 관련된 중요한 사건입니다.",
-    "summary_en": "OpenAI CEO Sam Altman sent a letter of apology to residents of Tumbler Ridge, Canada. He expressed deep regret for failing to alert law enforcement about a suspect in a recent mass shooting incident. This represents a significant case regarding AI companies' social responsibilities.",
-    "so_what_ko": "AI 기업의 사회적 책임 이슈는 브랜드 신뢰도에 직접적인 영향을 미칠 수 있어 D2C 기업들도 AI 파트너십 선택에 신중해야 합니다.",
-    "so_what_en": "AI companies' social responsibility issues can directly impact brand trust, requiring D2C companies to be cautious when selecting AI partnerships.",
+    "title_en": "Marketers Join OpenAI's Ad Platform Pilot Despite Unclear Value Proposition",
+    "summary_ko": "마케터들이 FOMO(놓칠 것에 대한 두려움)에 이끌려 OpenAI의 광고 파일럿 프로그램에 참여하고 있다. 서비스 출시 몇 주 후에도 OpenAI의 광고 플랫폼이 마케터들에게 실질적인 가치를 제공하는지는 불분명하다. 기술 회사의 광고 플랫폼 진입에 대한 마케터들의 반응은 기대와 의구심이 혼재되어 있다.",
+    "summary_en": "Marketers are joining OpenAI's ad pilot program driven by FOMO (fear of missing out). Weeks after the offering went live, it remains unclear whether OpenAI's ad platform offers real value to marketers. Marketer responses to the tech company's entry into advertising platforms show a mix of anticipation and skepticism.",
+    "so_what_ko": "LG D2C는 새로운 AI 광고 플랫폼 도입 시 FOMO 대신 명확한 ROI와 가치 검증에 기반한 신중한 접근이 필요하다.",
+    "so_what_en": "LG D2C needs a cautious approach based on clear ROI and value validation rather than FOMO when adopting new AI advertising platforms.",
     "key_points": [
-      "OpenAI CEO apologized for failing to alert authorities about shooting suspect",
-      "Incident occurred in Tumbler Ridge, Canada",
-      "Highlights AI companies' social responsibility challenges"
+      "OpenAI launches advertising platform pilot program",
+      "Marketers joining driven by FOMO rather than proven value",
+      "Unclear value proposition weeks after platform launch"
     ],
     "tags": [
       "openai",
-      "social-responsibility",
-      "canada",
-      "safety"
+      "advertising-platform",
+      "pilot-program"
     ],
     "confidence": 0.7,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "OpenAI"
+    ],
+    "one_line_insight_ko": "AI 거대 기술 기업의 광고 플랫폼 진입은 기대감은 크지만 실제 마케팅 가치는 아직 검증되지 않았다.",
+    "one_line_insight_en": "Big tech AI companies entering advertising platforms generate high expectations but actual marketing value remains unproven.",
+    "ai_processed": true
+  },
+  {
+    "title": "Why credit card rate caps hurt consumers, small businesses",
+    "link": "https://www.paymentsdive.com/news/why-credit-card-rate-caps-hurt-consumers-small-businesses/818381/",
+    "date_published": "2026-04-24",
+    "description": "“Affordability is not just about the cost of credit,\" a former Treasury official writes. \"It is about whether credit is available at all.”",
+    "source_id": "payments_dive",
+    "source_name": "Payments Dive",
+    "source_url": "https://www.paymentsdive.com/feeds/news/",
+    "categories": [
+      "commerce"
+    ],
+    "relevance_score": 0.4,
+    "relevance_label": "high",
+    "title_en": "Credit Card Rate Caps May Hurt Consumer Access and Small Business Growth",
+    "summary_ko": "신용카드 금리 상한제가 소비자와 소상공인에게 오히려 해를 끼칠 수 있다는 주장이 제기됐다. 전 재무부 관리는 경제성이 신용 비용뿐만 아니라 신용 가용성 자체에 관한 것이라고 강조했다. 금리 규제가 신용 접근성을 제한할 수 있다는 우려가 커지고 있다.",
+    "summary_en": "Arguments emerge that credit card rate caps could harm consumers and small businesses. A former Treasury official emphasized that affordability is not just about credit costs but about credit availability itself. Concerns are growing that interest rate regulations could limit credit accessibility.",
+    "so_what_ko": "LG D2C의 결제 전략에서 금리 규제 변화가 고객의 신용 접근성에 미치는 영향을 모니터링하고 대안적 결제 옵션을 준비해야 한다.",
+    "so_what_en": "LG D2C should monitor how interest rate regulation changes affect customer credit accessibility and prepare alternative payment options.",
+    "key_points": [
+      "Credit card rate caps potentially harmful to consumers and small businesses",
+      "Affordability concerns extend beyond costs to credit availability",
+      "Regulatory changes may restrict credit access"
+    ],
+    "tags": [
+      "credit-regulation",
+      "payment-policy",
+      "small-business"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
     "regions": [
       "AMER"
     ],
     "business_impact": "LOW",
     "sentiment": "THREAT",
     "key_entities": [
-      "OpenAI",
-      "Sam Altman",
-      "Tumbler Ridge"
+      "Treasury Department"
     ],
-    "one_line_insight_ko": "AI 기업의 사회적 책임 문제는 파트너십 리스크 평가에 새로운 요소로 고려되어야 합니다.",
-    "one_line_insight_en": "AI companies' social responsibility issues must be factored into partnership risk assessments.",
+    "one_line_insight_ko": "신용 규제 강화는 의도와 달리 고객의 결제 접근성을 제한해 D2C 비즈니스에 부정적 영향을 미칠 수 있다.",
+    "one_line_insight_en": "Stricter credit regulations may unintentionally limit customer payment accessibility, negatively impacting D2C business.",
     "ai_processed": true
   },
   {
-    "title": "Why Cohere is merging with Aleph Alpha",
-    "link": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
-    "date_published": "2026-04-25",
-    "description": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "title": "What drives real-time payment growth",
+    "link": "https://www.paymentsdive.com/news/what-drives-real-time-payment-growth/818387/",
+    "date_published": "2026-04-24",
+    "description": "Corporations adopt faster digital payments based on their priorities and the rise of digital assets, an HSBC payments executive said.",
+    "source_id": "payments_dive",
+    "source_name": "Payments Dive",
+    "source_url": "https://www.paymentsdive.com/feeds/news/",
     "categories": [
-      "tech",
-      "strategy"
+      "commerce",
+      "tech"
     ],
-    "relevance_score": 0.6,
+    "relevance_score": 0.5,
     "relevance_label": "high",
-    "title_en": "Cohere Merges with Aleph Alpha to Create European AI Alternative",
-    "summary_ko": "캐나다 AI 스타트업 Cohere가 독일의 Aleph Alpha를 인수하며 리들 소유주인 Schwarz Group의 지원을 받습니다. 양국 정부의 승인 하에 미국 기업이 지배하는 AI 시장에서 유럽 기업들을 위한 주권적 대안을 제공할 계획입니다. 이는 글로벌 AI 경쟁 구도에 중요한 변화를 의미합니다.",
-    "summary_en": "Canadian AI startup Cohere is acquiring Germany-based Aleph Alpha with support from Schwarz Group, owner of Lidl. With government backing from both countries, they aim to provide a sovereign alternative for European enterprises in an AI landscape dominated by American players. This represents a significant shift in global AI competition dynamics.",
-    "so_what_ko": "유럽의 독립적인 AI 플랫폼 등장은 D2C 기업들에게 지역별 AI 서비스 다변화 기회를 제공하며 데이터 주권 이슈 해결에도 도움이 될 수 있습니다.",
-    "so_what_en": "The emergence of an independent European AI platform offers D2C companies opportunities for regional AI service diversification and helps address data sovereignty concerns.",
+    "title_en": "Corporate Priorities and Digital Assets Drive Real-Time Payment Adoption",
+    "summary_ko": "기업들이 실시간 결제를 도입하는 것은 그들의 우선순위와 디지털 자산의 부상에 기반한다고 HSBC 결제 임원이 밝혔다. 기업들이 더 빠른 디지털 결제를 채택하는 동력은 비즈니스 우선순위와 밀접하게 연결되어 있다. 실시간 결제 성장의 핵심 요인으로 디지털 자산의 역할이 부각되고 있다.",
+    "summary_en": "Corporations adopt real-time payments based on their priorities and the rise of digital assets, according to an HSBC payments executive. Corporate adoption of faster digital payments is closely linked to business priorities. The role of digital assets is emerging as a key factor in real-time payment growth.",
+    "so_what_ko": "LG D2C는 실시간 결제 도입을 고려할 때 비즈니스 우선순위와 디지털 자산 생태계를 종합적으로 평가해야 한다.",
+    "so_what_en": "LG D2C should comprehensively evaluate business priorities and digital asset ecosystems when considering real-time payment adoption.",
     "key_points": [
-      "Cohere acquiring Aleph Alpha with Schwarz Group backing",
-      "Aims to provide European alternative to US-dominated AI market",
-      "Government support from both Canada and Germany"
+      "Corporate real-time payment adoption driven by business priorities",
+      "Digital assets emergence as key growth factor",
+      "HSBC executive insights on faster payment trends"
     ],
     "tags": [
-      "cohere",
-      "aleph-alpha",
-      "european-ai",
-      "merger"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "EMEA"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Cohere",
-      "Aleph Alpha",
-      "Schwarz Group",
-      "Lidl"
-    ],
-    "one_line_insight_ko": "지역별 AI 주권 경쟁이 심화되면서 D2C 기업들의 AI 벤더 선택권이 확대되고 있습니다.",
-    "one_line_insight_en": "Regional AI sovereignty competition is expanding D2C companies' vendor choices and reducing dependency on US platforms.",
-    "ai_processed": true
-  },
-  {
-    "title": "Why Tokyo is the most important tech destination of 2026",
-    "link": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
-    "date_published": "2026-04-25",
-    "description": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "categories": [
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.4,
-    "relevance_label": "high",
-    "title_en": "Tokyo Emerges as Global Tech Hub with SusHi Tech Tokyo 2026",
-    "summary_ko": "SusHi Tech Tokyo 2026이 4개의 핵심 기술 영역을 중심으로 개최된다. 실시간 데모, 전용 전시관, 글로벌 기술 구축자들의 세션이 포함된다. 도쿄가 2026년 가장 중요한 기술 목적지로 부상하고 있다.",
-    "summary_en": "SusHi Tech Tokyo 2026 features four tightly defined technology domains with comprehensive showcases. The event includes live demonstrations, dedicated exhibit floors, and sessions with global technology builders. Tokyo is positioning itself as the most important tech destination of 2026.",
-    "so_what_ko": "LG D2C는 도쿄 기술 허브에서 아시아 시장 진출 기회와 혁신 파트너십을 모색해야 한다.",
-    "so_what_en": "LG D2C should explore opportunities for Asia market expansion and innovation partnerships through Tokyo's emerging tech hub status.",
-    "key_points": [
-      "Tokyo hosting major tech event SusHi Tech Tokyo 2026",
-      "Four focused technology domains with live demonstrations",
-      "Global technology builders and funders participating"
-    ],
-    "tags": [
-      "tokyo",
-      "tech-hub",
-      "asia-market",
-      "innovation"
+      "real-time-payments",
+      "digital-assets",
+      "corporate-adoption"
     ],
     "confidence": 0.6,
     "strategic_theme": "PLATFORM_ECOSYSTEM",
     "regions": [
-      "APAC"
+      "GLOBAL"
     ],
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "SusHi Tech Tokyo",
-      "Tokyo"
+      "HSBC"
     ],
-    "one_line_insight_ko": "도쿄가 아시아 기술 허브로 부상하며 D2C 기업들의 아시아 시장 진출 거점 역할을 할 전망이다.",
-    "one_line_insight_en": "Tokyo's emergence as a tech hub presents strategic opportunities for D2C companies to establish Asian market presence.",
+    "one_line_insight_ko": "실시간 결제 도입은 단순한 기술 업그레이드가 아니라 비즈니스 전략과 디지털 자산 생태계를 고려한 종합적 결정이어야 한다.",
+    "one_line_insight_en": "Real-time payment adoption should be a comprehensive decision considering business strategy and digital asset ecosystems, not just a technical upgrade.",
     "ai_processed": true
   },
   {
-    "title": "Nike cuts 1,400 jobs across tech, operations",
-    "link": "https://www.retaildive.com/news/nike-layoffs-cuts-thousands-tech-jobs/818391/",
-    "date_published": "2026-04-24",
-    "description": "The majority of the layoffs are in the activewear giant’s tech department as it consolidates its footprint and leans into automation.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
+    "title": "AIE Europe Debrief + Agent Labs Thesis: Unsupervised Learning x Latent Space Crossover Special (2026)",
+    "link": "https://www.latent.space/p/unsupervised-learning-2026",
+    "date_published": "2026-04-23",
+    "description": "Note: This episode was recorded just after AIE Europe, but before the Cursor-xAI deal.",
+    "source_id": "latent_space",
+    "source_name": "Latent Space (The AI Index)",
+    "source_url": "https://www.latent.space/feed",
     "categories": [
-      "commerce",
-      "strategy"
+      "tech"
     ],
     "relevance_score": 0.6,
     "relevance_label": "high",
-    "title_en": "Nike Cuts 1,400 Jobs in Tech and Operations, Accelerates Automation",
-    "summary_ko": "나이키가 기술 및 운영 부문에서 1,400명을 해고한다고 발표했다. 해고의 대부분은 기술 부서에서 이루어진다. 회사는 운영 공간을 통합하고 자동화에 집중하고 있다.",
-    "summary_en": "Nike announced layoffs of 1,400 employees across tech and operations departments. The majority of cuts are concentrated in the tech division. The company is consolidating its operational footprint while increasing focus on automation.",
-    "so_what_ko": "대형 브랜드들이 기술 투자를 재조정하며 자동화에 집중하는 트렌드를 LG D2C도 면밀히 관찰해야 한다.",
-    "so_what_en": "LG D2C should closely monitor how major brands are restructuring tech investments and prioritizing automation initiatives.",
+    "title_en": "AIE Europe Debrief Explores 2026 AI Unsupervised Learning Trends",
+    "summary_ko": "AIE Europe 이후 녹음된 에피소드에서 2026년 AI 무감독 학습과 잠재 공간의 교차점을 탐구합니다. Agent Labs의 논제와 함께 AI 발전 방향을 논의합니다. Cursor-xAI 거래 이전 시점의 관점을 제시합니다.",
+    "summary_en": "Episode recorded after AIE Europe explores 2026 AI unsupervised learning and latent space crossover trends. Discusses Agent Labs thesis alongside AI development directions. Provides perspective from before the Cursor-xAI deal.",
+    "so_what_ko": "D2C 기업은 무감독 학습 기술의 발전이 고객 행동 예측과 개인화에 미칠 영향을 모니터링해야 합니다.",
+    "so_what_en": "D2C companies should monitor how unsupervised learning advances will impact customer behavior prediction and personalization capabilities.",
     "key_points": [
-      "Nike cutting 1,400 jobs primarily in tech department",
-      "Focus on consolidating operations and increasing automation",
-      "Reflects broader industry trend of tech workforce optimization"
+      "AIE Europe conference insights on 2026 AI trends",
+      "Focus on unsupervised learning and latent space developments",
+      "Agent Labs thesis discussion",
+      "Pre-Cursor-xAI deal market perspective"
     ],
     "tags": [
-      "workforce-optimization",
-      "automation",
-      "retail-transformation"
+      "unsupervised-learning",
+      "latent-space",
+      "ai-agents",
+      "machine-learning"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "EMERGING_TECH",
+    "regions": [
+      "EMEA",
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "AIE Europe",
+      "Agent Labs",
+      "Cursor",
+      "xAI"
+    ],
+    "one_line_insight_ko": "무감독 학습의 발전이 2026년 AI 에이전트의 자율성과 효율성을 크게 향상시킬 것으로 전망됩니다.",
+    "one_line_insight_en": "Advances in unsupervised learning are expected to significantly enhance AI agent autonomy and efficiency in 2026.",
+    "ai_processed": true
+  },
+  {
+    "title": "[AINews] Tasteful Tokenmaxxing",
+    "link": "https://www.latent.space/p/ainews-tasteful-tokenmaxxing",
+    "date_published": "2026-04-23",
+    "description": "a quiet day lets us reflect on the top conversation that AI leaders are having everywhere.",
+    "source_id": "latent_space",
+    "source_name": "Latent Space (The AI Index)",
+    "source_url": "https://www.latent.space/feed",
+    "categories": [
+      "tech",
+      "strategy"
+    ],
+    "relevance_score": 0.7,
+    "relevance_label": "high",
+    "title_en": "AI Leaders Focus on Token Optimization Strategies",
+    "summary_ko": "AI 업계 리더들 사이에서 토큰 최적화에 대한 논의가 활발히 진행되고 있습니다. 조용한 날을 통해 주요 AI 대화 주제를 성찰하는 시간을 가집니다. 효율적인 토큰 활용이 핵심 관심사로 부상하고 있습니다.",
+    "summary_en": "Active discussions on token optimization are happening among AI industry leaders. A quiet day provides time to reflect on top AI conversation topics. Efficient token utilization is emerging as a key concern.",
+    "so_what_ko": "토큰 효율성은 AI 기반 고객 서비스와 개인화 비용을 직접적으로 좌우하므로 D2C 기업의 주요 고려사항입니다.",
+    "so_what_en": "Token efficiency directly impacts AI-powered customer service and personalization costs, making it a key consideration for D2C companies.",
+    "key_points": [
+      "Token optimization as top AI leadership concern",
+      "Industry-wide focus on efficiency improvements",
+      "Reflection on current AI conversation trends"
+    ],
+    "tags": [
+      "token-optimization",
+      "ai-efficiency",
+      "cost-management"
     ],
     "confidence": 0.7,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "strategic_theme": "DATA_STRATEGY",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "AI leaders",
+      "token optimization"
+    ],
+    "one_line_insight_ko": "토큰 최적화는 AI 서비스의 경제성을 결정하는 핵심 경쟁 요소로 자리잡고 있습니다.",
+    "one_line_insight_en": "Token optimization is becoming a critical competitive factor determining AI service economics.",
+    "ai_processed": true
+  },
+  {
+    "title": "Introducing GPT-5.5",
+    "link": "https://openai.com/index/introducing-gpt-5-5",
+    "date_published": "2026-04-23",
+    "description": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "categories": [
+      "tech"
+    ],
+    "relevance_score": 0.8,
+    "relevance_label": "high",
+    "title_en": "OpenAI Launches GPT-5.5, Its Most Advanced Model for Complex Tasks",
+    "summary_ko": "OpenAI가 지금까지 가장 스마트한 모델인 GPT-5.5를 출시했습니다. 더 빠르고 강력한 성능으로 코딩, 연구, 데이터 분석 등 복잡한 작업에 특화되었습니다. 다양한 도구와의 통합을 통해 향상된 기능을 제공합니다.",
+    "summary_en": "OpenAI launched GPT-5.5, its smartest model to date. Features faster and more capable performance specialized for complex tasks like coding, research, and data analysis. Offers enhanced capabilities through integration with various tools.",
+    "so_what_ko": "GPT-5.5의 향상된 성능은 D2C 기업의 고객 서비스 자동화와 데이터 분석 능력을 크게 개선할 수 있습니다.",
+    "so_what_en": "GPT-5.5's enhanced capabilities can significantly improve D2C companies' customer service automation and data analysis capabilities.",
+    "key_points": [
+      "GPT-5.5 released as OpenAI's most advanced model",
+      "Optimized for complex tasks including coding and research",
+      "Enhanced tool integration capabilities",
+      "Faster performance compared to previous versions"
+    ],
+    "tags": [
+      "gpt-5-5",
+      "language-models",
+      "ai-advancement",
+      "openai"
+    ],
+    "confidence": 0.9,
+    "strategic_theme": "EMERGING_TECH",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "OpenAI",
+      "GPT-5.5"
+    ],
+    "one_line_insight_ko": "GPT-5.5는 복잡한 비즈니스 태스크 자동화의 새로운 가능성을 열어줍니다.",
+    "one_line_insight_en": "GPT-5.5 opens new possibilities for automating complex business tasks.",
+    "ai_processed": true
+  },
+  {
+    "title": "GPT-5.5 System Card",
+    "link": "https://openai.com/index/gpt-5-5-system-card",
+    "date_published": "2026-04-23",
+    "description": "",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "categories": [
+      "tech"
+    ],
+    "relevance_score": 0.6,
+    "relevance_label": "high",
+    "title_en": "OpenAI Releases GPT-5.5 System Card Documentation",
+    "summary_ko": "OpenAI가 GPT-5.5 시스템 카드를 공개했습니다. 모델의 기술적 세부사항과 안전성 평가를 포함한 공식 문서입니다. 투명성과 책임감 있는 AI 개발을 위한 정보를 제공합니다.",
+    "summary_en": "OpenAI released the GPT-5.5 System Card documentation. Official documentation includes technical details and safety assessments of the model. Provides information for transparent and responsible AI development.",
+    "so_what_ko": "시스템 카드를 통한 투명성은 D2C 기업이 AI 도구 도입 시 리스크 평가와 규정 준수를 지원합니다.",
+    "so_what_en": "Transparency through system cards helps D2C companies assess risks and ensure compliance when adopting AI tools.",
+    "key_points": [
+      "Official GPT-5.5 system documentation released",
+      "Includes technical specifications and safety assessments",
+      "Supports transparent AI development practices"
+    ],
+    "tags": [
+      "gpt-5-5",
+      "system-card",
+      "ai-safety",
+      "documentation"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "DATA_STRATEGY",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "MEDIUM",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "Nike"
+      "OpenAI",
+      "GPT-5.5",
+      "System Card"
     ],
-    "one_line_insight_ko": "대형 리테일 브랜드들이 기술 인력을 최적화하며 자동화 우선순위를 재조정하고 있다.",
-    "one_line_insight_en": "Major retail brands are optimizing tech workforce while reprioritizing automation investments.",
+    "one_line_insight_ko": "AI 모델의 투명한 문서화는 기업의 책임감 있는 AI 도입을 가능하게 합니다.",
+    "one_line_insight_en": "Transparent AI model documentation enables responsible AI adoption for enterprises.",
     "ai_processed": true
   },
   {
-    "title": "AI citation tracking: How to track (and grow) AI engine citations",
-    "link": "https://blog.hubspot.com/marketing/ai-citation-tracking",
-    "date_published": "2026-04-24",
-    "description": "AI search engine citation tracking helps measure brand visibility and authority in AI-powered search results. As AI-powered search experiences reshape how people discover information, evaluate vendors, and build shortlists, visibility inside AI answers is no longer a vanity metric. If AI engines aren’t citing your brand, you’re missing influence at the exact moment buyers are forming opinions.",
-    "source_id": "hubspot_marketing",
-    "source_name": "HubSpot Marketing Blog",
-    "source_url": "https://blog.hubspot.com/marketing/rss.xml",
+    "title": "AWS Bets on Frontier Agents as the Next Era of Enterprise AI",
+    "link": "https://aibusiness.com/agentic-ai/aws-bets-frontier-agents-as-next-era-enterprise-ai",
+    "date_published": "2026-04-23",
+    "description": "The tech giant is positioning autonomous, long-running agents as the next defining shift in enterprise AI.",
+    "source_id": "ai_business",
+    "source_name": "AI Business",
+    "source_url": "https://aibusiness.com/rss.xml",
     "categories": [
-      "marketing",
+      "tech",
       "strategy"
     ],
     "relevance_score": 0.9,
     "relevance_label": "high",
-    "title_en": "AI Citation Tracking Becomes Critical for Brand Visibility in AI Search",
-    "summary_ko": "AI 검색 엔진 인용 추적이 AI 기반 검색 결과에서 브랜드 가시성과 권위를 측정하는 데 도움이 된다. AI 기반 검색 경험이 정보 발견 방식을 재편하고 있다. AI 엔진이 브랜드를 인용하지 않으면 구매자가 의견을 형성하는 순간에 영향력을 놓치게 된다.",
-    "summary_en": "AI search engine citation tracking helps measure brand visibility and authority in AI-powered search results. AI-powered search experiences are reshaping how people discover information and evaluate vendors. Missing AI engine citations means losing influence at the critical moment when buyers form opinions.",
-    "so_what_ko": "LG D2C는 AI 검색 결과에서의 브랜드 인용을 추적하고 최적화하여 구매 의사결정 순간의 영향력을 확보해야 한다.",
-    "so_what_en": "LG D2C must track and optimize brand citations in AI search results to secure influence at critical purchase decision moments.",
+    "title_en": "AWS Positions Frontier Agents as Next Enterprise AI Revolution",
+    "summary_ko": "AWS가 자율적이고 장기 실행되는 에이전트를 기업 AI의 차세대 핵심 변화로 포지셔닝하고 있습니다. 프론티어 에이전트 기술에 대규모 투자를 진행하고 있습니다. 엔터프라이즈 AI 시장의 새로운 패러다임 전환을 주도하려 합니다.",
+    "summary_en": "AWS is positioning autonomous, long-running agents as the next defining shift in enterprise AI. Making significant investments in frontier agent technology. Leading a new paradigm shift in the enterprise AI market.",
+    "so_what_ko": "AWS의 에이전트 전략은 D2C 기업의 고객 여정 자동화와 운영 효율성 향상에 새로운 기회를 제공합니다.",
+    "so_what_en": "AWS's agent strategy provides new opportunities for D2C companies to automate customer journeys and improve operational efficiency.",
     "key_points": [
-      "AI citation tracking measures brand authority in AI search results",
-      "AI-powered search is reshaping information discovery and vendor evaluation",
-      "Missing AI citations means lost influence during buyer opinion formation"
+      "AWS betting on autonomous frontier agents",
+      "Focus on long-running enterprise AI applications",
+      "Positioning as next major enterprise AI shift",
+      "Investment in advanced agent technologies"
     ],
     "tags": [
-      "ai-search",
-      "brand-visibility",
-      "citation-tracking",
-      "seo"
+      "aws",
+      "frontier-agents",
+      "enterprise-ai",
+      "autonomous-agents"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "AWS",
+      "Frontier Agents"
+    ],
+    "one_line_insight_ko": "자율 에이전트는 엔터프라이즈 AI의 다음 혁신 물결을 이끌 핵심 기술로 부상하고 있습니다.",
+    "one_line_insight_en": "Autonomous agents are emerging as the key technology driving the next wave of enterprise AI innovation.",
+    "ai_processed": true
+  },
+  {
+    "title": "Microsoft to Spend $18B on AI Infrastructure in Australia",
+    "link": "https://aibusiness.com/generative-ai/microsoft-spend-18b-ai-infrastructure-australia",
+    "date_published": "2026-04-23",
+    "description": "The planned outlay comes after the tech giant recently made significant AI investments in Asia.",
+    "source_id": "ai_business",
+    "source_name": "AI Business",
+    "source_url": "https://aibusiness.com/rss.xml",
+    "categories": [
+      "tech"
+    ],
+    "relevance_score": 0.6,
+    "relevance_label": "high",
+    "title_en": "Microsoft to Invest $18B in AI Infrastructure Expansion Across Australia",
+    "summary_ko": "마이크로소프트가 호주에 180억 달러 규모의 AI 인프라 투자를 계획한다고 발표했습니다. 이는 아시아 지역에서의 대규모 AI 투자에 이어지는 후속 조치입니다. 글로벌 테크 기업들의 AI 인프라 확장 경쟁이 아시아태평양 지역으로 확산되고 있습니다.",
+    "summary_en": "Microsoft announced plans to invest $18 billion in AI infrastructure development across Australia. This follows the tech giant's recent significant AI investments throughout the Asia region. The move represents the expansion of global tech companies' AI infrastructure competition into the Asia-Pacific region.",
+    "so_what_ko": "글로벌 AI 인프라 투자 확대로 APAC 지역의 AI 서비스 접근성과 품질이 향상될 것으로 예상되며, LG D2C는 향상된 AI 서비스를 활용한 고객 경험 개선 기회를 모색해야 합니다.",
+    "so_what_en": "The expansion of global AI infrastructure investment will improve AI service accessibility and quality in APAC, creating opportunities for LG D2C to leverage enhanced AI services for customer experience improvements.",
+    "key_points": [
+      "$18 billion investment in Australian AI infrastructure",
+      "Part of Microsoft's broader Asia AI investment strategy",
+      "Signals intensifying AI infrastructure competition in APAC"
+    ],
+    "tags": [
+      "ai-infrastructure",
+      "microsoft",
+      "australia",
+      "apac-investment"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "EMERGING_TECH",
+    "regions": [
+      "APAC"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Microsoft",
+      "Australia",
+      "Asia"
+    ],
+    "one_line_insight_ko": "마이크로소프트의 APAC AI 인프라 투자 확대는 지역 내 AI 서비스 생태계 강화의 신호탄입니다.",
+    "one_line_insight_en": "Microsoft's expanded APAC AI infrastructure investment signals the strengthening of regional AI service ecosystems.",
+    "ai_processed": true
+  },
+  {
+    "title": "Salesforce Customer Success Awards 2026: Lead Era of the Agentic Enterprise",
+    "link": "https://www.salesforce.com/blog/customer-success-awards/",
+    "date_published": "2026-04-23",
+    "description": "Celebrating the Trailblazers putting Agentforce to work",
+    "source_id": "salesforce_agentforce",
+    "source_name": "Salesforce Agentforce Blog",
+    "source_url": "https://www.salesforce.com/blog/category/ai/feed/",
+    "categories": [
+      "agentic_commerce"
+    ],
+    "relevance_score": 0.9,
+    "relevance_label": "high",
+    "title_en": "Salesforce Celebrates Customer Success in the Era of Agentic Enterprise with 2026 Awards",
+    "summary_ko": "Salesforce가 2026년 고객 성공상을 통해 Agentforce를 활용하는 기업들을 축하했습니다. 이번 시상식은 에이전틱 엔터프라이즈 시대를 선도하는 트레일블레이저들을 조명했습니다. 기업들이 AI 에이전트를 통해 실질적인 비즈니스 성과를 달성하고 있음을 보여줍니다.",
+    "summary_en": "Salesforce celebrated companies utilizing Agentforce through its 2026 Customer Success Awards. The awards highlighted trailblazers leading the era of agentic enterprise. This demonstrates how businesses are achieving tangible results through AI agent implementations.",
+    "so_what_ko": "에이전틱 엔터프라이즈가 현실화되고 있어 LG D2C도 AI 에이전트를 활용한 고객 서비스와 운영 자동화를 통해 경쟁 우위를 확보해야 합니다.",
+    "so_what_en": "As agentic enterprise becomes reality, LG D2C must leverage AI agents for customer service and operational automation to gain competitive advantages.",
+    "key_points": [
+      "Recognition of successful Agentforce implementations",
+      "Focus on agentic enterprise transformation",
+      "Demonstration of tangible AI agent business value"
+    ],
+    "tags": [
+      "salesforce",
+      "agentforce",
+      "agentic-enterprise",
+      "customer-success"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Salesforce",
+      "Agentforce"
+    ],
+    "one_line_insight_ko": "에이전틱 엔터프라이즈 시대의 본격 도래로 AI 에이전트 활용이 기업 경쟁력의 핵심 요소가 되고 있습니다.",
+    "one_line_insight_en": "The arrival of the agentic enterprise era makes AI agent utilization a core element of business competitiveness.",
+    "ai_processed": true
+  },
+  {
+    "title": "Visa, Mastercard face new suit over card fees",
+    "link": "https://www.paymentsdive.com/news/visa-mastercard-face-new-suit-over-card-fees/818294/",
+    "date_published": "2026-04-23",
+    "description": "Three plaintiffs say a 2019 settlement in card fee litigation should not give the card networks years of legal immunity for antitrust claims.",
+    "source_id": "payments_dive",
+    "source_name": "Payments Dive",
+    "source_url": "https://www.paymentsdive.com/feeds/news/",
+    "categories": [
+      "commerce"
+    ],
+    "relevance_score": 0.4,
+    "relevance_label": "high",
+    "title_en": "Visa and Mastercard Face Fresh Legal Challenge Over Card Transaction Fees",
+    "summary_ko": "Visa와 Mastercard가 카드 수수료 관련 새로운 소송에 직면했습니다. 세 명의 원고가 2019년 카드 수수료 소송 합의가 카드 네트워크에 수년간의 반독점 법적 면책을 제공해서는 안 된다고 주장했습니다. 결제 산업의 독점적 지위에 대한 법적 도전이 계속되고 있습니다.",
+    "summary_en": "Visa and Mastercard are facing a new lawsuit regarding card transaction fees. Three plaintiffs argue that a 2019 settlement in card fee litigation should not provide the card networks with years of antitrust legal immunity. Legal challenges to the payment industry's monopolistic position continue.",
+    "so_what_ko": "결제 수수료 구조의 변화 가능성으로 D2C 사업의 결제 비용 최적화 기회가 생길 수 있어 대안 결제 솔루션 검토가 필요합니다.",
+    "so_what_en": "Potential changes in payment fee structures could create opportunities for D2C payment cost optimization, requiring review of alternative payment solutions.",
+    "key_points": [
+      "New lawsuit challenges Visa and Mastercard fee practices",
+      "Questions 2019 settlement's antitrust immunity provisions",
+      "Ongoing legal pressure on payment network monopolies"
+    ],
+    "tags": [
+      "visa",
+      "mastercard",
+      "payment-fees",
+      "antitrust",
+      "litigation"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Visa",
+      "Mastercard"
+    ],
+    "one_line_insight_ko": "결제 네트워크 독점에 대한 법적 도전은 D2C 기업들에게 결제 비용 절감의 새로운 기회를 제공할 수 있습니다.",
+    "one_line_insight_en": "Legal challenges to payment network monopolies may provide new cost reduction opportunities for D2C businesses.",
+    "ai_processed": true
+  },
+  {
+    "title": "AI needs a strong data fabric to deliver business value",
+    "link": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+    "date_published": "2026-04-22",
+    "description": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes…",
+    "source_id": "mit_tech_review_ai",
+    "source_name": "MIT Technology Review (AI)",
+    "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+    "categories": [
+      "tech",
+      "strategy"
+    ],
+    "relevance_score": 0.7,
+    "relevance_label": "high",
+    "title_en": "Strong Data Fabric Essential for AI to Deliver Meaningful Business Value",
+    "summary_ko": "MIT Technology Review에 따르면 AI가 비즈니스 가치를 제공하려면 강력한 데이터 패브릭이 필수적입니다. 기업들이 AI를 실험에서 일상적 사용으로 전환하면서 데이터 인프라의 중요성이 부각되고 있습니다. 2025년 말까지 기업의 절반이 최소 3개 비즈니스 기능에서 AI를 사용할 것으로 예상됩니다.",
+    "summary_en": "According to MIT Technology Review, AI requires a strong data fabric to deliver meaningful business value. As organizations transition AI from experimentation to everyday use, data infrastructure importance is highlighted. By end of 2025, half of companies are expected to use AI in at least three business functions.",
+    "so_what_ko": "AI의 비즈니스 가치 실현을 위해서는 데이터 인프라 구축이 선행되어야 하며, LG D2C는 통합된 데이터 패브릭 구축을 통해 AI 활용 효과를 극대화해야 합니다.",
+    "so_what_en": "Data infrastructure development must precede AI business value realization, requiring LG D2C to maximize AI utilization effectiveness through integrated data fabric construction.",
+    "key_points": [
+      "Data fabric crucial for AI business value delivery",
+      "AI adoption accelerating from experimentation to daily use",
+      "50% of companies expected to use AI in 3+ functions by 2025"
+    ],
+    "tags": [
+      "data-fabric",
+      "ai-infrastructure",
+      "business-value",
+      "enterprise-ai"
+    ],
+    "confidence": 0.9,
+    "strategic_theme": "DATA_STRATEGY",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "MIT Technology Review"
+    ],
+    "one_line_insight_ko": "AI의 실질적 비즈니스 가치 창출은 견고한 데이터 인프라 구축에서 시작됩니다.",
+    "one_line_insight_en": "Meaningful AI business value creation begins with building robust data infrastructure.",
+    "ai_processed": true
+  },
+  {
+    "title": "AEO Strategy for B2B: 9 Tactics to Increase B2B Answer Engine Visibility",
+    "link": "https://blog.hubspot.com/marketing/aeo-b2b-strategy",
+    "date_published": "2026-04-22",
+    "description": "Research shows that 32% of buyers discover new B2B vendors using generative AI chatbots. This is why an answer engine optimization (AEO) strategy for B2B businesses is essential. AI-driven answer engines help buyers discover, evaluate, and shortlist vendors. The same research found that buyers start with an average of 7.6 potential vendors and narrow this to 3.5 before making their final decision.",
+    "source_id": "hubspot_marketing",
+    "source_name": "HubSpot Marketing Blog",
+    "source_url": "https://blog.hubspot.com/marketing/rss.xml",
+    "categories": [
+      "ai_marketing",
+      "marketing"
+    ],
+    "relevance_score": 0.8,
+    "relevance_label": "high",
+    "title_en": "Answer Engine Optimization Becomes Critical for B2B Vendor Discovery and Selection",
+    "summary_ko": "HubSpot 연구에 따르면 B2B 구매자의 32%가 생성형 AI 챗봇을 통해 새로운 벤더를 발견합니다. 구매자들은 평균 7.6개 잠재 벤더에서 시작해 최종 결정 전 3.5개로 좁혀갑니다. AI 기반 답변 엔진이 B2B 벤더 발견과 평가 과정의 핵심이 되고 있습니다.",
+    "summary_en": "According to HubSpot research, 32% of B2B buyers discover new vendors using generative AI chatbots. Buyers start with an average of 7.6 potential vendors and narrow this to 3.5 before making final decisions. AI-driven answer engines are becoming central to B2B vendor discovery and evaluation processes.",
+    "so_what_ko": "B2B 구매 여정에서 AI 답변 엔진의 역할이 커지고 있어 LG D2C는 AEO 전략을 통해 AI 검색 결과에서의 가시성을 높여야 합니다.",
+    "so_what_en": "As AI answer engines play larger roles in B2B buying journeys, LG D2C must increase visibility in AI search results through AEO strategy implementation.",
+    "key_points": [
+      "32% of B2B buyers use AI chatbots for vendor discovery",
+      "Buyer consideration sets narrow from 7.6 to 3.5 vendors",
+      "Answer Engine Optimization becoming essential for B2B visibility"
+    ],
+    "tags": [
+      "aeo",
+      "b2b-marketing",
+      "ai-chatbots",
+      "vendor-discovery",
+      "generative-ai"
     ],
     "confidence": 0.9,
     "strategic_theme": "AI_MARKETING",
@@ -348,324 +659,10 @@
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "HubSpot",
-      "AI search engines"
+      "HubSpot"
     ],
-    "one_line_insight_ko": "AI 검색 시대에서 브랜드 인용 최적화가 구매 의사결정에 미치는 영향력 확보의 핵심이 되었다.",
-    "one_line_insight_en": "Brand citation optimization has become critical for securing influence in AI-driven purchase decision processes.",
-    "ai_processed": true
-  },
-  {
-    "title": "Three reasons why DeepSeek’s new model matters",
-    "link": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
-    "date_published": "2026-04-24",
-    "description": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open source, meaning it is available…",
-    "source_id": "mit_tech_review_ai",
-    "source_name": "MIT Technology Review (AI)",
-    "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-    "categories": [
-      "tech"
-    ],
-    "relevance_score": 0.7,
-    "relevance_label": "high",
-    "title_en": "DeepSeek's V4 Model Advances AI with Enhanced Long-Context Processing",
-    "summary_ko": "중국 AI 기업 DeepSeek이 차세대 플래그십 모델 V4 프리뷰를 공개했다. 이 모델은 대용량 텍스트를 효율적으로 처리하는 새로운 설계로 이전 세대보다 훨씬 긴 프롬프트를 처리할 수 있다. 이전 모델들과 마찬가지로 V4는 오픈소스로 제공된다.",
-    "summary_en": "Chinese AI firm DeepSeek released a preview of V4, its next-generation flagship model. The model can process much longer prompts than previous generations through new design for efficient large text handling. Like previous DeepSeek models, V4 is available as open source.",
-    "so_what_ko": "오픈소스 AI 모델의 발전이 LG D2C의 AI 도구 도입 비용을 절감하고 맞춤형 솔루션 개발 기회를 제공한다.",
-    "so_what_en": "Advances in open-source AI models offer LG D2C opportunities for cost-effective AI tool adoption and custom solution development.",
-    "key_points": [
-      "DeepSeek V4 offers enhanced long-context processing capabilities",
-      "New design enables efficient handling of large amounts of text",
-      "Open-source availability provides accessible AI technology"
-    ],
-    "tags": [
-      "deepseek",
-      "open-source-ai",
-      "long-context",
-      "ai-models"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "EMERGING_TECH",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "DeepSeek",
-      "V4 model"
-    ],
-    "one_line_insight_ko": "오픈소스 AI 모델의 고도화가 기업들의 AI 활용 진입장벽을 낮추고 있다.",
-    "one_line_insight_en": "Advanced open-source AI models are lowering barriers for enterprise AI adoption and innovation.",
-    "ai_processed": true
-  },
-  {
-    "title": "Sports guidance to brands from three sources: Keep the fan top of mind and you might just win",
-    "link": "https://digiday.com/marketing/sports-guidance-to-brands-from-three-sources-keep-the-fan-top-of-mind-and-you-might-just-win/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-04-24",
-    "description": "Agencies are hiring talent from the big leagues, crystallizing sport-related efforts into full-fledged business opportunities, while others look for the danger in tapping AI in too many places.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
-    "categories": [
-      "marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.6,
-    "relevance_label": "high",
-    "title_en": "Sports Marketing Agencies Focus on Fan-Centric Strategies While Managing AI Risks",
-    "summary_ko": "에이전시들이 프로 스포츠에서 인재를 채용하며 스포츠 관련 노력을 본격적인 비즈니스 기회로 발전시키고 있다. 팬을 최우선으로 고려하는 것이 성공의 핵심으로 제시되고 있다. 일부는 AI를 과도하게 활용하는 위험성에 주목하고 있다.",
-    "summary_en": "Agencies are hiring talent from professional sports leagues and crystallizing sport-related efforts into full business opportunities. Keeping fans as the top priority is identified as key to success. Some organizations are recognizing the dangers of over-relying on AI in too many areas.",
-    "so_what_ko": "LG D2C는 스포츠 마케팅에서 팬 중심 전략을 강화하되, AI 도구의 과도한 의존 위험을 관리해야 한다.",
-    "so_what_en": "LG D2C should strengthen fan-centric strategies in sports marketing while managing risks of excessive AI tool dependency.",
-    "key_points": [
-      "Agencies recruiting talent from professional sports leagues",
-      "Fan-centric approach identified as key to sports marketing success",
-      "Growing awareness of risks from over-utilizing AI tools"
-    ],
-    "tags": [
-      "sports-marketing",
-      "fan-engagement",
-      "ai-risks",
-      "talent-acquisition"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Digiday",
-      "sports agencies"
-    ],
-    "one_line_insight_ko": "스포츠 마케팅에서 팬 중심 접근법과 AI 활용의 균형이 성공의 핵심 요소로 부상하고 있다.",
-    "one_line_insight_en": "Balancing fan-centric approaches with measured AI utilization is emerging as critical for sports marketing success.",
-    "ai_processed": true
-  },
-  {
-    "title": "[AINews] GPT 5.5 and OpenAI Codex Superapp",
-    "link": "https://www.latent.space/p/ainews-gpt-55-and-openai-codex-superapp",
-    "date_published": "2026-04-24",
-    "description": "Spud lives!",
-    "source_id": "latent_space",
-    "source_name": "Latent Space (The AI Index)",
-    "source_url": "https://www.latent.space/feed",
-    "categories": [
-      "tech"
-    ],
-    "relevance_score": 0.4,
-    "relevance_label": "high",
-    "title_en": "GPT-5.5 and OpenAI Codex Superapp Development Unveiled",
-    "summary_ko": "OpenAI가 새로운 GPT-5.5 모델과 Codex 슈퍼앱 개발을 발표했습니다. 이 발표는 AI 개발 도구의 새로운 진화를 시사합니다. 코딩 및 개발 분야에서의 AI 활용이 더욱 고도화될 것으로 예상됩니다.",
-    "summary_en": "OpenAI announced the development of GPT-5.5 model and Codex superapp. This announcement signals a new evolution in AI development tools. Enhanced AI utilization in coding and development fields is anticipated.",
-    "so_what_ko": "D2C 기업들은 향상된 AI 개발 도구를 활용해 고객 경험 개선과 운영 효율성을 높일 수 있는 기회를 얻게 됩니다.",
-    "so_what_en": "D2C companies can leverage enhanced AI development tools to improve customer experience and operational efficiency.",
-    "key_points": [
-      "GPT-5.5 model development announced",
-      "Codex superapp integration planned",
-      "Enhanced coding capabilities expected"
-    ],
-    "tags": [
-      "gpt-5-5",
-      "openai-codex",
-      "ai-development"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "EMERGING_TECH",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "OpenAI",
-      "GPT-5.5",
-      "Codex"
-    ],
-    "one_line_insight_ko": "OpenAI의 새로운 개발 도구는 D2C 기업의 AI 활용 능력을 한 단계 끌어올릴 수 있는 기회를 제공합니다.",
-    "one_line_insight_en": "OpenAI's new development tools offer opportunities to elevate D2C companies' AI utilization capabilities.",
-    "ai_processed": true
-  },
-  {
-    "title": "Canadian, German AI Startups Join Forces to Challenge US Dominance",
-    "link": "https://aibusiness.com/generative-ai/canadian-german-ai-startups-forces-challenge-us-dominance",
-    "date_published": "2026-04-24",
-    "description": "The partners hope to provide an AI stack that prioritizes regional independence and regulatory compliance.",
-    "source_id": "ai_business",
-    "source_name": "AI Business",
-    "source_url": "https://aibusiness.com/rss.xml",
-    "categories": [
-      "strategy"
-    ],
-    "relevance_score": 0.5,
-    "relevance_label": "high",
-    "title_en": "Canadian-German AI Alliance Emerges to Challenge US Market Dominance",
-    "summary_ko": "캐나다와 독일의 AI 스타트업들이 연합하여 미국의 AI 시장 지배력에 도전하고 있습니다. 이들은 지역적 독립성과 규제 준수를 우선시하는 AI 스택을 제공하고자 합니다. 글로벌 AI 시장의 다극화가 가속화되고 있습니다.",
-    "summary_en": "Canadian and German AI startups are joining forces to challenge US dominance in the AI market. They aim to provide an AI stack that prioritizes regional independence and regulatory compliance. The multipolarization of the global AI market is accelerating.",
-    "so_what_ko": "D2C 기업들은 지역별 규제 요구사항을 만족하면서도 데이터 주권을 보장하는 대안적 AI 솔루션을 고려해야 합니다.",
-    "so_what_en": "D2C companies should consider alternative AI solutions that ensure data sovereignty while meeting regional regulatory requirements.",
-    "key_points": [
-      "Canadian-German AI startup alliance formed",
-      "Focus on regional independence and compliance",
-      "Challenge to US AI market dominance",
-      "Alternative AI stack development"
-    ],
-    "tags": [
-      "ai-alliance",
-      "regulatory-compliance",
-      "data-sovereignty"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "EMEA",
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "캐나다 AI 스타트업",
-      "독일 AI 스타트업"
-    ],
-    "one_line_insight_ko": "지역별 AI 주권 확보 움직임은 D2C 기업들에게 다양한 AI 파트너십 옵션을 제공합니다.",
-    "one_line_insight_en": "Regional AI sovereignty movements provide D2C companies with diverse AI partnership options.",
-    "ai_processed": true
-  },
-  {
-    "title": "GPT-5.5 Boasts Coding Advancements, But Falls Short of Opus 4.7",
-    "link": "https://aibusiness.com/generative-ai/gpt-5-5-boasts-coding-advancements-falls-short-opus-4-7",
-    "date_published": "2026-04-24",
-    "description": "While OpenAI has improved the model's coding and tool use ability, it still has room to improve in areas where Anthropic dominates.",
-    "source_id": "ai_business",
-    "source_name": "AI Business",
-    "source_url": "https://aibusiness.com/rss.xml",
-    "categories": [
-      "tech"
-    ],
-    "relevance_score": 0.4,
-    "relevance_label": "high",
-    "title_en": "GPT-5.5 Shows Coding Progress But Trails Behind Anthropic's Opus 4.7",
-    "summary_ko": "OpenAI의 GPT-5.5는 코딩 능력과 도구 활용 기능이 개선되었지만, Anthropic의 Opus 4.7에는 여전히 뒤처지고 있습니다. OpenAI는 Anthropic이 우세한 영역에서 개선의 여지가 남아있습니다. AI 모델 간 경쟁이 치열해지고 있습니다.",
-    "summary_en": "OpenAI's GPT-5.5 shows improved coding and tool use capabilities but still lags behind Anthropic's Opus 4.7. OpenAI has room for improvement in areas where Anthropic dominates. Competition among AI models is intensifying.",
-    "so_what_ko": "D2C 기업들은 특정 용도에 최적화된 AI 모델을 선택적으로 활용하여 경쟁 우위를 확보할 수 있습니다.",
-    "so_what_en": "D2C companies can gain competitive advantage by selectively utilizing AI models optimized for specific use cases.",
-    "key_points": [
-      "GPT-5.5 improves coding and tool use",
-      "Still behind Anthropic's Opus 4.7 performance",
-      "Intensifying competition between AI models",
-      "Room for improvement in specific domains"
-    ],
-    "tags": [
-      "gpt-5-5",
-      "anthropic-opus",
-      "ai-competition"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "OpenAI",
-      "GPT-5.5",
-      "Anthropic",
-      "Opus 4.7"
-    ],
-    "one_line_insight_ko": "AI 모델 간 성능 차별화는 D2C 기업들이 특화된 솔루션을 선택할 수 있는 기회를 제공합니다.",
-    "one_line_insight_en": "Performance differentiation among AI models provides D2C companies opportunities to select specialized solutions.",
-    "ai_processed": true
-  },
-  {
-    "title": "The AI Race Is Becoming an Infrastructure Contest",
-    "link": "https://aibusiness.com/generative-ai/the-ai-race-becoming-infrastructure-contest",
-    "date_published": "2026-04-24",
-    "description": "As AI vendors commit billions to compute, power and global capacity, tech giants rush to build infrastructure ahead of proven demand.",
-    "source_id": "ai_business",
-    "source_name": "AI Business",
-    "source_url": "https://aibusiness.com/rss.xml",
-    "categories": [
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.6,
-    "relevance_label": "high",
-    "title_en": "AI Development Race Transforms into Infrastructure Investment Battle",
-    "summary_ko": "AI 경쟁이 인프라 구축 경쟁으로 변모하고 있습니다. AI 벤더들이 컴퓨팅, 전력, 글로벌 용량에 수십억 달러를 투자하고 있습니다. 기술 대기업들은 입증된 수요에 앞서 인프라 구축에 박차를 가하고 있습니다.",
-    "summary_en": "The AI race is transforming into an infrastructure construction competition. AI vendors are investing billions in computing, power, and global capacity. Tech giants are rushing to build infrastructure ahead of proven demand.",
-    "so_what_ko": "D2C 기업들은 대규모 인프라 투자가 가져올 AI 서비스의 성능 향상과 비용 절감 효과를 활용할 수 있는 전략을 준비해야 합니다.",
-    "so_what_en": "D2C companies should prepare strategies to leverage performance improvements and cost reductions in AI services resulting from massive infrastructure investments.",
-    "key_points": [
-      "AI competition shifts to infrastructure focus",
-      "Billions invested in computing and power capacity",
-      "Tech giants building ahead of proven demand",
-      "Global infrastructure expansion underway"
-    ],
-    "tags": [
-      "ai-infrastructure",
-      "computing-capacity",
-      "tech-investment"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "PLATFORM_ECOSYSTEM",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "AI 벤더",
-      "기술 대기업"
-    ],
-    "one_line_insight_ko": "대규모 AI 인프라 투자는 D2C 기업들에게 더 강력하고 경제적인 AI 서비스 접근 기회를 제공할 것입니다.",
-    "one_line_insight_en": "Massive AI infrastructure investments will provide D2C companies with access to more powerful and economical AI services.",
-    "ai_processed": true
-  },
-  {
-    "title": "Mastercard: Revenue growth, emissions reduction can coincide",
-    "link": "https://www.paymentsdive.com/news/mastercard-grows-revenue-reduces-emissions-for-third-straight-year/818339/",
-    "date_published": "2026-04-24",
-    "description": "The card network reduced its corporate carbon footprint again last year, even as revenue grew, according to an Earth Day blog post this week.",
-    "source_id": "payments_dive",
-    "source_name": "Payments Dive",
-    "source_url": "https://www.paymentsdive.com/feeds/news/",
-    "categories": [
-      "commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.3,
-    "relevance_label": "high",
-    "title_en": "Mastercard Achieves Revenue Growth While Reducing Carbon Emissions",
-    "summary_ko": "마스터카드가 3년 연속 매출 성장과 동시에 탄소 배출량을 감소시켰습니다. 지구의 날 블로그 포스트에서 기업의 탄소 발자국을 줄였다고 발표했습니다. 수익 성장과 환경 보호가 양립 가능함을 보여주고 있습니다.",
-    "summary_en": "Mastercard achieved revenue growth while reducing carbon emissions for the third consecutive year. The company announced reduced corporate carbon footprint in an Earth Day blog post. This demonstrates that revenue growth and environmental protection can coexist.",
-    "so_what_ko": "D2C 기업들은 지속가능성을 추구하면서도 비즈니스 성장을 달성할 수 있는 전략적 접근법을 모색해야 합니다.",
-    "so_what_en": "D2C companies should explore strategic approaches that achieve business growth while pursuing sustainability goals.",
-    "key_points": [
-      "Third consecutive year of growth with emission reduction",
-      "Corporate carbon footprint successfully reduced",
-      "Revenue growth and sustainability can coexist",
-      "Earth Day commitment demonstration"
-    ],
-    "tags": [
-      "sustainability",
-      "carbon-reduction",
-      "revenue-growth"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "DATA_STRATEGY",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Mastercard"
-    ],
-    "one_line_insight_ko": "지속가능한 성장 모델은 D2C 브랜드의 ESG 경쟁력과 고객 신뢰도를 동시에 향상시킬 수 있습니다.",
-    "one_line_insight_en": "Sustainable growth models can simultaneously enhance D2C brands' ESG competitiveness and customer trust.",
+    "one_line_insight_ko": "AI 답변 엔진이 B2B 구매 여정의 새로운 게이트키퍼로 부상하며 AEO가 필수 마케팅 전략이 되고 있습니다.",
+    "one_line_insight_en": "AI answer engines are emerging as new gatekeepers of B2B buying journeys, making AEO an essential marketing strategy.",
     "ai_processed": true
   }
 ]
