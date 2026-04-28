@@ -1,96 +1,145 @@
 [
   {
-    "title": "Media Buying Briefing: Agencies turn creators into test labs for campaigns and product innovation",
-    "link": "https://digiday.com/media-buying/media-buying-briefing-agencies-turn-creators-into-test-labs-for-campaigns-and-product-innovation/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "title": "Carve Designs’ online sales growth, operations factor into acquisition",
+    "link": "https://www.digitalcommerce360.com/2026/04/27/carve-designs-online-sales-growth-operations-factor-into-acquisition/",
     "date_published": "2026-04-27",
-    "description": "Horizon Media’s one example, through its Blue Hour Studios, which is working with advertisers like SharkNinja to pressure-test and adapt campaigns on the fly, using creators in the beginning stages.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
+    "description": "A large part of online sales growth at Carve Designs has been through top-of-funnel marketing, one of its cofounders told Digital Commerce 360. Thayer Sylvester, who cofounded the brand with Jennifer Hinton, said Carve Designs’ focus has largely been on growing its brand awareness. Carve Designs is a sustainability-focused women’s apparel brand. “It’s so easy […]\nThe post Carve Designs’ online sales growth, operations factor into acquisition appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
     "categories": [
-      "marketing"
+      "commerce",
+      "strategy"
     ],
-    "relevance_score": 0.7,
+    "relevance_score": 0.4,
     "relevance_label": "high",
-    "title_en": "Agencies Transform Creators into Campaign Testing Labs for Product Innovation",
-    "summary_ko": "Horizon Media의 Blue Hour Studios는 SharkNinja 같은 광고주와 협력해 크리에이터를 활용한 캠페인 테스트를 진행하고 있다. 에이전시들이 크리에이터를 캠페인과 제품 혁신의 테스트 실험실로 활용하는 새로운 접근법을 도입했다. 이는 캠페인 초기 단계에서 실시간 적응과 압력 테스트를 가능하게 한다.",
-    "summary_en": "Horizon Media's Blue Hour Studios partners with advertisers like SharkNinja to conduct campaign testing using creators. Agencies are adopting a new approach of turning creators into testing laboratories for campaigns and product innovation. This enables real-time adaptation and pressure-testing during the early stages of campaigns.",
-    "so_what_ko": "LG D2C는 크리에이터 기반 테스트 랩 모델을 도입해 제품 출시 전 시장 반응을 사전 검증하고 캠페인 효과를 극대화할 수 있다.",
-    "so_what_en": "LG D2C can adopt creator-based testing lab models to pre-validate market reactions before product launches and maximize campaign effectiveness.",
+    "title_en": "Carve Designs' online sales growth drives sustainability brand acquisition",
+    "summary_ko": "지속가능성에 중점을 둔 여성 의류 브랜드 Carve Designs가 온라인 매출 성장으로 인수 대상이 되었습니다. 공동 창립자에 따르면 매출 성장의 상당 부분이 상단 퍼널 마케팅을 통해 달성되었습니다. 브랜드 인지도 확산에 집중한 것이 성공 요인으로 작용했습니다.",
+    "summary_en": "Sustainability-focused women's apparel brand Carve Designs became an acquisition target due to strong online sales growth. According to cofounder Thayer Sylvester, much of the sales growth came through top-of-funnel marketing strategies. The brand's focus on building brand awareness proved to be a key success factor.",
+    "so_what_ko": "지속가능성을 앞세운 D2C 브랜드들이 상단 퍼널 마케팅과 브랜드 인지도 구축을 통해 성공적인 성장과 인수 가치를 창출할 수 있음을 보여줍니다.",
+    "so_what_en": "Demonstrates that sustainability-focused D2C brands can achieve successful growth and acquisition value through top-funnel marketing and brand awareness building strategies.",
     "key_points": [
-      "Agencies using creators as testing environments for campaigns",
-      "Real-time campaign adaptation and pressure-testing capabilities",
-      "SharkNinja case study with Horizon Media's Blue Hour Studios"
+      "Sustainability-focused women's apparel brand achieved strong online growth",
+      "Top-of-funnel marketing was key driver of sales growth",
+      "Brand awareness building led to acquisition opportunity"
     ],
     "tags": [
-      "creator-marketing",
-      "campaign-testing",
-      "agency-innovation"
+      "sustainability",
+      "d2c-brand",
+      "acquisition",
+      "marketing-strategy"
     ],
     "confidence": 0.6,
-    "strategic_theme": "AI_MARKETING",
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Carve Designs",
+      "Thayer Sylvester",
+      "Jennifer Hinton"
+    ],
+    "one_line_insight_ko": "지속가능성과 브랜드 인지도 중심의 D2C 전략이 인수 가치 창출로 이어질 수 있습니다.",
+    "one_line_insight_en": "Sustainability-focused D2C strategies combined with brand awareness can create acquisition value.",
+    "ai_processed": true
+  },
+  {
+    "title": "Colgate-Palmolive syndicates product data across sellers",
+    "link": "https://www.digitalcommerce360.com/2026/04/27/colgate-palmolive-product-data-syndication/",
+    "date_published": "2026-04-27",
+    "description": "Colgate-Palmolive has begun syndicating its product-related content to multiple retailers’ ecommerce websites. The push is part of an effort to standardize what shoppers see when they decide what to buy. The consumer brand manufacturer did not want to distribute content to individual retailers manually. It wanted to distribute its product content — which can vary […]\nThe post Colgate-Palmolive syndicates product data across sellers appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.6,
+    "relevance_label": "high",
+    "title_en": "Colgate-Palmolive standardizes product data across multiple retail channels",
+    "summary_ko": "콜게이트 팜올리브가 여러 리테일러의 이커머스 웹사이트에 제품 관련 콘텐츠를 신디케이션하기 시작했습니다. 소비자들이 구매 결정을 내릴 때 보는 정보를 표준화하려는 노력의 일환입니다. 개별 리테일러에게 수동으로 콘텐츠를 배포하지 않고 제품 콘텐츠를 일괄 배포하고자 했습니다.",
+    "summary_en": "Colgate-Palmolive began syndicating product-related content across multiple retailers' ecommerce websites. This effort aims to standardize what shoppers see when making purchase decisions. The company wanted to avoid manually distributing content to individual retailers and instead distribute product content systematically.",
+    "so_what_ko": "대형 브랜드의 제품 데이터 표준화 및 신디케이션 전략은 D2C 브랜드들도 멀티채널 일관성 확보를 위해 고려해야 할 중요한 운영 방식입니다.",
+    "so_what_en": "Large brand's product data standardization and syndication strategy represents an important operational approach that D2C brands should consider for multi-channel consistency.",
+    "key_points": [
+      "Automated product content syndication across multiple retail channels",
+      "Focus on standardizing shopper experience across touchpoints",
+      "Elimination of manual content distribution to individual retailers"
+    ],
+    "tags": [
+      "product-data",
+      "syndication",
+      "multi-channel",
+      "standardization"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "DATA_STRATEGY",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Horizon Media",
-      "Blue Hour Studios",
-      "SharkNinja"
+      "Colgate-Palmolive"
     ],
-    "one_line_insight_ko": "크리에이터를 활용한 캠페인 테스트 랩은 D2C 브랜드의 시장 진입 리스크를 크게 줄일 수 있는 전략적 도구다.",
-    "one_line_insight_en": "Creator-based campaign testing labs represent a strategic tool to significantly reduce market entry risks for D2C brands.",
+    "one_line_insight_ko": "제품 데이터의 체계적 신디케이션이 멀티채널 브랜드 경험의 핵심 요소로 부상하고 있습니다.",
+    "one_line_insight_en": "Systematic product data syndication is emerging as a key element of multi-channel brand experience.",
     "ai_processed": true
   },
   {
-    "title": "At 55, Email Is Vital for Marketers",
-    "link": "https://www.practicalecommerce.com/email-at-55-is-vital-for-marketers",
-    "date_published": "2026-04-26",
-    "description": "A direct connection with prospects is key in an AI world, where traditional acquisition channels are changing. \nThe post At 55, Email Is Vital for Marketers appeared first on Practical Ecommerce.",
-    "source_id": "practical_ecommerce",
-    "source_name": "Practical Ecommerce",
-    "source_url": "https://www.practicalecommerce.com/feed",
+    "title": "Albertsons injects fresh retail media data into YouTube advertising",
+    "link": "https://www.marketingdive.com/news/albertsons-injects-fresh-retail-media-data-into-youtube-advertising/818548/",
+    "date_published": "2026-04-27",
+    "description": "Display & Video 360 struck a similar pact with Kroger, an Albertsons rival, in March as more brands chase high-intent CTV audiences over raw scale.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
     "categories": [
-      "marketing",
-      "commerce"
+      "marketing"
     ],
-    "relevance_score": 0.6,
+    "relevance_score": 0.8,
     "relevance_label": "high",
-    "title_en": "Email Marketing Remains Vital at 55 in AI-Driven Commerce Era",
-    "summary_ko": "이메일 마케팅이 탄생 55년이 지난 현재에도 마케터들에게 여전히 핵심적인 역할을 하고 있다. AI가 변화시키는 세상에서 전통적인 고객 획득 채널이 변화하고 있어 잠재 고객과의 직접적인 연결이 더욱 중요해졌다. 이메일은 AI 시대에도 변함없이 가치 있는 마케팅 도구로 자리잡고 있다.",
-    "summary_en": "Email marketing continues to play a crucial role for marketers 55 years after its inception. As AI transforms traditional customer acquisition channels, direct connections with prospects have become increasingly important. Email remains a consistently valuable marketing tool even in the AI era.",
-    "so_what_ko": "LG D2C는 AI 시대에 변화하는 고객 획득 환경에서 이메일 마케팅의 직접적 연결 가치를 재평가하고 강화해야 한다.",
-    "so_what_en": "LG D2C should reassess and strengthen the direct connection value of email marketing in the changing customer acquisition landscape of the AI era.",
+    "title_en": "Albertsons leverages retail media data for enhanced YouTube advertising",
+    "summary_ko": "Albertsons가 YouTube 광고에 새로운 리테일 미디어 데이터를 활용하기 시작했습니다. Display & Video 360은 3월에 Albertsons의 경쟁사인 Kroger와도 유사한 파트너십을 체결했습니다. 더 많은 브랜드들이 단순한 규모보다는 높은 구매 의도를 가진 CTV 오디언스를 추구하고 있습니다.",
+    "summary_en": "Albertsons began injecting fresh retail media data into YouTube advertising campaigns. Display & Video 360 struck a similar partnership with Kroger, an Albertsons rival, in March. More brands are chasing high-intent CTV audiences over raw scale.",
+    "so_what_ko": "리테일 미디어 데이터와 CTV 플랫폼의 결합은 D2C 브랜드들에게 고도로 타겟팅된 광고 기회를 제공하며, 구매 의도가 높은 오디언스에 집중할 수 있게 합니다.",
+    "so_what_en": "Integration of retail media data with CTV platforms offers D2C brands highly targeted advertising opportunities, enabling focus on high-intent audiences over broad reach.",
     "key_points": [
-      "Email marketing maintains vital importance after 55 years",
-      "Direct customer connections become crucial as AI changes acquisition channels",
-      "Traditional acquisition methods evolving in AI-driven world"
+      "Integration of retail media data with YouTube advertising platform",
+      "Shift from raw scale to high-intent CTV audience targeting",
+      "Major grocery retailers partnering with Google's advertising platforms"
     ],
     "tags": [
-      "email-marketing",
-      "customer-acquisition",
-      "ai-impact"
+      "retail-media",
+      "ctv-advertising",
+      "youtube",
+      "audience-targeting"
     ],
-    "confidence": 0.5,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "confidence": 0.8,
+    "strategic_theme": "AI_MARKETING",
     "regions": [
-      "GLOBAL"
+      "AMER"
     ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Email Marketing"
+      "Albertsons",
+      "YouTube",
+      "Display & Video 360",
+      "Kroger"
     ],
-    "one_line_insight_ko": "AI 시대에도 이메일은 고객과의 직접적 연결이라는 고유 가치로 마케팅의 핵심 도구로 남을 것이다.",
-    "one_line_insight_en": "Even in the AI era, email will remain a core marketing tool due to its unique value of direct customer connection.",
+    "one_line_insight_ko": "리테일 미디어와 CTV의 융합이 고의도 오디언스 타겟팅의 새로운 표준을 만들고 있습니다.",
+    "one_line_insight_en": "The convergence of retail media and CTV is creating new standards for high-intent audience targeting.",
     "ai_processed": true
   },
   {
-    "title": "Marketers join OpenAI’s ad pilot, nudged by FOMO",
-    "link": "https://digiday.com/marketing/marketers-join-openais-ad-pilot-nudged-by-fomo/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-04-27",
-    "description": "Weeks into the offering going live, it’s unclear if the tech company’s ad platform offers real value to marketers.",
+    "title": "How Netflix is rewriting the streaming ad playbook",
+    "link": "https://digiday.com/podcasts/how-netflix-is-rewriting-the-streaming-ad-playbook/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-04-28",
+    "description": "Netflix is thriving on third-party DSPs, raising a critical question: Can the streaming giant afford to pursue its own adtech platform?",
     "source_id": "digiday",
     "source_name": "Digiday",
     "source_url": "https://digiday.com/feed",
@@ -98,109 +147,25 @@
       "marketing",
       "tech"
     ],
-    "relevance_score": 0.8,
+    "relevance_score": 0.7,
     "relevance_label": "high",
-    "title_en": "Marketers Join OpenAI's Ad Platform Pilot Despite Unclear Value Proposition",
-    "summary_ko": "마케터들이 FOMO(놓칠 것에 대한 두려움)에 이끌려 OpenAI의 광고 파일럿 프로그램에 참여하고 있다. 서비스 출시 몇 주 후에도 OpenAI의 광고 플랫폼이 마케터들에게 실질적인 가치를 제공하는지는 불분명하다. 기술 회사의 광고 플랫폼 진입에 대한 마케터들의 반응은 기대와 의구심이 혼재되어 있다.",
-    "summary_en": "Marketers are joining OpenAI's ad pilot program driven by FOMO (fear of missing out). Weeks after the offering went live, it remains unclear whether OpenAI's ad platform offers real value to marketers. Marketer responses to the tech company's entry into advertising platforms show a mix of anticipation and skepticism.",
-    "so_what_ko": "LG D2C는 새로운 AI 광고 플랫폼 도입 시 FOMO 대신 명확한 ROI와 가치 검증에 기반한 신중한 접근이 필요하다.",
-    "so_what_en": "LG D2C needs a cautious approach based on clear ROI and value validation rather than FOMO when adopting new AI advertising platforms.",
+    "title_en": "Netflix challenges traditional adtech with third-party DSP success",
+    "summary_ko": "Netflix가 서드파티 DSP에서 성공을 거두면서 스트리밍 광고 플레이북을 새로 쓰고 있습니다. 이러한 성공은 중요한 질문을 제기합니다. Netflix가 자체 애드테크 플랫폼 구축을 추진할 여유가 있는가에 대한 것입니다. 스트리밍 자이언트의 광고 전략이 업계 표준을 재정의하고 있습니다.",
+    "summary_en": "Netflix is rewriting the streaming advertising playbook through success with third-party DSPs. This success raises a critical question about whether the streaming giant can afford to pursue its own adtech platform. The streaming giant's advertising strategy is redefining industry standards.",
+    "so_what_ko": "Netflix의 서드파티 DSP 성공 사례는 D2C 브랜드들이 자체 플랫폼 구축보다 기존 인프라 활용을 통해 더 효과적인 광고 전략을 구축할 수 있음을 시사합니다.",
+    "so_what_en": "Netflix's third-party DSP success suggests D2C brands can build more effective advertising strategies by leveraging existing infrastructure rather than building proprietary platforms.",
     "key_points": [
-      "OpenAI launches advertising platform pilot program",
-      "Marketers joining driven by FOMO rather than proven value",
-      "Unclear value proposition weeks after platform launch"
+      "Netflix achieving success through third-party DSP partnerships",
+      "Questions emerging about need for proprietary adtech platform development",
+      "Streaming advertising strategies reshaping industry standards"
     ],
     "tags": [
-      "openai",
-      "advertising-platform",
-      "pilot-program"
+      "streaming-advertising",
+      "dsp",
+      "adtech",
+      "platform-strategy"
     ],
     "confidence": 0.7,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "OpenAI"
-    ],
-    "one_line_insight_ko": "AI 거대 기술 기업의 광고 플랫폼 진입은 기대감은 크지만 실제 마케팅 가치는 아직 검증되지 않았다.",
-    "one_line_insight_en": "Big tech AI companies entering advertising platforms generate high expectations but actual marketing value remains unproven.",
-    "ai_processed": true
-  },
-  {
-    "title": "Why credit card rate caps hurt consumers, small businesses",
-    "link": "https://www.paymentsdive.com/news/why-credit-card-rate-caps-hurt-consumers-small-businesses/818381/",
-    "date_published": "2026-04-24",
-    "description": "“Affordability is not just about the cost of credit,\" a former Treasury official writes. \"It is about whether credit is available at all.”",
-    "source_id": "payments_dive",
-    "source_name": "Payments Dive",
-    "source_url": "https://www.paymentsdive.com/feeds/news/",
-    "categories": [
-      "commerce"
-    ],
-    "relevance_score": 0.4,
-    "relevance_label": "high",
-    "title_en": "Credit Card Rate Caps May Hurt Consumer Access and Small Business Growth",
-    "summary_ko": "신용카드 금리 상한제가 소비자와 소상공인에게 오히려 해를 끼칠 수 있다는 주장이 제기됐다. 전 재무부 관리는 경제성이 신용 비용뿐만 아니라 신용 가용성 자체에 관한 것이라고 강조했다. 금리 규제가 신용 접근성을 제한할 수 있다는 우려가 커지고 있다.",
-    "summary_en": "Arguments emerge that credit card rate caps could harm consumers and small businesses. A former Treasury official emphasized that affordability is not just about credit costs but about credit availability itself. Concerns are growing that interest rate regulations could limit credit accessibility.",
-    "so_what_ko": "LG D2C의 결제 전략에서 금리 규제 변화가 고객의 신용 접근성에 미치는 영향을 모니터링하고 대안적 결제 옵션을 준비해야 한다.",
-    "so_what_en": "LG D2C should monitor how interest rate regulation changes affect customer credit accessibility and prepare alternative payment options.",
-    "key_points": [
-      "Credit card rate caps potentially harmful to consumers and small businesses",
-      "Affordability concerns extend beyond costs to credit availability",
-      "Regulatory changes may restrict credit access"
-    ],
-    "tags": [
-      "credit-regulation",
-      "payment-policy",
-      "small-business"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "Treasury Department"
-    ],
-    "one_line_insight_ko": "신용 규제 강화는 의도와 달리 고객의 결제 접근성을 제한해 D2C 비즈니스에 부정적 영향을 미칠 수 있다.",
-    "one_line_insight_en": "Stricter credit regulations may unintentionally limit customer payment accessibility, negatively impacting D2C business.",
-    "ai_processed": true
-  },
-  {
-    "title": "What drives real-time payment growth",
-    "link": "https://www.paymentsdive.com/news/what-drives-real-time-payment-growth/818387/",
-    "date_published": "2026-04-24",
-    "description": "Corporations adopt faster digital payments based on their priorities and the rise of digital assets, an HSBC payments executive said.",
-    "source_id": "payments_dive",
-    "source_name": "Payments Dive",
-    "source_url": "https://www.paymentsdive.com/feeds/news/",
-    "categories": [
-      "commerce",
-      "tech"
-    ],
-    "relevance_score": 0.5,
-    "relevance_label": "high",
-    "title_en": "Corporate Priorities and Digital Assets Drive Real-Time Payment Adoption",
-    "summary_ko": "기업들이 실시간 결제를 도입하는 것은 그들의 우선순위와 디지털 자산의 부상에 기반한다고 HSBC 결제 임원이 밝혔다. 기업들이 더 빠른 디지털 결제를 채택하는 동력은 비즈니스 우선순위와 밀접하게 연결되어 있다. 실시간 결제 성장의 핵심 요인으로 디지털 자산의 역할이 부각되고 있다.",
-    "summary_en": "Corporations adopt real-time payments based on their priorities and the rise of digital assets, according to an HSBC payments executive. Corporate adoption of faster digital payments is closely linked to business priorities. The role of digital assets is emerging as a key factor in real-time payment growth.",
-    "so_what_ko": "LG D2C는 실시간 결제 도입을 고려할 때 비즈니스 우선순위와 디지털 자산 생태계를 종합적으로 평가해야 한다.",
-    "so_what_en": "LG D2C should comprehensively evaluate business priorities and digital asset ecosystems when considering real-time payment adoption.",
-    "key_points": [
-      "Corporate real-time payment adoption driven by business priorities",
-      "Digital assets emergence as key growth factor",
-      "HSBC executive insights on faster payment trends"
-    ],
-    "tags": [
-      "real-time-payments",
-      "digital-assets",
-      "corporate-adoption"
-    ],
-    "confidence": 0.6,
     "strategic_theme": "PLATFORM_ECOSYSTEM",
     "regions": [
       "GLOBAL"
@@ -208,360 +173,307 @@
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "HSBC"
+      "Netflix",
+      "DSP"
     ],
-    "one_line_insight_ko": "실시간 결제 도입은 단순한 기술 업그레이드가 아니라 비즈니스 전략과 디지털 자산 생태계를 고려한 종합적 결정이어야 한다.",
-    "one_line_insight_en": "Real-time payment adoption should be a comprehensive decision considering business strategy and digital asset ecosystems, not just a technical upgrade.",
+    "one_line_insight_ko": "플랫폼 자체 구축보다 기존 애드테크 생태계 활용이 더 효과적인 전략일 수 있습니다.",
+    "one_line_insight_en": "Leveraging existing adtech ecosystems may be more effective than building proprietary platforms.",
     "ai_processed": true
   },
   {
-    "title": "AIE Europe Debrief + Agent Labs Thesis: Unsupervised Learning x Latent Space Crossover Special (2026)",
-    "link": "https://www.latent.space/p/unsupervised-learning-2026",
-    "date_published": "2026-04-23",
-    "description": "Note: This episode was recorded just after AIE Europe, but before the Cursor-xAI deal.",
-    "source_id": "latent_space",
-    "source_name": "Latent Space (The AI Index)",
-    "source_url": "https://www.latent.space/feed",
+    "title": "Quip’s latest ad wasn’t AI-generated. People were convinced it was",
+    "link": "https://www.modernretail.co/marketing/quips-latest-ad-wasnt-ai-generated-people-were-convinced-it-was/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-04-28",
+    "description": "Quip’s latest ad was entirely human-made, but it still received social media comments from people who assumed it was generated with AI. Here's how the brand responded.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
     "categories": [
-      "tech"
+      "marketing",
+      "strategy"
     ],
-    "relevance_score": 0.6,
+    "relevance_score": 0.8,
     "relevance_label": "high",
-    "title_en": "AIE Europe Debrief Explores 2026 AI Unsupervised Learning Trends",
-    "summary_ko": "AIE Europe 이후 녹음된 에피소드에서 2026년 AI 무감독 학습과 잠재 공간의 교차점을 탐구합니다. Agent Labs의 논제와 함께 AI 발전 방향을 논의합니다. Cursor-xAI 거래 이전 시점의 관점을 제시합니다.",
-    "summary_en": "Episode recorded after AIE Europe explores 2026 AI unsupervised learning and latent space crossover trends. Discusses Agent Labs thesis alongside AI development directions. Provides perspective from before the Cursor-xAI deal.",
-    "so_what_ko": "D2C 기업은 무감독 학습 기술의 발전이 고객 행동 예측과 개인화에 미칠 영향을 모니터링해야 합니다.",
-    "so_what_en": "D2C companies should monitor how unsupervised learning advances will impact customer behavior prediction and personalization capabilities.",
+    "title_en": "Quip's human-made ad mistaken for AI sparks authenticity debate",
+    "summary_ko": "Quip의 최신 광고는 완전히 사람이 제작했지만, AI로 생성되었다고 가정하는 소셜 미디어 댓글을 받았습니다. 이 브랜드는 이러한 반응에 어떻게 대응했는지를 공개했습니다. 인공지능과 인간 창작물의 경계가 모호해지면서 브랜드 커뮤니케이션에 새로운 도전이 제기되고 있습니다.",
+    "summary_en": "Quip's latest advertisement was entirely human-made but received social media comments from people who assumed it was AI-generated. The brand has revealed how it responded to these reactions. The blurring line between AI and human-created content presents new challenges for brand communication.",
+    "so_what_ko": "AI 기술의 발전으로 소비자들이 브랜드 콘텐츠의 진정성을 의심하기 시작했으며, D2C 브랜드들은 창작 과정의 투명성을 강조하는 커뮤니케이션 전략이 필요합니다.",
+    "so_what_en": "As AI technology advances, consumers are questioning brand content authenticity, requiring D2C brands to develop communication strategies emphasizing creative process transparency.",
     "key_points": [
-      "AIE Europe conference insights on 2026 AI trends",
-      "Focus on unsupervised learning and latent space developments",
-      "Agent Labs thesis discussion",
-      "Pre-Cursor-xAI deal market perspective"
+      "Human-created content mistaken for AI-generated material",
+      "Consumer skepticism about content authenticity increasing",
+      "Brands need strategies to address AI perception challenges"
     ],
     "tags": [
-      "unsupervised-learning",
-      "latent-space",
-      "ai-agents",
-      "machine-learning"
+      "content-authenticity",
+      "ai-perception",
+      "brand-communication",
+      "consumer-trust"
     ],
-    "confidence": 0.6,
-    "strategic_theme": "EMERGING_TECH",
+    "confidence": 0.8,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
     "regions": [
-      "EMEA",
       "GLOBAL"
     ],
     "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
+    "sentiment": "THREAT",
     "key_entities": [
-      "AIE Europe",
-      "Agent Labs",
-      "Cursor",
-      "xAI"
+      "Quip"
     ],
-    "one_line_insight_ko": "무감독 학습의 발전이 2026년 AI 에이전트의 자율성과 효율성을 크게 향상시킬 것으로 전망됩니다.",
-    "one_line_insight_en": "Advances in unsupervised learning are expected to significantly enhance AI agent autonomy and efficiency in 2026.",
+    "one_line_insight_ko": "AI 시대에 브랜드는 콘텐츠 진정성에 대한 소비자 의구심에 선제적으로 대응해야 합니다.",
+    "one_line_insight_en": "In the AI era, brands must proactively address consumer skepticism about content authenticity.",
     "ai_processed": true
   },
   {
-    "title": "[AINews] Tasteful Tokenmaxxing",
-    "link": "https://www.latent.space/p/ainews-tasteful-tokenmaxxing",
-    "date_published": "2026-04-23",
-    "description": "a quiet day lets us reflect on the top conversation that AI leaders are having everywhere.",
-    "source_id": "latent_space",
-    "source_name": "Latent Space (The AI Index)",
-    "source_url": "https://www.latent.space/feed",
+    "title": "How Urban Outfitters co-creates campaigns with Gen Z",
+    "link": "https://www.modernretail.co/marketing/how-urban-outfitters-co-creates-campaigns-with-gen-z/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-04-28",
+    "description": "Urban Outfitters likes to say it doesn't just create campaigns with Gen Z -- it also produces campaigns with them. UO's Cyntia Leo shares how the brand does exactly that.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
     "categories": [
-      "tech",
-      "strategy"
+      "marketing"
     ],
     "relevance_score": 0.7,
     "relevance_label": "high",
-    "title_en": "AI Leaders Focus on Token Optimization Strategies",
-    "summary_ko": "AI 업계 리더들 사이에서 토큰 최적화에 대한 논의가 활발히 진행되고 있습니다. 조용한 날을 통해 주요 AI 대화 주제를 성찰하는 시간을 가집니다. 효율적인 토큰 활용이 핵심 관심사로 부상하고 있습니다.",
-    "summary_en": "Active discussions on token optimization are happening among AI industry leaders. A quiet day provides time to reflect on top AI conversation topics. Efficient token utilization is emerging as a key concern.",
-    "so_what_ko": "토큰 효율성은 AI 기반 고객 서비스와 개인화 비용을 직접적으로 좌우하므로 D2C 기업의 주요 고려사항입니다.",
-    "so_what_en": "Token efficiency directly impacts AI-powered customer service and personalization costs, making it a key consideration for D2C companies.",
+    "title_en": "Urban Outfitters Co-Creates Marketing Campaigns with Gen Z Consumers",
+    "summary_ko": "어반 아웃피터스가 Z세대와 함께 마케팅 캠페인을 공동 제작하는 방식을 공유했습니다. 브랜드는 단순히 Z세대를 위한 캠페인이 아닌, Z세대와 함께 만드는 캠페인을 추구한다고 밝혔습니다. UO의 신시아 레오가 이러한 협업 방식의 구체적인 방법론을 설명했습니다.",
+    "summary_en": "Urban Outfitters shared how it co-creates marketing campaigns with Gen Z consumers rather than just creating campaigns for them. The brand emphasizes collaborative campaign development that involves Gen Z participation throughout the process. UO's Cyntia Leo explained the specific methodologies behind this collaborative approach.",
+    "so_what_ko": "Z세대 고객과의 진정한 협업을 통한 캠페인 제작은 브랜드 진정성을 높이고 고객 참여도를 극대화할 수 있는 전략입니다.",
+    "so_what_en": "Co-creating campaigns with Gen Z customers can maximize brand authenticity and customer engagement, offering a blueprint for deeper consumer collaboration.",
     "key_points": [
-      "Token optimization as top AI leadership concern",
-      "Industry-wide focus on efficiency improvements",
-      "Reflection on current AI conversation trends"
+      "Urban Outfitters co-creates campaigns with Gen Z rather than just for them",
+      "Brand emphasizes collaborative approach to marketing campaign development",
+      "Strategy focuses on authentic engagement with target demographic"
     ],
     "tags": [
-      "token-optimization",
-      "ai-efficiency",
-      "cost-management"
+      "gen-z-marketing",
+      "co-creation",
+      "brand-collaboration"
     ],
-    "confidence": 0.7,
-    "strategic_theme": "DATA_STRATEGY",
+    "confidence": 0.6,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
     "regions": [
-      "GLOBAL"
+      "AMER"
     ],
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "AI leaders",
-      "token optimization"
+      "Urban Outfitters",
+      "Gen Z",
+      "Cyntia Leo"
     ],
-    "one_line_insight_ko": "토큰 최적화는 AI 서비스의 경제성을 결정하는 핵심 경쟁 요소로 자리잡고 있습니다.",
-    "one_line_insight_en": "Token optimization is becoming a critical competitive factor determining AI service economics.",
+    "one_line_insight_ko": "Z세대와의 협업적 캠페인 제작은 브랜드 진정성과 고객 참여도를 동시에 높이는 효과적인 마케팅 전략이다.",
+    "one_line_insight_en": "Co-creating campaigns with Gen Z delivers both brand authenticity and enhanced customer engagement as an effective marketing strategy.",
     "ai_processed": true
   },
   {
-    "title": "Introducing GPT-5.5",
-    "link": "https://openai.com/index/introducing-gpt-5-5",
-    "date_published": "2026-04-23",
-    "description": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
-    "source_id": "openai_blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
+    "title": "New awards program: Next Gen Store Awards open for entries",
+    "link": "https://www.modernretail.co/announcement/new-awards-program-next-gen-store-awards-open-for-entries/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-04-28",
+    "description": "New from Modern Retail, the Next Gen Store Awards are designed to celebrate the innovations reshaping the modern in-store experience.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
     "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.6,
+    "relevance_label": "high",
+    "title_en": "Modern Retail Launches Next Gen Store Awards for Retail Innovation",
+    "summary_ko": "모던 리테일이 현대적 매장 내 경험을 혁신하는 기업들을 표창하는 Next Gen Store Awards를 새롭게 출범시켰습니다. 이 어워드는 매장 경험을 재정의하는 혁신 사례들을 발굴하고 축하하기 위해 설계되었습니다. 현재 응모작을 접수받고 있는 상황입니다.",
+    "summary_en": "Modern Retail launched the Next Gen Store Awards to celebrate companies innovating the modern in-store experience. The awards program is designed to identify and honor innovations that are reshaping retail store experiences. Entry submissions are currently being accepted for the new program.",
+    "so_what_ko": "매장 혁신에 대한 업계 관심도가 높아지고 있어, LG D2C도 혁신적인 매장 경험 개발에 더욱 주력해야 합니다.",
+    "so_what_en": "Growing industry focus on store innovation suggests LG D2C should prioritize developing innovative in-store experiences to stay competitive.",
+    "key_points": [
+      "New awards program focuses on in-store experience innovation",
+      "Modern Retail launching Next Gen Store Awards",
+      "Program celebrates reshaping of modern retail environments"
+    ],
+    "tags": [
+      "retail-innovation",
+      "store-experience",
+      "awards-program"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Modern Retail",
+      "Next Gen Store Awards"
+    ],
+    "one_line_insight_ko": "매장 혁신에 대한 업계 인식 확산은 차별화된 오프라인 경험 개발의 중요성을 부각시킨다.",
+    "one_line_insight_en": "Growing industry recognition of store innovation highlights the importance of developing differentiated offline experiences.",
+    "ai_processed": true
+  },
+  {
+    "title": "GenAI Citations, Explained",
+    "link": "https://www.practicalecommerce.com/genai-citations-explained",
+    "date_published": "2026-04-27",
+    "description": "A GEO strategy should focus on getting cited while also building a brand known for reliable problem-solving.\nThe post GenAI Citations, Explained appeared first on Practical Ecommerce.",
+    "source_id": "practical_ecommerce",
+    "source_name": "Practical Ecommerce",
+    "source_url": "https://www.practicalecommerce.com/feed",
+    "categories": [
+      "marketing",
       "tech"
     ],
     "relevance_score": 0.8,
     "relevance_label": "high",
-    "title_en": "OpenAI Launches GPT-5.5, Its Most Advanced Model for Complex Tasks",
-    "summary_ko": "OpenAI가 지금까지 가장 스마트한 모델인 GPT-5.5를 출시했습니다. 더 빠르고 강력한 성능으로 코딩, 연구, 데이터 분석 등 복잡한 작업에 특화되었습니다. 다양한 도구와의 통합을 통해 향상된 기능을 제공합니다.",
-    "summary_en": "OpenAI launched GPT-5.5, its smartest model to date. Features faster and more capable performance specialized for complex tasks like coding, research, and data analysis. Offers enhanced capabilities through integration with various tools.",
-    "so_what_ko": "GPT-5.5의 향상된 성능은 D2C 기업의 고객 서비스 자동화와 데이터 분석 능력을 크게 개선할 수 있습니다.",
-    "so_what_en": "GPT-5.5's enhanced capabilities can significantly improve D2C companies' customer service automation and data analysis capabilities.",
+    "title_en": "GenAI Citations Strategy for E-commerce Brand Authority",
+    "summary_ko": "생성형 AI 인용 전략이 이커머스 브랜드 구축에 중요한 역할을 하고 있습니다. GEO 전략은 인용을 확보하는 동시에 신뢰할 수 있는 문제해결 브랜드로 인식되는 것에 초점을 맞춰야 합니다. 생성형 AI 환경에서 브랜드 권위를 구축하는 새로운 접근법이 필요합니다.",
+    "summary_en": "Generative AI citation strategies are playing a crucial role in e-commerce brand building. GEO strategy should focus on securing citations while building recognition as a reliable problem-solving brand. New approaches are needed to establish brand authority in the generative AI environment.",
+    "so_what_ko": "생성형 AI가 정보 검색을 주도하는 환경에서 브랜드가 신뢰할 수 있는 정보원으로 인식되도록 하는 전략이 필수적입니다.",
+    "so_what_en": "In an environment where generative AI dominates information search, strategies to position brands as trusted information sources are essential.",
     "key_points": [
-      "GPT-5.5 released as OpenAI's most advanced model",
-      "Optimized for complex tasks including coding and research",
-      "Enhanced tool integration capabilities",
-      "Faster performance compared to previous versions"
+      "GenAI citations becoming important for e-commerce brand authority",
+      "GEO strategy should focus on citations and reliable problem-solving reputation",
+      "New approaches needed for brand authority in AI-driven search environment"
     ],
     "tags": [
-      "gpt-5-5",
-      "language-models",
-      "ai-advancement",
-      "openai"
-    ],
-    "confidence": 0.9,
-    "strategic_theme": "EMERGING_TECH",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "OpenAI",
-      "GPT-5.5"
-    ],
-    "one_line_insight_ko": "GPT-5.5는 복잡한 비즈니스 태스크 자동화의 새로운 가능성을 열어줍니다.",
-    "one_line_insight_en": "GPT-5.5 opens new possibilities for automating complex business tasks.",
-    "ai_processed": true
-  },
-  {
-    "title": "GPT-5.5 System Card",
-    "link": "https://openai.com/index/gpt-5-5-system-card",
-    "date_published": "2026-04-23",
-    "description": "",
-    "source_id": "openai_blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
-    "categories": [
-      "tech"
-    ],
-    "relevance_score": 0.6,
-    "relevance_label": "high",
-    "title_en": "OpenAI Releases GPT-5.5 System Card Documentation",
-    "summary_ko": "OpenAI가 GPT-5.5 시스템 카드를 공개했습니다. 모델의 기술적 세부사항과 안전성 평가를 포함한 공식 문서입니다. 투명성과 책임감 있는 AI 개발을 위한 정보를 제공합니다.",
-    "summary_en": "OpenAI released the GPT-5.5 System Card documentation. Official documentation includes technical details and safety assessments of the model. Provides information for transparent and responsible AI development.",
-    "so_what_ko": "시스템 카드를 통한 투명성은 D2C 기업이 AI 도구 도입 시 리스크 평가와 규정 준수를 지원합니다.",
-    "so_what_en": "Transparency through system cards helps D2C companies assess risks and ensure compliance when adopting AI tools.",
-    "key_points": [
-      "Official GPT-5.5 system documentation released",
-      "Includes technical specifications and safety assessments",
-      "Supports transparent AI development practices"
-    ],
-    "tags": [
-      "gpt-5-5",
-      "system-card",
-      "ai-safety",
-      "documentation"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "DATA_STRATEGY",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "OpenAI",
-      "GPT-5.5",
-      "System Card"
-    ],
-    "one_line_insight_ko": "AI 모델의 투명한 문서화는 기업의 책임감 있는 AI 도입을 가능하게 합니다.",
-    "one_line_insight_en": "Transparent AI model documentation enables responsible AI adoption for enterprises.",
-    "ai_processed": true
-  },
-  {
-    "title": "AWS Bets on Frontier Agents as the Next Era of Enterprise AI",
-    "link": "https://aibusiness.com/agentic-ai/aws-bets-frontier-agents-as-next-era-enterprise-ai",
-    "date_published": "2026-04-23",
-    "description": "The tech giant is positioning autonomous, long-running agents as the next defining shift in enterprise AI.",
-    "source_id": "ai_business",
-    "source_name": "AI Business",
-    "source_url": "https://aibusiness.com/rss.xml",
-    "categories": [
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.9,
-    "relevance_label": "high",
-    "title_en": "AWS Positions Frontier Agents as Next Enterprise AI Revolution",
-    "summary_ko": "AWS가 자율적이고 장기 실행되는 에이전트를 기업 AI의 차세대 핵심 변화로 포지셔닝하고 있습니다. 프론티어 에이전트 기술에 대규모 투자를 진행하고 있습니다. 엔터프라이즈 AI 시장의 새로운 패러다임 전환을 주도하려 합니다.",
-    "summary_en": "AWS is positioning autonomous, long-running agents as the next defining shift in enterprise AI. Making significant investments in frontier agent technology. Leading a new paradigm shift in the enterprise AI market.",
-    "so_what_ko": "AWS의 에이전트 전략은 D2C 기업의 고객 여정 자동화와 운영 효율성 향상에 새로운 기회를 제공합니다.",
-    "so_what_en": "AWS's agent strategy provides new opportunities for D2C companies to automate customer journeys and improve operational efficiency.",
-    "key_points": [
-      "AWS betting on autonomous frontier agents",
-      "Focus on long-running enterprise AI applications",
-      "Positioning as next major enterprise AI shift",
-      "Investment in advanced agent technologies"
-    ],
-    "tags": [
-      "aws",
-      "frontier-agents",
-      "enterprise-ai",
-      "autonomous-agents"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "AWS",
-      "Frontier Agents"
-    ],
-    "one_line_insight_ko": "자율 에이전트는 엔터프라이즈 AI의 다음 혁신 물결을 이끌 핵심 기술로 부상하고 있습니다.",
-    "one_line_insight_en": "Autonomous agents are emerging as the key technology driving the next wave of enterprise AI innovation.",
-    "ai_processed": true
-  },
-  {
-    "title": "Microsoft to Spend $18B on AI Infrastructure in Australia",
-    "link": "https://aibusiness.com/generative-ai/microsoft-spend-18b-ai-infrastructure-australia",
-    "date_published": "2026-04-23",
-    "description": "The planned outlay comes after the tech giant recently made significant AI investments in Asia.",
-    "source_id": "ai_business",
-    "source_name": "AI Business",
-    "source_url": "https://aibusiness.com/rss.xml",
-    "categories": [
-      "tech"
-    ],
-    "relevance_score": 0.6,
-    "relevance_label": "high",
-    "title_en": "Microsoft to Invest $18B in AI Infrastructure Expansion Across Australia",
-    "summary_ko": "마이크로소프트가 호주에 180억 달러 규모의 AI 인프라 투자를 계획한다고 발표했습니다. 이는 아시아 지역에서의 대규모 AI 투자에 이어지는 후속 조치입니다. 글로벌 테크 기업들의 AI 인프라 확장 경쟁이 아시아태평양 지역으로 확산되고 있습니다.",
-    "summary_en": "Microsoft announced plans to invest $18 billion in AI infrastructure development across Australia. This follows the tech giant's recent significant AI investments throughout the Asia region. The move represents the expansion of global tech companies' AI infrastructure competition into the Asia-Pacific region.",
-    "so_what_ko": "글로벌 AI 인프라 투자 확대로 APAC 지역의 AI 서비스 접근성과 품질이 향상될 것으로 예상되며, LG D2C는 향상된 AI 서비스를 활용한 고객 경험 개선 기회를 모색해야 합니다.",
-    "so_what_en": "The expansion of global AI infrastructure investment will improve AI service accessibility and quality in APAC, creating opportunities for LG D2C to leverage enhanced AI services for customer experience improvements.",
-    "key_points": [
-      "$18 billion investment in Australian AI infrastructure",
-      "Part of Microsoft's broader Asia AI investment strategy",
-      "Signals intensifying AI infrastructure competition in APAC"
-    ],
-    "tags": [
-      "ai-infrastructure",
-      "microsoft",
-      "australia",
-      "apac-investment"
+      "genai-citations",
+      "brand-authority",
+      "geo-strategy"
     ],
     "confidence": 0.7,
-    "strategic_theme": "EMERGING_TECH",
+    "strategic_theme": "AI_MARKETING",
     "regions": [
-      "APAC"
+      "GLOBAL"
     ],
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Microsoft",
-      "Australia",
-      "Asia"
+      "GenAI",
+      "GEO"
     ],
-    "one_line_insight_ko": "마이크로소프트의 APAC AI 인프라 투자 확대는 지역 내 AI 서비스 생태계 강화의 신호탄입니다.",
-    "one_line_insight_en": "Microsoft's expanded APAC AI infrastructure investment signals the strengthening of regional AI service ecosystems.",
+    "one_line_insight_ko": "생성형 AI 시대에는 인용 확보를 통한 브랜드 권위 구축이 새로운 마케팅 핵심 전략이 된다.",
+    "one_line_insight_en": "In the generative AI era, building brand authority through citation acquisition becomes a new core marketing strategy.",
     "ai_processed": true
   },
   {
-    "title": "Salesforce Customer Success Awards 2026: Lead Era of the Agentic Enterprise",
-    "link": "https://www.salesforce.com/blog/customer-success-awards/",
-    "date_published": "2026-04-23",
-    "description": "Celebrating the Trailblazers putting Agentforce to work",
-    "source_id": "salesforce_agentforce",
-    "source_name": "Salesforce Agentforce Blog",
-    "source_url": "https://www.salesforce.com/blog/category/ai/feed/",
+    "title": "Why Academy Sports & Outdoors is going against the grain with store openings",
+    "link": "https://www.retaildive.com/news/academy-sports-outdoors-store-opening-strategy-small-regional-markets/818215/",
+    "date_published": "2026-04-27",
+    "description": "Executives touted the retailer’s “outside-in” strategy for new locations, which prioritizes markets that are further away from big cities — and big competitors.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
     "categories": [
-      "agentic_commerce"
+      "strategy",
+      "commerce"
     ],
-    "relevance_score": 0.9,
+    "relevance_score": 0.5,
     "relevance_label": "high",
-    "title_en": "Salesforce Celebrates Customer Success in the Era of Agentic Enterprise with 2026 Awards",
-    "summary_ko": "Salesforce가 2026년 고객 성공상을 통해 Agentforce를 활용하는 기업들을 축하했습니다. 이번 시상식은 에이전틱 엔터프라이즈 시대를 선도하는 트레일블레이저들을 조명했습니다. 기업들이 AI 에이전트를 통해 실질적인 비즈니스 성과를 달성하고 있음을 보여줍니다.",
-    "summary_en": "Salesforce celebrated companies utilizing Agentforce through its 2026 Customer Success Awards. The awards highlighted trailblazers leading the era of agentic enterprise. This demonstrates how businesses are achieving tangible results through AI agent implementations.",
-    "so_what_ko": "에이전틱 엔터프라이즈가 현실화되고 있어 LG D2C도 AI 에이전트를 활용한 고객 서비스와 운영 자동화를 통해 경쟁 우위를 확보해야 합니다.",
-    "so_what_en": "As agentic enterprise becomes reality, LG D2C must leverage AI agents for customer service and operational automation to gain competitive advantages.",
+    "title_en": "Academy Sports Targets Small Markets in Counter-Trend Store Strategy",
+    "summary_ko": "아카데미 스포츠 앤 아웃도어스가 대도시가 아닌 소규모 지역 시장에 매장을 여는 역발상 전략을 추진하고 있습니다. 경영진은 대도시와 주요 경쟁업체로부터 멀리 떨어진 시장을 우선시하는 'outside-in' 전략을 강조했습니다. 이는 업계의 일반적인 매장 확장 트렌드와는 반대되는 접근법입니다.",
+    "summary_en": "Academy Sports & Outdoors is pursuing a counter-trend strategy of opening stores in small regional markets rather than big cities. Executives emphasized their 'outside-in' strategy that prioritizes markets further away from major cities and big competitors. This approach goes against the typical industry trend of store expansion strategies.",
+    "so_what_ko": "경쟁이 치열한 대도시 대신 소외된 지역 시장을 타겟팅하는 전략은 시장 포화 상황에서 새로운 성장 기회를 발굴할 수 있는 방법입니다.",
+    "so_what_en": "Targeting underserved regional markets instead of competitive urban areas can uncover new growth opportunities in saturated market conditions.",
     "key_points": [
-      "Recognition of successful Agentforce implementations",
-      "Focus on agentic enterprise transformation",
-      "Demonstration of tangible AI agent business value"
+      "Academy Sports pursuing 'outside-in' store opening strategy",
+      "Focus on small regional markets away from big cities and competitors",
+      "Counter-trend approach to typical retail expansion strategies"
     ],
     "tags": [
-      "salesforce",
-      "agentforce",
-      "agentic-enterprise",
-      "customer-success"
+      "retail-expansion",
+      "regional-markets",
+      "store-strategy"
     ],
     "confidence": 0.8,
-    "strategic_theme": "AI_AGENT",
+    "strategic_theme": "RETAIL_TRANSFORMATION",
     "regions": [
-      "GLOBAL"
+      "AMER"
     ],
-    "business_impact": "HIGH",
+    "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Salesforce",
-      "Agentforce"
+      "Academy Sports & Outdoors"
     ],
-    "one_line_insight_ko": "에이전틱 엔터프라이즈 시대의 본격 도래로 AI 에이전트 활용이 기업 경쟁력의 핵심 요소가 되고 있습니다.",
-    "one_line_insight_en": "The arrival of the agentic enterprise era makes AI agent utilization a core element of business competitiveness.",
+    "one_line_insight_ko": "포화된 대도시 시장을 피해 소외된 지역을 공략하는 것은 경쟁 우위 확보의 새로운 방법이다.",
+    "one_line_insight_en": "Avoiding saturated urban markets and targeting underserved regions presents a new path to competitive advantage.",
     "ai_processed": true
   },
   {
-    "title": "Visa, Mastercard face new suit over card fees",
-    "link": "https://www.paymentsdive.com/news/visa-mastercard-face-new-suit-over-card-fees/818294/",
-    "date_published": "2026-04-23",
-    "description": "Three plaintiffs say a 2019 settlement in card fee litigation should not give the card networks years of legal immunity for antitrust claims.",
-    "source_id": "payments_dive",
-    "source_name": "Payments Dive",
-    "source_url": "https://www.paymentsdive.com/feeds/news/",
+    "title": "Tractor Supply’s delivery volume jumps as final-mile plan advances",
+    "link": "https://www.retaildive.com/news/tractor-supply-delivery-volume-final-mile-plan-advances/818408/",
+    "date_published": "2026-04-27",
+    "description": "Customers are tapping the retailer's growing capabilities for deliveries involving larger order quantities, Chief Supply Chain Officer Colin Yankee said.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
     "categories": [
       "commerce"
     ],
-    "relevance_score": 0.4,
+    "relevance_score": 0.6,
     "relevance_label": "high",
-    "title_en": "Visa and Mastercard Face Fresh Legal Challenge Over Card Transaction Fees",
-    "summary_ko": "Visa와 Mastercard가 카드 수수료 관련 새로운 소송에 직면했습니다. 세 명의 원고가 2019년 카드 수수료 소송 합의가 카드 네트워크에 수년간의 반독점 법적 면책을 제공해서는 안 된다고 주장했습니다. 결제 산업의 독점적 지위에 대한 법적 도전이 계속되고 있습니다.",
-    "summary_en": "Visa and Mastercard are facing a new lawsuit regarding card transaction fees. Three plaintiffs argue that a 2019 settlement in card fee litigation should not provide the card networks with years of antitrust legal immunity. Legal challenges to the payment industry's monopolistic position continue.",
-    "so_what_ko": "결제 수수료 구조의 변화 가능성으로 D2C 사업의 결제 비용 최적화 기회가 생길 수 있어 대안 결제 솔루션 검토가 필요합니다.",
-    "so_what_en": "Potential changes in payment fee structures could create opportunities for D2C payment cost optimization, requiring review of alternative payment solutions.",
+    "title_en": "Tractor Supply Expands Delivery Capabilities for Large Order Volumes",
+    "summary_ko": "트랙터 서플라이의 배송량이 급증하면서 라스트마일 계획이 진전을 보이고 있습니다. 고객들이 대량 주문 배송에 대한 회사의 확장된 역량을 활용하고 있다고 최고공급망책임자 콜린 얀키가 밝혔습니다. 회사의 배송 인프라 투자가 성과를 거두고 있는 상황입니다.",
+    "summary_en": "Tractor Supply's delivery volume is surging as its final-mile plan advances successfully. Customers are utilizing the company's expanded capabilities for deliveries involving larger order quantities, according to Chief Supply Chain Officer Colin Yankee. The company's investment in delivery infrastructure is showing positive results.",
+    "so_what_ko": "대량 주문 배송 역량 강화는 고객 편의성을 높이고 평균 주문 가치 증대로 이어질 수 있는 중요한 물류 전략입니다.",
+    "so_what_en": "Strengthening large order delivery capabilities is a crucial logistics strategy that can enhance customer convenience and drive higher average order values.",
     "key_points": [
-      "New lawsuit challenges Visa and Mastercard fee practices",
-      "Questions 2019 settlement's antitrust immunity provisions",
-      "Ongoing legal pressure on payment network monopolies"
+      "Tractor Supply's delivery volume jumping significantly",
+      "Customers utilizing expanded capabilities for larger order deliveries",
+      "Final-mile plan showing successful advancement"
     ],
     "tags": [
-      "visa",
-      "mastercard",
-      "payment-fees",
-      "antitrust",
-      "litigation"
+      "delivery-logistics",
+      "final-mile",
+      "order-fulfillment"
     ],
     "confidence": 0.8,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Tractor Supply",
+      "Colin Yankee"
+    ],
+    "one_line_insight_ko": "대량 주문 배송 역량 확대는 고객 만족도와 주문 가치를 동시에 높이는 효과적인 물류 전략이다.",
+    "one_line_insight_en": "Expanding large order delivery capabilities is an effective logistics strategy that simultaneously enhances customer satisfaction and order value.",
+    "ai_processed": true
+  },
+  {
+    "title": "Bankruptcy court, citing Saks Global’s merchandising woes, approves $500M in exit financing",
+    "link": "https://www.retaildive.com/news/bankruptcy-court-citing-saks-global-merchandising-woes-approves-500m/818537/",
+    "date_published": "2026-04-27",
+    "description": "Judge Alfredo Pérez on Friday approved the plan, paving the way for the luxury retailer to start fresh with vendors — and customers.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.3,
+    "relevance_label": "high",
+    "title_en": "Bankruptcy court approves $500M exit financing for Saks Global amid merchandising challenges",
+    "summary_ko": "파산법원이 사스글로벌의 상품기획 문제를 언급하며 5억달러 규모의 출구금융을 승인했습니다. 이는 럭셔리 리테일러가 공급업체와 고객들과 새로운 출발을 할 수 있는 길을 열어주었습니다. 법원의 승인으로 회사 재구조화가 본격화될 전망입니다.",
+    "summary_en": "A bankruptcy court approved $500M in exit financing for Saks Global, citing the luxury retailer's merchandising challenges. Judge Alfredo Pérez's Friday approval paves the way for the company to restart relationships with vendors and customers. This marks a critical step in the retailer's restructuring process.",
+    "so_what_ko": "럭셔리 리테일 부문의 구조조정은 D2C 브랜드에게 시장 점유율 확대와 고급 고객층 확보의 기회를 제공할 수 있습니다.",
+    "so_what_en": "The restructuring of luxury retail players creates opportunities for D2C brands to capture market share and acquire premium customer segments.",
+    "key_points": [
+      "$500M exit financing approved for Saks Global restructuring",
+      "Court cited merchandising issues as key challenge",
+      "Approval enables fresh start with vendors and customers"
+    ],
+    "tags": [
+      "bankruptcy",
+      "luxury-retail",
+      "restructuring",
+      "financing",
+      "saks"
+    ],
+    "confidence": 0.7,
     "strategic_theme": "COMPETITIVE_DYNAMICS",
     "regions": [
       "AMER"
@@ -569,89 +481,136 @@
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Visa",
-      "Mastercard"
+      "Saks Global",
+      "Judge Alfredo Pérez"
     ],
-    "one_line_insight_ko": "결제 네트워크 독점에 대한 법적 도전은 D2C 기업들에게 결제 비용 절감의 새로운 기회를 제공할 수 있습니다.",
-    "one_line_insight_en": "Legal challenges to payment network monopolies may provide new cost reduction opportunities for D2C businesses.",
+    "one_line_insight_ko": "럭셔리 리테일 경쟁사의 구조조정은 D2C 브랜드의 프리미엄 시장 진출 기회를 의미합니다.",
+    "one_line_insight_en": "Luxury retailer restructuring signals market opportunity for D2C brands to enter premium segments.",
     "ai_processed": true
   },
   {
-    "title": "AI needs a strong data fabric to deliver business value",
-    "link": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
-    "date_published": "2026-04-22",
-    "description": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes…",
-    "source_id": "mit_tech_review_ai",
-    "source_name": "MIT Technology Review (AI)",
-    "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+    "title": "Buchanan’s celebrates Latino community, culture ahead of World Cup",
+    "link": "https://www.marketingdive.com/news/buchanans-celebrates-latino-community-culture-ahead-of-world-cup/818587/",
+    "date_published": "2026-04-27",
+    "description": "The campaign includes a collaboration with musician Rauw Alejandro, on-site activations and a limited-edition bottle collection.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
     "categories": [
-      "tech",
-      "strategy"
+      "marketing"
     ],
-    "relevance_score": 0.7,
+    "relevance_score": 0.4,
     "relevance_label": "high",
-    "title_en": "Strong Data Fabric Essential for AI to Deliver Meaningful Business Value",
-    "summary_ko": "MIT Technology Review에 따르면 AI가 비즈니스 가치를 제공하려면 강력한 데이터 패브릭이 필수적입니다. 기업들이 AI를 실험에서 일상적 사용으로 전환하면서 데이터 인프라의 중요성이 부각되고 있습니다. 2025년 말까지 기업의 절반이 최소 3개 비즈니스 기능에서 AI를 사용할 것으로 예상됩니다.",
-    "summary_en": "According to MIT Technology Review, AI requires a strong data fabric to deliver meaningful business value. As organizations transition AI from experimentation to everyday use, data infrastructure importance is highlighted. By end of 2025, half of companies are expected to use AI in at least three business functions.",
-    "so_what_ko": "AI의 비즈니스 가치 실현을 위해서는 데이터 인프라 구축이 선행되어야 하며, LG D2C는 통합된 데이터 패브릭 구축을 통해 AI 활용 효과를 극대화해야 합니다.",
-    "so_what_en": "Data infrastructure development must precede AI business value realization, requiring LG D2C to maximize AI utilization effectiveness through integrated data fabric construction.",
+    "title_en": "Buchanan's launches Latino-focused campaign with Rauw Alejandro ahead of World Cup",
+    "summary_ko": "부캐넌스가 월드컵을 앞두고 라티노 커뮤니티와 문화를 기념하는 캠페인을 시작했습니다. 이 캠페인은 뮤지션 라우 알레한드로와의 협업, 현장 활성화 및 한정판 병 컬렉션을 포함합니다. 브랜드가 특정 문화적 세그먼트에 맞춤형 마케팅을 강화하고 있음을 보여줍니다.",
+    "summary_en": "Buchanan's launched a campaign celebrating Latino community and culture ahead of the World Cup. The campaign features a collaboration with musician Rauw Alejandro, on-site activations, and a limited-edition bottle collection. This demonstrates targeted cultural marketing to specific demographic segments.",
+    "so_what_ko": "문화적 특성을 활용한 타겟 마케팅은 D2C 브랜드가 특정 커뮤니티와 깊은 연결을 구축하는 효과적인 전략입니다.",
+    "so_what_en": "Culturally-targeted marketing demonstrates how D2C brands can build deep connections with specific communities through authentic engagement.",
     "key_points": [
-      "Data fabric crucial for AI business value delivery",
-      "AI adoption accelerating from experimentation to daily use",
-      "50% of companies expected to use AI in 3+ functions by 2025"
+      "Latino-focused campaign tied to World Cup timing",
+      "Celebrity collaboration with musician Rauw Alejandro",
+      "Multi-channel approach with activations and limited editions"
     ],
     "tags": [
-      "data-fabric",
-      "ai-infrastructure",
-      "business-value",
-      "enterprise-ai"
+      "cultural-marketing",
+      "celebrity-collaboration",
+      "limited-edition",
+      "latino-market",
+      "world-cup"
     ],
-    "confidence": 0.9,
-    "strategic_theme": "DATA_STRATEGY",
+    "confidence": 0.6,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Buchanan's",
+      "Rauw Alejandro",
+      "World Cup"
+    ],
+    "one_line_insight_ko": "문화적 정체성을 활용한 마케팅은 특정 커뮤니티와의 강한 브랜드 연결고리를 만듭니다.",
+    "one_line_insight_en": "Cultural identity marketing creates strong brand connections within specific community segments.",
+    "ai_processed": true
+  },
+  {
+    "title": "Why contextual collaboration is replacing personalization",
+    "link": "https://martech.org/why-contextual-collaboration-is-replacing-personalization/",
+    "date_published": "2026-04-27",
+    "description": "Prebuilt campaigns are losing ground to continuous decisioning. Marketing teams need systems that respond as context evolves.\nThe post Why contextual collaboration is replacing personalization appeared first on MarTech.",
+    "source_id": "martech_org",
+    "source_name": "MarTech.org",
+    "source_url": "https://martech.org/feed",
+    "categories": [
+      "marketing",
+      "tech"
+    ],
+    "relevance_score": 0.8,
+    "relevance_label": "high",
+    "title_en": "Contextual collaboration emerges as the new paradigm replacing traditional personalization",
+    "summary_ko": "미리 구축된 캠페인이 지속적인 의사결정에 밀려나고 있습니다. 마케팅 팀은 상황이 발전함에 따라 대응할 수 있는 시스템이 필요합니다. 기존 개인화 전략이 맥락적 협업으로 대체되는 트렌드가 나타나고 있습니다.",
+    "summary_en": "Prebuilt campaigns are losing ground to continuous decisioning systems. Marketing teams need platforms that respond as context evolves in real-time. Traditional personalization strategies are being replaced by contextual collaboration approaches.",
+    "so_what_ko": "D2C 브랜드는 정적인 개인화에서 벗어나 실시간 맥락 분석과 지속적 최적화가 가능한 AI 시스템으로 전환해야 합니다.",
+    "so_what_en": "D2C brands must shift from static personalization to AI systems capable of real-time contextual analysis and continuous optimization.",
+    "key_points": [
+      "Shift from prebuilt campaigns to continuous decisioning",
+      "Context-aware systems replacing traditional personalization",
+      "Need for real-time responsive marketing platforms"
+    ],
+    "tags": [
+      "contextual-marketing",
+      "personalization",
+      "continuous-decisioning",
+      "martech",
+      "ai-optimization"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "AI_PERSONALIZATION",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "HIGH",
-    "sentiment": "NEUTRAL",
+    "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "MIT Technology Review"
+      "MarTech"
     ],
-    "one_line_insight_ko": "AI의 실질적 비즈니스 가치 창출은 견고한 데이터 인프라 구축에서 시작됩니다.",
-    "one_line_insight_en": "Meaningful AI business value creation begins with building robust data infrastructure.",
+    "one_line_insight_ko": "맥락적 협업이 개인화의 새로운 패러다임으로 부상하며 실시간 적응형 마케팅을 가능하게 합니다.",
+    "one_line_insight_en": "Contextual collaboration emerges as the new personalization paradigm enabling real-time adaptive marketing.",
     "ai_processed": true
   },
   {
-    "title": "AEO Strategy for B2B: 9 Tactics to Increase B2B Answer Engine Visibility",
-    "link": "https://blog.hubspot.com/marketing/aeo-b2b-strategy",
-    "date_published": "2026-04-22",
-    "description": "Research shows that 32% of buyers discover new B2B vendors using generative AI chatbots. This is why an answer engine optimization (AEO) strategy for B2B businesses is essential. AI-driven answer engines help buyers discover, evaluate, and shortlist vendors. The same research found that buyers start with an average of 7.6 potential vendors and narrow this to 3.5 before making their final decision.",
-    "source_id": "hubspot_marketing",
-    "source_name": "HubSpot Marketing Blog",
-    "source_url": "https://blog.hubspot.com/marketing/rss.xml",
+    "title": "What marketers need to know from Google Cloud Next ’26",
+    "link": "https://martech.org/what-marketers-need-to-know-from-google-cloud-next-26/",
+    "date_published": "2026-04-27",
+    "description": "The biggest takeaway is Google's strategy for embedding its Gemini AI models into tools marketers already use. \nThe post What marketers need to know from Google Cloud Next ’26 appeared first on MarTech.",
+    "source_id": "martech_org",
+    "source_name": "MarTech.org",
+    "source_url": "https://martech.org/feed",
     "categories": [
-      "ai_marketing",
-      "marketing"
+      "marketing",
+      "tech"
     ],
-    "relevance_score": 0.8,
+    "relevance_score": 0.9,
     "relevance_label": "high",
-    "title_en": "Answer Engine Optimization Becomes Critical for B2B Vendor Discovery and Selection",
-    "summary_ko": "HubSpot 연구에 따르면 B2B 구매자의 32%가 생성형 AI 챗봇을 통해 새로운 벤더를 발견합니다. 구매자들은 평균 7.6개 잠재 벤더에서 시작해 최종 결정 전 3.5개로 좁혀갑니다. AI 기반 답변 엔진이 B2B 벤더 발견과 평가 과정의 핵심이 되고 있습니다.",
-    "summary_en": "According to HubSpot research, 32% of B2B buyers discover new vendors using generative AI chatbots. Buyers start with an average of 7.6 potential vendors and narrow this to 3.5 before making final decisions. AI-driven answer engines are becoming central to B2B vendor discovery and evaluation processes.",
-    "so_what_ko": "B2B 구매 여정에서 AI 답변 엔진의 역할이 커지고 있어 LG D2C는 AEO 전략을 통해 AI 검색 결과에서의 가시성을 높여야 합니다.",
-    "so_what_en": "As AI answer engines play larger roles in B2B buying journeys, LG D2C must increase visibility in AI search results through AEO strategy implementation.",
+    "title_en": "Google Cloud Next '26 highlights Gemini AI integration strategy for marketers",
+    "summary_ko": "구글 클라우드 넥스트 '26에서 가장 큰 시사점은 마케터들이 이미 사용하는 도구에 제미나이 AI 모델을 임베딩하려는 구글의 전략입니다. 이는 기존 워크플로우를 유지하면서 AI 기능을 통합하는 접근법을 보여줍니다. 마케터들의 도구 채택 장벽을 낮추는 전략으로 해석됩니다.",
+    "summary_en": "The biggest takeaway from Google Cloud Next '26 is Google's strategy for embedding Gemini AI models into existing marketing tools. This approach allows marketers to maintain familiar workflows while integrating advanced AI capabilities. The strategy aims to reduce adoption barriers for marketing teams.",
+    "so_what_ko": "기존 도구에 AI를 임베딩하는 구글의 접근법은 D2C 브랜드가 AI 마케팅 도구를 더 쉽게 도입할 수 있는 환경을 조성합니다.",
+    "so_what_en": "Google's embedded AI approach creates easier pathways for D2C brands to adopt AI marketing tools without disrupting existing workflows.",
     "key_points": [
-      "32% of B2B buyers use AI chatbots for vendor discovery",
-      "Buyer consideration sets narrow from 7.6 to 3.5 vendors",
-      "Answer Engine Optimization becoming essential for B2B visibility"
+      "Google embedding Gemini AI into existing marketing tools",
+      "Strategy focuses on reducing adoption friction",
+      "Integration maintains familiar workflows while adding AI capabilities"
     ],
     "tags": [
-      "aeo",
-      "b2b-marketing",
-      "ai-chatbots",
-      "vendor-discovery",
-      "generative-ai"
+      "google-cloud",
+      "gemini-ai",
+      "martech-integration",
+      "ai-embedding",
+      "marketing-tools"
     ],
-    "confidence": 0.9,
+    "confidence": 0.8,
     "strategic_theme": "AI_MARKETING",
     "regions": [
       "GLOBAL"
@@ -659,10 +618,58 @@
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "HubSpot"
+      "Google Cloud",
+      "Gemini AI",
+      "Google Cloud Next"
     ],
-    "one_line_insight_ko": "AI 답변 엔진이 B2B 구매 여정의 새로운 게이트키퍼로 부상하며 AEO가 필수 마케팅 전략이 되고 있습니다.",
-    "one_line_insight_en": "AI answer engines are emerging as new gatekeepers of B2B buying journeys, making AEO an essential marketing strategy.",
+    "one_line_insight_ko": "구글의 제미나이 AI 임베딩 전략은 마케터의 AI 도구 도입 장벽을 대폭 낮출 것입니다.",
+    "one_line_insight_en": "Google's Gemini AI embedding strategy will significantly lower AI tool adoption barriers for marketers.",
+    "ai_processed": true
+  },
+  {
+    "title": "Warehouse-native CDPs vs standalone platforms explained",
+    "link": "https://martech.org/warehouse-native-cdps-vs-standalone-platforms-explained/",
+    "date_published": "2026-04-27",
+    "description": "Choosing between your data warehouse and a packaged CDP depends on control, speed and operational complexity.\nThe post Warehouse-native CDPs vs standalone platforms explained appeared first on MarTech.",
+    "source_id": "martech_org",
+    "source_name": "MarTech.org",
+    "source_url": "https://martech.org/feed",
+    "categories": [
+      "tech",
+      "strategy"
+    ],
+    "relevance_score": 0.7,
+    "relevance_label": "high",
+    "title_en": "Warehouse-native CDPs vs standalone platforms: choosing the right data architecture",
+    "summary_ko": "데이터 웨어하우스와 패키지형 CDP 중 선택은 제어, 속도, 운영 복잡성에 따라 결정됩니다. 각 접근법은 서로 다른 장단점과 구현 요구사항을 가지고 있습니다. 기업의 데이터 성숙도와 리소스에 따라 최적의 선택이 달라집니다.",
+    "summary_en": "Choosing between data warehouse and packaged CDP solutions depends on control, speed, and operational complexity requirements. Each approach offers different advantages and implementation challenges. The optimal choice varies based on organizational data maturity and available resources.",
+    "so_what_ko": "D2C 브랜드는 자사의 데이터 역량과 운영 복잡성을 고려하여 웨어하우스 네이티브 또는 독립형 CDP 중 전략적 선택을 해야 합니다.",
+    "so_what_en": "D2C brands must strategically choose between warehouse-native or standalone CDP solutions based on their data capabilities and operational complexity tolerance.",
+    "key_points": [
+      "Choice depends on control, speed, and complexity requirements",
+      "Warehouse-native vs standalone platforms offer different trade-offs",
+      "Decision should align with organizational data maturity"
+    ],
+    "tags": [
+      "cdp",
+      "data-warehouse",
+      "data-architecture",
+      "martech-stack",
+      "data-strategy"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "DATA_STRATEGY",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "CDP",
+      "Data Warehouse"
+    ],
+    "one_line_insight_ko": "CDP 선택은 기술적 기능보다 조직의 데이터 성숙도와 운영 역량에 따라 결정되어야 합니다.",
+    "one_line_insight_en": "CDP selection should be driven by organizational data maturity and operational capabilities rather than technical features alone.",
     "ai_processed": true
   }
 ]
