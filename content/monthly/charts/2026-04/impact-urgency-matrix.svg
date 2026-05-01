@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 500" width="700" height="500" font-family="Arial, sans-serif">
+  <title>Impact-Urgency Matrix</title>
+  <rect width="700" height="500" fill="#FFFFFF" rx="8"/>
+  
+  <rect x="0" y="0" width="700" height="500" fill="#FFFFFF" rx="8" opacity="1"/>
+  <rect x="0" y="0" width="700" height="48" fill="#1B2A4A" rx="8" opacity="1"/>
+  <rect x="0" y="40" width="700" height="8" fill="#1B2A4A" rx="0" opacity="1"/>
+  <text x="350" y="30" text-anchor="middle" font-size="16" fill="#FFFFFF" font-weight="bold" font-style="normal">Impact-Urgency Matrix</text>
+  
+  <rect x="80" y="60" width="290" height="180" fill="#FEF2F2" rx="0" opacity="1"/>
+  <rect x="370" y="60" width="290" height="180" fill="#EFF6FF" rx="0" opacity="1"/>
+  <rect x="80" y="240" width="290" height="180" fill="#F9FAFB" rx="0" opacity="1"/>
+  <rect x="370" y="240" width="290" height="180" fill="#F0FDF4" rx="0" opacity="1"/>
+  
+  <line x1="370" y1="60" x2="370" y2="420" stroke="#6B7280" stroke-width="1.5" stroke-dasharray="5,3"/>
+  <line x1="80" y1="240" x2="660" y2="240" stroke="#6B7280" stroke-width="1.5" stroke-dasharray="5,3"/>
+  
+  <text x="225" y="80" text-anchor="middle" font-size="12" fill="#EF4444" font-weight="normal" font-style="italic">Monitor</text>
+  <text x="515" y="80" text-anchor="middle" font-size="12" fill="#A50034" font-weight="bold" font-style="italic">Act Now</text>
+  <text x="225" y="260" text-anchor="middle" font-size="12" fill="#9CA3AF" font-weight="normal" font-style="italic">Watch</text>
+  <text x="515" y="260" text-anchor="middle" font-size="12" fill="#16A34A" font-weight="normal" font-style="italic">Invest</text>
+  <circle cx="602" cy="78" r="18" fill="#A50034" opacity="0.85"/><text x="602" y="82" text-anchor="middle" font-size="11" fill="#FFFFFF" font-weight="bold" font-style="normal">T1</text><text x="602" y="108" text-anchor="middle" font-size="10" fill="#A50034" font-weight="normal" font-style="normal">The Agentic</text><circle cx="602" cy="88.80000000000001" r="18" fill="#2E75B6" opacity="0.85"/><text x="602" y="92.80000000000001" text-anchor="middle" font-size="11" fill="#FFFFFF" font-weight="bold" font-style="normal">T2</text><text x="602" y="118.80000000000001" text-anchor="middle" font-size="10" fill="#2E75B6" font-weight="normal" font-style="normal">AI Marketing</text><circle cx="428" cy="103.19999999999993" r="18" fill="#16A34A" opacity="0.85"/><text x="428" y="107.19999999999993" text-anchor="middle" font-size="11" fill="#FFFFFF" font-weight="bold" font-style="normal">T3</text><text x="428" y="133.19999999999993" text-anchor="middle" font-size="10" fill="#16A34A" font-weight="normal" font-style="normal">AI-Native Customer</text><circle cx="254" cy="114" r="18" fill="#EA580C" opacity="0.85"/><text x="254" y="118" text-anchor="middle" font-size="11" fill="#FFFFFF" font-weight="bold" font-style="normal">T4</text><text x="254" y="144" text-anchor="middle" font-size="10" fill="#EA580C" font-weight="normal" font-style="normal">Strategic Imperative</text><circle cx="254" cy="132" r="18" fill="#7C3AED" opacity="0.85"/><text x="254" y="136" text-anchor="middle" font-size="11" fill="#FFFFFF" font-weight="bold" font-style="normal">T5</text><text x="254" y="162" text-anchor="middle" font-size="10" fill="#7C3AED" font-weight="normal" font-style="normal">Platform Ecosystem</text>
+  
+  <text x="350" y="490" text-anchor="middle" font-size="13" fill="#1B2A4A" font-weight="bold" font-style="normal">Urgency →</text>
+  <text x="20" y="240" text-anchor="middle" font-size="13" fill="#1B2A4A" font-weight="bold" transform="rotate(-90, 20, 240)">Impact ↑</text>
+  
+</svg>

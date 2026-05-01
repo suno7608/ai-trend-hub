@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 380" width="500" height="380" font-family="Arial, sans-serif">
+  <title>Confidence Distribution</title>
+  <rect width="500" height="380" fill="#FFFFFF" rx="8"/>
+  
+  <rect x="0" y="0" width="500" height="380" fill="#FFFFFF" rx="8" opacity="1"/>
+  <rect x="0" y="0" width="500" height="48" fill="#1B2A4A" rx="8" opacity="1"/>
+  <rect x="0" y="40" width="500" height="8" fill="#1B2A4A" rx="0" opacity="1"/>
+  <text x="250" y="30" text-anchor="middle" font-size="16" fill="#FFFFFF" font-weight="bold" font-style="normal">Article Confidence Distribution</text>
+  <circle cx="180" cy="190" r="120" fill="#16A34A"/><circle cx="180" cy="190" r="65" fill="#FFFFFF"/>
+  <text x="180" y="182" text-anchor="middle" font-size="28" fill="#1B2A4A" font-weight="bold" font-style="normal">38</text>
+  <text x="180" y="204" text-anchor="middle" font-size="13" fill="#9CA3AF" font-weight="normal" font-style="normal">articles</text>
+  <rect x="330" y="108" width="16" height="16" fill="#16A34A" rx="3" opacity="1"/><text x="354" y="121" text-anchor="start" font-size="12" fill="#1F2937" font-weight="normal" font-style="normal">High (0.85+)</text><text x="490" y="121" text-anchor="end" font-size="12" fill="#16A34A" font-weight="bold" font-style="normal">38 (100%)</text><rect x="330" y="148" width="16" height="16" fill="#2E75B6" rx="3" opacity="1"/><text x="354" y="161" text-anchor="start" font-size="12" fill="#1F2937" font-weight="normal" font-style="normal">Medium (0.5~0.85)</text><text x="490" y="161" text-anchor="end" font-size="12" fill="#2E75B6" font-weight="bold" font-style="normal">0 (0%)</text><rect x="330" y="188" width="16" height="16" fill="#EA580C" rx="3" opacity="1"/><text x="354" y="201" text-anchor="start" font-size="12" fill="#1F2937" font-weight="normal" font-style="normal">Low (0.5 below)</text><text x="490" y="201" text-anchor="end" font-size="12" fill="#EA580C" font-weight="bold" font-style="normal">0 (0%)</text>
+  
+</svg>

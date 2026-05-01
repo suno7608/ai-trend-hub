@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 380" width="560" height="380" font-family="Arial, sans-serif">
+  <title>Source Diversity</title>
+  <rect width="560" height="380" fill="#FFFFFF" rx="8"/>
+  
+  <rect x="0" y="0" width="560" height="380" fill="#FFFFFF" rx="8" opacity="1"/>
+  <rect x="0" y="0" width="560" height="48" fill="#1B2A4A" rx="8" opacity="1"/>
+  <rect x="0" y="40" width="560" height="8" fill="#1B2A4A" rx="0" opacity="1"/>
+  <text x="280" y="30" text-anchor="middle" font-size="16" fill="#FFFFFF" font-weight="bold" font-style="normal">Source Type Distribution</text>
+  <path d="M 160 195 L 160 75 A 120 120 0 0 1 233.70552552276013 100.30313887243277 Z" fill="#2E75B6" stroke="white" stroke-width="2"/><path d="M 160 195 L 233.70552552276013 100.30313887243277 A 120 120 0 0 1 279.5901391608004 204.90952145667987 Z" fill="#16A34A" stroke="white" stroke-width="2"/><path d="M 160 195 L 279.5901391608004 204.90952145667987 A 120 120 0 1 1 159.99999999999997 75 Z" fill="#7C3AED" stroke="white" stroke-width="2"/>
+  <rect x="310" y="128" width="14" height="14" fill="#2E75B6" rx="2" opacity="1"/><text x="332" y="140" text-anchor="start" font-size="12" fill="#1F2937" font-weight="normal" font-style="normal">Tech Media</text><text x="545" y="140" text-anchor="end" font-size="12" fill="#2E75B6" font-weight="bold" font-style="normal">11%</text><rect x="310" y="166" width="14" height="14" fill="#16A34A" rx="2" opacity="1"/><text x="332" y="178" text-anchor="start" font-size="12" fill="#1F2937" font-weight="normal" font-style="normal">Vendor/Brand</text><text x="545" y="178" text-anchor="end" font-size="12" fill="#16A34A" font-weight="bold" font-style="normal">16%</text><rect x="310" y="242" width="14" height="14" fill="#7C3AED" rx="2" opacity="1"/><text x="332" y="254" text-anchor="start" font-size="12" fill="#1F2937" font-weight="normal" font-style="normal">Other</text><text x="545" y="254" text-anchor="end" font-size="12" fill="#7C3AED" font-weight="bold" font-style="normal">74%</text>
+  
+</svg>
