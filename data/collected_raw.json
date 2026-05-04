@@ -99,6 +99,20 @@
     "relevance_label": "high"
   },
   {
+    "title": "Our Vision for Building an Open Ecosystem for the Agent Era",
+    "link": "https://blog.hubspot.com/marketing/our-vision-for-building-an-open-ecosystem-for-the-agent-era",
+    "date_published": "2026-05-04",
+    "description": "For years, HubSpot invested in making our platform the best place for marketing, sales, and service teams to do their work. With AI, we’ve been building it to do the work for them – through agents that qualify leads, resolve tickets, save deals, and drive outcomes across the business. That’s why we call HubSpot an agentic customer platform.",
+    "source_id": "hubspot_marketing",
+    "source_name": "HubSpot Marketing Blog",
+    "source_url": "https://blog.hubspot.com/marketing/rss.xml",
+    "categories": [
+      "ai_marketing"
+    ],
+    "relevance_score": 3,
+    "relevance_label": "high"
+  },
+  {
     "title": "GameStop proposes acquisition of eBay without clarifying funding",
     "link": "https://www.digitalcommerce360.com/2026/05/04/gamestop-proposes-acquisition-of-ebay/",
     "date_published": "2026-05-04",
@@ -113,15 +127,30 @@
     "relevance_label": "high"
   },
   {
-    "title": "Our Vision for Building an Open Ecosystem for the Agent Era",
-    "link": "https://blog.hubspot.com/marketing/our-vision-for-building-an-open-ecosystem-for-the-agent-era",
+    "title": "How Marketers Can Get Clean Incrementality Measurements in a Messy World",
+    "link": "https://www.adweek.com/performance-marketing/how-marketers-can-get-clean-incrementality-measurements-in-a-messy-world/",
     "date_published": "2026-05-04",
-    "description": "For years, HubSpot invested in making our platform the best place for marketing, sales, and service teams to do their work. With AI, we’ve been building it to do the work for them – through agents that qualify leads, resolve tickets, save deals, and drive outcomes across the business. That’s why we call HubSpot an agentic customer platform.",
-    "source_id": "hubspot_marketing",
-    "source_name": "HubSpot Marketing Blog",
-    "source_url": "https://blog.hubspot.com/marketing/rss.xml",
+    "description": "This post was created in partnership with Fetch Key takeaways Marketers have more data than ever, yet many still struggle to answer a basic question: Did a campaign change behavior […]",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
     "categories": [
       "ai_marketing"
+    ],
+    "relevance_score": 3,
+    "relevance_label": "high"
+  },
+  {
+    "title": "From ad tech tax to AI data brokers: the new middlemen keep 100%, publishers say",
+    "link": "https://digiday.com/media/from-ad-tech-tax-to-ai-data-brokers-the-new-middlemen-keep-100-publishers-say/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-05-04",
+    "description": "For some publishers, third-party content scraping lands as an even bigger affront than the ad tech tax they’ve spent years navigating – not a share of the pie, but the pie itself.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "ai_marketing",
+      "adtech"
     ],
     "relevance_score": 3,
     "relevance_label": "high"
@@ -167,35 +196,6 @@
     "categories": [
       "ai_marketing",
       "martech"
-    ],
-    "relevance_score": 3,
-    "relevance_label": "high"
-  },
-  {
-    "title": "How Marketers Can Get Clean Incrementality Measurements in a Messy World",
-    "link": "https://www.adweek.com/performance-marketing/how-marketers-can-get-clean-incrementality-measurements-in-a-messy-world/",
-    "date_published": "2026-05-04",
-    "description": "This post was created in partnership with Fetch Key takeaways Marketers have more data than ever, yet many still struggle to answer a basic question: Did a campaign change behavior […]",
-    "source_id": "adweek",
-    "source_name": "Adweek",
-    "source_url": "https://www.adweek.com/feed",
-    "categories": [
-      "ai_marketing"
-    ],
-    "relevance_score": 3,
-    "relevance_label": "high"
-  },
-  {
-    "title": "Why brand authority beats topical authority in AI search",
-    "link": "https://searchengineland.com/brand-authority-ai-search-476324",
-    "date_published": "2026-05-04",
-    "description": "More content won’t make you an authority. AI search rewards brands with visibility, mentions, and real demand.",
-    "source_id": "search_engine_land",
-    "source_name": "Search Engine Land",
-    "source_url": "https://searchengineland.com/feed",
-    "categories": [
-      "ai_marketing",
-      "seo"
     ],
     "relevance_score": 3,
     "relevance_label": "high"
