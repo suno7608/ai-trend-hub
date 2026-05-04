@@ -42,6 +42,21 @@
     "relevance_label": "high"
   },
   {
+    "title": "DoorDash adds AI tools to speed up merchant onboarding, edit photos of dishes",
+    "link": "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/",
+    "date_published": "2026-05-04",
+    "description": "DoorDash on Monday added new AI-powered tools that let merchants speed up onboarding, edit photos to make dishes look better, and create new websites from existing content.",
+    "source_id": "techcrunch_commerce",
+    "source_name": "TechCrunch Commerce",
+    "source_url": "https://techcrunch.com/category/commerce/feed",
+    "categories": [
+      "ai_commerce",
+      "startup"
+    ],
+    "relevance_score": 3,
+    "relevance_label": "high"
+  },
+  {
     "title": "GameStop’s $56B eBay bid aims to create collectibles powerhouse",
     "link": "https://www.retaildive.com/news/gamestop-ebay-acquisition-collectibles-powerhouse/819184/",
     "date_published": "2026-05-04",
@@ -112,21 +127,6 @@
     "relevance_label": "high"
   },
   {
-    "title": "DoorDash adds AI tools to speed up merchant onboarding, edit photos of dishes",
-    "link": "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/",
-    "date_published": "2026-05-04",
-    "description": "DoorDash on Monday added new AI-powered tools that let merchants speed up onboarding, edit photos to make dishes look better, and create new websites from existing content.",
-    "source_id": "techcrunch_commerce",
-    "source_name": "TechCrunch Commerce",
-    "source_url": "https://techcrunch.com/category/commerce/feed",
-    "categories": [
-      "ai_commerce",
-      "startup"
-    ],
-    "relevance_score": 3,
-    "relevance_label": "high"
-  },
-  {
     "title": "How marketing leaders are succeeding in the AI era",
     "link": "https://martech.org/how-marketing-leaders-are-succeeding-in-the-ai-era/",
     "date_published": "2026-05-04",
@@ -172,16 +172,15 @@
     "relevance_label": "high"
   },
   {
-    "title": "From ad tech tax to AI data brokers: the new middlemen keep 100%, publishers say",
-    "link": "https://digiday.com/media/from-ad-tech-tax-to-ai-data-brokers-the-new-middlemen-keep-100-publishers-say/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "title": "How Marketers Can Get Clean Incrementality Measurements in a Messy World",
+    "link": "https://www.adweek.com/performance-marketing/how-marketers-can-get-clean-incrementality-measurements-in-a-messy-world/",
     "date_published": "2026-05-04",
-    "description": "For some publishers, third-party content scraping lands as an even bigger affront than the ad tech tax they’ve spent years navigating – not a share of the pie, but the pie itself.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
+    "description": "This post was created in partnership with Fetch Key takeaways Marketers have more data than ever, yet many still struggle to answer a basic question: Did a campaign change behavior […]",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
     "categories": [
-      "ai_marketing",
-      "adtech"
+      "ai_marketing"
     ],
     "relevance_score": 3,
     "relevance_label": "high"
@@ -202,13 +201,13 @@
     "relevance_label": "high"
   },
   {
-    "title": "How Marketers Can Get Clean Incrementality Measurements in a Messy World",
-    "link": "https://www.adweek.com/performance-marketing/how-marketers-can-get-clean-incrementality-measurements-in-a-messy-world/",
+    "title": "Dollar General bridges onsite, offsite retail media with new solution",
+    "link": "https://www.marketingdive.com/news/dollar-general-bridges-onsite-offsite-retail-media-with-new-solution/819190/",
     "date_published": "2026-05-04",
-    "description": "This post was created in partnership with Fetch Key takeaways Marketers have more data than ever, yet many still struggle to answer a basic question: Did a campaign change behavior […]",
-    "source_id": "adweek",
-    "source_name": "Adweek",
-    "source_url": "https://www.adweek.com/feed",
+    "description": "Brands will be able to activate and optimize offsite and onsite inventory within The Trade Desk for the first time through an integration supported by Kevel.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
     "categories": [
       "ai_marketing"
     ],
