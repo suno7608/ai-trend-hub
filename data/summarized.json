@@ -1,51 +1,9 @@
 [
   {
-    "title": "Future of Marketing Briefing: Memes used to be a joke. Now they’re a strategy",
-    "link": "https://digiday.com/marketing/future-of-marketing-briefing-memes-used-to-be-a-joke-now-theyre-a-strategy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "title": "The Weekly Closeout: ThredUp’s revenue jump and the interview that shook retail",
+    "link": "https://www.retaildive.com/news/ryan-cohen-gamestop-ebay-interview-thredup-q1-earnings/819613/",
     "date_published": "2026-05-08",
-    "description": "Last month, a U.S. Special Forces soldier was indicted for insider trading — not on stocks, but on a prediction market. He had detailed knowledge of a military operation. He bet on it. The platform where he placed those bets responded to the indictment with something close to a shrug. That shrug tells you everything […]",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
-    "categories": [
-      "marketing"
-    ],
-    "relevance_score": 0.6,
-    "relevance_label": "high",
-    "title_en": "Memes evolve from joke to legitimate marketing strategy for brands",
-    "summary_ko": "밈이 단순한 농담에서 브랜드의 진지한 마케팅 전략으로 발전하고 있습니다. 특정 사례가 언급되었지만 원문 내용이 제한적입니다. 이는 디지털 마케팅의 패러다임 변화를 보여줍니다.",
-    "summary_en": "Memes are transitioning from simple jokes to serious marketing strategies for brands. While specific cases are mentioned, the source content is limited. This represents a paradigm shift in digital marketing approaches.",
-    "so_what_ko": "D2C 브랜드는 밈 마케팅을 통해 젊은 소비자층과 더 자연스럽고 비용 효율적인 커뮤니케이션을 구축할 수 있습니다.",
-    "so_what_en": "D2C brands can leverage meme marketing to build more natural and cost-effective communication with younger consumer segments.",
-    "key_points": [
-      "Memes are becoming strategic marketing tools rather than casual content",
-      "Represents shift in digital marketing paradigms",
-      "Offers new engagement opportunities for brands"
-    ],
-    "tags": [
-      "meme-marketing",
-      "digital-strategy",
-      "content-marketing"
-    ],
-    "confidence": 0.5,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Digiday"
-    ],
-    "one_line_insight_ko": "밈이 마케팅 전략으로 진화하면서 D2C 브랜드에게 새로운 고객 참여 기회를 제공합니다.",
-    "one_line_insight_en": "The evolution of memes into marketing strategy provides D2C brands with new customer engagement opportunities.",
-    "ai_processed": true
-  },
-  {
-    "title": "Target shuffles merchandising leadership with slate of new SVPs",
-    "link": "https://www.retaildive.com/news/target-turnaround-merchandising-leadership-svps-design-apparel-accessories/819580/",
-    "date_published": "2026-05-07",
-    "description": "The mass retailer continues to revamp its leadership team as it works to regain product authority.",
+    "description": "The resale platform also saw active buyers grow, while the only thing more surprising than GameStop’s bid on eBay may have been the events that followed.",
     "source_id": "retail_dive",
     "source_name": "Retail Dive",
     "source_url": "https://www.retaildive.com/feeds/news/",
@@ -53,198 +11,463 @@
       "commerce",
       "strategy"
     ],
-    "relevance_score": 0.4,
+    "relevance_score": 0.6,
     "relevance_label": "high",
-    "title_en": "Target reshuffles merchandising leadership with new SVP appointments",
-    "summary_ko": "타겟이 제품 권위를 되찾기 위한 노력의 일환으로 머천다이징 리더십을 개편하고 있습니다. 여러 새로운 SVP들이 임명되었습니다. 이는 타겟의 지속적인 리더십 팀 개편의 일부입니다.",
-    "summary_en": "Target is reshuffling its merchandising leadership as part of efforts to regain product authority. Several new SVPs have been appointed. This continues Target's ongoing leadership team revamp.",
-    "so_what_ko": "대형 리테일러의 머천다이징 리더십 변화는 제품 전략과 고객 경험 개선에 대한 업계 트렌드를 반영합니다.",
-    "so_what_en": "Leadership changes in major retailers reflect industry trends toward improving product strategy and customer experience.",
+    "title_en": "ThredUp drives resale growth while GameStop's eBay bid disrupts retail landscape",
+    "summary_ko": "중고 거래 플랫폼 ThredUp이 매출 급증과 활성 구매자 증가를 기록했습니다. GameStop의 eBay 인수 시도가 소매업계에 충격을 주었습니다. 리세일 시장의 성장과 전통 소매업체 간 M&A가 업계 재편을 가속화하고 있습니다.",
+    "summary_en": "Resale platform ThredUp reported significant revenue growth and expanding active buyer base. GameStop's surprising bid for eBay sent shockwaves through the retail industry. The growth of resale markets and M&A activity among traditional retailers is accelerating industry transformation.",
+    "so_what_ko": "중고 거래 플랫폼의 성장은 지속가능성을 중시하는 소비자 트렌드를 반영하며, LG D2C는 순환경제 모델을 활용한 고객 참여 전략을 고려해야 합니다.",
+    "so_what_en": "The growth of resale platforms reflects consumer trends toward sustainability, requiring LG D2C to consider circular economy models for enhanced customer engagement strategies.",
     "key_points": [
-      "Target appointing new SVPs in merchandising leadership",
-      "Part of broader effort to regain product authority",
-      "Continues ongoing leadership team restructuring"
+      "ThredUp shows strong revenue growth and active buyer expansion",
+      "GameStop's eBay bid indicates major retail consolidation trends",
+      "Resale market growth reflects sustainability-focused consumer behavior"
     ],
     "tags": [
-      "retail-leadership",
-      "merchandising",
-      "organizational-change"
+      "resale-market",
+      "retail-consolidation",
+      "sustainability",
+      "circular-economy"
     ],
     "confidence": 0.7,
     "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Target"
-    ],
-    "one_line_insight_ko": "타겟의 머천다이징 리더십 개편은 제품 중심 전략으로의 회귀를 시사합니다.",
-    "one_line_insight_en": "Target's merchandising leadership reshuffle signals a return to product-centric strategy.",
-    "ai_processed": true
-  },
-  {
-    "title": "Medline Q1 results show expanding AI use, tariff concerns",
-    "link": "https://www.digitalcommerce360.com/2026/05/07/medline-sales-ai-tariffs-q1-fy26/",
-    "date_published": "2026-05-07",
-    "description": "Medline Inc. is expanding its use of artificial intelligence (AI), digital supply chain software and robotics as it supports higher demand from new customer wins. In its first quarter of 2026, the medical supply company reported double‑digit sales growth, driven by new customer implementations and continued strength in its Supply Chain Solutions segment, executives said. […]\nThe post Medline Q1 results show expanding AI use, tariff concerns appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
-    "categories": [
-      "tech",
-      "commerce"
-    ],
-    "relevance_score": 0.8,
-    "relevance_label": "high",
-    "title_en": "Medline expands AI use amid strong Q1 growth and tariff concerns",
-    "summary_ko": "메드라인이 AI, 디지털 공급망 소프트웨어, 로봇 기술 사용을 확대하고 있습니다. 2026년 1분기에 신규 고객 확보와 공급망 솔루션 부문 강세로 두 자릿수 매출 성장을 기록했습니다. 관세 우려가 있지만 AI 투자를 지속하고 있습니다.",
-    "summary_en": "Medline is expanding its use of AI, digital supply chain software, and robotics. The company reported double-digit sales growth in Q1 2026 driven by new customer wins and Supply Chain Solutions strength. Despite tariff concerns, AI investments continue.",
-    "so_what_ko": "의료용품 업계에서 AI와 로봇 기술 도입이 성장 동력이 되고 있어, D2C 브랜드도 운영 효율성과 고객 서비스 향상을 위한 AI 투자를 검토해야 합니다.",
-    "so_what_en": "AI and robotics adoption is driving growth in healthcare supplies, suggesting D2C brands should consider AI investments for operational efficiency and customer service enhancement.",
-    "key_points": [
-      "Medline expanding AI, digital supply chain, and robotics use",
-      "Double-digit Q1 2026 sales growth from new customers",
-      "Continued AI investment despite tariff concerns"
-    ],
-    "tags": [
-      "ai-adoption",
-      "supply-chain",
-      "healthcare-retail"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_COMMERCE",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Medline",
-      "AI",
-      "Supply Chain Solutions"
-    ],
-    "one_line_insight_ko": "메드라인의 AI 확장 투자는 공급망 최적화가 매출 성장의 핵심 동력임을 보여줍니다.",
-    "one_line_insight_en": "Medline's AI expansion demonstrates that supply chain optimization is key to revenue growth.",
-    "ai_processed": true
-  },
-  {
-    "title": "Ulta Beauty joins Uber Eats marketplace, expanding delivery options",
-    "link": "https://www.digitalcommerce360.com/2026/05/07/ulta-beauty-uber-eats-marketplace-same-day-delivery/",
-    "date_published": "2026-05-07",
-    "description": "Ulta Beauty has become the latest retailer to join the Uber Eats marketplace, which enables the retailer to capitalize on same-day delivery. The companies timed their announcement on May 7 before Mother’s Day, which this year falls on May 10. Ulta Beauty joins a growing list of retailers using last-mile delivery platforms and marketplaces (which […]\nThe post Ulta Beauty joins Uber Eats marketplace, expanding delivery options appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
-    "categories": [
-      "commerce"
-    ],
-    "relevance_score": 0.7,
-    "relevance_label": "high",
-    "title_en": "Ulta Beauty partners with Uber Eats for same-day delivery expansion",
-    "summary_ko": "울타 뷰티가 우버 이츠 마켓플레이스에 합류하여 당일 배송 서비스를 확대했습니다. 5월 7일 어머니날을 앞두고 발표된 이 파트너십은 라스트마일 배송 플랫폼을 활용하는 리테일러 증가 추세를 보여줍니다. 이는 울타 뷰티의 배송 옵션 다양화 전략입니다.",
-    "summary_en": "Ulta Beauty has joined the Uber Eats marketplace to expand same-day delivery options. The partnership was announced on May 7 ahead of Mother's Day, showing the growing trend of retailers using last-mile delivery platforms. This represents Ulta Beauty's strategy to diversify delivery options.",
-    "so_what_ko": "뷰티 브랜드의 온디맨드 배송 플랫폼 활용은 즉시성을 중시하는 소비자 니즈에 대응하는 중요한 전략이며, D2C 뷰티 브랜드도 유사한 배송 파트너십을 고려해야 합니다.",
-    "so_what_en": "Beauty brands leveraging on-demand delivery platforms is crucial for meeting consumer demand for immediacy, and D2C beauty brands should consider similar delivery partnerships.",
-    "key_points": [
-      "Ulta Beauty joins Uber Eats marketplace for same-day delivery",
-      "Timed announcement before Mother's Day for strategic impact",
-      "Part of growing trend of retailers using delivery platforms"
-    ],
-    "tags": [
-      "same-day-delivery",
-      "beauty-retail",
-      "marketplace-partnership"
-    ],
-    "confidence": 0.9,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Ulta Beauty",
-      "Uber Eats"
-    ],
-    "one_line_insight_ko": "울타 뷰티의 우버 이츠 파트너십은 뷰티 업계에서 즉시 배송이 경쟁 우위의 핵심 요소임을 보여줍니다.",
-    "one_line_insight_en": "Ulta Beauty's Uber Eats partnership shows that instant delivery is becoming a key competitive advantage in beauty retail.",
-    "ai_processed": true
-  },
-  {
-    "title": "Ecommerce Trends: How online retailers compete against Amazon",
-    "link": "https://www.digitalcommerce360.com/2026/05/07/ecommerce-trends-how-online-retailers-compete-against-amazon/",
-    "date_published": "2026-05-07",
-    "description": "After GameStop offered to acquire eBay on May 3 in a deal worth $56 billion, GameStop CEO Ryan Cohen framed the move as a path to help eBay compete against Amazon. “It could be a legit competitor to Amazon,” Cohen said in a Wall Street Journal report dated March 4. Part of Cohen’s strategy would […]\nThe post Ecommerce Trends: How online retailers compete against Amazon appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
-    "categories": [
-      "commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.6,
-    "relevance_label": "high",
-    "title_en": "GameStop's eBay acquisition proposal targets Amazon competition strategy",
-    "summary_ko": "게임스톱이 560억 달러 규모의 이베이 인수를 제안했습니다. CEO 라이언 코헨은 이를 아마존과 경쟁할 수 있는 합법적인 경쟁자로 만들기 위한 전략이라고 설명했습니다. 이는 아마존에 대항하는 온라인 리테일러들의 새로운 경쟁 전략을 보여줍니다.",
-    "summary_en": "GameStop proposed a $56 billion acquisition of eBay. CEO Ryan Cohen framed this as a strategy to create a legitimate competitor to Amazon. This demonstrates new competitive strategies by online retailers against Amazon's dominance.",
-    "so_what_ko": "대형 플랫폼 통합을 통한 아마존 경쟁 전략은 D2C 브랜드들이 독립적인 판매 채널 구축과 플랫폼 다각화의 중요성을 인식해야 함을 시사합니다.",
-    "so_what_en": "Platform consolidation strategies to compete with Amazon suggest D2C brands must recognize the importance of building independent sales channels and platform diversification.",
-    "key_points": [
-      "GameStop proposes $56B acquisition of eBay to compete with Amazon",
-      "CEO Ryan Cohen sees this as creating legitimate Amazon competitor",
-      "Represents new strategies for online retailers against Amazon dominance"
-    ],
-    "tags": [
-      "platform-competition",
-      "marketplace-strategy",
-      "amazon-rivalry"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
+      "ThredUp",
       "GameStop",
-      "eBay",
-      "Amazon",
-      "Ryan Cohen"
+      "eBay"
     ],
-    "one_line_insight_ko": "게임스톱의 이베이 인수 제안은 아마존 독점에 대한 업계의 플랫폼 통합 대응 전략을 보여줍니다.",
-    "one_line_insight_en": "GameStop's eBay acquisition proposal demonstrates the industry's platform consolidation strategy against Amazon's dominance.",
+    "one_line_insight_ko": "리세일 플랫폼의 성장은 지속가능성 중심의 새로운 소비 패턴을 보여주며 순환경제 비즈니스 모델의 기회를 시사합니다.",
+    "one_line_insight_en": "Resale platform growth demonstrates sustainability-driven consumption patterns, signaling opportunities for circular economy business models.",
     "ai_processed": true
   },
   {
-    "title": "Digital Marketing Optimization: 10 Best Strategies to Increase Marketing ROI",
-    "link": "https://blog.hubspot.com/marketing/digital-marketing-optimization",
-    "date_published": "2026-05-07",
-    "description": "Digital marketing optimization plays a major role in whether a marketing program grows or remains stagnant. Most teams are running campaigns, tracking metrics, and still scratching their heads, wondering why the pipeline isn’t moving. Honestly? The problem usually comes down to process, not effort.",
+    "title": "The tradeoff economy: Why stressed shoppers are still spending",
+    "link": "https://www.modernretail.co/podcasts/the-tradeoff-economy-why-stressed-shoppers-are-still-spending/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-05-09",
+    "description": "Katie Thomas from the Kearney Consumer Institute explains how shoppers' financial stress is showing up in their shopping habits.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.7,
+    "relevance_label": "high",
+    "title_en": "Financial stress drives consumer tradeoff behaviors in retail spending patterns",
+    "summary_ko": "소비자들이 재정적 스트레스에도 불구하고 지출을 지속하며 트레이드오프 경제 현상을 보이고 있습니다. Kearney Consumer Institute의 Katie Thomas가 스트레스받는 쇼핑객들의 구매 습관 변화를 설명했습니다. 재정 압박 속에서도 선택적 소비 패턴이 나타나고 있습니다.",
+    "summary_en": "Consumers continue spending despite financial stress, demonstrating tradeoff economy behaviors. Katie Thomas from Kearney Consumer Institute explains how financial pressure manifests in changing shopping habits. Selective consumption patterns emerge even under financial constraints.",
+    "so_what_ko": "경제적 불확실성 속에서도 소비자들의 선택적 구매 패턴을 이해하고, 가치 중심의 제품 포지셔닝과 유연한 가격 전략으로 고객 충성도를 유지해야 합니다.",
+    "so_what_en": "Understanding selective purchasing patterns amid economic uncertainty requires value-driven product positioning and flexible pricing strategies to maintain customer loyalty.",
+    "key_points": [
+      "Consumers maintain spending despite financial stress through tradeoffs",
+      "Shopping habits reflect strategic prioritization of purchases",
+      "Economic pressure creates selective consumption patterns"
+    ],
+    "tags": [
+      "consumer-behavior",
+      "economic-stress",
+      "spending-patterns",
+      "tradeoff-economy"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Kearney Consumer Institute",
+      "Katie Thomas"
+    ],
+    "one_line_insight_ko": "재정적 스트레스 속에서도 소비자들의 전략적 구매 선택은 가치 중심 브랜드 포지셔닝의 중요성을 부각시킵니다.",
+    "one_line_insight_en": "Strategic purchase choices amid financial stress highlight the importance of value-driven brand positioning.",
+    "ai_processed": true
+  },
+  {
+    "title": "Bob’s Q1 growth defies wider sector trends",
+    "link": "https://www.retaildive.com/news/bobs-first-quarter-earnings-defies-home-sector-trends/819679/",
+    "date_published": "2026-05-08",
+    "description": "New store openings, strong comps and an expanding foothold with higher-income households helped the retailer navigate industrywide storms.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.6,
+    "relevance_label": "high",
+    "title_en": "Bob's Discount Furniture Q1 growth outperforms struggling home retail sector",
+    "summary_ko": "Bob's Discount Furniture가 1분기 성장으로 부진한 홈 리테일 섹터의 트렌드를 거스르며 선전했습니다. 새로운 매장 오픈과 강력한 동일점포매출 성장, 고소득층 고객 확대가 성장을 견인했습니다. 업계 전반의 어려움 속에서도 전략적 포지셔닝으로 성과를 거두었습니다.",
+    "summary_en": "Bob's Discount Furniture achieved Q1 growth that defied struggling home retail sector trends. New store openings, strong comparable sales, and expanded reach among higher-income households drove performance. Strategic positioning enabled success despite industrywide challenges.",
+    "so_what_ko": "홈 가전 시장의 전반적 부진 속에서도 차별화된 포지셔닝과 고객층 확대를 통해 성장할 수 있음을 보여주며, LG는 프리미엄 시장 진출과 매장 확장 전략을 재검토해야 합니다.",
+    "so_what_en": "Success amid home retail struggles demonstrates that differentiated positioning and customer base expansion can drive growth, requiring LG to reconsider premium market entry and store expansion strategies.",
+    "key_points": [
+      "Bob's achieved growth despite broader home retail sector decline",
+      "New store openings and strong comparable sales drove performance",
+      "Successful expansion into higher-income customer segments"
+    ],
+    "tags": [
+      "home-retail",
+      "store-expansion",
+      "customer-segmentation",
+      "sector-outperformance"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Bob's Discount Furniture"
+    ],
+    "one_line_insight_ko": "업계 부진 속에서도 차별화된 포지셔닝과 고객층 확대로 성장 가능함을 입증하는 사례입니다.",
+    "one_line_insight_en": "Proves that differentiated positioning and customer base expansion can achieve growth even amid industry decline.",
+    "ai_processed": true
+  },
+  {
+    "title": "6 generative engine optimization benefits every marketer should know",
+    "link": "https://blog.hubspot.com/marketing/6-generative-engine-optimization-benefits-every-marketer-should-know",
+    "date_published": "2026-05-08",
+    "description": "You’ve seen it with your own eyes, reader. The way buyers discover brands is changing faster than most marketing teams realize.",
     "source_id": "hubspot_marketing",
     "source_name": "HubSpot Marketing Blog",
     "source_url": "https://blog.hubspot.com/marketing/rss.xml",
     "categories": [
-      "marketing"
+      "marketing",
+      "tech"
     ],
-    "relevance_score": 0.6,
+    "relevance_score": 0.9,
     "relevance_label": "high",
-    "title_en": "Digital Marketing Optimization: 10 Best Strategies to Increase Marketing ROI",
-    "summary_ko": "디지털 마케팅 최적화는 마케팅 프로그램의 성장에 핵심적 역할을 담당합니다. 많은 팀들이 캠페인을 운영하고 지표를 추적하지만 파이프라인이 움직이지 않는 이유를 파악하지 못합니다. 문제는 노력이 아닌 프로세스에 있는 경우가 대부분입니다.",
-    "summary_en": "Digital marketing optimization plays a crucial role in whether marketing programs grow or stagnate. Many teams run campaigns and track metrics but struggle to understand why their pipeline isn't moving. The problem usually comes down to process, not effort.",
-    "so_what_ko": "D2C 조직은 마케팅 ROI 향상을 위해 최적화 전략을 체계적으로 구축해야 합니다.",
-    "so_what_en": "D2C organizations need to systematically build optimization strategies to improve marketing ROI.",
+    "title_en": "Six generative engine optimization benefits transforming modern marketing strategies",
+    "summary_ko": "생성형 엔진 최적화(GEO)가 마케팅 전략을 변화시키는 6가지 핵심 이점을 소개합니다. 구매자들이 브랜드를 발견하는 방식이 대부분의 마케팅 팀이 인식하는 것보다 빠르게 변화하고 있습니다. AI 기반 검색과 생성형 AI가 브랜드 발견 과정을 재정의하고 있습니다.",
+    "summary_en": "Generative Engine Optimization (GEO) presents six key benefits transforming marketing strategies. Brand discovery methods are changing faster than most marketing teams realize. AI-powered search and generative AI are redefining the brand discovery process.",
+    "so_what_ko": "생성형 AI 시대에 맞는 마케팅 최적화 전략을 수립해야 하며, 전통적 SEO를 넘어 GEO 관점에서 콘텐츠와 브랜드 전략을 재설계해야 합니다.",
+    "so_what_en": "Marketing optimization strategies must adapt to the generative AI era, requiring content and brand strategy redesign beyond traditional SEO to embrace GEO perspectives.",
     "key_points": [
-      "Marketing optimization is critical for program growth",
-      "Many teams struggle with pipeline movement despite efforts",
-      "Process improvement is key over just increasing effort"
+      "Generative Engine Optimization offers six strategic marketing benefits",
+      "Brand discovery methods evolving faster than marketing team adaptation",
+      "AI-powered search fundamentally changing customer acquisition funnels"
     ],
     "tags": [
-      "digital-marketing",
-      "roi-optimization",
-      "marketing-strategy"
+      "generative-ai",
+      "search-optimization",
+      "brand-discovery",
+      "marketing-transformation"
+    ],
+    "confidence": 0.9,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "HubSpot",
+      "GEO"
+    ],
+    "one_line_insight_ko": "생성형 AI 검색 환경에서 브랜드 발견 방식의 근본적 변화에 대응하는 새로운 최적화 전략이 필수입니다.",
+    "one_line_insight_en": "New optimization strategies are essential to respond to fundamental changes in brand discovery within generative AI search environments.",
+    "ai_processed": true
+  },
+  {
+    "title": "Where Trade Desk sees advertising opportunity following bruising Q1",
+    "link": "https://www.marketingdive.com/news/where-trade-desk-sees-advertising-opportunity-following-bruising-q1/819692/",
+    "date_published": "2026-05-08",
+    "description": "The ad-tech firm pointed to the budding market for ads in AI chatbots and with CMOs it believes will start to treat walled gardens as “leftovers.”",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
+    "categories": [
+      "marketing",
+      "tech"
+    ],
+    "relevance_score": 0.9,
+    "relevance_label": "high",
+    "title_en": "Trade Desk identifies AI chatbot advertising opportunities after challenging Q1",
+    "summary_ko": "Trade Desk가 어려운 1분기 실적 이후 AI 챗봇 광고와 새로운 기회 영역을 확인했습니다. 광고 기술 기업은 AI 챗봇 내 광고의 신생 시장에 주목하고 있습니다. CMO들이 월드 가든을 '잔여물' 취급하기 시작할 것으로 예상한다고 밝혔습니다.",
+    "summary_en": "Trade Desk identified AI chatbot advertising and new opportunity areas following a challenging Q1. The ad-tech firm focused on the emerging market for advertisements within AI chatbots. The company expects CMOs to begin treating walled gardens as 'leftovers.'",
+    "so_what_ko": "AI 챗봇 내 광고가 새로운 성장 동력으로 부상하고 있으며, 기존 플랫폼 중심 광고 전략에서 벗어나 대화형 AI 환경에 최적화된 마케팅 접근법을 개발해야 합니다.",
+    "so_what_en": "AI chatbot advertising emerges as a new growth driver, requiring development of conversational AI-optimized marketing approaches beyond traditional platform-centric advertising strategies.",
+    "key_points": [
+      "Trade Desk sees opportunity in AI chatbot advertising market",
+      "CMOs expected to deprioritize traditional walled garden platforms",
+      "Emerging ad-tech opportunities in conversational AI environments"
+    ],
+    "tags": [
+      "ai-chatbot-ads",
+      "programmatic-advertising",
+      "conversational-marketing",
+      "walled-gardens"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Trade Desk",
+      "AI chatbots"
+    ],
+    "one_line_insight_ko": "AI 챗봇 광고 시장의 부상은 대화형 마케팅으로의 패러다임 전환을 예고합니다.",
+    "one_line_insight_en": "The rise of AI chatbot advertising signals a paradigm shift toward conversational marketing.",
+    "ai_processed": true
+  },
+  {
+    "title": "Campaign Trail: Tecate empowers repatriated Mexicans",
+    "link": "https://www.marketingdive.com/news/campaign-trail-tecate-empowers-repatriated-mexicans/819272/",
+    "date_published": "2026-05-08",
+    "description": "Created with LePub Mexico City, “Welcome Back, Paisano” uses a sharp sense of humor to help the brand move from purpose to action.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
+    "categories": [
+      "marketing"
+    ],
+    "relevance_score": 0.3,
+    "relevance_label": "high",
+    "title_en": "Tecate Launches 'Welcome Back, Paisano' Campaign for Repatriated Mexicans",
+    "summary_ko": "테카테가 LePub 멕시코시티와 함께 멕시코로 돌아온 이민자들을 위한 'Welcome Back, Paisano' 캠페인을 출시했습니다. 이 캠페인은 날카로운 유머 감각을 활용하여 브랜드가 목적에서 실행으로 나아갈 수 있도록 돕습니다. 귀환 이민자라는 특정 타겟 그룹에 대한 맞춤형 마케팅 접근법을 보여줍니다.",
+    "summary_en": "Tecate launched the 'Welcome Back, Paisano' campaign with LePub Mexico City targeting repatriated Mexicans. The campaign uses sharp humor to help the brand transition from purpose to action. It demonstrates a targeted marketing approach for a specific demographic group of returning immigrants.",
+    "so_what_ko": "특정 문화적 배경을 가진 소비자 집단에 대한 맞춤형 캠페인은 브랜드 친밀도를 높일 수 있는 전략입니다.",
+    "so_what_en": "Targeted campaigns for specific cultural consumer groups can enhance brand affinity and demonstrate authentic purpose-driven marketing.",
+    "key_points": [
+      "Campaign targets repatriated Mexicans with culturally relevant messaging",
+      "Uses humor as a key creative strategy",
+      "Represents brand evolution from purpose to actionable engagement"
+    ],
+    "tags": [
+      "cultural-marketing",
+      "targeted-campaigns",
+      "brand-purpose"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Tecate",
+      "LePub Mexico City"
+    ],
+    "one_line_insight_ko": "문화적 특수성을 반영한 타겟팅 캠페인은 브랜드 진정성을 높이는 효과적인 방법입니다.",
+    "one_line_insight_en": "Culturally-specific targeted campaigns can enhance brand authenticity and consumer connection.",
+    "ai_processed": true
+  },
+  {
+    "title": "Ticker: Fox News Debuts New Promo Campaign Celebrating America&#8217;s 250th Birthday",
+    "link": "https://www.adweek.com/tvnewser/ticker-fox-news-debuts-new-promo-campaign-celebrating-americas-250th-birthday/",
+    "date_published": "2026-05-08",
+    "description": "Fox Business Network is also celebrating the milestone.",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
+    "categories": [
+      "marketing"
+    ],
+    "relevance_score": 0.2,
+    "relevance_label": "high",
+    "title_en": "Fox News Launches Promo Campaign for America's 250th Birthday Celebration",
+    "summary_ko": "폭스뉴스가 미국 건국 250주년을 기념하는 새로운 프로모션 캠페인을 시작했습니다. 폭스비즈니스 네트워크도 이 중요한 기념일을 함께 축하하고 있습니다. 국가적 기념일을 활용한 브랜드 마케팅 전략의 사례입니다.",
+    "summary_en": "Fox News debuted a new promotional campaign celebrating America's 250th birthday milestone. Fox Business Network is also participating in commemorating this significant anniversary. This represents a brand marketing strategy leveraging national milestone events.",
+    "so_what_ko": "국가적 기념일은 브랜드가 애국적 정서와 연결될 수 있는 마케팅 기회를 제공합니다.",
+    "so_what_en": "National milestones provide marketing opportunities for brands to connect with patriotic sentiment and cultural moments.",
+    "key_points": [
+      "Campaign leverages America's 250th birthday as a cultural moment",
+      "Multi-network approach across Fox News and Fox Business",
+      "Demonstrates event-based marketing strategy"
+    ],
+    "tags": [
+      "event-marketing",
+      "patriotic-branding",
+      "milestone-campaigns"
+    ],
+    "confidence": 0.5,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Fox News",
+      "Fox Business Network"
+    ],
+    "one_line_insight_ko": "국가적 기념일을 활용한 마케팅은 브랜드와 소비자 간 감정적 유대감을 형성할 수 있습니다.",
+    "one_line_insight_en": "National milestone marketing can create emotional bonds between brands and consumers through shared cultural experiences.",
+    "ai_processed": true
+  },
+  {
+    "title": "Creating meaningful moments across the customer journey",
+    "link": "https://martech.org/creating-meaningful-moments-across-the-customer-journey/",
+    "date_published": "2026-05-08",
+    "description": "Personalization fails when it feels like surveillance. At the May MarTech Conference,  we discussed building trust throughout the customer journey.\nThe post Creating meaningful moments across the customer journey appeared first on MarTech.",
+    "source_id": "martech_org",
+    "source_name": "MarTech.org",
+    "source_url": "https://martech.org/feed",
+    "categories": [
+      "marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.8,
+    "relevance_label": "high",
+    "title_en": "Building Trust Through Meaningful Customer Journey Personalization",
+    "summary_ko": "개인화가 감시처럼 느껴질 때 실패한다는 점이 MarTech 컨퍼런스에서 논의되었습니다. 고객 여정 전반에 걸쳐 신뢰를 구축하는 것이 성공적인 개인화의 핵심입니다. 의미 있는 순간들을 창출하여 고객과의 진정한 관계를 형성해야 합니다.",
+    "summary_en": "Personalization fails when it feels like surveillance, as discussed at the MarTech Conference. Building trust throughout the customer journey is essential for successful personalization. Creating meaningful moments helps establish genuine relationships with customers.",
+    "so_what_ko": "D2C 브랜드는 개인화 전략에서 신뢰 구축을 우선시하고 감시가 아닌 가치 제공에 집중해야 합니다.",
+    "so_what_en": "D2C brands must prioritize trust-building in personalization strategies, focusing on value delivery rather than surveillance-like tracking.",
+    "key_points": [
+      "Personalization must avoid feeling like surveillance to customers",
+      "Trust-building is fundamental to successful customer journey design",
+      "Meaningful moments creation is key to authentic customer relationships"
+    ],
+    "tags": [
+      "personalization",
+      "customer-trust",
+      "customer-journey"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "AI_PERSONALIZATION",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "MarTech Conference"
+    ],
+    "one_line_insight_ko": "개인화는 감시가 아닌 신뢰 기반의 가치 제공으로 접근해야 성공할 수 있습니다.",
+    "one_line_insight_en": "Successful personalization requires trust-based value delivery rather than surveillance-like customer tracking.",
+    "ai_processed": true
+  },
+  {
+    "title": "AI use and fatigue growing among consumers",
+    "link": "https://martech.org/ai-use-and-fatigue-growing-among-consumers/",
+    "date_published": "2026-05-08",
+    "description": "New report shows consumers are using AI more, which likely explains growing skepticism about its accuracy, automation, and influence.\nThe post AI use and fatigue growing among consumers appeared first on MarTech.",
+    "source_id": "martech_org",
+    "source_name": "MarTech.org",
+    "source_url": "https://martech.org/feed",
+    "categories": [
+      "marketing",
+      "tech"
+    ],
+    "relevance_score": 0.9,
+    "relevance_label": "high",
+    "title_en": "Consumer AI Usage Rises While Fatigue and Skepticism Grow",
+    "summary_ko": "새로운 보고서에 따르면 소비자들의 AI 사용이 증가하고 있지만 동시에 피로감도 커지고 있습니다. AI의 정확성, 자동화, 영향력에 대한 회의적인 시각이 늘어나고 있는 상황입니다. 사용량 증가가 오히려 AI에 대한 불신을 키우는 역설적 현상이 나타나고 있습니다.",
+    "summary_en": "A new report reveals that consumers are using AI more frequently while experiencing growing fatigue. Skepticism about AI's accuracy, automation, and influence is increasing among users. This creates a paradoxical situation where increased usage leads to greater distrust of AI capabilities.",
+    "so_what_ko": "AI 마케팅 도구를 도입할 때 소비자 피로감을 고려하여 투명성과 인간적 터치를 균형 있게 유지해야 합니다.",
+    "so_what_en": "When implementing AI marketing tools, brands must balance transparency and human touch to address growing consumer fatigue and skepticism.",
+    "key_points": [
+      "Consumer AI usage is increasing despite growing fatigue",
+      "Skepticism about AI accuracy and automation is rising",
+      "Paradoxical relationship between AI adoption and trust levels"
+    ],
+    "tags": [
+      "ai-fatigue",
+      "consumer-sentiment",
+      "ai-adoption"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "MarTech"
+    ],
+    "one_line_insight_ko": "AI 도입 증가와 동시에 나타나는 소비자 피로감은 브랜드의 신중한 AI 전략이 필요함을 시사합니다.",
+    "one_line_insight_en": "Rising AI adoption alongside consumer fatigue signals the need for careful, transparent AI strategy implementation by brands.",
+    "ai_processed": true
+  },
+  {
+    "title": "How to build content your competitors cannot copy",
+    "link": "https://martech.org/how-to-build-content-your-competitors-cannot-copy/",
+    "date_published": "2026-05-08",
+    "description": "Learn how to turn internal expertise into content that stands out in a sea of AI generated sameness.\nThe post How to build content your competitors cannot copy appeared first on MarTech.",
+    "source_id": "martech_org",
+    "source_name": "MarTech.org",
+    "source_url": "https://martech.org/feed",
+    "categories": [
+      "marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.8,
+    "relevance_label": "high",
+    "title_en": "Creating Unique Content That Competitors Cannot Replicate",
+    "summary_ko": "AI로 생성된 콘텐츠의 범람 속에서 차별화된 콘텐츠를 만드는 방법에 대한 가이드가 제시되었습니다. 내부 전문성을 활용하여 경쟁사가 복사할 수 없는 고유한 콘텐츠를 개발하는 것이 핵심입니다. AI 생성 콘텐츠의 획일성 문제를 해결하기 위한 전략적 접근이 필요합니다.",
+    "summary_en": "Guidance is provided on creating differentiated content in a sea of AI-generated sameness. The key is leveraging internal expertise to develop unique content that competitors cannot copy. Strategic approaches are needed to address the uniformity problem of AI-generated content.",
+    "so_what_ko": "D2C 브랜드는 AI 도구에 의존하기보다는 고유한 브랜드 전문성과 인사이트를 콘텐츠에 반영해야 경쟁 우위를 확보할 수 있습니다.",
+    "so_what_en": "D2C brands must leverage unique brand expertise and insights in content rather than relying solely on AI tools to maintain competitive advantage.",
+    "key_points": [
+      "Internal expertise can create non-replicable content advantages",
+      "AI-generated content creates uniformity challenges",
+      "Differentiation strategies are crucial in content marketing"
+    ],
+    "tags": [
+      "content-differentiation",
+      "ai-content",
+      "competitive-advantage"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "MarTech"
+    ],
+    "one_line_insight_ko": "AI 콘텐츠 범람 시대에는 브랜드 고유의 전문성이 가장 강력한 차별화 요소가 됩니다.",
+    "one_line_insight_en": "In the age of AI content proliferation, unique brand expertise becomes the most powerful differentiation factor.",
+    "ai_processed": true
+  },
+  {
+    "title": "How video helps you build better AI content with RAG",
+    "link": "https://martech.org/how-video-helps-you-build-better-ai-content-with-rag/",
+    "date_published": "2026-05-08",
+    "description": "Use video interviews, transcripts, and retrieval-augmented generation workflows to create more original and differentiated content.\nThe post How video helps you build better AI content with RAG appeared first on MarTech.",
+    "source_id": "martech_org",
+    "source_name": "MarTech.org",
+    "source_url": "https://martech.org/feed",
+    "categories": [
+      "marketing",
+      "tech"
+    ],
+    "relevance_score": 0.7,
+    "relevance_label": "high",
+    "title_en": "How Video Enhances AI Content Creation Through RAG Technology",
+    "summary_ko": "비디오 인터뷰와 트랜스크립트를 활용한 검색증강생성(RAG) 워크플로우가 더욱 독창적이고 차별화된 콘텐츠 제작을 가능하게 합니다. 마케터들은 비디오 데이터를 AI 콘텐츠 생성 프로세스에 통합하여 품질을 향상시킬 수 있습니다. 이 접근법은 기존 텍스트 기반 RAG보다 풍부한 컨텍스트를 제공합니다.",
+    "summary_en": "Video interviews and transcripts combined with retrieval-augmented generation workflows enable creation of more original and differentiated content. Marketers can integrate video data into AI content generation processes to enhance quality and authenticity. This approach provides richer context compared to traditional text-based RAG implementations.",
+    "so_what_ko": "D2C 브랜드들은 비디오 기반 RAG를 통해 고객 인터뷰, 제품 리뷰, 브랜드 스토리를 AI 콘텐츠 생성에 활용하여 더욱 진정성 있는 마케팅 메시지를 제작할 수 있습니다.",
+    "so_what_en": "D2C brands can leverage video-based RAG to incorporate customer interviews, product reviews, and brand stories into AI content generation for more authentic marketing messaging.",
+    "key_points": [
+      "Video interviews and transcripts enhance RAG workflows for content creation",
+      "Enables more original and differentiated AI-generated content",
+      "Provides richer context than text-only RAG approaches"
+    ],
+    "tags": [
+      "video-content",
+      "rag-technology",
+      "ai-content-generation",
+      "martech"
     ],
     "confidence": 0.6,
     "strategic_theme": "AI_MARKETING",
@@ -254,10 +477,99 @@
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "HubSpot"
+      "RAG",
+      "MarTech"
     ],
-    "one_line_insight_ko": "마케팅 성과 개선의 핵심은 노력보다는 프로세스 최적화에 있습니다.",
-    "one_line_insight_en": "The key to improving marketing performance lies in process optimization rather than just effort.",
+    "one_line_insight_ko": "비디오 기반 RAG는 D2C 브랜드의 AI 콘텐츠 생성에 진정성과 차별화를 제공하는 핵심 기술로 부상하고 있습니다.",
+    "one_line_insight_en": "Video-based RAG is emerging as a key technology for D2C brands to create more authentic and differentiated AI content.",
+    "ai_processed": true
+  },
+  {
+    "title": "Gmail’s AI Inbox may redefine deliverability",
+    "link": "https://martech.org/gmails-ai-inbox-may-redefine-deliverability/",
+    "date_published": "2026-05-08",
+    "description": "AI-generated summaries and prioritization could determine which emails actually get seen and which disappear into the background.\nThe post Gmail’s AI Inbox may redefine deliverability appeared first on MarTech.",
+    "source_id": "martech_org",
+    "source_name": "MarTech.org",
+    "source_url": "https://martech.org/feed",
+    "categories": [
+      "marketing"
+    ],
+    "relevance_score": 0.8,
+    "relevance_label": "high",
+    "title_en": "Gmail's AI Inbox Could Transform Email Deliverability Landscape",
+    "summary_ko": "Gmail의 AI 기반 받은편지함이 이메일 배송 가능성을 재정의할 수 있습니다. AI가 생성한 요약과 우선순위 기능이 실제로 사용자가 보는 이메일과 배경으로 사라지는 이메일을 결정하게 됩니다. 이는 이메일 마케팅 전략의 근본적인 변화를 요구합니다.",
+    "summary_en": "Gmail's AI-powered inbox may fundamentally redefine email deliverability standards. AI-generated summaries and prioritization features will determine which emails users actually see versus those that fade into the background. This development requires fundamental changes to email marketing strategies.",
+    "so_what_ko": "D2C 브랜드들은 AI 알고리즘에 최적화된 이메일 콘텐츠 전략을 개발해야 하며, 단순한 스팸 필터를 넘어서는 새로운 배송 가능성 기준에 적응해야 합니다.",
+    "so_what_en": "D2C brands must develop email content strategies optimized for AI algorithms and adapt to new deliverability standards beyond traditional spam filters.",
+    "key_points": [
+      "Gmail's AI inbox will use AI summaries and prioritization",
+      "Could determine email visibility through algorithmic filtering",
+      "Requires new approach to email marketing strategy"
+    ],
+    "tags": [
+      "email-marketing",
+      "gmail-ai",
+      "deliverability",
+      "ai-algorithms"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "Gmail",
+      "Google"
+    ],
+    "one_line_insight_ko": "Gmail의 AI 받은편지함은 이메일 마케팅의 게임 룰을 바꿔 브랜드들이 AI 친화적 콘텐츠 전략을 필수로 만들고 있습니다.",
+    "one_line_insight_en": "Gmail's AI inbox is changing the rules of email marketing, making AI-friendly content strategies essential for brands.",
+    "ai_processed": true
+  },
+  {
+    "title": "How to Make Your Email Marketing Accessible for Everyone",
+    "link": "https://www.salesforce.com/blog/accessible-email-marketing/",
+    "date_published": "2026-05-08",
+    "description": "Use these three pillars to start building templates that are readable across email functions and clients",
+    "source_id": "salesforce_agentforce",
+    "source_name": "Salesforce Agentforce Blog",
+    "source_url": "https://www.salesforce.com/blog/category/ai/feed/",
+    "categories": [
+      "marketing"
+    ],
+    "relevance_score": 0.5,
+    "relevance_label": "high",
+    "title_en": "Building Accessible Email Marketing Templates for Universal Reach",
+    "summary_ko": "모든 사용자를 위한 접근 가능한 이메일 마케팅 구축을 위한 세 가지 핵심 원칙을 제시합니다. 다양한 이메일 기능과 클라이언트에서 읽기 쉬운 템플릿 구축 방법을 다룹니다. 포용적인 디자인은 더 넓은 고객층에게 도달할 수 있게 해줍니다.",
+    "summary_en": "Three foundational pillars guide the creation of accessible email marketing for universal reach. The approach focuses on building templates readable across various email functions and clients. Inclusive design enables brands to reach broader customer segments.",
+    "so_what_ko": "D2C 브랜드들은 접근성을 고려한 이메일 템플릿으로 더 많은 고객층에게 도달하고 브랜드 포용성을 강화할 수 있습니다.",
+    "so_what_en": "D2C brands can reach broader customer segments and strengthen brand inclusivity through accessibility-focused email templates.",
+    "key_points": [
+      "Three pillars for accessible email marketing design",
+      "Templates readable across email functions and clients",
+      "Inclusive approach expands customer reach"
+    ],
+    "tags": [
+      "email-accessibility",
+      "inclusive-design",
+      "email-templates",
+      "customer-experience"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Salesforce",
+      "Agentforce"
+    ],
+    "one_line_insight_ko": "접근성 중심의 이메일 디자인은 D2C 브랜드가 더 포용적인 고객 경험을 제공하며 시장 확대의 기회를 창출합니다.",
+    "one_line_insight_en": "Accessibility-focused email design creates market expansion opportunities for D2C brands through more inclusive customer experiences.",
     "ai_processed": true
   },
   {
@@ -270,387 +582,85 @@
     "source_url": "https://feeds.megaphone.fm/marketingai",
     "categories": [
       "strategy",
-      "ai_marketing"
-    ],
-    "relevance_score": 0.8,
-    "relevance_label": "high",
-    "title_en": "AI Governance Challenges: Navigating Enterprise AI Adoption and IT Roadblocks",
-    "summary_ko": "기업 리더십은 AI를 모든 곳에 도입하려 하지만 IT 보안은 따라가지 못하고 있습니다. 마케팅은 앞서 나가는 반면 법무와 재무 부서는 신중한 접근을 보이고 있습니다. 매주 AI 에이전트가 예상치 못한 행동을 하는 사례들이 보고되고 있습니다.",
-    "summary_en": "Leadership wants AI everywhere while IT security struggles to keep up. Marketing races ahead as legal and finance departments take cautious approaches. Weekly reports emerge of AI agents performing unexpected actions.",
-    "so_what_ko": "D2C 조직은 AI 도입 시 부서 간 정책 조율과 리스크 관리 체계를 우선 구축해야 합니다.",
-    "so_what_en": "D2C organizations must prioritize cross-departmental policy coordination and risk management frameworks when adopting AI.",
-    "key_points": [
-      "Leadership pushes for widespread AI adoption while IT security lags",
-      "Marketing departments are leading AI implementation efforts",
-      "Legal and finance teams remain cautious about AI rollout",
-      "Regular incidents of AI agents acting unexpectedly"
-    ],
-    "tags": [
-      "ai-governance",
-      "enterprise-ai",
-      "organizational-change"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "Paul Roetzer",
-      "Cathy McPhillips"
-    ],
-    "one_line_insight_ko": "AI 도입 성공의 열쇠는 기술보다 조직 내 부서 간 정책 정렬에 있습니다.",
-    "one_line_insight_en": "The key to successful AI adoption lies in cross-departmental policy alignment rather than technology itself.",
-    "ai_processed": true
-  },
-  {
-    "title": "Luna Bar strategizes new era with social ads starring Jessica Alba",
-    "link": "https://www.marketingdive.com/news/luna-bar-strategizes-new-era-with-social-ads-starring-jessica-alba/819492/",
-    "date_published": "2026-05-07",
-    "description": "The Mondelēz-owned snack bar brand’s “Easy to Love” campaign represents its first major creative push in nearly a decade.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
-    "categories": [
-      "marketing"
-    ],
-    "relevance_score": 0.4,
-    "relevance_label": "high",
-    "title_en": "Luna Bar Launches First Major Campaign in Decade with Jessica Alba",
-    "summary_ko": "몬델리즈 소유의 스낵바 브랜드 루나바가 제시카 알바를 앞세운 'Easy to Love' 캠페인을 론칭했습니다. 이는 브랜드가 거의 10년 만에 선보이는 첫 번째 대규모 크리에이티브 캠페인입니다. 소셜 광고를 통해 새로운 시대를 위한 전략을 구축하고 있습니다.",
-    "summary_en": "Mondelēz-owned snack bar brand Luna Bar launched the 'Easy to Love' campaign featuring Jessica Alba. This represents the brand's first major creative push in nearly a decade. The brand is strategizing for a new era through social advertising.",
-    "so_what_ko": "유명 연예인을 활용한 브랜드 리뉴얼은 D2C 브랜드의 시장 재진입 전략으로 참고할 수 있습니다.",
-    "so_what_en": "Celebrity-driven brand renewal can serve as a reference for D2C brands' market re-entry strategies.",
-    "key_points": [
-      "First major campaign in nearly a decade for Luna Bar",
-      "Jessica Alba stars in 'Easy to Love' social campaign",
-      "Focus on social advertising for brand revitalization"
-    ],
-    "tags": [
-      "celebrity-marketing",
-      "brand-revival",
-      "social-advertising"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Luna Bar",
-      "Mondelēz",
-      "Jessica Alba"
-    ],
-    "one_line_insight_ko": "오랜 침묵 후 유명인 마케팅으로 브랜드 부활을 시도하는 전략이 주목받고 있습니다.",
-    "one_line_insight_en": "The strategy of reviving brands through celebrity marketing after long periods of silence is gaining attention.",
-    "ai_processed": true
-  },
-  {
-    "title": "Papa Johns’ CMO on driving cultural relevance with a ‘Toy Story’ tie-up",
-    "link": "https://www.marketingdive.com/news/papa-johns-cmo-on-driving-cultural-relevance-with-a-toy-story-tie-up/819495/",
-    "date_published": "2026-05-07",
-    "description": "Jenna Bromberg digs into recent moves around marketing co-ops and agency partners and how the chain is working with Google Cloud on AI.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
-    "categories": [
-      "marketing",
       "tech"
-    ],
-    "relevance_score": 0.7,
-    "relevance_label": "high",
-    "title_en": "Papa Johns CMO Discusses Cultural Relevance Strategy and Google Cloud AI Partnership",
-    "summary_ko": "파파존스의 CMO 제나 브롬버그가 토이스토리 타이업을 통한 문화적 관련성 확보 전략을 설명했습니다. 마케팅 협업과 에이전시 파트너십에 대한 최근 움직임을 다뤘습니다. 구글 클라우드와 AI 분야에서 협업하고 있다고 밝혔습니다.",
-    "summary_en": "Papa Johns CMO Jenna Bromberg explained the strategy for achieving cultural relevance through a Toy Story tie-up. She discussed recent moves around marketing cooperatives and agency partnerships. The company is working with Google Cloud on AI initiatives.",
-    "so_what_ko": "문화적 콘텐츠와의 협업과 AI 기술 도입은 D2C 브랜드의 고객 참여도 향상에 핵심적 역할을 할 수 있습니다.",
-    "so_what_en": "Collaboration with cultural content and AI technology adoption can play key roles in improving D2C brand customer engagement.",
-    "key_points": [
-      "Toy Story partnership drives cultural relevance",
-      "Focus on marketing co-ops and agency partnerships",
-      "Collaboration with Google Cloud on AI initiatives"
-    ],
-    "tags": [
-      "cultural-marketing",
-      "brand-partnerships",
-      "ai-collaboration"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Papa Johns",
-      "Jenna Bromberg",
-      "Google Cloud",
-      "Toy Story"
-    ],
-    "one_line_insight_ko": "문화적 콘텐츠와 AI 기술을 결합한 마케팅이 새로운 고객 연결점을 만들고 있습니다.",
-    "one_line_insight_en": "Marketing that combines cultural content with AI technology is creating new customer connection points.",
-    "ai_processed": true
-  },
-  {
-    "title": "Amazon, LinkedIn help advertisers reach professionals via CTV ads",
-    "link": "https://www.marketingdive.com/news/amazon-linkedin-help-advertisers-reach-professionals-via-ctv-ads/819372/",
-    "date_published": "2026-05-07",
-    "description": "As part of a new collaboration, marketers can run the networking platform’s CTV ad campaigns using Amazon DSP.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
-    "categories": [
-      "commerce",
-      "marketing"
-    ],
-    "relevance_score": 0.8,
-    "relevance_label": "high",
-    "title_en": "Amazon and LinkedIn Partner to Enable Professional Targeting via CTV Advertising",
-    "summary_ko": "아마존과 링크드인이 새로운 협업을 통해 광고주들이 CTV 광고를 통해 전문직 타겟층에 도달할 수 있도록 지원합니다. 마케터들은 아마존 DSP를 사용하여 링크드인의 CTV 광고 캠페인을 운영할 수 있습니다. 이는 네트워킹 플랫폼과 커머스 플랫폼의 협력 사례입니다.",
-    "summary_en": "Amazon and LinkedIn are collaborating to help advertisers reach professional audiences through CTV advertising. Marketers can run LinkedIn's CTV ad campaigns using Amazon DSP. This represents a partnership between networking and commerce platforms.",
-    "so_what_ko": "플랫폼 간 협력을 통한 정교한 타겟팅은 D2C 브랜드의 B2B 고객 확보 전략에 새로운 기회를 제공합니다.",
-    "so_what_en": "Sophisticated targeting through platform partnerships offers new opportunities for D2C brands' B2B customer acquisition strategies.",
-    "key_points": [
-      "Amazon and LinkedIn collaboration for professional targeting",
-      "CTV advertising reaches professional audiences",
-      "Amazon DSP integration with LinkedIn campaigns"
-    ],
-    "tags": [
-      "platform-partnership",
-      "ctv-advertising",
-      "professional-targeting"
-    ],
-    "confidence": 0.9,
-    "strategic_theme": "PLATFORM_ECOSYSTEM",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Amazon",
-      "LinkedIn",
-      "Amazon DSP"
-    ],
-    "one_line_insight_ko": "플랫폼 간 데이터 결합으로 정밀한 전문직 타겟팅이 CTV 광고의 새로운 표준이 되고 있습니다.",
-    "one_line_insight_en": "Cross-platform data integration for precise professional targeting is becoming the new standard in CTV advertising.",
-    "ai_processed": true
-  },
-  {
-    "title": "How to earn customer trust in the age of AI",
-    "link": "https://martech.org/how-to-earn-customer-trust-in-the-age-of-ai/",
-    "date_published": "2026-05-07",
-    "description": "Strong customer relationships are built through consistent actions, shared goals, and a genuine commitment to customer success.\nThe post How to earn customer trust in the age of AI appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
-    "categories": [
-      "marketing"
-    ],
-    "relevance_score": 0.7,
-    "relevance_label": "high",
-    "title_en": "How to Earn Customer Trust in the Age of AI",
-    "summary_ko": "AI 시대에 고객 신뢰를 구축하려면 일관된 행동과 공유된 목표, 진정한 고객 성공 몰입이 필요합니다. 강력한 고객 관계는 단순한 AI 기술 도입이 아닌 고객과의 지속적인 상호작용을 통해 형성됩니다. AI를 활용하면서도 인간 중심적 접근 방식을 유지하는 것이 핵심입니다.",
-    "summary_en": "Building customer trust in the AI era requires consistent actions, shared goals, and genuine commitment to customer success. Strong customer relationships are formed through continuous interactions rather than mere AI technology adoption. The key is maintaining a human-centric approach while leveraging AI capabilities.",
-    "so_what_ko": "D2C 브랜드는 AI 도구 도입 시 고객 신뢰 유지를 위해 투명성과 일관성을 우선시해야 합니다.",
-    "so_what_en": "D2C brands must prioritize transparency and consistency to maintain customer trust when implementing AI tools.",
-    "key_points": [
-      "Customer trust requires consistent actions and shared goals",
-      "AI implementation must maintain human-centric approach",
-      "Genuine commitment to customer success builds strong relationships"
-    ],
-    "tags": [
-      "customer-trust",
-      "ai-marketing",
-      "relationship-building"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "MarTech"
-    ],
-    "one_line_insight_ko": "AI 시대에도 고객 신뢰는 기술이 아닌 일관된 고객 중심 행동을 통해 구축됩니다.",
-    "one_line_insight_en": "Customer trust in the AI era is built through consistent customer-centric actions, not technology alone.",
-    "ai_processed": true
-  },
-  {
-    "title": "Why AI personalization strategies fail",
-    "link": "https://martech.org/why-ai-personalization-strategies-fail/",
-    "date_published": "2026-05-07",
-    "description": "Most personalization plans collapse during execution because operational realities don't match the vision.\nThe post Why AI personalization strategies fail appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
-    "categories": [
-      "marketing"
-    ],
-    "relevance_score": 0.8,
-    "relevance_label": "high",
-    "title_en": "Why AI Personalization Strategies Fail",
-    "summary_ko": "대부분의 AI 개인화 전략은 실행 단계에서 실패합니다. 비전과 운영 현실 사이의 격차로 인해 계획이 무너집니다. 성공적인 개인화를 위해서는 운영 역량과 전략적 목표의 일치가 필수적입니다.",
-    "summary_en": "Most AI personalization strategies fail during execution due to misalignment between vision and operational realities. The gap between strategic goals and operational capabilities causes plans to collapse. Successful personalization requires alignment between operational capacity and strategic objectives.",
-    "so_what_ko": "D2C 기업은 개인화 전략 수립 시 실행 가능성을 먼저 검토하고 운영 역량을 구축해야 합니다.",
-    "so_what_en": "D2C companies must assess execution feasibility first and build operational capabilities when developing personalization strategies.",
-    "key_points": [
-      "Personalization plans often collapse during execution",
-      "Vision-reality gap causes strategy failures",
-      "Operational alignment is crucial for success"
-    ],
-    "tags": [
-      "ai-personalization",
-      "strategy-execution",
-      "operational-alignment"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "AI_PERSONALIZATION",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "MarTech"
-    ],
-    "one_line_insight_ko": "AI 개인화 성공의 핵심은 비전이 아닌 실행 가능한 운영 역량에 있습니다.",
-    "one_line_insight_en": "AI personalization success lies in executable operational capabilities, not vision alone.",
-    "ai_processed": true
-  },
-  {
-    "title": "Moving beyond silos to align complex customer journeys",
-    "link": "https://martech.org/moving-beyond-silos-to-align-complex-customer-journeys/",
-    "date_published": "2026-05-07",
-    "description": "Complex campaigns break down when platforms, channels, and data flows fall out of sync. Martech helps keep customer journeys aligned.\nThe post Moving beyond silos to align complex customer journeys appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
-    "categories": [
-      "marketing"
     ],
     "relevance_score": 0.6,
     "relevance_label": "high",
-    "title_en": "Moving Beyond Silos to Align Complex Customer Journeys",
-    "summary_ko": "복잡한 캠페인은 플랫폼, 채널, 데이터 흐름이 동기화되지 않을 때 실패합니다. 마케팅 기술은 고객 여정을 일치시키는 데 도움이 됩니다. 사일로를 넘어선 통합적 접근 방식이 고객 경험 개선의 핵심입니다.",
-    "summary_en": "Complex campaigns break down when platforms, channels, and data flows fall out of sync. Marketing technology helps keep customer journeys aligned. An integrated approach beyond silos is key to improving customer experience.",
-    "so_what_ko": "D2C 브랜드는 옴니채널 고객 여정 관리를 위해 통합 마케팅 기술 스택 구축이 필수적입니다.",
-    "so_what_en": "D2C brands must build integrated marketing technology stacks for effective omnichannel customer journey management.",
+    "title_en": "AI Implementation Challenges: Enterprise Scaling and IT Roadblocks",
+    "summary_ko": "기업들이 AI 도입 과정에서 직면하는 주요 도전과제들을 다룹니다. 리더십은 AI를 모든 영역에 적용하려 하지만 IT 보안이 따라가지 못하고 있습니다. 마케팅은 빠르게 앞서가는 반면 법무와 재무 부서는 신중한 접근을 취하고 있습니다.",
+    "summary_en": "Organizations face significant challenges in AI implementation across departments. Leadership wants AI everywhere while IT security struggles to keep pace with demands. Marketing departments race ahead while legal and finance teams maintain cautious approaches.",
+    "so_what_ko": "D2C 조직은 부서간 AI 도입 속도 차이를 조율하고, 보안과 혁신 사이의 균형을 찾는 거버넌스 체계를 구축해야 합니다.",
+    "so_what_en": "D2C organizations need governance frameworks that balance innovation with security while coordinating AI adoption speeds across departments.",
     "key_points": [
-      "Campaign success requires synchronized platforms and data flows",
-      "Martech enables aligned customer journeys",
-      "Breaking down silos improves customer experience"
+      "Leadership pushes for widespread AI adoption",
+      "IT security cannot match implementation pace",
+      "Departmental misalignment creates organizational friction"
     ],
     "tags": [
-      "customer-journey",
-      "omnichannel",
-      "martech-integration"
+      "ai-governance",
+      "enterprise-scaling",
+      "organizational-change",
+      "it-security"
     ],
-    "confidence": 0.6,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "MarTech"
-    ],
-    "one_line_insight_ko": "복잡한 고객 여정 관리는 사일로 해체와 기술 통합을 통해서만 가능합니다.",
-    "one_line_insight_en": "Complex customer journey management is only possible through silo elimination and technology integration.",
-    "ai_processed": true
-  },
-  {
-    "title": "AI SEO punishes lazy marketing strategies by Brick Marketing",
-    "link": "https://martech.org/ai-seo-punishes-lazy-marketing-strategies/",
-    "date_published": "2026-05-07",
-    "description": "AI-driven search draws on broader signals, exposing gaps in fragmented campaigns and favoring brands with a consistent, cross-channel presence.\nThe post AI SEO punishes lazy marketing strategies appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
-    "categories": [
-      "marketing",
-      "tech"
-    ],
-    "relevance_score": 0.8,
-    "relevance_label": "high",
-    "title_en": "AI SEO Punishes Lazy Marketing Strategies",
-    "summary_ko": "AI 기반 검색은 더 광범위한 신호를 활용하여 파편화된 캠페인의 취약점을 드러냅니다. 일관된 크로스 채널 존재감을 가진 브랜드를 선호합니다. 게으른 마케팅 전략은 AI SEO에서 처벌받게 됩니다.",
-    "summary_en": "AI-driven search draws on broader signals, exposing gaps in fragmented campaigns. It favors brands with consistent cross-channel presence. Lazy marketing strategies face punishment in AI SEO environments.",
-    "so_what_ko": "D2C 브랜드는 AI SEO 대응을 위해 모든 채널에서 일관된 브랜드 메시지와 품질 높은 콘텐츠 전략을 수립해야 합니다.",
-    "so_what_en": "D2C brands must develop consistent brand messaging and high-quality content strategies across all channels to respond to AI SEO.",
-    "key_points": [
-      "AI search exposes gaps in fragmented marketing campaigns",
-      "Consistent cross-channel presence is favored",
-      "Lazy marketing strategies face AI SEO penalties"
-    ],
-    "tags": [
-      "ai-seo",
-      "cross-channel-marketing",
-      "content-strategy"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_MARKETING",
+    "confidence": 0.8,
+    "strategic_theme": "DATA_STRATEGY",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "HIGH",
-    "sentiment": "THREAT",
+    "sentiment": "NEUTRAL",
     "key_entities": [
-      "Brick Marketing",
-      "MarTech"
+      "Marketing AI Show",
+      "Paul Roetzer",
+      "Cathy McPhillips"
     ],
-    "one_line_insight_ko": "AI SEO 시대에는 채널 간 일관성 없는 마케팅 전략이 더 이상 통하지 않습니다.",
-    "one_line_insight_en": "Inconsistent cross-channel marketing strategies no longer work in the AI SEO era.",
+    "one_line_insight_ko": "성공적인 AI 도입을 위해서는 부서간 속도 조율과 보안-혁신 균형이 핵심 과제입니다.",
+    "one_line_insight_en": "Successful AI adoption requires departmental pace coordination and security-innovation balance as key challenges.",
     "ai_processed": true
   },
   {
-    "title": "US agentic sales to reach $1T by 2030: report",
-    "link": "https://www.paymentsdive.com/news/agentic-commerce-us-one-trillion-2030/819490/",
-    "date_published": "2026-05-07",
-    "description": "But even as the technology grows in popularity, the physical shopping experience will remain important, per a new report.",
-    "source_id": "payments_dive",
-    "source_name": "Payments Dive",
-    "source_url": "https://www.paymentsdive.com/feeds/news/",
+    "title": "Google Ads Gets 3 AI Max Updates",
+    "link": "https://www.practicalecommerce.com/google-ads-gets-3-ai-max-updates",
+    "date_published": "2026-05-05",
+    "description": "The three updates — AI Max for Shopping, AI Brief, and text disclaimers for Search — all use AI, with guardrails, to drive performance.\nThe post Google Ads Gets 3 AI Max Updates appeared first on Practical Ecommerce.",
+    "source_id": "practical_ecommerce",
+    "source_name": "Practical Ecommerce",
+    "source_url": "https://www.practicalecommerce.com/feed",
     "categories": [
       "commerce",
-      "tech"
+      "marketing"
     ],
     "relevance_score": 0.9,
     "relevance_label": "high",
-    "title_en": "US Agentic Sales to Reach $1T by 2030: Report",
-    "summary_ko": "미국의 에이전틱 커머스 매출이 2030년까지 1조 달러에 도달할 것으로 예상됩니다. 기술의 인기가 높아지고 있음에도 불구하고 물리적 쇼핑 경험은 여전히 중요할 것입니다. AI 에이전트 기반 판매가 급격한 성장세를 보이고 있습니다.",
-    "summary_en": "US agentic commerce sales are expected to reach $1 trillion by 2030. Despite growing technology popularity, physical shopping experiences will remain important. AI agent-based sales are showing rapid growth trajectory.",
-    "so_what_ko": "D2C 브랜드는 에이전틱 커머스 급성장에 대비해 AI 에이전트 기반 판매 채널 구축과 동시에 오프라인 경험도 강화해야 합니다.",
-    "so_what_en": "D2C brands must build AI agent-based sales channels while strengthening offline experiences to prepare for rapid agentic commerce growth.",
+    "title_en": "Google Ads Introduces Three AI Max Performance Updates",
+    "summary_ko": "구글 광고가 AI Max for Shopping, AI Brief, 그리고 검색용 텍스트 고지사항의 세 가지 AI 기반 업데이트를 출시했습니다. 모든 업데이트는 성능 향상을 위해 가드레일과 함께 AI를 활용합니다. 이커머스 광고주들이 더 효과적인 캠페인을 운영할 수 있게 도와줍니다.",
+    "summary_en": "Google Ads launched three AI Max updates including AI Max for Shopping, AI Brief, and text disclaimers for Search campaigns. All updates leverage AI with built-in guardrails to drive advertising performance improvements. The features help ecommerce advertisers run more effective campaigns.",
+    "so_what_ko": "D2C 브랜드들은 새로운 AI Max 기능을 활용하여 구글 광고 성과를 향상시키고, AI 기반 자동화로 광고 운영 효율성을 높일 수 있습니다.",
+    "so_what_en": "D2C brands can leverage new AI Max features to improve Google Ads performance and increase advertising operational efficiency through AI-powered automation.",
     "key_points": [
-      "US agentic sales projected to reach $1 trillion by 2030",
-      "Physical shopping experience remains important",
-      "AI agent technology gaining popularity"
+      "Three new AI Max updates for Google Ads",
+      "AI Max for Shopping, AI Brief, and Search disclaimers",
+      "Built-in guardrails ensure performance with safety"
     ],
     "tags": [
-      "agentic-commerce",
-      "ai-agents",
-      "market-forecast"
+      "google-ads",
+      "ai-automation",
+      "ecommerce-advertising",
+      "performance-marketing"
     ],
     "confidence": 0.8,
-    "strategic_theme": "AGENTIC_COMMERCE",
+    "strategic_theme": "AI_COMMERCE",
     "regions": [
-      "AMER"
+      "GLOBAL"
     ],
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Payments Dive"
+      "Google Ads",
+      "AI Max"
     ],
-    "one_line_insight_ko": "에이전틱 커머스가 1조 달러 시장으로 성장하면서 AI 기반 자동화 판매가 주류가 될 것입니다.",
-    "one_line_insight_en": "Agentic commerce will become mainstream as it grows into a $1 trillion market with AI-powered automated sales.",
+    "one_line_insight_ko": "구글의 AI Max 업데이트는 D2C 브랜드들이 더 스마트하고 효율적인 광고 자동화를 구현할 수 있는 중요한 기회를 제공합니다.",
+    "one_line_insight_en": "Google's AI Max updates provide D2C brands with crucial opportunities to implement smarter and more efficient advertising automation.",
     "ai_processed": true
   }
 ]
