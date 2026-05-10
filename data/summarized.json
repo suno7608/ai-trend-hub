@@ -1,578 +1,5 @@
 [
   {
-    "title": "The Weekly Closeout: ThredUp’s revenue jump and the interview that shook retail",
-    "link": "https://www.retaildive.com/news/ryan-cohen-gamestop-ebay-interview-thredup-q1-earnings/819613/",
-    "date_published": "2026-05-08",
-    "description": "The resale platform also saw active buyers grow, while the only thing more surprising than GameStop’s bid on eBay may have been the events that followed.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.6,
-    "relevance_label": "high",
-    "title_en": "ThredUp drives resale growth while GameStop's eBay bid disrupts retail landscape",
-    "summary_ko": "중고 거래 플랫폼 ThredUp이 매출 급증과 활성 구매자 증가를 기록했습니다. GameStop의 eBay 인수 시도가 소매업계에 충격을 주었습니다. 리세일 시장의 성장과 전통 소매업체 간 M&A가 업계 재편을 가속화하고 있습니다.",
-    "summary_en": "Resale platform ThredUp reported significant revenue growth and expanding active buyer base. GameStop's surprising bid for eBay sent shockwaves through the retail industry. The growth of resale markets and M&A activity among traditional retailers is accelerating industry transformation.",
-    "so_what_ko": "중고 거래 플랫폼의 성장은 지속가능성을 중시하는 소비자 트렌드를 반영하며, LG D2C는 순환경제 모델을 활용한 고객 참여 전략을 고려해야 합니다.",
-    "so_what_en": "The growth of resale platforms reflects consumer trends toward sustainability, requiring LG D2C to consider circular economy models for enhanced customer engagement strategies.",
-    "key_points": [
-      "ThredUp shows strong revenue growth and active buyer expansion",
-      "GameStop's eBay bid indicates major retail consolidation trends",
-      "Resale market growth reflects sustainability-focused consumer behavior"
-    ],
-    "tags": [
-      "resale-market",
-      "retail-consolidation",
-      "sustainability",
-      "circular-economy"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "ThredUp",
-      "GameStop",
-      "eBay"
-    ],
-    "one_line_insight_ko": "리세일 플랫폼의 성장은 지속가능성 중심의 새로운 소비 패턴을 보여주며 순환경제 비즈니스 모델의 기회를 시사합니다.",
-    "one_line_insight_en": "Resale platform growth demonstrates sustainability-driven consumption patterns, signaling opportunities for circular economy business models.",
-    "ai_processed": true
-  },
-  {
-    "title": "The tradeoff economy: Why stressed shoppers are still spending",
-    "link": "https://www.modernretail.co/podcasts/the-tradeoff-economy-why-stressed-shoppers-are-still-spending/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-05-09",
-    "description": "Katie Thomas from the Kearney Consumer Institute explains how shoppers' financial stress is showing up in their shopping habits.",
-    "source_id": "modern_retail",
-    "source_name": "Modern Retail",
-    "source_url": "https://www.modernretail.co/feed/",
-    "categories": [
-      "commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.7,
-    "relevance_label": "high",
-    "title_en": "Financial stress drives consumer tradeoff behaviors in retail spending patterns",
-    "summary_ko": "소비자들이 재정적 스트레스에도 불구하고 지출을 지속하며 트레이드오프 경제 현상을 보이고 있습니다. Kearney Consumer Institute의 Katie Thomas가 스트레스받는 쇼핑객들의 구매 습관 변화를 설명했습니다. 재정 압박 속에서도 선택적 소비 패턴이 나타나고 있습니다.",
-    "summary_en": "Consumers continue spending despite financial stress, demonstrating tradeoff economy behaviors. Katie Thomas from Kearney Consumer Institute explains how financial pressure manifests in changing shopping habits. Selective consumption patterns emerge even under financial constraints.",
-    "so_what_ko": "경제적 불확실성 속에서도 소비자들의 선택적 구매 패턴을 이해하고, 가치 중심의 제품 포지셔닝과 유연한 가격 전략으로 고객 충성도를 유지해야 합니다.",
-    "so_what_en": "Understanding selective purchasing patterns amid economic uncertainty requires value-driven product positioning and flexible pricing strategies to maintain customer loyalty.",
-    "key_points": [
-      "Consumers maintain spending despite financial stress through tradeoffs",
-      "Shopping habits reflect strategic prioritization of purchases",
-      "Economic pressure creates selective consumption patterns"
-    ],
-    "tags": [
-      "consumer-behavior",
-      "economic-stress",
-      "spending-patterns",
-      "tradeoff-economy"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Kearney Consumer Institute",
-      "Katie Thomas"
-    ],
-    "one_line_insight_ko": "재정적 스트레스 속에서도 소비자들의 전략적 구매 선택은 가치 중심 브랜드 포지셔닝의 중요성을 부각시킵니다.",
-    "one_line_insight_en": "Strategic purchase choices amid financial stress highlight the importance of value-driven brand positioning.",
-    "ai_processed": true
-  },
-  {
-    "title": "Bob’s Q1 growth defies wider sector trends",
-    "link": "https://www.retaildive.com/news/bobs-first-quarter-earnings-defies-home-sector-trends/819679/",
-    "date_published": "2026-05-08",
-    "description": "New store openings, strong comps and an expanding foothold with higher-income households helped the retailer navigate industrywide storms.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.6,
-    "relevance_label": "high",
-    "title_en": "Bob's Discount Furniture Q1 growth outperforms struggling home retail sector",
-    "summary_ko": "Bob's Discount Furniture가 1분기 성장으로 부진한 홈 리테일 섹터의 트렌드를 거스르며 선전했습니다. 새로운 매장 오픈과 강력한 동일점포매출 성장, 고소득층 고객 확대가 성장을 견인했습니다. 업계 전반의 어려움 속에서도 전략적 포지셔닝으로 성과를 거두었습니다.",
-    "summary_en": "Bob's Discount Furniture achieved Q1 growth that defied struggling home retail sector trends. New store openings, strong comparable sales, and expanded reach among higher-income households drove performance. Strategic positioning enabled success despite industrywide challenges.",
-    "so_what_ko": "홈 가전 시장의 전반적 부진 속에서도 차별화된 포지셔닝과 고객층 확대를 통해 성장할 수 있음을 보여주며, LG는 프리미엄 시장 진출과 매장 확장 전략을 재검토해야 합니다.",
-    "so_what_en": "Success amid home retail struggles demonstrates that differentiated positioning and customer base expansion can drive growth, requiring LG to reconsider premium market entry and store expansion strategies.",
-    "key_points": [
-      "Bob's achieved growth despite broader home retail sector decline",
-      "New store openings and strong comparable sales drove performance",
-      "Successful expansion into higher-income customer segments"
-    ],
-    "tags": [
-      "home-retail",
-      "store-expansion",
-      "customer-segmentation",
-      "sector-outperformance"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Bob's Discount Furniture"
-    ],
-    "one_line_insight_ko": "업계 부진 속에서도 차별화된 포지셔닝과 고객층 확대로 성장 가능함을 입증하는 사례입니다.",
-    "one_line_insight_en": "Proves that differentiated positioning and customer base expansion can achieve growth even amid industry decline.",
-    "ai_processed": true
-  },
-  {
-    "title": "6 generative engine optimization benefits every marketer should know",
-    "link": "https://blog.hubspot.com/marketing/6-generative-engine-optimization-benefits-every-marketer-should-know",
-    "date_published": "2026-05-08",
-    "description": "You’ve seen it with your own eyes, reader. The way buyers discover brands is changing faster than most marketing teams realize.",
-    "source_id": "hubspot_marketing",
-    "source_name": "HubSpot Marketing Blog",
-    "source_url": "https://blog.hubspot.com/marketing/rss.xml",
-    "categories": [
-      "marketing",
-      "tech"
-    ],
-    "relevance_score": 0.9,
-    "relevance_label": "high",
-    "title_en": "Six generative engine optimization benefits transforming modern marketing strategies",
-    "summary_ko": "생성형 엔진 최적화(GEO)가 마케팅 전략을 변화시키는 6가지 핵심 이점을 소개합니다. 구매자들이 브랜드를 발견하는 방식이 대부분의 마케팅 팀이 인식하는 것보다 빠르게 변화하고 있습니다. AI 기반 검색과 생성형 AI가 브랜드 발견 과정을 재정의하고 있습니다.",
-    "summary_en": "Generative Engine Optimization (GEO) presents six key benefits transforming marketing strategies. Brand discovery methods are changing faster than most marketing teams realize. AI-powered search and generative AI are redefining the brand discovery process.",
-    "so_what_ko": "생성형 AI 시대에 맞는 마케팅 최적화 전략을 수립해야 하며, 전통적 SEO를 넘어 GEO 관점에서 콘텐츠와 브랜드 전략을 재설계해야 합니다.",
-    "so_what_en": "Marketing optimization strategies must adapt to the generative AI era, requiring content and brand strategy redesign beyond traditional SEO to embrace GEO perspectives.",
-    "key_points": [
-      "Generative Engine Optimization offers six strategic marketing benefits",
-      "Brand discovery methods evolving faster than marketing team adaptation",
-      "AI-powered search fundamentally changing customer acquisition funnels"
-    ],
-    "tags": [
-      "generative-ai",
-      "search-optimization",
-      "brand-discovery",
-      "marketing-transformation"
-    ],
-    "confidence": 0.9,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "HubSpot",
-      "GEO"
-    ],
-    "one_line_insight_ko": "생성형 AI 검색 환경에서 브랜드 발견 방식의 근본적 변화에 대응하는 새로운 최적화 전략이 필수입니다.",
-    "one_line_insight_en": "New optimization strategies are essential to respond to fundamental changes in brand discovery within generative AI search environments.",
-    "ai_processed": true
-  },
-  {
-    "title": "Where Trade Desk sees advertising opportunity following bruising Q1",
-    "link": "https://www.marketingdive.com/news/where-trade-desk-sees-advertising-opportunity-following-bruising-q1/819692/",
-    "date_published": "2026-05-08",
-    "description": "The ad-tech firm pointed to the budding market for ads in AI chatbots and with CMOs it believes will start to treat walled gardens as “leftovers.”",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
-    "categories": [
-      "marketing",
-      "tech"
-    ],
-    "relevance_score": 0.9,
-    "relevance_label": "high",
-    "title_en": "Trade Desk identifies AI chatbot advertising opportunities after challenging Q1",
-    "summary_ko": "Trade Desk가 어려운 1분기 실적 이후 AI 챗봇 광고와 새로운 기회 영역을 확인했습니다. 광고 기술 기업은 AI 챗봇 내 광고의 신생 시장에 주목하고 있습니다. CMO들이 월드 가든을 '잔여물' 취급하기 시작할 것으로 예상한다고 밝혔습니다.",
-    "summary_en": "Trade Desk identified AI chatbot advertising and new opportunity areas following a challenging Q1. The ad-tech firm focused on the emerging market for advertisements within AI chatbots. The company expects CMOs to begin treating walled gardens as 'leftovers.'",
-    "so_what_ko": "AI 챗봇 내 광고가 새로운 성장 동력으로 부상하고 있으며, 기존 플랫폼 중심 광고 전략에서 벗어나 대화형 AI 환경에 최적화된 마케팅 접근법을 개발해야 합니다.",
-    "so_what_en": "AI chatbot advertising emerges as a new growth driver, requiring development of conversational AI-optimized marketing approaches beyond traditional platform-centric advertising strategies.",
-    "key_points": [
-      "Trade Desk sees opportunity in AI chatbot advertising market",
-      "CMOs expected to deprioritize traditional walled garden platforms",
-      "Emerging ad-tech opportunities in conversational AI environments"
-    ],
-    "tags": [
-      "ai-chatbot-ads",
-      "programmatic-advertising",
-      "conversational-marketing",
-      "walled-gardens"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Trade Desk",
-      "AI chatbots"
-    ],
-    "one_line_insight_ko": "AI 챗봇 광고 시장의 부상은 대화형 마케팅으로의 패러다임 전환을 예고합니다.",
-    "one_line_insight_en": "The rise of AI chatbot advertising signals a paradigm shift toward conversational marketing.",
-    "ai_processed": true
-  },
-  {
-    "title": "Campaign Trail: Tecate empowers repatriated Mexicans",
-    "link": "https://www.marketingdive.com/news/campaign-trail-tecate-empowers-repatriated-mexicans/819272/",
-    "date_published": "2026-05-08",
-    "description": "Created with LePub Mexico City, “Welcome Back, Paisano” uses a sharp sense of humor to help the brand move from purpose to action.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
-    "categories": [
-      "marketing"
-    ],
-    "relevance_score": 0.3,
-    "relevance_label": "high",
-    "title_en": "Tecate Launches 'Welcome Back, Paisano' Campaign for Repatriated Mexicans",
-    "summary_ko": "테카테가 LePub 멕시코시티와 함께 멕시코로 돌아온 이민자들을 위한 'Welcome Back, Paisano' 캠페인을 출시했습니다. 이 캠페인은 날카로운 유머 감각을 활용하여 브랜드가 목적에서 실행으로 나아갈 수 있도록 돕습니다. 귀환 이민자라는 특정 타겟 그룹에 대한 맞춤형 마케팅 접근법을 보여줍니다.",
-    "summary_en": "Tecate launched the 'Welcome Back, Paisano' campaign with LePub Mexico City targeting repatriated Mexicans. The campaign uses sharp humor to help the brand transition from purpose to action. It demonstrates a targeted marketing approach for a specific demographic group of returning immigrants.",
-    "so_what_ko": "특정 문화적 배경을 가진 소비자 집단에 대한 맞춤형 캠페인은 브랜드 친밀도를 높일 수 있는 전략입니다.",
-    "so_what_en": "Targeted campaigns for specific cultural consumer groups can enhance brand affinity and demonstrate authentic purpose-driven marketing.",
-    "key_points": [
-      "Campaign targets repatriated Mexicans with culturally relevant messaging",
-      "Uses humor as a key creative strategy",
-      "Represents brand evolution from purpose to actionable engagement"
-    ],
-    "tags": [
-      "cultural-marketing",
-      "targeted-campaigns",
-      "brand-purpose"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Tecate",
-      "LePub Mexico City"
-    ],
-    "one_line_insight_ko": "문화적 특수성을 반영한 타겟팅 캠페인은 브랜드 진정성을 높이는 효과적인 방법입니다.",
-    "one_line_insight_en": "Culturally-specific targeted campaigns can enhance brand authenticity and consumer connection.",
-    "ai_processed": true
-  },
-  {
-    "title": "Ticker: Fox News Debuts New Promo Campaign Celebrating America&#8217;s 250th Birthday",
-    "link": "https://www.adweek.com/tvnewser/ticker-fox-news-debuts-new-promo-campaign-celebrating-americas-250th-birthday/",
-    "date_published": "2026-05-08",
-    "description": "Fox Business Network is also celebrating the milestone.",
-    "source_id": "adweek",
-    "source_name": "Adweek",
-    "source_url": "https://www.adweek.com/feed",
-    "categories": [
-      "marketing"
-    ],
-    "relevance_score": 0.2,
-    "relevance_label": "high",
-    "title_en": "Fox News Launches Promo Campaign for America's 250th Birthday Celebration",
-    "summary_ko": "폭스뉴스가 미국 건국 250주년을 기념하는 새로운 프로모션 캠페인을 시작했습니다. 폭스비즈니스 네트워크도 이 중요한 기념일을 함께 축하하고 있습니다. 국가적 기념일을 활용한 브랜드 마케팅 전략의 사례입니다.",
-    "summary_en": "Fox News debuted a new promotional campaign celebrating America's 250th birthday milestone. Fox Business Network is also participating in commemorating this significant anniversary. This represents a brand marketing strategy leveraging national milestone events.",
-    "so_what_ko": "국가적 기념일은 브랜드가 애국적 정서와 연결될 수 있는 마케팅 기회를 제공합니다.",
-    "so_what_en": "National milestones provide marketing opportunities for brands to connect with patriotic sentiment and cultural moments.",
-    "key_points": [
-      "Campaign leverages America's 250th birthday as a cultural moment",
-      "Multi-network approach across Fox News and Fox Business",
-      "Demonstrates event-based marketing strategy"
-    ],
-    "tags": [
-      "event-marketing",
-      "patriotic-branding",
-      "milestone-campaigns"
-    ],
-    "confidence": 0.5,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Fox News",
-      "Fox Business Network"
-    ],
-    "one_line_insight_ko": "국가적 기념일을 활용한 마케팅은 브랜드와 소비자 간 감정적 유대감을 형성할 수 있습니다.",
-    "one_line_insight_en": "National milestone marketing can create emotional bonds between brands and consumers through shared cultural experiences.",
-    "ai_processed": true
-  },
-  {
-    "title": "Creating meaningful moments across the customer journey",
-    "link": "https://martech.org/creating-meaningful-moments-across-the-customer-journey/",
-    "date_published": "2026-05-08",
-    "description": "Personalization fails when it feels like surveillance. At the May MarTech Conference,  we discussed building trust throughout the customer journey.\nThe post Creating meaningful moments across the customer journey appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
-    "categories": [
-      "marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.8,
-    "relevance_label": "high",
-    "title_en": "Building Trust Through Meaningful Customer Journey Personalization",
-    "summary_ko": "개인화가 감시처럼 느껴질 때 실패한다는 점이 MarTech 컨퍼런스에서 논의되었습니다. 고객 여정 전반에 걸쳐 신뢰를 구축하는 것이 성공적인 개인화의 핵심입니다. 의미 있는 순간들을 창출하여 고객과의 진정한 관계를 형성해야 합니다.",
-    "summary_en": "Personalization fails when it feels like surveillance, as discussed at the MarTech Conference. Building trust throughout the customer journey is essential for successful personalization. Creating meaningful moments helps establish genuine relationships with customers.",
-    "so_what_ko": "D2C 브랜드는 개인화 전략에서 신뢰 구축을 우선시하고 감시가 아닌 가치 제공에 집중해야 합니다.",
-    "so_what_en": "D2C brands must prioritize trust-building in personalization strategies, focusing on value delivery rather than surveillance-like tracking.",
-    "key_points": [
-      "Personalization must avoid feeling like surveillance to customers",
-      "Trust-building is fundamental to successful customer journey design",
-      "Meaningful moments creation is key to authentic customer relationships"
-    ],
-    "tags": [
-      "personalization",
-      "customer-trust",
-      "customer-journey"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_PERSONALIZATION",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "MarTech Conference"
-    ],
-    "one_line_insight_ko": "개인화는 감시가 아닌 신뢰 기반의 가치 제공으로 접근해야 성공할 수 있습니다.",
-    "one_line_insight_en": "Successful personalization requires trust-based value delivery rather than surveillance-like customer tracking.",
-    "ai_processed": true
-  },
-  {
-    "title": "AI use and fatigue growing among consumers",
-    "link": "https://martech.org/ai-use-and-fatigue-growing-among-consumers/",
-    "date_published": "2026-05-08",
-    "description": "New report shows consumers are using AI more, which likely explains growing skepticism about its accuracy, automation, and influence.\nThe post AI use and fatigue growing among consumers appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
-    "categories": [
-      "marketing",
-      "tech"
-    ],
-    "relevance_score": 0.9,
-    "relevance_label": "high",
-    "title_en": "Consumer AI Usage Rises While Fatigue and Skepticism Grow",
-    "summary_ko": "새로운 보고서에 따르면 소비자들의 AI 사용이 증가하고 있지만 동시에 피로감도 커지고 있습니다. AI의 정확성, 자동화, 영향력에 대한 회의적인 시각이 늘어나고 있는 상황입니다. 사용량 증가가 오히려 AI에 대한 불신을 키우는 역설적 현상이 나타나고 있습니다.",
-    "summary_en": "A new report reveals that consumers are using AI more frequently while experiencing growing fatigue. Skepticism about AI's accuracy, automation, and influence is increasing among users. This creates a paradoxical situation where increased usage leads to greater distrust of AI capabilities.",
-    "so_what_ko": "AI 마케팅 도구를 도입할 때 소비자 피로감을 고려하여 투명성과 인간적 터치를 균형 있게 유지해야 합니다.",
-    "so_what_en": "When implementing AI marketing tools, brands must balance transparency and human touch to address growing consumer fatigue and skepticism.",
-    "key_points": [
-      "Consumer AI usage is increasing despite growing fatigue",
-      "Skepticism about AI accuracy and automation is rising",
-      "Paradoxical relationship between AI adoption and trust levels"
-    ],
-    "tags": [
-      "ai-fatigue",
-      "consumer-sentiment",
-      "ai-adoption"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "MarTech"
-    ],
-    "one_line_insight_ko": "AI 도입 증가와 동시에 나타나는 소비자 피로감은 브랜드의 신중한 AI 전략이 필요함을 시사합니다.",
-    "one_line_insight_en": "Rising AI adoption alongside consumer fatigue signals the need for careful, transparent AI strategy implementation by brands.",
-    "ai_processed": true
-  },
-  {
-    "title": "How to build content your competitors cannot copy",
-    "link": "https://martech.org/how-to-build-content-your-competitors-cannot-copy/",
-    "date_published": "2026-05-08",
-    "description": "Learn how to turn internal expertise into content that stands out in a sea of AI generated sameness.\nThe post How to build content your competitors cannot copy appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
-    "categories": [
-      "marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.8,
-    "relevance_label": "high",
-    "title_en": "Creating Unique Content That Competitors Cannot Replicate",
-    "summary_ko": "AI로 생성된 콘텐츠의 범람 속에서 차별화된 콘텐츠를 만드는 방법에 대한 가이드가 제시되었습니다. 내부 전문성을 활용하여 경쟁사가 복사할 수 없는 고유한 콘텐츠를 개발하는 것이 핵심입니다. AI 생성 콘텐츠의 획일성 문제를 해결하기 위한 전략적 접근이 필요합니다.",
-    "summary_en": "Guidance is provided on creating differentiated content in a sea of AI-generated sameness. The key is leveraging internal expertise to develop unique content that competitors cannot copy. Strategic approaches are needed to address the uniformity problem of AI-generated content.",
-    "so_what_ko": "D2C 브랜드는 AI 도구에 의존하기보다는 고유한 브랜드 전문성과 인사이트를 콘텐츠에 반영해야 경쟁 우위를 확보할 수 있습니다.",
-    "so_what_en": "D2C brands must leverage unique brand expertise and insights in content rather than relying solely on AI tools to maintain competitive advantage.",
-    "key_points": [
-      "Internal expertise can create non-replicable content advantages",
-      "AI-generated content creates uniformity challenges",
-      "Differentiation strategies are crucial in content marketing"
-    ],
-    "tags": [
-      "content-differentiation",
-      "ai-content",
-      "competitive-advantage"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "MarTech"
-    ],
-    "one_line_insight_ko": "AI 콘텐츠 범람 시대에는 브랜드 고유의 전문성이 가장 강력한 차별화 요소가 됩니다.",
-    "one_line_insight_en": "In the age of AI content proliferation, unique brand expertise becomes the most powerful differentiation factor.",
-    "ai_processed": true
-  },
-  {
-    "title": "How video helps you build better AI content with RAG",
-    "link": "https://martech.org/how-video-helps-you-build-better-ai-content-with-rag/",
-    "date_published": "2026-05-08",
-    "description": "Use video interviews, transcripts, and retrieval-augmented generation workflows to create more original and differentiated content.\nThe post How video helps you build better AI content with RAG appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
-    "categories": [
-      "marketing",
-      "tech"
-    ],
-    "relevance_score": 0.7,
-    "relevance_label": "high",
-    "title_en": "How Video Enhances AI Content Creation Through RAG Technology",
-    "summary_ko": "비디오 인터뷰와 트랜스크립트를 활용한 검색증강생성(RAG) 워크플로우가 더욱 독창적이고 차별화된 콘텐츠 제작을 가능하게 합니다. 마케터들은 비디오 데이터를 AI 콘텐츠 생성 프로세스에 통합하여 품질을 향상시킬 수 있습니다. 이 접근법은 기존 텍스트 기반 RAG보다 풍부한 컨텍스트를 제공합니다.",
-    "summary_en": "Video interviews and transcripts combined with retrieval-augmented generation workflows enable creation of more original and differentiated content. Marketers can integrate video data into AI content generation processes to enhance quality and authenticity. This approach provides richer context compared to traditional text-based RAG implementations.",
-    "so_what_ko": "D2C 브랜드들은 비디오 기반 RAG를 통해 고객 인터뷰, 제품 리뷰, 브랜드 스토리를 AI 콘텐츠 생성에 활용하여 더욱 진정성 있는 마케팅 메시지를 제작할 수 있습니다.",
-    "so_what_en": "D2C brands can leverage video-based RAG to incorporate customer interviews, product reviews, and brand stories into AI content generation for more authentic marketing messaging.",
-    "key_points": [
-      "Video interviews and transcripts enhance RAG workflows for content creation",
-      "Enables more original and differentiated AI-generated content",
-      "Provides richer context than text-only RAG approaches"
-    ],
-    "tags": [
-      "video-content",
-      "rag-technology",
-      "ai-content-generation",
-      "martech"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "RAG",
-      "MarTech"
-    ],
-    "one_line_insight_ko": "비디오 기반 RAG는 D2C 브랜드의 AI 콘텐츠 생성에 진정성과 차별화를 제공하는 핵심 기술로 부상하고 있습니다.",
-    "one_line_insight_en": "Video-based RAG is emerging as a key technology for D2C brands to create more authentic and differentiated AI content.",
-    "ai_processed": true
-  },
-  {
-    "title": "Gmail’s AI Inbox may redefine deliverability",
-    "link": "https://martech.org/gmails-ai-inbox-may-redefine-deliverability/",
-    "date_published": "2026-05-08",
-    "description": "AI-generated summaries and prioritization could determine which emails actually get seen and which disappear into the background.\nThe post Gmail’s AI Inbox may redefine deliverability appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
-    "categories": [
-      "marketing"
-    ],
-    "relevance_score": 0.8,
-    "relevance_label": "high",
-    "title_en": "Gmail's AI Inbox Could Transform Email Deliverability Landscape",
-    "summary_ko": "Gmail의 AI 기반 받은편지함이 이메일 배송 가능성을 재정의할 수 있습니다. AI가 생성한 요약과 우선순위 기능이 실제로 사용자가 보는 이메일과 배경으로 사라지는 이메일을 결정하게 됩니다. 이는 이메일 마케팅 전략의 근본적인 변화를 요구합니다.",
-    "summary_en": "Gmail's AI-powered inbox may fundamentally redefine email deliverability standards. AI-generated summaries and prioritization features will determine which emails users actually see versus those that fade into the background. This development requires fundamental changes to email marketing strategies.",
-    "so_what_ko": "D2C 브랜드들은 AI 알고리즘에 최적화된 이메일 콘텐츠 전략을 개발해야 하며, 단순한 스팸 필터를 넘어서는 새로운 배송 가능성 기준에 적응해야 합니다.",
-    "so_what_en": "D2C brands must develop email content strategies optimized for AI algorithms and adapt to new deliverability standards beyond traditional spam filters.",
-    "key_points": [
-      "Gmail's AI inbox will use AI summaries and prioritization",
-      "Could determine email visibility through algorithmic filtering",
-      "Requires new approach to email marketing strategy"
-    ],
-    "tags": [
-      "email-marketing",
-      "gmail-ai",
-      "deliverability",
-      "ai-algorithms"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "Gmail",
-      "Google"
-    ],
-    "one_line_insight_ko": "Gmail의 AI 받은편지함은 이메일 마케팅의 게임 룰을 바꿔 브랜드들이 AI 친화적 콘텐츠 전략을 필수로 만들고 있습니다.",
-    "one_line_insight_en": "Gmail's AI inbox is changing the rules of email marketing, making AI-friendly content strategies essential for brands.",
-    "ai_processed": true
-  },
-  {
-    "title": "How to Make Your Email Marketing Accessible for Everyone",
-    "link": "https://www.salesforce.com/blog/accessible-email-marketing/",
-    "date_published": "2026-05-08",
-    "description": "Use these three pillars to start building templates that are readable across email functions and clients",
-    "source_id": "salesforce_agentforce",
-    "source_name": "Salesforce Agentforce Blog",
-    "source_url": "https://www.salesforce.com/blog/category/ai/feed/",
-    "categories": [
-      "marketing"
-    ],
-    "relevance_score": 0.5,
-    "relevance_label": "high",
-    "title_en": "Building Accessible Email Marketing Templates for Universal Reach",
-    "summary_ko": "모든 사용자를 위한 접근 가능한 이메일 마케팅 구축을 위한 세 가지 핵심 원칙을 제시합니다. 다양한 이메일 기능과 클라이언트에서 읽기 쉬운 템플릿 구축 방법을 다룹니다. 포용적인 디자인은 더 넓은 고객층에게 도달할 수 있게 해줍니다.",
-    "summary_en": "Three foundational pillars guide the creation of accessible email marketing for universal reach. The approach focuses on building templates readable across various email functions and clients. Inclusive design enables brands to reach broader customer segments.",
-    "so_what_ko": "D2C 브랜드들은 접근성을 고려한 이메일 템플릿으로 더 많은 고객층에게 도달하고 브랜드 포용성을 강화할 수 있습니다.",
-    "so_what_en": "D2C brands can reach broader customer segments and strengthen brand inclusivity through accessibility-focused email templates.",
-    "key_points": [
-      "Three pillars for accessible email marketing design",
-      "Templates readable across email functions and clients",
-      "Inclusive approach expands customer reach"
-    ],
-    "tags": [
-      "email-accessibility",
-      "inclusive-design",
-      "email-templates",
-      "customer-experience"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Salesforce",
-      "Agentforce"
-    ],
-    "one_line_insight_ko": "접근성 중심의 이메일 디자인은 D2C 브랜드가 더 포용적인 고객 경험을 제공하며 시장 확대의 기회를 창출합니다.",
-    "one_line_insight_en": "Accessibility-focused email design creates market expansion opportunities for D2C brands through more inclusive customer experiences.",
-    "ai_processed": true
-  },
-  {
     "title": "#213: AI Answers - What AI Should Never Do, Enterprise Scaling, Governing AI & Navigating IT Roadblocks",
     "link": "",
     "date_published": "2026-05-07",
@@ -581,29 +8,30 @@
     "source_name": "The Marketing AI Show (Podcast)",
     "source_url": "https://feeds.megaphone.fm/marketingai",
     "categories": [
-      "strategy",
-      "tech"
+      "marketing",
+      "strategy"
     ],
-    "relevance_score": 0.6,
+    "relevance_score": 0.7,
     "relevance_label": "high",
-    "title_en": "AI Implementation Challenges: Enterprise Scaling and IT Roadblocks",
-    "summary_ko": "기업들이 AI 도입 과정에서 직면하는 주요 도전과제들을 다룹니다. 리더십은 AI를 모든 영역에 적용하려 하지만 IT 보안이 따라가지 못하고 있습니다. 마케팅은 빠르게 앞서가는 반면 법무와 재무 부서는 신중한 접근을 취하고 있습니다.",
-    "summary_en": "Organizations face significant challenges in AI implementation across departments. Leadership wants AI everywhere while IT security struggles to keep pace with demands. Marketing departments race ahead while legal and finance teams maintain cautious approaches.",
-    "so_what_ko": "D2C 조직은 부서간 AI 도입 속도 차이를 조율하고, 보안과 혁신 사이의 균형을 찾는 거버넌스 체계를 구축해야 합니다.",
-    "so_what_en": "D2C organizations need governance frameworks that balance innovation with security while coordinating AI adoption speeds across departments.",
+    "title_en": "AI Implementation Challenges: Overcoming Corporate Paralysis and Scaling Roadblocks",
+    "summary_ko": "기업들이 AI 도입에서 정책 마비와 부서 간 이해관계 충돌로 어려움을 겪고 있습니다. IT 보안팀은 속도를 따라가지 못하고 마케팅은 앞서가며 법무와 재무는 신중한 접근을 취하고 있습니다. AI 에이전트의 예측하지 못한 행동들이 조직 전반의 AI 확산을 더욱 복잡하게 만들고 있습니다.",
+    "summary_en": "Organizations are struggling with AI policy paralysis and departmental conflicts during implementation. IT security teams can't keep pace while marketing races ahead and legal/finance teams remain cautious. Unexpected AI agent behaviors are complicating organization-wide AI scaling efforts.",
+    "so_what_ko": "LG D2C는 부서 간 조율된 AI 거버넌스 체계를 구축하고, 점진적 도입 전략으로 조직 저항을 최소화해야 합니다.",
+    "so_what_en": "LG D2C needs to establish coordinated AI governance across departments and implement gradual adoption strategies to minimize organizational resistance.",
     "key_points": [
-      "Leadership pushes for widespread AI adoption",
-      "IT security cannot match implementation pace",
-      "Departmental misalignment creates organizational friction"
+      "AI policy paralysis affecting enterprise adoption",
+      "Departmental misalignment between marketing, IT, legal, and finance",
+      "Unexpected AI agent behaviors creating implementation challenges",
+      "Need for structured scaling approaches across organizations"
     ],
     "tags": [
       "ai-governance",
-      "enterprise-scaling",
+      "enterprise-adoption",
       "organizational-change",
-      "it-security"
+      "ai-scaling"
     ],
-    "confidence": 0.8,
-    "strategic_theme": "DATA_STRATEGY",
+    "confidence": 0.7,
+    "strategic_theme": "AI_AGENT",
     "regions": [
       "GLOBAL"
     ],
@@ -614,39 +42,40 @@
       "Paul Roetzer",
       "Cathy McPhillips"
     ],
-    "one_line_insight_ko": "성공적인 AI 도입을 위해서는 부서간 속도 조율과 보안-혁신 균형이 핵심 과제입니다.",
-    "one_line_insight_en": "Successful AI adoption requires departmental pace coordination and security-innovation balance as key challenges.",
+    "one_line_insight_ko": "AI 도입 성공의 핵심은 기술적 역량보다 조직 내 부서 간 협업과 거버넌스 체계입니다.",
+    "one_line_insight_en": "Successful AI adoption depends more on cross-departmental collaboration and governance than technical capabilities.",
     "ai_processed": true
   },
   {
-    "title": "Google Ads Gets 3 AI Max Updates",
-    "link": "https://www.practicalecommerce.com/google-ads-gets-3-ai-max-updates",
+    "title": "Etsy launches its app within ChatGPT as it continues its AI push",
+    "link": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
     "date_published": "2026-05-05",
-    "description": "The three updates — AI Max for Shopping, AI Brief, and text disclaimers for Search — all use AI, with guardrails, to drive performance.\nThe post Google Ads Gets 3 AI Max Updates appeared first on Practical Ecommerce.",
-    "source_id": "practical_ecommerce",
-    "source_name": "Practical Ecommerce",
-    "source_url": "https://www.practicalecommerce.com/feed",
+    "description": "Etsy's new native app within ChatGPT aims to be a conversational  shopping experience for users.",
+    "source_id": "techcrunch_commerce",
+    "source_name": "TechCrunch Commerce",
+    "source_url": "https://techcrunch.com/category/commerce/feed",
     "categories": [
       "commerce",
-      "marketing"
+      "tech"
     ],
     "relevance_score": 0.9,
     "relevance_label": "high",
-    "title_en": "Google Ads Introduces Three AI Max Performance Updates",
-    "summary_ko": "구글 광고가 AI Max for Shopping, AI Brief, 그리고 검색용 텍스트 고지사항의 세 가지 AI 기반 업데이트를 출시했습니다. 모든 업데이트는 성능 향상을 위해 가드레일과 함께 AI를 활용합니다. 이커머스 광고주들이 더 효과적인 캠페인을 운영할 수 있게 도와줍니다.",
-    "summary_en": "Google Ads launched three AI Max updates including AI Max for Shopping, AI Brief, and text disclaimers for Search campaigns. All updates leverage AI with built-in guardrails to drive advertising performance improvements. The features help ecommerce advertisers run more effective campaigns.",
-    "so_what_ko": "D2C 브랜드들은 새로운 AI Max 기능을 활용하여 구글 광고 성과를 향상시키고, AI 기반 자동화로 광고 운영 효율성을 높일 수 있습니다.",
-    "so_what_en": "D2C brands can leverage new AI Max features to improve Google Ads performance and increase advertising operational efficiency through AI-powered automation.",
+    "title_en": "Etsy Integrates Shopping Experience into ChatGPT with Native App Launch",
+    "summary_ko": "Etsy가 ChatGPT 내에서 네이티브 앱을 출시하여 대화형 쇼핑 경험을 제공하기 시작했습니다. 이는 Etsy의 AI 추진 전략의 일환으로 고객들이 자연어로 상품을 찾고 구매할 수 있게 합니다. AI 기반 대화형 커머스의 새로운 모델을 제시하는 사례입니다.",
+    "summary_en": "Etsy has launched a native app within ChatGPT to provide conversational shopping experiences. This initiative is part of Etsy's broader AI strategy, enabling customers to discover and purchase products through natural language interactions. It represents a new model for AI-powered conversational commerce.",
+    "so_what_ko": "LG D2C는 ChatGPT 같은 AI 플랫폼과의 통합을 통해 새로운 고객 접점을 확보하고 대화형 쇼핑 경험을 제공해야 합니다.",
+    "so_what_en": "LG D2C should explore integration with AI platforms like ChatGPT to create new customer touchpoints and conversational shopping experiences.",
     "key_points": [
-      "Three new AI Max updates for Google Ads",
-      "AI Max for Shopping, AI Brief, and Search disclaimers",
-      "Built-in guardrails ensure performance with safety"
+      "Etsy launches native ChatGPT app for conversational shopping",
+      "Part of Etsy's broader AI strategy initiative",
+      "Natural language product discovery and purchasing",
+      "New model for AI-powered commerce integration"
     ],
     "tags": [
-      "google-ads",
-      "ai-automation",
-      "ecommerce-advertising",
-      "performance-marketing"
+      "conversational-commerce",
+      "chatgpt-integration",
+      "ai-shopping",
+      "platform-commerce"
     ],
     "confidence": 0.8,
     "strategic_theme": "AI_COMMERCE",
@@ -656,11 +85,592 @@
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Google Ads",
-      "AI Max"
+      "Etsy",
+      "ChatGPT",
+      "OpenAI"
     ],
-    "one_line_insight_ko": "구글의 AI Max 업데이트는 D2C 브랜드들이 더 스마트하고 효율적인 광고 자동화를 구현할 수 있는 중요한 기회를 제공합니다.",
-    "one_line_insight_en": "Google's AI Max updates provide D2C brands with crucial opportunities to implement smarter and more efficient advertising automation.",
+    "one_line_insight_ko": "대화형 AI 플랫폼과의 네이티브 통합이 차세대 커머스 경험의 새로운 표준이 되고 있습니다.",
+    "one_line_insight_en": "Native integration with conversational AI platforms is becoming the new standard for next-generation commerce experiences.",
+    "ai_processed": true
+  },
+  {
+    "title": "[AINews] Anthropic growing 10x/year while everyone else is laying off >10% of their workforce",
+    "link": "https://www.latent.space/p/ainews-anthropic-growing-10xyear",
+    "date_published": "2026-05-09",
+    "description": "A quiet day lets us reflect on an interesting dichotomy in the economy.",
+    "source_id": "latent_space",
+    "source_name": "Latent Space (The AI Index)",
+    "source_url": "https://www.latent.space/feed",
+    "categories": [
+      "strategy",
+      "tech"
+    ],
+    "relevance_score": 0.6,
+    "relevance_label": "high",
+    "title_en": "Anthropic Shows 10x Growth While AI Industry Faces Widespread Layoffs",
+    "summary_ko": "Anthropic이 연간 10배 성장을 보이는 반면 다른 AI 기업들은 직원의 10% 이상을 해고하고 있습니다. AI 업계 내에서 극명한 양극화 현상이 나타나고 있습니다. 이는 AI 시장의 급격한 구조 변화와 승자 독식 구조를 보여줍니다.",
+    "summary_en": "Anthropic is experiencing 10x annual growth while other AI companies are laying off over 10% of their workforce. The AI industry shows stark polarization between winners and struggling companies. This reflects rapid structural changes and winner-take-all dynamics in the AI market.",
+    "so_what_ko": "AI 시장의 급격한 구조조정 시기에 LG는 전략적 파트너십과 차별화된 포지셔닝으로 경쟁 우위를 확보해야 합니다.",
+    "so_what_en": "During this rapid AI market restructuring, LG must secure competitive advantages through strategic partnerships and differentiated positioning.",
+    "key_points": [
+      "Anthropic achieving 10x year-over-year growth",
+      "Widespread layoffs across other AI companies",
+      "Stark polarization in AI industry performance",
+      "Winner-take-all market dynamics emerging"
+    ],
+    "tags": [
+      "ai-industry",
+      "market-dynamics",
+      "anthropic",
+      "competitive-landscape"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Anthropic"
+    ],
+    "one_line_insight_ko": "AI 시장의 승자 독식 구조가 가속화되면서 전략적 포지셔닝이 생존의 핵심이 되고 있습니다.",
+    "one_line_insight_en": "The winner-take-all structure in AI markets is accelerating, making strategic positioning crucial for survival.",
+    "ai_processed": true
+  },
+  {
+    "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+    "link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "date_published": "2026-05-09",
+    "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "categories": [
+      "tech",
+      "strategy"
+    ],
+    "relevance_score": 0.5,
+    "relevance_label": "high",
+    "title_en": "AI Terminology Guide: Understanding Key Terms and Industry Jargon",
+    "summary_ko": "AI의 급속한 확산으로 새로운 용어와 전문용어들이 쏟아지고 있어 정의가 필요합니다. 할루시네이션 등 중요한 AI 개념들에 대한 용어집이 제공되었습니다. AI 기술 이해와 소통을 위한 기본 지식이 정리되었습니다.",
+    "summary_en": "The rapid rise of AI has created an avalanche of new terms and specialized jargon requiring clarification. A glossary of important AI concepts including hallucinations has been provided. Essential knowledge for AI technology understanding and communication has been compiled.",
+    "so_what_ko": "LG D2C 조직 내 AI 리터러시 향상을 위해 표준 용어집과 교육 프로그램이 필요합니다.",
+    "so_what_en": "LG D2C needs standardized terminology and training programs to improve AI literacy across the organization.",
+    "key_points": [
+      "Comprehensive AI terminology glossary provided",
+      "Focus on important concepts like hallucinations",
+      "Growing need for AI literacy across industries",
+      "Essential knowledge for effective AI communication"
+    ],
+    "tags": [
+      "ai-education",
+      "terminology",
+      "ai-literacy",
+      "knowledge-management"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "DATA_STRATEGY",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "TechCrunch"
+    ],
+    "one_line_insight_ko": "AI 전문용어의 표준화와 조직 내 AI 리터러시가 성공적인 AI 도입의 전제조건입니다.",
+    "one_line_insight_en": "Standardization of AI terminology and organizational AI literacy are prerequisites for successful AI adoption.",
+    "ai_processed": true
+  },
+  {
+    "title": "Nvidia has already committed $40B to equity AI deals this year",
+    "link": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+    "date_published": "2026-05-09",
+    "description": "Nvidia continues to be a big investor in the AI ecosystem.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "categories": [
+      "tech",
+      "strategy"
+    ],
+    "relevance_score": 0.6,
+    "relevance_label": "high",
+    "title_en": "Nvidia Commits $40B to AI Equity Investments in Early 2026",
+    "summary_ko": "Nvidia가 2026년 초부터 AI 생태계에 400억 달러의 지분 투자를 약정했습니다. 이는 Nvidia가 AI 칩 공급업체를 넘어 생태계 전반의 투자자로서 영향력을 확대하고 있음을 보여줍니다. AI 밸류체인 전반에 대한 전략적 투자가 가속화되고 있습니다.",
+    "summary_en": "Nvidia has committed $40 billion in AI equity investments since early 2026. This shows Nvidia expanding its influence beyond chip supplier to become a major ecosystem investor. Strategic investments across the AI value chain are accelerating.",
+    "so_what_ko": "Nvidia의 대규모 AI 생태계 투자는 파트너십 기회와 동시에 공급망 의존성 위험을 높이므로 다각화 전략이 필요합니다.",
+    "so_what_en": "Nvidia's massive AI ecosystem investments create partnership opportunities while increasing supply chain dependency risks, requiring diversification strategies.",
+    "key_points": [
+      "Nvidia commits $40B to AI equity investments",
+      "Expansion from chip supplier to ecosystem investor",
+      "Strategic investments across AI value chain",
+      "Significant capital deployment in AI sector"
+    ],
+    "tags": [
+      "nvidia",
+      "ai-investment",
+      "ecosystem-development",
+      "strategic-partnerships"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "PLATFORM_ECOSYSTEM",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Nvidia"
+    ],
+    "one_line_insight_ko": "Nvidia의 생태계 투자 확대는 AI 밸류체인의 수직 통합 가속화를 의미합니다.",
+    "one_line_insight_en": "Nvidia's ecosystem investment expansion signals accelerated vertical integration in the AI value chain.",
+    "ai_processed": true
+  },
+  {
+    "title": "Mattel shareholder pushes company to explore sale",
+    "link": "https://www.retaildive.com/news/mattel-activist-shareholder-pushes-sale-hasbro-private-equity/819681/",
+    "date_published": "2026-05-08",
+    "description": "The investment management firm laid out scenerios where the toy company could be acquired by private equity, Hasbro or a media business.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.3,
+    "relevance_label": "high",
+    "title_en": "Activist Investor Pushes Mattel to Explore Strategic Sale Options",
+    "summary_ko": "투자관리회사가 매텔에 매각을 제안했습니다. 사모펀드, 해즈브로, 미디어 기업 인수 시나리오를 제시했습니다. 장난감 업계의 구조조정 압력이 커지고 있습니다.",
+    "summary_en": "Investment management firm pressured Mattel to explore sale opportunities. Multiple acquisition scenarios were outlined including private equity, Hasbro, or media companies. The toy industry faces increasing consolidation pressure.",
+    "so_what_ko": "완구업계의 통합 압력은 D2C 브랜드에게 시장 점유율 확대 기회를 제공할 수 있습니다.",
+    "so_what_en": "Industry consolidation pressure could create market share expansion opportunities for D2C brands in the toy sector.",
+    "key_points": [
+      "Activist shareholder pushing for Mattel sale",
+      "Multiple acquisition scenarios presented",
+      "Toy industry consolidation trend"
+    ],
+    "tags": [
+      "mattel",
+      "merger-acquisition",
+      "toy-industry"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Mattel",
+      "Hasbro"
+    ],
+    "one_line_insight_ko": "전통 완구업계의 구조조정은 D2C 브랜드에게 시장 진입 기회를 제공합니다.",
+    "one_line_insight_en": "Traditional toy industry restructuring creates market entry opportunities for D2C brands.",
+    "ai_processed": true
+  },
+  {
+    "title": "Mother Ventures is looking at moms as the ‘economic engine’",
+    "link": "https://techcrunch.com/2026/05/08/mother-ventures-is-looking-at-moms-as-the-economic-engine/",
+    "date_published": "2026-05-08",
+    "description": "The VC firm, which focuses on mothers as consumers, raised a $10 million debut fund.",
+    "source_id": "techcrunch_commerce",
+    "source_name": "TechCrunch Commerce",
+    "source_url": "https://techcrunch.com/category/commerce/feed",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.4,
+    "relevance_label": "high",
+    "title_en": "Mother Ventures Raises $10M Fund Targeting Mom Consumer Market",
+    "summary_ko": "머더 벤처스가 엄마들을 경제 엔진으로 보는 1천만 달러 펀드를 조성했습니다. 모성 소비자에 특화된 VC 펀드입니다. 엄마 시장의 구매력에 주목하고 있습니다.",
+    "summary_en": "Mother Ventures raised a $10 million debut fund focused on mothers as consumers. The VC firm specializes in the maternal consumer market. The fund recognizes mothers' significant purchasing power in the economy.",
+    "so_what_ko": "모성 소비자를 타겟으로 한 제품 개발과 마케팅 전략이 투자 트렌드로 부상하고 있어 주목해야 합니다.",
+    "so_what_en": "Product development and marketing strategies targeting maternal consumers are emerging as key investment trends worth monitoring.",
+    "key_points": [
+      "$10 million fund targeting mother consumers",
+      "Recognition of mothers' economic influence",
+      "Specialized VC focus on maternal market"
+    ],
+    "tags": [
+      "venture-capital",
+      "mother-market",
+      "consumer-segment"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Mother Ventures"
+    ],
+    "one_line_insight_ko": "모성 소비자의 구매력이 새로운 시장 기회로 인식되고 있습니다.",
+    "one_line_insight_en": "Maternal consumer purchasing power is being recognized as a significant market opportunity.",
+    "ai_processed": true
+  },
+  {
+    "title": "Airbnb says AI now writes 60% of its new code",
+    "link": "https://techcrunch.com/2026/05/08/airbnb-says-ai-now-writes-60-of-its-new-code/",
+    "date_published": "2026-05-08",
+    "description": "Airbnb also said its customer support AI bot now handles 40% of issues without escalating to a human agent.",
+    "source_id": "techcrunch_commerce",
+    "source_name": "TechCrunch Commerce",
+    "source_url": "https://techcrunch.com/category/commerce/feed",
+    "categories": [
+      "tech",
+      "agentic_commerce"
+    ],
+    "relevance_score": 0.9,
+    "relevance_label": "high",
+    "title_en": "Airbnb Reports AI Now Writes 60% of New Code and Handles 40% of Customer Support",
+    "summary_ko": "에어비앤비는 AI가 새로운 코드의 60%를 작성한다고 발표했습니다. 고객 지원 AI 봇이 40%의 문의를 인간 개입 없이 처리합니다. 개발과 고객서비스 자동화가 크게 진전되었습니다.",
+    "summary_en": "Airbnb announced that AI now writes 60% of its new code. Customer support AI bot handles 40% of issues without human escalation. Significant progress in development and customer service automation has been achieved.",
+    "so_what_ko": "AI를 통한 개발 및 고객서비스 자동화는 D2C 운영 효율성과 확장성을 크게 향상시킬 수 있습니다.",
+    "so_what_en": "AI-driven development and customer service automation can significantly enhance D2C operational efficiency and scalability.",
+    "key_points": [
+      "60% of new code written by AI",
+      "40% of customer support handled autonomously",
+      "Significant automation progress in tech operations"
+    ],
+    "tags": [
+      "ai-automation",
+      "customer-service",
+      "code-generation"
+    ],
+    "confidence": 0.9,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Airbnb"
+    ],
+    "one_line_insight_ko": "AI 자동화가 개발과 고객서비스 운영을 혁신적으로 변화시키고 있습니다.",
+    "one_line_insight_en": "AI automation is revolutionizing development and customer service operations.",
+    "ai_processed": true
+  },
+  {
+    "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+    "link": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+    "date_published": "2026-05-08",
+    "description": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into donating $38 million to the company. He claimed that they’d promised to maintain…",
+    "source_id": "mit_tech_review_ai",
+    "source_name": "MIT Technology Review (AI)",
+    "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+    "categories": [
+      "tech",
+      "strategy"
+    ],
+    "relevance_score": 0.6,
+    "relevance_label": "high",
+    "title_en": "OpenAI Counters Musk's $38M Donation Claims in High-Profile Legal Battle",
+    "summary_ko": "오픈AI와 일론 머스크 간의 법정 공방이 2주차에 접어들었습니다. 머스크는 샘 알트먼이 3800만 달러 기부를 속였다고 주장했습니다. 머스크의 소송 동기에 대한 의문이 제기되고 있습니다.",
+    "summary_en": "The legal battle between OpenAI and Elon Musk entered its second week. Musk alleged that Sam Altman deceived him regarding his $38 million donation. Questions arose about Musk's motivations for bringing the lawsuit.",
+    "so_what_ko": "AI 업계 리더십 갈등은 기술 발전과 파트너십 전략에 불확실성을 가져올 수 있습니다.",
+    "so_what_en": "Leadership conflicts in the AI industry may create uncertainty in technology development and partnership strategies.",
+    "key_points": [
+      "Ongoing legal dispute between Musk and OpenAI",
+      "$38 million donation controversy",
+      "Questions about Musk's lawsuit motivations"
+    ],
+    "tags": [
+      "openai",
+      "legal-battle",
+      "ai-governance"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "OpenAI",
+      "Elon Musk",
+      "Sam Altman"
+    ],
+    "one_line_insight_ko": "AI 업계의 리더십 갈등이 기술 생태계의 안정성에 영향을 미칠 수 있습니다.",
+    "one_line_insight_en": "Leadership conflicts in the AI industry may impact technology ecosystem stability.",
+    "ai_processed": true
+  },
+  {
+    "title": "Amazon Data Will Be Available on Netflix Inventory in the UK May 18",
+    "link": "https://www.adweek.com/convergent-tv/amazon-data-netflix-ads-uk-emea/",
+    "date_published": "2026-05-08",
+    "description": "The integration, in tandem with a LinkedIn tie-up unveiled this week, further underscores Amazon's ambition to dominate CTV ad buying.",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
+    "categories": [
+      "ai_marketing",
+      "marketing"
+    ],
+    "relevance_score": 0.8,
+    "relevance_label": "high",
+    "title_en": "Amazon Data Integration with Netflix Ads Signals CTV Dominance Push in UK",
+    "summary_ko": "아마존 데이터가 5월 18일부터 영국 넷플릭스 광고 인벤토리에서 활용됩니다. 링크드인과의 협력도 이번 주 발표되었습니다. 아마존의 CTV 광고 구매 시장 지배 야심을 보여줍니다.",
+    "summary_en": "Amazon data will be integrated with Netflix ad inventory in the UK starting May 18. A LinkedIn partnership was also announced this week. This demonstrates Amazon's ambition to dominate CTV ad buying markets.",
+    "so_what_ko": "아마존의 광고 생태계 확장은 D2C 브랜드의 광고 전략과 데이터 활용 방식을 재검토할 필요성을 제기합니다.",
+    "so_what_en": "Amazon's advertising ecosystem expansion requires D2C brands to reconsider their advertising strategies and data utilization approaches.",
+    "key_points": [
+      "Amazon data integration with Netflix ads in UK",
+      "LinkedIn partnership announcement",
+      "Amazon's CTV advertising dominance strategy"
+    ],
+    "tags": [
+      "amazon-advertising",
+      "netflix-ads",
+      "ctv-marketing"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "EMEA"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "Amazon",
+      "Netflix",
+      "LinkedIn"
+    ],
+    "one_line_insight_ko": "아마존의 광고 플랫폼 통합은 디지털 광고 시장의 경쟁 구도를 변화시키고 있습니다.",
+    "one_line_insight_en": "Amazon's advertising platform integration is reshaping the competitive landscape of digital advertising.",
+    "ai_processed": true
+  },
+  {
+    "title": "[AINews] GPT-Realtime-2, -Translate, and -Whisper: new SOTA realtime voice APIs",
+    "link": "https://www.latent.space/p/ainews-gpt-realtime-2-translate-and",
+    "date_published": "2026-05-08",
+    "description": "OpenAI continues deploying GPT-5 everywhere",
+    "source_id": "latent_space",
+    "source_name": "Latent Space (The AI Index)",
+    "source_url": "https://www.latent.space/feed",
+    "categories": [
+      "tech",
+      "ai_marketing"
+    ],
+    "relevance_score": 0.7,
+    "relevance_label": "high",
+    "title_en": "OpenAI Releases GPT-Realtime-2 with Advanced Voice Translation APIs",
+    "summary_ko": "OpenAI가 GPT-5 기반의 새로운 실시간 음성 API들을 출시했습니다. GPT-Realtime-2, Translate, Whisper 등이 포함된 이번 업데이트는 실시간 음성 처리 분야의 새로운 표준을 제시합니다. 전 세계적으로 GPT-5 배포가 확산되고 있는 추세입니다.",
+    "summary_en": "OpenAI has released new state-of-the-art realtime voice APIs including GPT-Realtime-2, Translate, and Whisper. These updates represent new standards in realtime voice processing capabilities. The deployment of GPT-5 technology is expanding globally across various applications.",
+    "so_what_ko": "실시간 음성 기술의 발전으로 D2C 브랜드는 더욱 자연스러운 고객 상호작용을 구현할 수 있게 되었습니다.",
+    "so_what_en": "Advanced realtime voice technology enables D2C brands to create more natural customer interactions and multilingual support.",
+    "key_points": [
+      "GPT-Realtime-2 offers improved real-time voice processing",
+      "New translation APIs enable multilingual voice interactions",
+      "GPT-5 deployment expanding across OpenAI services"
+    ],
+    "tags": [
+      "realtime-voice",
+      "gpt-5",
+      "translation-api",
+      "openai"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "EMERGING_TECH",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "OpenAI",
+      "GPT-5",
+      "GPT-Realtime-2",
+      "Whisper"
+    ],
+    "one_line_insight_ko": "실시간 음성 AI 기술의 발전으로 글로벌 D2C 고객 서비스의 언어 장벽이 해소될 수 있습니다.",
+    "one_line_insight_en": "Advanced realtime voice AI technology can eliminate language barriers in global D2C customer service.",
+    "ai_processed": true
+  },
+  {
+    "title": "Running Codex safely at OpenAI",
+    "link": "https://openai.com/index/running-codex-safely",
+    "date_published": "2026-05-08",
+    "description": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "categories": [
+      "tech",
+      "strategy"
+    ],
+    "relevance_score": 0.6,
+    "relevance_label": "high",
+    "title_en": "OpenAI Implements Secure Infrastructure for Codex AI Agent Deployment",
+    "summary_ko": "OpenAI가 코딩 에이전트 Codex의 안전한 운영을 위한 보안 인프라를 구축했습니다. 샌드박싱, 승인 프로세스, 네트워크 정책, 에이전트 전용 텔레메트리 등을 통해 안전하고 규정 준수적인 AI 에이전트 도입을 지원합니다. 기업들의 안전한 AI 에이전트 채택을 위한 새로운 표준을 제시하고 있습니다.",
+    "summary_en": "OpenAI has built secure infrastructure for running Codex coding agents safely in enterprise environments. The system includes sandboxing, approval processes, network policies, and agent-native telemetry for safe and compliant AI agent adoption. This establishes new standards for secure enterprise AI agent deployment.",
+    "so_what_ko": "안전한 AI 에이전트 인프라 구축 사례는 D2C 기업들이 자사 AI 시스템의 보안과 규정 준수를 강화하는 데 참고할 수 있는 모델을 제공합니다.",
+    "so_what_en": "Secure AI agent infrastructure provides a model for D2C companies to strengthen security and compliance in their AI systems.",
+    "key_points": [
+      "Comprehensive security framework for AI agent deployment",
+      "Sandboxing and approval processes ensure safe operation",
+      "Agent-native telemetry enables monitoring and compliance"
+    ],
+    "tags": [
+      "ai-security",
+      "codex",
+      "enterprise-ai",
+      "compliance"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "OpenAI",
+      "Codex"
+    ],
+    "one_line_insight_ko": "AI 에이전트의 기업 도입에서 보안 인프라가 성공의 핵심 요소로 부상하고 있습니다.",
+    "one_line_insight_en": "Security infrastructure emerges as a critical success factor in enterprise AI agent adoption.",
+    "ai_processed": true
+  },
+  {
+    "title": "Prompt: AI Agents Are Becoming Operational Infrastructure",
+    "link": "https://aibusiness.com/agentic-ai/prompt-ai-agents-becoming-operational-infrastructure",
+    "date_published": "2026-05-08",
+    "description": "As agents move past demos and into enterprise workflows, organizations are confronting the governance, infrastructure and operational problems posed by more autonomous AI systems.",
+    "source_id": "ai_business",
+    "source_name": "AI Business",
+    "source_url": "https://aibusiness.com/rss.xml",
+    "categories": [
+      "strategy",
+      "agentic_commerce"
+    ],
+    "relevance_score": 0.9,
+    "relevance_label": "high",
+    "title_en": "AI Agents Transition from Demos to Critical Enterprise Infrastructure",
+    "summary_ko": "AI 에이전트들이 데모 단계를 넘어 실제 기업 워크플로우로 진입하고 있습니다. 조직들은 더욱 자율적인 AI 시스템이 제기하는 거버넌스, 인프라, 운영 문제들에 직면하고 있습니다. AI 에이전트가 운영 인프라의 핵심 구성 요소로 자리잡고 있는 추세입니다.",
+    "summary_en": "AI agents are moving beyond demonstration phase into actual enterprise workflows and operational infrastructure. Organizations are confronting governance, infrastructure, and operational challenges posed by increasingly autonomous AI systems. AI agents are becoming critical components of operational infrastructure.",
+    "so_what_ko": "D2C 기업들은 AI 에이전트 도입 시 거버넌스와 운영 체계를 사전에 구축해야 하며, 이는 경쟁 우위 확보의 핵심 요소가 될 것입니다.",
+    "so_what_en": "D2C companies must establish governance and operational frameworks before AI agent adoption, which will become critical for competitive advantage.",
+    "key_points": [
+      "AI agents transitioning from demos to production workflows",
+      "Enterprise governance challenges emerging for autonomous systems",
+      "Infrastructure and operational problems require new solutions"
+    ],
+    "tags": [
+      "ai-agents",
+      "enterprise-infrastructure",
+      "governance",
+      "automation"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "AI Agents"
+    ],
+    "one_line_insight_ko": "AI 에이전트의 기업 인프라화는 D2C 운영 혁신의 새로운 기회를 창출하고 있습니다.",
+    "one_line_insight_en": "The infrastructuralization of AI agents creates new opportunities for D2C operational transformation.",
+    "ai_processed": true
+  },
+  {
+    "title": "Beijing Lab at $20B as AI Investors Look to China",
+    "link": "https://aibusiness.com/generative-ai/beijing-lab-20b-ai-investors-look-to-china",
+    "date_published": "2026-05-08",
+    "description": "The 2023 startup is the developer of the popular Kimi generative AI model.",
+    "source_id": "ai_business",
+    "source_name": "AI Business",
+    "source_url": "https://aibusiness.com/rss.xml",
+    "categories": [
+      "strategy",
+      "tech"
+    ],
+    "relevance_score": 0.5,
+    "relevance_label": "high",
+    "title_en": "Beijing AI Lab Reaches $20B Valuation as China Attracts Global AI Investment",
+    "summary_ko": "중국의 AI 스타트업이 200억 달러 가치 평가를 받으며 글로벌 AI 투자자들의 관심을 끌고 있습니다. 2023년 설립된 이 회사는 인기 있는 Kimi 생성형 AI 모델의 개발사입니다. 중국 AI 시장으로의 투자 관심이 급증하고 있는 상황입니다.",
+    "summary_en": "A Chinese AI startup has achieved a $20 billion valuation, attracting significant interest from global AI investors. The 2023-founded company is the developer of the popular Kimi generative AI model. Investment interest in China's AI market is surging significantly.",
+    "so_what_ko": "중국 AI 기술의 급부상은 글로벌 D2C 시장에서 새로운 경쟁 역학을 만들어내고 있으며, LG는 이러한 변화에 대응할 전략이 필요합니다.",
+    "so_what_en": "The rapid rise of Chinese AI technology creates new competitive dynamics in the global D2C market, requiring strategic response from LG.",
+    "key_points": [
+      "$20B valuation for 2023-founded Chinese AI startup",
+      "Kimi generative AI model gaining popularity",
+      "Global investors increasingly focusing on China's AI market"
+    ],
+    "tags": [
+      "china-ai",
+      "kimi-model",
+      "ai-investment",
+      "valuation"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "regions": [
+      "APAC",
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "Kimi",
+      "Beijing Lab"
+    ],
+    "one_line_insight_ko": "중국 AI 기업의 급성장은 글로벌 AI 경쟁 구도의 재편을 예고하고 있습니다.",
+    "one_line_insight_en": "Rapid growth of Chinese AI companies signals a reshaping of global AI competitive landscape.",
+    "ai_processed": true
+  },
+  {
+    "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
+    "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
+    "date_published": "2026-05-08",
+    "description": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "categories": [
+      "strategy"
+    ],
+    "relevance_score": 0.2,
+    "relevance_label": "high",
+    "title_en": "Oracle Denies Severance Negotiations for Laid-Off Remote Workers",
+    "summary_ko": "오라클에서 해고된 직원들이 더 나은 퇴직금 협상을 시도했지만 회사가 거부했습니다. 일부 직원들은 회사가 그들을 원격 근무자로 분류했기 때문에 2개월 사전 통지와 같은 WARN Act 보호를 받을 자격이 없다는 것을 발견했습니다. 기업의 원격 근무 분류가 직원 보호에 영향을 미치고 있습니다.",
+    "summary_en": "Oracle rejected negotiations for better severance packages from laid-off workers. Some employees discovered they didn't qualify for WARN Act protections like two-month notice because the company classified them as remote workers. Corporate remote work classifications are affecting employee protections.",
+    "so_what_ko": "원격 근무 분류에 따른 직원 보호 문제는 D2C 기업들이 인력 관리 정책을 재검토해야 할 필요성을 시사합니다.",
+    "so_what_en": "Employee protection issues related to remote work classification suggest D2C companies need to review their workforce management policies.",
+    "key_points": [
+      "Oracle rejected severance negotiations with laid-off employees",
+      "Remote worker classification affected WARN Act protections",
+      "Corporate employment policies under scrutiny"
+    ],
+    "tags": [
+      "oracle",
+      "layoffs",
+      "remote-work",
+      "employment-law"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Oracle"
+    ],
+    "one_line_insight_ko": "원격 근무 정책이 기업의 인력 관리 리스크에 새로운 변수로 작용하고 있습니다.",
+    "one_line_insight_en": "Remote work policies are creating new variables in corporate workforce management risk.",
     "ai_processed": true
   }
 ]
