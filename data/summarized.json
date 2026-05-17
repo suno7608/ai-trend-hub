@@ -1,568 +1,615 @@
 [
   {
-    "title": "The Weekly Closeout: Another entertainment exec at Gap Inc., and tariff refunds trickle in",
-    "link": "https://www.retaildive.com/news/weekly-closeout-gap-leadership-tariff-refunds-retailers/820306/",
-    "date_published": "2026-05-15",
-    "description": "The apparel conglomerate beefed up its \"fashiontainment\" roster, while retailers are getting their money back on import levies canceled by the Supreme Court.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
+    "title": "#213: AI Answers - What AI Should Never Do, Enterprise Scaling, Governing AI & Navigating IT Roadblocks",
+    "link": "",
+    "date_published": "2026-05-07",
+    "description": "Leadership wants AI everywhere. IT security can't keep up. Marketing is racing ahead while legal and finance dig in. And every week brings another story of an AI agent doing something nobody told it to do. Paul Roetzer and Cathy McPhillips answer 15 listener questions on how to actually move organizations forward and where the real opportunities lie for individuals, SMBs, and enterprises right now.\n\n00:00:00 — Intro\n\n00:07:01 — How do you move a company out of AI policy paralysis?\n\n00:08:54 — How should regulated, hands-on teams introduce AI?\n\n00:12:30 — When companies are stuck, what tends to get them moving?\n\n00:15:00 — Should IT security evolve to adopt AI quicker or should businesses slow down?\n\n00:17:43 — What changes an AI-skeptic employee's mind?\n\n00:21:18 — How should early-career professionals prioritize what to learn?\n\n00:23:29 — Is there a point where you should stop learning and start building?\n\n00:27:29 — Where do companies get stuck scaling AI across departments?\n\n00:29:4",
+    "source_id": "marketing_ai_show",
+    "source_name": "The Marketing AI Show (Podcast)",
+    "source_url": "https://feeds.megaphone.fm/marketingai",
     "categories": [
-      "commerce",
+      "marketing",
       "strategy"
     ],
-    "relevance_score": 0.3,
+    "relevance_score": 0.9,
     "relevance_label": "high",
-    "title_en": "Gap Inc. Expands Entertainment Leadership for 'Fashiontainment' Strategy as Tariff Refunds Begin",
-    "summary_ko": "Gap Inc.가 '패션테인먼트' 전략 강화를 위해 엔터테인먼트 업계 임원을 영입했습니다. 소매업체들이 대법원이 취소한 수입 관세에 대한 환급을 받기 시작했습니다. 패션과 엔터테인먼트 융합 트렌드가 계속되고 있음을 보여줍니다.",
-    "summary_en": "Gap Inc. strengthened its 'fashiontainment' strategy by recruiting entertainment industry executives. Retailers are beginning to receive refunds on import tariffs canceled by the Supreme Court. This demonstrates the ongoing trend of fashion and entertainment convergence.",
-    "so_what_ko": "패션 브랜드가 엔터테인먼트 요소를 강화하는 트렌드는 D2C 브랜드도 콘텐츠 마케팅과 브랜드 스토리텔링에 더 투자해야 함을 시사합니다.",
-    "so_what_en": "The trend of fashion brands strengthening entertainment elements suggests D2C brands should also invest more in content marketing and brand storytelling.",
+    "title_en": "AI Implementation Challenges: Overcoming Organizational Paralysis and IT Roadblocks",
+    "summary_ko": "마케팅 AI 쇼에서 기업의 AI 도입 시 발생하는 조직적 마비와 IT 보안 장벽 문제를 다뤘습니다. 리더십은 AI를 모든 곳에 도입하려 하지만 IT 보안팀이 따라가지 못하고 있는 상황입니다. 마케팅팀은 빠르게 진행하려 하지만 법무와 재무팀은 신중한 접근을 취하고 있습니다.",
+    "summary_en": "The Marketing AI Show addressed organizational paralysis and IT security barriers in corporate AI adoption. Leadership wants AI everywhere but IT security teams struggle to keep up with the pace. Marketing teams are racing ahead while legal and finance departments maintain cautious approaches.",
+    "so_what_ko": "D2C 조직은 AI 도입 시 부서 간 속도 차이를 조율하고 명확한 거버넌스 프레임워크를 구축해야 합니다.",
+    "so_what_en": "D2C organizations must coordinate departmental implementation speeds and establish clear governance frameworks for AI adoption.",
     "key_points": [
-      "Gap Inc. hired entertainment executive for fashiontainment strategy",
-      "Retailers receiving tariff refunds from Supreme Court decision",
-      "Fashion-entertainment convergence trend continues"
+      "Leadership pushes for widespread AI adoption while IT security lags",
+      "Marketing departments advance quickly but face resistance from legal/finance",
+      "Companies need strategies to overcome AI policy paralysis",
+      "Regulated teams require specialized AI introduction approaches"
     ],
     "tags": [
-      "fashiontainment",
-      "gap-inc",
-      "entertainment-marketing"
+      "ai-governance",
+      "organizational-change",
+      "it-security",
+      "ai-adoption"
     ],
-    "confidence": 0.6,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "confidence": 0.7,
+    "strategic_theme": "AI_MARKETING",
     "regions": [
-      "AMER"
+      "GLOBAL"
     ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Gap Inc."
+      "Marketing AI Show",
+      "Paul Roetzer",
+      "Cathy McPhillips"
     ],
-    "one_line_insight_ko": "패션 브랜드의 엔터테인먼트 전략 강화는 브랜드 차별화의 새로운 방향을 제시합니다.",
-    "one_line_insight_en": "Fashion brands' entertainment strategy enhancement presents a new direction for brand differentiation.",
+    "one_line_insight_ko": "AI 도입 성공을 위해서는 기술적 역량보다 조직 간 협력과 거버넌스가 더 중요합니다.",
+    "one_line_insight_en": "Successful AI implementation requires organizational coordination and governance more than technical capabilities.",
     "ai_processed": true
   },
   {
-    "title": "Department stores losing market share to resale",
-    "link": "https://www.retaildive.com/news/department-stores-lose-market-share-resale-secondhand-apparel/820346/",
-    "date_published": "2026-05-15",
-    "description": "Off-price retailers have little to fear from rapidly growing secondhand sales, though, according to research from Bank of America analysts.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
+    "title": "[AINews] Cerebras' $60B IPO: Slowly, then All at Once",
+    "link": "https://www.latent.space/p/ainews-cerebras-60b-ipo-slowly-then",
+    "date_published": "2026-05-16",
+    "description": "Congrats Big Chip!",
+    "source_id": "latent_space",
+    "source_name": "Latent Space (The AI Index)",
+    "source_url": "https://www.latent.space/feed",
     "categories": [
-      "commerce"
+      "tech"
     ],
     "relevance_score": 0.4,
     "relevance_label": "high",
-    "title_en": "Department Stores Lose Market Share to Growing Resale Market While Off-Price Retailers Remain Safe",
-    "summary_ko": "백화점들이 급성장하는 중고품 리세일 시장에 시장 점유율을 빼앗기고 있습니다. 하지만 뱅크오브아메리카 분석에 따르면 오프프라이스 리테일러들은 중고품 판매 성장에도 큰 영향을 받지 않을 것으로 예상됩니다. 소비자들의 가격 민감도가 높아지면서 리테일 지형이 변화하고 있습니다.",
-    "summary_en": "Department stores are losing market share to the rapidly growing resale secondhand market. However, Bank of America analysis suggests off-price retailers will not be significantly impacted by secondhand sales growth. The retail landscape is shifting as consumers become more price-sensitive.",
-    "so_what_ko": "중고품 시장 성장은 D2C 브랜드가 제품 내구성과 재판매 가치를 고려한 설계, 그리고 자체 중고품 프로그램 도입을 검토해야 함을 의미합니다.",
-    "so_what_en": "The growth of the resale market means D2C brands should consider product durability and resale value in design, as well as introducing their own secondhand programs.",
+    "title_en": "Cerebras Pursues $60B IPO in AI Chip Market Expansion",
+    "summary_ko": "AI 칩 전문업체 Cerebras가 600억 달러 규모의 IPO를 추진하고 있습니다. 이는 AI 인프라 시장의 급속한 성장을 보여주는 사례입니다. 원문에서 구체적인 IPO 세부사항은 확인되지 않음.",
+    "summary_en": "AI chip specialist Cerebras is pursuing a $60B IPO reflecting rapid growth in AI infrastructure markets. This represents significant expansion in the AI hardware sector. Specific IPO details are not confirmed in the source material.",
+    "so_what_ko": "AI 하드웨어 시장의 급성장은 D2C 기업들에게 더 강력한 AI 처리 능력을 제공할 가능성을 시사합니다.",
+    "so_what_en": "Rapid growth in AI hardware markets suggests enhanced processing capabilities will become available for D2C companies.",
     "key_points": [
-      "Department stores losing share to resale market",
-      "Off-price retailers relatively unaffected by secondhand growth",
-      "Consumer price sensitivity driving retail landscape changes"
+      "Cerebras targeting massive $60B IPO valuation",
+      "Indicates strong investor confidence in AI chip market",
+      "Reflects growing demand for specialized AI hardware"
     ],
     "tags": [
-      "resale-market",
-      "department-stores",
-      "secondhand-retail"
+      "ai-chips",
+      "ipo",
+      "hardware",
+      "infrastructure"
+    ],
+    "confidence": 0.5,
+    "strategic_theme": "EMERGING_TECH",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Cerebras"
+    ],
+    "one_line_insight_ko": "AI 칩 시장의 폭발적 성장은 향후 AI 서비스 비용 하락과 성능 향상을 예고합니다.",
+    "one_line_insight_en": "Explosive growth in AI chip markets signals future cost reductions and performance improvements in AI services.",
+    "ai_processed": true
+  },
+  {
+    "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+    "link": "https://openai.com/index/malta-chatgpt-plus-partnership",
+    "date_published": "2026-05-16",
+    "description": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "categories": [
+      "strategy"
+    ],
+    "relevance_score": 0.6,
+    "relevance_label": "high",
+    "title_en": "OpenAI Partners with Malta to Provide ChatGPT Plus Access to All Citizens",
+    "summary_ko": "OpenAI가 몰타와 파트너십을 맺고 모든 시민에게 ChatGPT Plus를 제공하기로 했습니다. 이 협력은 AI 접근성 확대와 시민들의 실용적인 AI 스킬 구축을 목표로 합니다. 책임감 있는 AI 사용을 위한 교육도 포함됩니다.",
+    "summary_en": "OpenAI has partnered with Malta to provide ChatGPT Plus access to all citizens. This collaboration aims to expand AI accessibility and help citizens build practical AI skills. The partnership includes training for responsible AI usage.",
+    "so_what_ko": "정부 차원의 AI 도입이 확산되면서 D2C 기업들도 고객의 AI 리터러시 향상을 고려한 서비스 전략이 필요합니다.",
+    "so_what_en": "Government-level AI adoption suggests D2C companies should consider customer AI literacy improvements in their service strategies.",
+    "key_points": [
+      "Malta becomes first country to provide ChatGPT Plus to all citizens",
+      "Focus on building practical AI skills and responsible usage",
+      "Government partnership model for AI accessibility"
+    ],
+    "tags": [
+      "government-partnership",
+      "ai-accessibility",
+      "chatgpt",
+      "digital-literacy"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "PLATFORM_ECOSYSTEM",
+    "regions": [
+      "EMEA"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "OpenAI",
+      "ChatGPT Plus",
+      "Malta"
+    ],
+    "one_line_insight_ko": "정부 차원의 AI 도입은 일반 소비자의 AI 친숙도를 높여 D2C 시장의 AI 기반 서비스 수용성을 개선할 것입니다.",
+    "one_line_insight_en": "Government-level AI adoption will increase consumer AI familiarity, improving acceptance of AI-powered D2C services.",
+    "ai_processed": true
+  },
+  {
+    "title": "The haves and have nots of the AI gold rush",
+    "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+    "date_published": "2026-05-16",
+    "description": "The vibes around the current AI boom aren't great, even in the tech industry.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "categories": [
+      "strategy"
+    ],
+    "relevance_score": 0.7,
+    "relevance_label": "high",
+    "title_en": "AI Gold Rush Creates Growing Divide Between Industry Winners and Losers",
+    "summary_ko": "현재 AI 붐에 대한 기술업계 내 분위기가 좋지 않다고 TechCrunch가 보도했습니다. AI 골드러시에서 승자와 패자가 명확하게 구분되고 있습니다. 원문에서 구체적인 분석 내용은 확인되지 않음.",
+    "summary_en": "TechCrunch reports negative sentiment within the tech industry regarding the current AI boom. The AI gold rush is creating clear distinctions between winners and losers. Specific analysis details are not confirmed in the source material.",
+    "so_what_ko": "AI 시장의 양극화가 심화되고 있어 D2C 기업들은 전략적 AI 투자와 파트너십이 더욱 중요해집니다.",
+    "so_what_en": "Increasing AI market polarization makes strategic AI investments and partnerships more critical for D2C companies.",
+    "key_points": [
+      "Tech industry sentiment around AI boom is negative",
+      "Clear divide emerging between AI winners and losers",
+      "Market consolidation affecting competitive dynamics"
+    ],
+    "tags": [
+      "ai-market",
+      "competition",
+      "market-dynamics",
+      "industry-sentiment"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "TechCrunch"
+    ],
+    "one_line_insight_ko": "AI 시장의 승패가 결정되는 시점에서 전략적 포지셔닝이 기업의 생존을 좌우할 것입니다.",
+    "one_line_insight_en": "Strategic positioning will determine corporate survival as AI market winners and losers become established.",
+    "ai_processed": true
+  },
+  {
+    "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+    "link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+    "date_published": "2026-05-16",
+    "description": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "categories": [
+      "strategy"
+    ],
+    "relevance_score": 0.5,
+    "relevance_label": "high",
+    "title_en": "ArXiv Implements Year-Long Bans for AI-Generated Research Papers",
+    "summary_ko": "연구 논문 저장소 ArXiv가 AI로 작성된 논문의 저자들을 1년간 게시 금지하는 정책을 도입했습니다. 이는 과학 논문에서 대규모 언어모델의 무분별한 사용을 단속하려는 조치입니다. ArXiv는 AI 도구의 신중하지 못한 사용에 대해 더 강력한 제재를 가하고 있습니다.",
+    "summary_en": "Research repository ArXiv has introduced year-long bans for authors of AI-generated papers. This measure aims to crack down on careless use of large language models in scientific publications. ArXiv is implementing stronger sanctions against inappropriate AI tool usage.",
+    "so_what_ko": "학술 및 연구 분야의 AI 사용 규제가 강화되면서 D2C 기업들도 AI 콘텐츠 생성 시 투명성과 품질 관리가 중요해집니다.",
+    "so_what_en": "Strengthened AI usage regulations in academic sectors highlight the importance of transparency and quality control in D2C AI content generation.",
+    "key_points": [
+      "ArXiv bans authors for one year if papers are fully AI-generated",
+      "Crackdown on careless use of large language models in research",
+      "Academic institutions setting precedents for AI content policies"
+    ],
+    "tags": [
+      "ai-regulation",
+      "content-policy",
+      "research-integrity",
+      "ai-ethics"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "DATA_STRATEGY",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "ArXiv",
+      "TechCrunch"
+    ],
+    "one_line_insight_ko": "학술계의 AI 콘텐츠 규제 강화는 기업들의 AI 생성 콘텐츠에 대한 투명성 요구로 확산될 가능성이 높습니다.",
+    "one_line_insight_en": "Academic AI content regulations are likely to expand into corporate transparency requirements for AI-generated content.",
+    "ai_processed": true
+  },
+  {
+    "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+    "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+    "date_published": "2026-05-16",
+    "description": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "categories": [
+      "tech",
+      "strategy"
+    ],
+    "relevance_score": 0.6,
+    "relevance_label": "high",
+    "title_en": "OpenAI co-founder Greg Brockman takes charge of product strategy amid ChatGPT-Codex integration plans",
+    "summary_ko": "OpenAI의 공동창립자 그렉 브록만이 제품 전략을 담당하게 되었습니다. 회사는 ChatGPT와 프로그래밍 제품인 Codex를 통합할 계획으로 알려졌습니다. 이러한 조직 개편은 OpenAI의 제품 포트폴리오 통합 전략의 일환으로 보입니다.",
+    "summary_en": "OpenAI co-founder Greg Brockman has taken charge of the company's product strategy. The company reportedly plans to combine ChatGPT and its programming product Codex into an integrated offering. This organizational shift represents OpenAI's strategic move to consolidate its product portfolio.",
+    "so_what_ko": "OpenAI의 제품 통합 전략은 D2C 브랜드가 단일 플랫폼에서 고객 대화와 개발 도구를 모두 활용할 수 있는 기회를 제공할 것입니다.",
+    "so_what_en": "OpenAI's product integration strategy will enable D2C brands to leverage both customer conversation and development tools from a single platform.",
+    "key_points": [
+      "Greg Brockman appointed to lead product strategy at OpenAI",
+      "Plans to integrate ChatGPT and Codex programming tools",
+      "Represents organizational restructuring within OpenAI"
+    ],
+    "tags": [
+      "openai",
+      "product-strategy",
+      "chatgpt",
+      "codex",
+      "integration"
     ],
     "confidence": 0.7,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "strategic_theme": "AI_AGENT",
     "regions": [
-      "AMER"
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "OpenAI",
+      "Greg Brockman",
+      "ChatGPT",
+      "Codex"
+    ],
+    "one_line_insight_ko": "OpenAI의 제품 통합 전략은 D2C 브랜드의 AI 활용 복잡성을 줄이고 통합된 솔루션 접근을 가능하게 할 것입니다.",
+    "one_line_insight_en": "OpenAI's product integration strategy will reduce AI adoption complexity for D2C brands by enabling unified solution access.",
+    "ai_processed": true
+  },
+  {
+    "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+    "link": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+    "date_published": "2026-05-15",
+    "description": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involving companies that do business with OpenAI. But he fired back, painting Musk as a power-seeker who wanted to control the development…",
+    "source_id": "mit_tech_review_ai",
+    "source_name": "MIT Technology Review (AI)",
+    "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+    "categories": [
+      "strategy"
+    ],
+    "relevance_score": 0.4,
+    "relevance_label": "high",
+    "title_en": "Musk vs Altman trial enters final week with credibility battles over OpenAI's future direction",
+    "summary_ko": "일론 머스크와 샘 알트만의 법정 공방이 마지막 주에 접어들면서 양측의 신뢰성이 주요 쟁점이 되었습니다. 알트만은 거짓말과 이해충돌 의혹에 대해 반박하며 머스크를 권력욕에 사로잡힌 인물로 묘사했습니다. 이 재판은 OpenAI의 미래 발전 방향에 중대한 영향을 미칠 것으로 예상됩니다.",
+    "summary_en": "The Musk v. Altman trial entered its final week with credibility becoming the central issue between both parties. Altman defended against allegations of lying and conflicts of interest while portraying Musk as power-seeking. The trial outcome is expected to significantly impact OpenAI's future development direction.",
+    "so_what_ko": "OpenAI 리더십의 불확실성은 D2C 기업들의 AI 도입 계획에 리스크 요소로 작용할 수 있으며, 대안 AI 솔루션 검토가 필요할 것입니다.",
+    "so_what_en": "Leadership uncertainty at OpenAI may pose risks to D2C companies' AI adoption plans, requiring consideration of alternative AI solutions.",
+    "key_points": [
+      "Final week of high-profile legal battle between Musk and Altman",
+      "Credibility and leadership integrity central to the case",
+      "Outcome could impact OpenAI's strategic direction and governance"
+    ],
+    "tags": [
+      "openai",
+      "legal-battle",
+      "leadership",
+      "musk",
+      "altman"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "regions": [
+      "GLOBAL"
     ],
     "business_impact": "MEDIUM",
     "sentiment": "THREAT",
     "key_entities": [
-      "Bank of America"
+      "Elon Musk",
+      "Sam Altman",
+      "OpenAI"
     ],
-    "one_line_insight_ko": "중고품 시장 성장은 전통 소매업체에 위협이지만 오프프라이스 모델은 상대적으로 안전합니다.",
-    "one_line_insight_en": "Resale market growth threatens traditional retailers but off-price models remain relatively safe.",
+    "one_line_insight_ko": "OpenAI 리더십 갈등은 AI 시장의 불확실성을 증가시켜 기업들의 다각화된 AI 전략 수립을 촉진할 것입니다.",
+    "one_line_insight_en": "OpenAI leadership conflicts will increase AI market uncertainty, driving companies toward diversified AI strategies.",
     "ai_processed": true
   },
   {
-    "title": "Bed Bath & Beyond’s first co-branded store with The Container Store will open Saturday",
-    "link": "https://www.retaildive.com/news/bed-bath-beyond-container-store-cobranded-store-opens-texas/820360/",
+    "title": "Ally wants influence over women’s sports media deals — not just sponsorships",
+    "link": "https://digiday.com/marketing/ally-wants-influence-over-womens-sports-media-deals-not-just-sponsorships/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
     "date_published": "2026-05-15",
-    "description": "The location in Fort Worth, Texas, comes just over a month after Bed Bath & Beyond announced plans to acquire the organizational retailer.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
+    "description": "Ally is accelerating ad spend in women’s sports, gaining more influence over media deals as brands compete for inventory and audience growth.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
     "categories": [
-      "commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.3,
-    "relevance_label": "high",
-    "title_en": "Bed Bath & Beyond Opens First Co-Branded Store with The Container Store Following Acquisition Plans",
-    "summary_ko": "Bed Bath & Beyond가 The Container Store와의 첫 공동 브랜드 매장을 텍사스주 포트워스에 토요일 오픈합니다. 이는 Bed Bath & Beyond가 정리용품 리테일러 인수 계획을 발표한 지 한 달여 만입니다. 두 브랜드의 시너지를 통한 새로운 리테일 모델을 시도합니다.",
-    "summary_en": "Bed Bath & Beyond is opening its first co-branded store with The Container Store in Fort Worth, Texas, this Saturday. This comes just over a month after Bed Bath & Beyond announced plans to acquire the organizational retailer. The companies are attempting a new retail model through brand synergy.",
-    "so_what_ko": "브랜드 인수 후 공동 매장 전략은 D2C 기업이 확장 시 파트너십을 통한 물리적 진출 방안을 제시하며, 상호 보완적 제품군 결합의 가능성을 보여줍니다.",
-    "so_what_en": "Post-acquisition co-store strategy suggests D2C companies can consider partnership-based physical expansion and demonstrates the potential of combining complementary product lines.",
-    "key_points": [
-      "First Bed Bath & Beyond and Container Store co-branded location opening",
-      "Follows acquisition announcement from over a month ago",
-      "Testing new retail model through brand synergy"
-    ],
-    "tags": [
-      "co-branding",
-      "retail-partnership",
-      "store-format"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Bed Bath & Beyond",
-      "The Container Store"
-    ],
-    "one_line_insight_ko": "인수 후 공동 매장 운영은 브랜드 시너지를 통한 새로운 리테일 모델의 가능성을 제시합니다.",
-    "one_line_insight_en": "Post-acquisition co-store operations present possibilities for new retail models through brand synergy.",
-    "ai_processed": true
-  },
-  {
-    "title": "Amazon Business rolls out new credit cards with U.S. Bank and Mastercard",
-    "link": "https://www.digitalcommerce360.com/2026/05/15/amazon-business-rolls-out-new-credit-cards-with-u-s-bank-and-mastercard/",
-    "date_published": "2026-05-15",
-    "description": "Amazon.com Inc. is updating its business credit card program, shifting new applicants to U.S. Bank and Mastercard as it adds more rewards and financing tools for business buyers. The retailer introduced the new Prime Business Card and Amazon Business Card on May 13. The launch moves new applicants away from American Express, which had issued […]\nThe post Amazon Business rolls out new credit cards with U.S. Bank and Mastercard appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
-    "categories": [
-      "commerce"
+      "marketing"
     ],
     "relevance_score": 0.5,
     "relevance_label": "high",
-    "title_en": "Amazon Business Launches New Credit Cards with U.S. Bank and Mastercard, Adds Enhanced Rewards",
-    "summary_ko": "아마존이 비즈니스 신용카드 프로그램을 업데이트하며 새 신청자를 U.S. Bank와 마스터카드로 전환했습니다. 5월 13일 출시된 새로운 Prime Business Card와 Amazon Business Card는 더 많은 리워드와 금융 도구를 제공합니다. 기존 American Express에서 벗어나 새로운 파트너십을 구축했습니다.",
-    "summary_en": "Amazon updated its business credit card program, shifting new applicants to U.S. Bank and Mastercard. The new Prime Business Card and Amazon Business Card launched on May 13 offer enhanced rewards and financing tools. This moves away from the previous American Express partnership.",
-    "so_what_ko": "아마존의 비즈니스 고객 대상 금융 서비스 강화는 D2C 기업들도 고객 충성도 제고를 위한 금융 상품이나 결제 솔루션 개발을 고려해야 함을 시사합니다.",
-    "so_what_en": "Amazon's enhanced financial services for business customers suggests D2C companies should consider developing financial products or payment solutions to increase customer loyalty.",
+    "title_en": "Ally Financial seeks greater influence in women's sports media deals beyond traditional sponsorships",
+    "summary_ko": "앨라이 파이낸셜이 여성 스포츠 분야의 광고 지출을 가속화하고 있습니다. 브랜드들이 재고와 오디언스 성장을 위해 경쟁하는 가운데 단순 후원을 넘어 미디어 거래에 더 큰 영향력을 행사하고자 합니다. 이는 여성 스포츠 시장의 성장 잠재력을 보여주는 사례입니다.",
+    "summary_en": "Ally Financial is accelerating advertising spend in women's sports beyond traditional sponsorship models. The company seeks greater influence over media deals as brands compete for inventory and audience growth. This represents the growing potential of the women's sports market.",
+    "so_what_ko": "여성 스포츠 시장의 급성장은 D2C 브랜드에게 새로운 타겟 오디언스 확보와 차별화된 마케팅 기회를 제공합니다.",
+    "so_what_en": "The rapid growth of women's sports market offers D2C brands new target audience acquisition and differentiated marketing opportunities.",
     "key_points": [
-      "Amazon switched business card partnership from Amex to U.S. Bank/Mastercard",
-      "New cards offer enhanced rewards and financing tools",
-      "Targets business buyers with improved benefits"
+      "Ally Financial increasing investment in women's sports advertising",
+      "Moving beyond sponsorships to influence media deal structures",
+      "Brands competing for growing women's sports audience inventory"
     ],
     "tags": [
-      "amazon-business",
-      "credit-cards",
-      "b2b-payments"
+      "womens-sports",
+      "advertising",
+      "media-deals",
+      "audience-growth",
+      "sponsorship"
     ],
     "confidence": 0.8,
     "strategic_theme": "CUSTOMER_EXPERIENCE",
     "regions": [
       "AMER"
     ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Amazon",
-      "U.S. Bank",
-      "Mastercard",
-      "American Express"
-    ],
-    "one_line_insight_ko": "아마존의 비즈니스 금융 서비스 강화는 B2B 고객 락인 전략의 진화를 보여줍니다.",
-    "one_line_insight_en": "Amazon's enhanced business financial services show the evolution of B2B customer lock-in strategies.",
-    "ai_processed": true
-  },
-  {
-    "title": "Parts Town updates PartPredictor with new AI-backed features",
-    "link": "https://www.digitalcommerce360.com/2026/05/15/parts-town-updates-partpredictor-with-new-ai-backed-features/",
-    "date_published": "2026-05-15",
-    "description": "Parts Town has upgraded its AI-powered PartPredictor tool with expanded coverage of 120 brands featuring over 18,000 equipment models. The expansion will allow technicians and dispatchers to identify the correct parts faster using everything from model numbers to plain-language symptom descriptions. The distributor — which handles original equipment manufacturer (OEM) parts for food service; heating, […]\nThe post Parts Town updates PartPredictor with new AI-backed features appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
-    "categories": [
-      "tech",
-      "ai_marketing"
-    ],
-    "relevance_score": 0.8,
-    "relevance_label": "high",
-    "title_en": "Parts Town Enhances AI-Powered PartPredictor Tool with 120 Brands and 18,000 Equipment Models",
-    "summary_ko": "Parts Town이 AI 기반 PartPredictor 도구를 업그레이드하여 120개 브랜드와 18,000개 이상의 장비 모델을 지원합니다. 이번 확장으로 기술자와 디스패처들이 모델 번호부터 일반 언어 증상 설명까지 활용해 올바른 부품을 더 빠르게 식별할 수 있습니다. 푸드서비스 및 HVAC OEM 부품을 취급하는 유통업체입니다.",
-    "summary_en": "Parts Town upgraded its AI-powered PartPredictor tool to support 120 brands and over 18,000 equipment models. This expansion allows technicians and dispatchers to identify correct parts faster using everything from model numbers to plain-language symptom descriptions. The distributor handles OEM parts for food service and HVAC industries.",
-    "so_what_ko": "AI를 활용한 제품 식별 도구의 발전은 D2C 기업들이 고객 서비스와 제품 추천에 자연어 처리 AI를 도입하여 고객 경험을 개선할 수 있음을 보여줍니다.",
-    "so_what_en": "The advancement of AI-powered product identification tools shows D2C companies can improve customer experience by implementing natural language processing AI in customer service and product recommendations.",
-    "key_points": [
-      "AI tool now covers 120 brands and 18,000+ equipment models",
-      "Supports natural language symptom descriptions for part identification",
-      "Faster part identification for technicians and dispatchers"
-    ],
-    "tags": [
-      "ai-tools",
-      "product-identification",
-      "natural-language-processing"
-    ],
-    "confidence": 0.9,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "HIGH",
+    "business_impact": "LOW",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Parts Town",
-      "PartPredictor"
+      "Ally Financial"
     ],
-    "one_line_insight_ko": "자연어 처리를 통한 AI 제품 식별 기술은 고객 서비스 효율성을 대폭 향상시킬 수 있습니다.",
-    "one_line_insight_en": "AI product identification technology through natural language processing can significantly improve customer service efficiency.",
+    "one_line_insight_ko": "여성 스포츠 시장의 성장은 브랜드들에게 언더서브드 오디언스에 대한 조기 진입 기회를 제공합니다.",
+    "one_line_insight_en": "The growth of women's sports market provides brands with early entry opportunities into underserved audiences.",
     "ai_processed": true
   },
   {
-    "title": "Albertsons uses Google Cloud for new supply chain tool",
-    "link": "https://www.digitalcommerce360.com/2026/05/15/albertsons-uses-google-cloud-for-new-supply-chain-tool/",
+    "title": "Week of May 4 Cable News Ratings: CNN Only Network With Growth",
+    "link": "https://www.adweek.com/tvnewser/week-of-may-4-2026-cable-news-ratings/",
     "date_published": "2026-05-15",
-    "description": "Albertsons Companies Inc. will deploy a computer vision tool at its distribution centers to help quality inspectors evaluate fresh produce before it ships to stores, it announced on May 13. The grocer said its patent-pending Intelligent Quality Control tool uses artificial intelligence (AI) to assist inspectors, and is already active in some distribution centers. Albertsons […]\nThe post Albertsons uses Google Cloud for new supply chain tool appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
+    "description": "Fox News finished ahead of ESPN in total viewers during primetime for the third straight week.",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
     "categories": [
-      "commerce",
-      "tech"
+      "marketing",
+      "strategy"
     ],
     "relevance_score": 0.7,
     "relevance_label": "high",
-    "title_en": "Albertsons deploys AI-powered quality control for fresh produce using Google Cloud",
-    "summary_ko": "알버트슨스가 구글 클라우드와 협력해 유통센터에 AI 기반 농산물 품질 관리 시스템을 구축했습니다. 이 특허출원 중인 컴퓨터 비전 기술은 매장 배송 전 신선 농산물 검사를 지원합니다. 이미 일부 유통센터에서 운영 중이며 품질 검사관의 업무를 보조하고 있습니다.",
-    "summary_en": "Albertsons has partnered with Google Cloud to deploy an AI-powered quality control system at its distribution centers. The patent-pending computer vision tool uses artificial intelligence to assist quality inspectors in evaluating fresh produce before shipment to stores. The system is already operational in some distribution centers, supporting inspectors' work.",
-    "so_what_ko": "식료품 유통업체의 AI 활용이 공급망 운영 효율성과 품질 관리 수준을 크게 향상시킬 수 있음을 보여줍니다.",
-    "so_what_en": "This demonstrates how AI can significantly enhance supply chain efficiency and quality control for grocery retailers.",
+    "title_en": "Quarter of North American agencies adopt fixed-fee pricing models in response to AI transformation",
+    "summary_ko": "포레스터와 덴츠의 연구에 따르면 북미 에이전시의 4분의 1이 고정 요금제로 전환했습니다. AI 시대에 마케터와 에이전시들이 상업적 모델을 어떻게 발전시키고 있는지를 추적한 결과입니다. 이는 AI가 에이전시 비즈니스 모델에 미치는 근본적 변화를 보여줍니다.",
+    "summary_en": "A study by Forrester and Dentsu shows that one quarter of North American agencies have shifted to fixed-fee pricing models. The research tracks how marketers and agencies are evolving their commercial models in the AI era. This demonstrates fundamental changes AI is bringing to agency business models.",
+    "so_what_ko": "에이전시 요금제의 변화는 D2C 브랜드들이 AI 기반 마케팅 서비스에서 더 예측 가능한 비용 구조와 성과 기반 파트너십을 기대할 수 있음을 의미합니다.",
+    "so_what_en": "Changes in agency pricing models mean D2C brands can expect more predictable cost structures and performance-based partnerships in AI-driven marketing services.",
     "key_points": [
-      "Patent-pending AI quality control tool for fresh produce inspection",
-      "Google Cloud partnership for computer vision technology",
-      "Already operational in select distribution centers",
-      "Assists quality inspectors rather than replacing them"
+      "25% of North American agencies now use fixed-fee pricing",
+      "Shift driven by AI transformation in marketing industry",
+      "Study conducted by Forrester and Dentsu tracking commercial model evolution"
     ],
     "tags": [
-      "computer-vision",
-      "supply-chain",
-      "quality-control",
-      "google-cloud"
+      "agency-pricing",
+      "fixed-fee",
+      "ai-transformation",
+      "business-model",
+      "forrester"
     ],
     "confidence": 0.8,
-    "strategic_theme": "AI_COMMERCE",
+    "strategic_theme": "AI_MARKETING",
     "regions": [
       "AMER"
     ],
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Albertsons",
-      "Google Cloud",
-      "AI quality control"
+      "Forrester",
+      "Dentsu"
     ],
-    "one_line_insight_ko": "AI 컴퓨터 비전 기술이 식료품 유통의 품질 관리를 자동화하며 운영 효율성을 제고하고 있습니다.",
-    "one_line_insight_en": "AI computer vision is automating quality control in grocery distribution, enhancing operational efficiency.",
+    "one_line_insight_ko": "AI가 마케팅 에이전시의 가격 모델을 고정제로 전환시키며 브랜드-에이전시 관계의 투명성과 예측 가능성을 높이고 있습니다.",
+    "one_line_insight_en": "AI is transforming marketing agency pricing models toward fixed fees, increasing transparency and predictability in brand-agency relationships.",
     "ai_processed": true
   },
   {
-    "title": "How Chinese short dramas became AI content machines",
-    "link": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+    "title": "One Quarter of North American Agencies Have Shifted to Fixed-Fee Pricing",
+    "link": "https://www.adweek.com/agencies/one-quarter-of-north-american-agencies-have-shifted-to-fixed-free-pricing/",
     "date_published": "2026-05-15",
-    "description": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then drops. A dragon-shaped tattoo appears across her chest. “Two months,” the man says. “Give me an heir, or…",
-    "source_id": "mit_tech_review_ai",
-    "source_name": "MIT Technology Review (AI)",
-    "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+    "description": "A study from Forrester and Dentsu tracks how marketers and agencies are evolving their commercial models in the age of AI",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
     "categories": [
       "marketing",
-      "tech"
+      "strategy"
     ],
-    "relevance_score": 0.6,
+    "relevance_score": 0.7,
     "relevance_label": "high",
-    "title_en": "Chinese short dramas leverage AI to become automated content production machines",
-    "summary_ko": "중국 단편 드라마 산업이 AI를 활용해 자동화된 콘텐츠 제작 시스템을 구축하고 있습니다. 이들은 AI 기술을 통해 대량의 짧은 형태 비디오 콘텐츠를 효율적으로 생산하고 있습니다. 이러한 변화는 엔터테인먼트 콘텐츠 제작 방식의 혁신적 변화를 보여줍니다.",
-    "summary_en": "The Chinese short drama industry is using AI to build automated content production systems. These companies are leveraging AI technology to efficiently produce large volumes of short-form video content. This transformation demonstrates an innovative shift in entertainment content creation methods.",
-    "so_what_ko": "AI 기반 콘텐츠 자동 생성 기술이 마케팅 콘텐츠 제작 비용과 시간을 대폭 절감할 수 있는 가능성을 제시합니다.",
-    "so_what_en": "AI-powered content automation presents opportunities to significantly reduce marketing content production costs and timelines.",
+    "title_en": "Quarter of North American agencies adopt fixed-fee pricing models in response to AI transformation",
+    "summary_ko": "포레스터와 덴츠의 연구에 따르면 북미 에이전시의 4분의 1이 고정 요금제로 전환했습니다. AI 시대에 마케터와 에이전시들이 상업적 모델을 어떻게 발전시키고 있는지를 추적한 결과입니다. 이는 AI가 에이전시 비즈니스 모델에 미치는 근본적 변화를 보여줍니다.",
+    "summary_en": "A study by Forrester and Dentsu shows that one quarter of North American agencies have shifted to fixed-fee pricing models. The research tracks how marketers and agencies are evolving their commercial models in the AI era. This demonstrates fundamental changes AI is bringing to agency business models.",
+    "so_what_ko": "에이전시 요금제의 변화는 D2C 브랜드들이 AI 기반 마케팅 서비스에서 더 예측 가능한 비용 구조와 성과 기반 파트너십을 기대할 수 있음을 의미합니다.",
+    "so_what_en": "Changes in agency pricing models mean D2C brands can expect more predictable cost structures and performance-based partnerships in AI-driven marketing services.",
     "key_points": [
-      "Chinese short drama industry adopting AI for content automation",
-      "Mass production of short-form video content using AI",
-      "Transformation of entertainment content creation methods",
-      "Potential for scaling content production efficiently"
+      "25% of North American agencies now use fixed-fee pricing",
+      "Shift driven by AI transformation in marketing industry",
+      "Study conducted by Forrester and Dentsu tracking commercial model evolution"
     ],
     "tags": [
-      "content-automation",
-      "short-form-video",
-      "ai-production",
-      "entertainment"
+      "agency-pricing",
+      "fixed-fee",
+      "ai-transformation",
+      "business-model",
+      "forrester"
     ],
-    "confidence": 0.7,
+    "confidence": 0.8,
     "strategic_theme": "AI_MARKETING",
     "regions": [
-      "APAC"
+      "AMER"
     ],
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Chinese short dramas",
-      "AI content production"
+      "Forrester",
+      "Dentsu"
     ],
-    "one_line_insight_ko": "AI 기반 콘텐츠 자동 생성이 대량 마케팅 콘텐츠 제작의 새로운 패러다임을 제시하고 있습니다.",
-    "one_line_insight_en": "AI-powered content automation is creating new paradigms for mass marketing content production.",
+    "one_line_insight_ko": "AI가 마케팅 에이전시의 가격 모델을 고정제로 전환시키며 브랜드-에이전시 관계의 투명성과 예측 가능성을 높이고 있습니다.",
+    "one_line_insight_en": "AI is transforming marketing agency pricing models toward fixed fees, increasing transparency and predictability in brand-agency relationships.",
     "ai_processed": true
   },
   {
-    "title": "Garnier taps ‘Love Island’ star to pitch hair ‘moose’ to next generation",
-    "link": "https://www.marketingdive.com/news/garnier-taps-love-island-star-to-pitch-hair-moose-to-next-generation/820237/",
+    "title": "Week of May 4 Morning News Ratings: Today Extends Lead",
+    "link": "https://www.adweek.com/tvnewser/week-of-may-4-2026-morning-news-ratings/",
     "date_published": "2026-05-15",
-    "description": "The L'Oréal brand is using social chatter to tease a new campaign featuring TJ Palma, who misinterprets instructions around promoting hair mousse.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
+    "description": "CBS Mornings finished the week with gains in both categories.",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
     "categories": [
       "marketing"
     ],
-    "relevance_score": 0.4,
+    "relevance_score": 0.3,
     "relevance_label": "high",
-    "title_en": "Garnier leverages Love Island star for next-gen hair product campaign targeting young consumers",
-    "summary_ko": "로레알 브랜드 가르니에가 '러브 아일랜드' 출연자 TJ 팔마를 기용한 새로운 캠페인을 선보입니다. 이 캠페인은 소셜 미디어 화제성을 활용해 차세대 소비자들에게 헤어 무스 제품을 홍보합니다. 브랜드는 젊은 세대와의 소통을 위해 소셜 인플루언서를 전략적으로 활용하고 있습니다.",
-    "summary_en": "L'Oréal brand Garnier is launching a new campaign featuring Love Island star TJ Palma. The campaign leverages social media buzz to promote hair mousse products to next-generation consumers. The brand is strategically using social influencers to connect with younger demographics.",
-    "so_what_ko": "소셜 인플루언서를 활용한 타겟팅 마케팅이 젊은 소비자층 확보를 위한 핵심 전략임을 보여줍니다.",
-    "so_what_en": "Social influencer-driven targeting demonstrates a key strategy for capturing younger consumer segments.",
+    "title_en": "CBS Mornings Extends Lead in Weekly TV News Ratings",
+    "summary_ko": "CBS Mornings가 주간 시청률에서 양쪽 카테고리 모두에서 상승세를 보이며 선두를 유지했습니다. TV 뉴스 시청률 경쟁에서 CBS가 우위를 점하고 있는 상황입니다. 전통 미디어의 시청률 변화가 지속되고 있습니다.",
+    "summary_en": "CBS Mornings maintained its lead in weekly TV news ratings with gains in both demographics categories. The network continues to show strength in the competitive morning news landscape. Traditional media viewership patterns are showing continued shifts.",
+    "so_what_ko": "전통 미디어 채널의 시청률 변화는 D2C 브랜드의 광고 전략과 미디어 믹스 조정이 필요함을 시사합니다.",
+    "so_what_en": "Changes in traditional media ratings suggest D2C brands need to adjust advertising strategies and media mix allocations.",
     "key_points": [
-      "Garnier partners with Love Island reality TV star",
-      "Campaign targets next-generation consumers",
-      "Uses social media buzz for product promotion",
-      "Strategic influencer marketing for younger demographics"
+      "CBS Mornings showed gains in both rating categories",
+      "Network maintains competitive lead in morning news",
+      "Traditional TV viewership patterns continuing to evolve"
     ],
     "tags": [
-      "influencer-marketing",
-      "social-media",
-      "youth-targeting",
-      "beauty-brand"
+      "tv-ratings",
+      "traditional-media",
+      "morning-news"
     ],
     "confidence": 0.6,
-    "strategic_theme": "AI_MARKETING",
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "CBS Mornings",
+      "Adweek"
+    ],
+    "one_line_insight_ko": "전통 미디어 시청률 변화는 D2C 브랜드의 미디어 전략 재검토 필요성을 제기합니다.",
+    "one_line_insight_en": "Traditional media rating shifts highlight the need for D2C brands to reassess media strategy allocations.",
+    "ai_processed": true
+  },
+  {
+    "title": "[AINews] Everything is Conductor",
+    "link": "https://www.latent.space/p/ainews-everything-is-conductor",
+    "date_published": "2026-05-15",
+    "description": "an ultra quiet day lets us highlight a smaller trend.",
+    "source_id": "latent_space",
+    "source_name": "Latent Space (The AI Index)",
+    "source_url": "https://www.latent.space/feed",
+    "categories": [
+      "tech"
+    ],
+    "relevance_score": 0.4,
+    "relevance_label": "high",
+    "title_en": "AI Development Trends Show 'Everything is Conductor' Pattern",
+    "summary_ko": "AI 개발 영역에서 'Everything is Conductor' 트렌드가 조용히 부상하고 있습니다. 작은 규모의 트렌드이지만 AI 생태계의 변화를 시사하는 움직임입니다. 개발자들 사이에서 새로운 패턴이 관찰되고 있습니다.",
+    "summary_en": "A quiet but notable trend called 'Everything is Conductor' is emerging in AI development circles. This smaller-scale trend indicates shifts in the AI ecosystem. New patterns are being observed among developers in the space.",
+    "so_what_ko": "AI 개발 트렌드의 변화는 D2C 브랜드가 활용할 수 있는 새로운 AI 도구와 플랫폼의 등장을 예고할 수 있습니다.",
+    "so_what_en": "Changes in AI development trends may signal the emergence of new AI tools and platforms that D2C brands could leverage.",
+    "key_points": [
+      "'Everything is Conductor' trend emerging in AI development",
+      "Represents smaller but significant shift in AI ecosystem",
+      "New patterns observed among AI developers"
+    ],
+    "tags": [
+      "ai-development",
+      "conductor-pattern",
+      "ai-trends"
+    ],
+    "confidence": 0.5,
+    "strategic_theme": "EMERGING_TECH",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "LOW",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "Garnier",
-      "L'Oréal",
-      "TJ Palma",
-      "Love Island"
+      "Latent Space"
     ],
-    "one_line_insight_ko": "전통 뷰티 브랜드들이 리얼리티 TV 스타를 통해 젊은 소비자와의 접점을 확대하고 있습니다.",
-    "one_line_insight_en": "Traditional beauty brands are expanding touchpoints with young consumers through reality TV personalities.",
+    "one_line_insight_ko": "AI 개발의 새로운 패턴은 향후 D2C에 활용 가능한 혁신적 도구 등장을 시사합니다.",
+    "one_line_insight_en": "New AI development patterns suggest innovative tools for D2C applications may emerge.",
     "ai_processed": true
   },
   {
-    "title": "Social insights fail to reach decision-makers: Here’s what the numbers say",
-    "link": "https://www.marketingdive.com/news/social-insights-fail-to-reach-decision-makers-heres-what-the-numbers-say/820311/",
+    "title": "Making LLMs faster without sacrificing accuracy",
+    "link": "https://www.amazon.science/blog/making-llms-faster-without-sacrificing-accuracy",
     "date_published": "2026-05-15",
-    "description": "Just 14% of social media professionals feel their organization is able to use social data properly.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
+    "description": "A new scaling law that relates particular architectural choices to loss helps identify models that improve throughput by up to 47% with no loss of accuracy.",
+    "source_id": "amazon_science",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science/index.rss",
     "categories": [
-      "marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.5,
-    "relevance_label": "high",
-    "title_en": "Social media insights struggle to reach decision-makers, with only 14% utilizing data effectively",
-    "summary_ko": "소셜 미디어 전문가의 단 14%만이 자신의 조직이 소셜 데이터를 적절히 활용한다고 느끼고 있습니다. 대부분의 소셜 인사이트가 의사결정권자에게 전달되지 못하는 문제가 발생하고 있습니다. 이는 조직 내 데이터 활용과 커뮤니케이션 구조의 개선이 필요함을 시사합니다.",
-    "summary_en": "Only 14% of social media professionals feel their organization properly utilizes social data. Most social insights are failing to reach decision-makers within organizations. This indicates a need for improved data utilization and communication structures within companies.",
-    "so_what_ko": "소셜 데이터의 전략적 활용을 위해 조직 내 데이터 거버넌스와 의사결정 프로세스 개선이 시급합니다.",
-    "so_what_en": "Organizations urgently need to improve data governance and decision-making processes for strategic social data utilization.",
-    "key_points": [
-      "Only 14% of social media professionals satisfied with data usage",
-      "Social insights failing to reach organizational decision-makers",
-      "Gap between data collection and strategic application",
-      "Need for improved internal communication structures"
-    ],
-    "tags": [
-      "social-data",
-      "organizational-gaps",
-      "decision-making",
-      "data-governance"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "DATA_STRATEGY",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "social media data",
-      "organizational communication"
-    ],
-    "one_line_insight_ko": "소셜 데이터 수집과 전략적 활용 사이의 조직적 격차가 마케팅 효율성을 저해하고 있습니다.",
-    "one_line_insight_en": "Organizational gaps between social data collection and strategic utilization are hindering marketing effectiveness.",
-    "ai_processed": true
-  },
-  {
-    "title": "The AI search shift changing B2B marketing metrics",
-    "link": "https://martech.org/the-ai-search-shift-changing-b2b-marketing-metrics/",
-    "date_published": "2026-05-15",
-    "description": "Website traffic is losing ground as the primary success metric while AI visibility and lead quality take center stage.\nThe post The AI search shift changing B2B marketing metrics appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
-    "categories": [
-      "marketing",
       "tech"
-    ],
-    "relevance_score": 0.8,
-    "relevance_label": "high",
-    "title_en": "AI search transformation shifts B2B marketing metrics from traffic to lead quality and visibility",
-    "summary_ko": "AI 검색 기술의 발전으로 B2B 마케팅 성과 지표가 변화하고 있습니다. 웹사이트 트래픽이 주요 성공 지표로서의 중요성을 잃고 있습니다. 대신 AI 가시성과 리드 품질이 새로운 핵심 성과 지표로 부상하고 있습니다.",
-    "summary_en": "AI search technology advancements are transforming B2B marketing performance metrics. Website traffic is losing its importance as a primary success indicator. Instead, AI visibility and lead quality are emerging as new key performance indicators.",
-    "so_what_ko": "AI 검색 환경에서 마케팅 성과 측정 방식을 재정의하고 리드 품질 중심의 KPI 체계 구축이 필요합니다.",
-    "so_what_en": "Marketing performance measurement needs redefinition for AI search environments, requiring lead quality-focused KPI frameworks.",
-    "key_points": [
-      "Website traffic declining as primary B2B marketing metric",
-      "AI visibility becoming crucial performance indicator",
-      "Lead quality taking center stage in measurement",
-      "Fundamental shift in marketing success metrics"
-    ],
-    "tags": [
-      "ai-search",
-      "marketing-metrics",
-      "lead-quality",
-      "b2b-marketing"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "AI search",
-      "B2B marketing metrics",
-      "lead quality"
-    ],
-    "one_line_insight_ko": "AI 검색 시대에는 트래픽보다 리드 품질과 AI 가시성이 마케팅 성공의 핵심 지표가 되고 있습니다.",
-    "one_line_insight_en": "In the AI search era, lead quality and AI visibility are becoming more critical marketing success indicators than traffic.",
-    "ai_processed": true
-  },
-  {
-    "title": "The art of doing more with less: The new marketing operations stack",
-    "link": "https://martech.org/the-art-of-doing-more-with-less-the-new-marketing-operations-stack/",
-    "date_published": "2026-05-15",
-    "description": "Stop managing tools and start orchestrating outcomes. At the May MarTech Conference we discussed untangling the ‘AI spaghetti mess’ to move forward.\nThe post The art of doing more with less: The new marketing operations stack appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
-    "categories": [
-      "marketing"
-    ],
-    "relevance_score": 0.7,
-    "relevance_label": "high",
-    "title_en": "The art of doing more with less: The new marketing operations stack",
-    "summary_ko": "MarTech 컨퍼런스에서 'AI 스파게티 혼란'을 해결하고 성과 중심의 마케팅 운영을 논의했습니다. 도구 관리에서 벗어나 결과 오케스트레이션으로 전환해야 한다고 강조했습니다. 효율적인 마케팅 기술 스택 구축이 핵심 과제로 제시되었습니다.",
-    "summary_en": "The MarTech Conference discussed solving the 'AI spaghetti mess' and moving toward outcome-focused marketing operations. The emphasis shifted from managing tools to orchestrating results. Building an efficient marketing technology stack was presented as a key challenge.",
-    "so_what_ko": "LG D2C는 복잡한 AI 마케팅 도구들을 통합하고 성과 중심의 마케팅 운영 체계를 구축해야 합니다.",
-    "so_what_en": "LG D2C should integrate complex AI marketing tools and build outcome-focused marketing operations systems.",
-    "key_points": [
-      "Moving from tool management to outcome orchestration",
-      "Addressing AI spaghetti mess in marketing operations",
-      "Focus on efficiency in marketing technology stacks"
-    ],
-    "tags": [
-      "martech",
-      "ai-marketing",
-      "operations-stack"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "MarTech Conference"
-    ],
-    "one_line_insight_ko": "마케팅 기술 스택의 복잡성을 해결하고 성과 중심 운영으로 전환이 필요합니다.",
-    "one_line_insight_en": "Marketing technology stack complexity needs to be solved with a shift to outcome-focused operations.",
-    "ai_processed": true
-  },
-  {
-    "title": "Why scaling creative is really a leadership challenge",
-    "link": "https://martech.org/why-scaling-creative-is-really-a-leadership-challenge/",
-    "date_published": "2026-05-15",
-    "description": "Automation can increase output, but creative effectiveness depends on operational discipline and strategic clarity.\nThe post Why scaling creative is really a leadership challenge appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
-    "categories": [
-      "marketing"
     ],
     "relevance_score": 0.6,
     "relevance_label": "high",
-    "title_en": "Why scaling creative is really a leadership challenge",
-    "summary_ko": "창작 규모 확장이 리더십 도전 과제라는 관점을 제시했습니다. 자동화로 산출량은 늘릴 수 있지만, 창작 효과성은 운영 규율과 전략적 명확성에 달려있습니다. 기술보다 리더십과 조직 운영이 핵심 요소로 강조되었습니다.",
-    "summary_en": "Scaling creative work is presented as a leadership challenge rather than a technical one. While automation can increase output, creative effectiveness depends on operational discipline and strategic clarity. Leadership and organizational operations are emphasized over technology as key factors.",
-    "so_what_ko": "LG D2C는 AI 기반 창작 자동화를 도입할 때 기술보다 리더십과 운영 체계 구축에 우선순위를 둬야 합니다.",
-    "so_what_en": "LG D2C should prioritize leadership and operational systems over technology when implementing AI-driven creative automation.",
+    "title_en": "Amazon Develops Method to Speed Up LLMs Without Accuracy Loss",
+    "summary_ko": "아마존이 정확도 손실 없이 대형 언어 모델을 최대 47% 더 빠르게 만드는 새로운 스케일링 법칙을 개발했습니다. 특정 아키텍처 선택과 손실 간의 관계를 규명하는 방법론입니다. 모델 성능 향상을 위한 혁신적 접근법이 제시되었습니다.",
+    "summary_en": "Amazon developed a new scaling law that makes large language models up to 47% faster without sacrificing accuracy. The methodology identifies relationships between architectural choices and performance loss. This represents an innovative approach to improving model efficiency.",
+    "so_what_ko": "LLM 성능 최적화 기술의 발전은 D2C 브랜드가 더 빠르고 효율적인 AI 서비스를 고객에게 제공할 수 있는 기회를 창출합니다.",
+    "so_what_en": "Advances in LLM optimization technology create opportunities for D2C brands to deliver faster and more efficient AI services to customers.",
     "key_points": [
-      "Creative scaling is fundamentally a leadership challenge",
-      "Automation increases output but not necessarily effectiveness",
-      "Operational discipline and strategic clarity are crucial"
+      "New scaling law improves LLM throughput by up to 47%",
+      "Method maintains accuracy while increasing speed",
+      "Relates architectural choices to performance optimization"
     ],
     "tags": [
-      "creative-scaling",
-      "leadership",
-      "automation"
+      "llm-optimization",
+      "model-efficiency",
+      "amazon-research"
     ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_MARKETING",
+    "confidence": 0.8,
+    "strategic_theme": "EMERGING_TECH",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
+    "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "MarTech"
+      "Amazon",
+      "LLM"
     ],
-    "one_line_insight_ko": "창작 자동화의 성공은 기술보다 리더십과 운영 체계에 달려있습니다.",
-    "one_line_insight_en": "Success in creative automation depends more on leadership and operational systems than technology.",
+    "one_line_insight_ko": "LLM 속도 최적화 기술은 D2C 브랜드의 AI 서비스 경쟁력을 크게 향상시킬 수 있습니다.",
+    "one_line_insight_en": "LLM speed optimization technology can significantly enhance D2C brands' AI service competitiveness.",
     "ai_processed": true
   },
   {
-    "title": "Marketplace Briefing: Why Amazon discontinued its AI-powered Rufus chatbot for Alexa shopping agent",
-    "link": "https://www.modernretail.co/technology/marketplace-briefing-why-amazon-discontinued-its-ai-powered-rufus-chatbot-for-alexa-shopping-agent/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-05-14",
-    "description": "Amazon replaced its Rufus chatbot with a new AI assistant called Alexa for Shopping this week as AI search becomes a bigger part of its online store.",
-    "source_id": "modern_retail",
-    "source_name": "Modern Retail",
-    "source_url": "https://www.modernretail.co/feed/",
+    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+    "link": "https://openai.com/index/databricks",
+    "date_published": "2026-05-15",
+    "description": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
     "categories": [
-      "commerce"
+      "tech",
+      "agentic_commerce"
     ],
-    "relevance_score": 0.9,
+    "relevance_score": 0.8,
     "relevance_label": "high",
-    "title_en": "Amazon discontinues AI-powered Rufus chatbot for Alexa shopping agent",
-    "summary_ko": "아마존이 AI 기반 Rufus 챗봇을 중단하고 새로운 Alexa for Shopping AI 어시스턴트로 교체했습니다. 이는 온라인 스토어에서 AI 검색이 더욱 중요한 역할을 하게 되면서 이루어진 변화입니다. 아마존의 AI 쇼핑 에이전트 전략 전환을 보여주는 사례입니다.",
-    "summary_en": "Amazon discontinued its AI-powered Rufus chatbot and replaced it with a new Alexa for Shopping AI assistant. This change reflects AI search becoming a more important part of its online store operations. It demonstrates Amazon's strategic shift in AI shopping agent approach.",
-    "so_what_ko": "AI 쇼핑 에이전트 기술이 빠르게 진화하고 있으며, LG D2C도 고객 쇼핑 경험 개선을 위한 AI 어시스턴트 전략을 지속 업데이트해야 합니다.",
-    "so_what_en": "AI shopping agent technology is rapidly evolving, and LG D2C must continuously update its AI assistant strategy to improve customer shopping experiences.",
+    "title_en": "Databricks Integrates GPT-5.5 for Enterprise Agent Workflows",
+    "summary_ko": "Databricks가 기업용 에이전트 워크플로우에 GPT-5.5를 도입했습니다. GPT-5.5는 OfficeQA Pro 벤치마크에서 새로운 최고 성능을 기록했습니다. 기업 환경에서의 AI 에이전트 활용이 한층 고도화되었습니다.",
+    "summary_en": "Databricks has integrated GPT-5.5 into enterprise agent workflows after the model achieved state-of-the-art performance on OfficeQA Pro benchmark. This represents a significant advancement in enterprise AI agent capabilities. The integration marks enhanced sophistication in business AI applications.",
+    "so_what_ko": "기업용 AI 에이전트의 성능 향상은 D2C 브랜드가 고객 서비스와 내부 운영 효율성을 동시에 개선할 수 있는 새로운 기회를 제공합니다.",
+    "so_what_en": "Enhanced enterprise AI agent performance provides new opportunities for D2C brands to improve both customer service and internal operational efficiency.",
     "key_points": [
-      "Amazon replaced Rufus chatbot with Alexa for Shopping",
-      "AI search becoming central to online store operations",
-      "Demonstrates rapid evolution in AI shopping agents"
+      "Databricks integrates GPT-5.5 for enterprise workflows",
+      "GPT-5.5 sets new state-of-the-art on OfficeQA Pro benchmark",
+      "Represents advancement in enterprise AI agent capabilities"
     ],
     "tags": [
-      "ai-shopping-agent",
-      "chatbot",
-      "amazon"
+      "gpt-5-5",
+      "enterprise-ai",
+      "databricks",
+      "ai-agents"
     ],
-    "confidence": 0.8,
+    "confidence": 0.9,
     "strategic_theme": "AI_AGENT",
     "regions": [
       "GLOBAL"
@@ -570,102 +617,59 @@
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Amazon",
-      "Rufus",
-      "Alexa",
-      "AI assistant"
+      "Databricks",
+      "GPT-5.5",
+      "OpenAI",
+      "OfficeQA Pro"
     ],
-    "one_line_insight_ko": "아마존의 AI 쇼핑 에이전트 전환은 이 분야의 빠른 기술 진화를 보여줍니다.",
-    "one_line_insight_en": "Amazon's AI shopping agent transition demonstrates rapid technological evolution in this space.",
+    "one_line_insight_ko": "기업용 AI 에이전트의 고도화는 D2C 운영 전반의 자동화와 효율성 혁신을 가능하게 합니다.",
+    "one_line_insight_en": "Advanced enterprise AI agents enable comprehensive automation and efficiency innovations across D2C operations.",
     "ai_processed": true
   },
   {
-    "title": "BNPL giants battle at Walmart",
-    "link": "https://www.paymentsdive.com/news/bnpl-giants-battle-at-walmart/820252/",
-    "date_published": "2026-05-14",
-    "description": "The retail behemoth swapped buy now, pay later provider Affirm for Klarna last year, but both BNPL companies say Walmart business is good.",
-    "source_id": "payments_dive",
-    "source_name": "Payments Dive",
-    "source_url": "https://www.paymentsdive.com/feeds/news/",
+    "title": "A new personal finance experience in ChatGPT",
+    "link": "https://openai.com/index/personal-finance-chatgpt",
+    "date_published": "2026-05-15",
+    "description": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
     "categories": [
-      "commerce"
+      "ai_marketing",
+      "tech"
     ],
-    "relevance_score": 0.5,
+    "relevance_score": 0.7,
     "relevance_label": "high",
-    "title_en": "BNPL giants battle at Walmart",
-    "summary_ko": "월마트가 작년에 BNPL 제공업체를 Affirm에서 Klarna로 교체했습니다. 하지만 두 BNPL 회사 모두 월마트와의 비즈니스가 좋다고 밝혔습니다. 대형 소매업체를 둘러싼 BNPL 업계의 경쟁이 치열해지고 있습니다.",
-    "summary_en": "Walmart swapped its BNPL provider from Affirm to Klarna last year. However, both BNPL companies report that their Walmart business is performing well. Competition among BNPL providers for major retailers is intensifying.",
-    "so_what_ko": "BNPL 결제 옵션이 D2C 브랜드의 핵심 차별화 요소가 되고 있으며, LG는 적절한 BNPL 파트너십 전략을 수립해야 합니다.",
-    "so_what_en": "BNPL payment options are becoming key differentiators for D2C brands, and LG should develop appropriate BNPL partnership strategies.",
+    "title_en": "ChatGPT Launches Personal Finance Experience for Pro Users",
+    "summary_ko": "OpenAI가 미국 ChatGPT Pro 사용자를 위한 새로운 개인 금융 서비스를 출시했습니다. 사용자는 금융 계정을 안전하게 연결하고 개인화된 AI 기반 인사이트를 받을 수 있습니다. 개인의 금융 맥락과 목표에 맞춘 맞춤형 가이던스를 제공합니다.",
+    "summary_en": "OpenAI launched a new personal finance experience for ChatGPT Pro users in the U.S. Users can securely connect financial accounts and receive AI-powered insights grounded in their financial context. The service provides personalized guidance based on individual goals and priorities.",
+    "so_what_ko": "AI 기반 개인 금융 서비스의 등장은 D2C 브랜드가 고객의 구매력과 금융 상태를 고려한 더욱 정교한 개인화 마케팅을 구현할 수 있는 가능성을 시사합니다.",
+    "so_what_en": "The emergence of AI-powered personal finance services suggests D2C brands could implement more sophisticated personalized marketing considering customers' purchasing power and financial status.",
     "key_points": [
-      "Walmart switched from Affirm to Klarna for BNPL services",
-      "Both providers claim successful business with Walmart",
-      "Intensifying competition among BNPL providers for retail partnerships"
+      "ChatGPT Pro users can access new personal finance features",
+      "Secure financial account connection with AI-powered insights",
+      "Personalized guidance based on individual financial context and goals"
     ],
     "tags": [
-      "bnpl",
-      "walmart",
-      "payment-options"
+      "chatgpt",
+      "personal-finance",
+      "ai-insights",
+      "financial-services"
     ],
-    "confidence": 0.8,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "confidence": 0.9,
+    "strategic_theme": "AI_PERSONALIZATION",
     "regions": [
       "AMER"
     ],
     "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Walmart",
-      "Affirm",
-      "Klarna",
-      "BNPL"
-    ],
-    "one_line_insight_ko": "BNPL 제공업체들이 대형 소매업체 파트너십을 놓고 치열한 경쟁을 벌이고 있습니다.",
-    "one_line_insight_en": "BNPL providers are competing fiercely for major retailer partnerships.",
-    "ai_processed": true
-  },
-  {
-    "title": "Dive Deposits: Affirm’s AI stance runs counter to trend",
-    "link": "https://www.paymentsdive.com/news/affirm-no-ai-layoffs-levchin-block-crypto-com-bolt-chime/820232/",
-    "date_published": "2026-05-14",
-    "description": "While some fintechs are content to do more with less through AI, BNPL platform Affirm simply aims to do more, as its top execs eschew human layoffs in favor of artificial intelligence.",
-    "source_id": "payments_dive",
-    "source_name": "Payments Dive",
-    "source_url": "https://www.paymentsdive.com/feeds/news/",
-    "categories": [
-      "tech"
-    ],
-    "relevance_score": 0.6,
-    "relevance_label": "high",
-    "title_en": "Affirm's AI stance runs counter to trend",
-    "summary_ko": "Affirm은 AI를 통해 적은 인력으로 더 많은 일을 하려는 다른 핀테크와 달리, 단순히 더 많은 일을 하는 것을 목표로 합니다. Affirm 경영진은 AI 도입을 위한 인력 감축 대신 인공지능과 함께 일하는 방식을 선택했습니다. 이는 업계 트렌드와 반대되는 접근법입니다.",
-    "summary_en": "Unlike other fintechs that aim to do more with less through AI, Affirm simply aims to do more. Affirm's executives chose to work alongside AI rather than reducing workforce for AI implementation. This approach runs counter to industry trends.",
-    "so_what_ko": "AI 도입 시 인력 감축보다 협업을 통한 역량 확장 전략이 가능하며, LG D2C도 이러한 접근법을 고려할 수 있습니다.",
-    "so_what_en": "AI adoption strategies can focus on capability expansion through collaboration rather than workforce reduction, which LG D2C could consider.",
-    "key_points": [
-      "Affirm chooses AI collaboration over workforce reduction",
-      "Counters industry trend of doing more with less",
-      "Focuses on capability expansion rather than cost cutting"
-    ],
-    "tags": [
-      "ai-strategy",
-      "workforce",
-      "fintech"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "DATA_STRATEGY",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Affirm",
-      "fintech",
-      "AI"
+      "OpenAI",
+      "ChatGPT",
+      "ChatGPT Pro"
     ],
-    "one_line_insight_ko": "AI 도입에서 인력 감축 대신 협업을 통한 역량 확장이 새로운 전략 옵션이 될 수 있습니다.",
-    "one_line_insight_en": "Capability expansion through AI collaboration rather than workforce reduction can be an alternative strategic option.",
+    "one_line_insight_ko": "AI 개인 금융 서비스는 D2C 브랜드의 고객 재정 상황 기반 맞춤형 마케팅 전략 수립을 가능하게 합니다.",
+    "one_line_insight_en": "AI personal finance services enable D2C brands to develop customized marketing strategies based on customer financial circumstances.",
     "ai_processed": true
   }
 ]
