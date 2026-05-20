@@ -1,340 +1,9 @@
 [
   {
-    "title": "Can retail media networks survive the shift to agentic commerce?",
-    "link": "https://digiday.com/podcasts/can-retail-media-networks-survive-the-shift-to-agentic-commerce/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "title": "Customer experience outweighs brand in AI-assisted shopping",
+    "link": "https://martech.org/customer-experience-outweighs-brand-in-ai-assisted-shopping/",
     "date_published": "2026-05-19",
-    "description": "AI-powered shopping agents threaten retail media. The question is: can retail media networks survive the shift to agentic commerce?",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
-    "categories": [
-      "marketing",
-      "commerce",
-      "agentic_commerce"
-    ],
-    "relevance_score": 0.9,
-    "relevance_label": "high",
-    "title_en": "Can retail media networks survive the shift to agentic commerce?",
-    "summary_ko": "AI 기반 쇼핑 에이전트가 리테일 미디어 네트워크의 생존을 위협하고 있습니다. 에이전틱 커머스로의 전환이 기존 광고 모델에 근본적인 변화를 요구하고 있습니다. 리테일 미디어 네트워크들이 이러한 변화에 적응할 수 있을지가 핵심 과제입니다.",
-    "summary_en": "AI-powered shopping agents are threatening the survival of retail media networks. The shift to agentic commerce is demanding fundamental changes to existing advertising models. Whether retail media networks can adapt to these changes remains a critical challenge.",
-    "so_what_ko": "D2C 브랜드들은 에이전틱 커머스 환경에서 새로운 마케팅 전략을 수립해야 하며, 기존 리테일 미디어 의존도를 줄이고 AI 에이전트 친화적인 마케팅 방식을 개발해야 합니다.",
-    "so_what_en": "D2C brands must develop new marketing strategies for agentic commerce environments, reducing reliance on traditional retail media and creating AI agent-friendly marketing approaches.",
-    "key_points": [
-      "AI shopping agents threaten traditional retail media networks",
-      "Agentic commerce requires new advertising models",
-      "Retail media survival depends on adaptation to AI-driven shopping"
-    ],
-    "tags": [
-      "agentic-commerce",
-      "retail-media",
-      "ai-agents",
-      "shopping-ai",
-      "adtech"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "retail media networks",
-      "agentic commerce",
-      "AI shopping agents"
-    ],
-    "one_line_insight_ko": "에이전틱 커머스의 부상으로 D2C 브랜드들은 AI 에이전트 중심의 새로운 마케팅 생태계에 적응해야 합니다.",
-    "one_line_insight_en": "The rise of agentic commerce forces D2C brands to adapt to a new AI agent-centric marketing ecosystem.",
-    "ai_processed": true
-  },
-  {
-    "title": "Article reveals plans for its first US retail stores",
-    "link": "https://www.retaildive.com/news/article-furniture-brand-first-us-retail-stores/820340/",
-    "date_published": "2026-05-18",
-    "description": "The Canada-based DTC furniture company is opening a pair of brick-and-mortar locations in Washington and California to better serve its biggest customer base.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.6,
-    "relevance_label": "high",
-    "title_en": "Article furniture brand opens first US retail stores in Washington and California",
-    "summary_ko": "캐나다 기반 DTC 가구 브랜드 Article이 미국 최대 고객층을 더 잘 서비스하기 위해 첫 미국 매장을 오픈합니다. 워싱턴과 캘리포니아에 두 개의 오프라인 매장을 열 예정입니다. 이는 DTC 브랜드의 옴니채널 확장 전략의 대표적인 사례입니다.",
-    "summary_en": "Canada-based DTC furniture brand Article is opening its first US stores to better serve its largest customer base. The company is launching two brick-and-mortar locations in Washington and California. This represents a typical omnichannel expansion strategy for DTC brands.",
-    "so_what_ko": "순수 DTC 브랜드도 고객 서비스 향상과 시장 확장을 위해 오프라인 매장을 통한 옴니채널 전략이 필수적임을 보여주며, LG D2C도 물리적 터치포인트 확장을 고려해야 합니다.",
-    "so_what_en": "This shows that even pure DTC brands need omnichannel strategies with physical touchpoints for customer service enhancement and market expansion, suggesting LG D2C should consider similar physical presence strategies.",
-    "key_points": [
-      "DTC furniture brand Article expanding to US retail stores",
-      "Opening locations in Washington and California",
-      "Strategy aims to better serve largest customer base"
-    ],
-    "tags": [
-      "dtc-expansion",
-      "omnichannel",
-      "retail-stores",
-      "furniture",
-      "canadian-brand"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Article",
-      "DTC furniture",
-      "Washington",
-      "California"
-    ],
-    "one_line_insight_ko": "DTC 브랜드의 성공적인 시장 확장은 디지털과 오프라인의 전략적 결합에 달려있습니다.",
-    "one_line_insight_en": "Successful DTC brand market expansion depends on strategic integration of digital and offline channels.",
-    "ai_processed": true
-  },
-  {
-    "title": "Lululemon claps back at Chip Wilson after spurned settlement offer",
-    "link": "https://www.retaildive.com/news/lululemon-chip-wilson-criticism-proxy-fight-settlement/820490/",
-    "date_published": "2026-05-18",
-    "description": "The retailer, which called its founder's perspective \"outdated,\" had offered to elect two of his nominees, part of a settlement he rejected.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "strategy"
-    ],
-    "relevance_score": 0.3,
-    "relevance_label": "high",
-    "title_en": "Lululemon rejects founder Chip Wilson's settlement offer amid proxy fight",
-    "summary_ko": "룰루레몬이 창립자 칩 윌슨의 화해 제안을 거부하며 그의 관점을 '시대에 뒤떨어진' 것이라고 비판했습니다. 회사는 그의 후보 2명을 선출하는 화해안을 제시했지만 윌슨이 이를 거절했습니다. 이는 브랜드 창립자와 경영진 간의 갈등을 보여주는 사례입니다.",
-    "summary_en": "Lululemon rejected founder Chip Wilson's settlement offer, calling his perspective 'outdated.' The company had offered to elect two of his nominees as part of a settlement he rejected. This represents a conflict between brand founder and current management.",
-    "so_what_ko": "브랜드 창립자와 경영진 간의 갈등은 브랜드 정체성과 전략 방향에 영향을 미칠 수 있어, D2C 조직에서는 창립 비전과 현대적 경영 전략 간의 균형을 유지하는 것이 중요합니다.",
-    "so_what_en": "Conflicts between brand founders and management can impact brand identity and strategic direction, highlighting the importance of balancing founding vision with modern management strategies in D2C organizations.",
-    "key_points": [
-      "Lululemon rejects founder's settlement offer",
-      "Company calls Wilson's perspective 'outdated'",
-      "Proxy fight continues between founder and management"
-    ],
-    "tags": [
-      "corporate-governance",
-      "founder-conflict",
-      "lululemon",
-      "proxy-fight",
-      "brand-management"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Lululemon",
-      "Chip Wilson",
-      "proxy fight"
-    ],
-    "one_line_insight_ko": "브랜드 성장 과정에서 창립 비전과 현대적 경영 전략 간의 갈등은 불가피한 도전 과제입니다.",
-    "one_line_insight_en": "Conflicts between founding vision and modern management strategies are inevitable challenges in brand growth journeys.",
-    "ai_processed": true
-  },
-  {
-    "title": "Claire’s eyes expansion to 7K retail locations",
-    "link": "https://www.retaildive.com/news/claires-retail-expansion-licensing-centric-brands/820476/",
-    "date_published": "2026-05-18",
-    "description": "A licensing agreement with Centric Brands will scale the retailer’s presence across partners, including Walmart, Kohl’s and CVS and will push the brand into new categories.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.5,
-    "relevance_label": "high",
-    "title_en": "Claire's targets 7,000 retail locations through Centric Brands licensing deal",
-    "summary_ko": "클레어스가 센트릭 브랜즈와의 라이선싱 계약을 통해 7,000개 매장 확장을 목표로 하고 있습니다. 월마트, 콜스, CVS 등 파트너를 통해 리테일 존재감을 확대하고 새로운 카테고리로 진출할 예정입니다. 이는 라이선싱을 통한 대규모 유통망 확장 전략의 사례입니다.",
-    "summary_en": "Claire's is targeting expansion to 7,000 retail locations through a licensing agreement with Centric Brands. The deal will scale the retailer's presence across partners including Walmart, Kohl's, and CVS while pushing into new categories. This represents a large-scale distribution expansion strategy through licensing.",
-    "so_what_ko": "라이선싱을 통한 대규모 유통망 확장은 D2C 브랜드가 빠르게 시장 접근성을 높이는 효과적인 전략이며, LG D2C도 전략적 파트너십을 통한 확장 기회를 탐색해야 합니다.",
-    "so_what_en": "Large-scale distribution expansion through licensing is an effective strategy for D2C brands to rapidly increase market accessibility, suggesting LG D2C should explore expansion opportunities through strategic partnerships.",
-    "key_points": [
-      "Claire's targeting 7,000 retail locations expansion",
-      "Licensing agreement with Centric Brands enables scaling",
-      "Partnership includes major retailers like Walmart, Kohl's, CVS"
-    ],
-    "tags": [
-      "licensing-expansion",
-      "retail-partnership",
-      "claires",
-      "distribution-strategy",
-      "omnichannel"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "PLATFORM_ECOSYSTEM",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Claire's",
-      "Centric Brands",
-      "Walmart",
-      "Kohl's",
-      "CVS"
-    ],
-    "one_line_insight_ko": "전략적 라이선싱 파트너십은 브랜드가 자본 투자 없이 대규모 시장 확장을 달성하는 핵심 방법입니다.",
-    "one_line_insight_en": "Strategic licensing partnerships are key for brands to achieve large-scale market expansion without capital investment.",
-    "ai_processed": true
-  },
-  {
-    "title": "9 national TV publishers join initiative to address industry fragmentation",
-    "link": "https://www.marketingdive.com/news/9-national-tv-publishers-join-initiative-to-address-industry-fragmentation/820398/",
-    "date_published": "2026-05-18",
-    "description": "Industry giants, including Paramount and NBCUniversal, have teamed with OpenAP to introduce a standardized way to activate and measure campaigns.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
-    "categories": [
-      "marketing"
-    ],
-    "relevance_score": 0.6,
-    "relevance_label": "high",
-    "title_en": "Nine national TV publishers unite with OpenAP to standardize campaign measurement",
-    "summary_ko": "파라마운트와 NBCUniversal을 포함한 9개 주요 TV 퍼블리셔가 OpenAP와 협력하여 업계 분열 문제를 해결하고 있습니다. 이들은 캠페인 활성화 및 측정의 표준화된 방법을 도입했습니다. 이는 TV 광고 산업의 효율성을 높이기 위한 공동 노력입니다.",
-    "summary_en": "Nine major TV publishers including Paramount and NBCUniversal have partnered with OpenAP to address industry fragmentation. They have introduced a standardized way to activate and measure campaigns. This represents a collective effort to improve TV advertising industry efficiency.",
-    "so_what_ko": "TV 광고 측정의 표준화는 D2C 브랜드들에게 더 정확하고 비교 가능한 미디어 성과 데이터를 제공하여, 크로스 플랫폼 마케팅 효율성을 높일 수 있는 기회를 제공합니다.",
-    "so_what_en": "Standardization of TV advertising measurement provides D2C brands with more accurate and comparable media performance data, creating opportunities to improve cross-platform marketing efficiency.",
-    "key_points": [
-      "Nine major TV publishers joining standardization initiative",
-      "Partnership with OpenAP to address industry fragmentation",
-      "Standardized campaign activation and measurement methods"
-    ],
-    "tags": [
-      "tv-advertising",
-      "measurement-standardization",
-      "openap",
-      "media-fragmentation",
-      "campaign-optimization"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "DATA_STRATEGY",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "OpenAP",
-      "Paramount",
-      "NBCUniversal",
-      "TV publishers"
-    ],
-    "one_line_insight_ko": "미디어 측정 표준화는 D2C 브랜드의 크로스 플랫폼 마케팅 ROI 최적화를 가능하게 하는 중요한 발전입니다.",
-    "one_line_insight_en": "Media measurement standardization is a crucial development enabling D2C brands to optimize cross-platform marketing ROI.",
-    "ai_processed": true
-  },
-  {
-    "title": "Publicis buys LiveRamp to build agentic AI capabilities on proprietary data",
-    "link": "https://martech.org/publicis-buys-liveramp-to-build-agentic-ai-capabilities-on-proprietary-data/",
-    "date_published": "2026-05-18",
-    "description": "Data was nice, but high-value, proprietary data you can use to train AI agents is even better. \nThe post Publicis buys LiveRamp to build agentic AI capabilities on proprietary data appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
-    "categories": [
-      "marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.9,
-    "relevance_label": "high",
-    "title_en": "Publicis Acquires LiveRamp to Build Agentic AI Capabilities with Proprietary Data",
-    "summary_ko": "퍼블리시스가 독점 데이터를 활용한 에이전틱 AI 역량 구축을 위해 라이브램프를 인수했습니다. 이 인수는 고가치 독점 데이터를 AI 에이전트 훈련에 활용하려는 전략적 움직임입니다. 데이터 자체보다 AI 에이전트 훈련 가능한 독점 데이터가 더 중요해지고 있습니다.",
-    "summary_en": "Publicis acquired LiveRamp to build agentic AI capabilities using proprietary data. This acquisition represents a strategic move to leverage high-value, proprietary data for AI agent training. The focus has shifted from data itself to proprietary data that can effectively train AI agents.",
-    "so_what_ko": "LG D2C는 자사만의 독점 고객 데이터를 AI 에이전트 훈련에 활용할 수 있는 전략과 인프라를 구축해야 합니다.",
-    "so_what_en": "LG D2C should develop strategies and infrastructure to leverage proprietary customer data for training AI agents that can enhance personalized commerce experiences.",
-    "key_points": [
-      "Publicis acquired LiveRamp for agentic AI capabilities",
-      "Focus on proprietary data for AI agent training",
-      "Shift from general data to high-value, training-ready data",
-      "Strategic consolidation in martech for AI capabilities"
-    ],
-    "tags": [
-      "agentic-ai",
-      "data-strategy",
-      "martech-acquisition",
-      "proprietary-data",
-      "ai-agents"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Publicis",
-      "LiveRamp"
-    ],
-    "one_line_insight_ko": "독점 데이터 기반 AI 에이전트 구축이 차세대 마케팅의 핵심 경쟁력이 되고 있습니다.",
-    "one_line_insight_en": "Building AI agents with proprietary data is becoming the core competitive advantage in next-generation marketing.",
-    "ai_processed": true
-  },
-  {
-    "title": "AI made marketers faster, but organizations stayed the same",
-    "link": "https://martech.org/ai-made-marketers-faster-but-organizations-stayed-the-same/",
-    "date_published": "2026-05-18",
-    "description": "AI tools improved how specialists work, but most organizations still operate through the same approvals, handoffs, and bottlenecks.\nThe post AI made marketers faster, but organizations stayed the same appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
-    "categories": [
-      "marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.8,
-    "relevance_label": "high",
-    "title_en": "AI Made Marketers Faster, But Organizations Stayed the Same",
-    "summary_ko": "AI 도구가 마케터 개인의 작업 속도는 향상시켰지만, 조직의 승인 과정과 병목 현상은 여전히 남아있습니다. 대부분의 조직이 동일한 승인 절차와 업무 전달 방식을 유지하고 있습니다. AI 도구의 효율성이 조직 구조의 비효율성으로 상쇄되고 있는 상황입니다.",
-    "summary_en": "AI tools have improved individual marketer productivity, but organizations continue to operate with the same approval processes and bottlenecks. Most organizations maintain identical approval procedures and handoff methods. The efficiency gains from AI tools are being offset by organizational inefficiencies.",
-    "so_what_ko": "LG D2C는 AI 도구 도입과 함께 조직 구조와 승인 프로세스를 동시에 혁신하여 AI의 잠재력을 완전히 활용해야 합니다.",
-    "so_what_en": "LG D2C must innovate organizational structures and approval processes alongside AI tool adoption to fully realize AI's potential for accelerated marketing operations.",
-    "key_points": [
-      "AI improved individual marketer efficiency",
-      "Organizational processes remain unchanged",
-      "Bottlenecks persist despite technological advancement",
-      "Need for organizational transformation alongside AI adoption"
-    ],
-    "tags": [
-      "organizational-change",
-      "ai-adoption",
-      "process-optimization",
-      "marketing-efficiency",
-      "bottlenecks"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "원문에서 확인되지 않음"
-    ],
-    "one_line_insight_ko": "AI 도구의 효과를 극대화하려면 조직 구조와 프로세스의 근본적 변화가 필수입니다.",
-    "one_line_insight_en": "Maximizing AI tool effectiveness requires fundamental changes in organizational structures and processes.",
-    "ai_processed": true
-  },
-  {
-    "title": "How to make your content visible to AI buying agents",
-    "link": "https://martech.org/how-to-make-your-content-visible-to-ai-buying-agents/",
-    "date_published": "2026-05-18",
-    "description": "As AI agents start shortlisting vendors, structured, machine-readable content will determine which brands even get considered.\nThe post How to make your content visible to AI buying agents appeared first on MarTech.",
+    "description": "AI recommendation engines rely on reviews, comparisons, and customer signals to decide which brands to surface and trust.\nThe post Customer experience outweighs brand in AI-assisted shopping appeared first on MarTech.",
     "source_id": "martech_org",
     "source_name": "MarTech.org",
     "source_url": "https://martech.org/feed",
@@ -344,115 +13,336 @@
     ],
     "relevance_score": 0.9,
     "relevance_label": "high",
-    "title_en": "How to Make Your Content Visible to AI Buying Agents",
-    "summary_ko": "AI 에이전트가 공급업체를 선별하기 시작하면서, 구조화된 기계 판독 가능한 콘텐츠가 브랜드 고려 대상 선정을 결정하게 됩니다. AI 구매 에이전트에게 브랜드가 발견되려면 콘텐츠 구조화가 필수입니다. 기존 SEO 최적화와는 다른 AI 에이전트 대상 콘텐츠 전략이 필요합니다.",
-    "summary_en": "As AI agents begin shortlisting vendors, structured, machine-readable content will determine which brands get considered. Content structuring is essential for brands to be discovered by AI buying agents. A new content strategy targeting AI agents, different from traditional SEO optimization, is required.",
-    "so_what_ko": "LG D2C는 AI 구매 에이전트가 이해할 수 있는 구조화된 제품 정보와 콘텐츠 포맷을 개발하여 미래 구매 여정에서 우위를 확보해야 합니다.",
-    "so_what_en": "LG D2C should develop structured product information and content formats that AI buying agents can understand to gain advantage in future purchase journeys.",
+    "title_en": "Customer Experience Overtakes Brand Loyalty in AI-Powered Shopping Decisions",
+    "summary_ko": "AI 추천 엔진이 리뷰, 비교, 고객 신호를 통해 브랜드를 평가하고 추천한다. AI 쇼핑에서 고객 경험이 브랜드보다 중요한 요소로 부상했다. 기존 브랜드 충성도보다 실제 고객 만족도가 AI 추천의 핵심 기준이 되고 있다.",
+    "summary_en": "AI recommendation engines evaluate and surface brands based on reviews, comparisons, and customer signals rather than traditional brand equity. Customer experience has emerged as the dominant factor in AI-assisted shopping decisions. Traditional brand loyalty takes a backseat to actual customer satisfaction metrics in AI-driven recommendations.",
+    "so_what_ko": "D2C 브랜드는 고객 리뷰와 경험 품질에 집중해야 하며, AI 플랫폼에서 가시성을 확보하기 위해 지속적인 고객 만족도 관리가 필수다.",
+    "so_what_en": "D2C brands must prioritize customer reviews and experience quality, requiring continuous customer satisfaction management to maintain visibility on AI platforms.",
     "key_points": [
-      "AI agents will shortlist vendors automatically",
-      "Machine-readable content determines brand consideration",
-      "Need for new content strategy beyond traditional SEO",
-      "Structured data becomes critical for brand discovery"
+      "AI recommendation systems prioritize customer experience data over brand reputation",
+      "Reviews and customer signals drive AI shopping decisions",
+      "Traditional brand equity becomes less influential in AI-mediated commerce"
     ],
     "tags": [
-      "ai-buying-agents",
-      "structured-content",
-      "machine-readable",
-      "content-optimization",
-      "vendor-selection"
+      "ai-recommendations",
+      "customer-experience",
+      "brand-equity",
+      "ai-shopping"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "AI_COMMERCE",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "AI recommendation engines",
+      "MarTech"
+    ],
+    "one_line_insight_ko": "AI 시대에는 브랜드 파워보다 실제 고객 경험과 리뷰가 구매 결정의 핵심 요소가 된다.",
+    "one_line_insight_en": "In the AI era, actual customer experience and reviews become more decisive than brand power in purchase decisions.",
+    "ai_processed": true
+  },
+  {
+    "title": "Who owns agentic workflows? Agencies struggle to govern new tools as marketing budgets surge",
+    "link": "https://digiday.com/marketing/who-owns-agentic-workflows-agencies-struggle-to-govern-new-tools-as-marketing-budgets-surge/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-05-20",
+    "description": "Deciding how AI is used, vetting tools, shaping best practices and how staff are incentivized to use AI tools are still up for debate internally at agencies.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "marketing"
+    ],
+    "relevance_score": 0.8,
+    "relevance_label": "high",
+    "title_en": "Agencies Struggle with Governance as Agentic AI Workflow Adoption Accelerates",
+    "summary_ko": "에이전시들이 에이전틱 AI 워크플로우 도구의 소유권과 거버넌스 문제로 어려움을 겪고 있다. 마케팅 예산이 급증하는 가운데 AI 도구 검증과 모범 사례 수립이 여전히 논의 중이다. 직원들의 AI 도구 사용 인센티브 체계도 아직 명확하지 않은 상태다.",
+    "summary_en": "Agencies are struggling with ownership and governance issues surrounding agentic AI workflow tools. As marketing budgets surge, vetting AI tools and establishing best practices remain under internal debate. Staff incentive structures for AI tool adoption are still unclear across agencies.",
+    "so_what_ko": "D2C 조직은 에이전틱 AI 도구 도입 전에 명확한 거버넌스 체계와 직원 교육 프로그램을 사전에 구축해야 한다.",
+    "so_what_en": "D2C organizations must establish clear governance frameworks and staff training programs before implementing agentic AI tools.",
+    "key_points": [
+      "Agency governance struggles with agentic AI workflow implementation",
+      "Tool vetting and best practice development still in debate phase",
+      "Staff incentivization for AI adoption remains unresolved",
+      "Marketing budgets increasing despite governance challenges"
+    ],
+    "tags": [
+      "agentic-ai",
+      "workflow-automation",
+      "agency-governance",
+      "marketing-budgets"
     ],
     "confidence": 0.8,
     "strategic_theme": "AI_AGENT",
     "regions": [
       "GLOBAL"
     ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
+    "business_impact": "MEDIUM",
+    "sentiment": "NEUTRAL",
     "key_entities": [
-      "원문에서 확인되지 않음"
+      "Digiday",
+      "agentic workflows",
+      "marketing agencies"
     ],
-    "one_line_insight_ko": "AI 구매 에이전트 시대에는 구조화된 기계 판독 가능한 콘텐츠가 브랜드 생존의 열쇠입니다.",
-    "one_line_insight_en": "In the AI buying agent era, structured machine-readable content is the key to brand survival and discovery.",
+    "one_line_insight_ko": "에이전틱 AI 도구 도입 시 거버넌스 체계 구축이 기술 구현만큼 중요하다.",
+    "one_line_insight_en": "Governance framework development is as critical as technical implementation when adopting agentic AI tools.",
     "ai_processed": true
   },
   {
-    "title": "AI is moving too fast for static strategies",
-    "link": "https://martech.org/ai-is-moving-too-fast-for-static-strategies/",
-    "date_published": "2026-05-18",
-    "description": "The companies pulling ahead with AI are not predicting the future better than everyone else, they are learning and adapting faster in real time.\nThe post AI is moving too fast for static strategies appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
+    "title": "Target taps former Walmart exec as supply chain, logistics chief",
+    "link": "https://www.retaildive.com/news/target-former-walmart-exec-supply-chain-logistics-chief/820611/",
+    "date_published": "2026-05-19",
+    "description": "Jeff England, who worked to improve inventory availability at QXO, will join the retailer on May 31 as it seeks to strengthen in-stock reliability.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
     "categories": [
-      "strategy",
-      "tech"
+      "commerce"
     ],
-    "relevance_score": 0.8,
+    "relevance_score": 0.4,
     "relevance_label": "high",
-    "title_en": "AI is Moving Too Fast for Static Strategies",
-    "summary_ko": "AI 분야에서 앞서가는 기업들은 미래를 더 잘 예측해서가 아니라 실시간으로 더 빠르게 학습하고 적응하기 때문입니다. 정적인 전략으로는 빠르게 변화하는 AI 환경을 따라갈 수 없습니다. 실시간 학습과 빠른 적응이 AI 시대의 핵심 성공 요소입니다.",
-    "summary_en": "Companies leading in AI are not better at predicting the future, but are learning and adapting faster in real time. Static strategies cannot keep pace with the rapidly changing AI landscape. Real-time learning and rapid adaptation are key success factors in the AI era.",
-    "so_what_ko": "LG D2C는 고정된 AI 전략보다는 실시간 학습과 빠른 적응이 가능한 민첩한 AI 실험 체계를 구축해야 합니다.",
-    "so_what_en": "LG D2C should build agile AI experimentation systems that enable real-time learning and rapid adaptation rather than fixed AI strategies.",
+    "title_en": "Target Hires Former Walmart Executive to Strengthen Supply Chain Operations",
+    "summary_ko": "타겟이 전 월마트 임원 제프 잉글랜드를 공급망 및 물류 최고책임자로 영입했다. 그는 QXO에서 재고 가용성을 개선한 경험을 바탕으로 5월 31일 타겟에 합류한다. 타겟은 재고 안정성 강화를 위해 공급망 리더십을 보강하고 있다.",
+    "summary_en": "Target has hired former Walmart executive Jeff England as chief supply chain and logistics officer. He will join the retailer on May 31, bringing experience from improving inventory availability at QXO. Target is strengthening supply chain leadership to enhance in-stock reliability.",
+    "so_what_ko": "주요 리테일러들이 공급망 전문가 영입을 통해 재고 관리 역량 강화에 집중하고 있어, D2C 브랜드도 공급망 최적화 투자가 필요하다.",
+    "so_what_en": "Major retailers are focusing on supply chain expertise to enhance inventory management, indicating D2C brands should also invest in supply chain optimization.",
     "key_points": [
-      "Leading companies adapt faster, not predict better",
-      "Static strategies insufficient for AI pace",
-      "Real-time learning is competitive advantage",
-      "Speed of adaptation trumps strategic planning"
+      "Target recruits Walmart veteran for supply chain leadership",
+      "Focus on improving inventory availability and in-stock reliability",
+      "Cross-retailer talent movement in supply chain expertise"
     ],
     "tags": [
-      "adaptive-strategy",
-      "real-time-learning",
-      "ai-pace",
-      "strategic-agility",
-      "continuous-adaptation"
+      "supply-chain",
+      "inventory-management",
+      "retail-leadership",
+      "target"
     ],
-    "confidence": 0.8,
-    "strategic_theme": "DATA_STRATEGY",
+    "confidence": 0.9,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Target",
+      "Walmart",
+      "Jeff England",
+      "QXO"
+    ],
+    "one_line_insight_ko": "공급망 전문 인재 확보가 리테일 경쟁력의 핵심 차별화 요소로 부상하고 있다.",
+    "one_line_insight_en": "Securing supply chain expertise talent is emerging as a key competitive differentiator in retail.",
+    "ai_processed": true
+  },
+  {
+    "title": "At Home CEO to retire after leading it through bankruptcy",
+    "link": "https://www.retaildive.com/news/at-home-ceo-brad-weston-retires-post-bankruptcy/820589/",
+    "date_published": "2026-05-19",
+    "description": "Chief Executive Officer Brad Weston will transition to an advisory role and the home retailer has initiated a search for his replacement.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "commerce"
+    ],
+    "relevance_score": 0.3,
+    "relevance_label": "high",
+    "title_en": "At Home CEO Brad Weston to Retire After Guiding Company Through Bankruptcy",
+    "summary_ko": "앳홈의 CEO 브래드 웨스턴이 회사를 파산에서 성공적으로 이끌어낸 후 은퇴한다고 발표했다. 그는 자문 역할로 전환할 예정이며, 홈 리테일러는 후임자 찾기에 나섰다. 웨스턴은 회사의 재정 회복 과정을 주도했다.",
+    "summary_en": "At Home CEO Brad Weston announced his retirement after successfully leading the company through bankruptcy proceedings. He will transition to an advisory role while the home retailer initiates a search for his replacement. Weston spearheaded the company's financial recovery process.",
+    "so_what_ko": "홈 리테일 시장의 리더십 변화가 시장 재편 기회를 제공할 수 있어, D2C 홈 브랜드들의 시장 진입 전략 재검토가 필요하다.",
+    "so_what_en": "Leadership changes in the home retail market may create market reshuffling opportunities, requiring D2C home brands to reassess market entry strategies.",
+    "key_points": [
+      "CEO Brad Weston retiring after bankruptcy turnaround",
+      "Leadership transition at major home retailer",
+      "Company seeks new CEO following financial recovery"
+    ],
+    "tags": [
+      "leadership-change",
+      "home-retail",
+      "bankruptcy-recovery",
+      "ceo-transition"
+    ],
+    "confidence": 0.9,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "At Home",
+      "Brad Weston"
+    ],
+    "one_line_insight_ko": "홈 리테일 시장의 경영진 교체는 새로운 경쟁 기회를 창출할 수 있다.",
+    "one_line_insight_en": "Executive transitions in home retail markets can create new competitive opportunities.",
+    "ai_processed": true
+  },
+  {
+    "title": "Home Depot addresses cost changes surrounding tariffs, oil prices",
+    "link": "https://www.digitalcommerce360.com/2026/05/19/home-depot-cost-changes-tariffs-oil-prices/",
+    "date_published": "2026-05-19",
+    "description": "Richard McPhail, chief financial officer at Home Depot, has reaffirmed the retailer’s sales guidance in light of multiple rising costs, including fuel prices, interest rates and tariffs. Home Depot expects comparable sales growth to be in a range from flat to 2% growth. That follows a quarter in which Home Depot comparable sales increased 0.6% […]\nThe post Home Depot addresses cost changes surrounding tariffs, oil prices appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
+    "categories": [
+      "commerce"
+    ],
+    "relevance_score": 0.2,
+    "relevance_label": "high",
+    "title_en": "Home Depot Maintains Sales Guidance Despite Rising Tariff and Energy Costs",
+    "summary_ko": "홈디포의 CFO 리처드 맥페일이 연료비, 금리, 관세 등 비용 상승에도 불구하고 매출 가이던스를 유지한다고 밝혔다. 홈디포는 동일매장매출 성장률을 0%에서 2% 사이로 전망한다고 발표했다. 전분기 동일매장매출은 0.6% 증가했다.",
+    "summary_en": "Home Depot CFO Richard McPhail reaffirmed the retailer's sales guidance despite rising costs including fuel prices, interest rates, and tariffs. Home Depot expects comparable sales growth to range from flat to 2% growth. The previous quarter saw comparable sales increase by 0.6%.",
+    "so_what_ko": "주요 리테일러가 비용 상승 압박에도 안정적 성장 전망을 유지하고 있어, D2C 브랜드들도 비용 효율성과 가격 전략 재검토가 필요하다.",
+    "so_what_en": "Major retailers maintaining stable growth outlook despite cost pressures indicates D2C brands need to reassess cost efficiency and pricing strategies.",
+    "key_points": [
+      "Home Depot maintains sales guidance amid cost pressures",
+      "Expects comparable sales growth of 0-2%",
+      "Managing impacts from tariffs, fuel prices, and interest rates",
+      "Previous quarter showed 0.6% comparable sales growth"
+    ],
+    "tags": [
+      "cost-management",
+      "sales-guidance",
+      "tariffs",
+      "home-depot"
+    ],
+    "confidence": 0.9,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Home Depot",
+      "Richard McPhail"
+    ],
+    "one_line_insight_ko": "거시경제적 비용 압박 속에서도 리테일 강자들의 안정적 성장 전망은 시장 회복력을 보여준다.",
+    "one_line_insight_en": "Retail leaders' stable growth outlook amid macroeconomic cost pressures demonstrates market resilience.",
+    "ai_processed": true
+  },
+  {
+    "title": "Google’s new Universal Cart wants to follow your entire shopping journey across the internet",
+    "link": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-your-entire-shopping-journey-across-the-internet/",
+    "date_published": "2026-05-19",
+    "description": "Most people shop across multiple devices, many retailers, and over the course of many days, which is why Google is launching Universal Cart.",
+    "source_id": "techcrunch_commerce",
+    "source_name": "TechCrunch Commerce",
+    "source_url": "https://techcrunch.com/category/commerce/feed",
+    "categories": [
+      "commerce",
+      "marketing"
+    ],
+    "relevance_score": 0.9,
+    "relevance_label": "high",
+    "title_en": "Google Launches Universal Cart to Track Cross-Platform Shopping Journeys",
+    "summary_ko": "구글이 여러 디바이스와 리테일러를 넘나드는 소비자의 쇼핑 여정을 추적할 수 있는 Universal Cart를 출시했다. 이 서비스는 소비자가 며칠에 걸쳐 다양한 플랫폼에서 쇼핑하는 행태를 통합적으로 관리할 수 있게 한다. 크로스 플랫폼 쇼핑 경험의 연속성을 제공하여 전환율 향상을 목표로 한다.",
+    "summary_en": "Google has launched Universal Cart to track consumers' shopping journeys across multiple devices and retailers. The service enables integrated management of shopping behaviors that span various platforms over multiple days. It aims to improve conversion rates by providing continuity in cross-platform shopping experiences.",
+    "so_what_ko": "D2C 브랜드들은 구글의 Universal Cart 생태계에 참여하여 고객의 크로스 플랫폼 쇼핑 데이터를 활용한 개인화 마케팅 전략을 수립해야 한다.",
+    "so_what_en": "D2C brands should participate in Google's Universal Cart ecosystem to leverage cross-platform shopping data for personalized marketing strategies.",
+    "key_points": [
+      "Google introduces Universal Cart for cross-device shopping tracking",
+      "Addresses multi-day, multi-retailer shopping behaviors",
+      "Aims to improve conversion rates through shopping continuity"
+    ],
+    "tags": [
+      "universal-cart",
+      "cross-platform-shopping",
+      "google-commerce",
+      "shopping-journey"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "AI_COMMERCE",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "원문에서 확인되지 않음"
+      "Google",
+      "Universal Cart"
     ],
-    "one_line_insight_ko": "AI 시대에는 완벽한 계획보다 빠른 학습과 적응 능력이 경쟁 우위를 결정합니다.",
-    "one_line_insight_en": "In the AI era, rapid learning and adaptation capabilities determine competitive advantage over perfect planning.",
+    "one_line_insight_ko": "구글의 Universal Cart는 크로스 플랫폼 쇼핑 데이터 통합을 통해 D2C 브랜드의 개인화 마케팅 기회를 확대한다.",
+    "one_line_insight_en": "Google's Universal Cart expands personalization marketing opportunities for D2C brands through cross-platform shopping data integration.",
     "ai_processed": true
   },
   {
-    "title": "Everlane’s sale to Shein is another nail in the coffin for millennial DTC brands",
-    "link": "https://www.modernretail.co/operations/everlanes-sale-to-shein-is-another-nail-in-the-coffin-for-millennial-dtc-brands/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-05-18",
-    "description": "One of the first DTC darlings of the 2010s, Everlane has sold to Shein for a reported $100 million after years of struggling to grow. Combined with Allbirds' fire sale earlier this year, it's a nail in the coffin for early, venture-backed DTC darlings.",
-    "source_id": "modern_retail",
-    "source_name": "Modern Retail",
-    "source_url": "https://www.modernretail.co/feed/",
+    "title": "Google Revamps Its Iconic Search Bar for the First Time in 25 Years",
+    "link": "https://www.adweek.com/media/google-revamps-its-iconic-search-bar-for-the-first-time-in-25-years/",
+    "date_published": "2026-05-19",
+    "description": "Google readies its Search bar for the AI era, answering longer queries, and simplifying shopping across the internet.",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
     "categories": [
-      "commerce",
-      "strategy"
+      "marketing",
+      "tech"
     ],
-    "relevance_score": 0.7,
+    "relevance_score": 0.8,
     "relevance_label": "high",
-    "title_en": "Everlane's Sale to Shein Marks Another Blow for Millennial DTC Brands",
-    "summary_ko": "2010년대 첫 DTC 대표 브랜드 중 하나인 에버레인이 성장 어려움을 겪은 후 1억 달러에 샤인에 매각되었습니다. 올해 초 올버즈의 헐값 매각과 함께 초기 벤처 투자 DTC 브랜드들의 몰락을 보여줍니다. 밀레니얼 세대 타겟 DTC 브랜드들의 지속가능성에 대한 의문이 제기되고 있습니다.",
-    "summary_en": "Everlane, one of the first DTC darlings of the 2010s, sold to Shein for $100 million after struggling with growth. Combined with Allbirds' fire sale earlier this year, it represents the downfall of early venture-backed DTC brands. Questions arise about the sustainability of millennial-targeted DTC brands.",
-    "so_what_ko": "LG D2C는 기존 DTC 모델의 한계를 분석하고, AI 기술과 데이터 활용을 통한 차별화된 D2C 전략으로 지속가능한 경쟁력을 확보해야 합니다.",
-    "so_what_en": "LG D2C should analyze limitations of traditional DTC models and secure sustainable competitiveness through differentiated D2C strategies leveraging AI technology and data utilization.",
+    "title_en": "Google Redesigns Search Bar for AI Era After 25 Years",
+    "summary_ko": "구글이 25년 만에 처음으로 검색창을 대폭 개편하며 AI 시대에 맞춘 변화를 시도했다. 새로운 검색창은 더 긴 쿼리에 응답할 수 있고 인터넷 전반의 쇼핑을 단순화하는 기능을 제공한다. AI 기반 검색 경험의 진화를 통해 사용자의 쇼핑 및 정보 탐색 방식을 혁신하고 있다.",
+    "summary_en": "Google has redesigned its search bar for the first time in 25 years, adapting to the AI era. The new search bar can respond to longer queries and provides features that simplify shopping across the internet. It's revolutionizing how users shop and explore information through AI-powered search experiences.",
+    "so_what_ko": "D2C 브랜드들은 AI 기반 긴 쿼리 검색에 최적화된 SEO 전략을 수립하고, 구글의 새로운 쇼핑 검색 기능에 맞춰 상품 정보를 구조화해야 한다.",
+    "so_what_en": "D2C brands must develop SEO strategies optimized for AI-powered long query searches and structure product information to align with Google's new shopping search features.",
     "key_points": [
-      "Everlane sold to Shein for $100 million",
-      "Pattern of struggling millennial DTC brands",
-      "Questions about DTC model sustainability",
-      "Need for evolved D2C strategies beyond traditional models"
+      "First major search bar redesign in 25 years",
+      "Enhanced support for longer, AI-powered queries",
+      "Simplified shopping experience across the internet"
     ],
     "tags": [
-      "dtc-brands",
-      "brand-acquisition",
-      "millennial-retail",
-      "sustainable-growth",
-      "shein"
+      "google-search",
+      "ai-search",
+      "search-redesign",
+      "shopping-optimization"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Google",
+      "Search Bar"
+    ],
+    "one_line_insight_ko": "구글 검색창의 AI 기반 개편은 D2C 브랜드의 검색 마케팅 전략을 장문 쿼리 중심으로 전환시킬 필요성을 제기한다.",
+    "one_line_insight_en": "Google's AI-powered search bar redesign necessitates a shift in D2C search marketing strategies toward long-query optimization.",
+    "ai_processed": true
+  },
+  {
+    "title": "Microsoft Ad Chief Kya Sainsbury-Carter Departs; LinkedIn&#8217;s Matt Derella Takes Over",
+    "link": "https://www.adweek.com/media/microsoft-ad-chief-kya-sainsbury-carter-departs-linkedins-matt-derella-takes-over/",
+    "date_published": "2026-05-19",
+    "description": "Microsoft’s top advertising executive, Kya Sainsbury-Carter, is leaving the company after three years in the role, to be replaced by LinkedIn ads exec Matt Derella.",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
+    "categories": [
+      "marketing"
+    ],
+    "relevance_score": 0.6,
+    "relevance_label": "high",
+    "title_en": "Microsoft Appoints LinkedIn's Matt Derella as New Ad Chief",
+    "summary_ko": "마이크로소프트의 최고 광고 책임자 카야 세인즈베리-카터가 3년간의 재임 후 퇴사하며, 링크드인 광고 임원 매트 데렐라가 후임으로 임명됐다. 이번 인사 변화는 마이크로소프트 광고 사업부의 새로운 리더십 전환을 의미한다. 링크드인 출신의 데렐라는 B2B 광고 전문성을 바탕으로 마이크로소프트 광고 전략을 이끌 예정이다.",
+    "summary_en": "Microsoft's top advertising executive Kya Sainsbury-Carter is leaving after three years, with LinkedIn ads executive Matt Derella taking over. This personnel change represents a new leadership transition in Microsoft's advertising division. Derella, coming from LinkedIn, is expected to lead Microsoft's advertising strategy with his B2B advertising expertise.",
+    "so_what_ko": "링크드인 출신의 새로운 마이크로소프트 광고 책임자는 B2B 중심의 광고 전략 강화를 가져올 가능성이 높아, D2C 브랜드들은 마이크로소프트 광고 플랫폼의 정책 변화를 주시해야 한다.",
+    "so_what_en": "The new Microsoft ad chief from LinkedIn likely brings B2B-focused advertising strategy enhancement, requiring D2C brands to monitor policy changes on Microsoft's advertising platforms.",
+    "key_points": [
+      "Kya Sainsbury-Carter leaves Microsoft after three years as ad chief",
+      "Matt Derella from LinkedIn takes over the role",
+      "Leadership change may shift Microsoft's advertising strategy focus"
+    ],
+    "tags": [
+      "microsoft-advertising",
+      "leadership-change",
+      "linkedin",
+      "ad-executive"
     ],
     "confidence": 0.8,
     "strategic_theme": "COMPETITIVE_DYNAMICS",
@@ -460,60 +350,150 @@
       "GLOBAL"
     ],
     "business_impact": "MEDIUM",
-    "sentiment": "THREAT",
+    "sentiment": "NEUTRAL",
     "key_entities": [
-      "Everlane",
-      "Shein",
-      "Allbirds"
+      "Microsoft",
+      "LinkedIn",
+      "Kya Sainsbury-Carter",
+      "Matt Derella"
     ],
-    "one_line_insight_ko": "전통적 DTC 모델의 한계가 드러나면서 AI와 데이터 기반의 새로운 D2C 전략이 필요합니다.",
-    "one_line_insight_en": "The limitations of traditional DTC models are exposed, requiring new D2C strategies based on AI and data.",
+    "one_line_insight_ko": "링크드인 출신의 마이크로소프트 새 광고 책임자는 B2B 중심의 광고 전략 변화를 예고한다.",
+    "one_line_insight_en": "Microsoft's new ad chief from LinkedIn signals a shift toward B2B-focused advertising strategy.",
     "ai_processed": true
   },
   {
-    "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
-    "link": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
-    "date_published": "2026-05-18",
-    "description": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "title": "Risks to look out for when using vibe coding to replace SaaS",
+    "link": "https://martech.org/risks-to-look-out-for-when-using-vibe-coding-to-replace-saas/",
+    "date_published": "2026-05-19",
+    "description": "Vibe coding can replace SaaS tools fast, but risks in security, integration and maintenance can quickly outweigh the savings.\nThe post Risks to look out for when using vibe coding to replace SaaS appeared first on MarTech.",
+    "source_id": "martech_org",
+    "source_name": "MarTech.org",
+    "source_url": "https://martech.org/feed",
     "categories": [
       "tech",
-      "marketing"
+      "strategy"
     ],
     "relevance_score": 0.7,
     "relevance_label": "high",
-    "title_en": "Amazon's Alexa+ Now Generates Custom AI Podcasts on Demand",
-    "summary_ko": "아마존의 Alexa+가 이제 맞춤형 AI 팟캐스트를 주문형으로 생성할 수 있게 되었다. 이는 아마존이 어시스턴트를 개인화된 AI 콘텐츠 플랫폼으로 확장하는 전략의 일환이다. 이 기능은 사용자 맞춤형 콘텐츠 생성 능력을 대폭 향상시켰다.",
-    "summary_en": "Amazon's Alexa+ can now generate custom AI podcasts on demand as part of the company's expansion into personalized AI content platforms. This feature represents a significant advancement in the assistant's ability to create user-specific content. The move positions Amazon as a leader in AI-powered content generation technology.",
-    "so_what_ko": "음성 AI와 콘텐츠 생성 기술의 융합은 D2C 브랜드들이 고객 맞춤형 콘텐츠 마케팅 전략을 재검토해야 함을 시사한다.",
-    "so_what_en": "The convergence of voice AI and content generation technology signals that D2C brands need to rethink their personalized content marketing strategies.",
+    "title_en": "Security and Integration Risks When Replacing SaaS with Vibe Coding",
+    "summary_ko": "바이브 코딩으로 SaaS 도구를 빠르게 대체할 수 있지만, 보안, 통합, 유지보수 측면에서의 리스크가 비용 절감 효과를 빠르게 상쇄할 수 있다. 특히 보안 취약점과 시스템 통합 문제가 주요 우려사항으로 제기되고 있다. 기업들은 단기적 비용 절감보다 장기적 안정성을 고려한 신중한 접근이 필요하다.",
+    "summary_en": "While vibe coding can quickly replace SaaS tools, risks in security, integration, and maintenance can rapidly outweigh cost savings. Security vulnerabilities and system integration issues are major concerns. Companies need careful consideration of long-term stability over short-term cost savings.",
+    "so_what_ko": "D2C 기업들은 마케팅 기술 스택에서 바이브 코딩 도입 시 보안 및 통합 리스크를 면밀히 평가하고, 단계적 도입 전략을 수립해야 한다.",
+    "so_what_en": "D2C companies must carefully evaluate security and integration risks when adopting vibe coding in their martech stack and develop phased implementation strategies.",
     "key_points": [
-      "Alexa+ now generates custom AI podcasts on demand",
-      "Amazon expanding assistant into personalized AI content platform",
-      "Represents advancement in user-specific content creation capabilities"
+      "Vibe coding offers fast SaaS replacement but carries significant risks",
+      "Security vulnerabilities and integration issues are major concerns",
+      "Long-term stability should be prioritized over short-term cost savings"
     ],
     "tags": [
-      "alexa",
-      "ai-content",
-      "podcast-generation",
-      "voice-ai",
-      "personalization"
+      "vibe-coding",
+      "saas-replacement",
+      "security-risks",
+      "martech-integration"
     ],
-    "confidence": 0.6,
-    "strategic_theme": "AI_PERSONALIZATION",
+    "confidence": 0.8,
+    "strategic_theme": "DATA_STRATEGY",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "SaaS",
+      "Vibe Coding"
+    ],
+    "one_line_insight_ko": "바이브 코딩의 SaaS 대체는 단기 비용 절감에도 불구하고 보안과 통합 리스크로 인한 장기적 손실을 초래할 수 있다.",
+    "one_line_insight_en": "Vibe coding's SaaS replacement may cause long-term losses due to security and integration risks despite short-term cost savings.",
+    "ai_processed": true
+  },
+  {
+    "title": "GA4 now tracks AI chatbot traffic automatically",
+    "link": "https://martech.org/ga4-now-tracks-ai-chatbot-traffic-automatically/",
+    "date_published": "2026-05-19",
+    "description": "Google Analytics just made it easier to see how much traffic AI assistants are sending to your website.\nThe post GA4 now tracks AI chatbot traffic automatically appeared first on MarTech.",
+    "source_id": "martech_org",
+    "source_name": "MarTech.org",
+    "source_url": "https://martech.org/feed",
+    "categories": [
+      "marketing",
+      "tech"
+    ],
+    "relevance_score": 0.8,
+    "relevance_label": "high",
+    "title_en": "GA4 Introduces Automatic AI Chatbot Traffic Tracking",
+    "summary_ko": "구글 애널리틱스 4(GA4)가 AI 챗봇이 웹사이트로 보내는 트래픽을 자동으로 추적하는 기능을 도입했다. 이를 통해 마케터들은 AI 어시스턴트가 웹사이트 방문에 미치는 영향을 더 쉽게 파악할 수 있게 됐다. AI 기반 트래픽 소스의 정확한 측정이 가능해져 마케팅 ROI 분석의 정밀도가 향상될 것으로 예상된다.",
+    "summary_en": "Google Analytics 4 (GA4) has introduced automatic tracking of traffic sent to websites by AI chatbots. This enables marketers to more easily understand the impact AI assistants have on website visits. Accurate measurement of AI-driven traffic sources is expected to improve the precision of marketing ROI analysis.",
+    "so_what_ko": "D2C 브랜드들은 GA4의 새로운 AI 챗봇 트래픽 추적 기능을 활용하여 AI 기반 고객 유입 경로를 분석하고, 이에 맞춘 콘텐츠 및 마케팅 전략을 수립해야 한다.",
+    "so_what_en": "D2C brands should leverage GA4's new AI chatbot traffic tracking to analyze AI-driven customer acquisition channels and develop tailored content and marketing strategies.",
+    "key_points": [
+      "GA4 automatically tracks AI chatbot traffic to websites",
+      "Enables easier understanding of AI assistant impact on site visits",
+      "Improves precision of marketing ROI analysis through AI traffic measurement"
+    ],
+    "tags": [
+      "ga4",
+      "ai-chatbot-tracking",
+      "traffic-analysis",
+      "marketing-analytics"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "AI_MARKETING",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Amazon",
-      "Alexa+"
+      "Google Analytics 4",
+      "GA4",
+      "AI Chatbot"
     ],
-    "one_line_insight_ko": "음성 AI의 콘텐츠 생성 진화는 브랜드 커뮤니케이션의 새로운 패러다임을 제시한다.",
-    "one_line_insight_en": "Voice AI's evolution into content generation presents a new paradigm for brand communication.",
+    "one_line_insight_ko": "GA4의 AI 챗봇 트래픽 자동 추적은 D2C 브랜드의 AI 기반 마케팅 성과 측정을 혁신적으로 개선한다.",
+    "one_line_insight_en": "GA4's automatic AI chatbot traffic tracking revolutionizes AI-based marketing performance measurement for D2C brands.",
+    "ai_processed": true
+  },
+  {
+    "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+    "link": "https://openai.com/index/advancing-content-provenance",
+    "date_published": "2026-05-19",
+    "description": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "categories": [
+      "tech"
+    ],
+    "relevance_score": 0.4,
+    "relevance_label": "high",
+    "title_en": "OpenAI Advances AI Content Provenance with New Verification Tools",
+    "summary_ko": "OpenAI가 AI 생성 콘텐츠의 출처를 확인할 수 있는 Content Credentials, SynthID, 검증 도구를 도입했습니다. 이러한 기술들은 사람들이 AI가 생성한 미디어를 식별하고 신뢰할 수 있도록 돕습니다. AI 생태계의 안전성과 투명성 향상을 목표로 합니다.",
+    "summary_en": "OpenAI has introduced Content Credentials, SynthID, and verification tools to help identify the provenance of AI-generated content. These technologies enable people to identify and trust AI-generated media more effectively. The initiative aims to create a safer and more transparent AI ecosystem.",
+    "so_what_ko": "D2C 브랜드는 AI 생성 콘텐츠 사용 시 투명성을 확보하고 소비자 신뢰를 구축할 수 있는 검증 도구를 활용해야 합니다.",
+    "so_what_en": "D2C brands should leverage content verification tools to ensure transparency and build consumer trust when using AI-generated content.",
+    "key_points": [
+      "OpenAI launches Content Credentials and SynthID for content provenance",
+      "New verification tools help identify AI-generated media",
+      "Focus on building safer and more transparent AI ecosystem"
+    ],
+    "tags": [
+      "content-provenance",
+      "ai-verification",
+      "content-authenticity"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "EMERGING_TECH",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "OpenAI",
+      "Content Credentials",
+      "SynthID"
+    ],
+    "one_line_insight_ko": "AI 콘텐츠 검증 도구는 D2C 브랜드의 콘텐츠 투명성과 소비자 신뢰도 향상에 필수적입니다.",
+    "one_line_insight_en": "AI content verification tools are essential for D2C brands to enhance content transparency and consumer trust.",
     "ai_processed": true
   },
   {
@@ -525,44 +505,40 @@
     "source_name": "Digital Commerce 360",
     "source_url": "https://www.digitalcommerce360.com/feed",
     "categories": [
-      "commerce",
-      "strategy"
+      "commerce"
     ],
-    "relevance_score": 0.4,
+    "relevance_score": 0.6,
     "relevance_label": "high",
-    "title_en": "Amazon Business Launches New Credit Cards with U.S. Bank and Mastercard",
-    "summary_ko": "아마존이 비즈니스 신용카드 프로그램을 업데이트하여 신규 신청자를 U.S. Bank와 Mastercard로 전환했다. 5월 13일 출시된 Prime Business Card와 Amazon Business Card는 기업 구매자를 위한 더 많은 보상과 금융 도구를 제공한다. 이는 기존 American Express에서 벗어나는 전략적 변화다.",
-    "summary_en": "Amazon updated its business credit card program, shifting new applicants to U.S. Bank and Mastercard partnerships. The Prime Business Card and Amazon Business Card launched May 13th offer enhanced rewards and financing tools for business buyers. This represents a strategic shift away from previous American Express partnerships.",
-    "so_what_ko": "아마존의 B2B 금융 서비스 강화는 D2C 브랜드들이 자체 결제 및 금융 솔루션 개발의 중요성을 재평가해야 함을 보여준다.",
-    "so_what_en": "Amazon's B2B financial services expansion demonstrates the importance for D2C brands to reassess their own payment and financial solution development strategies.",
+    "title_en": "Amazon Business Launches New Credit Cards with Enhanced B2B Rewards",
+    "summary_ko": "아마존이 기존 American Express 대신 U.S. Bank와 Mastercard와 파트너십을 맺고 새로운 비즈니스 신용카드를 출시했습니다. Prime Business Card와 Amazon Business Card는 비즈니스 구매자를 위한 더 많은 리워드와 금융 도구를 제공합니다. 이는 아마존의 B2B 커머스 강화 전략의 일환입니다.",
+    "summary_en": "Amazon has launched new business credit cards through partnerships with U.S. Bank and Mastercard, replacing American Express for new applicants. The Prime Business Card and Amazon Business Card offer enhanced rewards and financing tools for business buyers. This move is part of Amazon's strategy to strengthen its B2B commerce platform.",
+    "so_what_ko": "아마존의 B2B 금융 서비스 확장은 기업 고객 락인을 강화하여 D2C 브랜드들이 아마존 플랫폼 의존도를 줄이기 어렵게 만들 수 있습니다.",
+    "so_what_en": "Amazon's expansion into B2B financial services strengthens customer lock-in, making it harder for D2C brands to reduce platform dependency.",
     "key_points": [
-      "Amazon shifts business credit card partnerships to U.S. Bank and Mastercard",
-      "New Prime Business Card and Amazon Business Card launched May 13th",
-      "Enhanced rewards and financing tools for business buyers",
-      "Strategic move away from American Express partnerships"
+      "Amazon shifts from American Express to U.S. Bank and Mastercard for business cards",
+      "New cards offer enhanced rewards and financing tools for B2B buyers",
+      "Strategic move to strengthen Amazon's B2B commerce ecosystem"
     ],
     "tags": [
-      "amazon-business",
-      "credit-cards",
       "b2b-commerce",
       "financial-services",
-      "partnerships"
+      "platform-ecosystem"
     ],
     "confidence": 0.8,
     "strategic_theme": "PLATFORM_ECOSYSTEM",
     "regions": [
       "AMER"
     ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
+    "business_impact": "MEDIUM",
+    "sentiment": "THREAT",
     "key_entities": [
-      "Amazon Business",
+      "Amazon",
       "U.S. Bank",
       "Mastercard",
       "American Express"
     ],
-    "one_line_insight_ko": "플랫폼 생태계 확장을 위한 금융 파트너십 다변화가 핵심 경쟁력이 되고 있다.",
-    "one_line_insight_en": "Diversification of financial partnerships for platform ecosystem expansion is becoming a key competitive advantage.",
+    "one_line_insight_ko": "아마존의 B2B 금융 서비스 확장은 플랫폼 종속성을 심화시켜 D2C 브랜드의 독립성을 제약할 수 있습니다.",
+    "one_line_insight_en": "Amazon's B2B financial services expansion deepens platform dependency, potentially constraining D2C brand independence.",
     "ai_processed": true
   },
   {
@@ -574,28 +550,25 @@
     "source_name": "Digital Commerce 360",
     "source_url": "https://www.digitalcommerce360.com/feed",
     "categories": [
-      "tech",
-      "commerce"
+      "commerce",
+      "tech"
     ],
-    "relevance_score": 0.6,
+    "relevance_score": 0.7,
     "relevance_label": "high",
-    "title_en": "Parts Town Enhances AI-Powered PartPredictor with 120 Brand Coverage",
-    "summary_ko": "Parts Town이 AI 기반 PartPredictor 도구를 업그레이드하여 120개 브랜드의 18,000개 이상 장비 모델을 지원한다. 기술자와 디스패처가 모델 번호부터 일반 언어 증상 설명까지 활용해 올바른 부품을 더 빠르게 식별할 수 있다. 이는 음식 서비스 및 HVAC 장비 OEM 부품 유통업체의 AI 활용 사례다.",
-    "summary_en": "Parts Town upgraded its AI-powered PartPredictor tool with expanded coverage of 120 brands featuring over 18,000 equipment models. The enhancement allows technicians and dispatchers to identify correct parts faster using model numbers to plain-language symptom descriptions. This represents advanced AI application in OEM parts distribution for food service and HVAC equipment.",
-    "so_what_ko": "B2B 부품 유통에서 AI 검색 및 예측 기술의 성공적 적용은 복잡한 제품 카탈로그를 다루는 D2C 브랜드들에게 고객 경험 개선 방향을 제시한다.",
-    "so_what_en": "Successful AI search and prediction technology application in B2B parts distribution provides direction for customer experience improvements for D2C brands handling complex product catalogs.",
+    "title_en": "Parts Town Enhances AI-Powered PartPredictor with Expanded Equipment Coverage",
+    "summary_ko": "Parts Town이 AI 기반 PartPredictor 도구를 업그레이드하여 120개 브랜드의 18,000개 이상 장비 모델을 포괄하도록 확장했습니다. 기술자와 디스패처들이 모델 번호부터 일반 언어 증상 설명까지 활용해 정확한 부품을 더 빠르게 식별할 수 있습니다. 이는 식품 서비스와 난방 장비의 OEM 부품 유통업체인 Parts Town의 AI 활용 사례입니다.",
+    "summary_en": "Parts Town has upgraded its AI-powered PartPredictor tool to cover 120 brands with over 18,000 equipment models. Technicians and dispatchers can now identify correct parts faster using model numbers or plain-language symptom descriptions. This demonstrates how the OEM parts distributor is leveraging AI for food service and heating equipment.",
+    "so_what_ko": "AI 기반 부품 식별 시스템은 D2C 브랜드가 제품 지원과 애프터서비스를 개선하여 고객 만족도를 높일 수 있는 혁신적 접근법을 제시합니다.",
+    "so_what_en": "AI-powered parts identification systems offer D2C brands innovative approaches to improve product support and after-sales service for enhanced customer satisfaction.",
     "key_points": [
-      "PartPredictor AI tool now covers 120 brands and 18,000+ equipment models",
-      "Enables faster part identification using model numbers and symptom descriptions",
-      "Serves food service and HVAC equipment OEM parts distribution",
-      "Demonstrates AI application in complex B2B search scenarios"
+      "PartPredictor expanded to cover 120 brands and 18,000+ equipment models",
+      "AI enables faster part identification through various input methods",
+      "Plain-language symptom descriptions enhance user experience"
     ],
     "tags": [
-      "ai-search",
-      "parts-distribution",
-      "b2b-tools",
-      "predictive-ai",
-      "equipment-maintenance"
+      "ai-powered-tools",
+      "parts-identification",
+      "customer-service"
     ],
     "confidence": 0.8,
     "strategic_theme": "AI_COMMERCE",
@@ -608,56 +581,8 @@
       "Parts Town",
       "PartPredictor"
     ],
-    "one_line_insight_ko": "복잡한 제품 검색에서 자연어 처리 AI의 실용적 적용이 B2B 효율성 혁신을 주도하고 있다.",
-    "one_line_insight_en": "Practical application of natural language processing AI in complex product search is driving B2B efficiency innovation.",
-    "ai_processed": true
-  },
-  {
-    "title": "Albertsons uses Google Cloud for new supply chain tool",
-    "link": "https://www.digitalcommerce360.com/2026/05/15/albertsons-google-cloud-supply-chain-tool/",
-    "date_published": "2026-05-15",
-    "description": "Albertsons Companies Inc. will deploy a computer vision tool at its distribution centers to help quality inspectors evaluate fresh produce before it ships to stores, it announced on May 13. The grocer said its patent-pending Intelligent Quality Control tool uses artificial intelligence (AI) to assist inspectors, and is already active in some distribution centers. Albertsons […]\nThe post Albertsons uses Google Cloud for new supply chain tool appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
-    "categories": [
-      "tech",
-      "commerce"
-    ],
-    "relevance_score": 0.7,
-    "relevance_label": "high",
-    "title_en": "Albertsons Deploys Google Cloud AI for Fresh Produce Quality Control",
-    "summary_ko": "Albertsons가 유통센터에서 신선 농산물을 매장 출하 전 품질 검사관이 평가할 수 있도록 돕는 컴퓨터 비전 도구를 배포한다고 발표했다. 특허 출원 중인 Intelligent Quality Control 도구는 AI를 활용해 검사관을 지원하며, 일부 유통센터에서 이미 운영 중이다. 이는 Google Cloud와의 협업을 통해 개발되었다.",
-    "summary_en": "Albertsons announced deployment of a computer vision tool at distribution centers to help quality inspectors evaluate fresh produce before shipping to stores. The patent-pending Intelligent Quality Control tool uses AI to assist inspectors and is already active in some distribution centers. This represents collaboration with Google Cloud for supply chain innovation.",
-    "so_what_ko": "AI 기반 품질 관리 시스템의 소매업계 도입은 D2C 브랜드들이 물류 및 품질 보증 프로세스에서 AI 활용을 검토해야 함을 시사한다.",
-    "so_what_en": "Retail industry adoption of AI-powered quality management systems indicates D2C brands should consider AI utilization in logistics and quality assurance processes.",
-    "key_points": [
-      "Computer vision tool deployed for fresh produce quality evaluation",
-      "Patent-pending Intelligent Quality Control assists inspectors with AI",
-      "Already operational in some Albertsons distribution centers",
-      "Developed through Google Cloud partnership"
-    ],
-    "tags": [
-      "computer-vision",
-      "quality-control",
-      "supply-chain",
-      "fresh-produce",
-      "google-cloud"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Albertsons",
-      "Google Cloud",
-      "Intelligent Quality Control"
-    ],
-    "one_line_insight_ko": "공급망에서 AI 비전 기술의 실질적 배치가 소매업계 품질 관리 혁신을 가속화하고 있다.",
-    "one_line_insight_en": "Practical deployment of AI vision technology in supply chains is accelerating retail industry quality management innovation.",
+    "one_line_insight_ko": "AI 기반 부품 식별은 D2C 브랜드의 애프터서비스와 고객 경험 향상을 위한 핵심 기술입니다.",
+    "one_line_insight_en": "AI-powered parts identification is a key technology for D2C brands to enhance after-sales service and customer experience.",
     "ai_processed": true
   },
   {
@@ -674,23 +599,20 @@
     ],
     "relevance_score": 0.8,
     "relevance_label": "high",
-    "title_en": "Marketing AI Show Tackles Enterprise AI Adoption Challenges",
-    "summary_ko": "Marketing AI Show에서 기업의 AI 정책 마비 상태 극복, 규제 환경에서의 AI 도입, IT 보안과 비즈니스 속도 간의 균형 등 15개 질문을 다뤘다. 리더십은 AI를 모든 곳에 원하지만 IT 보안이 따라잡지 못하는 상황에 대한 해결책을 제시했다. 개인, 중소기업, 대기업을 위한 실질적 기회와 전진 방안을 논의했다.",
-    "summary_en": "The Marketing AI Show addressed 15 questions about overcoming AI policy paralysis, introducing AI in regulated environments, and balancing IT security with business speed. The discussion covered solutions for situations where leadership wants AI everywhere but IT security can't keep up. Practical opportunities and advancement strategies for individuals, SMBs, and enterprises were explored.",
-    "so_what_ko": "기업 AI 도입의 조직적 장벽과 해결 방안에 대한 논의는 D2C 조직이 AI 전략 실행 시 고려해야 할 실무적 인사이트를 제공한다.",
-    "so_what_en": "Discussion of organizational barriers and solutions in enterprise AI adoption provides practical insights for D2C organizations implementing AI strategies.",
+    "title_en": "Marketing AI Show Addresses Enterprise AI Scaling Challenges and Governance",
+    "summary_ko": "마케팅 AI 쇼에서 기업의 AI 도입과 확산 과정에서 직면하는 주요 장벽들을 다뤘습니다. 리더십은 AI를 모든 곳에 도입하고 싶어하지만 IT 보안팀은 따라잡지 못하고, 마케팅은 앞서 나가는 반면 법무와 재무팀은 신중한 접근을 취하고 있습니다. 15개 청취자 질문을 통해 조직을 실제로 전진시키는 방법과 현재 개인, 중소기업, 대기업을 위한 실질적 기회를 제시했습니다.",
+    "summary_en": "The Marketing AI Show addressed major barriers in enterprise AI adoption and scaling processes. While leadership wants AI everywhere, IT security struggles to keep pace, marketing races ahead, and legal and finance teams take cautious approaches. Through 15 listener questions, the show provided practical guidance on moving organizations forward and identifying real opportunities for individuals, SMBs, and enterprises.",
+    "so_what_ko": "D2C 조직은 AI 정책 마비를 벗어나기 위해 부서간 조율과 단계적 도입 전략이 필요하며, 특히 마케팅과 IT 보안 간의 균형점을 찾아야 합니다.",
+    "so_what_en": "D2C organizations need cross-departmental coordination and phased implementation strategies to overcome AI policy paralysis, particularly finding balance between marketing innovation and IT security concerns.",
     "key_points": [
-      "15 listener questions addressed on enterprise AI adoption challenges",
-      "Focus on overcoming AI policy paralysis and IT security concerns",
-      "Strategies for regulated environments and departmental scaling",
-      "Practical guidance for individuals, SMBs, and large enterprises"
+      "Enterprise AI adoption faces organizational alignment challenges",
+      "Marketing teams advance faster than legal and IT security departments",
+      "Practical guidance provided for overcoming AI implementation roadblocks"
     ],
     "tags": [
       "enterprise-ai",
-      "ai-adoption",
       "organizational-change",
-      "ai-policy",
-      "marketing-ai"
+      "ai-governance"
     ],
     "confidence": 0.7,
     "strategic_theme": "DATA_STRATEGY",
@@ -698,14 +620,57 @@
       "GLOBAL"
     ],
     "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
+    "sentiment": "NEUTRAL",
     "key_entities": [
       "Marketing AI Show",
       "Paul Roetzer",
       "Cathy McPhillips"
     ],
-    "one_line_insight_ko": "AI 도입의 기술적 가능성과 조직적 준비도 간의 격차 해소가 성공적 AI 전환의 핵심이다.",
-    "one_line_insight_en": "Bridging the gap between AI technical possibilities and organizational readiness is key to successful AI transformation.",
+    "one_line_insight_ko": "AI 도입 성공의 핵심은 부서간 이해관계 조율과 단계적 확산 전략입니다.",
+    "one_line_insight_en": "The key to successful AI adoption is cross-departmental stakeholder alignment and phased scaling strategies.",
+    "ai_processed": true
+  },
+  {
+    "title": "U.S. CPG manufacturers are sitting on excess capacity, which could be a boon for brands",
+    "link": "https://digiday.com/media/u-s-cpg-manufacturers-are-sitting-on-excess-capacity-which-could-be-a-boon-for-brands/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-05-20",
+    "description": "Keychain's, CPG Intelligence Report showed that one major theme companies are grappling with is significant overcapacity.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "strategy"
+    ],
+    "relevance_score": 0.5,
+    "relevance_label": "high",
+    "title_en": "U.S. CPG Manufacturers Face Excess Capacity Creating Opportunities for Brands",
+    "summary_ko": "Keychain의 CPG Intelligence Report에 따르면 미국 CPG 제조업체들이 상당한 과잉 생산능력 문제에 직면하고 있습니다. 이러한 과잉 생산능력은 기업들이 해결해야 할 주요 과제 중 하나로 나타났습니다. 하지만 이는 브랜드들에게는 기회가 될 수 있습니다.",
+    "summary_en": "According to Keychain's CPG Intelligence Report, U.S. CPG manufacturers are grappling with significant overcapacity issues. This excess capacity represents one of the major themes companies are addressing. However, this situation could present opportunities for brands.",
+    "so_what_ko": "CPG 제조업체의 과잉 생산능력은 D2C 브랜드가 더 유리한 조건으로 제조 파트너십을 구축하고 생산 비용을 절감할 수 있는 기회를 제공합니다.",
+    "so_what_en": "CPG manufacturers' excess capacity provides D2C brands opportunities to secure more favorable manufacturing partnerships and reduce production costs.",
+    "key_points": [
+      "U.S. CPG manufacturers face significant overcapacity challenges",
+      "Excess capacity identified as major industry theme",
+      "Situation creates potential opportunities for brands"
+    ],
+    "tags": [
+      "manufacturing-capacity",
+      "cpg-industry",
+      "supply-chain"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Keychain",
+      "CPG Intelligence Report"
+    ],
+    "one_line_insight_ko": "CPG 제조업체의 과잉 생산능력은 D2C 브랜드의 제조 비용 절감과 파트너십 확대 기회입니다.",
+    "one_line_insight_en": "CPG manufacturers' overcapacity presents D2C brands with cost reduction and partnership expansion opportunities.",
     "ai_processed": true
   }
 ]
