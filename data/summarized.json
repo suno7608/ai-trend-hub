@@ -1,470 +1,289 @@
 [
   {
-    "title": "New Ecommerce Tools: May 20, 2026",
-    "link": "https://www.practicalecommerce.com/new-ecommerce-tools-may-20-2026",
-    "date_published": "2026-05-20",
-    "description": "This week: quick commerce, SMS marketing, SEO, agentic storefronts, multichannel management, flexible payments, AI selling agents, and dynamic product ads.\nThe post New Ecommerce Tools: May 20, 2026 appeared first on Practical Ecommerce.",
-    "source_id": "practical_ecommerce",
-    "source_name": "Practical Ecommerce",
-    "source_url": "https://www.practicalecommerce.com/feed",
+    "title": "How mobile’s measurement playbook is solving the web’s fragmentation problem",
+    "link": "https://digiday.com/sponsored/how-mobiles-measurement-playbook-is-solving-the-webs-fragmentation-problem/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-05-21",
+    "description": "Ran Avrahamy, Chief Marketing Officer, AppsFlyer Web marketers have spent years building performance measurement on a foundation that is increasingly hard to trust. Cookies are unreliable, platform self-reporting is contradictory and AI-generated discovery is eating into observable traffic. And the signals that once made the web feel legible — referral paths, session data, conversion events […]",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "marketing",
+      "tech"
+    ],
+    "relevance_score": 0.8,
+    "relevance_label": "high",
+    "title_en": "Mobile Measurement Strategies Address Web Attribution Challenges as AI Discovery Disrupts Traditional Tracking",
+    "summary_ko": "모바일 마케팅의 측정 방법론이 웹의 단편화 문제를 해결하고 있습니다. 쿠키의 신뢰성 저하와 AI 생성 트래픽 증가로 기존 웹 측정이 어려워지고 있습니다. 모바일에서 검증된 성과 측정 기법이 웹 마케팅에 적용되고 있습니다.",
+    "summary_en": "Mobile marketing measurement methodologies are solving web fragmentation problems as traditional tracking becomes unreliable. Cookies are increasingly untrustworthy and AI-generated discovery is disrupting observable traffic patterns. Mobile-proven performance measurement techniques are being adapted for web marketing challenges.",
+    "so_what_ko": "D2C 브랜드는 모바일 중심의 통합 측정 전략을 도입하여 크로스 플랫폼 성과를 정확히 추적해야 합니다.",
+    "so_what_en": "D2C brands must adopt mobile-centric unified measurement strategies to accurately track cross-platform performance amid attribution challenges.",
+    "key_points": [
+      "Cookie reliability declining across web platforms",
+      "AI-generated traffic disrupting traditional measurement",
+      "Mobile measurement playbooks offering web solutions",
+      "Platform self-reporting showing contradictory data"
+    ],
+    "tags": [
+      "mobile-measurement",
+      "attribution",
+      "cookieless",
+      "ai-traffic",
+      "cross-platform"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "DATA_STRATEGY",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "AppsFlyer",
+      "Ran Avrahamy"
+    ],
+    "one_line_insight_ko": "AI가 기존 웹 트래킹을 교란하는 상황에서 모바일 측정 기법이 새로운 솔루션으로 부상하고 있습니다.",
+    "one_line_insight_en": "Mobile measurement techniques are emerging as solutions to web tracking disruption caused by AI-generated traffic.",
+    "ai_processed": true
+  },
+  {
+    "title": "Future of Marketing Briefing: Agentic advertising is closer than you think and further than you hope",
+    "link": "https://digiday.com/media-buying/future-of-marketing-briefing-agentic-advertising-is-closer-than-you-think-and-further-than-you-hope/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-05-22",
+    "description": "The gap between agentic advertising’s promise and its reality.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "marketing",
+      "tech"
+    ],
+    "relevance_score": 0.9,
+    "relevance_label": "high",
+    "title_en": "Agentic Advertising Shows Promise-Reality Gap as Industry Navigates AI Automation Challenges",
+    "summary_ko": "에이전틱 광고가 기대와 현실 사이의 격차를 보여주고 있습니다. AI 자동화 광고의 가능성은 크지만 실제 구현은 아직 초기 단계입니다. 마케팅 업계가 AI 에이전트 기반 광고의 한계와 가능성을 탐색하고 있습니다.",
+    "summary_en": "Agentic advertising is showing a significant gap between its promise and current reality. While AI automation in advertising holds great potential, actual implementation remains in early stages. The marketing industry is exploring both limitations and possibilities of AI agent-based advertising.",
+    "so_what_ko": "D2C 브랜드는 에이전틱 광고 도입 시 현실적인 기대치를 설정하고 점진적 접근이 필요합니다.",
+    "so_what_en": "D2C brands need to set realistic expectations and take gradual approaches when adopting agentic advertising solutions.",
+    "key_points": [
+      "Significant gap between agentic advertising promise and reality",
+      "AI automation in advertising still in early development stages",
+      "Industry exploring practical implementation challenges",
+      "Need for realistic expectations in AI advertising adoption"
+    ],
+    "tags": [
+      "agentic-advertising",
+      "ai-automation",
+      "marketing-ai",
+      "advertising-tech",
+      "ai-agents"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "원문에서 확인되지 않음"
+    ],
+    "one_line_insight_ko": "에이전틱 광고는 큰 잠재력을 가지고 있지만 실제 적용까지는 상당한 시간이 필요할 것으로 보입니다.",
+    "one_line_insight_en": "Agentic advertising holds significant potential but practical implementation will require considerable time to mature.",
+    "ai_processed": true
+  },
+  {
+    "title": "Amer Sports CFO: No visibility on tariff refunds",
+    "link": "https://www.retaildive.com/news/amer-sports-cfo-tariff-refunds-q1/820797/",
+    "date_published": "2026-05-21",
+    "description": "Andrew Page told Retail Dive that the company, which runs Arc’teryx and Salomon, will see little impact from the refunds anyway. Revenue at the business was up 32% in Q1.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.4,
+    "relevance_label": "high",
+    "title_en": "Amer Sports Reports Strong Q1 Growth Despite Uncertain Tariff Environment",
+    "summary_ko": "아메르 스포츠가 관세 환급에 대한 가시성이 없다고 발표했습니다. Arc'teryx와 Salomon을 운영하는 회사는 환급의 영향이 미미할 것이라고 밝혔습니다. 1분기 매출이 32% 증가했습니다.",
+    "summary_en": "Amer Sports CFO stated there's no visibility on tariff refunds affecting the company. The business running Arc'teryx and Salomon expects minimal impact from potential refunds. Revenue grew 32% in Q1 despite tariff uncertainties.",
+    "so_what_ko": "D2C 브랜드들은 관세 정책 변화에 대비한 유연한 가격 전략과 공급망 다각화가 필요합니다.",
+    "so_what_en": "D2C brands need flexible pricing strategies and supply chain diversification to prepare for tariff policy changes.",
+    "key_points": [
+      "No clear visibility on tariff refund policies",
+      "Amer Sports expects minimal impact from potential refunds",
+      "Strong Q1 revenue growth of 32% despite uncertainties",
+      "Premium outdoor brands showing resilience"
+    ],
+    "tags": [
+      "tariffs",
+      "outdoor-brands",
+      "revenue-growth",
+      "supply-chain",
+      "policy-impact"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Amer Sports",
+      "Arc'teryx",
+      "Salomon",
+      "Andrew Page"
+    ],
+    "one_line_insight_ko": "프리미엄 아웃도어 브랜드들은 관세 불확실성에도 불구하고 강력한 성장세를 유지하고 있습니다.",
+    "one_line_insight_en": "Premium outdoor brands are maintaining strong growth momentum despite tariff uncertainties.",
+    "ai_processed": true
+  },
+  {
+    "title": "David’s Bridal is ready to help couples budget their wedding",
+    "link": "https://www.retaildive.com/news/davids-bridal-ai-wedding-budget-tool-pearl-planner/820480/",
+    "date_published": "2026-05-21",
+    "description": "Through the bridal retailer’s Pearl Planner tool, the company is leveraging AI to help couples determine where to splurge and save on their big day.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
     "categories": [
       "commerce",
       "tech"
     ],
-    "relevance_score": 0.9,
+    "relevance_score": 0.8,
     "relevance_label": "high",
-    "title_en": "New Ecommerce Tools Launch: Quick Commerce and AI Selling Agents Lead Innovation Wave",
-    "summary_ko": "이커머스 업계에 퀵커머스, SMS 마케팅, SEO, 에이전틱 스토어프런트 등 새로운 툴들이 출시되었습니다. AI 판매 에이전트와 동적 상품 광고 기능이 주목받고 있습니다. 멀티채널 관리와 유연한 결제 솔루션도 포함되어 이커머스 운영 효율성을 높일 것으로 예상됩니다.",
-    "summary_en": "New ecommerce tools have been launched including quick commerce, SMS marketing, SEO, and agentic storefronts. AI selling agents and dynamic product ads are gaining attention for their advanced capabilities. Multichannel management and flexible payment solutions are also included to enhance ecommerce operational efficiency.",
-    "so_what_ko": "LG D2C는 에이전틱 스토어프런트와 AI 판매 에이전트를 활용해 개인화된 고객 경험을 제공하고 운영 자동화를 통해 효율성을 극대화해야 합니다.",
-    "so_what_en": "LG D2C should leverage agentic storefronts and AI selling agents to deliver personalized customer experiences and maximize operational efficiency through automation.",
+    "title_en": "David's Bridal Launches AI-Powered Wedding Budget Planning Tool to Enhance Customer Experience",
+    "summary_ko": "David's Bridal이 AI를 활용한 웨딩 예산 계획 도구를 출시했습니다. Pearl Planner 도구를 통해 커플들이 결혼식에서 어디에 돈을 쓰고 절약할지 결정하도록 돕습니다. AI 기술을 활용해 개인화된 예산 가이드를 제공합니다.",
+    "summary_en": "David's Bridal launched an AI-powered wedding budget planning tool called Pearl Planner. The tool helps couples determine where to splurge and save on their wedding expenses. The company leverages AI technology to provide personalized budget guidance for wedding planning.",
+    "so_what_ko": "D2C 브랜드들은 AI를 활용한 개인화된 구매 계획 도구로 고객 경험을 향상시키고 매출을 증대할 수 있습니다.",
+    "so_what_en": "D2C brands can enhance customer experience and drive sales through AI-powered personalized purchase planning tools.",
     "key_points": [
-      "Agentic storefronts enable autonomous customer interaction",
-      "AI selling agents automate sales processes",
-      "Dynamic product ads improve targeting efficiency",
-      "Multichannel management tools streamline operations"
+      "AI-powered Pearl Planner tool for wedding budget planning",
+      "Helps couples make informed spending decisions",
+      "Personalized guidance on where to splurge vs. save",
+      "Integration of AI into customer service experience"
     ],
     "tags": [
-      "ecommerce-tools",
-      "ai-agents",
-      "quick-commerce",
-      "automation",
-      "dynamic-ads"
+      "ai-tools",
+      "customer-experience",
+      "wedding-retail",
+      "budget-planning",
+      "personalization"
     ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_AGENT",
+    "confidence": 0.8,
+    "strategic_theme": "AI_PERSONALIZATION",
     "regions": [
-      "GLOBAL"
+      "AMER"
     ],
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Practical Ecommerce",
-      "AI selling agents",
-      "Agentic storefronts"
+      "David's Bridal",
+      "Pearl Planner"
     ],
-    "one_line_insight_ko": "에이전틱 기술이 이커머스 운영을 자동화하며 AI 판매 에이전트가 새로운 고객 접점의 표준이 되고 있습니다.",
-    "one_line_insight_en": "Agentic technology is automating ecommerce operations with AI selling agents becoming the new standard for customer touchpoints.",
+    "one_line_insight_ko": "AI 기반 예산 계획 도구는 고객의 구매 결정을 지원하며 브랜드 충성도를 높이는 새로운 방법입니다.",
+    "one_line_insight_en": "AI-powered budget planning tools represent a new way to support customer purchase decisions and build brand loyalty.",
     "ai_processed": true
   },
   {
-    "title": "Best AI search analytics tools for marketing teams",
-    "link": "https://blog.hubspot.com/marketing/ai-search-analytics-tools",
+    "title": "Report: SMBs struggle to cope with tariffs, supply chain disruptions in 2026",
+    "link": "https://www.digitalcommerce360.com/2026/05/21/report-smbs-tariffs-supply-chain-disruptions-2026/",
     "date_published": "2026-05-21",
-    "description": "I’ve spent the last year watching marketing teams scramble to understand why their organic traffic reports tell one story while their pipeline tells another. The missing link is almost always a need for AI search analytics tools.",
-    "source_id": "hubspot_marketing",
-    "source_name": "HubSpot Marketing Blog",
-    "source_url": "https://blog.hubspot.com/marketing/rss.xml",
+    "description": "Small and mid-sized businesses (SMBs) in the U.S. are facing new demands as a result of tariff volatility, rising logistics costs and persistent supply chain disruptions, according to survey data from the firm Ship4wd. Through the survey company Pollfish, Ship4wd surveyed 500 SMBs across the U.S. in April 2026. In the findings, 96% of those […]\nThe post Report: SMBs struggle to cope with tariffs, supply chain disruptions in 2026 appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
     "categories": [
-      "marketing",
-      "tech"
+      "commerce",
+      "strategy"
     ],
-    "relevance_score": 0.8,
+    "relevance_score": 0.5,
     "relevance_label": "high",
-    "title_en": "AI Search Analytics Tools Bridge the Gap Between Traffic and Pipeline for Marketing Teams",
-    "summary_ko": "마케팅 팀들이 유기적 트래픽 보고서와 실제 파이프라인 간의 차이를 이해하는 데 어려움을 겪고 있습니다. AI 검색 분석 도구가 이러한 격차를 해결하는 핵심 솔루션으로 주목받고 있습니다. 마케팅 성과 측정의 정확성을 높이는 데 필수적인 도구로 평가되고 있습니다.",
-    "summary_en": "Marketing teams are struggling to understand the disconnect between organic traffic reports and actual pipeline performance. AI search analytics tools are emerging as the key solution to bridge this gap. These tools are being recognized as essential for improving the accuracy of marketing performance measurement.",
-    "so_what_ko": "LG D2C는 AI 검색 분석 도구를 도입해 마케팅 ROI 측정의 정확성을 높이고 트래픽과 실제 매출 간의 연결고리를 명확히 파악해야 합니다.",
-    "so_what_en": "LG D2C should adopt AI search analytics tools to improve marketing ROI measurement accuracy and clearly understand the connection between traffic and actual sales.",
+    "title_en": "SMBs Face Mounting Challenges from Tariff Volatility and Supply Chain Disruptions in 2026",
+    "summary_ko": "2026년 미국 중소기업들이 관세 변동성과 공급망 차질로 어려움을 겪고 있습니다. Ship4wd 조사에 따르면 500개 중소기업 중 96%가 새로운 도전에 직면하고 있습니다. 물류 비용 상승과 지속적인 공급망 교란이 주요 문제로 지적되었습니다.",
+    "summary_en": "Small and mid-sized businesses in the US are struggling with tariff volatility and supply chain disruptions in 2026. A Ship4wd survey of 500 SMBs found that 96% are facing new challenges. Rising logistics costs and persistent supply chain disruptions are identified as major issues.",
+    "so_what_ko": "D2C 브랜드들은 공급망 리스크 관리와 비용 효율성 확보를 위한 전략적 대응이 시급합니다.",
+    "so_what_en": "D2C brands urgently need strategic responses for supply chain risk management and cost efficiency optimization.",
     "key_points": [
-      "Gap exists between traffic reports and pipeline performance",
-      "AI search analytics provide missing measurement links",
-      "Tools essential for accurate marketing performance tracking",
-      "Year-long observation of marketing team challenges"
+      "96% of surveyed SMBs facing new operational challenges",
+      "Tariff volatility creating uncertainty for business planning",
+      "Rising logistics costs pressuring profit margins",
+      "Persistent supply chain disruptions affecting operations"
     ],
     "tags": [
-      "ai-analytics",
-      "search-optimization",
-      "marketing-measurement",
-      "roi-tracking",
-      "pipeline-analysis"
+      "supply-chain",
+      "tariffs",
+      "smb-challenges",
+      "logistics-costs",
+      "business-disruption"
     ],
     "confidence": 0.8,
-    "strategic_theme": "AI_MARKETING",
+    "strategic_theme": "RETAIL_TRANSFORMATION",
     "regions": [
-      "GLOBAL"
+      "AMER"
     ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
+    "business_impact": "HIGH",
+    "sentiment": "THREAT",
     "key_entities": [
-      "HubSpot",
-      "AI search analytics",
-      "Marketing teams"
+      "Ship4wd",
+      "Pollfish"
     ],
-    "one_line_insight_ko": "AI 검색 분석 도구가 마케팅 성과의 실제 비즈니스 임팩트를 정확하게 측정할 수 있는 새로운 표준이 되고 있습니다.",
-    "one_line_insight_en": "AI search analytics tools are becoming the new standard for accurately measuring the real business impact of marketing performance.",
+    "one_line_insight_ko": "중소기업들이 직면한 공급망과 관세 문제는 D2C 브랜드들에게도 운영 전략 재검토의 필요성을 시사합니다.",
+    "one_line_insight_en": "Supply chain and tariff challenges facing SMBs signal the need for D2C brands to reassess their operational strategies.",
     "ai_processed": true
   },
   {
-    "title": "U.K. brands spend more on retail media but ‘disconnected commerce’ hampers faster growth",
-    "link": "https://digiday.com/media-buying/u-k-brands-spend-more-on-retail-media-but-disconnected-commerce-hampers-faster-growth/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "title": "Ecommerce Trends: Which type of online retailer is growing fastest in the 2020s?",
+    "link": "https://www.digitalcommerce360.com/2026/05/21/ecommerce-trends-which-type-of-online-retailer-is-growing-fastest-in-the-2020s/",
     "date_published": "2026-05-21",
-    "description": "U.K. and EU spending on RMNs is rising, but marketers say issues around measurement and internal tugs-of-war are holding back upper-funnel investment.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
+    "description": "With the 2020s more than half over, a new wave of online retailers has pushed ahead to dominate growth in ecommerce sales. The 2026 edition of Digital Commerce 360’s annual Top 1000 Report sheds some light on which types of merchants are growing at the fastest rates. The merchants covered in the report reflect data […]\nThe post Ecommerce Trends: Which type of online retailer is growing fastest in the 2020s? appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
     "categories": [
-      "marketing",
+      "commerce",
       "strategy"
     ],
     "relevance_score": 0.7,
     "relevance_label": "high",
-    "title_en": "UK Retail Media Spending Grows Despite Measurement Challenges and Internal Disconnects",
-    "summary_ko": "영국과 EU 지역의 리테일 미디어 네트워크(RMN) 투자가 증가하고 있습니다. 그러나 측정 문제와 내부 조직 간 갈등으로 인해 상위 퍼널 투자가 제약받고 있습니다. 연결되지 않은 커머스 환경이 더 빠른 성장을 방해하는 주요 요인으로 지적되고 있습니다.",
-    "summary_en": "UK and EU spending on retail media networks (RMNs) is increasing significantly. However, measurement issues and internal organizational conflicts are limiting upper-funnel investment growth. Disconnected commerce environments are identified as the main factor hampering faster growth potential.",
-    "so_what_ko": "LG D2C는 리테일 미디어 투자 확대 시 측정 체계를 사전에 구축하고 내부 조직 간 협업 체계를 정립해 투자 효율성을 극대화해야 합니다.",
-    "so_what_en": "LG D2C should establish measurement frameworks and internal collaboration systems before expanding retail media investments to maximize investment efficiency.",
+    "title_en": "Ecommerce Trends: Which Online Retailers Are Growing Fastest in the 2020s?",
+    "summary_ko": "2020년대 중반 현재, 새로운 유형의 온라인 소매업체들이 전자상거래 성장을 주도하고 있습니다. Digital Commerce 360의 2026년 Top 1000 보고서는 어떤 유형의 판매업체가 가장 빠른 성장률을 보이는지 분석합니다. 이 보고서는 전자상거래 시장의 주요 성장 동향을 보여줍니다.",
+    "summary_en": "A new wave of online retailers has emerged to dominate ecommerce growth as the 2020s reach their midpoint. Digital Commerce 360's 2026 Top 1000 Report analyzes which types of merchants are experiencing the fastest growth rates. The report provides insights into the key growth trends shaping the ecommerce market.",
+    "so_what_ko": "LG의 D2C 전략 수립 시 성장 속도가 빠른 온라인 소매 유형을 벤치마킹하여 경쟁력을 강화해야 합니다.",
+    "so_what_en": "LG's D2C strategy should benchmark fast-growing online retail types to enhance competitiveness in the evolving ecommerce landscape.",
     "key_points": [
-      "UK/EU retail media network spending is rising",
-      "Measurement challenges limit upper-funnel investment",
-      "Internal organizational conflicts hamper growth",
-      "Disconnected commerce environments create barriers"
+      "New wave of online retailers dominating 2020s growth",
+      "Digital Commerce 360's Top 1000 Report provides market insights",
+      "Analysis focuses on merchant types with fastest growth rates"
     ],
     "tags": [
-      "retail-media",
-      "measurement-challenges",
-      "uk-market",
-      "upper-funnel",
-      "commerce-integration"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "EMEA"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "Digiday",
-      "UK brands",
-      "EU",
-      "RMNs"
-    ],
-    "one_line_insight_ko": "리테일 미디어 투자 증가에도 불구하고 측정 체계의 부재와 조직 간 단절이 성장 잠재력을 제약하고 있습니다.",
-    "one_line_insight_en": "Despite increasing retail media investment, lack of measurement systems and organizational disconnects are constraining growth potential.",
-    "ai_processed": true
-  },
-  {
-    "title": "‘Trust becomes the product’: Marketers grapple with Google’s new suite of AI-powered ad agents",
-    "link": "https://digiday.com/marketing/trust-becomes-the-product-marketers-grapple-with-googles-new-suite-of-ai-powered-ad-agents/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-05-21",
-    "description": "First comes innovation, then comes transparency. At least that seems to be Google’s approach as the tech behemoth enters its agentic era. At Google Marketing Live (GML) yesterday, Google announced a new souped up suite of agentic ad tools backed by its LLM, Gemini. Google plans to roll out more ads in AI Mode in […]",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
-    "categories": [
-      "marketing",
-      "tech"
-    ],
-    "relevance_score": 0.9,
-    "relevance_label": "high",
-    "title_en": "Google Unveils AI-Powered Ad Agents as Trust Becomes Central Product for Marketers",
-    "summary_ko": "구글이 제미니 LLM 기반의 새로운 에이전틱 광고 도구 스위트를 발표했습니다. 구글 마케팅 라이브에서 AI 모드의 광고 확대 계획을 공개했습니다. 마케터들에게 신뢰가 핵심 제품으로 부상하면서 투명성과 혁신 사이의 균형이 중요해지고 있습니다.",
-    "summary_en": "Google announced a new suite of agentic advertising tools powered by Gemini LLM at Google Marketing Live. The company revealed plans to expand ads in AI Mode significantly. Trust is emerging as a central product for marketers as the balance between transparency and innovation becomes crucial.",
-    "so_what_ko": "LG D2C는 구글의 AI 광고 에이전트 도입 시 투명성과 제어 가능성을 확보하면서도 자동화의 이점을 활용하는 전략을 수립해야 합니다.",
-    "so_what_en": "LG D2C should develop strategies that secure transparency and controllability while leveraging automation benefits when adopting Google's AI ad agents.",
-    "key_points": [
-      "Google launched Gemini LLM-powered agentic ad tools",
-      "AI Mode ads expansion planned across platform",
-      "Trust becomes central product concern for marketers",
-      "Balance needed between innovation and transparency"
-    ],
-    "tags": [
-      "google-ads",
-      "ai-agents",
-      "gemini-llm",
-      "transparency",
-      "automation"
-    ],
-    "confidence": 0.9,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Google",
-      "Gemini",
-      "Google Marketing Live",
-      "AI Mode"
-    ],
-    "one_line_insight_ko": "구글의 AI 광고 에이전트 출시로 마케팅 자동화가 가속화되지만 신뢰와 투명성이 새로운 경쟁 요소로 부상하고 있습니다.",
-    "one_line_insight_en": "Google's AI ad agents launch accelerates marketing automation but trust and transparency emerge as new competitive factors.",
-    "ai_processed": true
-  },
-  {
-    "title": "Lowe’s efforts to win over pros could save it from the home sector’s challenges",
-    "link": "https://www.retaildive.com/news/lowes-pros-growth-home-sector-challenges/820732/",
-    "date_published": "2026-05-20",
-    "description": "The retailer — which saw sales increase 10% in Q1 — is turning to the customer segment as DIY demand remains down.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "strategy",
-      "commerce"
-    ],
-    "relevance_score": 0.5,
-    "relevance_label": "high",
-    "title_en": "Lowe's Pro Customer Focus Strategy Shields Against Home Sector Downturn Challenges",
-    "summary_ko": "로우즈가 1분기 매출 10% 증가를 기록하며 전문가 고객층 확보에 집중하고 있습니다. DIY 수요 감소 상황에서 프로 고객 세그먼트를 통해 홈 섹터의 도전을 극복하려는 전략을 추진하고 있습니다. 이 접근법이 업계 침체기에 효과적인 방어 전략으로 평가받고 있습니다.",
-    "summary_en": "Lowe's recorded a 10% sales increase in Q1 while focusing on winning over professional customers. The retailer is pursuing a strategy to overcome home sector challenges through the pro customer segment amid declining DIY demand. This approach is being evaluated as an effective defensive strategy during industry downturns.",
-    "so_what_ko": "LG D2C는 소비자 수요 변화 시 전문가나 B2B 고객층과 같은 안정적인 세그먼트를 확보해 리스크를 분산하는 전략을 고려해야 합니다.",
-    "so_what_en": "LG D2C should consider securing stable segments like professionals or B2B customers to diversify risks during consumer demand changes.",
-    "key_points": [
-      "Lowe's achieved 10% Q1 sales growth",
-      "Pro customer segment focus amid DIY decline",
-      "Strategy shields against home sector challenges",
-      "Professional customers provide stability during downturns"
-    ],
-    "tags": [
-      "customer-segmentation",
-      "b2b-strategy",
-      "market-resilience",
-      "lowes",
-      "home-improvement"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Lowe's",
-      "Pro customers",
-      "DIY",
-      "Home sector"
-    ],
-    "one_line_insight_ko": "시장 침체기에 안정적인 전문가 고객 세그먼트 확보가 리테일러의 핵심 방어 전략으로 부상하고 있습니다.",
-    "one_line_insight_en": "Securing stable professional customer segments is emerging as a key defensive strategy for retailers during market downturns.",
-    "ai_processed": true
-  },
-  {
-    "title": "Can Target’s small upgrades to carts, bathrooms lead to big wins?",
-    "link": "https://www.retaildive.com/news/target-store-upgrades-shopping-carts-bathrooms/820602/",
-    "date_published": "2026-05-20",
-    "description": "The retailer's efforts to modernize its experience aim to create durable long-term value for a key demographic: busy families.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "commerce"
-    ],
-    "relevance_score": 0.3,
-    "relevance_label": "high",
-    "title_en": "Target's Small Store Upgrades Aim for Big Family Shopping Wins",
-    "summary_ko": "타겟이 쇼핑카트와 화장실 등 매장 시설을 현대화하여 고객 경험을 개선하고 있습니다. 이러한 소규모 업그레이드는 바쁜 가족 고객층을 위한 장기적 가치 창출을 목표로 합니다. 매장 내 편의시설 개선을 통해 고객 만족도와 재방문율을 높이려는 전략입니다.",
-    "summary_en": "Target is modernizing store facilities including shopping carts and bathrooms to enhance customer experience. These small-scale upgrades target busy families as a key demographic for long-term value creation. The retailer aims to boost customer satisfaction and repeat visits through improved in-store convenience facilities.",
-    "so_what_ko": "LG D2C는 온라인뿐만 아니라 오프라인 고객 접점에서의 편의성 개선이 브랜드 충성도 향상에 중요함을 인식해야 합니다.",
-    "so_what_en": "LG D2C should recognize that convenience improvements at both online and offline customer touchpoints are crucial for enhancing brand loyalty.",
-    "key_points": [
-      "Target focuses on modernizing basic store amenities for better customer experience",
-      "Strategy targets busy families as core demographic",
-      "Small upgrades aim to create durable long-term customer value"
-    ],
-    "tags": [
-      "retail-experience",
-      "customer-convenience",
-      "store-modernization"
+      "ecommerce-trends",
+      "online-retail",
+      "growth-analysis"
     ],
     "confidence": 0.6,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Target"
-    ],
-    "one_line_insight_ko": "기본적인 매장 편의시설 개선도 고객 경험 향상의 중요한 요소가 될 수 있습니다.",
-    "one_line_insight_en": "Basic store amenity improvements can be significant factors in enhancing customer experience.",
-    "ai_processed": true
-  },
-  {
-    "title": "Klarna releases AI search app for shopping in ChatGPT",
-    "link": "https://www.digitalcommerce360.com/2026/05/20/klarna-ai-shopping-search-app-openai-chatgpt/",
-    "date_published": "2026-05-20",
-    "description": "Payments provider Klarna has launched an artificial intelligence (AI)-powered app in OpenAI’s ChatGPT centered around shopping and search. The Klarna Shopping Search app in ChatGPT enables users to describe the types of products they’re looking for and, in one conversation, see visual results with up-to-date prices, availability and offers from multiple merchants, according to the […]\nThe post Klarna releases AI search app for shopping in ChatGPT appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
-    "categories": [
-      "ai_commerce",
-      "agentic_commerce"
-    ],
-    "relevance_score": 0.9,
-    "relevance_label": "high",
-    "title_en": "Klarna Launches AI Shopping Search App in ChatGPT for Multi-Merchant Discovery",
-    "summary_ko": "클라르나가 OpenAI의 ChatGPT에 AI 기반 쇼핑 검색 앱을 출시했습니다. 사용자는 원하는 제품을 설명하면 여러 판매자의 최신 가격, 재고, 할인 정보를 한 번의 대화로 확인할 수 있습니다. 이 앱은 시각적 결과와 함께 통합된 쇼핑 경험을 제공합니다.",
-    "summary_en": "Klarna has launched an AI-powered shopping search app in OpenAI's ChatGPT platform. Users can describe desired products and view visual results with up-to-date prices, availability and offers from multiple merchants in one conversation. The app provides an integrated shopping experience with visual product displays.",
-    "so_what_ko": "LG는 ChatGPT와 같은 대화형 AI 플랫폼에 제품 검색 기능을 통합하여 고객의 제품 발견 과정을 혁신할 수 있습니다.",
-    "so_what_en": "LG can innovate customer product discovery by integrating shopping functionality into conversational AI platforms like ChatGPT.",
-    "key_points": [
-      "Klarna integrates shopping search capabilities directly into ChatGPT",
-      "Users can discover products from multiple merchants through conversational interface",
-      "Visual results include real-time pricing and availability information"
-    ],
-    "tags": [
-      "ai-shopping",
-      "conversational-commerce",
-      "multi-merchant-search"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_COMMERCE",
+    "strategic_theme": "RETAIL_TRANSFORMATION",
     "regions": [
       "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Klarna",
-      "OpenAI",
-      "ChatGPT"
-    ],
-    "one_line_insight_ko": "대화형 AI와 쇼핑 검색의 결합이 새로운 제품 발견 경험을 창조하고 있습니다.",
-    "one_line_insight_en": "The integration of conversational AI with shopping search is creating new product discovery experiences.",
-    "ai_processed": true
-  },
-  {
-    "title": "Home Depot puts AI tools for Pro customers into one workspace",
-    "link": "https://www.digitalcommerce360.com/2026/05/20/home-depot-pro-b2b-sales-q1-fy26/",
-    "date_published": "2026-05-20",
-    "description": "Home Depot has deployed strategies to expand on its B2B sales through its Pro segment in Q1, including refining artificial intelligence (AI) tools, bolstering partnerships and making another acquisition. CEO Ed Decker said Home Depot’s objective is to win more Pro business, products and purchase occasions. He claimed that no retailer has the scale or […]\nThe post Home Depot puts AI tools for Pro customers into one workspace appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
-    "categories": [
-      "ai_commerce",
-      "commerce"
-    ],
-    "relevance_score": 0.7,
-    "relevance_label": "high",
-    "title_en": "Home Depot Consolidates AI Tools for Pro Customers into Unified Workspace",
-    "summary_ko": "홈디포가 B2B 프로 고객을 위한 AI 도구들을 하나의 작업공간으로 통합했습니다. 1분기 전략에는 AI 도구 개선, 파트너십 강화, 추가 인수가 포함되었습니다. CEO는 더 많은 프로 사업자의 비즈니스, 제품, 구매 기회를 확보하는 것이 목표라고 밝혔습니다.",
-    "summary_en": "Home Depot has consolidated AI tools for Pro customers into a unified workspace as part of Q1 B2B expansion strategies. The initiatives include refining AI tools, strengthening partnerships, and making acquisitions. The CEO stated the objective is to capture more Pro business opportunities, products, and purchase occasions.",
-    "so_what_ko": "LG는 B2B 고객을 위한 AI 도구를 통합하여 전문 고객의 업무 효율성을 높이고 비즈니스 관계를 강화할 수 있습니다.",
-    "so_what_en": "LG can enhance professional customer work efficiency and strengthen business relationships by consolidating AI tools for B2B customers.",
-    "key_points": [
-      "Home Depot creates unified AI workspace for Pro segment customers",
-      "Strategy includes AI tool refinement and partnership expansion",
-      "Focus on winning more professional business purchase occasions"
-    ],
-    "tags": [
-      "b2b-ai-tools",
-      "professional-customers",
-      "unified-workspace"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_COMMERCE",
-    "regions": [
-      "AMER"
     ],
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Home Depot"
+      "Digital Commerce 360",
+      "Top 1000 Report"
     ],
-    "one_line_insight_ko": "B2B 고객을 위한 AI 도구 통합이 전문 고객 세그먼트에서의 경쟁 우위를 만들어내고 있습니다.",
-    "one_line_insight_en": "AI tool consolidation for B2B customers is creating competitive advantages in professional customer segments.",
+    "one_line_insight_ko": "2020년대 중반 전자상거래 시장에서 새로운 유형의 온라인 소매업체가 성장을 주도하고 있어 D2C 전략 재검토가 필요합니다.",
+    "one_line_insight_en": "New types of online retailers are driving ecommerce growth in the mid-2020s, requiring D2C strategy reassessment.",
     "ai_processed": true
   },
   {
-    "title": "Google unveils its new Universal Cart for agentic commerce",
-    "link": "https://www.digitalcommerce360.com/2026/05/20/google-universal-cart-for-agentic-commerce/",
-    "date_published": "2026-05-20",
-    "description": "Google kicked off its annual Google I/O developer conference on May 19 with numerous announcements, including new details about its latest agentic commerce and checkout tool, the Universal Cart. Universal Cart is built on top of Google’s Universal Commerce Protocol (UCP), which enables artificial intelligence (AI) agents to communicate with payments infrastructure in ecommerce transactions. […]\nThe post Google unveils its new Universal Cart for agentic commerce appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
-    "categories": [
-      "agentic_commerce",
-      "ai_commerce",
-      "tech"
-    ],
-    "relevance_score": 1,
-    "relevance_label": "high",
-    "title_en": "Google Unveils Universal Cart for Agentic Commerce at I/O Conference",
-    "summary_ko": "구글이 연례 I/O 개발자 컨퍼런스에서 에이전틱 커머스를 위한 유니버설 카트를 공개했습니다. 이 도구는 구글의 유니버설 커머스 프로토콜(UCP) 기반으로 구축되어 AI 에이전트가 전자상거래 거래에서 결제 인프라와 통신할 수 있게 합니다. 에이전틱 커머스와 체크아웃 기능을 통합한 혁신적인 솔루션입니다.",
-    "summary_en": "Google unveiled its Universal Cart for agentic commerce at the annual I/O developer conference. The tool is built on Google's Universal Commerce Protocol (UCP), enabling AI agents to communicate with payments infrastructure in ecommerce transactions. This represents an innovative solution integrating agentic commerce with checkout functionality.",
-    "so_what_ko": "LG는 구글의 유니버설 카트와 같은 에이전틱 커머스 플랫폼과의 통합을 통해 AI 기반 자동화된 구매 경험을 제공할 수 있습니다.",
-    "so_what_en": "LG can provide AI-powered automated purchasing experiences by integrating with agentic commerce platforms like Google's Universal Cart.",
-    "key_points": [
-      "Google launches Universal Cart for agentic commerce transactions",
-      "Built on Universal Commerce Protocol enabling AI agent-payment infrastructure communication",
-      "Represents major advancement in automated AI-driven shopping experiences"
-    ],
-    "tags": [
-      "agentic-commerce",
-      "universal-cart",
-      "ai-payments"
-    ],
-    "confidence": 0.9,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Google",
-      "Universal Commerce Protocol"
-    ],
-    "one_line_insight_ko": "구글의 유니버설 카트는 AI 에이전트가 주도하는 자동화된 쇼핑의 새로운 시대를 열고 있습니다.",
-    "one_line_insight_en": "Google's Universal Cart is ushering in a new era of AI agent-driven automated shopping.",
-    "ai_processed": true
-  },
-  {
-    "title": "Google upgrades AI search ads: what marketers need to know",
-    "link": "https://www.marketingdive.com/news/google-upgrades-ai-search-ads-what-marketers-need-to-know/820663/",
-    "date_published": "2026-05-20",
-    "description": "A range of new tools announced at Marketing Live follow the platform enacting a signifcant overhaul of the search experience to prirotize AI chats.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
-    "categories": [
-      "ai_marketing",
-      "marketing"
-    ],
-    "relevance_score": 0.8,
-    "relevance_label": "high",
-    "title_en": "Google Upgrades AI Search Ads: Key Changes for Marketers",
-    "summary_ko": "구글이 마케팅 라이브 이벤트에서 AI 검색 광고의 대폭적인 업그레이드를 발표했습니다. 이는 검색 경험을 AI 채팅 중심으로 재편하는 플랫폼 전반적 개편의 일환입니다. 마케터들이 알아야 할 다양한 새로운 도구들이 공개되었습니다.",
-    "summary_en": "Google announced significant upgrades to AI search ads at the Marketing Live event. This follows a major platform overhaul prioritizing AI chats in the search experience. A range of new tools were revealed that marketers need to understand.",
-    "so_what_ko": "LG는 구글의 AI 검색 광고 변화에 대응하여 마케팅 전략을 조정하고 새로운 AI 기반 광고 도구를 활용해야 합니다.",
-    "so_what_en": "LG must adapt marketing strategies to Google's AI search ad changes and leverage new AI-powered advertising tools.",
-    "key_points": [
-      "Google announces major AI search ads upgrades at Marketing Live",
-      "Changes follow significant search experience overhaul prioritizing AI chats",
-      "New tools require marketers to adapt their advertising strategies"
-    ],
-    "tags": [
-      "ai-search-ads",
-      "google-marketing",
-      "search-advertising"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Google"
-    ],
-    "one_line_insight_ko": "구글의 AI 중심 검색 광고 전환은 마케터들의 전략적 접근 방식을 근본적으로 바꿔놓고 있습니다.",
-    "one_line_insight_en": "Google's AI-centric search advertising transformation is fundamentally changing marketers' strategic approaches.",
-    "ai_processed": true
-  },
-  {
-    "title": "Ally courts millennial, Gen Z customers with new brand platform",
-    "link": "https://www.marketingdive.com/news/ally-billboard-marketing-gen-z-millennials-digital-banking-branches/820727/",
-    "date_published": "2026-05-20",
-    "description": "Developed with Anomaly LA, the “Life Today” campaign sees the digital bank throw playful shade on competitors’ brick-and-mortar model.",
+    "title": "Manischewitz celebrates Jewish matchmaking with reality dating series",
+    "link": "https://www.marketingdive.com/news/manischewitz-celebrates-jewish-matchmaking-with-reality-dating-series/820751/",
+    "date_published": "2026-05-21",
+    "description": "The kosher foods brand is tapping into trends around episodic content with “Manischewitz Matchmakers,” which will air on social media in July.",
     "source_id": "marketing_dive",
     "source_name": "Marketing Dive",
     "source_url": "https://www.marketingdive.com/feeds/news/",
@@ -473,67 +292,20 @@
     ],
     "relevance_score": 0.4,
     "relevance_label": "high",
-    "title_en": "Ally Courts Millennial and Gen Z Customers with New Digital-First Brand Platform",
-    "summary_ko": "디지털 은행 Ally가 밀레니얼과 Z세대를 타겟으로 한 새로운 브랜드 플랫폼을 출시했습니다. Anomaly LA와 함께 개발한 'Life Today' 캠페인은 경쟁사들의 오프라인 지점 모델을 재치있게 비판합니다. 이 캠페인은 디지털 뱅킹의 장점을 강조하며 젊은 세대의 관심을 끌고 있습니다.",
-    "summary_en": "Digital bank Ally has launched a new brand platform targeting millennials and Gen Z customers. The 'Life Today' campaign, developed with Anomaly LA, playfully critiques competitors' brick-and-mortar banking models. The campaign emphasizes the advantages of digital banking to attract younger demographics.",
-    "so_what_ko": "금융 서비스에서도 젊은 세대를 타겟으로 한 디지털 퍼스트 마케팅이 중요해지고 있어, LG D2C도 세대별 맞춤형 디지털 경험 전략을 강화해야 합니다.",
-    "so_what_en": "As digital-first marketing becomes crucial for targeting younger generations in financial services, LG D2C should strengthen generation-specific digital experience strategies.",
+    "title_en": "Manischewitz Celebrates Jewish Matchmaking with Reality Dating Series",
+    "summary_ko": "코셔 식품 브랜드 Manischewitz가 7월에 소셜미디어에서 방영될 '매치메이커스' 리얼리티 데이팅 시리즈를 통해 유대인 중매 문화를 기념합니다. 이 캠페인은 에피소드 콘텐츠 트렌드를 활용한 마케팅 전략입니다. 브랜드가 문화적 정체성과 연결된 콘텐츠 마케팅을 시도하는 사례입니다.",
+    "summary_en": "Kosher food brand Manischewitz is launching 'Manischewitz Matchmakers,' a reality dating series celebrating Jewish matchmaking culture, set to air on social media in July. The campaign taps into trends around episodic content for marketing purposes. This represents a brand connecting with cultural identity through content marketing.",
+    "so_what_ko": "LG는 문화적 정체성과 연결된 에피소드 콘텐츠 마케팅을 통해 특정 고객층과의 감정적 유대감을 강화할 수 있습니다.",
+    "so_what_en": "LG can strengthen emotional connections with specific customer segments through episodic content marketing tied to cultural identity.",
     "key_points": [
-      "Ally targets millennials and Gen Z with digital-first brand platform",
-      "'Life Today' campaign critiques traditional brick-and-mortar banking",
-      "Campaign developed with creative agency Anomaly LA"
+      "Reality dating series leveraging cultural themes for brand marketing",
+      "Social media platform strategy for episodic content distribution",
+      "Cultural identity-based marketing approach"
     ],
     "tags": [
-      "digital-banking",
-      "gen-z",
-      "millennials",
-      "brand-platform",
-      "digital-first"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Ally",
-      "Anomaly LA"
-    ],
-    "one_line_insight_ko": "디지털 네이티브 세대를 위한 브랜드 플랫폼은 전통적 경쟁사 대비 차별화된 가치 제안이 핵심입니다.",
-    "one_line_insight_en": "Brand platforms for digital natives require differentiated value propositions against traditional competitors.",
-    "ai_processed": true
-  },
-  {
-    "title": "Centenario Tequila celebrates Mexican pride in campaign ahead of World Cup",
-    "link": "https://www.marketingdive.com/news/centenario-tequila-celebrates-mexican-pride-in-campaign-ahead-of-world-cup/820633/",
-    "date_published": "2026-05-20",
-    "description": "“Todo o Nada” was led by an all-Mexican creative team and will run in the U.S. across linear TV, digital video and both paid and organic social channels.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
-    "categories": [
-      "marketing"
-    ],
-    "relevance_score": 0.3,
-    "relevance_label": "high",
-    "title_en": "Centenario Tequila Celebrates Mexican Pride in World Cup Campaign",
-    "summary_ko": "세기테킬라(Centenario Tequila)가 월드컵을 앞두고 멕시코 자부심을 주제로 한 캠페인을 출시했습니다. 'Todo o Nada' 캠페인은 올-멕시칸 크리에이티브 팀이 주도했습니다. 미국에서 TV, 디지털 비디오, 소셜 채널을 통해 진행됩니다.",
-    "summary_en": "Centenario Tequila has launched a campaign celebrating Mexican pride ahead of the World Cup. The 'Todo o Nada' campaign was led by an all-Mexican creative team. It will run in the U.S. across linear TV, digital video, and social channels.",
-    "so_what_ko": "스포츠 이벤트를 활용한 문화적 자부심 마케팅이 브랜드 차별화에 효과적임을 보여주어, LG D2C도 한국 문화 요소를 글로벌 캠페인에 활용할 수 있습니다.",
-    "so_what_en": "Cultural pride marketing leveraging sports events proves effective for brand differentiation, suggesting LG D2C could incorporate Korean cultural elements in global campaigns.",
-    "key_points": [
-      "World Cup-themed campaign celebrating Mexican cultural pride",
-      "All-Mexican creative team leading campaign development",
-      "Multi-channel approach across TV, digital, and social platforms"
-    ],
-    "tags": [
-      "world-cup",
-      "cultural-marketing",
-      "tequila",
-      "sports-marketing",
-      "multichannel"
+      "content-marketing",
+      "social-media",
+      "cultural-branding"
     ],
     "confidence": 0.7,
     "strategic_theme": "CUSTOMER_EXPERIENCE",
@@ -541,47 +313,45 @@
       "AMER"
     ],
     "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
+    "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Centenario Tequila"
+      "Manischewitz",
+      "Manischewitz Matchmakers"
     ],
-    "one_line_insight_ko": "스포츠 이벤트와 문화적 정체성을 결합한 마케팅은 감정적 연결을 통해 브랜드 충성도를 높입니다.",
-    "one_line_insight_en": "Marketing that combines sports events with cultural identity builds brand loyalty through emotional connection.",
+    "one_line_insight_ko": "문화적 정체성을 활용한 에피소드 콘텐츠 마케팅이 브랜드 차별화의 새로운 기회를 제공합니다.",
+    "one_line_insight_en": "Cultural identity-driven episodic content marketing offers new opportunities for brand differentiation.",
     "ai_processed": true
   },
   {
-    "title": "LiveRamp’s Data Gives Publicis a New Way Into Commerce Media and Agentic AI",
-    "link": "https://www.adweek.com/commerce/liveramps-data-gives-publicis-a-new-way-into-commerce-media-and-agentic-ai/",
-    "date_published": "2026-05-20",
-    "description": "Publicis Groupe's $2.2 billion acquisition of data firm LiveRamp could help the holding company better compete in a commerce media landscape dominated by Amazon.",
-    "source_id": "adweek",
-    "source_name": "Adweek",
-    "source_url": "https://www.adweek.com/feed",
+    "title": "Bad AI customer agent bots are a growing brand risk",
+    "link": "https://martech.org/bad-ai-customer-agent-bots-are-a-growing-brand-risk/",
+    "date_published": "2026-05-21",
+    "description": "74% of enterprises that deployed AI customer agents have rolled them back after governance failures damaged CX and trust.\nThe post Bad AI customer agent bots are a growing brand risk appeared first on MarTech.",
+    "source_id": "martech_org",
+    "source_name": "MarTech.org",
+    "source_url": "https://martech.org/feed",
     "categories": [
-      "commerce",
-      "marketing",
-      "tech"
+      "tech",
+      "strategy"
     ],
     "relevance_score": 0.9,
     "relevance_label": "high",
-    "title_en": "LiveRamp Data Acquisition Gives Publicis New Edge in Commerce Media and Agentic AI",
-    "summary_ko": "퍼블리시스 그룹이 22억 달러에 인수한 데이터 기업 LiveRamp을 통해 커머스 미디어와 에이전틱 AI 영역에서 경쟁력을 확보했습니다. 이번 인수로 퍼블리시스는 아마존이 지배하는 커머스 미디어 시장에서 더 나은 경쟁 위치를 확보할 수 있게 되었습니다. 데이터 기반 AI 에이전트 기능이 광고 홀딩컴퍼니의 핵심 차별화 요소로 부상하고 있습니다.",
-    "summary_en": "Publicis Groupe's $2.2 billion acquisition of data firm LiveRamp provides the holding company with new capabilities in commerce media and agentic AI. This acquisition positions Publicis to better compete in a commerce media landscape dominated by Amazon. Data-driven AI agent capabilities are emerging as key differentiators for advertising holding companies.",
-    "so_what_ko": "대형 광고 홀딩컴퍼니들이 데이터와 AI 에이전트 기능에 대규모 투자하고 있어, LG D2C도 자체 데이터 플랫폼과 AI 에이전트 기능 구축을 통해 경쟁력을 확보해야 합니다.",
-    "so_what_en": "As major advertising holding companies invest heavily in data and AI agent capabilities, LG D2C must build its own data platform and agentic AI functions to remain competitive.",
+    "title_en": "Bad AI Customer Agent Bots Are a Growing Brand Risk",
+    "summary_ko": "AI 고객 상담 에이전트를 도입한 기업의 74%가 거버넌스 실패로 인해 고객 경험과 신뢰가 손상되어 시스템을 철회했습니다. 잘못 구현된 AI 챗봇이 브랜드에 심각한 위험을 초래하고 있습니다. AI 고객 서비스 도입 시 적절한 거버넌스와 품질 관리가 필수적입니다.",
+    "summary_en": "74% of enterprises that deployed AI customer agents have rolled them back after governance failures damaged customer experience and trust. Poorly implemented AI chatbots are creating serious brand risks for companies. Proper governance and quality control are essential when implementing AI customer service solutions.",
+    "so_what_ko": "LG는 AI 고객 서비스 도입 시 철저한 거버넌스 체계와 품질 관리 프로세스를 구축하여 브랜드 리스크를 방지해야 합니다.",
+    "so_what_en": "LG must establish robust governance frameworks and quality control processes when implementing AI customer service to prevent brand risks.",
     "key_points": [
-      "$2.2 billion LiveRamp acquisition strengthens Publicis' data capabilities",
-      "Strategic move to compete in Amazon-dominated commerce media space",
-      "Agentic AI becomes key differentiator in advertising industry"
+      "74% of enterprises rolled back AI customer agents due to failures",
+      "Governance failures damage customer experience and brand trust",
+      "Quality control essential for AI customer service implementation"
     ],
     "tags": [
-      "commerce-media",
-      "agentic-ai",
-      "data-acquisition",
-      "publicis",
-      "liveramp"
+      "ai-customer-service",
+      "brand-risk",
+      "governance"
     ],
-    "confidence": 0.9,
+    "confidence": 0.8,
     "strategic_theme": "AI_AGENT",
     "regions": [
       "GLOBAL"
@@ -589,105 +359,325 @@
     "business_impact": "HIGH",
     "sentiment": "THREAT",
     "key_entities": [
-      "Publicis Groupe",
-      "LiveRamp",
-      "Amazon"
+      "AI customer agents",
+      "MarTech"
     ],
-    "one_line_insight_ko": "데이터 기반 AI 에이전트는 커머스 미디어에서 아마존에 대항할 수 있는 핵심 경쟁 무기가 되고 있습니다.",
-    "one_line_insight_en": "Data-driven AI agents are becoming essential competitive weapons against Amazon in commerce media.",
+    "one_line_insight_ko": "AI 고객 상담 에이전트 도입 시 거버넌스 실패는 브랜드 신뢰도에 치명적 영향을 미칠 수 있습니다.",
+    "one_line_insight_en": "Governance failures in AI customer agent deployment can critically damage brand trust and reputation.",
     "ai_processed": true
   },
   {
-    "title": "Omnicom’s John Wren Made More Than Double All Other Advertising Holdco CEOs Combined in 2025",
-    "link": "https://www.adweek.com/agencies/omnicoms-john-wren-made-more-than-double-all-other-advertising-holdco-ceos-combined-in-2025/",
-    "date_published": "2026-05-20",
-    "description": "Omnicom CEO John Wren earned nearly $70 million in 2025—more than twice the combined pay of every other major advertising holdco CEO, with Publicis' Arthur Sadoun trailing as the next-highest earner at $9.4 million.",
-    "source_id": "adweek",
-    "source_name": "Adweek",
-    "source_url": "https://www.adweek.com/feed",
-    "categories": [
-      "strategy"
-    ],
-    "relevance_score": 0.2,
-    "relevance_label": "high",
-    "title_en": "Omnicom CEO John Wren Earned Nearly $70M in 2025, Double Other Holdco CEOs Combined",
-    "summary_ko": "옴니콤 CEO 존 렌(John Wren)이 2025년 약 7천만 달러를 벌어 다른 주요 광고 홀딩컴퍼니 CEO들 합계의 두 배 이상을 기록했습니다. 퍼블리시스의 아서 사둔(Arthur Sadoun)이 940만 달러로 두 번째였습니다. 광고업계 내 임원 보수 격차가 크게 벌어지고 있음을 보여줍니다.",
-    "summary_en": "Omnicom CEO John Wren earned nearly $70 million in 2025, more than twice the combined compensation of all other major advertising holdco CEOs. Publicis' Arthur Sadoun was the second-highest earner at $9.4 million. This highlights significant executive compensation disparities within the advertising industry.",
-    "so_what_ko": "광고업계의 극심한 보상 격차는 인재 확보 경쟁이 치열해지고 있음을 의미하므로, LG D2C는 핵심 마케팅 인재 유치를 위한 경쟁력 있는 보상 체계를 마련해야 합니다.",
-    "so_what_en": "Extreme compensation gaps in advertising indicate intensifying talent competition, requiring LG D2C to develop competitive compensation packages for key marketing talent.",
-    "key_points": [
-      "John Wren earned $70M, exceeding other holdco CEOs' combined pay",
-      "Arthur Sadoun was second-highest at $9.4M",
-      "Significant executive compensation disparities in advertising industry"
-    ],
-    "tags": [
-      "executive-compensation",
-      "omnicom",
-      "advertising-industry",
-      "ceo-pay",
-      "talent-competition"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Omnicom",
-      "John Wren",
-      "Publicis",
-      "Arthur Sadoun"
-    ],
-    "one_line_insight_ko": "광고업계 최고 경영진 보상 격차 확대는 인재 확보 경쟁 심화와 업계 양극화를 반영합니다.",
-    "one_line_insight_en": "Widening executive compensation gaps in advertising reflect intensifying talent competition and industry polarization.",
-    "ai_processed": true
-  },
-  {
-    "title": "What’s the future of AI and RCS in mobile messaging?",
-    "link": "https://martech.org/whats-the-future-of-ai-and-rcs-in-mobile-messaging/",
-    "date_published": "2026-05-20",
-    "description": "Consumers are caught in a battle between volume and relevance when it comes to messages, and AI can either help or hurt the problem. \nThe post What’s the future of AI and RCS in mobile messaging? appeared first on MarTech.",
+    "title": "Your company may be slow with AI, but you can’t afford to be",
+    "link": "https://martech.org/your-company-may-be-slow-with-ai-but-you-cant-afford-to-be/",
+    "date_published": "2026-05-21",
+    "description": "Experimenting with AI now gives you the advantage when everyone else tries to catch up.\nThe post Your company may be slow with AI, but you can’t afford to be appeared first on MarTech.",
     "source_id": "martech_org",
     "source_name": "MarTech.org",
     "source_url": "https://martech.org/feed",
     "categories": [
-      "marketing",
+      "strategy",
       "tech"
     ],
     "relevance_score": 0.8,
     "relevance_label": "high",
-    "title_en": "AI and RCS Transform Mobile Messaging: Balancing Volume vs. Relevance",
-    "summary_ko": "모바일 메시징에서 AI와 RCS(Rich Communication Services) 기술의 미래가 주목받고 있습니다. 소비자들은 메시지 볼륨과 관련성 사이에서 갈등을 겪고 있으며, AI는 이 문제를 해결하거나 악화시킬 수 있습니다. 개인화된 메시징 경험을 위한 AI 활용이 핵심 과제로 대두되고 있습니다.",
-    "summary_en": "The future of AI and RCS (Rich Communication Services) in mobile messaging is gaining attention as key technologies. Consumers face a conflict between message volume and relevance, and AI can either help solve or exacerbate this problem. Leveraging AI for personalized messaging experiences emerges as a critical challenge.",
-    "so_what_ko": "AI 기반 개인화 메시징이 고객 경험의 핵심이 되고 있어, LG D2C는 RCS와 AI를 활용한 스마트 메시징 전략으로 고객 참여도를 높여야 합니다.",
-    "so_what_en": "As AI-powered personalized messaging becomes central to customer experience, LG D2C should enhance customer engagement through smart messaging strategies using RCS and AI.",
+    "title_en": "Your Company May Be Slow with AI, But You Can't Afford to Be",
+    "summary_ko": "많은 기업들이 AI 도입에 신중한 접근을 취하고 있지만, 경쟁 우위 확보를 위해서는 빠른 실험이 필요합니다. 지금 AI를 실험하는 기업들이 다른 기업들이 따라잡으려 할 때 유리한 위치를 차지하게 됩니다. AI 도입 지연은 경쟁력 상실로 이어질 수 있습니다.",
+    "summary_en": "While many companies are taking a cautious approach to AI adoption, rapid experimentation is necessary for competitive advantage. Companies experimenting with AI now will have an advantage when others try to catch up. Delaying AI adoption could result in competitive disadvantage.",
+    "so_what_ko": "LG는 AI 도입에서 선도적 위치를 유지하기 위해 신중하면서도 적극적인 실험 전략을 구사해야 합니다.",
+    "so_what_en": "LG should pursue a cautious yet proactive AI experimentation strategy to maintain leadership position in AI adoption.",
     "key_points": [
-      "AI and RCS emerging as transformative technologies in mobile messaging",
-      "Consumer challenge: balancing message volume with relevance",
-      "AI personalization critical for improving messaging experience"
+      "Early AI experimentation provides competitive advantage",
+      "Companies delaying AI adoption risk falling behind",
+      "Balance between caution and aggressive experimentation needed"
     ],
     "tags": [
-      "mobile-messaging",
-      "rcs",
-      "ai-personalization",
-      "customer-engagement",
-      "martech"
+      "ai-adoption",
+      "competitive-advantage",
+      "experimentation"
     ],
     "confidence": 0.7,
-    "strategic_theme": "AI_PERSONALIZATION",
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "RCS",
       "MarTech"
     ],
-    "one_line_insight_ko": "AI 기반 메시징 개인화는 고객 참여와 관련성을 동시에 높이는 필수 전략이 되고 있습니다.",
-    "one_line_insight_en": "AI-powered messaging personalization is becoming essential for simultaneously increasing customer engagement and relevance.",
+    "one_line_insight_ko": "AI 도입에서 실험과 신중함의 균형이 장기적 경쟁 우위의 핵심입니다.",
+    "one_line_insight_en": "Balancing experimentation with caution in AI adoption is key to long-term competitive advantage.",
+    "ai_processed": true
+  },
+  {
+    "title": "Marketing teams must own AI, or workslop will take over",
+    "link": "https://martech.org/marketing-teams-must-own-ai-or-workslop-will-take-over/",
+    "date_published": "2026-05-21",
+    "description": "AI mandates without structure are creating workslop across marketing teams. Here’s how to build a smarter adoption strategy.\nThe post Marketing teams must own AI, or workslop will take over appeared first on MarTech.",
+    "source_id": "martech_org",
+    "source_name": "MarTech.org",
+    "source_url": "https://martech.org/feed",
+    "categories": [
+      "marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.9,
+    "relevance_label": "high",
+    "title_en": "Marketing Teams Must Own AI, or Workslop Will Take Over",
+    "summary_ko": "구조 없는 AI 도입 명령이 마케팅 팀 전반에 비효율적인 업무 혼란을 야기하고 있습니다. 마케팅 팀이 AI를 주도적으로 관리하지 않으면 무질서한 도입으로 인한 문제가 발생합니다. 더 스마트한 AI 도입 전략 구축이 필요합니다.",
+    "summary_en": "AI mandates without proper structure are creating workslop and inefficiency across marketing teams. Marketing teams must take ownership of AI implementation to prevent chaotic adoption. Building a smarter AI adoption strategy is essential for effective implementation.",
+    "so_what_ko": "LG 마케팅 조직은 AI 도입을 체계적으로 주도하고 관리하여 업무 혼란을 방지하고 효율성을 극대화해야 합니다.",
+    "so_what_en": "LG's marketing organization should systematically lead and manage AI adoption to prevent workflow chaos and maximize efficiency.",
+    "key_points": [
+      "Unstructured AI mandates create workslop in marketing teams",
+      "Marketing teams need ownership of AI implementation",
+      "Strategic approach required for effective AI adoption"
+    ],
+    "tags": [
+      "ai-adoption",
+      "marketing-teams",
+      "workflow-optimization"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "MarTech",
+      "marketing teams"
+    ],
+    "one_line_insight_ko": "마케팅 팀의 AI 주도권 확보가 효율적인 디지털 전환의 핵심 요소입니다.",
+    "one_line_insight_en": "Marketing team ownership of AI is crucial for efficient digital transformation and workflow optimization.",
+    "ai_processed": true
+  },
+  {
+    "title": "Your campaigns span 12 channels. Why does it feel like 12 jobs? by AdPlus",
+    "link": "https://martech.org/your-campaigns-span-12-channels-why-does-it-feel-like-12-jobs/",
+    "date_published": "2026-05-21",
+    "description": "The cross-channel ad ops problem is real and mostly ignored. Here's what it's costing performance marketers — and what's actually changing.\nThe post Your campaigns span 12 channels. Why does it feel like 12 jobs? appeared first on MarTech.",
+    "source_id": "martech_org",
+    "source_name": "MarTech.org",
+    "source_url": "https://martech.org/feed",
+    "categories": [
+      "marketing"
+    ],
+    "relevance_score": 0.7,
+    "relevance_label": "high",
+    "title_en": "Cross-Channel Campaign Management: Why 12 Channels Feel Like 12 Separate Jobs",
+    "summary_ko": "다채널 광고 운영의 복잡성이 마케팅 성과에 미치는 부정적 영향에 대해 다룹니다. 12개 채널에 걸친 캠페인이 마치 12개의 별도 업무처럼 느껴지는 현실적 문제를 분석합니다. 성과 마케터들이 직면한 비용과 변화하는 해결방안을 제시합니다.",
+    "summary_en": "The article addresses the negative impact of cross-channel advertising operations complexity on marketing performance. It analyzes the real problem where campaigns spanning 12 channels feel like managing 12 separate jobs. The piece examines costs faced by performance marketers and emerging solutions to address these challenges.",
+    "so_what_ko": "D2C 브랜드는 통합된 크로스채널 마케팅 플랫폼 도입을 통해 운영 효율성을 극대화하고 마케팅 ROI를 개선할 수 있습니다.",
+    "so_what_en": "D2C brands can maximize operational efficiency and improve marketing ROI by adopting integrated cross-channel marketing platforms.",
+    "key_points": [
+      "Cross-channel ad operations create significant complexity for marketers",
+      "Managing multiple channels feels like handling separate jobs",
+      "Performance marketers face real costs from operational inefficiencies",
+      "Solutions are emerging to address these channel management challenges"
+    ],
+    "tags": [
+      "cross-channel-marketing",
+      "ad-operations",
+      "martech",
+      "campaign-management"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "AdPlus",
+      "MarTech"
+    ],
+    "one_line_insight_ko": "다채널 마케팅의 복잡성 해결이 D2C 브랜드의 운영 효율성 향상의 핵심입니다.",
+    "one_line_insight_en": "Solving cross-channel marketing complexity is key to improving operational efficiency for D2C brands.",
+    "ai_processed": true
+  },
+  {
+    "title": "Google Ads in AI Mode Will Help Businesses Be Discovered",
+    "link": "https://aibusiness.com/generative-ai/google-ads-ai-mode-will-help-businesses-discovered",
+    "date_published": "2026-05-21",
+    "description": "The changes enable businesses to engage with users directly through questions and real time interactions, improving lead generation and the overall advertising experience.",
+    "source_id": "ai_business",
+    "source_name": "AI Business",
+    "source_url": "https://aibusiness.com/rss.xml",
+    "categories": [
+      "marketing",
+      "tech"
+    ],
+    "relevance_score": 0.9,
+    "relevance_label": "high",
+    "title_en": "Google Ads AI Mode Enhances Business Discovery Through Real-Time Interactions",
+    "summary_ko": "구글 광고의 AI 모드가 비즈니스 발견 가능성을 향상시킨다고 발표했습니다. 사용자와의 실시간 상호작용을 통해 기업이 직접 고객과 소통할 수 있게 됩니다. 이를 통해 리드 생성과 전반적인 광고 경험이 개선될 것으로 예상됩니다.",
+    "summary_en": "Google announced that AI Mode in Google Ads will enhance business discoverability. The changes enable businesses to engage with users directly through real-time interactions and questions. This is expected to improve lead generation and the overall advertising experience.",
+    "so_what_ko": "D2C 브랜드는 구글의 AI 광고 기능을 활용해 고객과의 실시간 상호작용을 강화하고 리드 생성 효율성을 높일 수 있습니다.",
+    "so_what_en": "D2C brands can leverage Google's AI advertising features to enhance real-time customer interactions and improve lead generation efficiency.",
+    "key_points": [
+      "Google Ads AI Mode improves business discoverability",
+      "Real-time user interactions become possible",
+      "Lead generation and advertising experience enhanced",
+      "Direct customer engagement opportunities increased"
+    ],
+    "tags": [
+      "google-ads",
+      "ai-advertising",
+      "lead-generation",
+      "real-time-interaction"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Google",
+      "Google Ads"
+    ],
+    "one_line_insight_ko": "구글의 AI 광고 모드는 D2C 브랜드의 고객 발견성과 참여도를 혁신적으로 향상시킬 것입니다.",
+    "one_line_insight_en": "Google's AI advertising mode will revolutionarily enhance customer discoverability and engagement for D2C brands.",
+    "ai_processed": true
+  },
+  {
+    "title": "Medicube, Crocs are betting on TikTok Shop for discovery e-commerce",
+    "link": "https://www.modernretail.co/sponsored/medicube-crocs-are-betting-on-tiktok-shop-for-discovery-e-commerce/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-05-20",
+    "description": "As consumers’ shopping habits evolve, retail is shifting from traditional search-and-scroll e-commerce to a new model that revolves around discovery.  Sitting at the center of that transformation is TikTok Shop, which represents a new retail model centered on community, trust and entertainment-driven discovery. Shopping happens natively and naturally, as TikTok Shop guides users from inspiration […]",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.9,
+    "relevance_label": "high",
+    "title_en": "Medicube and Crocs Bet on TikTok Shop for Discovery-Driven E-commerce",
+    "summary_ko": "메디큐브와 크록스가 발견 중심 이커머스를 위해 틱톡 쇼핑에 투자하고 있습니다. 소비자 쇼핑 습관 변화로 전통적인 검색 스크롤 방식에서 발견 중심 모델로 전환되고 있습니다. 틱톡 쇼핑은 커뮤니티, 신뢰, 엔터테인먼트 기반 발견을 중심으로 한 새로운 리테일 모델을 제시합니다.",
+    "summary_en": "Medicube and Crocs are investing in TikTok Shop for discovery-driven e-commerce. Consumer shopping habits are shifting from traditional search-and-scroll to discovery-centered models. TikTok Shop presents a new retail model centered on community, trust, and entertainment-driven discovery.",
+    "so_what_ko": "D2C 브랜드는 틱톡 쇼핑과 같은 소셜 커머스 플랫폼을 통해 엔터테인먼트 기반 발견 쇼핑 경험을 제공해야 합니다.",
+    "so_what_en": "D2C brands must embrace social commerce platforms like TikTok Shop to provide entertainment-driven discovery shopping experiences.",
+    "key_points": [
+      "Medicube and Crocs adopting TikTok Shop for discovery commerce",
+      "Shift from search-and-scroll to discovery-driven shopping",
+      "TikTok Shop represents community and entertainment-centered retail",
+      "Native and natural shopping experiences integrated"
+    ],
+    "tags": [
+      "tiktok-shop",
+      "discovery-commerce",
+      "social-commerce",
+      "d2c-brands"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Medicube",
+      "Crocs",
+      "TikTok Shop"
+    ],
+    "one_line_insight_ko": "소셜 커머스 플랫폼에서의 발견 중심 쇼핑이 D2C 브랜드의 새로운 성장 동력이 되고 있습니다.",
+    "one_line_insight_en": "Discovery-driven shopping on social commerce platforms is becoming a new growth engine for D2C brands.",
+    "ai_processed": true
+  },
+  {
+    "title": "#213: AI Answers - What AI Should Never Do, Enterprise Scaling, Governing AI & Navigating IT Roadblocks",
+    "link": "",
+    "date_published": "2026-05-07",
+    "description": "Leadership wants AI everywhere. IT security can't keep up. Marketing is racing ahead while legal and finance dig in. And every week brings another story of an AI agent doing something nobody told it to do. Paul Roetzer and Cathy McPhillips answer 15 listener questions on how to actually move organizations forward and where the real opportunities lie for individuals, SMBs, and enterprises right now.\n\n00:00:00 — Intro\n\n00:07:01 — How do you move a company out of AI policy paralysis?\n\n00:08:54 — How should regulated, hands-on teams introduce AI?\n\n00:12:30 — When companies are stuck, what tends to get them moving?\n\n00:15:00 — Should IT security evolve to adopt AI quicker or should businesses slow down?\n\n00:17:43 — What changes an AI-skeptic employee's mind?\n\n00:21:18 — How should early-career professionals prioritize what to learn?\n\n00:23:29 — Is there a point where you should stop learning and start building?\n\n00:27:29 — Where do companies get stuck scaling AI across departments?\n\n00:29:4",
+    "source_id": "marketing_ai_show",
+    "source_name": "The Marketing AI Show (Podcast)",
+    "source_url": "https://feeds.megaphone.fm/marketingai",
+    "categories": [
+      "strategy",
+      "tech"
+    ],
+    "relevance_score": 0.6,
+    "relevance_label": "high",
+    "title_en": "AI Implementation Challenges: From Policy Paralysis to Enterprise Scaling",
+    "summary_ko": "기업의 AI 도입 과정에서 발생하는 다양한 도전과제를 다룹니다. 리더십은 AI를 모든 곳에 적용하고 싶어하지만 IT 보안은 따라잡지 못하는 상황입니다. 마케팅은 앞서 나가지만 법무와 재무 부서는 신중한 접근을 취하고 있습니다.",
+    "summary_en": "The podcast addresses various challenges in enterprise AI implementation. Leadership wants AI everywhere while IT security struggles to keep up. Marketing races ahead while legal and finance departments take cautious approaches.",
+    "so_what_ko": "D2C 조직은 AI 정책 마비를 해결하고 부서간 협력을 통해 점진적이고 안전한 AI 도입 전략을 수립해야 합니다.",
+    "so_what_en": "D2C organizations must overcome AI policy paralysis and establish gradual, secure AI adoption strategies through cross-departmental collaboration.",
+    "key_points": [
+      "Leadership wants AI everywhere but faces organizational resistance",
+      "IT security struggles to match AI adoption pace",
+      "Marketing leads while legal and finance remain cautious",
+      "15 practical questions addressed for moving organizations forward"
+    ],
+    "tags": [
+      "ai-implementation",
+      "enterprise-ai",
+      "organizational-change",
+      "ai-governance"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "DATA_STRATEGY",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Paul Roetzer",
+      "Cathy McPhillips",
+      "Marketing AI Show"
+    ],
+    "one_line_insight_ko": "조직 전반의 AI 도입에는 부서간 균형과 단계적 접근이 필수적입니다.",
+    "one_line_insight_en": "Enterprise-wide AI adoption requires interdepartmental balance and phased approaches.",
+    "ai_processed": true
+  },
+  {
+    "title": "GITEX AI EUROPE",
+    "link": "https://aibusiness.com/events/gitex-ai-europe",
+    "date_published": "2026-06-30",
+    "description": "",
+    "source_id": "ai_business",
+    "source_name": "AI Business",
+    "source_url": "https://aibusiness.com/rss.xml",
+    "categories": [
+      "tech"
+    ],
+    "relevance_score": 0.2,
+    "relevance_label": "high",
+    "title_en": "GITEX AI Europe Conference Event",
+    "summary_ko": "GITEX AI 유럽 컨퍼런스에 대한 기본 정보만 제공되어 있습니다. 구체적인 내용이나 설명이 원문에서 확인되지 않습니다. 2026년 6월 30일에 개최 예정인 AI 관련 이벤트입니다.",
+    "summary_en": "Only basic information about GITEX AI Europe conference is provided. Specific content or description is not confirmed in the source. The AI-related event is scheduled for June 30, 2026.",
+    "so_what_ko": "구체적인 내용 없이는 D2C 비즈니스에 대한 시사점을 파악하기 어렵습니다.",
+    "so_what_en": "Without specific content, it's difficult to determine implications for D2C business.",
+    "key_points": [
+      "GITEX AI Europe conference event",
+      "Scheduled for June 30, 2026",
+      "No detailed content available"
+    ],
+    "tags": [
+      "conference",
+      "ai-event",
+      "europe"
+    ],
+    "confidence": 0.5,
+    "strategic_theme": "EMERGING_TECH",
+    "regions": [
+      "EMEA"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "GITEX"
+    ],
+    "one_line_insight_ko": "구체적인 정보 부족으로 비즈니스 영향 평가가 제한적입니다.",
+    "one_line_insight_en": "Business impact assessment is limited due to lack of specific information.",
     "ai_processed": true
   }
 ]
