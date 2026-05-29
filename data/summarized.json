@@ -1,53 +1,9 @@
 [
   {
-    "title": "New Ecommerce Tools: May 27, 2026",
-    "link": "https://www.practicalecommerce.com/new-ecommerce-tools-may-27-2026",
-    "date_published": "2026-05-27",
-    "description": "This week's rundown includes new services for social media, regulatory compliance, dropshipping, reputation management, fulfillment, quick commerce, and bot protection.\nThe post New Ecommerce Tools: May 27, 2026 appeared first on Practical Ecommerce.",
-    "source_id": "practical_ecommerce",
-    "source_name": "Practical Ecommerce",
-    "source_url": "https://www.practicalecommerce.com/feed",
-    "categories": [
-      "commerce",
-      "tech"
-    ],
-    "relevance_score": 0.6,
-    "relevance_label": "high",
-    "title_en": "New Ecommerce Tools Launch to Support Social Media, Compliance, and Bot Protection",
-    "summary_ko": "최신 이커머스 도구들이 소셜미디어, 규제 준수, 드롭쉬핑, 평판관리, 배송, 퀵커머스, 봇 방지 등 다양한 영역을 지원하며 출시되었습니다. 이번 주 새로운 서비스들은 온라인 소매업체들의 운영 효율성을 높이는데 초점을 맞추고 있습니다. 특히 봇 방지와 규제 준수 도구들은 전자상거래 보안과 신뢰성 강화에 기여할 것으로 예상됩니다.",
-    "summary_en": "New ecommerce tools have been launched to support various areas including social media, regulatory compliance, dropshipping, reputation management, fulfillment, quick commerce, and bot protection. This week's new services focus on enhancing operational efficiency for online retailers. Bot protection and compliance tools are particularly expected to strengthen ecommerce security and reliability.",
-    "so_what_ko": "LG D2C는 새로운 이커머스 도구들을 활용하여 운영 효율성과 고객 경험을 개선할 수 있습니다.",
-    "so_what_en": "LG D2C can leverage these new ecommerce tools to improve operational efficiency and customer experience.",
-    "key_points": [
-      "New tools covering social media, compliance, and bot protection",
-      "Focus on operational efficiency for online retailers",
-      "Enhanced security and reliability features"
-    ],
-    "tags": [
-      "ecommerce-tools",
-      "bot-protection",
-      "compliance",
-      "social-media"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Practical Ecommerce"
-    ],
-    "one_line_insight_ko": "다양한 이커머스 운영 도구의 통합적 발전이 온라인 소매 생태계의 효율성을 높이고 있습니다.",
-    "one_line_insight_en": "Integrated development of diverse ecommerce operational tools is enhancing the efficiency of the online retail ecosystem.",
-    "ai_processed": true
-  },
-  {
-    "title": "Knower Tech hires Prebid’s Racic to helm a new data curation offering for buy and sell sides",
-    "link": "https://digiday.com/media-buying/knower-tech-hires-prebids-racic-to-helm-a-new-data-curation-offering-for-buy-and-sell-sides/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-05-28",
-    "description": "The new data vertical Racic and Janelli will oversee aims to synthesize complementary data tools into a cohesive, AI-powered vertical for agencies and in-house marketing teams.",
+    "title": "Future of Marketing Briefing: OpenAI is working with Skai to bring retail and commerce advertisers into ChatGPT",
+    "link": "https://digiday.com/media-buying/future-of-marketing-briefing-openai-is-working-with-skai-to-bring-retail-and-commerce-advertisers-into-chatgpt/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-05-29",
+    "description": "Like the Criteo deal before it, the idea is to give advertisers a route into ChatGPT inventory through infrastructure they already use.",
     "source_id": "digiday",
     "source_name": "Digiday",
     "source_url": "https://digiday.com/feed",
@@ -55,45 +11,92 @@
       "marketing",
       "tech"
     ],
-    "relevance_score": 0.8,
+    "relevance_score": 0.9,
     "relevance_label": "high",
-    "title_en": "Knower Tech Launches AI-Powered Data Curation Platform for Marketing Teams",
-    "summary_ko": "Knower Tech가 Prebid의 Racic을 영입하여 구매측과 판매측을 위한 새로운 데이터 큐레이션 서비스를 시작했습니다. 이 새로운 데이터 부문은 상호 보완적인 데이터 도구들을 AI 기반의 통합된 플랫폼으로 합성하는 것을 목표로 합니다. 에이전시와 인하우스 마케팅 팀들이 주요 타겟 고객입니다.",
-    "summary_en": "Knower Tech hired Prebid's Racic to launch a new data curation service for buy and sell sides. The new data vertical aims to synthesize complementary data tools into an AI-powered integrated platform. Agencies and in-house marketing teams are the primary target customers.",
-    "so_what_ko": "AI 기반 데이터 큐레이션 플랫폼의 등장으로 LG D2C는 더욱 정교한 마케팅 데이터 전략을 수립할 필요가 있습니다.",
-    "so_what_en": "The emergence of AI-powered data curation platforms requires LG D2C to develop more sophisticated marketing data strategies.",
+    "title_en": "OpenAI Partners with Skai to Bring Retail Advertisers into ChatGPT Ecosystem",
+    "summary_ko": "OpenAI가 광고 플랫폼 Skai와 파트너십을 맺어 소매 및 상거래 광고주들이 ChatGPT 인벤토리에 접근할 수 있도록 하고 있다. 이전 Criteo 협업과 마찬가지로 광고주들이 이미 사용하고 있는 인프라를 통해 ChatGPT에 진입할 수 있는 경로를 제공하는 것이 목표다. AI 플랫폼이 디지털 광고 생태계의 새로운 인벤토리로 부상하고 있다.",
+    "summary_en": "OpenAI is partnering with ad platform Skai to enable retail and commerce advertisers to access ChatGPT inventory. Similar to the previous Criteo deal, the goal is to provide advertisers with a pathway into ChatGPT through infrastructure they already use. AI platforms are emerging as new inventory sources in the digital advertising ecosystem.",
+    "so_what_ko": "D2C 브랜드들이 ChatGPT와 같은 AI 플랫폼을 새로운 고객 접점으로 활용할 수 있는 기회가 확대되고 있어, 기존 광고 인프라를 통한 AI 마케팅 진입 전략을 고려해야 한다.",
+    "so_what_en": "D2C brands should consider AI marketing entry strategies through existing ad infrastructure as opportunities expand to leverage AI platforms like ChatGPT as new customer touchpoints.",
     "key_points": [
-      "AI-powered data curation platform for marketing",
-      "Integration of complementary data tools",
-      "Focus on agencies and in-house marketing teams"
+      "OpenAI-Skai partnership enables retail advertisers to access ChatGPT inventory",
+      "Follows similar integration pattern as previous Criteo collaboration",
+      "Provides familiar infrastructure pathway for advertisers entering AI platforms",
+      "Represents expansion of AI platforms into advertising inventory"
     ],
     "tags": [
-      "data-curation",
-      "ai-marketing",
-      "adtech",
-      "marketing-automation"
+      "openai-chatgpt",
+      "ai-advertising",
+      "adtech-partnership",
+      "retail-marketing"
     ],
     "confidence": 0.7,
     "strategic_theme": "AI_MARKETING",
     "regions": [
       "GLOBAL"
     ],
-    "business_impact": "MEDIUM",
+    "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Knower Tech",
-      "Prebid",
-      "Racic"
+      "OpenAI",
+      "ChatGPT",
+      "Skai",
+      "Criteo"
     ],
-    "one_line_insight_ko": "AI 기반 데이터 큐레이션의 발전이 마케팅 데이터 활용의 효율성과 정확성을 크게 향상시키고 있습니다.",
-    "one_line_insight_en": "AI-powered data curation advancement is significantly improving the efficiency and accuracy of marketing data utilization.",
+    "one_line_insight_ko": "AI 플랫폼이 새로운 광고 인벤토리로 부상하며 D2C 브랜드의 고객 접점 다각화 기회를 제공한다.",
+    "one_line_insight_en": "AI platforms are emerging as new advertising inventory, providing D2C brands with opportunities to diversify customer touchpoints.",
     "ai_processed": true
   },
   {
-    "title": "Walmart is becoming a haven for more emerging, premium brands",
-    "link": "https://www.modernretail.co/operations/walmart-is-becoming-a-haven-for-more-emerging-premium-brands/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "title": "How Content Marketers Misuse GenAI",
+    "link": "https://www.practicalecommerce.com/how-content-marketers-misuse-genai",
     "date_published": "2026-05-28",
-    "description": "Walmart has evolved beyond its reputation as a low-cost retailer into one giving brands that have started online, are new to physical retail or sit at higher price points the opportunity to scale throughout the U.S.",
+    "description": "The marketers who benefit most from generative AI will likely not produce more content but will instead exercise discretion.\nThe post How Content Marketers Misuse GenAI appeared first on Practical Ecommerce.",
+    "source_id": "practical_ecommerce",
+    "source_name": "Practical Ecommerce",
+    "source_url": "https://www.practicalecommerce.com/feed",
+    "categories": [
+      "marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.8,
+    "relevance_label": "high",
+    "title_en": "Content Marketers Need Strategic Discretion, Not More GenAI Output",
+    "summary_ko": "콘텐츠 마케터들이 생성형 AI를 잘못 활용하는 경우가 많다는 지적이 나오고 있다. 생성형 AI로 가장 큰 혜택을 보는 마케터들은 더 많은 콘텐츠를 생산하는 대신 신중한 판단력을 발휘한다. 양보다는 질적 접근이 생성형 AI 활용의 핵심이다.",
+    "summary_en": "Content marketers are frequently misusing generative AI according to recent analysis. The marketers who benefit most from generative AI don't produce more content but instead exercise strategic discretion. Quality over quantity represents the key to effective generative AI utilization.",
+    "so_what_ko": "D2C 브랜드는 생성형 AI를 단순한 콘텐츠 대량 생산 도구로 보지 말고, 전략적 콘텐츠 기획과 품질 향상을 위한 도구로 활용해야 한다.",
+    "so_what_en": "D2C brands should view generative AI not as a mass content production tool, but as a strategic planning and quality enhancement instrument.",
+    "key_points": [
+      "Many content marketers are misusing generative AI capabilities",
+      "Successful marketers focus on discretion rather than volume",
+      "Quality-focused approach yields better results than quantity-driven production",
+      "Strategic thinking remains crucial in AI-assisted content creation"
+    ],
+    "tags": [
+      "genai-content",
+      "marketing-strategy",
+      "content-quality",
+      "ai-misuse"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Practical Ecommerce"
+    ],
+    "one_line_insight_ko": "생성형 AI의 진정한 가치는 콘텐츠 양 증가가 아닌 전략적 판단력 향상에 있다.",
+    "one_line_insight_en": "The true value of generative AI lies not in content volume increase but in enhancing strategic judgment.",
+    "ai_processed": true
+  },
+  {
+    "title": "As Target, Walmart and Aldi embrace naturally-colored food, brands rush to meet demand",
+    "link": "https://www.modernretail.co/operations/as-target-walmart-and-aldi-embrace-naturally-colored-food-brands-rush-to-meet-demand/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-05-29",
+    "description": "Major retailers like Walmart and Target are removing artificial food dyes from their aisles, especially in products like cereals and frozen treats. This has been a boon for startups already carrying naturally-colored products in their respective categories.",
     "source_id": "modern_retail",
     "source_name": "Modern Retail",
     "source_url": "https://www.modernretail.co/feed/",
@@ -101,69 +104,73 @@
       "commerce",
       "strategy"
     ],
-    "relevance_score": 0.9,
+    "relevance_score": 0.4,
     "relevance_label": "high",
-    "title_en": "Walmart Emerges as Premium Brand Destination Beyond Low-Cost Reputation",
-    "summary_ko": "월마트가 저가 소매업체 이미지를 넘어 온라인에서 시작된 브랜드, 오프라인 진출이 처음인 브랜드, 고가 브랜드들에게 미국 전역으로 확장할 기회를 제공하는 플랫폼으로 진화했습니다. 이는 월마트가 프리미엄 브랜드들의 새로운 성장 동력이 되고 있음을 의미합니다. 특히 D2C 브랜드들의 오프라인 확장 전략에 중요한 변화를 나타냅니다.",
-    "summary_en": "Walmart has evolved beyond its low-cost retailer reputation to become a platform offering brands that started online, are new to physical retail, or sit at higher price points the opportunity to scale throughout the U.S. This represents Walmart becoming a new growth engine for premium brands. It particularly signifies an important shift in D2C brands' offline expansion strategies.",
-    "so_what_ko": "월마트의 프리미엄 브랜드 허브 전략은 LG D2C에게 새로운 유통 파트너십 기회와 브랜드 포지셔닝 전략 재고의 필요성을 시사합니다.",
-    "so_what_en": "Walmart's premium brand hub strategy presents LG D2C with new distribution partnership opportunities and the need to reconsider brand positioning strategies.",
+    "title_en": "Major Retailers Drive Natural Food Coloring Trend as Brands Rush to Adapt",
+    "summary_ko": "Target, Walmart, Aldi와 같은 주요 소매업체들이 자연 색소를 사용한 식품을 적극 도입하고 있다. 이들 업체는 시리얼과 냉동 디저트 등에서 인공 식품 색소를 제거하고 있으며, 이는 자연 색소 제품을 이미 보유한 스타트업들에게 기회가 되고 있다. 대형 리테일러들의 정책 변화가 시장 전체의 트렌드를 주도하고 있다.",
+    "summary_en": "Major retailers like Target, Walmart, and Aldi are actively embracing naturally-colored food products. These companies are removing artificial food dyes from products like cereals and frozen treats, creating opportunities for startups already carrying naturally-colored alternatives. Policy changes by major retailers are driving industry-wide trends.",
+    "so_what_ko": "D2C 식품 브랜드는 자연 원료 기반 제품 개발에 집중하고, 주요 리테일러들의 정책 변화를 기회로 활용해 유통 채널 확대를 추진해야 한다.",
+    "so_what_en": "D2C food brands should focus on natural ingredient-based product development and leverage major retailers' policy shifts to expand distribution channels.",
     "key_points": [
-      "Walmart evolving from low-cost to premium brand platform",
-      "Opportunity for online-native brands to scale offline",
-      "Strategic shift in retail positioning"
+      "Target, Walmart, and Aldi removing artificial dyes from food products",
+      "Focus on cereals and frozen treats categories",
+      "Opportunity for startups with naturally-colored product lines",
+      "Major retailer policies driving industry-wide transformation"
     ],
     "tags": [
-      "walmart",
-      "premium-brands",
-      "d2c-expansion",
-      "retail-evolution"
+      "natural-food",
+      "retail-trends",
+      "health-conscious",
+      "supply-chain"
     ],
-    "confidence": 0.8,
+    "confidence": 0.9,
     "strategic_theme": "RETAIL_TRANSFORMATION",
     "regions": [
       "AMER"
     ],
-    "business_impact": "HIGH",
+    "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Walmart"
+      "Target",
+      "Walmart",
+      "Aldi"
     ],
-    "one_line_insight_ko": "월마트의 프리미엄 브랜드 플랫폼 전환은 D2C 브랜드들의 대규모 오프라인 확장 전략을 재정의하고 있습니다.",
-    "one_line_insight_en": "Walmart's transformation into a premium brand platform is redefining large-scale offline expansion strategies for D2C brands.",
+    "one_line_insight_ko": "대형 리테일러의 자연 원료 정책이 D2C 식품 브랜드의 유통 확대 기회를 창출하고 있다.",
+    "one_line_insight_en": "Major retailers' natural ingredient policies are creating distribution expansion opportunities for D2C food brands.",
     "ai_processed": true
   },
   {
-    "title": "Bath & Body Works CEO: ‘We are in the early stages’ of transformation",
-    "link": "https://www.retaildive.com/news/bath-body-works-ceo-q1-earnings-early-stages-transformation/821207/",
-    "date_published": "2026-05-27",
-    "description": "The retailer reported that Q1 net sales dipped 3% year over year. Meanwhile, CFO Eva Boratto will step down from her role in June.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
+    "title": "Dick’s Sporting Goods brings sales growth back to Foot Locker in Q1",
+    "link": "https://www.digitalcommerce360.com/2026/05/28/dicks-sporting-goods-brings-sales-growth-back-to-foot-locker-in-q1/",
+    "date_published": "2026-05-28",
+    "description": "Dick’s Sporting Goods said its newly acquired Foot Locker business returned to comparable sales growth and profitability in Q1 — a sign that the retailer’s turnaround efforts are starting to take hold. For its fiscal quarter ended May 2, Dick’s reported a 6.0% increase in comparable sales for its namesake banner. During the same period, […]\nThe post Dick’s Sporting Goods brings sales growth back to Foot Locker in Q1 appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
     "categories": [
       "commerce",
       "strategy"
     ],
-    "relevance_score": 0.4,
+    "relevance_score": 0.3,
     "relevance_label": "high",
-    "title_en": "Bath & Body Works CEO Signals Early Stage Transformation Amid Q1 Sales Decline",
-    "summary_ko": "Bath & Body Works CEO가 회사가 '변화의 초기 단계'에 있다고 밝혔으며, 1분기 순매출이 전년 대비 3% 감소했다고 보고했습니다. CFO Eva Boratto는 6월에 사임할 예정입니다. 이는 소매업체가 현재 어려운 시기를 겪고 있으며 구조적 변화를 시도하고 있음을 나타냅니다.",
-    "summary_en": "Bath & Body Works CEO stated the company is in the 'early stages' of transformation, reporting Q1 net sales declined 3% year-over-year. CFO Eva Boratto will step down in June. This indicates the retailer is experiencing challenging times and attempting structural changes.",
-    "so_what_ko": "전통 소매업체의 변화 과정에서 나타나는 어려움은 LG D2C가 민첩한 디지털 전환과 고객 중심 전략의 중요성을 재확인시켜줍니다.",
-    "so_what_en": "The difficulties traditional retailers face during transformation reaffirm the importance of agile digital transformation and customer-centric strategies for LG D2C.",
+    "title_en": "Dick's Sporting Goods Foot Locker Acquisition Shows Q1 Turnaround Success",
+    "summary_ko": "Dick's Sporting Goods가 인수한 Foot Locker 사업이 1분기에 매출 성장과 수익성을 회복했다고 발표했다. 이는 소매업체의 턴어라운드 노력이 효과를 보이기 시작한다는 신호다. Dick's의 자사 브랜드는 1분기 동안 6.0%의 동일매장 매출 증가를 기록했다.",
+    "summary_en": "Dick's Sporting Goods reported that its newly acquired Foot Locker business returned to comparable sales growth and profitability in Q1. This signals that the retailer's turnaround efforts are beginning to show results. Dick's namesake banner achieved 6.0% comparable sales growth during the first quarter.",
+    "so_what_ko": "성공적인 M&A 통합과 턴어라운드 전략이 스포츠 리테일 분야에서 실질적 성과를 보여주고 있어, D2C 브랜드의 채널 파트너십 전략 수립에 참고할 수 있다.",
+    "so_what_en": "Successful M&A integration and turnaround strategies in sports retail demonstrate practical results, providing insights for D2C brands' channel partnership strategies.",
     "key_points": [
-      "Q1 sales declined 3% year-over-year",
-      "Company in early stages of transformation",
-      "Leadership changes with CFO departure"
+      "Foot Locker returns to sales growth under Dick's ownership",
+      "6.0% comparable sales increase for Dick's namesake banner",
+      "Turnaround efforts showing measurable results in Q1",
+      "Demonstrates successful retail acquisition integration"
     ],
     "tags": [
-      "retail-transformation",
-      "financial-performance",
-      "leadership-change",
-      "beauty-retail"
+      "retail-ma",
+      "turnaround-strategy",
+      "sports-retail",
+      "sales-growth"
     ],
-    "confidence": 0.7,
+    "confidence": 0.9,
     "strategic_theme": "RETAIL_TRANSFORMATION",
     "regions": [
       "AMER"
@@ -171,481 +178,309 @@
     "business_impact": "LOW",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "Bath & Body Works",
-      "Eva Boratto"
+      "Dick's Sporting Goods",
+      "Foot Locker"
     ],
-    "one_line_insight_ko": "전통 소매업체들의 디지털 변화 과정에서 겪는 어려움이 D2C 모델의 경쟁 우위를 부각시키고 있습니다.",
-    "one_line_insight_en": "Traditional retailers' struggles during digital transformation highlight the competitive advantages of the D2C model.",
+    "one_line_insight_ko": "스포츠 리테일 분야의 성공적인 M&A 통합이 업계 재편의 새로운 모델을 제시하고 있다.",
+    "one_line_insight_en": "Successful M&A integration in sports retail presents a new model for industry transformation.",
     "ai_processed": true
   },
   {
-    "title": "Walmart operations execs latest to leave amid leadership shakeup",
-    "link": "https://www.retaildive.com/news/walmart-operations-executives-leave-leadership-shakeup/821178/",
-    "date_published": "2026-05-27",
-    "description": "John Furner has been reshaping his team since taking over from Doug McMillon as the retail giant’s chief executive earlier this year.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "strategy"
-    ],
-    "relevance_score": 0.3,
-    "relevance_label": "high",
-    "title_en": "Walmart Operations Executives Depart as CEO John Furner Reshapes Leadership Team",
-    "summary_ko": "John Furner가 올해 초 Doug McMillon을 이어 CEO로 취임한 이후 팀을 재편하면서 월마트의 운영 임원들이 잇따라 퇴사하고 있습니다. 이는 소매 대기업의 리더십 개편이 진행 중임을 보여줍니다. 새로운 CEO의 비전에 맞는 조직 구조 변화가 이루어지고 있는 상황입니다.",
-    "summary_en": "Walmart operations executives are departing as John Furner reshapes his team since taking over as CEO from Doug McMillon earlier this year. This shows ongoing leadership restructuring at the retail giant. Organizational changes are being implemented to align with the new CEO's vision.",
-    "so_what_ko": "월마트의 리더십 변화는 소매업계의 전략적 방향 전환을 시사하며, LG D2C는 이러한 변화가 파트너십과 시장 경쟁에 미칠 영향을 모니터링해야 합니다.",
-    "so_what_en": "Walmart's leadership changes signal strategic direction shifts in retail, requiring LG D2C to monitor impacts on partnerships and market competition.",
-    "key_points": [
-      "Operations executives leaving amid leadership shakeup",
-      "John Furner reshaping team as new CEO",
-      "Organizational restructuring in progress"
-    ],
-    "tags": [
-      "walmart",
-      "leadership-change",
-      "executive-departure",
-      "corporate-restructuring"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Walmart",
-      "John Furner",
-      "Doug McMillon"
-    ],
-    "one_line_insight_ko": "주요 소매업체의 리더십 변화는 업계 전반의 전략적 우선순위 재정립을 반영하고 있습니다.",
-    "one_line_insight_en": "Leadership changes at major retailers reflect industry-wide strategic priority realignments.",
-    "ai_processed": true
-  },
-  {
-    "title": "Target, Walmart vie for beauty customers",
-    "link": "https://www.retaildive.com/news/target-walmart-beauty-customers-q1/820890/",
-    "date_published": "2026-05-27",
-    "description": "The retailers are investing in ways to court beauty consumers away from specialty retailers, trying new staffing models and remixing the merchandising assortment.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "commerce"
-    ],
-    "relevance_score": 0.3,
-    "relevance_label": "high",
-    "title_en": "Target and Walmart Compete Fiercely for Beauty Market Share",
-    "summary_ko": "타겟과 월마트가 뷰티 소비자를 두고 경쟁을 벌이고 있습니다. 두 리테일러는 전문 뷰티 매장으로부터 고객을 유치하기 위해 투자를 확대하고 있습니다. 새로운 직원 배치 모델과 상품 구성 전략을 시도하고 있습니다.",
-    "summary_en": "Target and Walmart are competing intensely for beauty customers. The retailers are investing in ways to attract consumers away from specialty beauty retailers. They are experimenting with new staffing models and merchandise assortment strategies.",
-    "so_what_ko": "대형 리테일러들이 뷰티 카테고리에서 전문점을 위협하고 있어, D2C 뷰티 브랜드는 차별화된 고객 경험과 독특한 제품 포지셔닝이 필요합니다.",
-    "so_what_en": "As major retailers challenge beauty specialists, D2C beauty brands need differentiated customer experiences and unique product positioning to compete effectively.",
-    "key_points": [
-      "Target and Walmart investing heavily in beauty customer acquisition",
-      "New staffing models being tested to enhance customer service",
-      "Merchandise assortment strategies being remixed to attract consumers"
-    ],
-    "tags": [
-      "retail-competition",
-      "beauty-market",
-      "merchandising-strategy"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "Target",
-      "Walmart"
-    ],
-    "one_line_insight_ko": "대형 리테일러들의 뷰티 시장 공략이 가속화되면서 D2C 브랜드의 차별화 전략이 더욱 중요해지고 있습니다.",
-    "one_line_insight_en": "Major retailers' aggressive beauty market expansion makes differentiation strategies increasingly critical for D2C brands.",
-    "ai_processed": true
-  },
-  {
-    "title": "Alibaba integrates PicCopilot with Google Ads, eyeing conversion for ecommerce",
-    "link": "https://www.digitalcommerce360.com/2026/05/27/alibaba-integrates-piccopilot-with-google-ads-eyeing-conversion-for-ecommerce/",
-    "date_published": "2026-05-27",
-    "description": "Alibaba’s PicCopilot platform expanded its capabilities for generating Google display ads, using a new integration launched with ecommerce conversion in mind. The new PicCopilot integration for Good Ads is targeted toward small- and medium-sized ecommerce operators, according to Alibaba. It will offer users a workflow for assembling ads within PicCopilot that are tailored for Good […]\nThe post Alibaba integrates PicCopilot with Google Ads, eyeing conversion for ecommerce appeared first on Digital Commerce 360.",
+    "title": "Ecommerce Trends: Which retailers could lower prices after tariff refunds",
+    "link": "https://www.digitalcommerce360.com/2026/05/28/ecommerce-trends-which-retailers-could-lower-prices-after-tariff-refunds/",
+    "date_published": "2026-05-28",
+    "description": "Throughout 2025 and 2026, retailers have adjusted projections, supply chain strategies and pricing as tariffs fluctuated — and now, as some of the biggest names in online retail pursue tariff refunds, some merchants are considering lower prices as a next step. What is already clear is that tariff refunds are beginning to flow in the […]\nThe post Ecommerce Trends: Which retailers could lower prices after tariff refunds appeared first on Digital Commerce 360.",
     "source_id": "digital_commerce_360",
     "source_name": "Digital Commerce 360",
     "source_url": "https://www.digitalcommerce360.com/feed",
     "categories": [
-      "ai_marketing",
-      "commerce"
-    ],
-    "relevance_score": 0.9,
-    "relevance_label": "high",
-    "title_en": "Alibaba Integrates PicCopilot with Google Ads for Enhanced Ecommerce Conversion",
-    "summary_ko": "알리바바가 PicCopilot 플랫폼을 구글 광고와 통합하여 전자상거래 전환율 향상을 목표로 하고 있습니다. 이 새로운 통합 서비스는 중소 전자상거래 운영업체를 대상으로 합니다. 구글 디스플레이 광고 생성 기능이 확장되었습니다.",
-    "summary_en": "Alibaba integrated its PicCopilot platform with Google Ads targeting improved ecommerce conversion rates. The new integration targets small and medium-sized ecommerce operators. The platform expanded its capabilities for generating Google display ads.",
-    "so_what_ko": "AI 기반 광고 생성 도구가 중소 전자상거래 업체에게도 접근 가능해지면서, D2C 브랜드들은 AI 광고 자동화 도구 활용을 통해 마케팅 효율성을 높일 수 있습니다.",
-    "so_what_en": "As AI-powered ad generation tools become accessible to SMEs, D2C brands can leverage AI advertising automation to improve marketing efficiency and conversion rates.",
-    "key_points": [
-      "PicCopilot integrated with Google Ads for automated ad generation",
-      "Targeting small and medium-sized ecommerce operators",
-      "Focus on improving ecommerce conversion rates through AI-powered advertising"
-    ],
-    "tags": [
-      "ai-advertising",
-      "google-ads",
-      "ecommerce-automation"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Alibaba",
-      "PicCopilot",
-      "Google Ads"
-    ],
-    "one_line_insight_ko": "AI 광고 생성 도구의 대중화로 중소 D2C 브랜드도 고급 마케팅 자동화 혜택을 누릴 수 있게 되었습니다.",
-    "one_line_insight_en": "Democratization of AI ad generation tools enables SME D2C brands to access advanced marketing automation benefits.",
-    "ai_processed": true
-  },
-  {
-    "title": "74% of Professionals Call AI Essential But Their Companies Lag Behind",
-    "link": "https://www.marketingaiinstitute.com/blog/ai-b2b-marketers-summit-adoption",
-    "date_published": "2026-05-27",
-    "description": "There's a moment in every technology cycle when a tool stops being a competitive edge and starts becoming essential to work. For AI in B2B marketing, that time has arrived.",
-    "source_id": "marketing_ai_institute",
-    "source_name": "Marketing AI Institute",
-    "source_url": "https://www.marketingaiinstitute.com/blog/rss.xml",
-    "categories": [
-      "ai_marketing",
+      "commerce",
       "strategy"
     ],
-    "relevance_score": 0.8,
+    "relevance_score": 0.4,
     "relevance_label": "high",
-    "title_en": "74% of Professionals Consider AI Essential Despite Company Implementation Gaps",
-    "summary_ko": "전문가의 74%가 AI를 필수적이라고 여기지만 기업들의 도입은 뒤처지고 있습니다. B2B 마케팅에서 AI는 경쟁 우위가 아닌 업무 필수 요소가 되었습니다. 기술 주기에서 AI가 필수 도구로 자리잡는 시점에 도달했습니다.",
-    "summary_en": "74% of professionals consider AI essential, but company adoption lags behind. AI in B2B marketing has moved from competitive edge to essential work tool. The technology has reached the point where it becomes necessary rather than optional.",
-    "so_what_ko": "AI가 선택이 아닌 필수가 되면서, D2C 기업들은 AI 도입을 가속화하고 조직 전반의 AI 역량 강화에 투자해야 합니다.",
-    "so_what_en": "As AI becomes essential rather than optional, D2C companies must accelerate AI adoption and invest in organization-wide AI capability building.",
+    "title_en": "Retailers Consider Price Reductions Following Tariff Refund Opportunities",
+    "summary_ko": "2025년과 2026년 동안 소매업체들은 관세 변동에 따라 예측, 공급망 전략, 가격책정을 조정해왔다. 현재 온라인 소매의 주요 업체들이 관세 환급을 추진하면서 일부 상인들은 가격 인하를 다음 단계로 고려하고 있다. 관세 환급이 이미 시작되고 있는 상황이다.",
+    "summary_en": "Throughout 2025 and 2026, retailers have adjusted projections, supply chain strategies and pricing as tariffs fluctuated. Now, as major online retail names pursue tariff refunds, some merchants are considering price reductions as their next step. Tariff refunds are already beginning to flow.",
+    "so_what_ko": "관세 환급으로 인한 비용 절감 효과를 고객 가격 인하로 전환하는 전략을 고려하여 D2C 브랜드의 가격 경쟁력을 강화할 기회를 활용해야 한다.",
+    "so_what_en": "D2C brands should leverage opportunities to enhance price competitiveness by considering strategies that convert cost savings from tariff refunds into customer price reductions.",
     "key_points": [
-      "74% of professionals view AI as essential for their work",
-      "Company implementation significantly lags behind professional recognition",
-      "AI has transitioned from competitive advantage to essential tool in B2B marketing"
+      "Retailers adjusted strategies throughout 2025-2026 due to tariff fluctuations",
+      "Major online retailers pursuing tariff refunds",
+      "Some merchants considering price reductions as next step",
+      "Tariff refunds already beginning to materialize"
     ],
     "tags": [
-      "ai-adoption",
-      "b2b-marketing",
-      "organizational-change"
+      "tariff-refunds",
+      "pricing-strategy",
+      "supply-chain",
+      "cost-reduction"
     ],
     "confidence": 0.8,
-    "strategic_theme": "AI_MARKETING",
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
     "regions": [
-      "GLOBAL"
+      "AMER"
     ],
-    "business_impact": "HIGH",
+    "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Marketing AI Institute"
+      "Digital Commerce 360"
     ],
-    "one_line_insight_ko": "AI가 선택사항에서 필수사항으로 전환되는 시점에서 기업의 빠른 AI 도입이 경쟁력 유지의 핵심이 되었습니다.",
-    "one_line_insight_en": "As AI transitions from optional to essential, rapid corporate AI adoption becomes critical for maintaining competitiveness.",
+    "one_line_insight_ko": "관세 환급이 소매업계의 새로운 가격 경쟁 사이클을 촉발할 가능성이 높다.",
+    "one_line_insight_en": "Tariff refunds are likely to trigger a new price competition cycle in the retail industry.",
     "ai_processed": true
   },
   {
-    "title": "The role of citations in AEO: Why citations matter more than backlinks for AI visibility",
-    "link": "https://blog.hubspot.com/marketing/citations-in-aeo",
-    "date_published": "2026-05-27",
-    "description": "For years, the SEO playbook was straightforward: earn backlinks, climb rankings, capture clicks. But as AI reshapes how traditional SEO works, a different mechanism is determining which content gets seen — and it’s not backlinks. It’s citations. The role of citations in AEO is fundamentally different from link-building: instead of other publishers vouching for your page, AI answer engines are selecting your content as the direct source behind their generated answers.",
-    "source_id": "hubspot_marketing",
-    "source_name": "HubSpot Marketing Blog",
-    "source_url": "https://blog.hubspot.com/marketing/rss.xml",
-    "categories": [
-      "ai_marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.9,
-    "relevance_label": "high",
-    "title_en": "Citations Overtake Backlinks as Key Factor for AI Search Visibility",
-    "summary_ko": "AI 답변 엔진에서는 백링크보다 인용이 더 중요한 역할을 하고 있습니다. AI가 전통적인 SEO 작동 방식을 바꾸면서 새로운 메커니즘이 콘텐츠 노출을 결정합니다. AI 답변 엔진은 생성된 답변의 직접적인 소스로 콘텐츠를 선택합니다.",
-    "summary_en": "Citations matter more than backlinks for AI answer engine visibility. As AI reshapes traditional SEO, a different mechanism determines content visibility. AI answer engines select content as direct sources for their generated answers.",
-    "so_what_ko": "AI 검색 최적화(AEO)에서는 백링크 구축보다 인용 가능한 권위적 콘텐츠 제작이 핵심이므로, D2C 브랜드는 콘텐츠 전략을 재조정해야 합니다.",
-    "so_what_en": "AEO prioritizes citable authoritative content over link-building, requiring D2C brands to refocus content strategies on becoming trusted information sources.",
-    "key_points": [
-      "Citations becoming more important than backlinks for AI visibility",
-      "AI answer engines select content as direct sources for responses",
-      "Traditional SEO playbook needs updating for AI-driven search landscape"
-    ],
-    "tags": [
-      "aeo-optimization",
-      "ai-search",
-      "content-strategy"
-    ],
-    "confidence": 0.9,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "HubSpot",
-      "AEO"
-    ],
-    "one_line_insight_ko": "AI 검색 환경에서는 링크 구축보다 인용 가능한 권위적 콘텐츠 제작이 가시성 확보의 핵심 전략이 되었습니다.",
-    "one_line_insight_en": "In the AI search landscape, creating citable authoritative content has become more critical than link-building for visibility.",
-    "ai_processed": true
-  },
-  {
-    "title": "Oreo teams with K-pop supergroup BTS for global campaign",
-    "link": "https://www.marketingdive.com/news/oreo-teams-with-k-pop-supergroup-bts-for-global-campaign/821189/",
-    "date_published": "2026-05-27",
-    "description": "Spanning over 80 countries, the effort incorporates key parts of K-pop fan culture.",
+    "title": "How Chipotle’s rewards relaunch extends reach of its marketing flywheel",
+    "link": "https://www.marketingdive.com/news/how-chipotles-rewards-relaunch-extends-reach-of-marketing-flywheel/821300/",
+    "date_published": "2026-05-28",
+    "description": "Curt Garner, chief strategy and technology officer at the chain, explains how a “Summer of Extras” effort builds on and gamifies its rewards program.",
     "source_id": "marketing_dive",
     "source_name": "Marketing Dive",
     "source_url": "https://www.marketingdive.com/feeds/news/",
     "categories": [
       "marketing"
     ],
-    "relevance_score": 0.4,
+    "relevance_score": 0.6,
     "relevance_label": "high",
-    "title_en": "Oreo Partners with BTS for Global K-pop Inspired Campaign",
-    "summary_ko": "오레오가 K-pop 슈퍼그룹 BTS와 협력하여 글로벌 캠페인을 진행합니다. 이 캠페인은 80개 이상의 국가에 걸쳐 진행됩니다. K-pop 팬 문화의 핵심 요소들이 캠페인에 반영되었습니다.",
-    "summary_en": "Oreo teams up with K-pop supergroup BTS for a global marketing campaign. The campaign spans over 80 countries worldwide. Key elements of K-pop fan culture are incorporated into the effort.",
-    "so_what_ko": "글로벌 브랜드들이 K-pop과 협력하여 팬 문화를 활용하는 사례가 증가하고 있어, D2C 브랜드들도 문화적 트렌드와 팬덤을 마케팅에 적극 활용할 필요가 있습니다.",
-    "so_what_en": "As global brands leverage K-pop partnerships and fan culture, D2C brands should actively incorporate cultural trends and fandom elements into their marketing strategies.",
+    "title_en": "Chipotle's rewards relaunch extends reach of its marketing flywheel",
+    "summary_ko": "치폴레가 보상 프로그램을 재출시하며 마케팅 플라이휠의 도달 범위를 확장했습니다. 'Summer of Extras' 캠페인을 통해 보상 프로그램을 게임화하고 있습니다. 최고 전략 기술 책임자가 이러한 노력에 대해 설명했습니다.",
+    "summary_en": "Chipotle relaunched its rewards program to extend the reach of its marketing flywheel. The company is gamifying its rewards program through a 'Summer of Extras' effort. The chief strategy and technology officer explained these initiatives.",
+    "so_what_ko": "LG D2C는 치폴레의 게임화된 보상 프로그램 전략을 벤치마킹하여 고객 충성도와 마케팅 효율성을 높일 수 있습니다.",
+    "so_what_en": "LG D2C can benchmark Chipotle's gamified rewards program strategy to enhance customer loyalty and marketing effectiveness.",
     "key_points": [
-      "Oreo partners with BTS for global campaign spanning 80+ countries",
-      "Campaign incorporates key elements of K-pop fan culture",
-      "Demonstrates power of cultural collaboration in global marketing"
+      "Chipotle relaunched its rewards program with enhanced features",
+      "Summer of Extras campaign gamifies the loyalty experience",
+      "Marketing flywheel approach extends customer engagement reach"
     ],
     "tags": [
-      "global-campaign",
-      "k-pop-marketing",
-      "fan-culture"
+      "loyalty-programs",
+      "gamification",
+      "customer-retention",
+      "marketing-flywheel"
     ],
     "confidence": 0.7,
     "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Chipotle",
+      "Curt Garner"
+    ],
+    "one_line_insight_ko": "게임화된 보상 프로그램은 마케팅 플라이휠을 통해 고객 참여를 확장하는 효과적인 전략입니다.",
+    "one_line_insight_en": "Gamified rewards programs effectively extend customer engagement through marketing flywheel strategies.",
+    "ai_processed": true
+  },
+  {
+    "title": "OpenAI turns on cost-per-action ads inside ChatGPT",
+    "link": "https://digiday.com/marketing/openai-turns-on-cost-per-action-ads-inside-chatgpt/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-05-28",
+    "description": "Cost-per-action (CPA) is the first real sign that the platform is now embracing performance advertising.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "ai_marketing"
+    ],
+    "relevance_score": 0.9,
+    "relevance_label": "high",
+    "title_en": "OpenAI turns on cost-per-action ads inside ChatGPT",
+    "summary_ko": "OpenAI가 ChatGPT 내에서 성과 기반 CPA 광고를 도입했습니다. 이는 플랫폼이 성과 광고를 본격 수용한다는 첫 번째 실질적 신호입니다. ChatGPT의 광고 모델이 전통적인 디스플레이 광고에서 성과 중심으로 전환되고 있습니다.",
+    "summary_en": "OpenAI introduced cost-per-action advertising inside ChatGPT. This represents the first real sign that the platform is embracing performance advertising. ChatGPT's advertising model is shifting from traditional display ads to performance-based approaches.",
+    "so_what_ko": "LG D2C는 ChatGPT의 CPA 광고를 활용하여 AI 네이티브 환경에서 성과 기반 마케팅 전략을 개발해야 합니다.",
+    "so_what_en": "LG D2C should leverage ChatGPT's CPA advertising to develop performance-based marketing strategies in AI-native environments.",
+    "key_points": [
+      "OpenAI launched cost-per-action advertising within ChatGPT",
+      "Marks platform's shift toward performance advertising",
+      "Creates new opportunities for AI-native marketing campaigns"
+    ],
+    "tags": [
+      "cost-per-action",
+      "chatgpt",
+      "performance-advertising",
+      "ai-native-ads"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "OpenAI",
+      "ChatGPT"
+    ],
+    "one_line_insight_ko": "ChatGPT의 CPA 광고 도입은 AI 네이티브 성과 마케팅 시대의 시작을 알립니다.",
+    "one_line_insight_en": "ChatGPT's CPA advertising launch signals the beginning of the AI-native performance marketing era.",
+    "ai_processed": true
+  },
+  {
+    "title": "AI is not the skill email marketers need most",
+    "link": "https://martech.org/ai-is-not-the-skill-email-marketers-need-most/",
+    "date_published": "2026-05-28",
+    "description": "The most valuable email marketers know how to apply AI across automation, personalization, analytics, testing, and customer journeys.\nThe post AI is not the skill email marketers need most appeared first on MarTech.",
+    "source_id": "martech_org",
+    "source_name": "MarTech.org",
+    "source_url": "https://martech.org/feed",
+    "categories": [
+      "ai_marketing"
+    ],
+    "relevance_score": 0.7,
+    "relevance_label": "high",
+    "title_en": "AI is not the skill email marketers need most",
+    "summary_ko": "이메일 마케터에게 가장 중요한 스킬은 AI 자체가 아닙니다. 가장 가치 있는 이메일 마케터는 자동화, 개인화, 분석, 테스트, 고객 여정에 걸쳐 AI를 적용하는 방법을 알고 있습니다. AI 기술보다는 AI를 전략적으로 활용하는 능력이 핵심입니다.",
+    "summary_en": "AI itself is not the most important skill email marketers need. The most valuable email marketers know how to apply AI across automation, personalization, analytics, testing, and customer journeys. Strategic AI application skills are more important than technical AI knowledge.",
+    "so_what_ko": "LG D2C 마케터들은 AI 기술 자체보다는 이메일 마케팅 전반에서 AI를 전략적으로 활용하는 역량 개발에 집중해야 합니다.",
+    "so_what_en": "LG D2C marketers should focus on developing strategic AI application capabilities across email marketing rather than technical AI skills.",
+    "key_points": [
+      "AI technical skills are less important than strategic application",
+      "Valuable marketers apply AI across automation, personalization, and analytics",
+      "Customer journey optimization with AI is the key differentiator"
+    ],
+    "tags": [
+      "email-marketing",
+      "ai-strategy",
+      "marketing-automation",
+      "personalization"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "AI_MARKETING",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Oreo",
-      "BTS"
+      "MarTech"
     ],
-    "one_line_insight_ko": "K-pop과 팬 문화를 활용한 글로벌 마케팅이 문화적 연결을 통한 브랜드 확장의 새로운 모델을 제시하고 있습니다.",
-    "one_line_insight_en": "K-pop and fan culture collaborations present a new model for global brand expansion through cultural connections.",
+    "one_line_insight_ko": "AI 기술보다는 마케팅 전략에 AI를 효과적으로 적용하는 능력이 더 중요합니다.",
+    "one_line_insight_en": "Strategic AI application in marketing strategy is more valuable than technical AI skills.",
     "ai_processed": true
   },
   {
-    "title": "AI won’t save a broken organization",
-    "link": "https://martech.org/ai-wont-save-a-broken-organization/",
-    "date_published": "2026-05-27",
-    "description": "There was an opportunity for marketing teams to harness AI and change the way they work, and Ryan Warren, chief CRM officer at Razorfish, says many missed it.\nThe post AI won’t save a broken organization appeared first on MarTech.",
+    "title": "AI agents are exposing martech’s weak point",
+    "link": "https://martech.org/ai-agents-are-exposing-martechs-weak-point/",
+    "date_published": "2026-05-28",
+    "description": "A new API report card reveals major gaps in the systems marketers depend on for automation and AI workflows.\nThe post AI agents are exposing martech’s weak point appeared first on MarTech.",
     "source_id": "martech_org",
     "source_name": "MarTech.org",
     "source_url": "https://martech.org/feed",
     "categories": [
-      "marketing",
-      "strategy"
+      "ai_marketing",
+      "tech"
     ],
     "relevance_score": 0.8,
     "relevance_label": "high",
-    "title_en": "AI Won't Save a Broken Organization, Marketing Teams Must Transform First",
-    "summary_ko": "마케팅 팀이 AI를 활용해 업무 방식을 바꿀 기회가 있었으나 많은 조직이 이를 놓쳤다고 Razorfish의 Ryan Warren이 지적했습니다. 조직이 근본적으로 문제가 있다면 AI 도입만으로는 해결되지 않습니다. 마케팅 조직의 구조적 변화가 AI 활용의 전제조건임을 강조했습니다.",
-    "summary_en": "Marketing teams had an opportunity to harness AI and change their work methods, but many organizations missed it according to Ryan Warren from Razorfish. AI implementation alone cannot fix fundamentally broken organizations. Structural organizational transformation must precede successful AI adoption in marketing.",
-    "so_what_ko": "LG D2C는 AI 마케팅 도구 도입 전에 조직 구조와 프로세스를 점검하고 개선해야 합니다.",
-    "so_what_en": "LG D2C must assess and improve organizational structure and processes before implementing AI marketing tools.",
+    "title_en": "AI agents are exposing martech's weak point",
+    "summary_ko": "AI 에이전트가 마케팅 기술의 약점을 노출시키고 있습니다. 새로운 API 리포트에 따르면 마케터들이 자동화와 AI 워크플로우를 위해 의존하는 시스템에 주요 격차가 있습니다. 마케팅 기술 스택의 통합과 호환성 문제가 드러나고 있습니다.",
+    "summary_en": "AI agents are exposing weak points in marketing technology. A new API report reveals major gaps in systems that marketers depend on for automation and AI workflows. Integration and compatibility issues in martech stacks are becoming apparent.",
+    "so_what_ko": "LG D2C는 AI 에이전트 도입 전에 마케팅 기술 스택의 API 호환성과 통합 능력을 점검하고 보완해야 합니다.",
+    "so_what_en": "LG D2C must assess and improve API compatibility and integration capabilities in their martech stack before implementing AI agents.",
     "key_points": [
-      "Many marketing teams missed the opportunity to properly integrate AI",
-      "Broken organizational structures prevent effective AI adoption",
-      "Organizational transformation must precede AI implementation"
+      "AI agents reveal gaps in martech system integration",
+      "API compatibility issues hinder automation workflows",
+      "Martech infrastructure needs strengthening for AI adoption"
     ],
     "tags": [
-      "ai-marketing",
-      "organizational-change",
-      "martech-transformation"
+      "ai-agents",
+      "martech-stack",
+      "api-integration",
+      "automation-workflow"
     ],
-    "confidence": 0.7,
+    "confidence": 0.8,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "MarTech",
+      "AI agents"
+    ],
+    "one_line_insight_ko": "AI 에이전트는 기존 마케팅 기술 스택의 통합 약점을 드러내는 리트머스 테스트입니다.",
+    "one_line_insight_en": "AI agents serve as a litmus test exposing integration weaknesses in existing martech stacks.",
+    "ai_processed": true
+  },
+  {
+    "title": "3 things you must know to get AI-native advertising right",
+    "link": "https://martech.org/3-things-you-must-know-to-get-ai-native-advertising-right/",
+    "date_published": "2026-05-28",
+    "description": "Conversational AI is reshaping advertising through real-time recommendations, dynamic creative, and autonomous optimization.\nThe post 3 things you must know to get AI-native advertising right appeared first on MarTech.",
+    "source_id": "martech_org",
+    "source_name": "MarTech.org",
+    "source_url": "https://martech.org/feed",
+    "categories": [
+      "ai_marketing"
+    ],
+    "relevance_score": 0.9,
+    "relevance_label": "high",
+    "title_en": "3 things you must know to get AI-native advertising right",
+    "summary_ko": "AI 네이티브 광고를 제대로 구현하기 위해 알아야 할 3가지 요소가 있습니다. 대화형 AI는 실시간 추천, 동적 크리에이티브, 자율 최적화를 통해 광고를 재편하고 있습니다. AI 네이티브 광고의 핵심 성공 요소들이 제시되었습니다.",
+    "summary_en": "There are three essential elements to know for implementing AI-native advertising correctly. Conversational AI is reshaping advertising through real-time recommendations, dynamic creative, and autonomous optimization. Key success factors for AI-native advertising have been identified.",
+    "so_what_ko": "LG D2C는 실시간 추천, 동적 크리에이티브, 자율 최적화 기능을 갖춘 AI 네이티브 광고 전략을 개발해야 합니다.",
+    "so_what_en": "LG D2C should develop AI-native advertising strategies featuring real-time recommendations, dynamic creative, and autonomous optimization.",
+    "key_points": [
+      "Real-time recommendations enhance advertising relevance",
+      "Dynamic creative adapts to user interactions automatically",
+      "Autonomous optimization improves campaign performance continuously"
+    ],
+    "tags": [
+      "ai-native-advertising",
+      "conversational-ai",
+      "dynamic-creative",
+      "autonomous-optimization"
+    ],
+    "confidence": 0.8,
     "strategic_theme": "AI_MARKETING",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "HIGH",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "Razorfish",
-      "Ryan Warren"
-    ],
-    "one_line_insight_ko": "AI 마케팅 성공을 위해서는 기술 도입보다 조직 혁신이 우선되어야 합니다.",
-    "one_line_insight_en": "Organizational transformation must precede technology adoption for successful AI marketing implementation.",
-    "ai_processed": true
-  },
-  {
-    "title": "The 5 myths of marketing leverage",
-    "link": "https://martech.org/the-5-myths-of-marketing-leverage/",
-    "date_published": "2026-05-27",
-    "description": "Most marketing activity creates attention. The campaigns that earn trust and action are built on genuine customer understanding.\nThe post The 5 myths of marketing leverage appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
-    "categories": [
-      "marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.6,
-    "relevance_label": "high",
-    "title_en": "Five Marketing Leverage Myths That Undermine Customer Trust and Action",
-    "summary_ko": "대부분의 마케팅 활동은 단순히 주목을 끌 뿐이며, 신뢰와 행동을 이끌어내는 캠페인은 진정한 고객 이해에 기반해야 합니다. 마케팅 레버리지에 대한 5가지 잘못된 믿음이 효과를 저해하고 있습니다. 고객에 대한 깊은 이해가 성공적인 마케팅의 핵심입니다.",
-    "summary_en": "Most marketing activities only create attention, while campaigns that earn trust and action are built on genuine customer understanding. Five common myths about marketing leverage are undermining campaign effectiveness. Deep customer understanding is the foundation of successful marketing campaigns.",
-    "so_what_ko": "LG D2C는 마케팅 레버리지 전략을 재검토하고 고객 이해 중심의 접근법을 강화해야 합니다.",
-    "so_what_en": "LG D2C should review marketing leverage strategies and strengthen customer-understanding-centered approaches.",
-    "key_points": [
-      "Marketing attention does not equal customer action",
-      "Five myths about marketing leverage undermine effectiveness",
-      "Genuine customer understanding drives successful campaigns"
-    ],
-    "tags": [
-      "customer-understanding",
-      "marketing-leverage",
-      "campaign-effectiveness"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
+    "sentiment": "OPPORTUNITY",
     "key_entities": [
       "MarTech"
     ],
-    "one_line_insight_ko": "마케팅 성공은 주목이 아닌 고객에 대한 진정한 이해에서 나옵니다.",
-    "one_line_insight_en": "Marketing success comes from genuine customer understanding, not just attention-grabbing tactics.",
+    "one_line_insight_ko": "AI 네이티브 광고는 실시간성, 동적 적응성, 자율성을 통해 전통적 광고 패러다임을 변화시킵니다.",
+    "one_line_insight_en": "AI-native advertising transforms traditional advertising paradigms through real-time responsiveness, dynamic adaptability, and autonomy.",
     "ai_processed": true
   },
   {
-    "title": "IAB Tech Lab tackles the growing AI bot problem",
-    "link": "https://martech.org/iab-tech-lab-tackles-the-growing-ai-bot-problem/",
-    "date_published": "2026-05-27",
-    "description": "New guidance from IAB Tech Lab aims to help publishers and content owners decide how to manage AI crawlers, bots, and other non-human traffic.\nThe post IAB Tech Lab tackles the growing AI bot problem appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
+    "title": "Marketplace Briefing: Why Amazon is selling its AI-powered shopping tools to other retailers",
+    "link": "https://www.modernretail.co/technology/marketplace-briefing-why-amazon-is-selling-its-ai-powered-shopping-tools-to-other-retailers/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-05-28",
+    "description": "Amazon is starting to sell the technology behind its AI shopping assistant to other retailers, as the e-commerce giant looks to become a bigger player in the fast-growing market for AI-powered shopping tools.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
     "categories": [
+      "commerce",
       "tech",
-      "marketing"
-    ],
-    "relevance_score": 0.7,
-    "relevance_label": "high",
-    "title_en": "IAB Tech Lab Addresses Growing AI Bot Traffic Management Challenge",
-    "summary_ko": "IAB Tech Lab이 AI 크롤러, 봇 및 기타 비인간 트래픽을 관리하는 방법에 대한 새로운 가이드라인을 발표했습니다. 출판사와 콘텐츠 소유자들이 AI 봇 문제에 대응할 수 있도록 지원하는 것이 목표입니다. AI 봇 트래픽 증가로 인한 업계 차원의 대응이 필요한 상황입니다.",
-    "summary_en": "IAB Tech Lab released new guidance to help publishers and content owners manage AI crawlers, bots, and other non-human traffic. The initiative aims to support industry response to the growing AI bot problem. Industry-wide coordination is needed to address increasing AI bot traffic challenges.",
-    "so_what_ko": "LG D2C는 자사 디지털 자산에 대한 AI 봇 관리 정책을 수립하고 브랜드 보호 전략을 강화해야 합니다.",
-    "so_what_en": "LG D2C should establish AI bot management policies for digital assets and strengthen brand protection strategies.",
-    "key_points": [
-      "New IAB Tech Lab guidance for AI bot management",
-      "Growing challenge of AI crawler and bot traffic",
-      "Industry-wide coordination needed for effective response"
-    ],
-    "tags": [
-      "ai-bots",
-      "content-management",
-      "digital-protection"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "DATA_STRATEGY",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "IAB Tech Lab"
-    ],
-    "one_line_insight_ko": "AI 봇 트래픽 증가에 대비한 콘텐츠 보호 전략이 필수가 되었습니다.",
-    "one_line_insight_en": "Content protection strategies against increasing AI bot traffic have become essential for brands.",
-    "ai_processed": true
-  },
-  {
-    "title": "Your SEO strategy is optimized for a search engine that no longer exists.",
-    "link": "https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/",
-    "date_published": "2026-05-27",
-    "description": "Google I/O made it official: AI-generated answers are now front and center in search, and most brands have almost no visibility into how AI is describing them to their customers. For anyone who has spent years building a strategy around 10 blue links, the rules just changed in a pretty significant way.  On this episode of TechCrunch’s Equity podcast, Rebecca […]",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "categories": [
-      "marketing",
-      "tech"
+      "strategy"
     ],
     "relevance_score": 0.9,
     "relevance_label": "high",
-    "title_en": "Google's AI-First Search Revolution Makes Traditional SEO Strategies Obsolete",
-    "summary_ko": "구글 I/O에서 AI 생성 답변이 검색 결과의 중심으로 공식 발표되었습니다. 대부분의 브랜드는 AI가 고객에게 자신을 어떻게 설명하는지 거의 알 수 없는 상황입니다. 수년간 구축해온 기존 SEO 전략이 근본적으로 변화해야 할 시점입니다.",
-    "summary_en": "Google I/O officially announced AI-generated answers as the center of search results. Most brands have almost no visibility into how AI describes them to customers. Traditional SEO strategies built over years must fundamentally transform for the new AI-first search landscape.",
-    "so_what_ko": "LG D2C는 기존 SEO 전략을 전면 재검토하고 AI 검색 환경에 최적화된 새로운 접근법을 개발해야 합니다.",
-    "so_what_en": "LG D2C must completely review existing SEO strategies and develop new approaches optimized for AI search environments.",
+    "title_en": "Amazon Sells AI Shopping Assistant Technology to Competing Retailers",
+    "summary_ko": "아마존이 자체 AI 쇼핑 어시스턴트 기술을 다른 리테일러들에게 판매하기 시작했습니다. 이는 아마존이 급성장하는 AI 기반 쇼핑 도구 시장에서 더 큰 플레이어가 되려는 전략의 일환입니다. 이커머스 거대 기업이 경쟁사들에게도 자신의 기술을 제공하는 새로운 비즈니스 모델을 선보이고 있습니다.",
+    "summary_en": "Amazon has begun selling the technology behind its AI shopping assistant to other retailers. This move represents Amazon's strategy to become a bigger player in the fast-growing AI-powered shopping tools market. The e-commerce giant is now offering its proprietary technology to competitors as a new business model.",
+    "so_what_ko": "LG D2C는 아마존의 AI 쇼핑 기술을 활용하거나 자체 AI 쇼핑 어시스턴트 개발을 검토해야 합니다.",
+    "so_what_en": "LG D2C should evaluate leveraging Amazon's AI shopping technology or developing proprietary AI shopping assistants to remain competitive.",
     "key_points": [
-      "Google officially prioritizes AI-generated search answers",
-      "Brands lose visibility into AI descriptions of their products",
-      "Traditional SEO strategies require fundamental transformation"
+      "Amazon monetizing AI shopping technology as B2B service",
+      "Growing market for AI-powered shopping tools",
+      "New revenue stream from selling tech to competitors"
     ],
     "tags": [
-      "seo-transformation",
-      "ai-search",
-      "google-ai"
+      "amazon-ai",
+      "shopping-assistant",
+      "b2b-technology",
+      "retail-tech"
     ],
-    "confidence": 0.9,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "Google",
-      "Google I/O",
-      "TechCrunch"
-    ],
-    "one_line_insight_ko": "구글의 AI 중심 검색 전환으로 기존 SEO 전략의 근본적 재설계가 필요합니다.",
-    "one_line_insight_en": "Google's AI-first search transformation requires fundamental redesign of traditional SEO strategies.",
-    "ai_processed": true
-  },
-  {
-    "title": "Visa, Mastercard envision agentic commerce benefits",
-    "link": "https://www.paymentsdive.com/news/visa-mastercard-envision-agentic-commerce-benefits/821205/",
-    "date_published": "2026-05-27",
-    "description": "Taking humans out of purchases is likely to multiply transactions and thereby boost fees, chief financial officers of the card networks said.",
-    "source_id": "payments_dive",
-    "source_name": "Payments Dive",
-    "source_url": "https://www.paymentsdive.com/feeds/news/",
-    "categories": [
-      "commerce",
-      "tech"
-    ],
-    "relevance_score": 0.95,
-    "relevance_label": "high",
-    "title_en": "Visa and Mastercard See Revenue Growth Through Agentic Commerce Adoption",
-    "summary_ko": "비자와 마스터카드의 최고재무책임자들은 에이전틱 커머스가 거래 수수료 증대 기회를 제공한다고 전망했습니다. 구매 과정에서 인간 개입을 제거하면 거래량이 배증되어 수수료 수익이 늘어날 것으로 예상됩니다. 자율적 AI 구매 시스템이 결제 업계의 새로운 성장 동력이 될 전망입니다.",
-    "summary_en": "CFOs of Visa and Mastercard envision agentic commerce as a significant revenue opportunity through increased transaction fees. Removing humans from purchase processes is expected to multiply transaction volumes and boost fee income. Autonomous AI purchasing systems represent a new growth driver for the payments industry.",
-    "so_what_ko": "LG D2C는 에이전틱 커머스 트렌드에 대비해 자율 구매 시스템과 호환되는 결제 인프라를 준비해야 합니다.",
-    "so_what_en": "LG D2C should prepare payment infrastructure compatible with autonomous purchasing systems for the agentic commerce trend.",
-    "key_points": [
-      "Payment networks see revenue growth from agentic commerce",
-      "Removing humans from purchases multiplies transaction volumes",
-      "Autonomous AI purchasing creates new fee revenue streams"
-    ],
-    "tags": [
-      "agentic-commerce",
-      "autonomous-purchasing",
-      "payment-networks"
-    ],
-    "confidence": 0.9,
+    "confidence": 0.8,
     "strategic_theme": "AI_COMMERCE",
     "regions": [
       "GLOBAL"
@@ -653,12 +488,191 @@
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Visa",
-      "Mastercard",
-      "Payments Dive"
+      "Amazon",
+      "AI shopping assistant"
     ],
-    "one_line_insight_ko": "에이전틱 커머스는 결제 업계와 D2C 브랜드 모두에게 새로운 거래량 증대 기회를 제공합니다.",
-    "one_line_insight_en": "Agentic commerce presents new transaction volume growth opportunities for both payment networks and D2C brands.",
+    "one_line_insight_ko": "아마존이 AI 쇼핑 기술을 경쟁사에게 판매하며 새로운 B2B 수익 모델을 창출하고 있습니다.",
+    "one_line_insight_en": "Amazon is creating new B2B revenue streams by selling AI shopping technology to competitors.",
+    "ai_processed": true
+  },
+  {
+    "title": "How GenAI Platforms Produce Answers",
+    "link": "https://www.practicalecommerce.com/how-genai-platforms-generate-answers",
+    "date_published": "2026-05-25",
+    "description": "A useful first step toward genAI visibility is understanding the answer-creation process. \nThe post How GenAI Platforms Produce Answers appeared first on Practical Ecommerce.",
+    "source_id": "practical_ecommerce",
+    "source_name": "Practical Ecommerce",
+    "source_url": "https://www.practicalecommerce.com/feed",
+    "categories": [
+      "tech",
+      "commerce"
+    ],
+    "relevance_score": 0.7,
+    "relevance_label": "high",
+    "title_en": "Understanding How GenAI Platforms Generate Ecommerce Answers",
+    "summary_ko": "생성형 AI 플랫폼의 답변 생성 과정을 이해하는 것이 AI 가시성 확보의 중요한 첫 단계입니다. 이커머스에서 GenAI가 어떻게 답변을 만들어내는지 파악하는 것이 필요합니다. AI 답변 생성 메커니즘에 대한 이해가 비즈니스 활용도를 높일 수 있습니다.",
+    "summary_en": "Understanding the answer-creation process is a useful first step toward achieving GenAI visibility in ecommerce. The article explains how GenAI platforms generate responses for business applications. Comprehending AI answer generation mechanisms can improve business utilization effectiveness.",
+    "so_what_ko": "LG D2C는 GenAI 답변 생성 과정을 이해하여 고객 서비스와 제품 추천 시스템을 개선할 수 있습니다.",
+    "so_what_en": "LG D2C can improve customer service and product recommendation systems by understanding GenAI answer generation processes.",
+    "key_points": [
+      "GenAI answer creation process crucial for visibility",
+      "Understanding mechanisms improves business applications",
+      "First step toward effective AI implementation"
+    ],
+    "tags": [
+      "genai",
+      "answer-generation",
+      "ecommerce-ai",
+      "ai-visibility"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "AI_COMMERCE",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "GenAI platforms",
+      "Practical Ecommerce"
+    ],
+    "one_line_insight_ko": "GenAI 답변 생성 과정 이해가 이커머스 AI 활용의 기초가 됩니다.",
+    "one_line_insight_en": "Understanding GenAI answer generation processes forms the foundation for ecommerce AI utilization.",
+    "ai_processed": true
+  },
+  {
+    "title": "How to optimize for AI overviews (AIOs): A complete 2026 playbook",
+    "link": "https://blog.hubspot.com/marketing/optimize-for-ai-overviews",
+    "date_published": "2026-05-25",
+    "description": "Google AI Overviews appear in Google Search results for a growing share of queries, and if your content isn’t structured to earn a citation, you’re losing visibility to competitors who’ve already adapted. Unfortunately, the challenge isn’t awareness. Most SEO leaders know AI Overviews exist. The challenge is execution: translating Google’s deliberately vague guidance into repeatable content workflows, measuring whether your AI website optimizations are actually earning citations, and proving business impact when traditional metrics like rank position and CTR no longer tell the full story. This playbook closes that gap.",
+    "source_id": "hubspot_marketing",
+    "source_name": "HubSpot Marketing Blog",
+    "source_url": "https://blog.hubspot.com/marketing/rss.xml",
+    "categories": [
+      "marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.8,
+    "relevance_label": "high",
+    "title_en": "Complete 2026 Playbook for Optimizing Content for Google AI Overviews",
+    "summary_ko": "구글 AI 오버뷰가 점점 더 많은 검색 결과에 나타나고 있어, 콘텐츠 최적화가 필수가 되었습니다. AI 오버뷰에 인용되지 않으면 이미 적응한 경쟁사들에게 가시성을 잃게 됩니다. 이 플레이북은 구글의 모호한 가이드라인을 실행 가능한 콘텐츠 워크플로로 전환하는 방법을 제시합니다.",
+    "summary_en": "Google AI Overviews appear in search results for a growing share of queries, making content optimization essential. Without earning citations in AI Overviews, brands lose visibility to competitors who have adapted. This playbook translates Google's vague guidance into actionable content workflows and measurement strategies.",
+    "so_what_ko": "LG D2C는 AI 오버뷰 최적화를 통해 검색 가시성을 확보하고 콘텐츠 전략을 재정비해야 합니다.",
+    "so_what_en": "LG D2C must secure search visibility through AI Overview optimization and restructure content strategy accordingly.",
+    "key_points": [
+      "AI Overviews growing in Google search results",
+      "Content structure critical for earning citations",
+      "Traditional SEO metrics no longer sufficient"
+    ],
+    "tags": [
+      "ai-overviews",
+      "seo-optimization",
+      "content-strategy",
+      "google-search"
+    ],
+    "confidence": 0.9,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Google AI Overviews",
+      "HubSpot"
+    ],
+    "one_line_insight_ko": "AI 오버뷰 최적화가 2026년 검색 마케팅의 핵심 전략이 되고 있습니다.",
+    "one_line_insight_en": "AI Overview optimization is becoming the core strategy for search marketing in 2026.",
+    "ai_processed": true
+  },
+  {
+    "title": "We Debunk 5 Misconceptions About Email Marketing",
+    "link": "https://www.salesforce.com/blog/email-marketing-misconceptions/",
+    "date_published": "2026-05-22",
+    "description": "No, email is not perfect, but many of its challenges are solvable if you go about it the right way. Here's how.",
+    "source_id": "salesforce_agentforce",
+    "source_name": "Salesforce Agentforce Blog",
+    "source_url": "https://www.salesforce.com/blog/category/ai/feed/",
+    "categories": [
+      "marketing"
+    ],
+    "relevance_score": 0.5,
+    "relevance_label": "high",
+    "title_en": "Debunking Five Common Email Marketing Misconceptions",
+    "summary_ko": "이메일 마케팅에 대한 5가지 오해를 해소하는 내용입니다. 이메일이 완벽하지는 않지만 올바른 방법으로 접근하면 많은 문제들이 해결 가능합니다. 잘못된 인식들을 바로잡아 이메일 마케팅의 효과를 극대화할 수 있습니다.",
+    "summary_en": "The article addresses five common misconceptions about email marketing. While email is not perfect, many challenges are solvable with the right approach. Correcting misperceptions can help maximize email marketing effectiveness.",
+    "so_what_ko": "LG D2C는 이메일 마케팅 오해를 바로잡고 AI 기반 개인화 전략을 강화해야 합니다.",
+    "so_what_en": "LG D2C should correct email marketing misconceptions and strengthen AI-powered personalization strategies.",
+    "key_points": [
+      "Five misconceptions about email marketing addressed",
+      "Email challenges are solvable with proper approach",
+      "Correcting perceptions improves effectiveness"
+    ],
+    "tags": [
+      "email-marketing",
+      "marketing-misconceptions",
+      "digital-marketing",
+      "customer-engagement"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Salesforce",
+      "email marketing"
+    ],
+    "one_line_insight_ko": "올바른 접근 방식으로 이메일 마케팅의 근본적 문제들을 해결할 수 있습니다.",
+    "one_line_insight_en": "Fundamental email marketing challenges can be solved with the right approach.",
+    "ai_processed": true
+  },
+  {
+    "title": "#213: AI Answers - What AI Should Never Do, Enterprise Scaling, Governing AI & Navigating IT Roadblocks",
+    "link": "",
+    "date_published": "2026-05-07",
+    "description": "Leadership wants AI everywhere. IT security can't keep up. Marketing is racing ahead while legal and finance dig in. And every week brings another story of an AI agent doing something nobody told it to do. Paul Roetzer and Cathy McPhillips answer 15 listener questions on how to actually move organizations forward and where the real opportunities lie for individuals, SMBs, and enterprises right now.\n\n00:00:00 — Intro\n\n00:07:01 — How do you move a company out of AI policy paralysis?\n\n00:08:54 — How should regulated, hands-on teams introduce AI?\n\n00:12:30 — When companies are stuck, what tends to get them moving?\n\n00:15:00 — Should IT security evolve to adopt AI quicker or should businesses slow down?\n\n00:17:43 — What changes an AI-skeptic employee's mind?\n\n00:21:18 — How should early-career professionals prioritize what to learn?\n\n00:23:29 — Is there a point where you should stop learning and start building?\n\n00:27:29 — Where do companies get stuck scaling AI across departments?\n\n00:29:4",
+    "source_id": "marketing_ai_show",
+    "source_name": "The Marketing AI Show (Podcast)",
+    "source_url": "https://feeds.megaphone.fm/marketingai",
+    "categories": [
+      "strategy",
+      "tech"
+    ],
+    "relevance_score": 0.8,
+    "relevance_label": "high",
+    "title_en": "AI Implementation Challenges: Enterprise Scaling and IT Security Roadblocks",
+    "summary_ko": "리더십은 AI를 모든 곳에 도입하려 하지만 IT 보안이 따라가지 못하고 있습니다. 마케팅은 빠르게 앞서가는 반면 법무와 재무 부서는 신중한 접근을 취하고 있습니다. AI 에이전트가 예상치 못한 행동을 하는 사례들이 매주 보고되고 있어 조직의 AI 도입에 난항이 예상됩니다.",
+    "summary_en": "Leadership wants AI everywhere but IT security cannot keep pace with implementation demands. Marketing is racing ahead while legal and finance departments remain cautious. Weekly reports of AI agents performing unexpected actions highlight organizational challenges in AI adoption.",
+    "so_what_ko": "LG D2C는 부서 간 AI 도입 속도 차이를 조율하고 체계적인 AI 거버넌스 프레임워크를 구축해야 합니다.",
+    "so_what_en": "LG D2C must coordinate departmental AI adoption pace differences and establish systematic AI governance frameworks.",
+    "key_points": [
+      "Misaligned AI adoption pace across departments",
+      "IT security struggling to keep up with AI implementation",
+      "Weekly AI agent incidents highlight governance needs"
+    ],
+    "tags": [
+      "ai-governance",
+      "enterprise-scaling",
+      "it-security",
+      "organizational-change"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "DATA_STRATEGY",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "Marketing AI Show",
+      "AI agents",
+      "enterprise organizations"
+    ],
+    "one_line_insight_ko": "기업 AI 도입에서 부서 간 속도 차이와 거버넌스 부재가 주요 걸림돌입니다.",
+    "one_line_insight_en": "Departmental pace misalignment and governance gaps are major barriers to enterprise AI adoption.",
     "ai_processed": true
   }
 ]
