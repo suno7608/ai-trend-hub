@@ -1,584 +1,5 @@
 [
   {
-    "title": "The Weekly Closeout: Burlington plots store openings, Mattel expands Brick Shop",
-    "link": "https://www.retaildive.com/news/rei-union-turns-away-thousands-mattel-brick-shop-expands/821386/",
-    "date_published": "2026-05-29",
-    "description": "The off-price retailer plans to open over 100 new locations this year, while the toy company debuted new brick sets featuring Lamborghini and Chevrolet.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "commerce"
-    ],
-    "relevance_score": 0.4,
-    "relevance_label": "high",
-    "title_en": "Burlington Plans 100+ Store Openings While Mattel Expands Brick Shop Retail Presence",
-    "summary_ko": "버링턴은 올해 100개 이상의 새 매장 개점을 계획하고 있습니다. 마텔은 람보르기니와 쉐보레를 피처링한 새로운 브릭 세트를 출시했습니다. 오프프라이스 소매업체와 장난감 회사 모두 물리적 소매 확장에 투자하고 있습니다.",
-    "summary_en": "Burlington is planning to open over 100 new store locations this year as part of its expansion strategy. Mattel has expanded its Brick Shop offering with new sets featuring luxury automotive brands like Lamborghini and Chevrolet. Both the off-price retailer and toy company are investing in physical retail expansion amid evolving market conditions.",
-    "so_what_ko": "물리적 매장 확장이 여전히 유효한 소매 전략임을 보여주며, D2C 브랜드도 오프라인 채널 확장을 고려해야 합니다.",
-    "so_what_en": "Physical store expansion remains a viable retail strategy, suggesting D2C brands should consider offline channel expansion opportunities.",
-    "key_points": [
-      "Burlington planning 100+ new store openings",
-      "Mattel expanding Brick Shop with automotive partnerships",
-      "Physical retail expansion continues despite digital trends"
-    ],
-    "tags": [
-      "retail-expansion",
-      "physical-stores",
-      "off-price-retail"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Burlington",
-      "Mattel",
-      "Brick Shop",
-      "Lamborghini",
-      "Chevrolet"
-    ],
-    "one_line_insight_ko": "전통적인 물리적 소매 확장이 디지털 시대에도 여전히 중요한 성장 전략으로 활용되고 있습니다.",
-    "one_line_insight_en": "Traditional physical retail expansion remains a key growth strategy even in the digital age.",
-    "ai_processed": true
-  },
-  {
-    "title": "American Eagle rebalances marketing toward performance as sales slide",
-    "link": "https://www.marketingdive.com/news/american-eagle-rebalances-marketing-toward-performance-as-sales-slide/821470/",
-    "date_published": "2026-05-29",
-    "description": "The retailer indicated it will invest more in areas like digital and influencers as it tries to drive conversions entering the critical back-to-school window.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
-    "categories": [
-      "marketing"
-    ],
-    "relevance_score": 0.6,
-    "relevance_label": "high",
-    "title_en": "American Eagle Shifts Marketing Focus to Performance-Driven Channels as Sales Decline",
-    "summary_ko": "아메리칸 이글이 매출 하락으로 인해 마케팅 전략을 성과 중심으로 전환하고 있습니다. 디지털과 인플루언서 마케팅에 더 많은 투자를 계획하고 있습니다. 중요한 새 학기 시즌을 앞두고 전환율 향상에 집중하고 있습니다.",
-    "summary_en": "American Eagle is rebalancing its marketing strategy toward performance-driven channels due to declining sales. The retailer plans to invest more heavily in digital marketing and influencer partnerships. This strategic shift comes as the company prepares for the critical back-to-school shopping season.",
-    "so_what_ko": "성과 측정 가능한 디지털 마케팅 채널로의 전환이 매출 회복의 핵심이며, D2C 브랜드는 ROI 기반 마케팅 믹스 최적화가 필요합니다.",
-    "so_what_en": "The shift to measurable performance marketing channels is crucial for sales recovery, requiring D2C brands to optimize their ROI-based marketing mix.",
-    "key_points": [
-      "Performance marketing focus amid sales decline",
-      "Increased investment in digital and influencer channels",
-      "Strategic preparation for back-to-school season"
-    ],
-    "tags": [
-      "performance-marketing",
-      "digital-marketing",
-      "influencer-marketing"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "American Eagle",
-      "Digital Marketing",
-      "Influencer Marketing"
-    ],
-    "one_line_insight_ko": "매출 하락 상황에서 성과 측정 가능한 디지털 마케팅으로의 전환이 필수적인 생존 전략이 되고 있습니다.",
-    "one_line_insight_en": "Shifting to measurable digital marketing becomes essential survival strategy during sales decline.",
-    "ai_processed": true
-  },
-  {
-    "title": "Google adds AI shopping insights to Merchant Center",
-    "link": "https://martech.org/google-adds-ai-shopping-insights-to-merchant-center/",
-    "date_published": "2026-05-29",
-    "description": "Google is giving retailers new AI visibility metrics in Merchant Center, offering a closer look at how products surface in conversational shopping results.\nThe post Google adds AI shopping insights to Merchant Center appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
-    "categories": [
-      "marketing",
-      "tech"
-    ],
-    "relevance_score": 0.9,
-    "relevance_label": "high",
-    "title_en": "Google Launches AI Shopping Insights for Merchant Center to Track Conversational Commerce",
-    "summary_ko": "구글이 머천트 센터에 AI 쇼핑 인사이트 기능을 추가했습니다. 소매업체들은 대화형 쇼핑 결과에서 제품이 어떻게 노출되는지 더 자세히 볼 수 있습니다. 새로운 AI 가시성 메트릭을 통해 성과를 추적할 수 있습니다.",
-    "summary_en": "Google has introduced new AI shopping insights functionality to its Merchant Center platform. Retailers can now gain deeper visibility into how their products appear in conversational shopping results. The new AI visibility metrics provide enhanced tracking capabilities for product performance.",
-    "so_what_ko": "AI 기반 쇼핑 환경에서의 제품 노출 추적이 가능해져, D2C 브랜드는 대화형 커머스 최적화 전략을 수립해야 합니다.",
-    "so_what_en": "Enhanced tracking of product visibility in AI-powered shopping enables D2C brands to develop conversational commerce optimization strategies.",
-    "key_points": [
-      "Google adds AI insights to Merchant Center",
-      "Enhanced visibility into conversational shopping results",
-      "New metrics for tracking AI-powered product discovery"
-    ],
-    "tags": [
-      "google-merchant-center",
-      "ai-shopping",
-      "conversational-commerce"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_COMMERCE",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Google",
-      "Merchant Center",
-      "AI Shopping",
-      "Conversational Commerce"
-    ],
-    "one_line_insight_ko": "구글의 AI 쇼핑 인사이트는 대화형 커머스 시대의 제품 발견성 최적화에 필수적인 도구가 될 것입니다.",
-    "one_line_insight_en": "Google's AI shopping insights will become essential tools for optimizing product discoverability in the conversational commerce era.",
-    "ai_processed": true
-  },
-  {
-    "title": "Pacsun’s CEO on how the brand cracked its Gen Z strategy",
-    "link": "https://www.modernretail.co/marketing/pacsuns-ceo-on-how-the-brand-cracked-its-gen-z-strategy/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-05-30",
-    "description": "Pacsun's strategy to connect with Gen Z is focused on co-creation with customers. CEO Brie Olson joins the Modern Retail Podcast this week to give her insights on how the brand regained relevance among young people.",
-    "source_id": "modern_retail",
-    "source_name": "Modern Retail",
-    "source_url": "https://www.modernretail.co/feed/",
-    "categories": [
-      "strategy",
-      "marketing"
-    ],
-    "relevance_score": 0.7,
-    "relevance_label": "high",
-    "title_en": "Pacsun CEO Reveals Gen Z Engagement Strategy Through Customer Co-Creation",
-    "summary_ko": "팩선의 CEO가 Z세대와의 연결 전략을 공개했습니다. 고객과의 공동 창작에 중점을 둔 전략을 통해 젊은층 사이에서 관련성을 되찾았습니다. 브리 올슨 CEO가 모던 리테일 팟캐스트에서 인사이트를 공유했습니다.",
-    "summary_en": "Pacsun's CEO has shared insights into the brand's successful Gen Z engagement strategy focused on customer co-creation. The approach has helped the brand regain relevance among young consumers. CEO Brie Olson discussed the strategy on the Modern Retail Podcast.",
-    "so_what_ko": "고객 공동 창작을 통한 Z세대 참여 전략이 브랜드 관련성 회복의 핵심이며, D2C 브랜드는 고객 참여형 제품 개발을 강화해야 합니다.",
-    "so_what_en": "Customer co-creation strategy for Gen Z engagement is key to brand relevance recovery, requiring D2C brands to strengthen participatory product development.",
-    "key_points": [
-      "Customer co-creation drives Gen Z engagement",
-      "Brand relevance recovery through collaborative approach",
-      "CEO insights on youth market strategy"
-    ],
-    "tags": [
-      "gen-z-marketing",
-      "customer-co-creation",
-      "brand-relevance"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Pacsun",
-      "Brie Olson",
-      "Gen Z",
-      "Modern Retail"
-    ],
-    "one_line_insight_ko": "Z세대 고객과의 공동 창작을 통한 참여형 브랜드 전략이 젊은층 시장에서 성공의 열쇠가 되고 있습니다.",
-    "one_line_insight_en": "Participatory brand strategy through Gen Z customer co-creation becomes the key to success in youth markets.",
-    "ai_processed": true
-  },
-  {
-    "title": "Dollar Tree CEO: ‘Our model is built for environments like this’",
-    "link": "https://www.retaildive.com/news/dollar-tree-q1-earnings-model-built-inflation-high-prices/821403/",
-    "date_published": "2026-05-29",
-    "description": "Customers are shopping the discount retailer with a focus on affordability, convenience and trip efficiency to stretch their budgets.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.5,
-    "relevance_label": "high",
-    "title_en": "Dollar Tree CEO: Discount Model Thrives in Current Economic Environment",
-    "summary_ko": "달러트리 CEO가 현재 환경에 최적화된 비즈니스 모델을 강조했습니다. 고객들이 예산을 늘리기 위해 경제성, 편의성, 효율성에 집중하여 쇼핑하고 있습니다. 할인 소매업체가 인플레이션과 높은 가격 환경에서 유리한 위치를 차지하고 있습니다.",
-    "summary_en": "Dollar Tree's CEO emphasized that their business model is well-positioned for the current economic climate. Customers are shopping with a focus on affordability, convenience, and trip efficiency to maximize their purchasing power. The discount retailer is benefiting from inflation and high-price environments.",
-    "so_what_ko": "경제적 압박 상황에서 가치 중심 쇼핑이 증가하고 있어, D2C 브랜드는 가격 경쟁력과 효율성을 강화한 제품 포트폴리오가 필요합니다.",
-    "so_what_en": "Value-focused shopping increases during economic pressure, requiring D2C brands to strengthen price competitiveness and efficiency in their product portfolios.",
-    "key_points": [
-      "Discount model performs well in current economy",
-      "Customers prioritize affordability and efficiency",
-      "Economic pressures drive value-seeking behavior"
-    ],
-    "tags": [
-      "discount-retail",
-      "economic-environment",
-      "value-shopping"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "Dollar Tree",
-      "Discount Retail",
-      "Economic Climate"
-    ],
-    "one_line_insight_ko": "경제적 불확실성 속에서 가치 중심의 할인 모델이 소비자 행동 변화를 주도하고 있습니다.",
-    "one_line_insight_en": "Value-driven discount models are leading consumer behavior changes amid economic uncertainty.",
-    "ai_processed": true
-  },
-  {
-    "title": "Tractor Supply expands pet offerings with VIP Petcare acquisition",
-    "link": "https://www.digitalcommerce360.com/2026/05/29/tractor-supply-vip-petcare-acquisition/",
-    "date_published": "2026-05-29",
-    "description": "Tractor Supply Company announced its acquisition of VIP Petcare, the largest mobile veterinary care provider in the U.S., on May 28. The move brings an existing partner into the company, thanks to the community clinics in 1,700 Tractor Supply retail locations that VIP Petcare already operates. The companies did not disclose financial terms of the […]\nThe post Tractor Supply expands pet offerings with VIP Petcare acquisition appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
-    "categories": [
-      "commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.4,
-    "relevance_label": "high",
-    "title_en": "Tractor Supply expands pet offerings with VIP Petcare acquisition",
-    "summary_ko": "미국 최대 이동형 수의료 서비스 제공업체인 VIP Petcare를 인수했다고 발표했습니다. 이미 1,700개 매장에서 커뮤니티 클리닉을 운영하던 기존 파트너를 계열사로 편입하는 전략입니다. 재정 조건은 공개되지 않았으나 펜트 서비스 확장을 통한 고객 충성도 강화가 목표입니다.",
-    "summary_en": "Tractor Supply announced its acquisition of VIP Petcare, the largest mobile veterinary care provider in the U.S. The move brings an existing partner into the company, leveraging community clinics already operating in 1,700 retail locations. Financial terms were not disclosed, but the acquisition aims to expand pet care offerings and strengthen customer loyalty.",
-    "so_what_ko": "서비스 확장을 통한 고객 생애가치 증대와 매장 내 복합 서비스 제공으로 경쟁력을 강화하는 전략을 참고할 수 있습니다.",
-    "so_what_en": "This demonstrates how D2C brands can leverage service expansion and in-store experiences to increase customer lifetime value and competitive differentiation.",
-    "key_points": [
-      "Acquisition of existing partner VIP Petcare for vertical integration",
-      "1,700 retail locations already hosting community clinics",
-      "Strategy to expand pet care services beyond product sales"
-    ],
-    "tags": [
-      "acquisition",
-      "pet-care",
-      "retail-expansion",
-      "vertical-integration"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Tractor Supply",
-      "VIP Petcare"
-    ],
-    "one_line_insight_ko": "기존 파트너 인수를 통한 서비스 확장은 D2C 브랜드의 고객 생애가치 증대 전략으로 활용 가능합니다.",
-    "one_line_insight_en": "Acquiring existing partners for service expansion offers D2C brands a pathway to increase customer lifetime value beyond product sales.",
-    "ai_processed": true
-  },
-  {
-    "title": "Medline details its Prime vendor model expansion into Canada",
-    "link": "https://www.digitalcommerce360.com/2026/05/29/medline-prime-vendor-model-expansion-canada/",
-    "date_published": "2026-05-29",
-    "description": "On a May 6 earnings call, Medline named Mohawk Medbury as the first customer for its Prime vendor supply program in Canada. Now, the supply chain solutions company is looking ahead to fall. At that point, it said, it will take over warehouse and supply chain logistics for its client’s Ontario-based hospitals in the province’s […]\nThe post Medline details its Prime vendor model expansion into Canada appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
-    "categories": [
-      "commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.3,
-    "relevance_label": "high",
-    "title_en": "Medline details its Prime vendor model expansion into Canada",
-    "summary_ko": "메드라인이 캐나다 시장으로 프라임 벤더 공급 프로그램을 확장한다고 발표했습니다. 첫 번째 고객으로 Mohawk Medbury를 선정했으며, 가을부터 온타리오주 병원들의 창고 및 공급망 물류를 담당할 예정입니다. 공급망 솔루션 회사로서의 역할을 강화하는 국제적 확장 전략입니다.",
-    "summary_en": "Medline announced expansion of its Prime vendor supply program into Canada with Mohawk Medbury as the first customer. The company will take over warehouse and supply chain logistics for Ontario-based hospitals starting in fall. This represents an international expansion of Medline's supply chain solutions model.",
-    "so_what_ko": "B2B 공급망 모델의 국제적 확장은 D2C 브랜드의 물류 효율성과 시장 진입 전략에 참고할 수 있는 사례입니다.",
-    "so_what_en": "International expansion of B2B supply chain models provides insights for D2C brands seeking logistics efficiency and market entry strategies.",
-    "key_points": [
-      "Prime vendor model expansion from U.S. to Canada",
-      "Mohawk Medbury as first Canadian customer",
-      "Focus on hospital supply chain logistics management"
-    ],
-    "tags": [
-      "supply-chain",
-      "international-expansion",
-      "b2b-model",
-      "healthcare"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "PLATFORM_ECOSYSTEM",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Medline",
-      "Mohawk Medbury"
-    ],
-    "one_line_insight_ko": "B2B 공급망 모델의 국제 확장은 D2C 브랜드의 글로벌 물류 전략 수립에 참고할 수 있습니다.",
-    "one_line_insight_en": "International expansion of B2B supply chain models offers insights for D2C brands developing global logistics strategies.",
-    "ai_processed": true
-  },
-  {
-    "title": "Costco sees record gas sales in Q3, expects tariff refunds",
-    "link": "https://www.digitalcommerce360.com/2026/05/29/costco-sees-record-gas-sales-in-q3-expects-tariff-refunds/",
-    "date_published": "2026-05-29",
-    "description": "Executives at Costco addressed how the retailer is addressing macroeconomic situations, including the cost of oil — plus its impact on gas sales — and tariff refunds. Ron Vachris, CEO at Costco, said during the retailer’s Q3 earnings call that gas prices “are very much on members’ mind.” Moreover, they have had a “major impact” […]\nThe post Costco sees record gas sales in Q3, expects tariff refunds appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
-    "categories": [
-      "commerce"
-    ],
-    "relevance_score": 0.2,
-    "relevance_label": "high",
-    "title_en": "Costco sees record gas sales in Q3, expects tariff refunds",
-    "summary_ko": "코스트코는 3분기 기록적인 주유소 매출을 달성했으며 관세 환급을 기대하고 있다고 발표했습니다. CEO Ron Vachris는 유가가 회원들에게 매우 중요한 관심사이며 주요 영향을 미치고 있다고 언급했습니다. 거시경제 상황과 유가 변동이 소매업체 운영에 미치는 영향을 다루었습니다.",
-    "summary_en": "Costco reported record gas sales in Q3 and expects tariff refunds according to executives addressing macroeconomic situations. CEO Ron Vachris noted that gas prices are very much on members' minds and have had a major impact. The retailer is managing through oil cost fluctuations and their broader economic implications.",
-    "so_what_ko": "거시경제 변동과 유가 영향을 관리하는 코스트코의 접근법은 D2C 브랜드의 가격 전략과 고객 커뮤니케이션에 시사점을 제공합니다.",
-    "so_what_en": "Costco's approach to managing macroeconomic volatility and oil price impacts provides insights for D2C pricing strategies and customer communication.",
-    "key_points": [
-      "Record gas sales achieved in Q3 despite economic pressures",
-      "Gas prices significantly impacting member behavior",
-      "Expectation of tariff refunds helping financial position"
-    ],
-    "tags": [
-      "retail-performance",
-      "gas-sales",
-      "macroeconomic-impact",
-      "membership-model"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Costco",
-      "Ron Vachris"
-    ],
-    "one_line_insight_ko": "거시경제 변동 속에서도 핵심 서비스로 고객 충성도를 유지하는 전략이 중요합니다.",
-    "one_line_insight_en": "Maintaining customer loyalty through core services during macroeconomic volatility is crucial for retail success.",
-    "ai_processed": true
-  },
-  {
-    "title": "Go Figure: 3 big marketing numbers from May",
-    "link": "https://www.marketingdive.com/news/go-figure-3-big-marketing-numbers-from-may/821432/",
-    "date_published": "2026-05-29",
-    "description": "Kraft Heinz’s marketing payoff, Netflix’s expanded advertising slate and the state of AI readiness are a few important numbers marketers may have missed.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
-    "categories": [
-      "marketing"
-    ],
-    "relevance_score": 0.6,
-    "relevance_label": "high",
-    "title_en": "Go Figure: 3 big marketing numbers from May",
-    "summary_ko": "5월의 주요 마케팅 지표 3가지를 소개하는 기사입니다. 크래프트 하인즈의 마케팅 성과, 넷플릭스의 확장된 광고 상품, AI 준비 상태 등이 마케터들이 놓칠 수 있는 중요한 수치들로 언급되었습니다. 마케팅 업계의 핵심 트렌드를 수치로 파악할 수 있는 내용입니다.",
-    "summary_en": "The article highlights three important marketing numbers from May that marketers may have missed. It covers Kraft Heinz's marketing payoff, Netflix's expanded advertising slate, and the state of AI readiness. These metrics provide insights into key trends shaping the marketing industry.",
-    "so_what_ko": "주요 브랜드들의 마케팅 성과 지표와 AI 준비 상태는 D2C 브랜드의 마케팅 전략 수립에 벤치마킹 자료로 활용할 수 있습니다.",
-    "so_what_en": "Key brand marketing performance metrics and AI readiness indicators serve as benchmarking data for D2C marketing strategy development.",
-    "key_points": [
-      "Kraft Heinz marketing performance insights",
-      "Netflix advertising expansion metrics",
-      "Industry AI readiness assessment"
-    ],
-    "tags": [
-      "marketing-metrics",
-      "performance-data",
-      "ai-readiness",
-      "industry-trends"
-    ],
-    "confidence": 0.5,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Kraft Heinz",
-      "Netflix"
-    ],
-    "one_line_insight_ko": "주요 브랜드들의 마케팅 성과 지표는 D2C 브랜드의 전략 수립에 중요한 벤치마킹 자료입니다.",
-    "one_line_insight_en": "Major brand marketing performance indicators provide essential benchmarking data for D2C strategy development.",
-    "ai_processed": true
-  },
-  {
-    "title": "How to use B2B PR to shape what AI recommends",
-    "link": "https://martech.org/how-to-use-b2b-pr-to-shape-what-ai-recommends/",
-    "date_published": "2026-05-29",
-    "description": "AI answers often surface only a handful of vendors. Learn how to improve your B2B brand’s visibility and shape how AI systems frame it.\nThe post How to use B2B PR to shape what AI recommends appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
-    "categories": [
-      "ai_marketing",
-      "marketing"
-    ],
-    "relevance_score": 0.9,
-    "relevance_label": "high",
-    "title_en": "How to use B2B PR to shape what AI recommends",
-    "summary_ko": "AI 답변에서 소수의 벤더만 노출되는 현실에서 B2B 브랜드의 가시성을 개선하는 PR 전략을 다룹니다. AI 시스템이 브랜드를 어떻게 프레이밍하는지 영향을 미치는 방법을 제시합니다. B2B 마케터들이 AI 추천 시스템에서 브랜드 인지도를 높이는 실용적 접근법을 설명합니다.",
-    "summary_en": "The article addresses how B2B brands can improve visibility when AI answers often surface only a handful of vendors. It provides strategies for shaping how AI systems frame brands and recommendations. The content offers practical approaches for B2B marketers to enhance brand recognition in AI-driven search results.",
-    "so_what_ko": "AI 추천 시스템에서의 브랜드 가시성 확보는 D2C 브랜드의 디지털 마케팅 전략에서 새로운 필수 요소로 고려해야 합니다.",
-    "so_what_en": "Securing brand visibility in AI recommendation systems becomes a new essential element for D2C digital marketing strategies.",
-    "key_points": [
-      "AI systems typically surface only a few vendors in recommendations",
-      "B2B PR strategies can influence AI system outputs",
-      "Brand framing in AI responses requires strategic approach"
-    ],
-    "tags": [
-      "ai-recommendations",
-      "b2b-pr",
-      "brand-visibility",
-      "ai-optimization"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "MarTech"
-    ],
-    "one_line_insight_ko": "AI 추천 시스템에서의 브랜드 가시성 확보가 미래 마케팅의 핵심 경쟁 요소가 될 것입니다.",
-    "one_line_insight_en": "Securing brand visibility in AI recommendation systems will become a key competitive factor in future marketing.",
-    "ai_processed": true
-  },
-  {
-    "title": "The marketer’s new playbook for AI-powered competitive intelligence",
-    "link": "https://martech.org/the-marketers-new-playbook-for-ai-powered-competitive-intelligence/",
-    "date_published": "2026-05-29",
-    "description": "Competitor analysis goes beyond dashboards and weekly reports. Here’s how to use AI to think ahead instead of catching up.\nThe post The marketer’s new playbook for AI-powered competitive intelligence appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
-    "categories": [
-      "marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.9,
-    "relevance_label": "high",
-    "title_en": "AI-Powered Competitive Intelligence: The New Marketing Playbook for Proactive Strategy",
-    "summary_ko": "마케터들이 AI를 활용한 경쟁 인텔리전스로 기존의 대시보드와 주간 보고서를 넘어선 전략적 접근을 구현하고 있습니다. AI는 단순히 경쟁사를 따라잡는 것이 아니라 앞서 생각할 수 있는 능력을 제공합니다. 이를 통해 마케터들은 더욱 선제적인 경쟁 전략을 수립할 수 있게 되었습니다.",
-    "summary_en": "Marketers are implementing AI-powered competitive intelligence strategies that go beyond traditional dashboards and weekly reports. AI enables proactive thinking ahead of competitors rather than just catching up to market changes. This transformation allows marketers to develop more strategic and forward-thinking competitive approaches.",
-    "so_what_ko": "D2C 브랜드는 AI 기반 경쟁 분석을 통해 시장 동향을 예측하고 선제적 마케팅 전략을 수립해야 합니다.",
-    "so_what_en": "D2C brands should leverage AI-driven competitive analysis to predict market trends and develop proactive marketing strategies.",
-    "key_points": [
-      "AI transforms competitive intelligence from reactive to proactive approach",
-      "Traditional dashboards and reports are being replaced by AI-powered insights",
-      "Enables strategic thinking ahead of competition rather than catching up"
-    ],
-    "tags": [
-      "competitive-intelligence",
-      "ai-marketing",
-      "strategic-planning"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "MarTech"
-    ],
-    "one_line_insight_ko": "AI 경쟁 인텔리전스는 마케팅을 반응적에서 선제적 전략으로 전환시키고 있습니다.",
-    "one_line_insight_en": "AI competitive intelligence is transforming marketing from reactive to proactive strategic approach.",
-    "ai_processed": true
-  },
-  {
-    "title": "AI is powering the loss of B2B marketing jobs",
-    "link": "https://martech.org/ai-is-powering-the-loss-of-marketing-jobs/",
-    "date_published": "2026-05-29",
-    "description": "47% of B2B companies reduced marketing roles due to AI, often by quietly eliminating backfills rather than announcing layoffs.\nThe post AI is powering the loss of B2B marketing jobs appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
-    "categories": [
-      "marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.8,
-    "relevance_label": "high",
-    "title_en": "AI Automation Drives 47% of B2B Companies to Reduce Marketing Roles",
-    "summary_ko": "B2B 기업의 47%가 AI 도입으로 인해 마케팅 직무를 줄이고 있는 것으로 나타났습니다. 기업들은 공개적인 해고 발표보다는 퇴사자 충원을 중단하는 방식으로 조용히 인력을 감축하고 있습니다. 이는 AI가 마케팅 업무의 자동화를 통해 인력 구조를 근본적으로 변화시키고 있음을 보여줍니다.",
-    "summary_en": "47% of B2B companies have reduced marketing roles due to AI implementation across their organizations. Companies are quietly eliminating positions by not backfilling departures rather than making public layoff announcements. This demonstrates AI's fundamental impact on marketing workforce structure through automation.",
-    "so_what_ko": "D2C 조직은 AI 자동화로 인한 인력 변화에 대비해 직원 재교육과 새로운 역할 정의가 필요합니다.",
-    "so_what_en": "D2C organizations need to prepare for AI-driven workforce changes through employee reskilling and new role definitions.",
-    "key_points": [
-      "47% of B2B companies reduced marketing roles due to AI adoption",
-      "Position elimination happening through quiet non-replacement strategy",
-      "AI automation fundamentally changing marketing workforce structure"
-    ],
-    "tags": [
-      "workforce-automation",
-      "ai-impact",
-      "b2b-marketing"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "MarTech"
-    ],
-    "one_line_insight_ko": "AI는 마케팅 인력 구조를 근본적으로 재편하며 47%의 B2B 기업이 이미 변화를 경험하고 있습니다.",
-    "one_line_insight_en": "AI is fundamentally reshaping marketing workforce structure with 47% of B2B companies already experiencing the transformation.",
-    "ai_processed": true
-  },
-  {
-    "title": "What is the MCP Server and What Does it Mean for Your Marketing?",
-    "link": "https://www.salesforce.com/blog/marketing-mcp-server/",
-    "date_published": "2026-05-29",
-    "description": "Learn how the new Agentforce Marketing feature is bridging the gap between imagination and innovation",
-    "source_id": "salesforce_agentforce",
-    "source_name": "Salesforce Agentforce Blog",
-    "source_url": "https://www.salesforce.com/blog/category/ai/feed/",
-    "categories": [
-      "marketing",
-      "tech"
-    ],
-    "relevance_score": 0.7,
-    "relevance_label": "high",
-    "title_en": "Salesforce Unveils MCP Server Technology to Bridge Marketing Innovation Gap",
-    "summary_ko": "세일즈포스가 새로운 Agentforce Marketing 기능을 통해 MCP 서버 기술을 소개했습니다. 이 기술은 마케팅에서 상상과 혁신 사이의 격차를 해소하는 것을 목표로 합니다. 원문에서 확인되지 않음 - 구체적인 기술 세부사항이나 활용 방안에 대한 추가 정보가 필요합니다.",
-    "summary_en": "Salesforce introduced MCP Server technology through its new Agentforce Marketing feature. The technology aims to bridge the gap between imagination and innovation in marketing applications. Limited details available in source - additional information needed on specific technical capabilities and implementation strategies.",
-    "so_what_ko": "D2C 브랜드는 세일즈포스의 새로운 에이전틱 마케팅 도구가 제공하는 혁신 기회를 평가해야 합니다.",
-    "so_what_en": "D2C brands should evaluate innovation opportunities offered by Salesforce's new agentic marketing tools.",
-    "key_points": [
-      "Salesforce launches new MCP Server technology",
-      "Agentforce Marketing feature bridges imagination and innovation",
-      "Limited technical details available in current source"
-    ],
-    "tags": [
-      "salesforce",
-      "agentforce",
-      "mcp-server"
-    ],
-    "confidence": 0.5,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Salesforce",
-      "Agentforce"
-    ],
-    "one_line_insight_ko": "세일즈포스의 MCP 서버는 마케팅 혁신의 새로운 가능성을 제시하지만 구체적 활용방안은 추가 분석이 필요합니다.",
-    "one_line_insight_en": "Salesforce's MCP Server presents new marketing innovation possibilities but requires further analysis of practical applications.",
-    "ai_processed": true
-  },
-  {
     "title": "#213: AI Answers - What AI Should Never Do, Enterprise Scaling, Governing AI & Navigating IT Roadblocks",
     "link": "",
     "date_published": "2026-05-07",
@@ -587,80 +8,665 @@
     "source_name": "The Marketing AI Show (Podcast)",
     "source_url": "https://feeds.megaphone.fm/marketingai",
     "categories": [
-      "strategy",
-      "marketing"
+      "marketing",
+      "strategy"
     ],
-    "relevance_score": 0.8,
+    "relevance_score": 0.9,
     "relevance_label": "high",
-    "title_en": "Marketing AI Leadership: Navigating Enterprise Scaling and IT Security Challenges",
-    "summary_ko": "마케팅 AI 쇼 팟캐스트에서 기업의 AI 도입 시 직면하는 주요 과제들을 다루었습니다. 리더십은 AI를 모든 곳에 도입하고 싶어하지만 IT 보안팀은 따라잡지 못하고 있는 상황입니다. 마케팅팀은 빠르게 앞서가고 있지만 법무와 재무팀은 신중한 접근을 취하고 있어 조직 내 갈등이 발생하고 있습니다.",
-    "summary_en": "The Marketing AI Show podcast addressed major challenges in enterprise AI adoption across organizations. Leadership wants AI implementation everywhere while IT security teams struggle to keep pace with demands. Marketing teams are racing ahead while legal and finance departments maintain cautious approaches, creating organizational tensions.",
-    "so_what_ko": "D2C 조직은 AI 도입 시 부서간 협업과 정책 조율을 통해 혁신과 위험관리의 균형을 맞춰야 합니다.",
-    "so_what_en": "D2C organizations must balance innovation and risk management through cross-departmental collaboration and policy alignment in AI adoption.",
+    "title_en": "AI Governance Crisis: Organizations Struggle with Policy Paralysis While Racing to Deploy AI at Scale",
+    "summary_ko": "기업들이 AI 도입을 원하지만 IT 보안과 법무팀의 정책 마비로 인해 진전이 어려운 상황입니다. 마케팅팀은 빠르게 AI를 도입하려 하지만 규제와 보안 우려로 조직 전반의 확산이 지연되고 있습니다. 개인과 중소기업, 대기업 모두 AI 활용의 실질적 기회를 찾기 위해 고군분투하고 있습니다.",
+    "summary_en": "Organizations want AI everywhere but face policy paralysis as IT security struggles to keep up with rapid deployment demands. Marketing teams are racing ahead with AI adoption while legal and finance departments create roadblocks due to regulatory concerns. Companies across all sizes are struggling to find practical opportunities and scale AI effectively across departments.",
+    "so_what_ko": "D2C 브랜드는 AI 거버넌스 프레임워크를 조기에 구축하여 경쟁사보다 빠른 AI 마케팅 도입이 필요합니다.",
+    "so_what_en": "D2C brands need to establish AI governance frameworks early to enable faster AI marketing adoption than competitors.",
     "key_points": [
-      "Enterprise AI adoption faces organizational alignment challenges",
-      "IT security struggles to match leadership's AI implementation pace",
-      "Marketing, legal, and finance departments have conflicting AI approaches"
+      "Organizations face AI policy paralysis between leadership ambition and IT security constraints",
+      "Marketing teams are advancing AI adoption faster than legal and finance departments",
+      "Early-career professionals need strategic prioritization of AI learning vs. building",
+      "Companies get stuck scaling AI across departments due to governance gaps"
     ],
     "tags": [
-      "enterprise-ai",
+      "ai-governance",
       "organizational-change",
-      "ai-governance"
+      "marketing-ai",
+      "enterprise-ai",
+      "policy-paralysis"
     ],
     "confidence": 0.8,
-    "strategic_theme": "DATA_STRATEGY",
+    "strategic_theme": "AI_MARKETING",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "HIGH",
-    "sentiment": "NEUTRAL",
+    "sentiment": "THREAT",
     "key_entities": [
-      "Marketing AI Show"
+      "Marketing AI Show",
+      "Paul Roetzer",
+      "Cathy McPhillips"
     ],
-    "one_line_insight_ko": "기업의 AI 도입 성공은 부서간 정책 조율과 점진적 확산 전략에 달려있습니다.",
-    "one_line_insight_en": "Enterprise AI adoption success depends on cross-departmental policy alignment and gradual scaling strategies.",
+    "one_line_insight_ko": "AI 마케팅 선도를 위해서는 조직 거버넌스 구축이 기술 도입만큼 중요합니다.",
+    "one_line_insight_en": "Organizational governance is as critical as technology adoption for AI marketing leadership.",
     "ai_processed": true
   },
   {
-    "title": "[AINews] Founders and Forward Deployed Engineers",
-    "link": "https://www.latent.space/p/ainews-founders-and-forward-deployed",
+    "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+    "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
     "date_published": "2026-05-30",
-    "description": "a quiet day lets us highlight the new AIE WF focuses",
-    "source_id": "latent_space",
-    "source_name": "Latent Space (The AI Index)",
-    "source_url": "https://www.latent.space/feed",
+    "description": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "categories": [
+      "tech"
+    ],
+    "relevance_score": 0.6,
+    "relevance_label": "high",
+    "title_en": "SoftBank Commits €75 Billion Investment to Build Massive French Data Center Infrastructure",
+    "summary_ko": "소프트뱅크가 프랑스에 최대 750억 유로를 투자하여 데이터센터를 건설한다고 발표했습니다. 이 투자로 최대 5기가와트의 추가 데이터센터 용량 개발과 운영을 목표로 합니다. 이는 유럽 AI 인프라 구축을 위한 대규모 투자로 주목받고 있습니다.",
+    "summary_en": "SoftBank announced plans to invest up to €75 billion to build data centers in France. The investment aims to develop and operate up to 5 gigawatts of additional data center capacity. This represents a massive infrastructure investment for European AI capabilities.",
+    "so_what_ko": "유럽 AI 인프라 확충으로 D2C 브랜드의 유럽 시장 AI 서비스 접근성과 성능이 크게 개선될 전망입니다.",
+    "so_what_en": "European AI infrastructure expansion will significantly improve D2C brands' access and performance for AI services in European markets.",
+    "key_points": [
+      "€75 billion investment commitment for French data center development",
+      "Target of 5 gigawatts additional data center capacity",
+      "Major infrastructure boost for European AI capabilities"
+    ],
+    "tags": [
+      "data-centers",
+      "infrastructure",
+      "europe",
+      "softbank",
+      "ai-infrastructure"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "PLATFORM_ECOSYSTEM",
+    "regions": [
+      "EMEA"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "SoftBank",
+      "France"
+    ],
+    "one_line_insight_ko": "유럽 AI 인프라 대규모 투자가 글로벌 D2C 브랜드의 유럽 진출 기회를 확대합니다.",
+    "one_line_insight_en": "Massive European AI infrastructure investment expands opportunities for global D2C brands in Europe.",
+    "ai_processed": true
+  },
+  {
+    "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+    "link": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+    "date_published": "2026-05-30",
+    "description": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
     "categories": [
       "tech"
     ],
     "relevance_score": 0.4,
     "relevance_label": "high",
-    "title_en": "AI Engineering Focus: Founders and Forward Deployed Engineers Shape Industry Direction",
-    "summary_ko": "Latent Space에서 AI 엔지니어링 분야의 새로운 동향을 다루었습니다. 창업가들과 현장 배치 엔지니어들이 AI 산업의 방향을 형성하고 있습니다. 원문에서 확인되지 않음 - 구체적인 내용이나 주요 인사이트에 대한 세부 정보가 제한적입니다.",
-    "summary_en": "Latent Space covered new trends in AI engineering focusing on industry direction. Founders and forward deployed engineers are shaping the future of AI development and implementation. Limited details available - specific content and key insights require additional source information.",
-    "so_what_ko": "D2C 조직은 AI 엔지니어링 트렌드를 모니터링하여 기술 혁신 기회를 파악해야 합니다.",
-    "so_what_en": "D2C organizations should monitor AI engineering trends to identify technology innovation opportunities.",
+    "title_en": "GitHub Copilot's Token-Based Billing Change Sparks Developer Backlash Over Cost Transparency",
+    "summary_ko": "마이크로소프트의 GitHub Copilot이 토큰 기반 과금 시스템으로 전환하면서 개발자들의 강한 반발을 불러일으켰습니다. 기존의 정액 요금제에서 사용량 기반 과금으로 변경되어 비용 예측이 어려워졌습니다. 이는 GitHub Copilot의 황금기가 끝났다는 평가를 받고 있습니다.",
+    "summary_en": "Microsoft's GitHub Copilot faced developer backlash after switching to token-based billing from flat-rate pricing. The change makes cost prediction difficult as usage-based pricing replaces predictable monthly fees. This shift marks what many consider the end of GitHub Copilot's golden age.",
+    "so_what_ko": "AI 개발 도구의 과금 모델 변화는 D2C 브랜드의 AI 개발 비용 증가를 의미하므로 대안 도구 검토가 필요합니다.",
+    "so_what_en": "Changes in AI development tool pricing models signal increased AI development costs for D2C brands, requiring evaluation of alternative tools.",
     "key_points": [
-      "Focus on founders and forward deployed engineers in AI",
-      "Industry direction being shaped by engineering leadership",
-      "Limited specific details available in current source"
+      "GitHub Copilot switches from flat-rate to token-based billing",
+      "Developer concerns about unpredictable costs and transparency",
+      "Signals potential end of affordable AI coding assistance era"
     ],
     "tags": [
-      "ai-engineering",
-      "founders",
+      "github-copilot",
+      "pricing-models",
+      "developer-tools",
+      "microsoft",
+      "ai-costs"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "EMERGING_TECH",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "GitHub Copilot",
+      "Microsoft"
+    ],
+    "one_line_insight_ko": "AI 도구 과금 모델 변화가 D2C 브랜드의 기술 개발 비용 구조에 영향을 미치기 시작했습니다.",
+    "one_line_insight_en": "AI tool pricing model changes are beginning to impact D2C brands' technology development cost structures.",
+    "ai_processed": true
+  },
+  {
+    "title": "Meta is reportedly developing an AI pendant",
+    "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+    "date_published": "2026-05-30",
+    "description": "Meta seems to be making big bets on AI-powered hardware.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "categories": [
+      "tech"
+    ],
+    "relevance_score": 0.5,
+    "relevance_label": "high",
+    "title_en": "Meta Reportedly Developing AI Pendant as Part of Ambitious Hardware Strategy",
+    "summary_ko": "메타가 AI 펜던트를 개발 중인 것으로 보도되었습니다. 이는 메타가 AI 기반 하드웨어에 큰 투자를 하고 있음을 보여줍니다. 메타의 하드웨어 전략이 웨어러블 AI 기기로 확장되고 있습니다.",
+    "summary_en": "Meta is reportedly developing an AI pendant as part of its hardware expansion strategy. This indicates Meta's significant investment in AI-powered hardware beyond existing products. The company appears to be extending its hardware strategy into wearable AI devices.",
+    "so_what_ko": "웨어러블 AI 기기의 등장으로 D2C 브랜드는 새로운 고객 접점과 개인화된 쇼핑 경험 제공 기회를 얻을 수 있습니다.",
+    "so_what_en": "Wearable AI devices present new customer touchpoints and personalized shopping experience opportunities for D2C brands.",
+    "key_points": [
+      "Meta developing AI pendant as wearable hardware",
+      "Expansion of Meta's AI hardware strategy beyond VR/AR",
+      "Potential new category of personal AI assistants"
+    ],
+    "tags": [
+      "meta",
+      "wearable-ai",
+      "ai-hardware",
+      "pendant",
+      "ai-assistant"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "EMERGING_TECH",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Meta"
+    ],
+    "one_line_insight_ko": "웨어러블 AI 기기가 D2C 브랜드의 고객 상호작용을 위한 새로운 채널로 부상하고 있습니다.",
+    "one_line_insight_en": "Wearable AI devices are emerging as new channels for D2C brand customer interactions.",
+    "ai_processed": true
+  },
+  {
+    "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+    "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+    "date_published": "2026-05-30",
+    "description": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "categories": [
+      "tech",
+      "marketing"
+    ],
+    "relevance_score": 0.7,
+    "relevance_label": "high",
+    "title_en": "Google's Gemini Spark 24/7 AI Assistant Proves Useful Despite Product Strategy Questions",
+    "summary_ko": "구글의 24시간 AI 어시스턴트 Gemini Spark가 실제로 유용한 것으로 평가받았습니다. 받은편지함 요약부터 지역 이벤트 계획까지 일상 업무 자동화에 효과적입니다. 하지만 구글이 왜 별도 제품으로 출시했는지에 대한 의문이 제기되고 있습니다.",
+    "summary_en": "Google's Gemini Spark 24/7 AI assistant has proven genuinely useful for automating everyday tasks. It effectively handles inbox summaries to local event planning and task automation. However, questions remain about Google's strategy for making it a separate product rather than integrating existing services.",
+    "so_what_ko": "24시간 AI 어시스턴트의 실용성이 입증되면서 D2C 브랜드도 고객 서비스 자동화와 개인화된 쇼핑 지원에 활용할 수 있습니다.",
+    "so_what_en": "Proven utility of 24/7 AI assistants enables D2C brands to leverage automated customer service and personalized shopping support.",
+    "key_points": [
+      "Gemini Spark demonstrates practical utility for daily task automation",
+      "Covers inbox management to event planning capabilities",
+      "Questions about Google's product strategy and positioning"
+    ],
+    "tags": [
+      "gemini-spark",
+      "google",
+      "ai-assistant",
+      "automation",
+      "personal-ai"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Google",
+      "Gemini Spark"
+    ],
+    "one_line_insight_ko": "24시간 AI 어시스턴트의 실용성이 D2C 브랜드의 고객 경험 자동화 가능성을 확인시켜줍니다.",
+    "one_line_insight_en": "24/7 AI assistant practicality confirms automation possibilities for D2C brand customer experiences.",
+    "ai_processed": true
+  },
+  {
+    "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
+    "link": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+    "date_published": "2026-05-30",
+    "description": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "categories": [
+      "tech"
+    ],
+    "relevance_score": 0.3,
+    "relevance_label": "high",
+    "title_en": "Browser Wars Heat Up: Chrome and Safari Face New Competition in 2026",
+    "summary_ko": "2026년 브라우저 경쟁이 치열해지면서 크롬과 사파리에 도전하는 대안 브라우저들이 주목받고 있습니다. 테크크런치가 현재 가장 주목할 만한 대안 브라우저들의 개요를 제시했습니다. 새로운 브라우저들이 기존 시장 지배자들에게 도전장을 내밀고 있습니다.",
+    "summary_en": "The browser competition is intensifying in 2026 with alternative browsers challenging Chrome and Safari's dominance. TechCrunch compiled an overview of the top alternative browsers available today. New players are positioning themselves to disrupt the established browser market leaders.",
+    "so_what_ko": "새로운 브라우저 플랫폼은 D2C 브랜드들에게 새로운 고객 접점과 데이터 수집 기회를 제공할 수 있습니다.",
+    "so_what_en": "New browser platforms could provide D2C brands with fresh customer touchpoints and data collection opportunities.",
+    "key_points": [
+      "Browser competition intensifying beyond Chrome and Safari duopoly",
+      "Multiple alternative browsers emerging as viable options",
+      "Potential disruption to established web platform ecosystem"
+    ],
+    "tags": [
+      "browser-wars",
+      "web-platforms",
+      "chrome-alternatives",
+      "market-competition"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "PLATFORM_ECOSYSTEM",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Chrome",
+      "Safari",
+      "TechCrunch"
+    ],
+    "one_line_insight_ko": "브라우저 시장의 다양화는 D2C 브랜드들에게 새로운 웹 플랫폼 전략을 요구합니다.",
+    "one_line_insight_en": "Browser market diversification demands new web platform strategies for D2C brands.",
+    "ai_processed": true
+  },
+  {
+    "title": "Fashion misses at Old Navy spell trouble for Gap Inc.",
+    "link": "https://www.retaildive.com/news/old-navy-fashion-misses-spell-trouble-gap-inc-q1-earnings/821459/",
+    "date_published": "2026-05-29",
+    "description": "Internal flubs, not customer malaise, were the cause and have been addressed, Gap Inc. CEO Richard Dickson said Thursday. But is competition from off price a growing problem for the value brand?",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "commerce"
+    ],
+    "relevance_score": 0.4,
+    "relevance_label": "high",
+    "title_en": "Old Navy Fashion Missteps Create Challenges for Gap Inc.",
+    "summary_ko": "올드네이비의 패션 실수가 갭 인크에 문제를 일으키고 있습니다. 갭 인크 CEO 리차드 딕슨은 고객 문제가 아닌 내부 실수가 원인이었으며 이를 해결했다고 목요일 발표했습니다. 하지만 할인 브랜드 경쟁이 밸류 브랜드에게 증가하는 문제인지 의문이 제기되고 있습니다.",
+    "summary_en": "Old Navy's fashion mistakes are causing trouble for Gap Inc. CEO Richard Dickson said Thursday that internal flubs, not customer issues, were the cause and have been addressed. However, questions arise about whether competition from off-price retailers is becoming a growing problem for the value brand.",
+    "so_what_ko": "전통 소매업체들의 제품 기획 실수는 D2C 브랜드들에게 시장 점유율 확대의 기회를 제공합니다.",
+    "so_what_en": "Traditional retailers' product planning mistakes create market share expansion opportunities for D2C brands.",
+    "key_points": [
+      "Old Navy experiencing internal operational challenges",
+      "CEO attributes problems to internal flubs rather than market conditions",
+      "Off-price competition potentially increasing pressure on value brands"
+    ],
+    "tags": [
+      "retail-challenges",
+      "fashion-retail",
+      "competitive-pressure",
+      "operational-efficiency"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Old Navy",
+      "Gap Inc.",
+      "Richard Dickson"
+    ],
+    "one_line_insight_ko": "전통 소매업체의 운영 실수는 D2C 브랜드에게 시장 진입 기회를 제공합니다.",
+    "one_line_insight_en": "Traditional retailers' operational missteps create market entry opportunities for D2C brands.",
+    "ai_processed": true
+  },
+  {
+    "title": "Consumer sentiment falls to new low; cost of living ‘first-order’ worry",
+    "link": "https://www.retaildive.com/news/consumer-sentiment-falls-cost-living-inflation-Fed/821066/",
+    "date_published": "2026-05-29",
+    "description": "A sustained rise in long-run inflation expectations would likely increase the odds that the Federal Reserve will raise interest rates.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "commerce"
+    ],
+    "relevance_score": 0.6,
+    "relevance_label": "high",
+    "title_en": "Consumer Sentiment Hits New Low as Cost of Living Becomes Primary Concern",
+    "summary_ko": "소비자 심리가 새로운 최저치로 떨어지며 생활비가 주요 걱정거리가 되었습니다. 장기 인플레이션 기대치의 지속적인 상승은 연준이 금리를 인상할 가능성을 높일 것으로 보입니다. 소비자들이 비용 부담을 최우선 걱정사항으로 꼽고 있습니다.",
+    "summary_en": "Consumer sentiment has fallen to a new low with cost of living becoming the primary worry. A sustained rise in long-run inflation expectations would likely increase the odds that the Federal Reserve will raise interest rates. Consumers are identifying cost burdens as their first-order concern.",
+    "so_what_ko": "소비자 구매력 저하는 D2C 브랜드들이 가치 제안과 가격 전략을 재검토해야 함을 시사합니다.",
+    "so_what_en": "Declining consumer purchasing power signals D2C brands must reassess value propositions and pricing strategies.",
+    "key_points": [
+      "Consumer sentiment reaching historically low levels",
+      "Cost of living identified as primary consumer concern",
+      "Potential Federal Reserve interest rate increases looming"
+    ],
+    "tags": [
+      "consumer-sentiment",
+      "inflation-impact",
+      "cost-of-living",
+      "economic-pressure"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "Federal Reserve"
+    ],
+    "one_line_insight_ko": "소비자 구매력 약화는 D2C 브랜드의 가격 경쟁력과 가치 제안 강화를 요구합니다.",
+    "one_line_insight_en": "Weakening consumer purchasing power demands enhanced price competitiveness and value propositions for D2C brands.",
+    "ai_processed": true
+  },
+  {
+    "title": "Destination XL rejects $46M go-private offer",
+    "link": "https://www.retaildive.com/news/destination-xl-rejects-take-private-offer-zodiac/821461/",
+    "date_published": "2026-05-29",
+    "description": "The 82 cents-per-share offer does not reflect the company’s value and is “highly conditional and opportunistic,” Board Chairman Lionel Conacher said.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "commerce"
+    ],
+    "relevance_score": 0.3,
+    "relevance_label": "high",
+    "title_en": "Destination XL Rejects $46M Private Equity Buyout Offer",
+    "summary_ko": "데스티네이션 XL이 4600만 달러 규모의 사모펀드 인수 제안을 거부했습니다. 주당 82센트 제안이 회사의 가치를 반영하지 못하며 '조건부적이고 기회주의적'이라고 이사회 회장 라이오넬 코나처가 밝혔습니다. 회사는 제안이 저평가되었다고 판단하고 있습니다.",
+    "summary_en": "Destination XL has rejected a $46 million go-private offer from private equity. The 82 cents-per-share offer does not reflect the company's value and is 'highly conditional and opportunistic,' according to Board Chairman Lionel Conacher. The company believes the proposal undervalues its worth.",
+    "so_what_ko": "특화 소매업체들의 M&A 활동은 D2C 브랜드들에게 틈새 시장 기회를 시사합니다.",
+    "so_what_en": "M&A activity among specialized retailers signals niche market opportunities for D2C brands.",
+    "key_points": [
+      "Destination XL rejecting $46M private equity buyout offer",
+      "Board considers offer undervalued and opportunistic",
+      "Specialized retail sector showing M&A consolidation activity"
+    ],
+    "tags": [
+      "retail-ma",
+      "private-equity",
+      "company-valuation",
+      "specialized-retail"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Destination XL",
+      "Lionel Conacher"
+    ],
+    "one_line_insight_ko": "특화 소매 부문의 M&A 활동은 D2C 브랜드들에게 틈새 시장 진입 기회를 제공합니다.",
+    "one_line_insight_en": "M&A activity in specialized retail creates niche market entry opportunities for D2C brands.",
+    "ai_processed": true
+  },
+  {
+    "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
+    "link": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+    "date_published": "2026-05-29",
+    "description": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we enter an age already being transformed by artificial intelligence, the greatest change in…",
+    "source_id": "mit_tech_review_ai",
+    "source_name": "MIT Technology Review (AI)",
+    "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+    "categories": [
+      "tech",
+      "strategy"
+    ],
+    "relevance_score": 0.7,
+    "relevance_label": "high",
+    "title_en": "Pope's AI Encyclical Offers Framework for Technology's Human-Centered Future",
+    "summary_ko": "교황 레오 14세의 새로운 인공지능 회칙 '위대한 인간성'이 기술자들과 정책입안자들의 주목을 받고 있습니다. 회칙은 '기술은 결코 중립적이지 않다'는 중요한 성명을 포함하고 있습니다. 인공지능 시대에 용기와 연대로 행동하라는 모든 사람에 대한 명확한 요청입니다.",
+    "summary_en": "Pope Leo XIV's new encyclical on artificial intelligence, 'Magnifica Humanitas,' includes a statement warranting serious attention from technologists and policymakers. The document contains the important declaration that 'Technology is never neutral.' It serves as a clarion call for all people to act with courage and solidarity in the AI age.",
+    "so_what_ko": "AI 기술의 윤리적 프레임워크는 D2C 브랜드들이 고객 신뢰를 구축하는 핵심 차별화 요소가 될 것입니다.",
+    "so_what_en": "Ethical AI frameworks will become key differentiators for D2C brands to build customer trust.",
+    "key_points": [
+      "Papal encyclical addresses AI ethics and human-centered technology",
+      "Declaration that technology is never neutral",
+      "Call for courage and solidarity in navigating AI transformation"
+    ],
+    "tags": [
+      "ai-ethics",
+      "technology-philosophy",
+      "human-centered-ai",
+      "social-responsibility"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Pope Leo XIV",
+      "Magnifica Humanitas",
+      "MIT Technology Review"
+    ],
+    "one_line_insight_ko": "AI 윤리와 인간 중심적 접근은 D2C 브랜드 차별화의 새로운 기준이 될 것입니다.",
+    "one_line_insight_en": "AI ethics and human-centered approaches will become new standards for D2C brand differentiation.",
+    "ai_processed": true
+  },
+  {
+    "title": "Publishers quietly cut ‘six-figure’ deals via Snowflake’s AI licensing platform",
+    "link": "https://digiday.com/media/publishers-quietly-cut-six-figure-deals-via-snowflakes-ai-licensing-platform/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-05-29",
+    "description": "Publishers are starting to make meaningful AI licensing deals via Snowflake's RAG pipe, with some securing several six-figure deals with financial institutions.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "marketing",
+      "tech"
+    ],
+    "relevance_score": 0.7,
+    "relevance_label": "high",
+    "title_en": "Publishers Secure Six-Figure AI Licensing Deals Through Snowflake's Platform",
+    "summary_ko": "퍼블리셔들이 Snowflake의 AI 라이선싱 플랫폼을 통해 의미있는 수익을 창출하고 있습니다. 일부는 금융기관과 6자리 수의 계약을 체결했습니다. 이는 콘텐츠 데이터의 AI 훈련 활용에 대한 새로운 수익화 모델을 보여줍니다.",
+    "summary_en": "Publishers are generating meaningful revenue through Snowflake's AI licensing platform. Some have secured six-figure deals with financial institutions. This demonstrates a new monetization model for content data in AI training applications.",
+    "so_what_ko": "LG D2C는 자체 콘텐츠와 데이터 자산을 AI 라이선싱을 통해 수익화할 수 있는 기회를 탐색해야 합니다.",
+    "so_what_en": "LG D2C should explore opportunities to monetize its content and data assets through AI licensing platforms.",
+    "key_points": [
+      "Publishers securing six-figure AI licensing deals via Snowflake",
+      "Financial institutions as key buyers of content data",
+      "New revenue streams emerging from AI training data needs"
+    ],
+    "tags": [
+      "ai-licensing",
+      "data-monetization",
+      "snowflake",
+      "content-revenue"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "DATA_STRATEGY",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Snowflake",
+      "Publishers",
+      "Financial institutions"
+    ],
+    "one_line_insight_ko": "콘텐츠 데이터의 AI 라이선싱이 퍼블리셔들에게 새로운 6자리 수익원을 제공하고 있습니다.",
+    "one_line_insight_en": "AI licensing of content data is creating new six-figure revenue streams for publishers.",
+    "ai_processed": true
+  },
+  {
+    "title": "Overheard at IAB Tech Lab Summit: Tim Berners-Lee on the agentic web",
+    "link": "https://digiday.com/marketing/overheard-at-iab-tech-lab-summit-tim-berners-lee-on-the-agentic-web/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-05-29",
+    "description": "The father of the web urges social platforms to stop building addictive products and to embrace an agentic future that values individuals over outcomes.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "tech",
+      "strategy"
+    ],
+    "relevance_score": 0.8,
+    "relevance_label": "high",
+    "title_en": "Tim Berners-Lee Advocates for Agentic Web Over Addictive Platforms",
+    "summary_ko": "웹의 아버지 팀 버너스 리가 IAB Tech Lab Summit에서 발언했습니다. 그는 소셜 플랫폼들이 중독성 제품 구축을 중단해야 한다고 주장했습니다. 대신 결과보다 개인을 중시하는 에이전틱 미래를 받아들여야 한다고 강조했습니다.",
+    "summary_en": "Web creator Tim Berners-Lee spoke at the IAB Tech Lab Summit. He urged social platforms to stop building addictive products. Instead, he advocated for embracing an agentic future that values individuals over outcomes.",
+    "so_what_ko": "LG D2C는 에이전틱 웹 환경에서 고객 중심의 개인화된 경험을 제공하는 전략을 개발해야 합니다.",
+    "so_what_en": "LG D2C should develop strategies for providing customer-centric, personalized experiences in an agentic web environment.",
+    "key_points": [
+      "Tim Berners-Lee calls for end to addictive platform design",
+      "Advocacy for agentic web that prioritizes individuals",
+      "Shift from outcome-focused to person-centered digital experiences"
+    ],
+    "tags": [
+      "agentic-web",
+      "tim-berners-lee",
+      "platform-ethics",
+      "user-centricity"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Tim Berners-Lee",
+      "IAB Tech Lab",
+      "Social platforms"
+    ],
+    "one_line_insight_ko": "웹 창시자가 제시하는 에이전틱 웹은 개인 중심의 새로운 디지털 경험 패러다임을 의미합니다.",
+    "one_line_insight_en": "The web creator's vision of an agentic web represents a new paradigm for individual-centered digital experiences.",
+    "ai_processed": true
+  },
+  {
+    "title": "Week of May 18 Evening News Ratings: CBS News Has Double-Digit Gains in Demo",
+    "link": "https://www.adweek.com/tvnewser/week-of-may-18-2026-evening-news-ratings/",
+    "date_published": "2026-05-29",
+    "description": "CBS News finished above 4 million viewers for the week.",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
+    "categories": [
+      "marketing"
+    ],
+    "relevance_score": 0.2,
+    "relevance_label": "high",
+    "title_en": "CBS News Achieves Double-Digit Demo Gains in Evening News Ratings",
+    "summary_ko": "CBS 뉴스가 5월 18일 주간 저녁 뉴스 시청률에서 두 자릿수 증가를 기록했습니다. 해당 주간 400만 명 이상의 시청자를 확보했습니다. 원문에서 확인되지 않음.",
+    "summary_en": "CBS News recorded double-digit gains in evening news ratings for the week of May 18. The network finished above 4 million viewers for the week. 원문에서 확인되지 않음.",
+    "so_what_ko": "전통 미디어의 시청률 변화는 LG D2C의 미디어 믹스 전략 수립에 참고할 수 있습니다.",
+    "so_what_en": "Traditional media viewership trends can inform LG D2C's media mix strategy development.",
+    "key_points": [
+      "CBS News shows strong performance in evening news ratings",
+      "Over 4 million viewers reached during the week"
+    ],
+    "tags": [
+      "tv-ratings",
+      "cbs-news",
+      "media-performance"
+    ],
+    "confidence": 0.5,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "CBS News"
+    ],
+    "one_line_insight_ko": "전통 방송 뉴스의 시청률 증가는 신뢰할 수 있는 정보원에 대한 수요를 보여줍니다.",
+    "one_line_insight_en": "Traditional broadcast news ratings growth indicates demand for trusted information sources.",
+    "ai_processed": true
+  },
+  {
+    "title": "Week of May 18 Cable News Ratings: Holiday Weekend Brings a Mixed Bag",
+    "link": "https://www.adweek.com/tvnewser/week-of-may-18-2026-cable-news-ratings/",
+    "date_published": "2026-05-29",
+    "description": "Fox News was the only network with gains during primetime and total day.",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
+    "categories": [
+      "marketing"
+    ],
+    "relevance_score": 0.2,
+    "relevance_label": "high",
+    "title_en": "Fox News Shows Gains During Holiday Weekend Cable News Ratings",
+    "summary_ko": "5월 18일 주간 케이블 뉴스 시청률에서 휴일 주말이 혼재된 결과를 가져왔습니다. Fox News가 프라임타임과 전체 시간대에서 증가세를 보인 유일한 네트워크였습니다. 원문에서 확인되지 않음.",
+    "summary_en": "The week of May 18 cable news ratings brought mixed results during the holiday weekend. Fox News was the only network showing gains during primetime and total day. 원문에서 확인되지 않음.",
+    "so_what_ko": "케이블 뉴스 시청 패턴은 LG D2C의 타겟 오디언스 미디어 소비 행태 분석에 활용할 수 있습니다.",
+    "so_what_en": "Cable news viewing patterns can inform LG D2C's target audience media consumption behavior analysis.",
+    "key_points": [
+      "Mixed results for cable news during holiday weekend",
+      "Fox News shows exclusive gains in key time slots"
+    ],
+    "tags": [
+      "cable-news",
+      "tv-ratings",
+      "fox-news",
+      "holiday-viewing"
+    ],
+    "confidence": 0.5,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Fox News"
+    ],
+    "one_line_insight_ko": "휴일 기간 미디어 소비 패턴의 변화는 브랜드 커뮤니케이션 타이밍 전략에 중요합니다.",
+    "one_line_insight_en": "Holiday period media consumption pattern changes are crucial for brand communication timing strategies.",
+    "ai_processed": true
+  },
+  {
+    "title": "Marketers on the Move: Hires and Promotions at OpenAI, CNN, Chloé and More",
+    "link": "https://www.adweek.com/brand-marketing/marketers-on-the-move-hires-and-promotions-at-openai-cnn-chloe-and-more/",
+    "date_published": "2026-05-29",
+    "description": "A weekly roundup of the biggest U.S. and global brand leadership appointments.",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
+    "categories": [
+      "marketing"
+    ],
+    "relevance_score": 0.3,
+    "relevance_label": "high",
+    "title_en": "Weekly Marketing Leadership Moves at OpenAI, CNN, Chloé and Others",
+    "summary_ko": "미국과 글로벌 브랜드 리더십 임명에 대한 주간 요약입니다. OpenAI, CNN, Chloé 등에서의 채용과 승진 소식을 다룹니다. 원문에서 확인되지 않음.",
+    "summary_en": "A weekly roundup of major U.S. and global brand leadership appointments. The report covers hires and promotions at OpenAI, CNN, Chloé and other companies. 원문에서 확인되지 않음.",
+    "so_what_ko": "특히 OpenAI의 마케팅 리더십 변화는 AI 기업들의 마케팅 전략 동향을 파악하는 데 도움이 됩니다.",
+    "so_what_en": "OpenAI's marketing leadership changes particularly help understand AI companies' marketing strategy trends.",
+    "key_points": [
+      "Weekly summary of major brand leadership appointments",
+      "Includes moves at OpenAI and other major brands"
+    ],
+    "tags": [
+      "leadership-moves",
+      "openai",
+      "marketing-executives",
       "industry-trends"
     ],
     "confidence": 0.5,
-    "strategic_theme": "EMERGING_TECH",
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "LOW",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "Latent Space"
+      "OpenAI",
+      "CNN",
+      "Chloé"
     ],
-    "one_line_insight_ko": "AI 엔지니어링 리더십이 산업 방향을 결정하고 있지만 D2C 관련성은 제한적입니다.",
-    "one_line_insight_en": "AI engineering leadership is driving industry direction but relevance to D2C applications remains limited.",
+    "one_line_insight_ko": "AI 기업들의 마케팅 리더십 변화는 업계 전략 방향성을 시사합니다.",
+    "one_line_insight_en": "Marketing leadership changes at AI companies signal industry strategic directions.",
     "ai_processed": true
   }
 ]
