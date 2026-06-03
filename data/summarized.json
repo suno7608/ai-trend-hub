@@ -1,176 +1,34 @@
 [
   {
-    "title": "6 top answer engine optimization benefits for growth and enterprise marketers",
-    "link": "https://blog.hubspot.com/marketing/benefits-of-answer-engine-optimization",
-    "date_published": "2026-06-01",
-    "description": "The AEO benefits that matter most to marketing leaders have shifted from theoretical to measurable. As more buyers discover brands through AI tools like ChatGPT, Google AI Overviews, and Perplexity, the teams investing in AEO now are seeing real returns in conversions and long-term authority.",
-    "source_id": "hubspot_marketing",
-    "source_name": "HubSpot Marketing Blog",
-    "source_url": "https://blog.hubspot.com/marketing/rss.xml",
+    "title": "Prime Video&#8217;s NASCAR Coverage Is Driving Sales Results for Sponsors",
+    "link": "https://www.adweek.com/convergent-tv/prime-videos-nascar-coverage-is-driving-sales-results-for-sponsors/",
+    "date_published": "2026-06-03",
+    "description": "Following a successful 2025 NASCAR sponsorship, Logitech uses Prime Video to debut G brand simulators in new campaign.",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
     "categories": [
       "marketing"
-    ],
-    "relevance_score": 0.9,
-    "relevance_label": "high",
-    "title_en": "Answer Engine Optimization Delivers Measurable Growth for Enterprise Marketers",
-    "summary_ko": "ChatGPT, Google AI Overviews, Perplexity 등 AI 도구를 통해 브랜드를 발견하는 구매자가 증가하면서 AEO(Answer Engine Optimization)의 이점이 이론적에서 측정 가능한 수준으로 발전했습니다. AEO에 투자하는 마케팅 팀들이 전환율과 장기적 권위 구축에서 실질적 성과를 확인하고 있습니다. 성장과 엔터프라이즈 마케터들에게 가장 중요한 AEO 혜택이 구체적으로 입증되고 있습니다.",
-    "summary_en": "AEO benefits have evolved from theoretical to measurable as more buyers discover brands through AI tools like ChatGPT, Google AI Overviews, and Perplexity. Marketing teams investing in AEO are now seeing real returns in conversions and long-term authority building. The most important AEO advantages for growth and enterprise marketers are being concretely demonstrated.",
-    "so_what_ko": "AI 검색 도구의 확산으로 D2C 브랜드는 전통적 SEO에서 AEO로 마케팅 전략을 전환해야 합니다. AI 답변 엔진에서의 브랜드 노출과 권위 구축이 새로운 고객 획득의 핵심이 되고 있습니다.",
-    "so_what_en": "With the proliferation of AI search tools, D2C brands must shift from traditional SEO to AEO strategies. Brand visibility and authority building in AI answer engines is becoming crucial for new customer acquisition.",
-    "key_points": [
-      "AEO benefits have shifted from theoretical to measurable outcomes",
-      "AI tools like ChatGPT and Google AI Overviews are changing brand discovery patterns",
-      "Teams investing in AEO are seeing real returns in conversions and authority",
-      "Answer engine optimization is becoming essential for growth marketers"
-    ],
-    "tags": [
-      "answer-engine-optimization",
-      "ai-search",
-      "conversion-optimization",
-      "brand-discovery"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "ChatGPT",
-      "Google AI Overviews",
-      "Perplexity",
-      "HubSpot"
-    ],
-    "one_line_insight_ko": "AI 검색 도구의 부상으로 AEO가 D2C 마케팅의 새로운 필수 전략으로 자리잡고 있습니다.",
-    "one_line_insight_en": "The rise of AI search tools is making AEO an essential new strategy for D2C marketing.",
-    "ai_processed": true
-  },
-  {
-    "title": "Agentforce needed a content layer, so Salesforce is buying Contentful",
-    "link": "https://martech.org/agentforce-needed-a-content-layer-so-salesforce-is-buying-contentful/",
-    "date_published": "2026-06-01",
-    "description": "Salesforce wants enterprises to drop static, channel-specific content in favor of 1:1 experiences at scale. So it went shopping. \nThe post Agentforce needed a content layer, so Salesforce is buying Contentful appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
-    "categories": [
-      "tech",
-      "marketing"
-    ],
-    "relevance_score": 0.8,
-    "relevance_label": "high",
-    "title_en": "Salesforce Acquires Contentful to Power Agentforce with Content Layer",
-    "summary_ko": "Salesforce가 Agentforce를 위한 콘텐츠 레이어 구축을 위해 Contentful을 인수합니다. 이번 인수는 기업이 채널별 정적 콘텐츠에서 벗어나 대규모 1:1 개인화 경험을 제공하려는 Salesforce의 전략입니다. Agentforce의 AI 에이전트 기능에 콘텐츠 관리 시스템이 통합되어 더욱 강력한 고객 경험을 제공할 것으로 예상됩니다.",
-    "summary_en": "Salesforce is acquiring Contentful to build a content layer for Agentforce. This acquisition represents Salesforce's strategy to help enterprises move away from static, channel-specific content toward 1:1 personalized experiences at scale. The integration of content management systems with Agentforce's AI agent capabilities is expected to deliver more powerful customer experiences.",
-    "so_what_ko": "AI 에이전트 기반 고객 서비스가 콘텐츠 관리와 결합되면서, D2C 브랜드는 개인화된 콘텐츠 전달을 위한 통합 플랫폼 전략을 검토해야 합니다.",
-    "so_what_en": "As AI agent-based customer service combines with content management, D2C brands should consider integrated platform strategies for personalized content delivery.",
-    "key_points": [
-      "Salesforce acquiring Contentful to enhance Agentforce capabilities",
-      "Focus on enabling 1:1 personalized experiences at scale",
-      "Moving enterprises away from static, channel-specific content",
-      "Integration of AI agents with content management systems"
-    ],
-    "tags": [
-      "salesforce",
-      "contentful",
-      "ai-agents",
-      "content-management",
-      "personalization"
-    ],
-    "confidence": 0.9,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Salesforce",
-      "Contentful",
-      "Agentforce"
-    ],
-    "one_line_insight_ko": "AI 에이전트와 콘텐츠 관리의 결합이 개인화된 고객 경험의 새로운 표준을 제시하고 있습니다.",
-    "one_line_insight_en": "The combination of AI agents and content management is setting new standards for personalized customer experiences.",
-    "ai_processed": true
-  },
-  {
-    "title": "Retail marketers are at a crossroads — here’s how they can adapt",
-    "link": "https://www.modernretail.co/sponsored/retail-marketers-are-at-a-crossroads-heres-how-they-can-adapt/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-06-01",
-    "description": "Justin Jefferson, vp, strategy and insight, Keen Decision Systems Retail marketers are navigating a marketing landscape defined by consolidation and heightened accountability. As retail media networks evolve beyond the initial gold rush, advertisers’ focus has shifted from merely having a presence to proving performance.  Likewise, with ad budgets under intense scrutiny, marketing success now requires […]",
-    "source_id": "modern_retail",
-    "source_name": "Modern Retail",
-    "source_url": "https://www.modernretail.co/feed/",
-    "categories": [
-      "commerce",
-      "marketing"
-    ],
-    "relevance_score": 0.7,
-    "relevance_label": "high",
-    "title_en": "Retail Marketers Face Crossroads as Media Networks Demand Performance Proof",
-    "summary_ko": "소매 마케터들이 통합과 높아진 책임감으로 정의되는 마케팅 환경을 탐색하고 있습니다. 리테일 미디어 네트워크가 초기 골드러시를 넘어 진화하면서, 광고주들의 초점이 단순한 존재감에서 성과 증명으로 이동했습니다. 광고 예산에 대한 강도 높은 정밀 조사로 인해 마케팅 성공에는 이제 더 높은 수준의 성과 입증이 요구됩니다.",
-    "summary_en": "Retail marketers are navigating a marketing landscape defined by consolidation and heightened accountability. As retail media networks evolve beyond the initial gold rush, advertisers' focus has shifted from merely having a presence to proving performance. With ad budgets under intense scrutiny, marketing success now requires higher levels of performance demonstration.",
-    "so_what_ko": "D2C 브랜드는 리테일 미디어 네트워크에서 단순 노출이 아닌 명확한 성과 지표와 ROI 입증 능력을 갖춰야 합니다.",
-    "so_what_en": "D2C brands must develop clear performance metrics and ROI demonstration capabilities beyond simple exposure in retail media networks.",
-    "key_points": [
-      "Marketing landscape defined by consolidation and accountability",
-      "Retail media networks evolving beyond initial gold rush phase",
-      "Advertiser focus shifted from presence to performance proof",
-      "Ad budget scrutiny requiring higher performance standards"
-    ],
-    "tags": [
-      "retail-media",
-      "performance-marketing",
-      "accountability",
-      "roi-measurement"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Keen Decision Systems"
-    ],
-    "one_line_insight_ko": "리테일 미디어 네트워크의 성숙화로 성과 중심의 마케팅 접근법이 필수가 되고 있습니다.",
-    "one_line_insight_en": "The maturation of retail media networks is making performance-driven marketing approaches essential.",
-    "ai_processed": true
-  },
-  {
-    "title": "Why retailers like Target and Aerie are moving beyond straight affiliate deals with creators",
-    "link": "https://digiday.com/media/why-retailers-like-target-and-aerie-are-moving-beyond-straight-affiliate-deals-with-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-06-02",
-    "description": "Creator programs are changing as retailers like Target and Aerie realize they require a multifaceted approach that doesn't just rely on affiliate links.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
-    "categories": [
-      "marketing",
-      "commerce"
     ],
     "relevance_score": 0.6,
     "relevance_label": "high",
-    "title_en": "Target and Aerie Evolve Beyond Basic Affiliate Deals with Creator Programs",
-    "summary_ko": "Target과 Aerie 같은 소매업체들이 단순한 제휴 링크에만 의존하지 않는 다각적 접근 방식이 필요하다는 것을 깨달으면서 크리에이터 프로그램을 변화시키고 있습니다. 기존의 직접적인 제휴 거래를 넘어서는 새로운 형태의 크리에이터 파트너십이 등장하고 있습니다. 소매업체들이 크리에이터와의 협업에서 더욱 전략적이고 통합적인 접근 방식을 채택하고 있습니다.",
-    "summary_en": "Retailers like Target and Aerie are transforming their creator programs as they realize the need for a multifaceted approach that doesn't rely solely on affiliate links. New forms of creator partnerships are emerging beyond traditional direct affiliate deals. Retailers are adopting more strategic and integrated approaches to creator collaboration.",
-    "so_what_ko": "D2C 브랜드는 단순한 제휴 마케팅을 넘어 크리에이터와의 장기적이고 전략적인 파트너십을 구축해야 합니다.",
-    "so_what_en": "D2C brands must build long-term, strategic partnerships with creators beyond simple affiliate marketing.",
+    "title_en": "Prime Video NASCAR Sponsorship Drives Measurable Sales Results for Brand Partners",
+    "summary_ko": "Prime Video의 NASCAR 중계를 통해 스폰서 브랜드들이 실질적인 매출 성과를 거두고 있다. 로지텍은 2025년 성공적인 NASCAR 스폰서십에 이어 Prime Video를 통해 G 브랜드 시뮬레이터를 선보이는 새로운 캠페인을 진행 중이다. 스트리밍 플랫폼의 스포츠 콘텐츠가 브랜드 마케팅에 효과적인 채널로 입증되고 있다.",
+    "summary_en": "Prime Video's NASCAR coverage is delivering tangible sales results for sponsor brands. Logitech is leveraging the platform to debut its G brand simulators in a new campaign following successful 2025 NASCAR sponsorship. The streaming platform's sports content is proving to be an effective channel for brand marketing initiatives.",
+    "so_what_ko": "스트리밍 플랫폼의 스포츠 콘텐츠 스폰서십이 실제 매출로 연결되는 것을 보여주며, LG는 Prime Video 등 주요 스트리밍 서비스와의 협업을 통해 제품 마케팅 효과를 극대화할 수 있다.",
+    "so_what_en": "The proven ROI from streaming platform sports sponsorship suggests LG should consider partnerships with major streaming services like Prime Video to maximize product marketing effectiveness and drive measurable sales results.",
     "key_points": [
-      "Retailers moving beyond basic affiliate link strategies",
-      "Creator programs requiring multifaceted approaches",
-      "Target and Aerie leading evolution in creator partnerships",
-      "Strategic integration replacing simple transactional relationships"
+      "Prime Video NASCAR sponsorship delivering measurable sales impact",
+      "Logitech expanding G brand presence through streaming platform",
+      "Sports content proving effective for brand marketing on streaming platforms"
     ],
     "tags": [
-      "creator-economy",
-      "influencer-marketing",
-      "affiliate-marketing",
-      "brand-partnerships"
+      "streaming-marketing",
+      "sports-sponsorship",
+      "brand-partnerships",
+      "prime-video"
     ],
-    "confidence": 0.8,
+    "confidence": 0.7,
     "strategic_theme": "AI_MARKETING",
     "regions": [
       "AMER"
@@ -178,63 +36,20 @@
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Target",
-      "Aerie"
+      "Prime Video",
+      "NASCAR",
+      "Logitech",
+      "G brand"
     ],
-    "one_line_insight_ko": "크리에이터 마케팅이 단순 제휴에서 전략적 파트너십으로 진화하고 있습니다.",
-    "one_line_insight_en": "Creator marketing is evolving from simple affiliations to strategic partnerships.",
+    "one_line_insight_ko": "스트리밍 플랫폼 스포츠 콘텐츠 스폰서십이 실제 매출 성과로 이어지는 새로운 마케팅 채널로 부상하고 있다.",
+    "one_line_insight_en": "Streaming platform sports content sponsorship is emerging as a new marketing channel that delivers measurable sales results.",
     "ai_processed": true
   },
   {
-    "title": "Codex is becoming a productivity tool for everyone",
-    "link": "https://openai.com/index/codex-for-knowledge-work",
-    "date_published": "2026-06-02",
-    "description": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
-    "source_id": "openai_blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
-    "categories": [
-      "tech"
-    ],
-    "relevance_score": 0.5,
-    "relevance_label": "high",
-    "title_en": "OpenAI Codex Transforms into Universal Productivity Tool for Knowledge Workers",
-    "summary_ko": "OpenAI Codex가 모든 사람을 위한 생산성 도구로 발전하고 있습니다. 'The Next Era of Knowledge Work' 보고서는 Codex가 AI 기반 연구, 데이터 분석, 워크플로우 자동화, 콘텐츠 생성을 통해 생산성을 어떻게 변화시키고 있는지 탐구합니다. 지식 근로자들을 위한 포괄적인 AI 도구로서의 역할이 확대되고 있습니다.",
-    "summary_en": "OpenAI Codex is evolving into a productivity tool for everyone. The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation. Its role as a comprehensive AI tool for knowledge workers is expanding.",
-    "so_what_ko": "D2C 조직은 Codex와 같은 AI 도구를 활용하여 콘텐츠 생성, 데이터 분석, 업무 자동화를 통한 운영 효율성 향상을 고려해야 합니다.",
-    "so_what_en": "D2C organizations should consider leveraging AI tools like Codex for operational efficiency improvements through content creation, data analysis, and workflow automation.",
-    "key_points": [
-      "Codex expanding beyond coding to general productivity",
-      "AI-powered research and data analysis capabilities",
-      "Workflow automation and content creation features",
-      "Universal tool for knowledge workers across industries"
-    ],
-    "tags": [
-      "openai-codex",
-      "productivity-tools",
-      "workflow-automation",
-      "ai-research"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "EMERGING_TECH",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "OpenAI",
-      "Codex"
-    ],
-    "one_line_insight_ko": "AI 도구가 코딩 전용에서 범용 지식 업무 생산성 플랫폼으로 확장되고 있습니다.",
-    "one_line_insight_en": "AI tools are expanding from coding-specific to universal knowledge work productivity platforms.",
-    "ai_processed": true
-  },
-  {
-    "title": "Target has alienated Black-owned brands,  founders say, as some startups vanish from its shelves",
-    "link": "https://www.modernretail.co/operations/target-has-alienated-black-owned-brands-founders-say-as-some-startups-vanish-from-its-shelves/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-06-02",
-    "description": "Target's relationship with Black founders is under a microscope, as the retailer mounts a comeback. \nModern Retail spoke with several Black founders who refuse to work with Target again, or whose products have been pulled from the shelves over the last few years. Some cited the company's decision to pull back on certain DEI programs last year as a source of lingering frustration.",
+    "title": "How The Cycle convinced Sprouts to find a place for its menstrual cycle-synced drinks in stores",
+    "link": "https://www.modernretail.co/operations/how-the-cycle-convinced-sprouts-to-find-a-place-for-its-menstrual-cycle-synced-drinks-in-stores/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-06-03",
+    "description": "The Cycle believes its menstrual cycle-synced drinks are poised for explosive retail growth. But first, it has to convince buyers to carry its products -- and, where to put them in stores.",
     "source_id": "modern_retail",
     "source_name": "Modern Retail",
     "source_url": "https://www.modernretail.co/feed/",
@@ -242,24 +57,23 @@
       "commerce",
       "strategy"
     ],
-    "relevance_score": 0.3,
+    "relevance_score": 0.7,
     "relevance_label": "high",
-    "title_en": "Target alienates Black-owned brands as founders cite DEI pullback frustrations",
-    "summary_ko": "타겟이 흑인 창업자들과의 관계에서 어려움을 겪고 있으며, 일부 제품이 매장에서 사라지고 있습니다. 여러 흑인 창업자들이 타겟과의 재협업을 거부하고 있다고 밝혔습니다. 작년 DEI 프로그램 축소 결정이 지속적인 불만의 원인으로 지목되고 있습니다.",
-    "summary_en": "Target is facing relationship challenges with Black founders as some startups' products disappear from shelves. Several Black founders told Modern Retail they refuse to work with Target again. The company's decision to pull back on DEI programs last year is cited as a source of ongoing frustration.",
-    "so_what_ko": "대형 리테일러의 DEI 정책 변화가 브랜드 파트너십에 직접적 영향을 미치고 있어, D2C 브랜드는 리테일 파트너의 가치관과 정책 일관성을 신중히 검토해야 합니다.",
-    "so_what_en": "Major retailers' DEI policy changes directly impact brand partnerships, requiring D2C brands to carefully evaluate retail partners' values alignment and policy consistency for long-term relationships.",
+    "title_en": "The Cycle Convinces Sprouts to Stock Menstrual Cycle-Synced Functional Drinks",
+    "summary_ko": "더 사이클(The Cycle)은 생리주기에 맞춘 기능성 음료를 스프라우츠 매장에 입점시키는데 성공했다. 이 브랜드는 제품의 폭발적인 소매 성장 가능성을 믿고 있지만, 먼저 바이어들을 설득하고 매장 내 적절한 진열 위치를 찾아야 하는 과제를 안고 있다. D2C에서 시작된 브랜드가 오프라인 소매로 확장하는 전형적인 사례를 보여준다.",
+    "summary_en": "The Cycle successfully convinced Sprouts to carry its menstrual cycle-synced functional drinks in stores. The brand believes its products are poised for explosive retail growth but faces challenges in convincing buyers and determining optimal store placement. This represents a typical case of D2C brands expanding into offline retail channels.",
+    "so_what_ko": "니치한 기능성 제품도 적절한 포지셔닝과 설득을 통해 주요 소매채널 진입이 가능하며, LG D2C 브랜드들도 독특한 가치 제안을 통해 오프라인 확장 기회를 모색할 수 있다.",
+    "so_what_en": "Even niche functional products can gain access to major retail channels through proper positioning and persuasion, suggesting LG D2C brands can explore offline expansion opportunities with unique value propositions.",
     "key_points": [
-      "Black-owned brands are being removed from Target's shelves",
-      "Founders cite DEI program pullback as source of frustration",
-      "Several founders refuse future collaboration with Target",
-      "Retailer relationship management under scrutiny"
+      "D2C brand successfully transitioning to traditional retail",
+      "Niche functional products finding placement in mainstream stores",
+      "Store placement strategy crucial for category-defining products"
     ],
     "tags": [
-      "target",
-      "diversity-equity-inclusion",
-      "black-owned-brands",
-      "retail-partnerships"
+      "d2c-expansion",
+      "functional-beverages",
+      "retail-placement",
+      "sprouts"
     ],
     "confidence": 0.8,
     "strategic_theme": "RETAIL_TRANSFORMATION",
@@ -267,325 +81,456 @@
       "AMER"
     ],
     "business_impact": "MEDIUM",
-    "sentiment": "THREAT",
+    "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Target",
-      "Black-owned brands",
-      "Modern Retail"
+      "The Cycle",
+      "Sprouts",
+      "functional drinks"
     ],
-    "one_line_insight_ko": "대형 리테일러의 DEI 정책 변화가 브랜드 파트너십 생태계에 직접적 영향을 미치고 있습니다.",
-    "one_line_insight_en": "Major retailers' DEI policy shifts are directly impacting brand partnership ecosystems.",
+    "one_line_insight_ko": "니치한 D2C 브랜드도 명확한 가치 제안을 통해 주류 소매채널 진입이 가능하다는 것을 입증하고 있다.",
+    "one_line_insight_en": "Niche D2C brands can successfully penetrate mainstream retail channels with clear value propositions and strategic positioning.",
     "ai_processed": true
   },
   {
-    "title": "FAQs for Google’s ‘Preferred Sources’",
-    "link": "https://www.practicalecommerce.com/faqs-for-googles-preferred-sources",
-    "date_published": "2026-06-01",
-    "description": "Websites flagged as preferred sources see increased visibility in AI answers, more returning visitors, and likely greater trust from Google.\nThe post FAQs for Google’s ‘Preferred Sources’ appeared first on Practical Ecommerce.",
+    "title": "Why European Ecommerce Fails in the U.S.",
+    "link": "https://www.practicalecommerce.com/why-european-ecommerce-fails-in-the-u-s",
+    "date_published": "2026-06-02",
+    "description": "European consumers prioritize the right decision. Americans seek easy, confident choices.\nThe post Why European Ecommerce Fails in the U.S. appeared first on Practical Ecommerce.",
     "source_id": "practical_ecommerce",
     "source_name": "Practical Ecommerce",
     "source_url": "https://www.practicalecommerce.com/feed",
     "categories": [
-      "marketing",
-      "tech"
+      "commerce",
+      "strategy"
     ],
     "relevance_score": 0.8,
     "relevance_label": "high",
-    "title_en": "Google's 'Preferred Sources' program boosts AI search visibility and website trust",
-    "summary_ko": "구글의 '선호 소스' 프로그램에 선정된 웹사이트들이 AI 검색 결과에서 높은 가시성을 얻고 있습니다. 이러한 사이트들은 재방문율 증가와 구글로부터의 신뢰도 향상을 경험하고 있습니다. AI 답변에서의 노출 증가가 주요 혜택으로 나타나고 있습니다.",
-    "summary_en": "Websites flagged as Google's 'Preferred Sources' are gaining increased visibility in AI search results. These sites experience higher returning visitor rates and enhanced trust from Google's algorithms. Increased exposure in AI-generated answers represents the primary benefit of the program.",
-    "so_what_ko": "AI 검색 환경에서 구글의 '선호 소스' 인증을 받는 것이 브랜드 가시성과 신뢰도 확보에 핵심적이므로, D2C 브랜드는 고품질 콘텐츠 전략을 통해 이 프로그램 진입을 목표로 해야 합니다.",
-    "so_what_en": "Achieving Google's 'Preferred Sources' status is crucial for brand visibility and trust in AI search environments, requiring D2C brands to focus on high-quality content strategies for program entry.",
+    "title_en": "Cultural Shopping Preferences Explain Why European Ecommerce Struggles in America",
+    "summary_ko": "유럽 이커머스가 미국 시장에서 실패하는 이유는 문화적 쇼핑 선호도 차이에 있다. 유럽 소비자들은 올바른 결정을 우선시하는 반면, 미국 소비자들은 쉽고 확신 있는 선택을 추구한다. 이러한 근본적인 차이는 글로벌 이커머스 전략 수립 시 반드시 고려해야 할 요소이다.",
+    "summary_en": "European ecommerce fails in the U.S. due to fundamental cultural differences in shopping preferences. European consumers prioritize making the right decision, while Americans seek easy and confident choices. This fundamental difference must be considered when developing global ecommerce strategies.",
+    "so_what_ko": "글로벌 시장 진출 시 각 지역의 쇼핑 문화를 깊이 이해하고 현지화된 UX/UI 설계가 필수적이며, LG는 지역별 맞춤형 D2C 전략을 개발해야 한다.",
+    "so_what_en": "Global market expansion requires deep understanding of regional shopping cultures and localized UX/UI design, necessitating region-specific D2C strategies for LG's international operations.",
     "key_points": [
-      "Preferred sources gain increased AI search visibility",
-      "Enhanced trust signals from Google algorithms",
-      "Higher returning visitor rates observed",
-      "AI answer prominence drives traffic quality"
+      "Cultural shopping preferences differ significantly between regions",
+      "European focus on 'right decision' vs American preference for 'easy choice'",
+      "Localization beyond language crucial for ecommerce success"
     ],
     "tags": [
-      "google-preferred-sources",
-      "ai-search",
-      "seo",
-      "content-strategy"
+      "cultural-commerce",
+      "global-strategy",
+      "user-experience",
+      "localization"
     ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_MARKETING",
+    "confidence": 0.8,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "regions": [
+      "GLOBAL",
+      "AMER",
+      "EMEA"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "European ecommerce",
+      "American consumers"
+    ],
+    "one_line_insight_ko": "글로벌 이커머스 성공의 핵심은 언어가 아닌 문화적 쇼핑 선호도를 이해하고 반영하는 것이다.",
+    "one_line_insight_en": "Global ecommerce success hinges on understanding and adapting to cultural shopping preferences, not just language localization.",
+    "ai_processed": true
+  },
+  {
+    "title": "Dollar General sales soar as customers trade down at ‘accelerated’ rate",
+    "link": "https://www.retaildive.com/news/dollar-general-sales-soar-customers-trade-down/821715/",
+    "date_published": "2026-06-02",
+    "description": "The discount retailer’s Q1 sales jumped 3.4% as rural shoppers see an outsized impact from increased gas prices.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "commerce"
+    ],
+    "relevance_score": 0.5,
+    "relevance_label": "high",
+    "title_en": "Dollar General Sales Surge as Gas Price Inflation Accelerates Consumer Trade-Down",
+    "summary_ko": "달러 제너럴의 1분기 매출이 3.4% 급증했으며, 이는 고객들이 가속화된 속도로 저가 제품으로 갈아타고 있기 때문이다. 특히 농촌 지역 쇼핑객들이 증가하는 유가로 인해 큰 영향을 받고 있다. 경제적 압박이 소비자들의 쇼핑 패턴을 근본적으로 변화시키고 있음을 보여준다.",
+    "summary_en": "Dollar General's Q1 sales jumped 3.4% as customers increasingly trade down to discount options at an accelerated rate. Rural shoppers are experiencing outsized impact from rising gas prices. Economic pressures are fundamentally shifting consumer shopping patterns toward value-oriented retailers.",
+    "so_what_ko": "경제적 압박으로 인한 가격 민감도 증가는 LG D2C 브랜드들이 가치 중심의 포지셔닝과 경쟁력 있는 가격 전략을 강화해야 함을 시사한다.",
+    "so_what_en": "Rising price sensitivity due to economic pressures suggests LG D2C brands must strengthen value-oriented positioning and competitive pricing strategies to maintain market share.",
+    "key_points": [
+      "Discount retailers benefiting from accelerated consumer trade-down",
+      "Gas price inflation disproportionately affecting rural consumers",
+      "Economic pressures reshaping retail landscape toward value positioning"
+    ],
+    "tags": [
+      "trade-down",
+      "discount-retail",
+      "economic-pressure",
+      "consumer-behavior"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "Dollar General",
+      "gas prices",
+      "rural consumers"
+    ],
+    "one_line_insight_ko": "경제적 압박으로 인한 소비자 트레이드다운 가속화가 소매 업계 전반의 가격 경쟁을 심화시키고 있다.",
+    "one_line_insight_en": "Accelerated consumer trade-down due to economic pressures is intensifying price competition across the retail industry.",
+    "ai_processed": true
+  },
+  {
+    "title": "Amazon offers AI agent tech to other retailers",
+    "link": "https://www.retaildive.com/news/amazon-to-offer-ai-agents-to-other-retailers/821597/",
+    "date_published": "2026-06-02",
+    "description": "The online retail behemoth wants to narrow the time it takes for retailers to launch AI shopping assistants, starting with Kate Spade.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "commerce",
+      "tech"
+    ],
+    "relevance_score": 0.9,
+    "relevance_label": "high",
+    "title_en": "Amazon Democratizes AI Shopping Assistants by Offering Agent Technology to Competitors",
+    "summary_ko": "아마존이 다른 소매업체들에게 AI 에이전트 기술을 제공하기 시작했다. 이 온라인 소매 거대 기업은 소매업체들이 AI 쇼핑 어시스턴트를 출시하는 데 걸리는 시간을 단축하고자 하며, 케이트 스페이드를 시작으로 서비스를 확대하고 있다. 이는 AI 커머스 기술의 민주화를 의미하는 중요한 전환점이다.",
+    "summary_en": "Amazon is offering its AI agent technology to other retailers to compete with its own platform. The online retail giant wants to reduce the time it takes for retailers to launch AI shopping assistants, starting with Kate Spade. This represents a significant shift toward democratizing AI commerce technology across the retail industry.",
+    "so_what_ko": "아마존의 AI 에이전트 기술 개방은 모든 소매업체가 고도화된 AI 쇼핑 경험을 제공할 수 있게 하며, LG는 이러한 기술을 활용해 자사 D2C 플랫폼의 경쟁력을 빠르게 강화할 수 있다.",
+    "so_what_en": "Amazon's AI agent technology offering enables all retailers to provide sophisticated AI shopping experiences, allowing LG to rapidly enhance its D2C platform competitiveness by leveraging these advanced capabilities.",
+    "key_points": [
+      "Amazon democratizing AI shopping assistant technology",
+      "Reduced time-to-market for AI commerce implementations",
+      "Kate Spade as pilot partner for Amazon's AI agent services"
+    ],
+    "tags": [
+      "ai-agents",
+      "amazon-technology",
+      "retail-ai",
+      "shopping-assistants"
+    ],
+    "confidence": 0.9,
+    "strategic_theme": "AI_AGENT",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Google",
-      "Preferred Sources",
-      "AI search"
+      "Amazon",
+      "AI agents",
+      "Kate Spade",
+      "shopping assistants"
     ],
-    "one_line_insight_ko": "AI 검색 시대에서 구글의 선호 소스 인증이 브랜드 가시성 확보의 핵심 게이트웨이가 되고 있습니다.",
-    "one_line_insight_en": "Google's Preferred Sources certification is becoming the key gateway for brand visibility in the AI search era.",
+    "one_line_insight_ko": "아마존의 AI 에이전트 기술 개방으로 모든 소매업체가 고도화된 AI 쇼핑 경험 제공이 가능해져 경쟁 환경이 평준화되고 있다.",
+    "one_line_insight_en": "Amazon's democratization of AI agent technology is leveling the playing field by enabling all retailers to offer sophisticated AI shopping experiences.",
     "ai_processed": true
   },
   {
-    "title": "A new app, The Mall, is building a universal feed for online shopping",
-    "link": "https://techcrunch.com/2026/06/01/a-new-app-the-mall-is-building-a-universal-feed-for-online-shopping/",
-    "date_published": "2026-06-01",
-    "description": "The Mall lets shoppers build a personalized feed of brands, track sales and drops, and discover products across thousands of retailers.",
-    "source_id": "techcrunch_commerce",
-    "source_name": "TechCrunch Commerce",
-    "source_url": "https://techcrunch.com/category/commerce/feed",
+    "title": "Amazon reveals Prime Day dates",
+    "link": "https://www.retaildive.com/news/amazon-prime-day-dates-june-2026/821713/",
+    "date_published": "2026-06-02",
+    "description": "The e-commerce company moved the event to June, and is encouraging shoppers to use its Alexa for Shopping AI tech.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "commerce",
+      "ai_marketing"
+    ],
+    "relevance_score": 0.7,
+    "relevance_label": "high",
+    "title_en": "Amazon Moves Prime Day to June 2026, Promotes Alexa Shopping AI",
+    "summary_ko": "아마존이 프라임 데이를 6월로 이동하고 쇼핑을 위한 알렉사 AI 기술 사용을 권장한다고 발표했습니다. 이번 변경은 전통적인 7월 일정에서 벗어나 새로운 시기를 시험하는 것입니다. 쇼핑 AI 기술을 통해 고객 경험을 향상시키려는 전략적 의도를 보여줍니다.",
+    "summary_en": "Amazon announced it is moving Prime Day to June and encouraging shoppers to use its Alexa for Shopping AI technology. This represents a departure from the traditional July timing for the annual shopping event. The company is strategically promoting its AI shopping capabilities to enhance customer experience during the event.",
+    "so_what_ko": "아마존의 프라임 데이 시기 변경과 AI 쇼핑 기술 강조는 D2C 브랜드들이 주요 쇼핑 이벤트 일정을 재검토하고 음성 AI 커머스 준비의 필요성을 시사합니다.",
+    "so_what_en": "Amazon's Prime Day timing shift and AI shopping emphasis signals D2C brands need to reassess major shopping event schedules and prepare for voice-enabled AI commerce integration.",
+    "key_points": [
+      "Amazon moves Prime Day from July to June 2026",
+      "Company promotes Alexa for Shopping AI technology",
+      "Strategic shift toward AI-enhanced shopping experiences"
+    ],
+    "tags": [
+      "prime-day",
+      "alexa-ai",
+      "voice-commerce",
+      "shopping-events"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "AI_COMMERCE",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Amazon",
+      "Prime Day",
+      "Alexa"
+    ],
+    "one_line_insight_ko": "아마존의 프라임 데이 AI 통합은 음성 커머스가 주류 쇼핑 이벤트의 핵심 요소로 부상하고 있음을 보여줍니다.",
+    "one_line_insight_en": "Amazon's Prime Day AI integration signals voice commerce becoming a core element of mainstream shopping events.",
+    "ai_processed": true
+  },
+  {
+    "title": "Mass retailers draw level with supermarkets as primary grocery destinations",
+    "link": "https://www.retaildive.com/news/grocery-shopping-supermarkets-mass-retailers-fmi-food/821692/",
+    "date_published": "2026-06-02",
+    "description": "People have become just as likely to cite a retailer like Walmart or Target as a supermarket when asked where they spend most of their food budget, according to data from FMI.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.4,
+    "relevance_label": "high",
+    "title_en": "Mass Retailers Match Supermarkets as Primary Grocery Shopping Destinations",
+    "summary_ko": "FMI 데이터에 따르면 소비자들이 식료품 예산을 지출하는 주요 장소로 월마트나 타겟 같은 대형 소매업체를 슈퍼마켓만큼 자주 언급하고 있습니다. 이는 식료품 쇼핑 패턴의 중대한 변화를 나타냅니다. 대형 소매업체들이 전통적인 슈퍼마켓과 동등한 위치에 올랐음을 보여줍니다.",
+    "summary_en": "According to FMI data, consumers are equally likely to cite mass retailers like Walmart or Target as supermarkets when asked where they spend most of their food budget. This represents a significant shift in grocery shopping patterns. Mass retailers have achieved parity with traditional supermarkets as primary grocery destinations.",
+    "so_what_ko": "식료품 쇼핑의 대형 소매업체 선호 증가는 D2C 식품 브랜드들이 멀티채널 전략과 대형 소매 파트너십을 강화해야 함을 의미합니다.",
+    "so_what_en": "The rise of mass retailers in grocery shopping indicates D2C food brands must strengthen multi-channel strategies and mass retail partnerships.",
+    "key_points": [
+      "Mass retailers now equal supermarkets as primary grocery destinations",
+      "Walmart and Target cited as frequently as traditional supermarkets",
+      "Significant shift in consumer grocery shopping patterns"
+    ],
+    "tags": [
+      "grocery-retail",
+      "mass-retailers",
+      "shopping-patterns",
+      "walmart",
+      "target"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Walmart",
+      "Target",
+      "FMI"
+    ],
+    "one_line_insight_ko": "대형 소매업체의 식료품 시장 점유율 상승은 전통적인 유통 경계가 무너지고 있음을 보여줍니다.",
+    "one_line_insight_en": "Mass retailers' grocery market share growth demonstrates the breakdown of traditional retail channel boundaries.",
+    "ai_processed": true
+  },
+  {
+    "title": "Cotopaxi prepares data for agentic AI discovery, learning from marketplace integrations",
+    "link": "https://www.digitalcommerce360.com/2026/06/02/cotopaxi-prepares-data-for-agentic-ai-discovery/",
+    "date_published": "2026-06-02",
+    "description": "Digitally native outdoor gear brand Cotopaxi has expanded its reach since its founding 12 years ago, now operating 22 physical stores, selling wholesale and through online marketplaces — and it’s now preparing its data to be able to sell through agentic AI platforms as well. Part of that data preparation has already begun. To sell […]\nThe post Cotopaxi prepares data for agentic AI discovery, learning from marketplace integrations appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
     "categories": [
       "commerce",
       "tech"
     ],
-    "relevance_score": 0.7,
+    "relevance_score": 0.9,
     "relevance_label": "high",
-    "title_en": "The Mall app creates universal shopping feed across thousands of retailers",
-    "summary_ko": "새로운 앱 '더 몰'이 온라인 쇼핑을 위한 범용 피드를 구축하고 있습니다. 이 앱은 쇼핑객들이 브랜드의 개인화된 피드를 만들고 세일과 신제품 출시를 추적할 수 있게 합니다. 수천 개의 리테일러에서 제품을 발견할 수 있는 플랫폼을 제공합니다.",
-    "summary_en": "A new app called The Mall is building a universal feed for online shopping experiences. The platform allows shoppers to create personalized brand feeds and track sales and product drops. It provides product discovery across thousands of retailers in a unified interface.",
-    "so_what_ko": "통합 쇼핑 피드 플랫폼의 등장은 D2C 브랜드들이 새로운 고객 접점을 확보할 기회를 제공하지만, 동시에 브랜드 차별화와 직접 관계 구축에 더욱 집중해야 함을 시사합니다.",
-    "so_what_en": "The emergence of unified shopping feed platforms offers new customer touchpoints for D2C brands, but also emphasizes the need for stronger brand differentiation and direct relationship building.",
+    "title_en": "Cotopaxi Prepares Data Infrastructure for Agentic AI Commerce Discovery",
+    "summary_ko": "아웃도어 기어 브랜드 코토팍시가 에이전틱 AI 플랫폼을 통한 판매를 위해 데이터를 준비하고 있습니다. 12년 전 설립된 이 디지털 네이티브 브랜드는 현재 22개 매장을 운영하며 도매와 온라인 마켓플레이스를 통해 판매하고 있습니다. 마켓플레이스 통합 경험을 바탕으로 에이전틱 AI 대비 데이터 준비 작업을 시작했습니다.",
+    "summary_en": "Outdoor gear brand Cotopaxi is preparing its data infrastructure to sell through agentic AI platforms. The digitally native brand, founded 12 years ago, now operates 22 physical stores and sells through wholesale and online marketplaces. The company is leveraging its marketplace integration experience to prepare data for agentic AI commerce.",
+    "so_what_ko": "코토팍시의 에이전틱 AI 준비는 D2C 브랜드들이 AI 에이전트 기반 커머스에 대비한 데이터 구조화와 상품 정보 최적화를 시급히 준비해야 함을 시사합니다.",
+    "so_what_en": "Cotopaxi's agentic AI preparation signals D2C brands must urgently structure data and optimize product information for AI agent-based commerce.",
     "key_points": [
-      "Universal shopping feed across multiple retailers",
-      "Personalized brand following and tracking features",
-      "Sales and product drop notifications",
-      "Discovery platform for thousands of retailers"
+      "Cotopaxi preparing data for agentic AI platform sales",
+      "Brand operates 22 stores plus wholesale and marketplace channels",
+      "Learning from marketplace integrations to prepare for AI agents"
     ],
     "tags": [
-      "shopping-app",
-      "universal-feed",
-      "product-discovery",
-      "retail-aggregation"
+      "agentic-ai",
+      "data-preparation",
+      "outdoor-gear",
+      "omnichannel"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Cotopaxi"
+    ],
+    "one_line_insight_ko": "코토팍시의 에이전틱 AI 대비 데이터 준비는 AI 에이전트 커머스 시대를 위한 필수 인프라 구축의 선제적 사례입니다.",
+    "one_line_insight_en": "Cotopaxi's agentic AI data preparation represents a proactive case of building essential infrastructure for the AI agent commerce era.",
+    "ai_processed": true
+  },
+  {
+    "title": "FedEx spins off FedEx Freight into new company",
+    "link": "https://www.digitalcommerce360.com/2026/06/02/fedex-spins-off-fedex-freight-into-new-company/",
+    "date_published": "2026-06-02",
+    "description": "FedEx Corp. announced that it completed its separation of FedEx Freight into a separate, independent business on June 1.  The fulfillment operator first shared plans to separate FedEx Freight in December 2024. The move also coincides with the exit of FedEx chief financial officer John Dietrich.  “The successful separation of FedEx Freight is a pivotal […]\nThe post FedEx spins off FedEx Freight into new company appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.3,
+    "relevance_label": "high",
+    "title_en": "FedEx Completes Separation of FedEx Freight into Independent Business",
+    "summary_ko": "페덱스가 6월 1일 페덱스 프레이트를 독립적인 별도 사업체로 분리 완료했다고 발표했습니다. 이 물류 운영업체는 2024년 12월 페덱스 프레이트 분리 계획을 처음 공유했습니다. 이번 분리는 페덱스 최고재무책임자 존 디트리히의 퇴임과도 동시에 이루어졌습니다.",
+    "summary_en": "FedEx Corp. announced it completed the separation of FedEx Freight into an independent business on June 1. The fulfillment operator first shared plans to separate FedEx Freight in December 2024. The move coincides with the departure of FedEx CFO John Dietrich.",
+    "so_what_ko": "페덱스의 프레이트 분리는 D2C 브랜드들이 물류 파트너십을 다양화하고 특화된 배송 서비스 옵션을 고려해야 할 새로운 기회를 제공합니다.",
+    "so_what_en": "FedEx's freight separation provides D2C brands new opportunities to diversify logistics partnerships and consider specialized shipping service options.",
+    "key_points": [
+      "FedEx completed separation of FedEx Freight on June 1",
+      "Plans were first announced in December 2024",
+      "CFO John Dietrich departure coincides with separation"
+    ],
+    "tags": [
+      "fedex",
+      "logistics",
+      "business-separation",
+      "freight"
     ],
     "confidence": 0.8,
     "strategic_theme": "PLATFORM_ECOSYSTEM",
     "regions": [
       "GLOBAL"
     ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "The Mall app",
-      "retail aggregation",
-      "shopping feed"
-    ],
-    "one_line_insight_ko": "통합 쇼핑 피드 플랫폼이 리테일 발견 방식을 혁신하며 브랜드 노출 기회를 확대하고 있습니다.",
-    "one_line_insight_en": "Unified shopping feed platforms are revolutionizing retail discovery and expanding brand exposure opportunities.",
-    "ai_processed": true
-  },
-  {
-    "title": "AI search behavior: What it means for your marketing strategy in 2026",
-    "link": "https://blog.hubspot.com/marketing/ai-search-behavior",
-    "date_published": "2026-06-01",
-    "description": "AI search behavior may be causing a dip in your traffic, but it’s also sending higher-quality leads your way. For marketers, that second part is a massive win. AI search was the number one predictor of purchase intent for CRM software buyers, according to HubSpot’s State of AEO 2026 report. And there are more findings from the report that every go-to-market team needs to know.",
-    "source_id": "hubspot_marketing",
-    "source_name": "HubSpot Marketing Blog",
-    "source_url": "https://blog.hubspot.com/marketing/rss.xml",
-    "categories": [
-      "marketing",
-      "tech"
-    ],
-    "relevance_score": 0.9,
-    "relevance_label": "high",
-    "title_en": "AI search behavior drives higher-quality leads despite traffic decline in 2026",
-    "summary_ko": "AI 검색 행동이 트래픽 감소를 유발할 수 있지만 더 높은 품질의 리드를 제공하고 있습니다. HubSpot의 2026 AEO 보고서에 따르면 AI 검색이 CRM 소프트웨어 구매자의 구매 의도를 예측하는 최고의 지표였습니다. 마케터들에게는 이러한 고품질 리드 확보가 큰 승리를 의미합니다.",
-    "summary_en": "AI search behavior may cause traffic dips but delivers higher-quality leads for businesses. According to HubSpot's State of AEO 2026 report, AI search was the top predictor of purchase intent for CRM software buyers. For marketers, this higher lead quality represents a significant win despite lower volume.",
-    "so_what_ko": "AI 검색이 트래픽 수량보다 품질에 초점을 맞추고 있어, D2C 브랜드는 AI 최적화된 콘텐츠로 고의도 고객 유치에 집중하고 기존 트래픽 지표 평가 방식을 재검토해야 합니다.",
-    "so_what_en": "As AI search prioritizes quality over quantity, D2C brands should focus on AI-optimized content for high-intent customer acquisition and reconsider traditional traffic metric evaluation approaches.",
-    "key_points": [
-      "AI search drives higher-quality leads despite lower traffic",
-      "Top predictor of purchase intent for software buyers",
-      "Shift from volume to quality metrics in marketing",
-      "Need for AI-optimized content strategies"
-    ],
-    "tags": [
-      "ai-search-behavior",
-      "lead-quality",
-      "purchase-intent",
-      "marketing-strategy"
-    ],
-    "confidence": 0.9,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "HubSpot",
-      "AI search",
-      "AEO report",
-      "CRM software"
-    ],
-    "one_line_insight_ko": "AI 검색이 마케팅 성과 지표를 트래픽 볼륨에서 리드 품질로 전환시키고 있습니다.",
-    "one_line_insight_en": "AI search is shifting marketing performance metrics from traffic volume to lead quality.",
-    "ai_processed": true
-  },
-  {
-    "title": "NBCU points to premium video’s broad value as social marketing rises",
-    "link": "https://www.marketingdive.com/news/nbcu-points-to-premium-videos-broad-value-as-social-marketing-rises/821533/",
-    "date_published": "2026-06-01",
-    "description": "The broadcaster and partner Gain Theory detailed how premium video can boost the middle funnel — and what’s lost in its absence.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
-    "categories": [
-      "marketing"
-    ],
-    "relevance_score": 0.6,
-    "relevance_label": "high",
-    "title_en": "NBCU emphasizes premium video's middle funnel value amid social marketing growth",
-    "summary_ko": "NBCU가 소셜 마케팅이 증가하는 가운데 프리미엄 비디오의 광범위한 가치를 강조하고 있습니다. 방송사와 파트너 Gain Theory는 프리미엄 비디오가 중간 퍼널을 강화할 수 있는 방법을 상세히 설명했습니다. 프리미엄 비디오가 없을 때 잃게 되는 가치에 대해서도 논의했습니다.",
-    "summary_en": "NBCU is highlighting premium video's broad value proposition as social marketing continues to rise. The broadcaster and partner Gain Theory detailed how premium video can enhance the middle funnel performance. They also discussed what marketing value is lost in the absence of premium video content.",
-    "so_what_ko": "프리미엄 비디오 콘텐츠가 중간 퍼널 강화에 핵심 역할을 한다는 점에서, D2C 브랜드는 소셜 마케팅과 프리미엄 비디오의 균형 잡힌 포트폴리오로 고객 여정 전반을 최적화해야 합니다.",
-    "so_what_en": "Given premium video's crucial role in middle funnel enhancement, D2C brands should optimize the entire customer journey with a balanced portfolio of social marketing and premium video content.",
-    "key_points": [
-      "Premium video strengthens middle funnel performance",
-      "Social marketing growth creating content strategy questions",
-      "Value loss identified when premium video is absent",
-      "Need for balanced content portfolio approach"
-    ],
-    "tags": [
-      "premium-video",
-      "middle-funnel",
-      "social-marketing",
-      "content-strategy"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "NBCU",
-      "Gain Theory",
-      "premium video",
-      "social marketing"
-    ],
-    "one_line_insight_ko": "소셜 마케팅 중심 시대에도 프리미엄 비디오가 중간 퍼널 성과에 불가대체적 가치를 제공합니다.",
-    "one_line_insight_en": "Premium video provides irreplaceable middle funnel value even in the social marketing-dominated era.",
-    "ai_processed": true
-  },
-  {
-    "title": "Café Bustelo turns Latin culture into temporary tattoos ahead of World Cup",
-    "link": "https://www.marketingdive.com/news/cafe-bustelo-turns-latin-culture-into-temporary-tattoos-ahead-of-world-cup/821579/",
-    "date_published": "2026-06-01",
-    "description": "The J.M. Smucker brand’s “Game Face” campaign taps into the iconography of tournament heavyweights Argentina, Brazil, Colombia and Mexico.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
-    "categories": [
-      "marketing"
-    ],
-    "relevance_score": 0.3,
-    "relevance_label": "high",
-    "title_en": "Café Bustelo launches cultural tattoo campaign for World Cup marketing",
-    "summary_ko": "J.M. Smucker의 카페 부스텔로가 월드컵을 앞두고 라틴 문화를 활용한 '게임 페이스' 캠페인을 출시했습니다. 아르헨티나, 브라질, 콜롬비아, 멕시코 등 토너먼트 강호국의 아이코노그래피를 임시 타투로 제작했습니다. 라틴 문화와 축구 열정을 결합한 창의적인 마케팅 접근법을 보여줍니다.",
-    "summary_en": "J.M. Smucker's Café Bustelo launched a 'Game Face' campaign ahead of the World Cup featuring Latin culture-inspired temporary tattoos. The campaign taps into iconography from tournament powerhouses Argentina, Brazil, Colombia and Mexico. This represents a creative marketing approach combining Latin cultural identity with soccer passion.",
-    "so_what_ko": "문화적 정체성을 활용한 체험형 마케팅이 브랜드 연결성을 강화할 수 있음을 보여주며, D2C 브랜드도 타겟 고객의 문화적 배경을 깊이 이해하고 활용하는 전략이 필요합니다.",
-    "so_what_en": "This demonstrates how leveraging cultural identity through experiential marketing can strengthen brand connection, suggesting D2C brands need strategies that deeply understand and utilize their target customers' cultural backgrounds.",
-    "key_points": [
-      "Cultural iconography integrated into temporary tattoo products",
-      "World Cup marketing leveraging Latin American heritage",
-      "Experiential campaign targeting specific cultural demographics"
-    ],
-    "tags": [
-      "cultural-marketing",
-      "experiential-campaigns",
-      "world-cup-marketing",
-      "latin-culture"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "AMER"
-    ],
     "business_impact": "LOW",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "Café Bustelo",
-      "J.M. Smucker",
-      "World Cup"
+      "FedEx",
+      "FedEx Freight",
+      "John Dietrich"
     ],
-    "one_line_insight_ko": "문화적 정체성을 제품과 결합한 체험형 마케팅이 타겟 고객과의 감정적 연결을 강화하는 효과적인 전략임을 입증합니다.",
-    "one_line_insight_en": "Cultural identity-driven experiential marketing proves effective for creating emotional connections with target demographics.",
+    "one_line_insight_ko": "페덱스 프레이트 분리는 물류 산업의 전문화와 세분화 트렌드를 반영합니다.",
+    "one_line_insight_en": "FedEx Freight separation reflects the logistics industry's trend toward specialization and segmentation.",
     "ai_processed": true
   },
   {
-    "title": "Hyundai’s CMO on how to make the most of an official World Cup sponsorship",
-    "link": "https://www.marketingdive.com/news/hyundais-cmo-on-how-to-make-the-most-of-an-official-world-cup-sponsorship/821395/",
-    "date_published": "2026-06-01",
-    "description": "The automaker’s U.S. marketing campaign around the tournament, “Next Starts Now,” spans TV ads, social media, experiential activations and more.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
-    "categories": [
-      "marketing"
-    ],
-    "relevance_score": 0.2,
-    "relevance_label": "high",
-    "title_en": "Hyundai CMO shares World Cup sponsorship strategy insights",
-    "summary_ko": "현대자동차의 CMO가 공식 월드컵 스폰서십 활용 방법에 대해 설명했습니다. 'Next Starts Now' 캠페인은 TV 광고, 소셜미디어, 체험형 활성화 등 다양한 채널을 아우릅니다. 대규모 스포츠 이벤트 스폰서십의 효과적 활용 전략을 제시합니다.",
-    "summary_en": "Hyundai's CMO explained how to maximize official World Cup sponsorship benefits through their 'Next Starts Now' campaign. The campaign spans TV ads, social media, and experiential activations across multiple channels. This provides insights into effective utilization of major sports event sponsorships.",
-    "so_what_ko": "대규모 스포츠 이벤트 스폰서십은 통합된 멀티채널 접근법이 핵심이며, D2C 브랜드도 이벤트 마케팅 시 채널 간 시너지를 극대화하는 전략이 필요합니다.",
-    "so_what_en": "Major sports event sponsorships require integrated multi-channel approaches, suggesting D2C brands need strategies that maximize cross-channel synergy in event marketing.",
-    "key_points": [
-      "Multi-channel World Cup sponsorship campaign",
-      "Integration of TV, social media, and experiential activations",
-      "CMO insights on sponsorship ROI maximization"
-    ],
-    "tags": [
-      "sponsorship-marketing",
-      "multi-channel-campaigns",
-      "sports-marketing",
-      "world-cup"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Hyundai",
-      "World Cup"
-    ],
-    "one_line_insight_ko": "대규모 스폰서십의 성공은 TV, 소셜, 체험형 활동을 통합한 멀티채널 전략 실행에 달려있습니다.",
-    "one_line_insight_en": "Successful major sponsorships depend on executing integrated multi-channel strategies across TV, social, and experiential activations.",
-    "ai_processed": true
-  },
-  {
-    "title": "Consumers like AI content until they know it’s AI",
-    "link": "https://martech.org/consumers-like-ai-content-until-they-know-its-ai/",
-    "date_published": "2026-06-01",
-    "description": "Consumers often prefer AI-generated content when it is unlabeled, but trust drops sharply once they learn AI created it.\nThe post Consumers like AI content until they know it’s AI appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
+    "title": "Three Steps to Start Integrating AI and AI Agents Into Your Marketing Workflows",
+    "link": "https://www.marketingaiinstitute.com/blog/ai-b2b-marketers-summit-ai-agents",
+    "date_published": "2026-06-02",
+    "description": "Our 2026 State of AI for Business Report surveyed more than 2,100 business professionals — 86% of whom are B2B marketers — and asked what AI training they want most.",
+    "source_id": "marketing_ai_institute",
+    "source_name": "Marketing AI Institute",
+    "source_url": "https://www.marketingaiinstitute.com/blog/rss.xml",
     "categories": [
       "marketing",
       "tech"
     ],
     "relevance_score": 0.8,
     "relevance_label": "high",
-    "title_en": "Consumer preference for AI content drops when AI origin is revealed",
-    "summary_ko": "소비자들은 AI가 생성한 콘텐츠를 레이블 없이 접할 때는 선호하지만, AI가 만들었다는 사실을 알게 되면 신뢰도가 급격히 떨어집니다. 이는 AI 콘텐츠에 대한 소비자 인식의 복잡성을 보여줍니다. 브랜드의 AI 활용 투명성 전략에 중요한 시사점을 제공합니다.",
-    "summary_en": "Consumers prefer AI-generated content when unlabeled, but trust drops sharply once they learn AI created it. This reveals the complexity of consumer perceptions toward AI content. The findings provide important implications for brand transparency strategies in AI utilization.",
-    "so_what_ko": "AI 콘텐츠 활용 시 투명성과 품질 사이의 균형이 중요하며, D2C 브랜드는 AI 사용을 공개할 때와 방법을 신중히 결정해야 합니다.",
-    "so_what_en": "Balancing transparency and quality in AI content utilization is crucial, requiring D2C brands to carefully decide when and how to disclose AI usage.",
+    "title_en": "Three-Step Framework for Integrating AI Agents into B2B Marketing Workflows",
+    "summary_ko": "2026년 비즈니스용 AI 현황 보고서는 2,100명 이상의 비즈니스 전문가를 대상으로 조사했으며, 그 중 86%가 B2B 마케터입니다. 이들이 가장 원하는 AI 교육에 대해 질문했습니다. 마케팅 워크플로우에 AI와 AI 에이전트를 통합하는 3단계 접근법을 제시합니다.",
+    "summary_en": "The 2026 State of AI for Business Report surveyed over 2,100 business professionals, 86% of whom are B2B marketers, about their most desired AI training. The report presents a three-step approach to integrating AI and AI agents into marketing workflows. The framework addresses the growing demand for practical AI implementation in marketing operations.",
+    "so_what_ko": "B2B 마케터들의 AI 교육 수요 증가는 D2C 마케팅팀이 AI 에이전트 통합을 위한 체계적인 교육과 워크플로우 개선에 투자해야 함을 보여줍니다.",
+    "so_what_en": "Rising AI training demand among B2B marketers indicates D2C marketing teams must invest in systematic education and workflow improvements for AI agent integration.",
     "key_points": [
-      "Consumer preference reversal when AI origin disclosed",
-      "Trust degradation upon AI revelation",
-      "Implications for AI content transparency strategies"
+      "Survey of 2,100+ business professionals, 86% B2B marketers",
+      "Three-step framework for AI agent integration in marketing",
+      "Growing demand for practical AI implementation training"
     ],
     "tags": [
-      "ai-content",
-      "consumer-trust",
-      "transparency",
-      "ai-perception"
+      "ai-agents",
+      "b2b-marketing",
+      "workflow-integration",
+      "marketing-automation"
     ],
-    "confidence": 0.8,
+    "confidence": 0.7,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Marketing AI Institute"
+    ],
+    "one_line_insight_ko": "B2B 마케터들의 AI 에이전트 통합 수요는 마케팅 자동화의 새로운 패러다임 전환을 예고합니다.",
+    "one_line_insight_en": "B2B marketers' demand for AI agent integration signals a new paradigm shift in marketing automation.",
+    "ai_processed": true
+  },
+  {
+    "title": "Why ClassPass invested $50M in marketing to supercharge partner growth",
+    "link": "https://www.marketingdive.com/news/why-classpass-invested-50m-in-marketing-to-supercharge-partner-growth/821612/",
+    "date_published": "2026-06-02",
+    "description": "Zach Apter, CMO at ClassPass parent Playlist, explains how the booking platform is using performance marketing to grow the market for partner studios.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
+    "categories": [
+      "marketing"
+    ],
+    "relevance_score": 0.7,
+    "relevance_label": "high",
+    "title_en": "ClassPass Invests $50M in Performance Marketing to Drive Partner Studio Growth",
+    "summary_ko": "ClassPass의 모회사 Playlist의 CMO Zach Apter가 파트너 스튜디오 성장을 위해 5천만 달러를 마케팅에 투자한다고 발표했습니다. 이 플랫폼은 성과 기반 마케팅을 통해 파트너 스튜디오 시장을 확대하고 있습니다. 예약 플랫폼으로서 파트너 생태계 성장에 집중한 마케팅 전략을 구사하고 있습니다.",
+    "summary_en": "ClassPass parent company Playlist's CMO Zach Apter announced a $50 million marketing investment to drive partner studio growth. The booking platform is leveraging performance marketing to expand the market for partner studios. The strategy focuses on growing the partner ecosystem rather than just direct customer acquisition.",
+    "so_what_ko": "D2C 브랜드는 파트너십 마케팅을 통해 생태계 전체를 성장시키는 전략을 고려해야 합니다.",
+    "so_what_en": "D2C brands should consider partnership marketing strategies that grow entire ecosystems rather than just direct sales.",
+    "key_points": [
+      "$50M investment in performance marketing for partner growth",
+      "Focus on expanding partner studio market rather than direct acquisition",
+      "CMO-led strategy emphasizing ecosystem development"
+    ],
+    "tags": [
+      "performance-marketing",
+      "partner-growth",
+      "ecosystem-marketing"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "ClassPass",
+      "Playlist",
+      "Zach Apter"
+    ],
+    "one_line_insight_ko": "D2C 성공을 위해서는 직접 고객 확보보다 파트너 생태계 성장에 투자하는 것이 더 효과적일 수 있습니다.",
+    "one_line_insight_en": "Investing in partner ecosystem growth may be more effective for D2C success than direct customer acquisition.",
+    "ai_processed": true
+  },
+  {
+    "title": "OpenAI Needs Two CMOs Because It Has a Problem Marketing Can&#8217;t Solve",
+    "link": "https://www.adweek.com/brand-marketing/openai-needs-two-cmos-because-it-has-a-problem-marketing-cant-solve/",
+    "date_published": "2026-06-02",
+    "description": "OpenAI’s brand is in trouble right now. The company is simultaneously preparing for an IPO while projecting losses of $14 billion by the end of 2026. That is not a stable platform from which to build an enterprise brand.",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
+    "categories": [
+      "marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.8,
+    "relevance_label": "high",
+    "title_en": "OpenAI's Dual CMO Strategy Reflects Deeper Brand and Business Challenges",
+    "summary_ko": "OpenAI가 2명의 CMO를 두는 이유는 브랜드 문제가 마케팅만으로는 해결되지 않기 때문입니다. 회사는 IPO 준비 중이면서도 2026년 말까지 140억 달러 손실을 예상하고 있습니다. 이는 기업 브랜드 구축에 불안정한 기반이 되고 있습니다.",
+    "summary_en": "OpenAI needs two CMOs because its brand problems cannot be solved through marketing alone. The company is preparing for an IPO while projecting $14 billion losses by end of 2026. This creates an unstable foundation for building an enterprise brand.",
+    "so_what_ko": "AI 기업의 브랜드 구축은 마케팅 이상의 근본적인 비즈니스 모델 안정성이 필요함을 보여줍니다.",
+    "so_what_en": "AI company brand building requires fundamental business model stability beyond marketing efforts.",
+    "key_points": [
+      "OpenAI appointing two CMOs due to complex brand challenges",
+      "$14 billion projected losses by 2026 despite IPO preparations",
+      "Marketing limitations in solving fundamental business issues"
+    ],
+    "tags": [
+      "openai",
+      "brand-crisis",
+      "ai-marketing"
+    ],
+    "confidence": 0.7,
     "strategic_theme": "AI_MARKETING",
     "regions": [
       "GLOBAL"
@@ -593,18 +538,103 @@
     "business_impact": "HIGH",
     "sentiment": "THREAT",
     "key_entities": [
-      "AI",
-      "MarTech"
+      "OpenAI"
     ],
-    "one_line_insight_ko": "AI 콘텐츠의 품질은 높지만 투명성 공개 시 소비자 신뢰도 하락이라는 딜레마를 해결하는 것이 핵심 과제입니다.",
-    "one_line_insight_en": "The key challenge is resolving the dilemma between high-quality AI content and declining consumer trust upon transparency disclosure.",
+    "one_line_insight_ko": "AI 기업의 마케팅 성공은 기술력보다 지속가능한 비즈니스 모델에 달려있습니다.",
+    "one_line_insight_en": "AI company marketing success depends more on sustainable business models than technological capabilities.",
     "ai_processed": true
   },
   {
-    "title": "How to balance data control and real-time personalization",
-    "link": "https://martech.org/how-to-balance-data-control-and-real-time-personalization/",
-    "date_published": "2026-06-01",
-    "description": "Warehouse native CDPs promise cleaner data, but marketers need new strategies to deliver fast, relevant experiences.\nThe post How to balance data control and real-time personalization appeared first on MarTech.",
+    "title": "Why your best campaign may not deserve more budget",
+    "link": "https://martech.org/why-your-best-campaign-may-not-deserve-more-budget/",
+    "date_published": "2026-06-02",
+    "description": "Doubling spend on a winning campaign can drive costs instead of revenue if there is no new demand to capture.\nThe post Why your best campaign may not deserve more budget appeared first on MarTech.",
+    "source_id": "martech_org",
+    "source_name": "MarTech.org",
+    "source_url": "https://martech.org/feed",
+    "categories": [
+      "marketing"
+    ],
+    "relevance_score": 0.6,
+    "relevance_label": "high",
+    "title_en": "Why Top-Performing Campaigns Don't Always Deserve More Budget",
+    "summary_ko": "성과가 좋은 캠페인에 예산을 두 배로 늘리는 것이 항상 옳은 것은 아닙니다. 새로운 수요가 없다면 비용만 증가하고 매출은 늘지 않을 수 있습니다. 캠페인 확대 시 시장 포화도와 수요 창출 가능성을 고려해야 합니다.",
+    "summary_en": "Doubling budget on winning campaigns isn't always the right move. Without new demand to capture, increased spend can drive costs up without corresponding revenue growth. Campaign scaling requires consideration of market saturation and demand creation potential.",
+    "so_what_ko": "D2C 브랜드는 성과 좋은 캠페인 확대 시 시장 수요 한계를 분석해야 합니다.",
+    "so_what_en": "D2C brands must analyze market demand limits before scaling successful campaigns.",
+    "key_points": [
+      "Doubling campaign spend can increase costs without revenue growth",
+      "Market saturation limits campaign scalability",
+      "Need to assess demand creation potential before budget increases"
+    ],
+    "tags": [
+      "campaign-optimization",
+      "budget-allocation",
+      "demand-generation"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "MarTech"
+    ],
+    "one_line_insight_ko": "성공한 마케팅 캠페인의 무분별한 확대는 오히려 비효율을 초래할 수 있습니다.",
+    "one_line_insight_en": "Indiscriminate scaling of successful marketing campaigns can lead to inefficiency.",
+    "ai_processed": true
+  },
+  {
+    "title": "Scale gets you in the door, but workflows keep you embedded",
+    "link": "https://martech.org/scale-gets-you-in-the-door-but-workflows-keep-you-embedded/",
+    "date_published": "2026-06-02",
+    "description": "AI makes software easier to replicate. The vendors that last become part of how customers operate every day.\nThe post Scale gets you in the door, but workflows keep you embedded appeared first on MarTech.",
+    "source_id": "martech_org",
+    "source_name": "MarTech.org",
+    "source_url": "https://martech.org/feed",
+    "categories": [
+      "tech",
+      "strategy"
+    ],
+    "relevance_score": 0.8,
+    "relevance_label": "high",
+    "title_en": "AI Software Success Requires Workflow Integration Beyond Scale",
+    "summary_ko": "AI가 소프트웨어 복제를 쉽게 만들면서, 규모는 시장 진입에 도움이 되지만 워크플로우 통합이 장기 생존의 열쇠입니다. 지속하는 벤더들은 고객의 일상 운영에 필수적인 부분이 됩니다. 단순한 기능 제공을 넘어 고객 워크플로우에 깊이 통합되어야 합니다.",
+    "summary_en": "As AI makes software easier to replicate, scale helps with market entry but workflow integration is key to long-term survival. Vendors that last become essential parts of customers' daily operations. Success requires deep integration into customer workflows beyond simple feature provision.",
+    "so_what_ko": "D2C 플랫폼은 고객의 일상 프로세스에 깊이 통합되어야 경쟁우위를 확보할 수 있습니다.",
+    "so_what_en": "D2C platforms must integrate deeply into customers' daily processes to maintain competitive advantage.",
+    "key_points": [
+      "AI enables easier software replication, reducing scale advantages",
+      "Workflow integration becomes critical differentiator",
+      "Successful vendors embed into customers' daily operations"
+    ],
+    "tags": [
+      "workflow-integration",
+      "ai-software",
+      "competitive-advantage"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "AI_COMMERCE",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "AI",
+      "MarTech"
+    ],
+    "one_line_insight_ko": "AI 시대의 경쟁우위는 규모가 아닌 고객 워크플로우 통합 깊이에서 나옵니다.",
+    "one_line_insight_en": "Competitive advantage in the AI era comes from workflow integration depth, not scale.",
+    "ai_processed": true
+  },
+  {
+    "title": "What happens to Marketing Cloud as the data layer takes charge at Salesforce?",
+    "link": "https://martech.org/what-happens-to-marketing-cloud-as-the-data-layer-takes-charge-at-salesforce/",
+    "date_published": "2026-06-02",
+    "description": "Salesforce reported a strong quarter, but marketing is taking a back seat to data and AI. \nThe post What happens to Marketing Cloud as the data layer takes charge at Salesforce? appeared first on MarTech.",
     "source_id": "martech_org",
     "source_name": "MarTech.org",
     "source_url": "https://martech.org/feed",
@@ -614,21 +644,20 @@
     ],
     "relevance_score": 0.9,
     "relevance_label": "high",
-    "title_en": "Balancing data control with real-time personalization strategies",
-    "summary_ko": "웨어하우스 네이티브 CDP가 더 깨끗한 데이터를 약속하지만, 마케터들은 빠르고 관련성 높은 경험을 제공하기 위한 새로운 전략이 필요합니다. 데이터 제어와 실시간 개인화 사이의 균형이 핵심 과제로 부상하고 있습니다. 고품질 데이터와 실시간 고객 경험 제공의 트레이드오프를 다룹니다.",
-    "summary_en": "Warehouse native CDPs promise cleaner data, but marketers need new strategies to deliver fast, relevant experiences. Balancing data control with real-time personalization has emerged as a key challenge. This addresses the trade-off between high-quality data and real-time customer experience delivery.",
-    "so_what_ko": "D2C 브랜드는 데이터 품질과 실시간 개인화 속도 사이의 균형점을 찾아야 하며, CDP 선택 시 이 두 요소를 모두 고려한 전략이 필요합니다.",
-    "so_what_en": "D2C brands must find the balance between data quality and real-time personalization speed, requiring strategies that consider both factors when selecting CDP solutions.",
+    "title_en": "Salesforce Shifts Focus from Marketing Cloud to Data and AI",
+    "summary_ko": "Salesforce가 강한 실적을 보고했지만, 마케팅은 데이터와 AI에 뒷자리를 내주고 있습니다. Marketing Cloud의 미래가 불확실해지면서 데이터 레이어가 주도권을 잡고 있습니다. 이는 마케팅 기술 생태계의 변화를 보여주는 신호입니다.",
+    "summary_en": "Despite reporting strong quarterly results, Salesforce is deprioritizing marketing in favor of data and AI initiatives. Marketing Cloud's future becomes uncertain as the data layer takes control. This signals a broader shift in the marketing technology ecosystem.",
+    "so_what_ko": "마케팅 자동화보다 데이터와 AI 기반 고객 인사이트에 투자 우선순위를 두어야 합니다.",
+    "so_what_en": "Investment priorities should shift from marketing automation to data and AI-driven customer insights.",
     "key_points": [
-      "Warehouse native CDP data quality benefits",
-      "Real-time personalization delivery challenges",
-      "Strategic balance between data control and speed"
+      "Salesforce strong quarter but marketing taking back seat to data/AI",
+      "Marketing Cloud future uncertain as data layer dominates",
+      "Signals broader martech ecosystem transformation"
     ],
     "tags": [
-      "cdp",
-      "real-time-personalization",
-      "data-strategy",
-      "martech"
+      "salesforce",
+      "marketing-cloud",
+      "data-strategy"
     ],
     "confidence": 0.8,
     "strategic_theme": "DATA_STRATEGY",
@@ -636,60 +665,13 @@
       "GLOBAL"
     ],
     "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "CDP",
-      "MarTech"
-    ],
-    "one_line_insight_ko": "데이터 품질과 실시간 개인화 속도의 균형점을 찾는 것이 현대 D2C 마케팅의 핵심 경쟁력입니다.",
-    "one_line_insight_en": "Finding the balance between data quality and real-time personalization speed is the core competitive advantage in modern D2C marketing.",
-    "ai_processed": true
-  },
-  {
-    "title": "Industry Insider: 5 Martech Trends to Watch This Summer",
-    "link": "https://www.salesforce.com/blog/martech-trends/",
-    "date_published": "2026-06-01",
-    "description": "Shifts in data strategy, AI adoption and platform consolidation are reshaping how brands act on customer data in the moment. Here's what you can do about it.",
-    "source_id": "salesforce_agentforce",
-    "source_name": "Salesforce Agentforce Blog",
-    "source_url": "https://www.salesforce.com/blog/category/ai/feed/",
-    "categories": [
-      "tech",
-      "marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.9,
-    "relevance_label": "high",
-    "title_en": "Five key martech trends reshaping summer strategies",
-    "summary_ko": "데이터 전략, AI 도입, 플랫폼 통합의 변화가 브랜드가 고객 데이터를 실시간으로 활용하는 방식을 재편하고 있습니다. 여름 시즌 주요 마케팅 기술 트렌드 5가지가 제시되었습니다. 브랜드들이 순간적인 고객 데이터 활용을 위한 새로운 접근법을 모색하고 있습니다.",
-    "summary_en": "Shifts in data strategy, AI adoption and platform consolidation are reshaping how brands act on customer data in real-time. Five key martech trends for the summer season have been identified. Brands are exploring new approaches to leverage customer data in the moment.",
-    "so_what_ko": "D2C 브랜드는 데이터 전략 변화와 AI 도입 트렌드를 주시하며, 플랫폼 통합을 통한 실시간 고객 경험 최적화 전략을 수립해야 합니다.",
-    "so_what_en": "D2C brands must monitor data strategy shifts and AI adoption trends while developing real-time customer experience optimization strategies through platform consolidation.",
-    "key_points": [
-      "Data strategy transformation trends",
-      "AI adoption acceleration in martech",
-      "Platform consolidation for real-time insights"
-    ],
-    "tags": [
-      "martech-trends",
-      "ai-adoption",
-      "platform-consolidation",
-      "data-strategy"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "PLATFORM_ECOSYSTEM",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
+    "sentiment": "THREAT",
     "key_entities": [
       "Salesforce",
-      "Agentforce",
-      "MarTech"
+      "Marketing Cloud"
     ],
-    "one_line_insight_ko": "데이터 전략과 AI 도입의 융합이 실시간 고객 경험 최적화의 새로운 패러다임을 만들고 있습니다.",
-    "one_line_insight_en": "The convergence of data strategy and AI adoption is creating a new paradigm for real-time customer experience optimization.",
+    "one_line_insight_ko": "마케팅 기술의 미래는 캠페인 실행보다 데이터 인텔리전스에 달려있습니다.",
+    "one_line_insight_en": "The future of marketing technology lies in data intelligence rather than campaign execution.",
     "ai_processed": true
   }
 ]
