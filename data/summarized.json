@@ -1,102 +1,552 @@
 [
   {
-    "title": "Targeting Amazon Prime Day, Walmart Deals event moves to June",
-    "link": "https://www.retaildive.com/news/amazon-prime-day-competitor-walmart-deals-event-june/822471/",
-    "date_published": "2026-06-10",
-    "description": "The retailer will give early deals access to Walmart+ members and is rolling out a campaign with a fictional boy band to spur interest in the sale.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
+    "title": "The World Cup is a big chance for retail media to prove itself to advertisers",
+    "link": "https://digiday.com/media/the-world-cup-is-a-big-chance-for-retail-media-to-prove-itself-to-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-06-12",
+    "description": "The World Cup, being much longer than other sporting events with more opportunities for campaigns, will likely serve as a case study for future retail media activations.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
     "categories": [
-      "commerce",
-      "strategy"
+      "marketing"
+    ],
+    "relevance_score": 0.7,
+    "relevance_label": "high",
+    "title_en": "World Cup Presents Major Opportunity for Retail Media Networks to Demonstrate Value to Advertisers",
+    "summary_ko": "월드컵이 다른 스포츠 이벤트보다 더 긴 기간 동안 진행되어 캠페인 기회가 많아 리테일 미디어 네트워크에게 중요한 기회가 됩니다. 이번 대회는 향후 리테일 미디어 활성화를 위한 케이스 스터디 역할을 할 것으로 예상됩니다. 광고주들에게 리테일 미디어의 가치를 증명할 수 있는 핵심 시점이 될 것입니다.",
+    "summary_en": "The World Cup offers retail media networks a significant opportunity due to its extended duration providing more campaign opportunities compared to other sporting events. This tournament is expected to serve as a case study for future retail media activations. It represents a crucial moment for retail media to prove its value proposition to advertisers.",
+    "so_what_ko": "LG D2C는 월드컵 기간 중 리테일 미디어 투자를 확대하여 브랜드 노출을 극대화하고 성과 데이터를 축적해야 합니다.",
+    "so_what_en": "LG D2C should increase retail media investments during the World Cup to maximize brand exposure and accumulate performance data for future campaigns.",
+    "key_points": [
+      "World Cup's extended duration creates more advertising campaign opportunities",
+      "Event will serve as case study for retail media effectiveness",
+      "Critical moment for retail media networks to demonstrate value to advertisers"
+    ],
+    "tags": [
+      "retail-media",
+      "world-cup",
+      "advertising",
+      "sports-marketing"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "World Cup",
+      "retail media networks"
+    ],
+    "one_line_insight_ko": "월드컵은 리테일 미디어 네트워크가 광고주들에게 장기간 캠페인 효과를 입증할 수 있는 절호의 기회입니다.",
+    "one_line_insight_en": "The World Cup presents a golden opportunity for retail media networks to prove long-term campaign effectiveness to advertisers.",
+    "ai_processed": true
+  },
+  {
+    "title": "Ads of the Week: 10 Campaigns That Caught Our Eye, From Uber Eats to American Eagle",
+    "link": "https://www.adweek.com/creativity/ads-of-the-week-10-campaigns-that-caught-our-eye-from-uber-eats-to-american-eagle/",
+    "date_published": "2026-06-12",
+    "description": "Martini, American Eagle, Uber Eats, M&M's, and more are behind the week’s most notable ads.",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
+    "categories": [
+      "marketing"
+    ],
+    "relevance_score": 0.4,
+    "relevance_label": "high",
+    "title_en": "Weekly Campaign Spotlight: Creative Excellence from Uber Eats, American Eagle and Leading Brands",
+    "summary_ko": "이번 주 주목받은 광고 캠페인에는 Uber Eats, American Eagle, Martini, M&M's 등 주요 브랜드들이 포함되었습니다. 각 브랜드들은 창의적이고 눈에 띄는 마케팅 접근법을 선보였습니다. 이들 캠페인은 업계에서 벤치마크할 만한 창의성을 보여주고 있습니다.",
+    "summary_en": "This week's notable advertising campaigns feature major brands including Uber Eats, American Eagle, Martini, and M&M's. Each brand demonstrated creative and attention-grabbing marketing approaches. These campaigns showcase industry-benchmarkable creativity and innovation.",
+    "so_what_ko": "LG D2C는 이러한 창의적 캠페인 사례들을 분석하여 자사 마케팅 전략에 혁신적 요소를 도입해야 합니다.",
+    "so_what_en": "LG D2C should analyze these creative campaign examples to incorporate innovative elements into their own marketing strategies.",
+    "key_points": [
+      "Multiple major brands featured in weekly campaign highlights",
+      "Focus on creative and attention-grabbing marketing approaches",
+      "Industry benchmarks for advertising creativity and innovation"
+    ],
+    "tags": [
+      "creative-campaigns",
+      "brand-marketing",
+      "advertising-trends"
+    ],
+    "confidence": 0.5,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Uber Eats",
+      "American Eagle",
+      "Martini",
+      "M&M's"
+    ],
+    "one_line_insight_ko": "주요 브랜드들의 창의적 캠페인 사례는 마케팅 혁신을 위한 벤치마크 자료로 활용 가능합니다.",
+    "one_line_insight_en": "Creative campaigns from major brands serve as valuable benchmarks for marketing innovation opportunities.",
+    "ai_processed": true
+  },
+  {
+    "title": "Open-box marketplace Rebel is now selling better-for-you snacks",
+    "link": "https://www.modernretail.co/operations/open-box-marketplace-rebel-is-now-selling-better-for-you-snacks/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-06-12",
+    "description": "Open-box marketplace Rebel, which raised a $25 million Series B last November, is now getting into the snacks category. The new section launched with better-for-you, shelf-stable brands like MadeGood, Purely Elizabeth, Chomps and Annie's, at discounts of 12-70%.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
+    "categories": [
+      "commerce"
     ],
     "relevance_score": 0.6,
     "relevance_label": "high",
-    "title_en": "Walmart Moves Deals Event to June to Challenge Amazon Prime Day",
-    "summary_ko": "월마트가 아마존 프라임데이에 대응하기 위해 딜 이벤트를 6월로 이동했습니다. 월마트 플러스 멤버들에게 조기 접근 권한을 제공하고 가상 보이밴드 캠페인을 전개합니다. 이는 아마존과의 직접적인 경쟁을 위한 전략적 타이밍 조정입니다.",
-    "summary_en": "Walmart has moved its deals event to June to directly compete with Amazon Prime Day. The retailer will provide early access to Walmart+ members and launch a fictional boy band campaign to generate interest. This represents a strategic timing shift to directly challenge Amazon's dominant shopping event.",
-    "so_what_ko": "대형 리테일러들의 멤버십 기반 할인 이벤트 경쟁이 치열해지고 있어, D2C 브랜드는 이러한 메가 세일 기간에 차별화된 마케팅 전략이 필요합니다.",
-    "so_what_en": "With major retailers intensifying membership-based deal event competition, D2C brands need differentiated marketing strategies during these mega-sale periods to stand out.",
+    "title_en": "Open-Box Marketplace Rebel Expands into Better-for-You Snacks Category with Premium Discounts",
+    "summary_ko": "작년 11월 2500만 달러 시리즈 B를 유치한 오픈박스 마켓플레이스 Rebel이 건강 스낵 카테고리로 사업을 확장했습니다. MadeGood, Purely Elizabeth, Chomps, Annie's 등 건강식품 브랜드들을 12-70% 할인된 가격으로 판매하고 있습니다. 이는 유통기한이 긴 건강식품 시장에서의 새로운 비즈니스 모델을 제시합니다.",
+    "summary_en": "Open-box marketplace Rebel, which raised $25 million Series B in November, has expanded into the better-for-you snacks category. The platform offers premium healthy brands like MadeGood, Purely Elizabeth, Chomps and Annie's at 12-70% discounts. This represents a new business model in the shelf-stable healthy food market.",
+    "so_what_ko": "LG D2C는 오픈박스 모델을 통한 재고 최적화와 프리미엄 브랜드의 접근성 향상 전략을 검토해야 합니다.",
+    "so_what_en": "LG D2C should consider open-box models for inventory optimization and improving accessibility to premium brands.",
     "key_points": [
-      "Walmart strategically moves deals event to June to compete with Amazon Prime Day",
-      "Early access benefits for Walmart+ members mirror Amazon's Prime membership strategy",
-      "Creative marketing campaign with fictional boy band shows innovative promotional approaches"
+      "Rebel raised $25 million Series B funding in November 2025",
+      "Expansion into better-for-you snacks with 12-70% discounts",
+      "Features premium healthy brands like MadeGood, Purely Elizabeth, Chomps, Annie's"
     ],
     "tags": [
-      "walmart",
-      "amazon-prime-day",
-      "retail-competition",
-      "membership-programs"
+      "open-box-marketplace",
+      "healthy-snacks",
+      "discount-retail",
+      "series-b-funding"
     ],
     "confidence": 0.8,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "strategic_theme": "RETAIL_TRANSFORMATION",
     "regions": [
       "AMER"
     ],
     "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
+    "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Walmart",
-      "Amazon",
-      "Prime Day",
-      "Walmart+"
+      "Rebel",
+      "MadeGood",
+      "Purely Elizabeth",
+      "Chomps",
+      "Annie's"
     ],
-    "one_line_insight_ko": "대형 리테일러들의 멤버십 기반 할인 이벤트 경쟁이 D2C 브랜드의 마케팅 타이밍 전략에 영향을 미치고 있습니다.",
-    "one_line_insight_en": "Major retailers' membership-based deal event competition is reshaping D2C brands' marketing timing strategies.",
+    "one_line_insight_ko": "오픈박스 모델은 프리미엄 건강식품 브랜드의 접근성을 높이며 새로운 유통 혁신을 제시합니다.",
+    "one_line_insight_en": "The open-box model enhances accessibility to premium healthy brands while presenting new retail distribution innovation.",
     "ai_processed": true
   },
   {
-    "title": "Agency AI pitches are starting to face harder questions",
-    "link": "https://digiday.com/marketing/agency-ai-pitches-are-starting-to-face-harder-questions/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "title": "AI Turns Ecommerce Design into Reality",
+    "link": "https://www.practicalecommerce.com/ai-turns-ecommerce-design-into-reality",
     "date_published": "2026-06-11",
-    "description": "As agencies race to sell proprietary AI the future of marketing, 3C Ventures argues advertisers need more proof.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
+    "description": "For merchants, the savings in time and money could be a game-changer.\nThe post AI Turns Ecommerce Design into Reality appeared first on Practical Ecommerce.",
+    "source_id": "practical_ecommerce",
+    "source_name": "Practical Ecommerce",
+    "source_url": "https://www.practicalecommerce.com/feed",
+    "categories": [
+      "tech",
+      "commerce"
+    ],
+    "relevance_score": 0.9,
+    "relevance_label": "high",
+    "title_en": "AI Transforms Ecommerce Design Process with Time and Cost Savings for Merchants",
+    "summary_ko": "AI가 이커머스 디자인 과정을 현실로 구현하며 머천트들에게 시간과 비용 절약을 제공하고 있습니다. 이러한 AI 기술의 도입은 온라인 쇼핑몰 운영에 게임체인저가 될 수 있습니다. 디자인 자동화를 통해 중소 이커머스 업체들도 전문적인 온라인 스토어를 구축할 수 있게 되었습니다.",
+    "summary_en": "AI is transforming the ecommerce design process into reality, offering merchants significant time and cost savings. The adoption of this AI technology could be a game-changer for online store operations. Design automation enables even small ecommerce businesses to build professional online stores.",
+    "so_what_ko": "LG D2C는 AI 디자인 도구를 활용하여 온라인 스토어 구축 및 최적화 비용을 절감하고 빠른 시장 진입을 실현해야 합니다.",
+    "so_what_en": "LG D2C should leverage AI design tools to reduce online store development costs and achieve faster market entry.",
+    "key_points": [
+      "AI enables rapid transformation of ecommerce design concepts into reality",
+      "Significant time and cost savings for merchants",
+      "Game-changing technology for online store operations"
+    ],
+    "tags": [
+      "ai-design",
+      "ecommerce-automation",
+      "cost-savings",
+      "design-tools"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "AI_COMMERCE",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "AI design tools",
+      "ecommerce platforms"
+    ],
+    "one_line_insight_ko": "AI 디자인 자동화는 이커머스 진입장벽을 낮추며 중소기업도 전문적인 온라인 스토어 구축을 가능하게 합니다.",
+    "one_line_insight_en": "AI design automation lowers ecommerce barriers, enabling even small businesses to build professional online stores.",
+    "ai_processed": true
+  },
+  {
+    "title": "Shoe Carnival changes corporate name to Shoe Station Group",
+    "link": "https://www.retaildive.com/news/shoe-carnival-name-change-shoe-station-group-ticker-nasdaq/822618/",
+    "date_published": "2026-06-11",
+    "description": "The retailer's new ticker symbol will be \"SHOE\" and the company will expand the business through the acquisition of other footwear companies.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "strategy"
+    ],
+    "relevance_score": 0.3,
+    "relevance_label": "high",
+    "title_en": "Shoe Carnival Rebrands to Shoe Station Group, Plans Expansion Through Strategic Acquisitions",
+    "summary_ko": "Shoe Carnival이 회사명을 Shoe Station Group으로 변경하고 나스닥 티커 심볼을 'SHOE'로 교체했습니다. 이번 리브랜딩은 다른 신발 회사들을 인수하여 사업을 확장하려는 전략의 일환입니다. 회사는 M&A를 통한 성장 전략에 집중하고 있습니다.",
+    "summary_en": "Shoe Carnival has changed its corporate name to Shoe Station Group and updated its NASDAQ ticker symbol to 'SHOE'. This rebranding is part of a strategy to expand business through acquisitions of other footwear companies. The company is focusing on growth through M&A strategies.",
+    "so_what_ko": "LG D2C는 브랜드 포트폴리오 확장을 위한 M&A 전략과 리브랜딩을 통한 시장 포지셔닝 강화 방안을 검토해야 합니다.",
+    "so_what_en": "LG D2C should consider M&A strategies for brand portfolio expansion and rebranding for stronger market positioning.",
+    "key_points": [
+      "Corporate name change from Shoe Carnival to Shoe Station Group",
+      "New NASDAQ ticker symbol 'SHOE'",
+      "Strategy focused on expanding through footwear company acquisitions"
+    ],
+    "tags": [
+      "corporate-rebranding",
+      "ma-strategy",
+      "footwear-retail",
+      "expansion"
+    ],
+    "confidence": 0.9,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Shoe Carnival",
+      "Shoe Station Group",
+      "NASDAQ"
+    ],
+    "one_line_insight_ko": "리테일러의 전략적 리브랜딩과 M&A 확장은 시장 지배력 강화를 위한 핵심 전략입니다.",
+    "one_line_insight_en": "Strategic rebranding and M&A expansion by retailers represents a key strategy for strengthening market dominance.",
+    "ai_processed": true
+  },
+  {
+    "title": "Ecommerce Trends: How do retailers improve conversion with omnichannel options?",
+    "link": "https://www.digitalcommerce360.com/2026/06/11/ecommerce-trends-how-do-retailers-improve-conversion-with-omnichannel-options/",
+    "date_published": "2026-06-11",
+    "description": "Higher conversion rates and omnichannel fulfillment go hand in hand for Retail Chains that are able to provide them. The impact shows up year after year in Digital Commerce 360’s annual Omnichannel Report, and the 2026 edition sheds renewed light on which omnichannel options are most popular, as well as how conversion rates vary between […]\nThe post Ecommerce Trends: How do retailers improve conversion with omnichannel options? appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.7,
+    "relevance_label": "high",
+    "title_en": "Retailers Boost Conversion Rates Through Strategic Omnichannel Fulfillment Options",
+    "summary_ko": "디지털 커머스 360의 2026년 옴니채널 보고서에 따르면, 옴니채널 풀필먼트 옵션과 높은 전환율 사이에 강한 상관관계가 나타났습니다. 리테일 체인들이 다양한 옴니채널 옵션을 제공할수록 전환율이 지속적으로 향상되는 패턴을 보였습니다. 보고서는 가장 인기 있는 옴니채널 옵션과 전환율 차이를 분석하여 새로운 인사이트를 제공했습니다.",
+    "summary_en": "Digital Commerce 360's 2026 Omnichannel Report reveals a strong correlation between omnichannel fulfillment options and higher conversion rates. Retail chains that provide comprehensive omnichannel options consistently show improved conversion performance year over year. The report analyzes the most popular omnichannel options and how conversion rates vary across different fulfillment strategies.",
+    "so_what_ko": "LG D2C는 옴니채널 풀필먼트 전략을 강화하여 전환율을 개선하고, 고객 여정의 각 터치포인트에서 일관된 경험을 제공해야 합니다.",
+    "so_what_en": "LG D2C should strengthen omnichannel fulfillment strategies to improve conversion rates and provide consistent experiences across all customer journey touchpoints.",
+    "key_points": [
+      "Omnichannel fulfillment directly correlates with higher conversion rates",
+      "Annual data consistently shows this trend across retail chains",
+      "2026 report identifies most effective omnichannel strategies"
+    ],
+    "tags": [
+      "omnichannel",
+      "conversion-optimization",
+      "retail-fulfillment"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Digital Commerce 360",
+      "Retail Chains"
+    ],
+    "one_line_insight_ko": "옴니채널 풀필먼트는 단순한 편의성이 아닌 전환율 향상의 핵심 동력입니다.",
+    "one_line_insight_en": "Omnichannel fulfillment is not just about convenience but a core driver of conversion improvement.",
+    "ai_processed": true
+  },
+  {
+    "title": "It’s Time to Use AI as Your Thinking Partner",
+    "link": "https://www.marketingaiinstitute.com/blog/ai-b2b-marketers-summit-thought-partner",
+    "date_published": "2026-06-11",
+    "description": "Most marketers have a transactional relationship with AI, A. Lee Judge says. They put in a request. They get out an asset. They edit it until it sounds like their voice or their brand’s. Then, they repeat.\n \r\nBut Judge, founder of B2B content marketing and production company Content Monsta, explains AI isn’t meant to replace human content creators; it’s meant to elevate them.",
+    "source_id": "marketing_ai_institute",
+    "source_name": "Marketing AI Institute",
+    "source_url": "https://www.marketingaiinstitute.com/blog/rss.xml",
     "categories": [
       "marketing",
       "strategy"
     ],
     "relevance_score": 0.9,
     "relevance_label": "high",
-    "title_en": "Agency AI Pitches Face Increased Scrutiny from Advertisers",
-    "summary_ko": "에이전시들이 독점 AI를 마케팅의 미래로 판매하려 하지만 광고주들의 검증 요구가 강화되고 있습니다. 3C Ventures는 광고주들이 더 많은 증거를 요구해야 한다고 주장합니다. AI 마케팅 솔루션의 실제 효과에 대한 회의론이 증가하고 있습니다.",
-    "summary_en": "Agencies are racing to sell proprietary AI as the future of marketing, but advertisers are demanding stronger proof of effectiveness. 3C Ventures argues that advertisers need more concrete evidence before investing. Skepticism about AI marketing solutions' actual impact is growing among industry professionals.",
-    "so_what_ko": "AI 마케팅 솔루션 도입 시 실제 ROI와 성과 검증을 철저히 하여 과대광고에 휩쓸리지 않도록 신중한 접근이 필요합니다.",
-    "so_what_en": "D2C brands must rigorously verify ROI and performance when adopting AI marketing solutions to avoid falling for overhyped promises without substance.",
+    "title_en": "AI as Strategic Thinking Partner: Moving Beyond Transactional Content Creation",
+    "summary_ko": "대부분의 마케터들은 AI와 거래적 관계를 맺고 있다고 Content Monsta 창립자 A. Lee Judge가 지적했습니다. 요청을 하고 결과물을 받아 편집하는 반복적인 과정에서 벗어나야 한다고 강조했습니다. AI는 인간 콘텐츠 창작자를 대체하는 것이 아니라 그들을 향상시키는 사고 파트너 역할을 해야 한다고 설명했습니다.",
+    "summary_en": "Most marketers maintain a transactional relationship with AI, according to Content Monsta founder A. Lee Judge. They make requests, receive assets, edit them to match their voice, and repeat this cycle. Judge emphasizes that AI isn't meant to replace human content creators but to elevate them as thinking partners.",
+    "so_what_ko": "LG D2C 마케팅 팀은 AI를 단순한 콘텐츠 생성 도구가 아닌 전략적 사고 파트너로 활용하여 더 깊이 있는 브랜드 스토리텔링을 구현해야 합니다.",
+    "so_what_en": "LG D2C marketing teams should leverage AI as a strategic thinking partner rather than just a content generation tool to create more sophisticated brand storytelling.",
     "key_points": [
-      "Agencies face increased scrutiny when pitching proprietary AI marketing solutions",
-      "Advertisers demanding concrete proof of AI effectiveness before investment",
-      "Growing skepticism about AI marketing claims in the industry"
+      "Most marketers use AI transactionally rather than strategically",
+      "AI should serve as a thinking partner to elevate human creativity",
+      "Moving beyond simple request-response cycles improves content quality"
     ],
     "tags": [
-      "ai-marketing",
-      "agency-relations",
-      "marketing-roi",
-      "ai-skepticism"
+      "ai-collaboration",
+      "content-strategy",
+      "marketing-transformation"
     ],
     "confidence": 0.8,
     "strategic_theme": "AI_MARKETING",
     "regions": [
       "GLOBAL"
     ],
-    "business_impact": "HIGH",
-    "sentiment": "NEUTRAL",
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "3C Ventures",
-      "AI agencies",
-      "advertisers"
+      "Content Monsta",
+      "A. Lee Judge"
     ],
-    "one_line_insight_ko": "AI 마케팅 솔루션의 과대광고에 대한 업계의 회의론이 증가하며 실질적 성과 검증이 중요해지고 있습니다.",
-    "one_line_insight_en": "Industry skepticism toward AI marketing hype is growing, making tangible performance validation increasingly critical.",
+    "one_line_insight_ko": "AI를 거래적 도구에서 전략적 사고 파트너로 전환하는 것이 마케팅 혁신의 열쇠입니다.",
+    "one_line_insight_en": "Shifting AI from a transactional tool to a strategic thinking partner is key to marketing innovation.",
     "ai_processed": true
   },
   {
-    "title": "AI ‘girlfriend ads’ are fueling a new wave of MFA sites",
-    "link": "https://digiday.com/media/ai-girlfriend-ads-are-fueling-a-new-wave-of-mfa-sites/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "title": "How to get indexed by ChatGPT [2026]",
+    "link": "https://blog.hubspot.com/marketing/how-to-get-indexed-by-chatgpt",
     "date_published": "2026-06-11",
-    "description": "AI-generated “girlfriend ads” are driving traffic to made-for-advertising sites filled with low-quality content and ads.",
+    "description": "If you want to know how to get indexed by ChatGPT, I’ll show you, but first, I want to clarify: Other articles on this topic conflate “getting indexed by” with “showing up in” ChatGPT — and they are not the same thing. Getting indexed by ChatGPT means OpenAI’s search crawler discovered your page and stored it in OpenAI’s proprietary index (about which very little is publicly known). Showing up in ChatGPT means your content appeared in an answer, which can happen via that index or via a live web fetch triggered by a user’s query.",
+    "source_id": "hubspot_marketing",
+    "source_name": "HubSpot Marketing Blog",
+    "source_url": "https://blog.hubspot.com/marketing/rss.xml",
+    "categories": [
+      "marketing",
+      "tech"
+    ],
+    "relevance_score": 0.8,
+    "relevance_label": "high",
+    "title_en": "Complete Guide to Getting Your Content Indexed and Featured in ChatGPT Search",
+    "summary_ko": "ChatGPT에 '인덱싱되는 것'과 '노출되는 것'은 서로 다른 개념이라고 HubSpot이 설명했습니다. 인덱싱은 OpenAI의 검색 크롤러가 페이지를 발견하여 독자적인 인덱스에 저장하는 것을 의미합니다. 노출은 사용자 쿼리에 대한 답변에 콘텐츠가 나타나는 것으로, 인덱스나 실시간 웹 검색을 통해 가능합니다.",
+    "summary_en": "HubSpot clarifies that getting indexed by ChatGPT differs from appearing in ChatGPT responses. Indexing means OpenAI's search crawler discovered and stored your page in their proprietary index. Appearing in responses can happen through that index or via live web fetch triggered by user queries.",
+    "so_what_ko": "LG는 ChatGPT 인덱싱 최적화를 통해 AI 검색 환경에서 브랜드 가시성을 높이고, 새로운 고객 접점을 확보해야 합니다.",
+    "so_what_en": "LG should optimize for ChatGPT indexing to increase brand visibility in AI search environments and secure new customer touchpoints.",
+    "key_points": [
+      "ChatGPT indexing differs from appearing in responses",
+      "OpenAI uses proprietary search crawlers and indexing systems",
+      "Content can appear via index storage or real-time web fetching"
+    ],
+    "tags": [
+      "chatgpt-seo",
+      "ai-search-optimization",
+      "content-indexing"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "ChatGPT",
+      "OpenAI",
+      "HubSpot"
+    ],
+    "one_line_insight_ko": "AI 검색 시대에는 전통적인 SEO를 넘어 ChatGPT 인덱싱 전략이 필수가 되었습니다.",
+    "one_line_insight_en": "In the AI search era, ChatGPT indexing strategy has become essential beyond traditional SEO.",
+    "ai_processed": true
+  },
+  {
+    "title": "L’Oréal Paris helps shape ‘Legally Blonde’ origin story in streaming tie-up",
+    "link": "https://www.marketingdive.com/news/loreal-paris-helps-shape-legally-blonde-origin-story-in-streaming-tie-up/822611/",
+    "date_published": "2026-06-11",
+    "description": "The brand is a sponsor of the new “Legally Blonde” prequel show “Elle” and is running a co-marketing campaign inspired by social content.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
+    "categories": [
+      "marketing"
+    ],
+    "relevance_score": 0.4,
+    "relevance_label": "high",
+    "title_en": "L'Oréal Paris Partners with Legally Blonde Prequel Series for Integrated Brand Experience",
+    "summary_ko": "L'Oréal Paris가 새로운 '리걸리 블론드' 프리퀄 시리즈 'Elle'의 스폰서로 참여했습니다. 브랜드는 소셜 콘텐츠에서 영감을 받은 공동 마케팅 캠페인을 진행하고 있습니다. 스트리밍 콘텐츠와의 협업을 통해 브랜드 스토리 형성에 적극적으로 참여하고 있습니다.",
+    "summary_en": "L'Oréal Paris serves as a sponsor for the new Legally Blonde prequel series 'Elle' on streaming platforms. The brand is running a co-marketing campaign inspired by social media content. This partnership allows L'Oréal to actively participate in shaping the brand story through streaming content collaboration.",
+    "so_what_ko": "LG는 스트리밍 콘텐츠와의 통합 브랜드 경험을 통해 젊은 소비자층과의 감정적 연결을 강화하고 브랜드 스토리텔링을 확장할 수 있습니다.",
+    "so_what_en": "LG can strengthen emotional connections with younger consumers and expand brand storytelling through integrated brand experiences with streaming content.",
+    "key_points": [
+      "L'Oréal sponsors Legally Blonde prequel series",
+      "Campaign integrates social content inspiration",
+      "Streaming partnerships enable brand story participation"
+    ],
+    "tags": [
+      "streaming-partnerships",
+      "brand-integration",
+      "social-content"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "L'Oréal Paris",
+      "Legally Blonde",
+      "Elle"
+    ],
+    "one_line_insight_ko": "스트리밍 콘텐츠 협업은 브랜드가 스토리 형성에 직접 참여할 수 있는 새로운 마케팅 모델을 제시합니다.",
+    "one_line_insight_en": "Streaming content collaboration presents a new marketing model where brands can directly participate in story creation.",
+    "ai_processed": true
+  },
+  {
+    "title": "How GSTV steps up audience targeting with Stagwell’s agentic system",
+    "link": "https://www.marketingdive.com/news/how-gstv-steps-up-audience-targeting-with-stagwells-agentic-system/822396/",
+    "date_published": "2026-06-11",
+    "description": "Slim Jim maker Conagra Brands is the video network’s first advertiser to incorporate the Stagwell Agentic Targeting System into campaign planning.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
+    "categories": [
+      "marketing",
+      "tech"
+    ],
+    "relevance_score": 0.9,
+    "relevance_label": "high",
+    "title_en": "GSTV Enhances Audience Targeting with Stagwell's Agentic AI System for Precision Advertising",
+    "summary_ko": "GSTV가 Stagwell의 에이전틱 타겟팅 시스템을 도입하여 고객 타겟팅을 개선했습니다. Slim Jim 제조사인 Conagra Brands가 캠페인 기획에 이 시스템을 통합한 첫 번째 광고주가 되었습니다. 이 AI 기반 시스템은 비디오 네트워크의 광고 정밀도를 크게 향상시키고 있습니다.",
+    "summary_en": "GSTV has implemented Stagwell's Agentic Targeting System to improve audience targeting capabilities. Conagra Brands, maker of Slim Jim, became the first advertiser to incorporate this system into campaign planning. This AI-driven system significantly enhances advertising precision for the video network.",
+    "so_what_ko": "LG D2C는 에이전틱 AI 타겟팅 시스템을 도입하여 광고 정밀도를 높이고 캠페인 ROI를 개선할 수 있는 기회를 모색해야 합니다.",
+    "so_what_en": "LG D2C should explore opportunities to implement agentic AI targeting systems to enhance advertising precision and improve campaign ROI.",
+    "key_points": [
+      "GSTV adopts Stagwell's Agentic Targeting System",
+      "Conagra Brands is first advertiser to use the system",
+      "AI-driven targeting significantly improves advertising precision"
+    ],
+    "tags": [
+      "agentic-ai",
+      "audience-targeting",
+      "programmatic-advertising"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "GSTV",
+      "Stagwell",
+      "Conagra Brands",
+      "Slim Jim"
+    ],
+    "one_line_insight_ko": "에이전틱 AI 타겟팅은 광고 정밀도 혁신의 새로운 표준이 되고 있습니다.",
+    "one_line_insight_en": "Agentic AI targeting is becoming the new standard for advertising precision innovation.",
+    "ai_processed": true
+  },
+  {
+    "title": "Scenes from Walmart’s annual Associates Week and shareholder meeting",
+    "link": "https://www.modernretail.co/operations/scenes-from-walmarts-annual-associates-week-and-shareholder-meeting/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-06-11",
+    "description": "Walmart is on a mission to prove that it has the latest, greatest and trendiest assortment, and that it can get it to you faster than anyone else. Last week, reporter Mitchell Parton flew down to the retailer's hometown of Bentonville, Arkansas for Associates Week, its annual shareholder meeting and event where it brings in thousands of employees from around the world. Here's what he found.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.6,
+    "relevance_label": "high",
+    "title_en": "Walmart's Associates Week showcases retail innovation and global expansion strategy",
+    "summary_ko": "월마트가 연례 주주총회 및 임직원 대회에서 최신 트렌드 상품과 빠른 배송 서비스를 강조했습니다. 전 세계 수천 명의 직원들이 아칸소 벤턴빌에 모여 회사의 혁신 전략을 공유했습니다. 월마트는 경쟁사 대비 차별화된 상품 구색과 배송 속도로 시장 우위를 확보하려 합니다.",
+    "summary_en": "Walmart emphasized its latest trending products and fast delivery services at its annual shareholder meeting and Associates Week. Thousands of employees from around the world gathered in Bentonville, Arkansas to share the company's innovation strategy. The retailer aims to secure market advantage through differentiated product assortment and delivery speed compared to competitors.",
+    "so_what_ko": "글로벌 리테일 리더의 전략 방향성을 통해 D2C 브랜드도 상품 트렌드 대응력과 배송 속도 혁신에 집중해야 함을 시사합니다.",
+    "so_what_en": "Global retail leader's strategic direction indicates that D2C brands must also focus on product trend responsiveness and delivery speed innovation.",
+    "key_points": [
+      "Walmart emphasizes latest and trendiest product assortment",
+      "Focus on faster delivery capabilities than competitors",
+      "Global employee engagement through Associates Week",
+      "Strategic positioning in competitive retail landscape"
+    ],
+    "tags": [
+      "walmart",
+      "retail-strategy",
+      "product-assortment",
+      "delivery-speed"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Walmart",
+      "Associates Week",
+      "Bentonville"
+    ],
+    "one_line_insight_ko": "월마트의 트렌드 상품 확보와 배송 속도 경쟁력은 D2C 브랜드의 핵심 차별화 요소임을 보여줍니다.",
+    "one_line_insight_en": "Walmart's focus on trending products and delivery speed demonstrates key differentiation factors for D2C brands.",
+    "ai_processed": true
+  },
+  {
+    "title": "Bolt loses leaders",
+    "link": "https://www.paymentsdive.com/news/bolt-loses-leaders/822505/",
+    "date_published": "2026-06-10",
+    "description": "Two top executives have exited the checkout company in recent weeks as the business reshapes its strategy with AI.",
+    "source_id": "payments_dive",
+    "source_name": "Payments Dive",
+    "source_url": "https://www.paymentsdive.com/feeds/news/",
+    "categories": [
+      "commerce",
+      "tech"
+    ],
+    "relevance_score": 0.7,
+    "relevance_label": "high",
+    "title_en": "Bolt checkout company faces leadership exodus amid AI strategy pivot",
+    "summary_ko": "결제 솔루션 업체 볼트에서 최근 몇 주 동안 두 명의 최고 경영진이 퇴사했습니다. 이는 회사가 AI 기반으로 사업 전략을 재편하는 과정에서 발생한 변화입니다. 볼트는 체크아웃 서비스를 중심으로 AI 통합을 추진하고 있습니다.",
+    "summary_en": "Two top executives have left payment solution company Bolt in recent weeks. This change occurred as the company reshapes its business strategy with AI integration. Bolt is pursuing AI integration centered around its checkout services.",
+    "so_what_ko": "결제 솔루션 업체의 AI 전환 과정에서 나타나는 조직 변화는 D2C 브랜드의 결제 파트너 선택 시 안정성 고려가 필요함을 시사합니다.",
+    "so_what_en": "Organizational changes during payment solution companies' AI transformation indicate D2C brands need to consider stability when choosing payment partners.",
+    "key_points": [
+      "Two senior executives departed from Bolt",
+      "Company reshaping strategy with AI focus",
+      "Checkout service remains core business",
+      "Leadership changes during strategic pivot"
+    ],
+    "tags": [
+      "bolt",
+      "payment-solutions",
+      "leadership-change",
+      "ai-strategy"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "AI_COMMERCE",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "Bolt",
+      "AI",
+      "checkout"
+    ],
+    "one_line_insight_ko": "결제 솔루션 업체의 AI 전환기 리더십 변화는 파트너사 안정성 평가의 중요성을 보여줍니다.",
+    "one_line_insight_en": "Leadership changes at payment solution companies during AI transformation highlight the importance of partner stability assessment.",
+    "ai_processed": true
+  },
+  {
+    "title": "The Rundown: AI clones split the creator economy",
+    "link": "https://digiday.com/media/the-rundown-ai-clones-split-the-creator-economy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-06-12",
+    "description": "Unauthorized AI voice clones and authorized digital twins are splitting the creator economy in half as brands, lawyers, and talent take stock.",
     "source_id": "digiday",
     "source_name": "Digiday",
     "source_url": "https://digiday.com/feed",
@@ -104,45 +554,93 @@
       "marketing",
       "tech"
     ],
-    "relevance_score": 0.7,
+    "relevance_score": 0.8,
     "relevance_label": "high",
-    "title_en": "AI-Generated Girlfriend Ads Drive New Wave of Low-Quality MFA Sites",
-    "summary_ko": "AI로 생성된 '여자친구 광고'가 저품질 콘텐츠와 광고로 가득한 MFA(Made-for-Advertising) 사이트로 트래픽을 유도하고 있습니다. 이러한 광고들이 새로운 형태의 MFA 사이트 확산을 촉진하고 있습니다. 광고 생태계의 품질 저하 문제가 AI 기술 악용으로 가속화되고 있습니다.",
-    "summary_en": "AI-generated girlfriend ads are driving traffic to made-for-advertising sites filled with low-quality content and advertisements. These AI-generated ads are fueling a new wave of MFA site proliferation across the web. The advertising ecosystem's quality degradation is accelerating through AI technology misuse.",
-    "so_what_ko": "AI 생성 콘텐츠의 악용이 광고 생태계 품질을 저하시키고 있어, 브랜드 안전성과 광고 배치 환경에 대한 더욱 엄격한 모니터링이 필요합니다.",
-    "so_what_en": "AI-generated content misuse is degrading advertising ecosystem quality, requiring stricter brand safety monitoring and ad placement environment oversight.",
+    "title_en": "AI voice clones create division in creator economy as brands navigate authenticity",
+    "summary_ko": "AI 음성 복제 기술이 크리에이터 경제를 양분하고 있습니다. 무단 AI 음성 복제와 승인된 디지털 트윈 기술이 공존하면서 브랜드, 변호사, 크리에이터들이 대응 방안을 모색하고 있습니다. 이 기술은 크리에이터 경제의 진정성과 권리 보호 문제를 제기합니다.",
+    "summary_en": "AI voice cloning technology is dividing the creator economy in half. Unauthorized AI voice clones and authorized digital twin technologies coexist while brands, lawyers, and creators seek response strategies. This technology raises issues of authenticity and rights protection in the creator economy.",
+    "so_what_ko": "D2C 브랜드는 AI 크리에이터 콘텐츠 활용 시 저작권과 진정성 문제를 신중히 고려하여 브랜드 리스크를 관리해야 합니다.",
+    "so_what_en": "D2C brands must carefully consider copyright and authenticity issues when utilizing AI creator content to manage brand risks.",
     "key_points": [
-      "AI-generated girlfriend ads creating new wave of made-for-advertising sites",
-      "Low-quality content and ads degrading overall advertising ecosystem",
-      "AI technology being misused to generate problematic advertising content"
+      "Unauthorized AI voice clones vs authorized digital twins",
+      "Creator economy splitting due to AI technology",
+      "Brands, lawyers, and talent evaluating responses",
+      "Authenticity and rights protection challenges"
     ],
     "tags": [
-      "ai-content",
-      "mfa-sites",
-      "brand-safety",
-      "advertising-quality"
+      "ai-voice-clones",
+      "creator-economy",
+      "digital-twins",
+      "brand-authenticity"
     ],
     "confidence": 0.8,
     "strategic_theme": "AI_MARKETING",
     "regions": [
       "GLOBAL"
     ],
-    "business_impact": "MEDIUM",
+    "business_impact": "HIGH",
     "sentiment": "THREAT",
     "key_entities": [
-      "MFA sites",
-      "AI-generated ads",
-      "advertising ecosystem"
+      "AI voice clones",
+      "digital twins",
+      "creator economy"
     ],
-    "one_line_insight_ko": "AI 기술의 악용이 광고 생태계 품질을 저하시키며 브랜드 안전성에 새로운 위협을 제기하고 있습니다.",
-    "one_line_insight_en": "AI technology misuse is degrading advertising ecosystem quality and creating new brand safety threats.",
+    "one_line_insight_ko": "AI 음성 복제 기술은 브랜드의 크리에이터 마케팅 전략에서 진정성과 리스크 관리의 새로운 기준을 요구합니다.",
+    "one_line_insight_en": "AI voice cloning technology demands new standards for authenticity and risk management in brands' creator marketing strategies.",
     "ai_processed": true
   },
   {
-    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-    "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-    "date_published": "2026-06-11",
-    "description": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+    "title": "[AINews] Loopcraft: The Art of Stacking Loops",
+    "link": "https://www.latent.space/p/ainews-loopcraft-the-art-of-stacking",
+    "date_published": "2026-06-12",
+    "description": "a quiet day lets us highlight a great concept from Peter Steinberger, Boris Cherny, and Andrej Karpathy",
+    "source_id": "latent_space",
+    "source_name": "Latent Space (The AI Index)",
+    "source_url": "https://www.latent.space/feed",
+    "categories": [
+      "tech"
+    ],
+    "relevance_score": 0.3,
+    "relevance_label": "high",
+    "title_en": "Loopcraft concept highlights advanced AI engineering loop stacking techniques",
+    "summary_ko": "AI 엔지니어링 분야에서 루프 스택킹이라는 새로운 개념이 주목받고 있습니다. 피터 스타인버거, 보리스 체르니, 안드레이 카르파티 등 업계 전문가들이 이 개념을 제시했습니다. 이는 AI 시스템의 효율성과 성능 향상을 위한 기술적 접근법입니다.",
+    "summary_en": "A new concept called loop stacking is gaining attention in AI engineering field. Industry experts including Peter Steinberger, Boris Cherny, and Andrej Karpathy have introduced this concept. This represents a technical approach for improving AI system efficiency and performance.",
+    "so_what_ko": "AI 엔지니어링의 고도화된 기법은 D2C 브랜드의 AI 도구 선택과 개발 파트너십에서 기술적 역량 평가의 중요성을 시사합니다.",
+    "so_what_en": "Advanced AI engineering techniques indicate the importance of technical capability assessment in D2C brands' AI tool selection and development partnerships.",
+    "key_points": [
+      "Loop stacking concept in AI engineering",
+      "Contributions from industry experts",
+      "Focus on AI system efficiency improvements",
+      "Technical advancement in AI development"
+    ],
+    "tags": [
+      "ai-engineering",
+      "loop-stacking",
+      "system-efficiency",
+      "technical-innovation"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "EMERGING_TECH",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Loopcraft",
+      "Peter Steinberger",
+      "Boris Cherny",
+      "Andrej Karpathy"
+    ],
+    "one_line_insight_ko": "AI 엔지니어링 기법의 발전은 D2C 브랜드의 기술 파트너 선택에서 깊이 있는 기술 역량 평가가 필요함을 보여줍니다.",
+    "one_line_insight_en": "Advances in AI engineering techniques show that D2C brands need in-depth technical capability assessment when selecting technology partners.",
+    "ai_processed": true
+  },
+  {
+    "title": "How Preply combines AI and human tutors to personalize learning",
+    "link": "https://openai.com/index/preply",
+    "date_published": "2026-06-12",
+    "description": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
     "source_id": "openai_blog",
     "source_name": "OpenAI Blog",
     "source_url": "https://openai.com/news/rss.xml",
@@ -152,523 +650,38 @@
     ],
     "relevance_score": 0.6,
     "relevance_label": "high",
-    "title_en": "OpenAI Supports EU Code of Practice for AI Content Transparency",
-    "summary_ko": "OpenAI가 EU의 AI 콘텐츠 투명성에 관한 실행 규범을 지지한다고 발표했습니다. AI 생성 콘텐츠를 사람들이 이해할 수 있도록 돕는 출처 표준과 도구 개발을 발전시키고 있습니다. 신뢰할 수 있는 AI 생태계 구축을 위한 유럽의 노력을 지원합니다.",
-    "summary_en": "OpenAI announced support for the EU Code of Practice on AI content transparency. The company is advancing provenance standards and tools to help people understand AI-generated content. This supports Europe's efforts in building a trustworthy AI ecosystem.",
-    "so_what_ko": "AI 콘텐츠 투명성 규제 강화에 대비하여 AI 생성 콘텐츠의 명확한 표시와 출처 추적 시스템 도입이 필요합니다.",
-    "so_what_en": "D2C brands must prepare for strengthened AI content transparency regulations by implementing clear AI-generated content labeling and provenance tracking systems.",
+    "title_en": "Preply integrates OpenAI for personalized language learning with AI-human tutor combination",
+    "summary_ko": "온라인 언어학습 플랫폼 프레플리가 OpenAI를 활용해 AI 생성 수업 요약 기능을 출시했습니다. 이 서비스는 개인 맞춤형 피드백과 언어 학습 연습 문제를 제공합니다. AI와 인간 튜터의 결합을 통해 개인화된 학습 경험을 창조하고 있습니다.",
+    "summary_en": "Online language learning platform Preply launched AI-generated lesson summary features using OpenAI. The service provides personalized feedback and language learning exercises. It creates personalized learning experiences through the combination of AI and human tutors.",
+    "so_what_ko": "AI와 인간 전문가의 하이브리드 모델은 D2C 서비스에서 개인화된 고객 경험 제공의 새로운 벤치마크를 제시합니다.",
+    "so_what_en": "The hybrid model of AI and human experts presents a new benchmark for providing personalized customer experiences in D2C services.",
     "key_points": [
-      "OpenAI commits to EU AI content transparency standards",
-      "Development of provenance tools for AI-generated content identification",
-      "Regulatory compliance becoming critical for AI content usage"
+      "AI-generated lesson summaries using OpenAI",
+      "Personalized feedback and learning exercises",
+      "Combination of AI and human tutors",
+      "Enhanced personalized learning experience"
     ],
     "tags": [
-      "openai",
-      "eu-regulation",
-      "ai-transparency",
-      "content-provenance"
+      "personalized-learning",
+      "ai-human-hybrid",
+      "openai-integration",
+      "educational-tech"
     ],
-    "confidence": 0.9,
-    "strategic_theme": "DATA_STRATEGY",
+    "confidence": 0.8,
+    "strategic_theme": "AI_PERSONALIZATION",
     "regions": [
-      "EMEA",
       "GLOBAL"
     ],
     "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
+    "sentiment": "OPPORTUNITY",
     "key_entities": [
+      "Preply",
       "OpenAI",
-      "EU",
-      "AI transparency",
-      "content provenance"
+      "AI tutors",
+      "language learning"
     ],
-    "one_line_insight_ko": "AI 콘텐츠 투명성에 대한 규제 강화가 AI 활용 마케팅의 컴플라이언스 요구사항을 높이고 있습니다.",
-    "one_line_insight_en": "Strengthened AI content transparency regulations are raising compliance requirements for AI-powered marketing initiatives.",
-    "ai_processed": true
-  },
-  {
-    "title": "New Ecommerce Tools: June 10, 2026",
-    "link": "https://www.practicalecommerce.com/new-ecommerce-tools-june-10-2026",
-    "date_published": "2026-06-10",
-    "description": "This week's rundown includes new services for livestream commerce, cryptocurrencies, visual search, logistics, AI-powered product intelligence, and more.\nThe post New Ecommerce Tools: June 10, 2026 appeared first on Practical Ecommerce.",
-    "source_id": "practical_ecommerce",
-    "source_name": "Practical Ecommerce",
-    "source_url": "https://www.practicalecommerce.com/feed",
-    "categories": [
-      "commerce",
-      "tech"
-    ],
-    "relevance_score": 0.8,
-    "relevance_label": "high",
-    "title_en": "New Ecommerce Tools Feature AI-Powered Product Intelligence and Visual Search",
-    "summary_ko": "이번 주 새로운 이커머스 도구들이 라이브스트림 커머스, 암호화폐, 비주얼 검색, 물류, AI 기반 제품 인텔리전스 서비스를 포함합니다. 다양한 AI 기반 솔루션들이 이커머스 운영을 개선하고 있습니다. 특히 AI 제품 인텔리전스와 비주얼 검색 기능이 주목받고 있습니다.",
-    "summary_en": "This week's new ecommerce tools include services for livestream commerce, cryptocurrencies, visual search, logistics, and AI-powered product intelligence. Various AI-based solutions are improving ecommerce operations across multiple functions. AI product intelligence and visual search capabilities are particularly noteworthy developments.",
-    "so_what_ko": "AI 기반 제품 인텔리전스와 비주얼 검색 등 새로운 도구들을 활용하여 고객 경험을 향상시키고 운영 효율성을 높일 수 있는 기회가 증가하고 있습니다.",
-    "so_what_en": "Growing opportunities to enhance customer experience and operational efficiency through new tools like AI-powered product intelligence and visual search capabilities.",
-    "key_points": [
-      "New ecommerce tools span multiple functions from commerce to logistics",
-      "AI-powered product intelligence emerging as key capability",
-      "Visual search technology advancing for better customer experience"
-    ],
-    "tags": [
-      "ecommerce-tools",
-      "ai-product-intelligence",
-      "visual-search",
-      "livestream-commerce"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_COMMERCE",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "AI product intelligence",
-      "visual search",
-      "livestream commerce",
-      "ecommerce tools"
-    ],
-    "one_line_insight_ko": "AI 기반 제품 인텔리전스와 비주얼 검색 기술이 이커머스 경험 혁신의 핵심 도구로 부상하고 있습니다.",
-    "one_line_insight_en": "AI-powered product intelligence and visual search technologies are emerging as core tools for ecommerce experience innovation.",
-    "ai_processed": true
-  },
-  {
-    "title": "Walmart, Wing add 7 markets to drone delivery expansion plan",
-    "link": "https://www.retaildive.com/news/walmart-wing-add-7-markets-to-drone-delivery-expansion-plan/822380/",
-    "date_published": "2026-06-10",
-    "description": "The companies aim to start operations in Philadelphia, Phoenix and other metros by 2027 as the retailer advances its fast delivery push.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "commerce"
-    ],
-    "relevance_score": 0.6,
-    "relevance_label": "high",
-    "title_en": "Walmart and Wing Expand Drone Delivery to Seven New Markets by 2027",
-    "summary_ko": "월마트와 윙이 2027년까지 필라델피아와 피닉스 등 7개 신규 시장에서 드론 배송 서비스를 시작한다고 발표했습니다. 이는 월마트가 빠른 배송 서비스 확장을 통해 경쟁력을 강화하려는 전략의 일환입니다. 드론 기술을 활용한 라스트마일 배송은 소매업계의 새로운 표준이 될 전망입니다.",
-    "summary_en": "Walmart and Wing announced plans to launch drone delivery services in seven new markets including Philadelphia and Phoenix by 2027. This expansion is part of Walmart's strategy to strengthen competitiveness through fast delivery service advancement. Drone-powered last-mile delivery is expected to become a new standard in the retail industry.",
-    "so_what_ko": "LG D2C는 드론 배송과 같은 혁신적 물류 기술을 통해 고객 경험을 차별화하고 배송 속도를 혁신할 수 있는 기회를 모색해야 합니다.",
-    "so_what_en": "LG D2C should explore opportunities to differentiate customer experience and revolutionize delivery speed through innovative logistics technologies like drone delivery.",
-    "key_points": [
-      "Walmart expanding drone delivery to 7 new markets by 2027",
-      "Partnership with Wing for advanced delivery capabilities",
-      "Focus on fast delivery as competitive advantage"
-    ],
-    "tags": [
-      "drone-delivery",
-      "logistics",
-      "retail-innovation"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Walmart",
-      "Wing",
-      "Philadelphia",
-      "Phoenix"
-    ],
-    "one_line_insight_ko": "드론 배송의 확산은 D2C 브랜드들이 라스트마일 배송 혁신을 통해 경쟁 우위를 확보할 수 있는 기회를 제공합니다.",
-    "one_line_insight_en": "The proliferation of drone delivery presents an opportunity for D2C brands to gain competitive advantage through last-mile delivery innovation.",
-    "ai_processed": true
-  },
-  {
-    "title": "Adidas offers ecommerce-as-a-service (EaaS) featuring AI agents",
-    "link": "https://www.digitalcommerce360.com/2026/06/10/adidas-ecommerce-as-a-service-eaas-salesforce-ai-agents/",
-    "date_published": "2026-06-10",
-    "description": "Apparel brand Adidas is running Audi Revolut F1 Team, offering ecommerce-as-a-service (shortened as EaaS or ECaaS) and integrating artificial intelligence (AI) agents from technology provider Salesforce. Adidas senior project manager Dominik Seeberger shared how the retailer leveraged Salesforce technology to launch EaaS, a new business model for Adidas. That unlocked a more than $100 million […]\nThe post Adidas offers ecommerce-as-a-service (EaaS) featuring AI agents appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
-    "categories": [
-      "ai_marketing",
-      "commerce"
-    ],
-    "relevance_score": 0.9,
-    "relevance_label": "high",
-    "title_en": "Adidas Launches EaaS Business Model with Salesforce AI Agents",
-    "summary_ko": "아디다스가 세일즈포스의 AI 에이전트를 통합한 EaaS(이커머스 서비스) 사업 모델을 출시했습니다. 아우디 레볼루트 F1 팀을 운영하며 새로운 수익원을 창출하고 있습니다. 이 새로운 비즈니스 모델은 1억 달러 이상의 가치를 창출한 것으로 알려졌습니다.",
-    "summary_en": "Adidas launched an EaaS (ecommerce-as-a-service) business model integrating Salesforce AI agents. The company is operating Audi Revolut F1 Team and creating new revenue streams. This new business model has reportedly unlocked over $100 million in value.",
-    "so_what_ko": "LG는 AI 에이전트를 활용한 서비스형 이커머스 모델을 통해 기존 D2C 비즈니스를 확장하고 새로운 수익원을 개발할 수 있습니다.",
-    "so_what_en": "LG can expand its existing D2C business and develop new revenue streams through AI agent-powered ecommerce-as-a-service models.",
-    "key_points": [
-      "Adidas integrating Salesforce AI agents into EaaS offering",
-      "New business model unlocking $100M+ value",
-      "Partnership with Audi Revolut F1 Team as use case"
-    ],
-    "tags": [
-      "ai-agents",
-      "ecommerce-as-a-service",
-      "salesforce"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Adidas",
-      "Salesforce",
-      "Audi Revolut F1 Team",
-      "EaaS"
-    ],
-    "one_line_insight_ko": "AI 에이전트를 활용한 EaaS 모델은 전통적인 브랜드가 새로운 수익원을 창출하고 비즈니스를 확장하는 혁신적 방법입니다.",
-    "one_line_insight_en": "AI agent-powered EaaS models represent an innovative way for traditional brands to create new revenue streams and expand their business.",
-    "ai_processed": true
-  },
-  {
-    "title": "GrubMarket adds AI agent with goal to assist sales teams",
-    "link": "https://www.digitalcommerce360.com/2026/06/10/grubmarket-ai-agent-for-sales-team/",
-    "date_published": "2026-06-10",
-    "description": "GrubMarket is adding a new artificial intelligence (AI)-powered tool to its portfolio of software agents aimed at food distributors. The new Sales AI Agent will focus on assisting sales teams in finding customers and generating price sheets, GrubMarket said in a June 8 press release. The San Francisco-based software-as-a-service (SAAS) company operates in the U.S., […]\nThe post GrubMarket adds AI agent with goal to assist sales teams appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
-    "categories": [
-      "ai_marketing",
-      "commerce"
-    ],
-    "relevance_score": 0.7,
-    "relevance_label": "high",
-    "title_en": "GrubMarket Deploys Sales AI Agent to Assist Food Distribution Teams",
-    "summary_ko": "그럽마켓이 식품 유통업체를 위한 AI 에이전트 포트폴리오에 새로운 영업 AI 에이전트를 추가했습니다. 새로운 도구는 영업팀이 고객을 찾고 가격표를 생성하는 업무를 지원합니다. 샌프란시스코 기반 SaaS 회사인 그럽마켓은 미국에서 운영되고 있습니다.",
-    "summary_en": "GrubMarket added a new Sales AI Agent to its portfolio of software agents for food distributors. The new tool will assist sales teams in finding customers and generating price sheets. The San Francisco-based SaaS company operates in the U.S.",
-    "so_what_ko": "LG D2C는 영업 프로세스 자동화를 위한 AI 에이전트 도입으로 영업 효율성을 높이고 고객 발굴을 최적화할 수 있습니다.",
-    "so_what_en": "LG D2C can enhance sales efficiency and optimize customer acquisition by implementing AI agents for sales process automation.",
-    "key_points": [
-      "Sales AI Agent focuses on customer discovery and pricing",
-      "Part of broader AI agent portfolio for food distribution",
-      "SaaS model targeting specific industry vertical"
-    ],
-    "tags": [
-      "sales-ai",
-      "customer-acquisition",
-      "saas"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "GrubMarket",
-      "Sales AI Agent"
-    ],
-    "one_line_insight_ko": "업종별 특화된 영업 AI 에이전트는 B2B 영업 프로세스의 효율성과 정확성을 크게 향상시킬 수 있습니다.",
-    "one_line_insight_en": "Industry-specific sales AI agents can significantly improve efficiency and accuracy in B2B sales processes.",
-    "ai_processed": true
-  },
-  {
-    "title": "Here’s How to Use an AI Agent to Build a Cold Outreach Campaign",
-    "link": "https://www.marketingaiinstitute.com/blog/podcast-ai-agents",
-    "date_published": "2026-06-10",
-    "description": "We had a campaign we wanted to get in front of the right people. The problem was familiar: We had a targeted list of business leaders we genuinely thought would benefit from what we were promoting, but no clean process for actually reaching them at scale. And we didn’t have enough time to do it the slow way [read: without AI].",
-    "source_id": "marketing_ai_institute",
-    "source_name": "Marketing AI Institute",
-    "source_url": "https://www.marketingaiinstitute.com/blog/rss.xml",
-    "categories": [
-      "ai_marketing"
-    ],
-    "relevance_score": 0.8,
-    "relevance_label": "high",
-    "title_en": "Building Scalable Cold Outreach Campaigns with AI Agents",
-    "summary_ko": "마케팅 AI 연구소가 AI 에이전트를 활용한 대규모 아웃리치 캠페인 구축 방법을 소개했습니다. 타겟 비즈니스 리더들에게 효과적으로 도달하는 깔끔한 프로세스가 부족한 문제를 AI로 해결했습니다. 시간 부족으로 인한 기존의 느린 방식 대신 AI를 활용한 확장 가능한 솔루션을 제시합니다.",
-    "summary_en": "Marketing AI Institute introduced methods for building large-scale outreach campaigns using AI agents. They solved the problem of lacking clean processes to effectively reach targeted business leaders. The solution presents scalable AI-powered alternatives to traditional time-consuming manual approaches.",
-    "so_what_ko": "LG D2C는 AI 에이전트를 통해 개인화된 대규모 고객 아웃리치를 자동화하고 마케팅 효율성을 크게 향상시킬 수 있습니다.",
-    "so_what_en": "LG D2C can automate personalized large-scale customer outreach and significantly improve marketing efficiency through AI agents.",
-    "key_points": [
-      "AI agents enable scalable cold outreach campaigns",
-      "Solves problem of reaching targeted business leaders efficiently",
-      "Alternative to time-consuming manual processes"
-    ],
-    "tags": [
-      "cold-outreach",
-      "marketing-automation",
-      "lead-generation"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Marketing AI Institute"
-    ],
-    "one_line_insight_ko": "AI 에이전트는 개인화된 대규모 마케팅 캠페인을 가능하게 하여 전통적인 수동 프로세스의 한계를 극복합니다.",
-    "one_line_insight_en": "AI agents enable personalized large-scale marketing campaigns, overcoming the limitations of traditional manual processes.",
-    "ai_processed": true
-  },
-  {
-    "title": "FAQs for AEO: How to structure answers that rank in answer engines",
-    "link": "https://blog.hubspot.com/marketing/faqs-for-aeo",
-    "date_published": "2026-06-10",
-    "description": "AI search interfaces are reshaping how content gets surfaced and cited. Pew Research data from 2025 found that around one in five Google searches produced an AI-generated summary, with 88% of those summaries citing three or more sources. Bain’s 2025 research found that roughly 80% of consumers rely on zero-click results in at least 40% of their searches.",
-    "source_id": "hubspot_marketing",
-    "source_name": "HubSpot Marketing Blog",
-    "source_url": "https://blog.hubspot.com/marketing/rss.xml",
-    "categories": [
-      "ai_marketing"
-    ],
-    "relevance_score": 0.8,
-    "relevance_label": "high",
-    "title_en": "Optimizing FAQ Content for AI Answer Engines and Zero-Click Results",
-    "summary_ko": "AI 검색 인터페이스가 콘텐츠 노출 방식을 변화시키고 있으며, 구글 검색의 약 20%가 AI 생성 요약을 제공합니다. 베인의 2025년 연구에 따르면 소비자의 약 80%가 검색의 40% 이상에서 제로클릭 결과에 의존합니다. FAQ 콘텐츠를 AEO(답변 엔진 최적화)에 맞게 구조화하는 것이 중요해졌습니다.",
-    "summary_en": "AI search interfaces are reshaping content surfacing methods, with about 20% of Google searches providing AI-generated summaries. According to Bain's 2025 research, roughly 80% of consumers rely on zero-click results in at least 40% of their searches. Structuring FAQ content for AEO (Answer Engine Optimization) has become crucial.",
-    "so_what_ko": "LG D2C는 AI 답변 엔진에 최적화된 콘텐츠 전략으로 제로클릭 검색 환경에서의 브랜드 가시성을 확보해야 합니다.",
-    "so_what_en": "LG D2C must secure brand visibility in zero-click search environments through content strategies optimized for AI answer engines.",
-    "key_points": [
-      "20% of Google searches now produce AI-generated summaries",
-      "80% of consumers rely on zero-click results in 40%+ of searches",
-      "FAQ content structure needs optimization for answer engines"
-    ],
-    "tags": [
-      "aeo",
-      "zero-click-search",
-      "content-optimization"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "Google",
-      "Pew Research",
-      "Bain",
-      "AEO"
-    ],
-    "one_line_insight_ko": "제로클릭 검색의 증가는 브랜드가 AI 답변 엔진에 최적화된 새로운 콘텐츠 전략을 필수적으로 요구합니다.",
-    "one_line_insight_en": "The rise of zero-click search mandates that brands develop new content strategies optimized for AI answer engines.",
-    "ai_processed": true
-  },
-  {
-    "title": "Accenture acquires Whalar agency to gain creator economy advantage",
-    "link": "https://www.marketingdive.com/news/accenture-acquires-whalar-agency-to-gain-creator-economy-advantage/822473/",
-    "date_published": "2026-06-10",
-    "description": "The shop has managed more than $600 million in creator campaigns and is credited with its creative and measurement expertise.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
-    "categories": [
-      "marketing"
-    ],
-    "relevance_score": 0.7,
-    "relevance_label": "high",
-    "title_en": "Accenture Acquires Whalar to Strengthen Creator Economy Capabilities",
-    "summary_ko": "액센츄어가 크리에이터 이코노미 전문 에이전시 Whalar를 인수했습니다. Whalar는 6억 달러 이상의 크리에이터 캠페인을 관리한 경험을 보유하고 있습니다. 이 인수를 통해 액센츄어는 창작 및 측정 전문성을 확보하게 됩니다.",
-    "summary_en": "Accenture has acquired creator economy specialist agency Whalar. Whalar has managed over $600 million in creator campaigns and brings creative and measurement expertise. This acquisition strengthens Accenture's capabilities in the growing creator economy sector.",
-    "so_what_ko": "D2C 브랜드들은 크리에이터 마케팅의 전략적 중요성이 증가하고 있음을 인지하고, 전문 에이전시와의 협업이나 내부 역량 강화를 고려해야 합니다.",
-    "so_what_en": "D2C brands should recognize the growing strategic importance of creator marketing and consider partnerships with specialized agencies or building internal capabilities.",
-    "key_points": [
-      "Accenture acquires Whalar, a creator economy specialist agency",
-      "Whalar has managed over $600 million in creator campaigns",
-      "Acquisition aims to gain creative and measurement expertise in creator marketing"
-    ],
-    "tags": [
-      "creator-economy",
-      "influencer-marketing",
-      "agency-acquisition"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Accenture",
-      "Whalar"
-    ],
-    "one_line_insight_ko": "크리에이터 마케팅이 메이저 컨설팅사의 M&A 타겟이 될 정도로 전략적 중요성이 커지고 있습니다.",
-    "one_line_insight_en": "Creator marketing has become strategically important enough to attract major consulting firm acquisitions.",
-    "ai_processed": true
-  },
-  {
-    "title": "The problem for brands isn’t their marketing strategy — it’s their structure",
-    "link": "https://www.marketingdive.com/news/the-problem-for-brands-isnt-their-marketing-strategy-its-their-structur/821400/",
-    "date_published": "2026-06-10",
-    "description": "Organizations that fail to deliver have often hired great talent into a broken system, writes Edmunds’ Alison Steinlauf Anziska.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
-    "categories": [
-      "marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.6,
-    "relevance_label": "high",
-    "title_en": "Brand Marketing Struggles Stem from Structure, Not Strategy",
-    "summary_ko": "브랜드 마케팅의 문제는 전략이 아닌 조직 구조에 있다고 에드먼즈의 앨리슨 스테인라우프 안지스카가 주장했습니다. 성과를 내지 못하는 조직들은 우수한 인재를 잘못된 시스템에 채용한 경우가 많습니다. 마케팅 성공을 위해서는 조직 구조 개선이 우선되어야 합니다.",
-    "summary_en": "Marketing problems stem from organizational structure rather than strategy, according to Edmunds' Alison Steinlauf Anziska. Organizations that fail to deliver often hire great talent into broken systems. Structural improvements must precede strategic initiatives for marketing success.",
-    "so_what_ko": "D2C 조직은 마케팅 전략 수립에 앞서 조직 구조와 프로세스를 점검하고 개선해야 합니다.",
-    "so_what_en": "D2C organizations should audit and improve their organizational structure and processes before focusing on marketing strategy.",
-    "key_points": [
-      "Marketing failures often result from structural issues, not strategic ones",
-      "Organizations hire good talent into broken systems",
-      "Structure must be fixed before strategy can succeed"
-    ],
-    "tags": [
-      "organizational-structure",
-      "marketing-operations",
-      "talent-management"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Edmunds",
-      "Alison Steinlauf Anziska"
-    ],
-    "one_line_insight_ko": "마케팅 성과 개선을 위해서는 전략보다 조직 구조 혁신이 우선되어야 합니다.",
-    "one_line_insight_en": "Organizational structure reform must precede strategy for marketing performance improvement.",
-    "ai_processed": true
-  },
-  {
-    "title": "How Jelly Belly is repositioning its brand for ‘social epicureans’",
-    "link": "https://www.marketingdive.com/news/how-jelly-belly-is-repositioning-its-brand-for-social-epicureans/822169/",
-    "date_published": "2026-06-10",
-    "description": "The new “Bean Appetit” campaign is meant to reintroduce the brand to consumers after its acquisition by confectioner Ferrara in 2023.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
-    "categories": [
-      "marketing"
-    ],
-    "relevance_score": 0.5,
-    "relevance_label": "high",
-    "title_en": "Jelly Belly Repositions Brand for 'Social Epicureans' with New Campaign",
-    "summary_ko": "젤리 벨리가 2023년 페라라에 인수된 후 '소셜 에피큐리언'을 타겟으로 브랜드를 재포지셔닝하고 있습니다. 새로운 'Bean Appetit' 캠페인을 통해 소비자들에게 브랜드를 재소개하고 있습니다. 이는 브랜드 인수 후 새로운 타겟층 공략을 위한 전략적 움직임입니다.",
-    "summary_en": "Jelly Belly is repositioning its brand to target 'social epicureans' following its acquisition by Ferrara in 2023. The new 'Bean Appetit' campaign aims to reintroduce the brand to consumers. This represents a strategic move to reach new target audiences post-acquisition.",
-    "so_what_ko": "D2C 브랜드는 타겟 고객층을 세분화하고 라이프스타일 기반 포지셔닝을 통해 차별화할 수 있습니다.",
-    "so_what_en": "D2C brands can differentiate through customer segmentation and lifestyle-based positioning strategies.",
-    "key_points": [
-      "Jelly Belly targets 'social epicureans' in repositioning effort",
-      "'Bean Appetit' campaign reintroduces brand post-acquisition",
-      "Strategic move follows 2023 acquisition by Ferrara"
-    ],
-    "tags": [
-      "brand-repositioning",
-      "target-audience",
-      "post-acquisition-strategy"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Jelly Belly",
-      "Ferrara"
-    ],
-    "one_line_insight_ko": "라이프스타일 기반 세분화를 통한 브랜드 재포지셔닝이 새로운 성장 동력이 될 수 있습니다.",
-    "one_line_insight_en": "Lifestyle-based segmentation for brand repositioning can drive new growth opportunities.",
-    "ai_processed": true
-  },
-  {
-    "title": "Marketing needs AI outcomes, not more AI pilots",
-    "link": "https://martech.org/marketing-needs-ai-outcomes-not-more-ai-pilots/",
-    "date_published": "2026-06-10",
-    "description": "Learn how to identify high-value AI opportunities, prepare teams for adoption, and measure the outcomes that matter to the business.\nThe post Marketing needs AI outcomes, not more AI pilots appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
-    "categories": [
-      "marketing",
-      "tech"
-    ],
-    "relevance_score": 0.9,
-    "relevance_label": "high",
-    "title_en": "Marketing Needs AI Outcomes, Not More AI Pilots",
-    "summary_ko": "마케팅 분야에서 AI 파일럿 프로젝트가 아닌 실질적인 AI 성과가 필요하다고 강조되고 있습니다. 고가치 AI 기회를 식별하고 팀의 도입 준비를 하는 방법을 제시하고 있습니다. 비즈니스에 중요한 성과를 측정하는 것이 핵심입니다.",
-    "summary_en": "Marketing organizations need tangible AI outcomes rather than more pilot projects. The focus should be on identifying high-value AI opportunities and preparing teams for adoption. Measuring outcomes that matter to the business is essential for AI success.",
-    "so_what_ko": "D2C 조직은 AI 실험을 넘어 비즈니스 임팩트가 명확한 AI 이니셔티브에 집중해야 합니다.",
-    "so_what_en": "D2C organizations should move beyond AI experimentation to focus on initiatives with clear business impact.",
-    "key_points": [
-      "Marketing needs tangible AI outcomes, not endless pilots",
-      "Focus on identifying high-value AI opportunities",
-      "Prepare teams for adoption and measure business-relevant outcomes"
-    ],
-    "tags": [
-      "ai-implementation",
-      "marketing-technology",
-      "business-outcomes"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "MarTech"
-    ],
-    "one_line_insight_ko": "AI 파일럿의 홍수 속에서 실질적 비즈니스 성과를 창출하는 AI 전략이 승부수입니다.",
-    "one_line_insight_en": "Among the flood of AI pilots, strategies that deliver tangible business outcomes are the differentiator.",
-    "ai_processed": true
-  },
-  {
-    "title": "Your AI portfolio isn’t an AI strategy",
-    "link": "https://martech.org/your-ai-portfolio-isnt-an-ai-strategy/",
-    "date_published": "2026-06-10",
-    "description": "Learn the four questions that reveal whether your AI efforts are creating lasting value or simply generating activity.\nThe post Your AI portfolio isn’t an AI strategy appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
-    "categories": [
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.9,
-    "relevance_label": "high",
-    "title_en": "Your AI Portfolio Isn't an AI Strategy",
-    "summary_ko": "AI 포트폴리오를 보유하는 것과 AI 전략을 갖는 것은 다르다고 마테크에서 지적했습니다. AI 노력이 지속적인 가치를 창출하는지 아니면 단순한 활동에 그치는지를 판단하는 4가지 질문을 제시했습니다. 진정한 AI 전략은 체계적 접근과 명확한 가치 창출에 초점을 맞춰야 합니다.",
-    "summary_en": "Having an AI portfolio is different from having an AI strategy, according to MarTech. Four key questions help determine whether AI efforts create lasting value or merely generate activity. True AI strategy requires systematic approach and clear value creation focus.",
-    "so_what_ko": "D2C 기업은 AI 도구 수집이 아닌 통합된 AI 전략을 통해 비즈니스 가치를 극대화해야 합니다.",
-    "so_what_en": "D2C companies should maximize business value through integrated AI strategy rather than AI tool collection.",
-    "key_points": [
-      "AI portfolio differs fundamentally from AI strategy",
-      "Four questions reveal whether AI efforts create lasting value",
-      "True strategy requires systematic approach to value creation"
-    ],
-    "tags": [
-      "ai-strategy",
-      "business-value",
-      "strategic-planning"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "DATA_STRATEGY",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "MarTech"
-    ],
-    "one_line_insight_ko": "AI 도구의 나열이 아닌 통합적 전략이 진정한 경쟁우위를 만듭니다.",
-    "one_line_insight_en": "Integrated strategy, not tool collection, creates true AI competitive advantage.",
+    "one_line_insight_ko": "AI와 인간 전문가의 하이브리드 접근법은 D2C 브랜드의 개인화 서비스 혁신에 실용적인 모델을 제공합니다.",
+    "one_line_insight_en": "The hybrid approach of AI and human experts provides a practical model for D2C brands' personalized service innovation.",
     "ai_processed": true
   }
 ]
