@@ -1,692 +1,358 @@
 [
   {
-    "title": "90% of retailers are using AI. Far fewer are ready to run it at scale",
-    "link": "https://www.retaildive.com/spons/90-of-retailers-are-using-ai-far-fewer-are-ready-to-run-it-at-scale/822118/",
+    "title": "Google’s ‘Non-Commodity’ Push Isn’t New",
+    "link": "https://www.practicalecommerce.com/googles-non-commodity-push-isnt-new",
     "date_published": "2026-06-15",
-    "description": "Most retailers invest in AI, but few see results. This piece shows why success depends on store-level execution—and what’s needed at the edge to drive impact.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "commerce",
-      "tech"
-    ],
-    "relevance_score": 0.9,
-    "relevance_label": "high",
-    "title_en": "90% of retailers are using AI, but few are ready to run it at scale",
-    "summary_ko": "소매업체의 90%가 AI를 도입했지만 대규모 운영 준비가 된 기업은 소수에 불과하다. 성공적인 AI 활용은 매장 단위 실행과 엣지 인프라에 달려 있다. 대부분의 투자 대비 실질적 성과를 거두지 못하고 있다.",
-    "summary_en": "While 90% of retailers have invested in AI, few are prepared for large-scale implementation. Success depends on store-level execution and edge infrastructure capabilities. Most retailers are not seeing meaningful returns on their AI investments.",
-    "so_what_ko": "LG D2C는 AI 도입 자체보다 매장과 고객 접점에서의 실행력 강화에 집중해야 한다.",
-    "so_what_en": "LG D2C should focus on execution capabilities at customer touchpoints rather than just AI adoption.",
-    "key_points": [
-      "90% of retailers use AI but struggle with scaling",
-      "Store-level execution is critical for AI success",
-      "Edge infrastructure needed for meaningful impact",
-      "Investment doesn't guarantee results without proper implementation"
-    ],
-    "tags": [
-      "ai-retail",
-      "scaling-challenges",
-      "edge-computing",
-      "implementation"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "retailers",
-      "edge computing",
-      "store operations"
-    ],
-    "one_line_insight_ko": "AI 도입보다 매장 단위 실행력이 소매업 성공의 핵심 요소다.",
-    "one_line_insight_en": "Store-level execution capabilities matter more than AI adoption for retail success.",
-    "ai_processed": true
-  },
-  {
-    "title": "Agentic AI is rewriting the rules of value and monetization in commerce media",
-    "link": "https://www.marketingdive.com/spons/agentic-ai-is-rewriting-the-rules-of-value-and-monetization-in-commerce-med/822587/",
-    "date_published": "2026-06-15",
-    "description": "Koddi’s new data shows a market already in motion and provides clues about who stands to win.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
-    "categories": [
-      "marketing",
-      "commerce"
-    ],
-    "relevance_score": 1,
-    "relevance_label": "high",
-    "title_en": "Agentic AI is rewriting the rules of value and monetization in commerce media",
-    "summary_ko": "에이전틱 AI가 커머스 미디어의 가치 창출과 수익화 규칙을 재정의하고 있다. Koddi의 새로운 데이터는 이미 변화가 시작된 시장을 보여준다. 승자가 될 기업들에 대한 단서를 제공한다.",
-    "summary_en": "Agentic AI is transforming how value is created and monetized in commerce media. Koddi's new data reveals a market already in motion with significant changes underway. The research provides insights into which companies are positioned to win.",
-    "so_what_ko": "LG D2C는 에이전틱 AI 기반 커머스 미디어 전략을 조기에 도입해 경쟁 우위를 확보해야 한다.",
-    "so_what_en": "LG D2C needs to adopt agentic AI-powered commerce media strategies early to gain competitive advantage.",
-    "key_points": [
-      "Agentic AI is transforming commerce media monetization",
-      "Market transformation is already underway",
-      "New data reveals winning strategies",
-      "Early adopters will have competitive advantages"
-    ],
-    "tags": [
-      "agentic-ai",
-      "commerce-media",
-      "monetization",
-      "market-transformation"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Koddi",
-      "agentic AI",
-      "commerce media"
-    ],
-    "one_line_insight_ko": "에이전틱 AI가 커머스 미디어 수익화의 새로운 패러다임을 만들고 있다.",
-    "one_line_insight_en": "Agentic AI is creating new paradigms for commerce media monetization.",
-    "ai_processed": true
-  },
-  {
-    "title": "WTF is vector-based ad targeting?",
-    "link": "https://digiday.com/media-buying/wtf-is-vector-based-ad-targeting/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-06-15",
-    "description": "Traditional text-based ad targeting will always have its place. But in an ad marketplace run by AI agents, it may need to be replaced as the primary method of aiming ads.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
-    "categories": [
-      "marketing",
-      "tech"
-    ],
-    "relevance_score": 0.9,
-    "relevance_label": "high",
-    "title_en": "Vector-based ad targeting emerges as AI agents reshape digital advertising",
-    "summary_ko": "AI 에이전트가 주도하는 광고 시장에서 벡터 기반 광고 타겟팅이 부상하고 있다. 전통적인 텍스트 기반 타겟팅을 대체할 새로운 방법론이다. AI 에이전트 시대에 맞는 광고 targeting 방식으로 주목받는다.",
-    "summary_en": "Vector-based ad targeting is emerging as AI agents reshape the digital advertising marketplace. This new methodology may replace traditional text-based targeting as the primary method. It represents a fundamental shift in how ads are aimed in an AI-driven environment.",
-    "so_what_ko": "LG D2C는 벡터 기반 타겟팅 기술을 이해하고 도입해 AI 에이전트 시대 광고 효율성을 높여야 한다.",
-    "so_what_en": "LG D2C should understand and adopt vector-based targeting to enhance advertising efficiency in the AI agent era.",
-    "key_points": [
-      "Vector-based targeting replacing text-based methods",
-      "AI agents driving fundamental changes in ad targeting",
-      "New methodology for improved ad precision",
-      "Traditional targeting methods becoming less effective"
-    ],
-    "tags": [
-      "vector-targeting",
-      "ai-agents",
-      "adtech",
-      "targeting-evolution"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "AI agents",
-      "vector targeting",
-      "digital advertising"
-    ],
-    "one_line_insight_ko": "벡터 기반 타겟팅이 AI 에이전트 시대 광고의 새로운 표준이 되고 있다.",
-    "one_line_insight_en": "Vector-based targeting is becoming the new standard for advertising in the AI agent era.",
-    "ai_processed": true
-  },
-  {
-    "title": "Media Buying Briefing: Breaking down Coca-Cola’s campaign blitz with an eye toward its review",
-    "link": "https://digiday.com/media-buying/media-buying-briefing-breaking-down-coca-colas-campaign-blitz-with-an-eye-toward-its-review/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-06-15",
-    "description": "Reading the tea leaves of Coca-Cola’s recent campaigns (and their media spending) reveals its priorities ahead of a huge media and data account review.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
-    "categories": [
-      "marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.6,
-    "relevance_label": "high",
-    "title_en": "Coca-Cola's campaign strategy reveals priorities ahead of major media review",
-    "summary_ko": "코카콜라의 최근 캠페인과 미디어 지출을 분석하면 대규모 미디어 및 데이터 계정 리뷰를 앞둔 우선순위를 알 수 있다. 캠페인 블리츠 전략이 리뷰 준비의 신호탄이다. 미디어 구매 전략의 변화 방향을 시사한다.",
-    "summary_en": "Analysis of Coca-Cola's recent campaigns and media spending reveals strategic priorities ahead of a major media and data account review. The campaign blitz serves as preparation for the upcoming review process. This indicates significant shifts in media buying strategies.",
-    "so_what_ko": "대기업의 미디어 전략 변화는 업계 전반의 방향성을 제시하며, LG D2C도 미디어 전략 재검토가 필요하다.",
-    "so_what_en": "Major corporations' media strategy changes indicate industry direction, requiring LG D2C to reassess its media approach.",
-    "key_points": [
-      "Coca-Cola preparing for major media account review",
-      "Campaign spending patterns reveal strategic priorities",
-      "Media buying strategies undergoing significant changes",
-      "Industry-wide implications for media planning"
-    ],
-    "tags": [
-      "media-buying",
-      "campaign-strategy",
-      "account-review",
-      "coca-cola"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Coca-Cola",
-      "media review",
-      "campaign strategy"
-    ],
-    "one_line_insight_ko": "글로벌 브랜드의 미디어 전략 변화는 업계 전반의 미래 방향을 예측하는 지표다.",
-    "one_line_insight_en": "Global brand media strategy changes serve as indicators of industry-wide future directions.",
-    "ai_processed": true
-  },
-  {
-    "title": "Crocs CMO Carly Gomez is all about Labubu dolls, fashion Substacks and a drawer full of socks",
-    "link": "https://www.modernretail.co/marketing/crocs-cmo-carly-gomez-is-all-about-labubu-dolls-fashion-substacks-and-a-drawer-full-of-socks/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-06-15",
-    "description": "In the latest installment of \"What's in Your Cart,\" the CMO of Crocs, Carly Gomez, shares her personal shopping habits with Modern Retail.",
-    "source_id": "modern_retail",
-    "source_name": "Modern Retail",
-    "source_url": "https://www.modernretail.co/feed/",
-    "categories": [
-      "marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.4,
-    "relevance_label": "high",
-    "title_en": "Crocs CMO shares personal shopping insights and brand inspiration sources",
-    "summary_ko": "크록스 CMO 칼리 고메즈가 개인 쇼핑 습관과 브랜드 영감 소스를 공유했다. 라부부 인형, 패션 서브스택, 양말 컬렉션 등 다양한 관심사를 드러냈다. 모던 리테일의 '장바구니 속 이야기' 시리즈에서 인터뷰했다.",
-    "summary_en": "Crocs CMO Carly Gomez shared her personal shopping habits and brand inspiration sources in a recent interview. She discussed various interests including Labubu dolls, fashion Substacks, and her sock collection. The interview was part of Modern Retail's 'What's in Your Cart' series.",
-    "so_what_ko": "브랜드 리더의 개인 취향과 쇼핑 패턴은 소비자 트렌드 이해와 브랜드 전략 수립에 중요한 인사이트를 제공한다.",
-    "so_what_en": "Brand leaders' personal preferences and shopping patterns provide valuable insights for understanding consumer trends and developing brand strategies.",
-    "key_points": [
-      "CMO shares personal shopping and inspiration sources",
-      "Reveals diverse interests from collectibles to fashion content",
-      "Provides insights into consumer behavior patterns",
-      "Shows connection between personal taste and brand strategy"
-    ],
-    "tags": [
-      "cmo-insights",
-      "consumer-trends",
-      "brand-strategy",
-      "personal-shopping"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Crocs",
-      "Carly Gomez",
-      "Modern Retail",
-      "Labubu"
-    ],
-    "one_line_insight_ko": "브랜드 리더의 개인적 취향은 소비자 트렌드와 브랜드 방향성을 이해하는 창구다.",
-    "one_line_insight_en": "Brand leaders' personal preferences serve as windows into consumer trends and brand direction.",
-    "ai_processed": true
-  },
-  {
-    "title": "Utah and Idaho have become key growth markets for Target, Kroger",
-    "link": "https://www.modernretail.co/operations/utah-and-idaho-have-become-key-growth-markets-for-target-kroger/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-06-15",
-    "description": "As a result of rapid population and housing growth in Utah and Idaho, major retail chains are opening new stores in the region, in cities they once may have glanced over.",
-    "source_id": "modern_retail",
-    "source_name": "Modern Retail",
-    "source_url": "https://www.modernretail.co/feed/",
-    "categories": [
-      "commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.3,
-    "relevance_label": "high",
-    "title_en": "Utah and Idaho Emerge as Key Growth Markets for Major Retailers Target and Kroger",
-    "summary_ko": "유타와 아이다호주의 급속한 인구 및 주택 성장으로 타겟, 크로거 등 주요 소매체인들이 이 지역에 새 매장을 개설하고 있습니다. 과거에는 간과했던 도시들이 이제 중요한 성장 시장으로 부상했습니다. 인구 증가와 함께 소매업체들의 지역 확장 전략이 변화하고 있음을 보여줍니다.",
-    "summary_en": "Major retail chains including Target and Kroger are opening new stores in Utah and Idaho due to rapid population and housing growth in these regions. Cities that were once overlooked are now becoming key growth markets for these retailers. This shift demonstrates how demographic changes are reshaping retail expansion strategies across previously underserved markets.",
-    "so_what_ko": "인구 증가 지역을 선제적으로 파악하여 D2C 브랜드의 물류 허브나 팝업 스토어 위치를 전략적으로 선정할 필요가 있습니다.",
-    "so_what_en": "D2C brands should proactively identify growing demographic regions for strategic placement of fulfillment centers and pop-up retail locations.",
-    "key_points": [
-      "Utah and Idaho experiencing rapid population and housing growth",
-      "Major retailers like Target and Kroger expanding into previously overlooked cities",
-      "Demographic shifts driving new retail expansion strategies"
-    ],
-    "tags": [
-      "retail-expansion",
-      "demographic-growth",
-      "market-opportunity"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Target",
-      "Kroger",
-      "Utah",
-      "Idaho"
-    ],
-    "one_line_insight_ko": "인구 급증 지역의 선제적 파악이 소매업체의 새로운 성장 동력이 되고 있습니다.",
-    "one_line_insight_en": "Proactive identification of rapidly growing demographic regions is becoming a new growth driver for retailers.",
-    "ai_processed": true
-  },
-  {
-    "title": "Prime Day Has Remade the Retail Calendar",
-    "link": "https://www.practicalecommerce.com/prime-day-has-remade-the-retail-calendar",
-    "date_published": "2026-06-14",
-    "description": "Walmart, Target, Best Buy, warehouse clubs, apparel chains, home improvement stores, and countless direct-to-consumer brands have launched similar promotions.\nThe post Prime Day Has Remade the Retail Calendar appeared first on Practical Ecommerce.",
+    "description": "Like EEAT before it, non-commodity content is not easily summarized or recycled by generative AI without attribution.\nThe post Google’s ‘Non-Commodity’ Push Isn’t New appeared first on Practical Ecommerce.",
     "source_id": "practical_ecommerce",
     "source_name": "Practical Ecommerce",
     "source_url": "https://www.practicalecommerce.com/feed",
     "categories": [
-      "commerce",
-      "strategy"
+      "ai_commerce"
     ],
-    "relevance_score": 0.6,
+    "relevance_score": 0,
     "relevance_label": "high",
-    "title_en": "Prime Day Has Fundamentally Transformed the Entire Retail Calendar",
-    "summary_ko": "아마존 프라임데이가 소매업계 전체 캘린더를 재편했습니다. 월마트, 타겟, 베스트바이, 창고형 매장, 의류 체인, 주택개선 매장 및 수많은 D2C 브랜드들이 유사한 프로모션을 출시했습니다. 프라임데이는 이제 소매업계의 새로운 표준이 되었습니다.",
-    "summary_en": "Amazon's Prime Day has fundamentally reshaped the entire retail calendar across the industry. Walmart, Target, Best Buy, warehouse clubs, apparel chains, home improvement stores, and countless direct-to-consumer brands have launched similar promotional events. Prime Day has become a new standard that retailers must adapt to remain competitive.",
-    "so_what_ko": "D2C 브랜드는 프라임데이와 연계된 프로모션 전략을 필수적으로 고려해야 하며, 독자적인 세일 이벤트로 차별화를 모색해야 합니다.",
-    "so_what_en": "D2C brands must strategically align with Prime Day promotional periods while developing unique sale events to differentiate from the crowded marketplace.",
-    "key_points": [
-      "Prime Day has reshaped the entire retail promotional calendar",
-      "Major retailers and D2C brands launching competing promotional events",
-      "New competitive standard requiring strategic adaptation"
-    ],
-    "tags": [
-      "prime-day",
-      "promotional-strategy",
-      "retail-calendar"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "Amazon",
-      "Prime Day",
-      "Walmart",
-      "Target",
-      "Best Buy"
-    ],
-    "one_line_insight_ko": "프라임데이가 소매업계의 새로운 프로모션 표준을 만들며 모든 브랜드의 마케팅 캘린더를 재편하고 있습니다.",
-    "one_line_insight_en": "Prime Day has created a new promotional standard that forces all retail brands to restructure their marketing calendars.",
-    "ai_processed": true
+    "summary_ko": "",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0,
+    "ai_processed": false,
+    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011Cc6qHapFNFZ8o4euz8qkf\"}"
   },
   {
-    "title": "KFC’s brand evolution looks to set the standard for fried chicken QSRs",
-    "link": "https://www.marketingdive.com/news/kfcs-brand-evolution-looks-to-set-the-standard-for-fried-chicken-qsrs/822546/",
-    "date_published": "2026-06-15",
-    "description": "Global CMO Valerie Kubizniak digs into plans that include a visual refresh as the chain works to reassert itself in a category it created.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
-    "categories": [
-      "marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.4,
-    "relevance_label": "high",
-    "title_en": "KFC's Brand Evolution Aims to Set New Standard for QSR Fried Chicken Category",
-    "summary_ko": "KFC가 자신들이 창조한 프라이드치킨 QSR 카테고리에서 다시 주도권을 잡기 위해 브랜드 혁신을 추진하고 있습니다. 글로벌 CMO 발레리 쿠비즈니악이 시각적 리프레시를 포함한 계획을 설명했습니다. 이는 치열한 프라이드치킨 시장에서의 브랜드 재정립 노력입니다.",
-    "summary_en": "KFC is pursuing brand evolution to reassert leadership in the fried chicken QSR category it originally created. Global CMO Valerie Kubizniak outlined plans including a visual refresh as part of the brand transformation strategy. This represents efforts to reestablish brand dominance in an increasingly competitive fried chicken market.",
-    "so_what_ko": "카테고리 창시자라도 지속적인 브랜드 혁신 없이는 시장 주도권을 잃을 수 있으며, D2C 브랜드도 선제적 리브랜딩이 필요합니다.",
-    "so_what_en": "Even category creators can lose market leadership without continuous brand innovation, emphasizing the need for proactive rebranding in D2C.",
-    "key_points": [
-      "KFC pursuing brand evolution in competitive fried chicken market",
-      "Visual refresh as part of comprehensive brand transformation",
-      "Category creator working to reassert market leadership"
-    ],
-    "tags": [
-      "brand-evolution",
-      "qsr-marketing",
-      "category-leadership"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "KFC",
-      "Valerie Kubizniak"
-    ],
-    "one_line_insight_ko": "카테고리 개척자도 지속적인 브랜드 혁신 없이는 시장 주도권을 상실할 수 있습니다.",
-    "one_line_insight_en": "Even category pioneers can lose market leadership without continuous brand innovation.",
-    "ai_processed": true
-  },
-  {
-    "title": "Digiday Scorecard: As competition between DSPs heats up, buyers rank market rivals",
-    "link": "https://digiday.com/media-buying/digiday-scorecard-as-competition-between-dsps-increases-buyers-rank-market-rivals/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-06-15",
-    "description": "Media buyers explain how they compare DSPs on transparency, inventory and performance. The best of the lot? Take a look.",
+    "title": "Taboola expands DeeperDive into an ad network for AI apps and agents",
+    "link": "https://digiday.com/media-buying/taboola-expands-deeperdive-into-an-ad-network-for-ai-apps-and-agents/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-06-16",
+    "description": "The company sees a larger opportunity in powering advertising across conversational experiences.",
     "source_id": "digiday",
     "source_name": "Digiday",
     "source_url": "https://digiday.com/feed",
     "categories": [
-      "marketing",
-      "tech"
+      "ai_marketing",
+      "adtech"
     ],
-    "relevance_score": 0.7,
+    "relevance_score": 0,
     "relevance_label": "high",
-    "title_en": "Media Buyers Rank Leading DSPs as Competition Intensifies in Programmatic Advertising",
-    "summary_ko": "DSP(수요측 플랫폼) 간 경쟁이 치열해지는 가운데 미디어 바이어들이 주요 시장 경쟁업체들을 평가했습니다. 바이어들은 투명성, 인벤토리, 성과 측면에서 DSP를 비교 분석하고 있습니다. 프로그래매틱 광고 시장에서의 경쟁 심화를 보여주는 조사 결과입니다.",
-    "summary_en": "As competition between demand-side platforms (DSPs) intensifies, media buyers have ranked major market competitors based on key performance criteria. Buyers are evaluating DSPs across transparency, inventory quality, and performance metrics. This scorecard reflects the increasingly competitive landscape in programmatic advertising.",
-    "so_what_ko": "D2C 브랜드의 프로그래매틱 광고 성과 최적화를 위해 DSP 선택 시 투명성과 성과 지표를 중심으로 평가해야 합니다.",
-    "so_what_en": "D2C brands should prioritize transparency and performance metrics when selecting DSPs to optimize programmatic advertising effectiveness.",
-    "key_points": [
-      "Media buyers ranking DSPs based on transparency, inventory, and performance",
-      "Intensifying competition in programmatic advertising market",
-      "Scorecard methodology for evaluating advertising technology platforms"
-    ],
-    "tags": [
-      "programmatic-advertising",
-      "dsp-competition",
-      "media-buying"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "DSP",
-      "Digiday"
-    ],
-    "one_line_insight_ko": "프로그래매틱 광고 시장의 경쟁 심화로 DSP 선택이 D2C 마케팅 성과의 핵심 요소가 되고 있습니다.",
-    "one_line_insight_en": "Intensifying DSP competition makes platform selection a critical factor for D2C marketing performance.",
-    "ai_processed": true
+    "summary_ko": "",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0,
+    "ai_processed": false,
+    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011Cc6qHapFNFZ8o4euz8qkf\"}"
   },
   {
-    "title": "The AI layoff wave is becoming a powder keg",
-    "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+    "title": "WPP forecasts AI search ads to become fastest growing channel in advertising",
+    "link": "https://digiday.com/media-buying/wpp-forecasts-ai-search-ads-to-become-fastest-growing-channel-in-advertising/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-06-16",
+    "description": "Twin projections from holdco WPP  and Madison & Wall, peg rising search spend amid a resilient ad economy, which is still expected to grow despite headwinds.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "ai_marketing",
+      "adtech"
+    ],
+    "relevance_score": 0,
+    "relevance_label": "high",
+    "summary_ko": "",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0,
+    "ai_processed": false,
+    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011Cc6qHapFNFZ8o4euz8qkf\"}"
+  },
+  {
+    "title": "AI forces retailers, brands to rethink their product pages",
+    "link": "https://www.modernretail.co/technology/ai-forces-retailers-brands-to-rethink-their-product-pages/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-06-16",
+    "description": "Leaders across e-commerce are transforming how they approach designing product pages to be more discoverable to AI agents like ChatGPT, Claude and Gemini.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
+    "categories": [
+      "ai_commerce",
+      "d2c_dtc"
+    ],
+    "relevance_score": 0,
+    "relevance_label": "high",
+    "summary_ko": "",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0,
+    "ai_processed": false,
+    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011Cc6qHapFNFZ8o4euz8qkf\"}"
+  },
+  {
+    "title": "Tractor Supply taps AI to help scale last-mile delivery network",
+    "link": "https://www.retaildive.com/news/tractor-supply-taps-ai-to-help-scale-last-mile-delivery-network/822654/",
     "date_published": "2026-06-15",
-    "description": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
+    "description": "The retailer has used the technology to help managers build delivery routes, and more AI-driven improvements are in the works.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "ai_commerce"
+    ],
+    "relevance_score": 0,
+    "relevance_label": "high",
+    "summary_ko": "",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0,
+    "ai_processed": false,
+    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011Cc6qHapFNFZ8o4euz8qkf\"}"
+  },
+  {
+    "title": "Why do South Koreans love AI so much?",
+    "link": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+    "date_published": "2026-06-15",
+    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face and passport. On the subway home,…",
+    "source_id": "mit_tech_review_ai",
+    "source_name": "MIT Technology Review (AI)",
+    "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+    "categories": [
+      "ai_marketing",
+      "ai_general"
+    ],
+    "relevance_score": 0,
+    "relevance_label": "high",
+    "summary_ko": "",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0,
+    "ai_processed": false,
+    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011Cc6qHg7VGZrkPMCKStuwj\"}"
+  },
+  {
+    "title": "EA rolls out advertising platform with enhanced offerings for brands",
+    "link": "https://www.marketingdive.com/news/ea-rolls-out-advertising-platform-with-enhanced-offerings-for-brands/822833/",
+    "date_published": "2026-06-15",
+    "description": "The video game company is enabling brands, including initial partners Coach and Visa, to create, launch and measure campaigns across its library.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
+    "categories": [
+      "ai_marketing"
+    ],
+    "relevance_score": 0,
+    "relevance_label": "high",
+    "summary_ko": "",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0,
+    "ai_processed": false,
+    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011Cc6qHg7VGZrkPMCKStuwj\"}"
+  },
+  {
+    "title": "#219: Claude Fable 5, OpenAI IPO, Apple Siri AI Finally Unveiled & Is the Era of Affordable AI Over?",
+    "link": "",
+    "date_published": "2026-06-16",
+    "description": "The U.S. government forced Anthropic to pull Fable 5 and Mythos 5 from general availability just days after they launched as the most capable models publicly available. Paul and Mike work through how it happened, Dario Amodei's policy essay, and the question every business leader should be sitting with: what do you build on when a model can be switched off?\n\nThen it's OpenAI's confidential IPO filing, Apple's long-awaited Siri AI, the real economics behind your AI subscription, and a DeepMind paper on the road from AGI to ASI.\n\nShow Notes: Access the show notes and show links here\n\nAI-Pulse Survey: Fill out this week’s AI-Pulse Survey here.\n\nTimestamps:\n\n00:00:00 — Intro\n\n00:05:20 — Claude Fable 5\n\n00:27:38 — OpenAI Files for IPO\n\n00:36:02 — Apple’s Siri AI Is Finally Here\n\n00:44:02 — Is the Era of Affordable AI Over?\n\n00:48:56 — Opendoor Ends Offshoring for AI-Native Workers\n\n00:51:49 — From Prompts to Loops\n\n00:57:48 — From AGI to ASI\n\n01:03:07 — Europe 2031\n\n01:06:53 — AI Use Case S",
+    "source_id": "marketing_ai_show",
+    "source_name": "The Marketing AI Show (Podcast)",
+    "source_url": "https://feeds.megaphone.fm/marketingai",
+    "categories": [
+      "ai_marketing",
+      "podcast"
+    ],
+    "relevance_score": 0,
+    "relevance_label": "high",
+    "summary_ko": "",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0,
+    "ai_processed": false,
+    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011Cc6qHg7VGZrkPMCKStuwj\"}"
+  },
+  {
+    "title": "Ad Tech Briefing: The shifting tides behind Publicis and The Trade Desk’s détente",
+    "link": "https://digiday.com/media-buying/ad-tech-briefing-the-shifting-tides-behind-publicis-and-the-trade-desks-detente/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-06-16",
+    "description": "Plus, the five key questions marketers have to ask about AI platform pitches.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "ai_marketing",
+      "adtech"
+    ],
+    "relevance_score": 0,
+    "relevance_label": "high",
+    "summary_ko": "",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0,
+    "ai_processed": false,
+    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011Cc6qHg7VGZrkPMCKStuwj\"}"
+  },
+  {
+    "title": "[AINews] Satya on Loopcraft: Building Frontier Ecosystems",
+    "link": "https://www.latent.space/p/ainews-satya-on-loopcraft-building",
+    "date_published": "2026-06-16",
+    "description": "a quiet day lets us report on Satya's hit essay",
+    "source_id": "latent_space",
+    "source_name": "Latent Space (The AI Index)",
+    "source_url": "https://www.latent.space/feed",
+    "categories": [
+      "ai_general",
+      "engineering"
+    ],
+    "relevance_score": 0,
+    "relevance_label": "high",
+    "summary_ko": "",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0,
+    "ai_processed": false,
+    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011Cc6qHg7VGZrkPMCKStuwj\"}"
+  },
+  {
+    "title": "Why more better-for-you brands are leading with taste over health claims",
+    "link": "https://www.modernretail.co/marketing/why-more-better-for-you-brands-are-leading-with-taste-over-health-claims/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-06-16",
+    "description": "Better-for-you brands are prioritizing taste and fun packaging to attract more customers while still offering healthier food options.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
+    "categories": [
+      "ai_commerce",
+      "d2c_dtc"
+    ],
+    "relevance_score": 0,
+    "relevance_label": "high",
+    "summary_ko": "",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0,
+    "ai_processed": false,
+    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011Cc6qHktirJ8CFz8oPwKiQ\"}"
+  },
+  {
+    "title": "Rising fuel costs push brands to adjust shipping policies",
+    "link": "https://www.modernretail.co/operations/rising-fuel-costs-push-brands-to-adjust-shipping-policies/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-06-16",
+    "description": "Brands are raising free shipping thresholds, adding new delivery fees and testing paid shipping options as higher fuel costs push up the price of moving goods across supply chains.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
+    "categories": [
+      "ai_commerce",
+      "d2c_dtc"
+    ],
+    "relevance_score": 0,
+    "relevance_label": "high",
+    "summary_ko": "",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0,
+    "ai_processed": false,
+    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011Cc6qHktirJ8CFz8oPwKiQ\"}"
+  },
+  {
+    "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+    "link": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+    "date_published": "2026-06-16",
+    "description": "Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
     "source_id": "techcrunch_ai",
     "source_name": "TechCrunch AI",
     "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
     "categories": [
-      "tech",
-      "strategy"
+      "ai_general",
+      "ai_commerce",
+      "startup"
     ],
-    "relevance_score": 0.5,
+    "relevance_score": 0,
     "relevance_label": "high",
-    "title_en": "AI Industry Layoffs Create Wealth Inequality Crisis as Insiders Gain Massive Fortunes",
-    "summary_ko": "AI 업계의 대규모 해고가 폭발적인 상황을 만들고 있습니다. 수만 명의 근로자들이 해고되는 동시에 소수의 AI 내부자들이 이해하기 어려운 규모의 부를 축적하고 있습니다. 이러한 극명한 대조가 업계 내 긴장을 고조시키고 있습니다.",
-    "summary_en": "The AI industry's layoff wave is creating a volatile situation as tens of thousands of workers lose their jobs while a small group of AI insiders accumulates unprecedented wealth. This stark contrast is generating significant tension within the tech industry. The disparity highlights growing inequality concerns in the AI sector.",
-    "so_what_ko": "AI 기술 도입 시 인력 구조조정 리스크를 고려하고, 사회적 책임을 다하는 AI 전환 전략이 브랜드 이미지 관리에 중요합니다.",
-    "so_what_en": "D2C brands must consider workforce restructuring risks when implementing AI and adopt socially responsible AI transition strategies for brand reputation management.",
-    "key_points": [
-      "Massive AI industry layoffs affecting tens of thousands of workers",
-      "Small group of AI insiders accumulating unprecedented wealth",
-      "Growing inequality concerns creating industry tension"
-    ],
-    "tags": [
-      "ai-layoffs",
-      "wealth-inequality",
-      "tech-industry"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "EMERGING_TECH",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "AI industry",
-      "TechCrunch"
-    ],
-    "one_line_insight_ko": "AI 도입으로 인한 사회적 불평등 심화가 기업의 AI 전략에 대한 사회적 책임을 요구하고 있습니다.",
-    "one_line_insight_en": "Growing social inequality from AI adoption demands corporate responsibility in AI strategy implementation.",
-    "ai_processed": true
+    "summary_ko": "",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0,
+    "ai_processed": false,
+    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011Cc6qHktirJ8CFz8oPwKiQ\"}"
   },
   {
-    "title": "Introducing the OpenAI Partner Network",
-    "link": "https://openai.com/index/introducing-openai-partner-network",
-    "date_published": "2026-06-14",
-    "description": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
-    "source_id": "openai_blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
+    "title": "Dick’s plots 100 Lids shop-in-shops by the end of the summer",
+    "link": "https://www.retaildive.com/news/dicks-sporting-goods-lids-shop-in-shops/822901/",
+    "date_published": "2026-06-15",
+    "description": "A partnership featuring licensed and lifestyle headwear is already available at 46 locations and will expand nationwide in the months to come.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
     "categories": [
-      "tech",
-      "strategy"
+      "ai_commerce"
     ],
-    "relevance_score": 0.7,
+    "relevance_score": 0,
     "relevance_label": "high",
-    "title_en": "OpenAI Launches Partner Network with $150M Investment to Accelerate Enterprise AI Adoption",
-    "summary_ko": "OpenAI가 글로벌 파트너들의 기업용 AI 도입을 지원하기 위해 1억 5천만 달러를 투자하는 파트너 네트워크를 출시했습니다. 이 프로그램은 파트너들이 AI 배포 및 기업 변혁을 가속화할 수 있도록 돕는 것을 목표로 합니다. 이는 OpenAI가 기업 시장에서의 AI 생태계 확장에 본격적으로 나서는 것을 의미합니다.",
-    "summary_en": "OpenAI has launched the Partner Network with a $150M investment to help global partners accelerate enterprise AI adoption. The program aims to support partners in AI deployment and business transformation initiatives. This represents OpenAI's serious push into expanding the AI ecosystem within the enterprise market.",
-    "so_what_ko": "LG D2C는 OpenAI 파트너 네트워크를 통해 AI 기술 도입을 가속화하고 맞춤형 솔루션을 개발할 수 있는 기회를 얻었습니다.",
-    "so_what_en": "LG D2C can leverage OpenAI's Partner Network to accelerate AI technology adoption and develop customized solutions for direct-to-consumer operations.",
-    "key_points": [
-      "$150M investment in partner ecosystem development",
-      "Focus on enterprise AI adoption and deployment",
-      "Global partner network expansion strategy"
-    ],
-    "tags": [
-      "openai",
-      "partner-network",
-      "enterprise-ai",
-      "ai-investment"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "PLATFORM_ECOSYSTEM",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "OpenAI",
-      "Partner Network"
-    ],
-    "one_line_insight_ko": "OpenAI의 대규모 파트너 투자는 기업용 AI 시장의 생태계 경쟁이 본격화됨을 시사합니다.",
-    "one_line_insight_en": "OpenAI's massive partner investment signals the intensification of ecosystem competition in enterprise AI markets.",
-    "ai_processed": true
+    "summary_ko": "",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0,
+    "ai_processed": false,
+    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011Cc6qHktirJ8CFz8oPwKiQ\"}"
   },
   {
-    "title": "As AI companies race to go public, who else is along for the ride?",
-    "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
-    "date_published": "2026-06-14",
-    "description": "Startups are trying to \"ride that SpaceX IPO wave.\"",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "title": "Target’s Brian Cornell to remain executive chairman after proposal rejected",
+    "link": "https://www.retaildive.com/news/target-brian-cornell-executive-chairman-proposal-rejected/822907/",
+    "date_published": "2026-06-15",
+    "description": "Shareholders did not approve a policy suggestion making the board chair an independent director, despite pushback on Cornell's appointment.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
     "categories": [
-      "strategy",
-      "tech"
+      "ai_commerce"
     ],
-    "relevance_score": 0.6,
+    "relevance_score": 0,
     "relevance_label": "high",
-    "title_en": "AI Companies Race to Go Public as Startups Ride the IPO Wave",
-    "summary_ko": "AI 기업들이 상장을 위한 경쟁에 나서면서 스타트업들이 이 IPO 열풍에 편승하려고 하고 있습니다. 많은 스타트업들이 SpaceX IPO 물결을 타려고 시도하고 있는 상황입니다. AI 분야의 공개 상장 움직임이 전체 스타트업 생태계에 영향을 미치고 있습니다.",
-    "summary_en": "AI companies are racing to go public as startups attempt to ride the IPO wave. Many startups are trying to catch the SpaceX IPO momentum in the current market. The public offering movements in AI are influencing the broader startup ecosystem.",
-    "so_what_ko": "AI 기업들의 상장 러시는 시장 내 경쟁 구도 변화와 투자 패턴 변화를 가져올 것으로, LG D2C는 이러한 시장 동향을 주시해야 합니다.",
-    "so_what_en": "The AI IPO rush will bring changes in competitive landscape and investment patterns that LG D2C should closely monitor for strategic positioning.",
-    "key_points": [
-      "Multiple AI companies preparing for public offerings",
-      "Startup ecosystem riding AI IPO momentum",
-      "Market dynamics shifting with public AI companies"
-    ],
-    "tags": [
-      "ai-ipo",
-      "startup-funding",
-      "public-markets",
-      "spacex"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "SpaceX",
-      "AI companies"
-    ],
-    "one_line_insight_ko": "AI 기업 상장 러시는 업계 성숙도와 투자자 신뢰도 증가를 반영합니다.",
-    "one_line_insight_en": "The AI IPO rush reflects increasing industry maturity and investor confidence in AI technologies.",
-    "ai_processed": true
-  },
-  {
-    "title": "What B2B Professionals Really Think About AI in 2026",
-    "link": "https://www.marketingaiinstitute.com/blog/ai-for-business-report-b2b-marketers-summit",
-    "date_published": "2026-06-10",
-    "description": "New research from SmarterX surfaced not just where B2B professionals are in their AI journey but how they feel about it.",
-    "source_id": "marketing_ai_institute",
-    "source_name": "Marketing AI Institute",
-    "source_url": "https://www.marketingaiinstitute.com/blog/rss.xml",
-    "categories": [
-      "marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.8,
-    "relevance_label": "high",
-    "title_en": "B2B Professionals' Real Attitudes Toward AI in 2026 Revealed",
-    "summary_ko": "SmarterX의 새로운 연구가 B2B 전문가들의 AI 여정에서의 현재 위치와 AI에 대한 실제 감정을 조사했습니다. 이 연구는 B2B 마케터들이 AI를 어떻게 인식하고 활용하고 있는지에 대한 통찰을 제공합니다. 2026년 현재 B2B 업계의 AI 도입 현황과 전문가들의 솔직한 의견이 공개되었습니다.",
-    "summary_en": "New research from SmarterX has uncovered where B2B professionals currently stand in their AI journey and their genuine feelings about AI. The study provides insights into how B2B marketers perceive and utilize AI technologies. The 2026 survey reveals the current state of AI adoption in B2B industries and professionals' candid opinions.",
-    "so_what_ko": "B2B 전문가들의 AI 인식 조사 결과는 LG D2C가 B2B 고객들과의 AI 기반 마케팅 전략을 수립할 때 중요한 참고 자료가 될 것입니다.",
-    "so_what_en": "The B2B professionals' AI perception study will serve as crucial reference material for LG D2C in developing AI-based marketing strategies with B2B customers.",
-    "key_points": [
-      "Comprehensive survey of B2B professionals' AI attitudes",
-      "Insights into current AI adoption journey in B2B",
-      "Real sentiment analysis from marketing professionals"
-    ],
-    "tags": [
-      "b2b-marketing",
-      "ai-adoption",
-      "market-research",
-      "professional-sentiment"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "SmarterX",
-      "B2B professionals",
-      "Marketing AI Institute"
-    ],
-    "one_line_insight_ko": "B2B 전문가들의 AI 인식 조사는 기업 AI 마케팅 전략의 현실적 방향성을 제시합니다.",
-    "one_line_insight_en": "The B2B AI perception study provides realistic direction for enterprise AI marketing strategies.",
-    "ai_processed": true
-  },
-  {
-    "title": "Zest launches a restaurant discovery app powered by where people actually eat",
-    "link": "https://techcrunch.com/2026/06/10/zest-launches-a-restaurant-discovery-app-powered-by-where-people-actually-eat/",
-    "date_published": "2026-06-10",
-    "description": "Backed by Alexis Ohanian’s 776 and Kindred Ventures, Zest uses transaction data and AI to generate restaurant recommendations based on users’ real dining habits and the places they frequent.",
-    "source_id": "techcrunch_commerce",
-    "source_name": "TechCrunch Commerce",
-    "source_url": "https://techcrunch.com/category/commerce/feed",
-    "categories": [
-      "commerce",
-      "tech"
-    ],
-    "relevance_score": 0.9,
-    "relevance_label": "high",
-    "title_en": "Zest Launches AI-Powered Restaurant Discovery App Using Real Transaction Data",
-    "summary_ko": "Zest가 사용자들의 실제 식당 이용 데이터와 AI를 활용한 맛집 발견 앱을 출시했습니다. Alexis Ohanian의 776과 Kindred Ventures의 투자를 받은 이 앱은 거래 데이터와 AI를 사용해 사용자의 실제 식사 습관을 기반으로 맛집을 추천합니다. 사용자들이 자주 방문하는 장소를 분석하여 개인화된 추천을 제공하는 것이 특징입니다.",
-    "summary_en": "Zest has launched a restaurant discovery app powered by users' actual dining data and AI technology. Backed by Alexis Ohanian's 776 and Kindred Ventures, the app uses transaction data and AI to generate restaurant recommendations based on users' real dining habits. The app analyzes places users frequently visit to provide personalized recommendations.",
-    "so_what_ko": "Zest의 거래 데이터 기반 AI 추천 시스템은 LG D2C가 실제 구매 행동 데이터를 활용한 개인화 서비스 개발에 참고할 수 있는 혁신적 사례입니다.",
-    "so_what_en": "Zest's transaction data-based AI recommendation system serves as an innovative case study for LG D2C to develop personalized services using actual purchase behavior data.",
-    "key_points": [
-      "AI-powered recommendations using real transaction data",
-      "Backed by prominent investors including Alexis Ohanian's 776",
-      "Focus on actual dining habits rather than stated preferences"
-    ],
-    "tags": [
-      "ai-recommendations",
-      "transaction-data",
-      "restaurant-discovery",
-      "personalization"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_PERSONALIZATION",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Zest",
-      "776",
-      "Kindred Ventures",
-      "Alexis Ohanian"
-    ],
-    "one_line_insight_ko": "실제 거래 데이터 기반 AI 추천은 선언적 선호도보다 정확한 개인화를 가능하게 합니다.",
-    "one_line_insight_en": "AI recommendations based on actual transaction data enable more accurate personalization than stated preferences.",
-    "ai_processed": true
-  },
-  {
-    "title": "Pinterest bets on creators with Amazon Storefront integration",
-    "link": "https://techcrunch.com/2026/06/10/pinterest-bets-on-creators-with-amazon-storefront-integration/",
-    "date_published": "2026-06-10",
-    "description": "Pinterest is adding support for Amazon Storefronts, allowing creators to earn affiliate commissions more easily while showcasing their product recommendations in one place.",
-    "source_id": "techcrunch_commerce",
-    "source_name": "TechCrunch Commerce",
-    "source_url": "https://techcrunch.com/category/commerce/feed",
-    "categories": [
-      "commerce",
-      "marketing"
-    ],
-    "relevance_score": 0.9,
-    "relevance_label": "high",
-    "title_en": "Pinterest Integrates Amazon Storefronts to Boost Creator Commerce",
-    "summary_ko": "Pinterest가 크리에이터들이 제품 추천을 한 곳에서 보여주면서 더 쉽게 제휴 수수료를 얻을 수 있도록 Amazon Storefront 지원을 추가했습니다. 이 통합을 통해 크리에이터들은 자신의 제품 추천을 더 효과적으로 전시할 수 있게 되었습니다. Pinterest는 크리에이터 중심의 상거래 생태계 구축에 베팅하고 있습니다.",
-    "summary_en": "Pinterest has added support for Amazon Storefronts, allowing creators to earn affiliate commissions more easily while showcasing their product recommendations in one place. This integration enables creators to display their product recommendations more effectively. Pinterest is betting on building a creator-centric commerce ecosystem.",
-    "so_what_ko": "Pinterest의 Amazon 연동은 소셜 커머스에서 크리에이터의 역할 확대를 보여주며, LG D2C도 인플루언서 마케팅 전략을 강화해야 할 필요성을 시사합니다.",
-    "so_what_en": "Pinterest's Amazon integration demonstrates the expanding role of creators in social commerce, indicating LG D2C needs to strengthen its influencer marketing strategy.",
-    "key_points": [
-      "Direct integration between Pinterest and Amazon Storefronts",
-      "Simplified affiliate commission process for creators",
-      "Focus on creator-driven product discovery and recommendations"
-    ],
-    "tags": [
-      "pinterest",
-      "amazon-storefronts",
-      "creator-commerce",
-      "affiliate-marketing"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_COMMERCE",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Pinterest",
-      "Amazon",
-      "Amazon Storefronts"
-    ],
-    "one_line_insight_ko": "소셜 플랫폼과 이커머스의 직접 연동은 크리에이터 중심 상거래 생태계의 새로운 표준이 되고 있습니다.",
-    "one_line_insight_en": "Direct integration between social platforms and e-commerce is becoming the new standard for creator-centric commerce ecosystems.",
-    "ai_processed": true
+    "summary_ko": "",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0,
+    "ai_processed": false,
+    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011Cc6qHktirJ8CFz8oPwKiQ\"}"
   }
 ]
