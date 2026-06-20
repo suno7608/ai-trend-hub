@@ -20,7 +20,7 @@
     "tags": [],
     "confidence": 0,
     "ai_processed": false,
-    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011CcCTNrszXG4HxUXAkKKpP\"}"
+    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011CcDkkPXYYmb4ugxsfMMmK\"}"
   },
   {
     "title": "Google’s ‘Non-Commodity’ Push Isn’t New",
@@ -43,13 +43,82 @@
     "tags": [],
     "confidence": 0,
     "ai_processed": false,
-    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011CcCTNrszXG4HxUXAkKKpP\"}"
+    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011CcDkkPXYYmb4ugxsfMMmK\"}"
   },
   {
-    "title": "L’Oréal accelerates generative AI content engine with fresh OpenAI deal",
-    "link": "https://digiday.com/marketing/loreal-accelerates-generative-ai-content-engine-with-fresh-openai-deal/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "title": "Albertsons brings scripted entertainment to its retail media network",
+    "link": "https://www.digitalcommerce360.com/2026/06/19/albertsons-scripted-entertainment-retail-media-network/",
     "date_published": "2026-06-19",
-    "description": "L’Oréal’s CMO Asmita Dubey is tasked with keeping the beauty giant competitive in the age of zero-click search and rapid AI creative production.",
+    "description": "Albertsons wants its grocery stores to be more than places where shoppers stock up before entertaining — thanks to the addition of its own scripted branded entertainment to the grocer’s retail media network. Albertsons Media Collective is moving beyond traditional ads and into story-driven entertainment. The retail media arm of Albertsons Companies launched what it […]\nThe post Albertsons brings scripted entertainment to its retail media network appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
+    "categories": [
+      "ai_commerce"
+    ],
+    "relevance_score": 0,
+    "relevance_label": "high",
+    "summary_ko": "",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0,
+    "ai_processed": false,
+    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011CcDkkPXYYmb4ugxsfMMmK\"}"
+  },
+  {
+    "title": "Mercari launches a new app for its U.S.-based shoppers",
+    "link": "https://www.digitalcommerce360.com/2026/06/19/mercari-launches-us-app/",
+    "date_published": "2026-06-19",
+    "description": "Positioning itself for a broader international rollout, Mercari Japan is introducing a dedicated app for U.S. shoppers to buy resale goods from its Japanese marketplace. Tokyo-based Mercari Inc., Japan’s largest consumer-to-consumer (C2C) marketplace, said June 17 that it has launched a standalone Mercari Japan app in the U.S. Rather than shopping through Mercari’s existing U.S. […]\nThe post Mercari launches a new app for its U.S.-based shoppers appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
+    "categories": [
+      "ai_commerce"
+    ],
+    "relevance_score": 0,
+    "relevance_label": "high",
+    "summary_ko": "",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0,
+    "ai_processed": false,
+    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011CcDkkPXYYmb4ugxsfMMmK\"}"
+  },
+  {
+    "title": "La-Z-Boy reiterates commitment to Joybird as Q4 earnings see overall sales rise 1%",
+    "link": "https://www.digitalcommerce360.com/2026/06/19/la-z-boy-joybird-earnings-sales-q4-2026/",
+    "date_published": "2026-06-19",
+    "description": "La-Z-Boy Incorporated reported that consolidated sales remained flat in its fiscal Q4 of 2026 ended April 25. Sales totaled $570 million in the quarter, while operating margin grew to 7.2% from 5.2% in the previous year’s quarter. For the full fiscal year, La-Z-Boy sales grew 1% to $2.13 billion. “We are pleased with the strong […]\nThe post La-Z-Boy reiterates commitment to Joybird as Q4 earnings see overall sales rise 1% appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
+    "categories": [
+      "ai_commerce"
+    ],
+    "relevance_score": 0,
+    "relevance_label": "high",
+    "summary_ko": "",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0,
+    "ai_processed": false,
+    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011CcDkkPXYYmb4ugxsfMMmK\"}"
+  },
+  {
+    "title": "How Fanatics moved from audience targeting to optimizing campaigns for customer LTV",
+    "link": "https://digiday.com/marketing/how-fanatics-moved-from-audience-targeting-to-optimizing-campaigns-for-customer-ltv/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-06-19",
+    "description": "A recent 19% lift in LTV points to brands focus on outcome-based media buying.",
     "source_id": "digiday",
     "source_name": "Digiday",
     "source_url": "https://digiday.com/feed",
@@ -67,7 +136,7 @@
     "tags": [],
     "confidence": 0,
     "ai_processed": false,
-    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011CcCTNrszXG4HxUXAkKKpP\"}"
+    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011CcDkkUVC2Kq64MUcmzFku\"}"
   },
   {
     "title": "Bed Bath & Beyond to acquire real estate platform for $53M",
@@ -90,7 +159,7 @@
     "tags": [],
     "confidence": 0,
     "ai_processed": false,
-    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011CcCTNrszXG4HxUXAkKKpP\"}"
+    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011CcDkkUVC2Kq64MUcmzFku\"}"
   },
   {
     "title": "10 ecommerce trends that are defining 2026 for online retailers",
@@ -113,7 +182,7 @@
     "tags": [],
     "confidence": 0,
     "ai_processed": false,
-    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011CcCTNrszXG4HxUXAkKKpP\"}"
+    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011CcDkkUVC2Kq64MUcmzFku\"}"
   },
   {
     "title": "Faire ‘opening its doors’ to business-use buyers",
@@ -136,7 +205,7 @@
     "tags": [],
     "confidence": 0,
     "ai_processed": false,
-    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011CcCTNxXZkPLKxkg4omrGV\"}"
+    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011CcDkkUVC2Kq64MUcmzFku\"}"
   },
   {
     "title": "Marketplace Briefing: Shopify launches tools to help merchants track sales and traffic from AI platforms",
@@ -160,7 +229,7 @@
     "tags": [],
     "confidence": 0,
     "ai_processed": false,
-    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011CcCTNxXZkPLKxkg4omrGV\"}"
+    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011CcDkkUVC2Kq64MUcmzFku\"}"
   },
   {
     "title": "Faire opens its marketplace up to hotels, offices and non-retail customers",
@@ -184,7 +253,7 @@
     "tags": [],
     "confidence": 0,
     "ai_processed": false,
-    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011CcCTNxXZkPLKxkg4omrGV\"}"
+    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011CcDkkZGRzitCR4dGsjNcA\"}"
   },
   {
     "title": "How brands like Goldbelly, Chobani and Xochitl are showing up for America 250",
@@ -208,32 +277,7 @@
     "tags": [],
     "confidence": 0,
     "ai_processed": false,
-    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011CcCTNxXZkPLKxkg4omrGV\"}"
-  },
-  {
-    "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
-    "link": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
-    "date_published": "2026-06-18",
-    "description": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "categories": [
-      "ai_general",
-      "ai_commerce",
-      "startup"
-    ],
-    "relevance_score": 0,
-    "relevance_label": "high",
-    "summary_ko": "",
-    "summary_en": "",
-    "so_what_ko": "",
-    "so_what_en": "",
-    "key_points": [],
-    "tags": [],
-    "confidence": 0,
-    "ai_processed": false,
-    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011CcCTNxXZkPLKxkg4omrGV\"}"
+    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011CcDkkZGRzitCR4dGsjNcA\"}"
   },
   {
     "title": "New Ecommerce Tools: June 17, 2026",
@@ -256,76 +300,7 @@
     "tags": [],
     "confidence": 0,
     "ai_processed": false,
-    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011CcCTP398f8g9XCnztnAv9\"}"
-  },
-  {
-    "title": "Adobe: AI-referred traffic to retail sites doubles in a year",
-    "link": "https://www.digitalcommerce360.com/2026/06/17/adobe-ai-referred-traffic-to-retail-sites-doubles-in-a-year/",
-    "date_published": "2026-06-17",
-    "description": "Traffic from artificial intelligence (AI) sources to U.S. ecommerce websites more than doubled year over year in May 2026, according to data from Adobe Analytics. It found that AI-referred traffic to retail sites grew 138% year over year in May 2026. In addition, AI-referred traffic to those sites has grown 1,324% (more than 14x growth) […]\nThe post Adobe: AI-referred traffic to retail sites doubles in a year appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
-    "categories": [
-      "ai_commerce"
-    ],
-    "relevance_score": 0,
-    "relevance_label": "high",
-    "summary_ko": "",
-    "summary_en": "",
-    "so_what_ko": "",
-    "so_what_en": "",
-    "key_points": [],
-    "tags": [],
-    "confidence": 0,
-    "ai_processed": false,
-    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011CcCTP398f8g9XCnztnAv9\"}"
-  },
-  {
-    "title": "Advance Auto Parts expands partnership with OneRail on AI-powered fulfillment",
-    "link": "https://www.digitalcommerce360.com/2026/06/17/advance-auto-parts-onerail-ai-powered-fulfillment/",
-    "date_published": "2026-06-17",
-    "description": "Advance Auto Parts announced an expanded partnership with OneRail on artificial intelligence (AI)-powered fulfillment orchestration. OneRail is an AI platform that helps retailers, wholesalers and distributors facilitate same-day delivery. Its expanded partnership with Advance Auto Parts is to help the retailer with investments in supply chain modernization, inventory availability, market hubs and store-based fulfillment, according […]\nThe post Advance Auto Parts expands partnership with OneRail on AI-powered fulfillment appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
-    "categories": [
-      "ai_commerce"
-    ],
-    "relevance_score": 0,
-    "relevance_label": "high",
-    "summary_ko": "",
-    "summary_en": "",
-    "so_what_ko": "",
-    "so_what_en": "",
-    "key_points": [],
-    "tags": [],
-    "confidence": 0,
-    "ai_processed": false,
-    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011CcCTP398f8g9XCnztnAv9\"}"
-  },
-  {
-    "title": "commercetools debuts B2B Intake Agent that it developed with Mirion Technologies",
-    "link": "https://www.digitalcommerce360.com/2026/06/17/commercetools-b2b-intake-agent-mirion/",
-    "date_published": "2026-06-17",
-    "description": "The ecommerce platform provider commercetools announced the release of the first artificial intelligence (AI) agent that it has co-developed with Mirion Technologies. The agent, which commercetools refers to as the B2B Intake Agent, is designed to help commercetools clients to take unstructured customer order requests and output actionable quotes and cart information. The launch follows […]\nThe post commercetools debuts B2B Intake Agent that it developed with Mirion Technologies appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
-    "categories": [
-      "ai_commerce"
-    ],
-    "relevance_score": 0,
-    "relevance_label": "high",
-    "summary_ko": "",
-    "summary_en": "",
-    "so_what_ko": "",
-    "so_what_en": "",
-    "key_points": [],
-    "tags": [],
-    "confidence": 0,
-    "ai_processed": false,
-    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011CcCTP398f8g9XCnztnAv9\"}"
+    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011CcDkkZGRzitCR4dGsjNcA\"}"
   },
   {
     "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
@@ -349,6 +324,29 @@
     "tags": [],
     "confidence": 0,
     "ai_processed": false,
-    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011CcCTP398f8g9XCnztnAv9\"}"
+    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011CcDkkZGRzitCR4dGsjNcA\"}"
+  },
+  {
+    "title": "Aleve tackles home improvement pain with social content and DIY stars",
+    "link": "https://www.marketingdive.com/news/aleve-tackles-home-improvement-pain-with-social-content-and-diy-stars/823074/",
+    "date_published": "2026-06-17",
+    "description": "“Fixer to Fabulous” hosts Jenny and Dave Marrs star in a social media campaign from the Bayer pain relief brand.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
+    "categories": [
+      "ai_marketing"
+    ],
+    "relevance_score": 0,
+    "relevance_label": "high",
+    "summary_ko": "",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0,
+    "ai_processed": false,
+    "ai_error": "404 {\"type\":\"error\",\"error\":{\"type\":\"not_found_error\",\"message\":\"model: claude-sonnet-4-20250514\"},\"request_id\":\"req_011CcDkkZGRzitCR4dGsjNcA\"}"
   }
 ]
