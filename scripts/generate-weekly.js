@@ -170,20 +170,35 @@ Return ONLY a valid JSON object.`;
 
   const response = await client.messages.create({
     model: MODEL,
-    max_tokens: 8192,
+    // 16384: Korean+English digest for a full week of articles easily exceeds
+    // 8192 output tokens (Korean is token-heavy), which truncated the JSON and
+    // broke JSON.parse. claude-sonnet-4-6 supports far larger outputs.
+    max_tokens: 16384,
     system: systemPrompt,
     messages: [{ role: 'user', content: userPrompt }]
   });
 
-  const text = response.content[0].text.trim();
+  // Guard against truncated responses (would yield invalid JSON).
+  if (response.stop_reason === 'max_tokens') {
+    throw new Error(`Claude response truncated at max_tokens (${response.usage?.output_tokens} tokens). Increase max_tokens.`);
+  }
+
+  let text = response.content[0].text.trim();
+  // Strip markdown code fences if the model wrapped the JSON.
+  if (text.startsWith('```')) {
+    text = text.replace(/^```(?:json)?\s*/i, '').replace(/\s*```$/i, '').trim();
+  }
 
   let json;
   try {
     json = JSON.parse(text);
-  } catch {
+  } catch (err) {
     const match = text.match(/\{[\s\S]*\}/);
-    if (match) json = JSON.parse(match[0]);
-    else throw new Error('Could not parse JSON from Claude response');
+    if (match) {
+      json = JSON.parse(match[0]);
+    } else {
+      throw new Error(`Could not parse JSON from Claude response (len=${text.length}): ${err.message}`);
+    }
   }
 
   return json;
