@@ -92,7 +92,7 @@ async function generateSimple(articles, weeklyDigests, monthStr) {
   console.log('  🔄 Using simple generation mode (v1.0 fallback)...');
   const Anthropic = require('@anthropic-ai/sdk');
   const client = new Anthropic();
-  const MODEL = process.env.CLAUDE_MODEL || 'claude-sonnet-4-20250514';
+  const MODEL = process.env.CLAUDE_MODEL || 'claude-sonnet-4-6';
 
   const topArticles = articles.slice(0, 30);
   const articlesSummary = topArticles.map((a, i) => `

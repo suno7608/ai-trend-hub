@@ -16,7 +16,7 @@ const ROOT = path.resolve(__dirname, '..');
 const DAILY_DIR = path.join(ROOT, 'content', 'daily');
 const WEEKLY_DIR = path.join(ROOT, 'content', 'weekly');
 
-const MODEL = process.env.CLAUDE_MODEL || 'claude-sonnet-4-20250514';
+const MODEL = process.env.CLAUDE_MODEL || 'claude-sonnet-4-6';
 
 // ── ISO Week helpers ──
 function getISOWeek(date) {

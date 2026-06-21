@@ -13,7 +13,7 @@
 const Anthropic = require('@anthropic-ai/sdk');
 const prompts = require('./prompts');
 
-const MODEL = process.env.CLAUDE_MODEL || 'claude-sonnet-4-20250514';
+const MODEL = process.env.CLAUDE_MODEL || 'claude-sonnet-4-6';
 const MAX_RETRIES = 3;
 
 // ── Retry-aware Claude call ───────────────────────────────
