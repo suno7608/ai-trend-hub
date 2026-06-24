@@ -1,201 +1,251 @@
 [
   {
-    "title": "Amazon’s latest ad format offers a glimpse of advertising’s agentic future",
-    "link": "https://digiday.com/marketing/amazons-latest-ad-format-offers-a-glimpse-of-advertisings-agentic-future/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "title": "Gap Inc. plots AI-led marketing modernization effort",
+    "link": "https://www.retaildive.com/news/gap-ai-owned-marketing-channels/823507/",
     "date_published": "2026-06-23",
-    "description": "Amazon's Alexa+ agentic ads bring advertising into AI shopping conversations, raising questions about paid versus organic visibility.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
-    "categories": [
-      "ai_marketing",
-      "agentic_commerce",
-      "commerce"
-    ],
-    "relevance_score": 0.95,
-    "relevance_label": "high",
-    "title_en": "Amazon's Alexa+ Agentic Ads Signal a New Era of AI-Driven Advertising",
-    "summary_ko": "아마존은 Alexa+를 통해 AI 쇼핑 대화 속에 광고를 삽입하는 에이전틱 광고 포맷을 선보이며 광고의 미래를 제시하고 있다. 이 형식은 AI가 소비자의 구매 결정 과정에 직접 개입하면서 유료 노출과 유기적 노출 간의 경계를 흐리게 만든다. 광고주와 브랜드는 AI 에이전트 환경에서의 가시성 확보 전략을 새롭게 수립해야 하는 과제에 직면하고 있다.",
-    "summary_en": "Amazon has introduced an agentic ad format through Alexa+ that embeds advertising directly into AI-driven shopping conversations. This new format blurs the line between paid and organic visibility as AI agents increasingly mediate consumer purchase decisions. Brands and advertisers must now rethink their visibility strategies within AI agent environments.",
-    "so_what_ko": "LG D2C는 AI 에이전트 기반 쇼핑 환경에서 유료 광고와 유기적 노출 전략을 동시에 재검토하고, Alexa+와 같은 플랫폼에서의 브랜드 노출 방식을 선제적으로 준비해야 한다.",
-    "so_what_en": "LG D2C should proactively reassess both paid and organic visibility strategies for AI agent-mediated shopping environments like Alexa+, ensuring brand presence in AI-driven purchase conversations.",
-    "key_points": [
-      "Amazon Alexa+ introduces agentic ad formats that integrate ads into AI shopping dialogues",
-      "Raises fundamental questions about paid vs. organic visibility in AI-mediated commerce",
-      "Signals a broader industry shift toward advertising within agentic AI experiences",
-      "Brands must adapt strategies to maintain visibility as AI agents influence purchase decisions"
-    ],
-    "tags": [
-      "agentic-ads",
-      "alexa-plus",
-      "ai-shopping",
-      "amazon-advertising",
-      "d2c-visibility"
-    ],
-    "confidence": 0.82,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "GLOBAL",
-      "AMER"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Amazon",
-      "Alexa+"
-    ],
-    "one_line_insight_ko": "AI 에이전트가 쇼핑 대화를 장악하면서 광고 노출의 패러다임이 검색에서 대화형 AI로 이동하고 있다.",
-    "one_line_insight_en": "As AI agents take over shopping conversations, advertising visibility is shifting from search to conversational AI, demanding entirely new brand strategies.",
-    "ai_processed": true
-  },
-  {
-    "title": "Talent agencies are training creators to act like retailers",
-    "link": "https://www.modernretail.co/marketing/talent-agencies-are-training-creators-to-act-like-retailers/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-06-23",
-    "description": "Talent agencies are training creators to think like retailers, helping them set up online storefronts, prepare for major sales events and show brands hard evidence that their audiences spend money.",
-    "source_id": "modern_retail",
-    "source_name": "Modern Retail",
-    "source_url": "https://www.modernretail.co/feed/",
-    "categories": [
-      "commerce",
-      "marketing",
-      "ai_marketing"
-    ],
-    "relevance_score": 0.78,
-    "relevance_label": "high",
-    "title_en": "Talent Agencies Train Creators to Think and Act Like Retailers",
-    "summary_ko": "탤런트 에이전시들이 크리에이터들에게 온라인 스토어프론트 운영, 대형 세일 이벤트 준비, 오디언스 구매력 증명 등 리테일러처럼 사고하고 행동하는 방법을 교육하고 있다. 이는 크리에이터 이코노미와 D2C 커머스 간의 경계가 점점 허물어지고 있음을 보여준다. 브랜드들은 이제 크리에이터를 단순 인플루언서가 아닌 실질적인 판매 채널로 인식하기 시작했다.",
-    "summary_en": "Talent agencies are actively training creators to operate like retailers, equipping them with skills to manage online storefronts, participate in major sales events, and demonstrate measurable audience purchasing power to brands. This trend reflects the accelerating convergence of the creator economy and D2C commerce. Brands are increasingly treating top creators as legitimate sales channels rather than mere promotional vehicles.",
-    "so_what_ko": "LG D2C는 크리에이터를 단순 마케팅 파트너가 아닌 독립적인 판매 채널로 재정의하고, 이들과의 공동 스토어프론트 운영이나 성과 기반 협력 모델 도입을 검토해야 한다.",
-    "so_what_en": "LG D2C should reframe creators as independent sales channels rather than just marketing partners, exploring co-branded storefronts and performance-based collaboration models.",
-    "key_points": [
-      "Talent agencies are providing creators with retail operations training including storefront setup and sales event preparation",
-      "Creators are now expected to provide brands with hard data proving their audience's purchasing behavior",
-      "The creator-retailer convergence is reshaping influencer marketing into a direct commerce channel",
-      "This model increases accountability and measurability for brand-creator partnerships"
-    ],
-    "tags": [
-      "creator-economy",
-      "creator-commerce",
-      "d2c",
-      "influencer-retail",
-      "social-commerce"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "GLOBAL",
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Modern Retail"
-    ],
-    "one_line_insight_ko": "크리에이터가 리테일러로 진화하면서 브랜드는 인플루언서 마케팅을 측정 가능한 D2C 판매 채널로 전환할 기회를 맞이하고 있다.",
-    "one_line_insight_en": "As creators evolve into retailers, brands gain the opportunity to transform influencer marketing into a measurable, performance-driven D2C sales channel.",
-    "ai_processed": true
-  },
-  {
-    "title": "Bing’s AI Performance Report Gets Better",
-    "link": "https://www.practicalecommerce.com/bings-improved-ai-performance-section",
-    "date_published": "2026-06-22",
-    "description": "Bing was the first AI-answer platform to offer visibility metrics. The updated report provides even more.\nThe post Bing’s AI Performance Report Gets Better appeared first on Practical Ecommerce.",
-    "source_id": "practical_ecommerce",
-    "source_name": "Practical Ecommerce",
-    "source_url": "https://www.practicalecommerce.com/feed",
-    "categories": [
-      "ai_marketing",
-      "commerce",
-      "tech"
-    ],
-    "relevance_score": 0.82,
-    "relevance_label": "high",
-    "title_en": "Bing Enhances AI Performance Report with Deeper Visibility Metrics for Marketers",
-    "summary_ko": "Bing은 AI 답변 플랫폼 중 최초로 가시성 지표를 제공했으며, 이번 업데이트를 통해 더욱 풍부한 AI 성과 데이터를 마케터에게 제공하게 됐다. 업데이트된 리포트는 AI 검색 환경에서의 브랜드 및 콘텐츠 노출 현황을 더 세밀하게 추적할 수 있도록 개선됐다. 이는 AI 검색이 전통적 SEO를 대체해 가는 상황에서 브랜드의 AI 가시성 관리 필요성이 높아지고 있음을 반영한다.",
-    "summary_en": "Bing remains the first AI-answer platform to offer visibility metrics, and its latest update delivers even more detailed AI performance data for marketers. The enhanced report allows brands and ecommerce operators to better track their visibility and content presence within AI-generated search responses. This development underscores the growing importance of managing brand visibility as AI search continues to displace traditional SEO.",
-    "so_what_ko": "LG D2C 마케팅팀은 Bing의 AI 성과 리포트를 활용해 AI 검색 환경에서의 브랜드 가시성을 정기적으로 모니터링하고, AI 최적화 콘텐츠 전략 수립에 이를 적극 반영해야 한다.",
-    "so_what_en": "LG D2C marketing teams should leverage Bing's AI Performance Report to regularly monitor brand visibility in AI search environments and incorporate these insights into AI-optimized content strategies.",
-    "key_points": [
-      "Bing was the first AI-answer platform to offer visibility metrics and has now expanded reporting capabilities",
-      "Updated report provides more granular data on brand and content presence in AI-generated answers",
-      "AI search visibility is becoming a critical new dimension of digital marketing performance",
-      "Ecommerce brands need dedicated strategies for AI search optimization distinct from traditional SEO"
-    ],
-    "tags": [
-      "bing-ai",
-      "ai-search",
-      "visibility-metrics",
-      "seo-ai",
-      "ecommerce-analytics"
-    ],
-    "confidence": 0.78,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL",
-      "AMER",
-      "EMEA"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Bing",
-      "Microsoft",
-      "Practical Ecommerce"
-    ],
-    "one_line_insight_ko": "AI 검색이 주류로 자리잡으면서 Bing의 AI 성과 리포트는 브랜드의 AI 가시성 전략 수립을 위한 핵심 도구로 부상하고 있다.",
-    "one_line_insight_en": "As AI search goes mainstream, Bing's expanded AI Performance Report is becoming an essential tool for brands to measure and manage their presence in AI-generated search results.",
-    "ai_processed": true
-  },
-  {
-    "title": "BJ’s Wholesale Club uses tariff refunds to cut prices",
-    "link": "https://www.retaildive.com/news/bjs-wholesale-club-tariff-refunds-cut-prices/823371/",
-    "date_published": "2026-06-22",
-    "description": "The rebates helped reduce overall retail prices by about half a percentage point.",
+    "description": "The retailer is leveraging partnerships with Google Cloud, Zeta Global and Publicis Sapient as part of a newly announced transformation effort.",
     "source_id": "retail_dive",
     "source_name": "Retail Dive",
     "source_url": "https://www.retaildive.com/feeds/news/",
     "categories": [
+      "ai_marketing",
       "commerce",
       "strategy"
     ],
-    "relevance_score": 0.25,
+    "relevance_score": 0.88,
     "relevance_label": "high",
-    "title_en": "BJ's Wholesale Club Uses Tariff Refunds to Lower Consumer Prices by 0.5%",
-    "summary_ko": "BJ's Wholesale Club은 관세 환급금을 활용해 소비자 가격을 약 0.5%포인트 인하하는 전략을 취했다. 이는 관세 불확실성 속에서 가격 경쟁력을 유지하려는 도매 클럽의 대응 방식을 보여준다. 그러나 이 기사는 AI 커머스나 AI 마케팅과의 직접적 연관성은 낮은 편이다.",
-    "summary_en": "BJ's Wholesale Club has used tariff refunds to reduce overall retail prices by approximately half a percentage point, offering consumers modest relief amid ongoing trade pressures. The move reflects a broader retailer strategy of passing tariff savings directly to consumers to maintain price competitiveness. However, this article has limited direct relevance to AI commerce or AI marketing topics.",
-    "so_what_ko": "관세 환경 변화에 따른 가격 전략은 D2C 비즈니스에서도 주시해야 할 외부 변수이나, AI 마케팅·커머스와의 직접적 연관성은 낮다.",
-    "so_what_en": "Tariff-driven pricing strategies are an external variable worth monitoring for D2C businesses, but this article has limited direct applicability to AI-driven marketing or commerce initiatives.",
+    "title_en": "Gap Inc. Launches AI-Led Marketing Modernization with Google Cloud, Zeta Global & Publicis Sapient",
+    "summary_ko": "Gap Inc.는 Google Cloud, Zeta Global, Publicis Sapient과의 파트너십을 통해 AI 기반 마케팅 현대화 전략을 공식 발표했다. 이번 이니셔티브는 자사 마케팅 채널 전반에 AI를 도입하는 대규모 전환 프로젝트의 일환이다. Gap의 멀티 브랜드 포트폴리오 전체에 걸쳐 데이터 기반 마케팅 역량을 강화하는 것이 핵심 목표다.",
+    "summary_en": "Gap Inc. has announced a major AI-led marketing transformation initiative leveraging partnerships with Google Cloud, Zeta Global, and Publicis Sapient. The effort is focused on modernizing owned marketing channels across the retailer's brand portfolio. This signals a significant investment in data-driven, AI-powered marketing infrastructure at enterprise scale.",
+    "so_what_ko": "LG D2C 조직도 자사 마케팅 채널에 AI를 통합하기 위한 전략적 파트너십 구축을 검토해야 하며, 특히 데이터 플랫폼과 AI 마케팅 툴의 결합을 통한 퍼스트파티 데이터 활용 역량 강화가 시급하다.",
+    "so_what_en": "LG D2C should evaluate similar strategic AI partnerships to modernize owned marketing channels, particularly by combining data platforms with AI marketing tools to maximize first-party data activation.",
     "key_points": [
-      "BJ's Wholesale Club passed tariff refunds to consumers, reducing prices by ~0.5 percentage points",
-      "Strategy reflects retailer attempts to maintain price competitiveness amid tariff uncertainty",
-      "Limited relevance to AI commerce or AI marketing topics"
+      "Gap Inc. is partnering with Google Cloud, Zeta Global, and Publicis Sapient for AI marketing transformation",
+      "The initiative targets owned marketing channels across the full brand portfolio",
+      "This represents an enterprise-scale commitment to AI-driven marketing modernization"
     ],
     "tags": [
-      "tariffs",
-      "wholesale-retail",
-      "pricing-strategy",
-      "bjs-wholesale"
+      "ai-marketing",
+      "owned-channels",
+      "retail-transformation",
+      "data-strategy",
+      "brand-portfolio"
     ],
-    "confidence": 0.75,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "confidence": 0.72,
+    "strategic_theme": "AI_MARKETING",
     "regions": [
-      "AMER"
+      "AMER",
+      "GLOBAL"
     ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "BJ's Wholesale Club"
+      "Gap Inc.",
+      "Google Cloud",
+      "Zeta Global",
+      "Publicis Sapient"
     ],
-    "one_line_insight_ko": "관세 환급을 활용한 가격 인하 전략은 소매업계의 무역 불확실성 대응 사례이나 AI 커머스 관점에서의 시사점은 제한적이다.",
-    "one_line_insight_en": "BJ's tariff-refund pricing strategy illustrates retailer responses to trade uncertainty but holds limited strategic relevance for AI-driven D2C commerce.",
+    "one_line_insight_ko": "Gap Inc.의 AI 마케팅 전환은 대형 리테일러가 자사 채널 경쟁력 확보를 위해 AI 파트너십을 전략적 핵심 수단으로 삼고 있음을 보여준다.",
+    "one_line_insight_en": "Gap's AI marketing overhaul illustrates how major retailers are making AI partnerships central to owning and optimizing their direct marketing channels.",
     "ai_processed": true
   },
   {
-    "title": "Why furniture delivery isn’t part of Ollie’s plans",
-    "link": "https://www.retaildive.com/news/delivery-isnt-part-ollies-plans-furniture/823049/",
-    "date_published": "2026-06-22",
-    "description": "Customers aren't willing to pay extra for shipping, while free delivery could squeeze margins, the retailer's CEO said.",
+    "title": "Gap brings AI to owned marketing channels across brand portfolio",
+    "link": "https://www.marketingdive.com/news/gap-brings-ai-to-owned-marketing-channels-across-brand-portfolio/823491/",
+    "date_published": "2026-06-23",
+    "description": "The retailer is leveraging partnerships with Google Cloud, Zeta Global and Publicis Sapient as part of a newly announced transformation effort.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
+    "categories": [
+      "ai_marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.9,
+    "relevance_label": "high",
+    "title_en": "Gap Deploys AI Across Owned Marketing Channels for Its Entire Brand Portfolio",
+    "summary_ko": "Gap Inc.는 브랜드 포트폴리오 전반의 자사 마케팅 채널에 AI를 도입하는 전환 프로젝트를 발표했다. Google Cloud, Zeta Global, Publicis Sapient과의 파트너십이 이번 이니셔티브의 핵심 기반이 된다. 이는 퍼스트파티 데이터 활용과 개인화 마케팅 역량을 AI로 강화하려는 전략적 행보다.",
+    "summary_en": "Gap Inc. is bringing AI to its owned marketing channels across its entire brand portfolio as part of a newly announced transformation effort. The company is partnering with Google Cloud, Zeta Global, and Publicis Sapient to power this initiative. The move reflects a strategic push to enhance personalization and first-party data capabilities through AI.",
+    "so_what_ko": "자사 채널(이메일, 앱, 웹 등)에서의 AI 기반 개인화 마케팅은 D2C 전환의 핵심 레버이며, LG는 유사한 파트너십 모델을 통해 고객 데이터 플랫폼과 AI 마케팅 자동화를 연계하는 방안을 적극 검토해야 한다.",
+    "so_what_en": "AI-powered personalization in owned channels is a critical lever for D2C growth; LG should explore similar partnership models connecting customer data platforms with AI marketing automation.",
+    "key_points": [
+      "Gap is applying AI to owned marketing channels (email, app, web) across all its brands",
+      "Three strategic partners — Google Cloud, Zeta Global, Publicis Sapient — underpin the transformation",
+      "The focus on owned channels reflects a broader industry shift toward first-party data and reduced reliance on paid media"
+    ],
+    "tags": [
+      "ai-personalization",
+      "owned-media",
+      "first-party-data",
+      "retail-marketing",
+      "martech"
+    ],
+    "confidence": 0.72,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER",
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Gap Inc.",
+      "Google Cloud",
+      "Zeta Global",
+      "Publicis Sapient"
+    ],
+    "one_line_insight_ko": "Gap의 AI 자사 채널 전환은 퍼스트파티 데이터와 AI를 결합한 소유 미디어 마케팅이 D2C의 새로운 경쟁 기준이 되고 있음을 시사한다.",
+    "one_line_insight_en": "Gap's AI-driven owned-channel transformation signals that combining first-party data with AI is becoming the new competitive baseline for D2C marketing.",
+    "ai_processed": true
+  },
+  {
+    "title": "Why Lowe’s wants content creators in its network to pitch product ideas",
+    "link": "https://www.marketingdive.com/news/why-lowes-wants-content-creators-in-its-network-to-pitch-product-ideas/823379/",
+    "date_published": "2026-06-23",
+    "description": "CMO Jen Wilson explains how the home improvement retailer’s program is evolving from content to curation to creation with partners like MrBeast.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
+    "categories": [
+      "marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.68,
+    "relevance_label": "high",
+    "title_en": "Lowe's Evolves Creator Program from Content to Product Co-Creation with Partners Like MrBeast",
+    "summary_ko": "Lowe's CMO Jen Wilson은 자사 크리에이터 네트워크 프로그램이 단순 콘텐츠 제작에서 상품 아이디어 피칭과 공동 개발 단계로 진화하고 있다고 설명했다. MrBeast 등 주요 파트너와의 협업을 통해 크리에이터가 제품 기획에도 참여하는 구조로 전환 중이다. 이는 인플루언서 마케팅이 브랜드 커머스와 제품 전략에 직접 통합되는 새로운 트렌드를 보여준다.",
+    "summary_en": "Lowe's CMO Jen Wilson revealed that the home improvement retailer's creator network program is evolving from content production to curation and now product co-creation. Partners like MrBeast are being empowered to pitch product ideas directly, deepening the brand-creator relationship. This reflects a broader trend of integrating creator partnerships into core product strategy, not just marketing.",
+    "so_what_ko": "LG D2C는 크리에이터를 단순 광고 채널로 활용하는 것을 넘어, 제품 기획 및 큐레이션 단계에 참여시키는 공동 창작 모델을 탐색하여 브랜드 신뢰도와 고객 참여를 동시에 높일 수 있다.",
+    "so_what_en": "LG D2C should explore moving creators beyond advertising roles into product curation and co-creation, deepening brand authenticity and customer engagement simultaneously.",
+    "key_points": [
+      "Lowe's creator program has evolved from content → curation → product co-creation",
+      "Creators including MrBeast are now able to pitch product ideas to the retailer",
+      "CMO Jen Wilson positions this as a strategic evolution, not just a marketing tactic"
+    ],
+    "tags": [
+      "creator-economy",
+      "influencer-marketing",
+      "product-collab",
+      "retail-marketing",
+      "co-creation"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Lowe's",
+      "Jen Wilson",
+      "MrBeast"
+    ],
+    "one_line_insight_ko": "Lowe's의 크리에이터 공동 제품 기획 모델은 인플루언서 파트너십이 마케팅을 넘어 제품 혁신의 동력으로 진화하고 있음을 보여준다.",
+    "one_line_insight_en": "Lowe's creator co-creation model shows that influencer partnerships are evolving beyond marketing into a direct driver of product innovation.",
+    "ai_processed": true
+  },
+  {
+    "title": "Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India",
+    "link": "https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/",
+    "date_published": "2026-06-24",
+    "description": "Walmart-backed Flipkart has crossed 1,000 micro-fulfillment centers as Amazon accelerates its own quick-commerce push in India.",
+    "source_id": "techcrunch_commerce",
+    "source_name": "TechCrunch Commerce",
+    "source_url": "https://techcrunch.com/category/commerce/feed",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.65,
+    "relevance_label": "high",
+    "title_en": "Flipkart Crosses 1,000 Micro-Fulfillment Centers as Quick-Commerce Battle Intensifies in India",
+    "summary_ko": "Walmart이 지원하는 Flipkart가 인도에서 1,000개 이상의 마이크로 풀필먼트 센터를 돌파하며 퀵커머스 사업을 확장하고 있다. Amazon도 인도 시장에서 퀵커머스 역량을 빠르게 강화하며 경쟁이 치열해지고 있다. 인도 퀵커머스 시장은 글로벌 이커머스 대기업들의 핵심 격전지로 부상하고 있다.",
+    "summary_en": "Walmart-backed Flipkart has surpassed 1,000 micro-fulfillment centers in India as it aggressively expands its quick-commerce operations. Amazon is simultaneously accelerating its own quick-commerce push in the Indian market, intensifying competition. India is emerging as a critical battleground for global e-commerce giants in the quick-commerce space.",
+    "so_what_ko": "인도 퀵커머스 시장의 인프라 경쟁은 LG가 APAC D2C 전략 수립 시 빠른 배송 역량과 물류 파트너십의 중요성을 재점검해야 함을 시사한다.",
+    "so_what_en": "The infrastructure arms race in India's quick-commerce market highlights the growing importance of fast fulfillment capabilities and logistics partnerships in LG's APAC D2C strategy.",
+    "key_points": [
+      "Flipkart has exceeded 1,000 micro-fulfillment centers in India",
+      "Amazon is simultaneously scaling its quick-commerce operations in India",
+      "India's quick-commerce sector is becoming a high-stakes competitive battleground for global players"
+    ],
+    "tags": [
+      "quick-commerce",
+      "india-ecommerce",
+      "micro-fulfillment",
+      "flipkart",
+      "amazon"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "APAC"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Flipkart",
+      "Walmart",
+      "Amazon",
+      "India"
+    ],
+    "one_line_insight_ko": "인도 퀵커머스 시장에서 Flipkart와 Amazon의 물류 인프라 경쟁은 APAC D2C 시장에서 배송 속도가 핵심 경쟁력으로 부상하고 있음을 확인시켜 준다.",
+    "one_line_insight_en": "The Flipkart-Amazon quick-commerce infrastructure race in India confirms that delivery speed is becoming a primary competitive differentiator in APAC D2C markets.",
+    "ai_processed": true
+  },
+  {
+    "title": "Future of TV Briefing: The ad-supported streaming landscape in graphic detail",
+    "link": "https://digiday.com/future-of-tv/future-of-tv-briefing-the-ad-supported-streaming-landscape-in-graphic-detail/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-06-24",
+    "description": "This week’s Future of TV Briefing looks at a spate of recent studies that highlight the growing predominance of ad-supported streaming and the risk in how brands are managing streaming campaigns.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "marketing",
+      "ai_marketing"
+    ],
+    "relevance_score": 0.55,
+    "relevance_label": "high",
+    "title_en": "Ad-Supported Streaming Dominates the Landscape but Brands Face Growing Campaign Risk",
+    "summary_ko": "최근 복수의 연구에 따르면 광고 지원 스트리밍(AVOD/FAST)이 TV 광고 시장에서 점점 더 주류로 자리잡고 있다. 그러나 브랜드들이 스트리밍 캠페인을 관리하는 방식에서 리스크가 커지고 있다는 경고도 함께 제기된다. 스트리밍 광고 생태계의 복잡성이 증가하면서 브랜드 안전성과 캠페인 효율성 관리가 새로운 과제로 부상하고 있다.",
+    "summary_en": "Multiple recent studies highlight the growing dominance of ad-supported streaming in the television advertising landscape. However, the research also flags increasing risk in how brands are managing their streaming campaigns. The growing complexity of the streaming ad ecosystem is making brand safety and campaign efficiency management critical new challenges.",
+    "so_what_ko": "LG D2C 마케팅팀은 광고 지원 스트리밍 채널에서의 캠페인 집행 시 브랜드 안전성 기준과 효율 측정 체계를 강화하고, 증가하는 스트리밍 광고 예산 배분에 대한 전략적 가이드라인을 수립해야 한다.",
+    "so_what_en": "LG D2C marketing teams should strengthen brand safety standards and efficiency measurement frameworks for streaming campaigns, and establish strategic guidelines for growing streaming ad budget allocation.",
+    "key_points": [
+      "Ad-supported streaming (AVOD/FAST) is achieving growing dominance in TV advertising",
+      "Multiple studies flag rising risks in how brands manage streaming campaigns",
+      "Brand safety and campaign measurement complexity are emerging as critical operational challenges"
+    ],
+    "tags": [
+      "streaming-ads",
+      "avod",
+      "brand-safety",
+      "connected-tv",
+      "adtech"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER",
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Digiday",
+      "AVOD",
+      "FAST"
+    ],
+    "one_line_insight_ko": "광고 지원 스트리밍의 급성장은 기회인 동시에, 브랜드 안전성과 캠페인 효율 관리 역량이 없으면 예산 낭비로 이어질 수 있는 양날의 검이다.",
+    "one_line_insight_en": "The dominance of ad-supported streaming is a double-edged opportunity — brands without robust campaign management and brand safety frameworks risk wasting growing streaming budgets.",
+    "ai_processed": true
+  },
+  {
+    "title": "Best Buy CFO to exit",
+    "link": "https://www.retaildive.com/news/best-buy-cfo-matt-bilunas-exits/823494/",
+    "date_published": "2026-06-23",
+    "description": "The retailer is conducting an external search to fill the role and expects to name a successor with previous CFO experience.",
     "source_id": "retail_dive",
     "source_name": "Retail Dive",
     "source_url": "https://www.retaildive.com/feeds/news/",
@@ -205,418 +255,42 @@
     ],
     "relevance_score": 0.2,
     "relevance_label": "high",
-    "title_en": "Ollie's Bargain Outlet CEO Explains Why Furniture Delivery Doesn't Fit the Business Model",
-    "summary_ko": "Ollie's Bargain Outlet의 CEO는 고객들이 배송비를 추가로 지불하려 하지 않고, 무료 배송은 마진을 압박한다는 이유로 가구 배송 서비스를 도입하지 않겠다고 밝혔다. 이 결정은 할인 리테일러가 배송 비용 구조와 고객 기대치 사이에서 겪는 딜레마를 잘 보여준다. 이 기사는 AI 커머스나 AI 마케팅과의 직접적 연관성이 낮다.",
-    "summary_en": "Ollie's Bargain Outlet CEO stated that the retailer has no plans to offer furniture delivery, citing customers' unwillingness to pay extra for shipping and the margin pressure that free delivery would create. The decision highlights the ongoing tension discount retailers face between customer delivery expectations and cost management. This article has minimal direct relevance to AI commerce or AI marketing topics.",
-    "so_what_ko": "배송 비용과 소비자 지불 의향 간의 갭은 D2C 물류 전략 수립 시 고려해야 할 변수이지만, AI 커머스·마케팅 관점에서의 직접적 시사점은 낮다.",
-    "so_what_en": "The gap between delivery cost structures and consumer willingness to pay is a relevant factor for D2C logistics planning, but this article offers minimal direct insight into AI marketing or commerce strategy.",
+    "title_en": "Best Buy CFO Matt Bilunas Exits, External Search Underway",
+    "summary_ko": "Best Buy의 CFO Matt Bilunas가 퇴사하며 회사는 외부 후보를 대상으로 후임자 탐색을 진행 중이다. 후임자는 이전 CFO 경험을 보유한 인물이 될 것으로 기대된다. 이번 인사 변화는 Best Buy가 변화하는 소매 환경에 대응하는 시점에 이루어졌다.",
+    "summary_en": "Best Buy CFO Matt Bilunas is departing the company as it conducts an external search for a replacement. The retailer expects to name a successor with prior CFO experience. This leadership transition occurs as Best Buy navigates a shifting retail landscape.",
+    "so_what_ko": "대형 전자제품 소매업체의 재무 리더십 교체는 전략적 방향 변화 가능성을 시사하며, LG D2C는 Best Buy와의 파트너십 전략을 재점검할 필요가 있다.",
+    "so_what_en": "A CFO transition at a major electronics retailer may signal strategic shifts; LG D2C should monitor how Best Buy's financial priorities evolve and reassess partnership strategies accordingly.",
     "key_points": [
-      "Ollie's CEO ruled out furniture delivery due to customer price sensitivity and margin concerns",
-      "Reflects broader discount retail challenge of balancing delivery expectations with profitability",
-      "Limited relevance to AI commerce or AI marketing initiatives"
+      "Best Buy CFO Matt Bilunas가 퇴임 예정",
+      "외부 후보 대상으로 후임자 탐색 진행 중",
+      "후임자는 CFO 경험 보유자로 한정"
     ],
     "tags": [
-      "last-mile-delivery",
-      "discount-retail",
-      "furniture-retail",
-      "d2c-logistics"
-    ],
-    "confidence": 0.75,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Ollie's Bargain Outlet"
-    ],
-    "one_line_insight_ko": "배송비 부담과 마진 압박 사이에서 올리's의 가구 배송 포기 결정은 할인 리테일러의 물류 딜레마를 단적으로 보여준다.",
-    "one_line_insight_en": "Ollie's decision to forgo furniture delivery underscores the fundamental logistics dilemma facing discount retailers caught between delivery cost burdens and razor-thin margins.",
-    "ai_processed": true
-  },
-  {
-    "title": "Carrier Enterprise shares how it reached a 60% share of sales through digital channels",
-    "link": "https://www.digitalcommerce360.com/2026/06/22/carrier-enterprise-digital-channels-share-sales/",
-    "date_published": "2026-06-22",
-    "description": "Carrier Enterprise (CE), the joint venture between Watsco Inc. and the Carrier Corporation, released new details on how important digital sales have become for its heating, ventilation and air conditioning (HVAC) business. CE, which is a distributor for HVAC systems, now credits digital channels for 60% of its total revenue. In doing so, CE laid out […]\nThe post Carrier Enterprise shares how it reached a 60% share of sales through digital channels appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
-    "categories": [
-      "commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.72,
-    "relevance_label": "high",
-    "title_en": "Carrier Enterprise Credits Digital Channels for 60% of Total HVAC Sales Revenue",
-    "summary_ko": "Carrier Enterprise(CE)는 Watsco Inc.와 Carrier Corporation의 합작 법인으로, 현재 전체 매출의 60%를 디지털 채널을 통해 창출하고 있다. CE는 HVAC 시스템 유통업체로서 디지털 전환을 통해 주요 수익원을 온라인으로 전환하는 데 성공했다. 이 성과는 B2B 산업재 분야에서도 디지털 커머스가 핵심 판매 채널로 자리잡을 수 있음을 보여준다.",
-    "summary_en": "Carrier Enterprise (CE), the joint venture between Watsco Inc. and Carrier Corporation, now attributes 60% of its total revenue to digital channels. The HVAC distributor shared new details on how digital sales have become central to its business model. This milestone demonstrates that even industrial B2B sectors can achieve dominant digital channel share.",
-    "so_what_ko": "B2B 및 산업재 분야에서도 디지털 채널이 매출의 과반을 차지할 수 있음을 증명한 사례로, LG D2C 조직은 자사 디지털 채널 비중 확대 전략에 벤치마킹할 수 있다.",
-    "so_what_en": "LG D2C can benchmark CE's digital channel strategy to accelerate its own shift toward digital-first revenue, particularly for appliance and B2B segments.",
-    "key_points": [
-      "Carrier Enterprise now generates 60% of total revenue through digital channels",
-      "CE operates as a distributor for HVAC systems under the Watsco-Carrier joint venture",
-      "The achievement signals that industrial and B2B sectors can lead in digital commerce adoption",
-      "Digital channel investment is becoming a critical competitive differentiator in distribution"
-    ],
-    "tags": [
-      "digital-commerce",
-      "b2b-ecommerce",
-      "hvac",
-      "digital-channels",
-      "revenue-growth"
-    ],
-    "confidence": 0.65,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Carrier Enterprise",
-      "Watsco Inc.",
-      "Carrier Corporation"
-    ],
-    "one_line_insight_ko": "산업재 유통 분야에서도 디지털 채널이 매출의 60%를 차지할 수 있다는 CE의 사례는 LG D2C 전략의 디지털 전환 가속화에 강력한 근거를 제공한다.",
-    "one_line_insight_en": "CE's achievement of 60% digital revenue share in industrial distribution proves that even traditional sectors can be fully transformed by digital commerce strategy.",
-    "ai_processed": true
-  },
-  {
-    "title": "#221: Anthropic vs. the White House, Microsoft CEO on the Future of Firms & AI’s Token Crisis",
-    "link": "",
-    "date_published": "2026-06-23",
-    "description": "Anthropic's most powerful models are still offline, and the U.S. government now wants a guarantee no lab can give. Paul Roetzer and Mike Kaput unpack the ongoing export-control standoff, the Lutnick letter, and what it means for the models expected this week, then turn to Satya Nadella's \"future of the firm\" essay, the unsolved mess of AI pricing and usage limits, a wave of lab talent shakeups including Noam Shazeer's move to OpenAI, the G7 AI summit, Midjourney's leap into medical scanning, and research showing AI can out-persuade expert humans.\n\nShow Notes: Access the show notes and show links here\n\nAI-Pulse Survey: Fill out this week’s AI-Pulse Survey here.\n\nTimestamps:\n\n00:00:00 — Intro\n\n00:04:44 — Anthropic vs. the White House\n\n00:22:37 — Microsoft CEO on the Future of the Firm\n\n00:34:37 — AI Pricing and Usage Strategy\n\n00:56:04 — Noam Shazeer Joins OpenAI (and Other Major AI Hiring Updates)\n\n01:04:57 — Trump's G7 AI Push\n\n01:09:33 — Midjourney Launches a Medical Division\n\n01:12:5",
-    "source_id": "marketing_ai_show",
-    "source_name": "The Marketing AI Show (Podcast)",
-    "source_url": "https://feeds.megaphone.fm/marketingai",
-    "categories": [
-      "tech",
-      "strategy",
-      "ai_marketing"
-    ],
-    "relevance_score": 0.62,
-    "relevance_label": "high",
-    "title_en": "Marketing AI Show Ep. 221: Anthropic-White House Standoff, Nadella's Future of the Firm, and AI's Token Crisis",
-    "summary_ko": "Anthropic의 주요 AI 모델이 미국 정부의 수출 통제 요구로 인해 오프라인 상태를 유지하고 있으며, 이는 업계 전반에 불확실성을 야기하고 있다. Microsoft CEO 사티아 나델라는 AI가 기업 조직의 미래를 어떻게 재편할지에 대한 에세이를 발표했고, AI 가격 책정 및 사용량 한도 문제도 핵심 의제로 다뤄졌다. 또한 Noam Shazeer의 OpenAI 합류, G7 AI 정상회담, Midjourney의 의료 스캔 분야 진출 등 AI 산업의 주요 동향이 논의됐다.",
-    "summary_en": "The podcast covers Anthropic's ongoing standoff with the U.S. government over export controls, which has kept its most powerful models offline pending guarantees the lab says it cannot provide. Satya Nadella's essay on the 'future of the firm' and the unresolved challenges of AI pricing and usage limits are also discussed at length. Additional topics include Noam Shazeer joining OpenAI, the G7 AI summit, Midjourney's medical imaging division, and research showing AI can out-persuade expert humans.",
-    "so_what_ko": "AI 모델 가용성에 영향을 미치는 지정학적 규제 리스크와 AI 가격 전략의 불확실성은 LG D2C의 AI 솔루션 도입 계획에 직접적인 리스크 요인으로 작용할 수 있다.",
-    "so_what_en": "Geopolitical and regulatory risks affecting AI model availability, combined with unresolved AI pricing strategies, represent direct planning risks for LG D2C's AI tool adoption roadmap.",
-    "key_points": [
-      "Anthropic's top models remain offline due to U.S. export-control demands the lab says it cannot meet",
-      "Satya Nadella outlined how AI will reshape the structure of firms and organizations",
-      "AI pricing and usage limits remain an unresolved strategic challenge across the industry",
-      "Noam Shazeer's move to OpenAI signals continued talent consolidation at leading AI labs"
-    ],
-    "tags": [
-      "ai-regulation",
-      "anthropic",
-      "microsoft",
-      "openai",
-      "ai-pricing"
+      "best-buy",
+      "leadership-change",
+      "retail-cfo",
+      "executive-transition"
     ],
     "confidence": 0.6,
     "strategic_theme": "COMPETITIVE_DYNAMICS",
     "regions": [
-      "GLOBAL",
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Anthropic",
-      "Microsoft",
-      "OpenAI",
-      "Noam Shazeer",
-      "Midjourney"
-    ],
-    "one_line_insight_ko": "AI 모델에 대한 지정학적 규제와 가격 불확실성은 기업의 AI 도입 전략에 새로운 리스크 변수로 부상하고 있다.",
-    "one_line_insight_en": "Geopolitical export controls and unresolved AI pricing dynamics are emerging as critical risk variables for enterprise AI adoption strategies.",
-    "ai_processed": true
-  },
-  {
-    "title": "[AINews] SpaceX is already a $28B/yr Neocloud",
-    "link": "https://www.latent.space/p/ainews-spacex-is-already-a-28byr",
-    "date_published": "2026-06-23",
-    "description": "a quiet day lets us reflect on some numbers from Jamin Ball.",
-    "source_id": "latent_space",
-    "source_name": "Latent Space (The AI Index)",
-    "source_url": "https://www.latent.space/feed",
-    "categories": [
-      "tech"
-    ],
-    "relevance_score": 0.38,
-    "relevance_label": "high",
-    "title_en": "SpaceX Neocloud Business Reaches $28B Annual Run Rate, Reshaping AI Infrastructure Landscape",
-    "summary_ko": "AI 뉴스 브리핑에 따르면 SpaceX는 이미 연간 280억 달러 규모의 네오클라우드 사업을 운영하고 있는 것으로 나타났다. 해당 수치는 Jamin Ball의 분석에 기반한 것으로, AI 인프라 시장에서 SpaceX의 위상을 보여준다. 원문에서 세부 내용은 제한적으로 확인되며, 이는 AI 컴퓨팅 인프라의 급격한 성장세를 반영한다.",
-    "summary_en": "According to an AI news briefing citing analyst Jamin Ball, SpaceX has already reached a $28 billion annual run rate for its neocloud business. This figure highlights the scale at which AI infrastructure investments are materializing beyond traditional cloud providers. The article is brief, with limited detail available beyond the headline figure.",
-    "so_what_ko": "AI 컴퓨팅 인프라 시장이 전통적 클라우드 기업 외 새로운 플레이어로 빠르게 확장되고 있으며, LG는 AI 인프라 파트너십 전략 수립 시 이러한 신흥 네오클라우드 생태계를 고려해야 한다.",
-    "so_what_en": "The rapid rise of neocloud players like SpaceX signals a diversifying AI infrastructure market that LG D2C should monitor when evaluating AI compute partnerships and cost strategies.",
-    "key_points": [
-      "SpaceX's neocloud business has reportedly reached a $28 billion annual run rate",
-      "Analysis sourced from Jamin Ball highlights the scale of non-traditional AI infrastructure players",
-      "The neocloud market is expanding rapidly beyond hyperscalers like AWS, Azure, and Google Cloud"
-    ],
-    "tags": [
-      "ai-infrastructure",
-      "neocloud",
-      "spacex",
-      "cloud-computing",
-      "ai-compute"
-    ],
-    "confidence": 0.45,
-    "strategic_theme": "EMERGING_TECH",
-    "regions": [
-      "GLOBAL",
       "AMER"
     ],
     "business_impact": "LOW",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "SpaceX",
-      "Jamin Ball"
+      "Best Buy",
+      "Matt Bilunas"
     ],
-    "one_line_insight_ko": "SpaceX의 280억 달러 네오클라우드 규모는 AI 인프라 시장이 전통 클라우드를 넘어 빠르게 다변화되고 있음을 보여준다.",
-    "one_line_insight_en": "SpaceX's $28B neocloud run rate signals that AI infrastructure is rapidly diversifying beyond traditional hyperscaler dominance.",
+    "one_line_insight_ko": "Best Buy의 CFO 공백은 단기적 전략 불확실성을 초래할 수 있어 파트너사의 관계 관리가 중요하다.",
+    "one_line_insight_en": "Best Buy's CFO vacancy introduces short-term strategic uncertainty, warranting close monitoring by retail partners like LG.",
     "ai_processed": true
   },
   {
-    "title": "Ad Tech Briefing: Agentic AI, interoperability and control dominate Cannes Lions announcements",
-    "link": "https://digiday.com/media-buying/ad-tech-briefing-agentic-ai-interoperability-and-control-dominate-cannes-lions-announcements/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "title": "Target to open 11 stores in July",
+    "link": "https://www.retaildive.com/news/target-open-eleven-new-stores-july/823521/",
     "date_published": "2026-06-23",
-    "description": "All the Cannes-related ad tech announcements you’ll need to appear informed.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
-    "categories": [
-      "marketing",
-      "ai_marketing",
-      "agentic_commerce"
-    ],
-    "relevance_score": 0.88,
-    "relevance_label": "high",
-    "title_en": "Agentic AI, Interoperability, and Brand Control Dominate Ad Tech Announcements at Cannes Lions 2026",
-    "summary_ko": "2026년 칸 라이언스에서는 에이전틱 AI, 플랫폼 간 상호운용성, 브랜드 통제권이 광고 기술 분야의 핵심 화두로 부상했다. 주요 광고 기술 기업들이 AI 에이전트 기반의 광고 자동화 및 캠페인 관리 솔루션을 앞다퉈 발표했다. 이는 AI가 단순한 마케팅 도구를 넘어 광고 생태계 전반을 재편하는 핵심 인프라로 자리잡고 있음을 시사한다.",
-    "summary_en": "The Cannes Lions 2026 festival saw agentic AI, interoperability, and brand control emerge as the dominant themes across ad tech announcements. Major players in advertising technology introduced AI agent-driven solutions for campaign automation and management. This signals a broader industry shift where AI is becoming foundational infrastructure for the entire advertising ecosystem, not just a supplementary tool.",
-    "so_what_ko": "칸 라이언스에서 공개된 에이전틱 AI 광고 기술 트렌드는 LG D2C 마케팅 팀이 AI 에이전트 기반 캠페인 자동화 도입을 검토해야 할 시기가 임박했음을 시사한다.",
-    "so_what_en": "The agentic AI ad tech trends unveiled at Cannes Lions signal that LG D2C marketing teams should urgently evaluate AI agent-driven campaign automation to remain competitive.",
-    "key_points": [
-      "Agentic AI was the dominant theme across Cannes Lions 2026 ad tech announcements",
-      "Interoperability between platforms emerged as a critical capability demand from advertisers",
-      "Brand control and safety in AI-driven ad environments was a top concern for marketers",
-      "AI agents are moving from experimental to foundational in advertising infrastructure"
-    ],
-    "tags": [
-      "agentic-ai",
-      "cannes-lions",
-      "adtech",
-      "ai-marketing",
-      "brand-control"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL",
-      "EMEA"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Cannes Lions",
-      "Digiday"
-    ],
-    "one_line_insight_ko": "칸 라이언스 2026은 에이전틱 AI가 광고 기술의 새로운 표준으로 자리잡고 있음을 확인시켜 주었으며, 브랜드 통제권 확보가 핵심 과제로 부상했다.",
-    "one_line_insight_en": "Cannes Lions 2026 confirmed agentic AI as the new standard in ad tech, with brand control and interoperability becoming the defining competitive battlegrounds.",
-    "ai_processed": true
-  },
-  {
-    "title": "How Omio is building the future of conversational travel",
-    "link": "https://openai.com/index/omio",
-    "date_published": "2026-06-23",
-    "description": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
-    "source_id": "openai_blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
-    "categories": [
-      "commerce",
-      "ai_marketing",
-      "agentic_commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.92,
-    "relevance_label": "high",
-    "title_en": "Omio Partners with OpenAI to Build AI-Native Conversational Travel Booking Experiences",
-    "summary_ko": "유럽 기반 여행 플랫폼 Omio는 OpenAI와 협력하여 대화형 여행 예약 경험을 구축하고 AI 네이티브 기업으로의 전환을 가속화하고 있다. Omio는 OpenAI의 기술을 활용해 제품 개발 속도를 높이고, 사용자가 자연어로 여행을 검색하고 예약할 수 있는 대화형 인터페이스를 개발하고 있다. 이 사례는 AI가 D2C 비즈니스의 고객 경험을 근본적으로 재정의하는 실제 적용 모델을 제시한다.",
-    "summary_en": "European travel platform Omio is partnering with OpenAI to develop conversational travel experiences, enabling users to search and book travel through natural language interactions. The collaboration also aims to accelerate Omio's product development cycles and drive its transformation into a fully AI-native company. This case demonstrates how AI-powered conversational interfaces can fundamentally reshape customer experience in D2C digital platforms.",
-    "so_what_ko": "Omio의 OpenAI 협업 사례는 LG D2C가 자사 플랫폼에 대화형 AI 쇼핑 경험을 도입하고 AI 네이티브 조직으로 전환하는 전략 방향을 구체화하는 데 직접적인 참고 모델이 된다.",
-    "so_what_en": "Omio's OpenAI partnership is a direct reference model for LG D2C to explore conversational AI shopping experiences and accelerate its own AI-native organizational transformation.",
-    "key_points": [
-      "Omio uses OpenAI to power conversational, natural language travel booking experiences",
-      "The partnership accelerates Omio's product development and AI-native company transformation",
-      "Conversational AI interfaces are redefining how customers interact with digital commerce platforms",
-      "The case demonstrates a practical AI-native D2C model applicable across industries"
-    ],
-    "tags": [
-      "conversational-ai",
-      "openai",
-      "d2c",
-      "ai-native",
-      "customer-experience"
-    ],
-    "confidence": 0.82,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "GLOBAL",
-      "EMEA"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Omio",
-      "OpenAI"
-    ],
-    "one_line_insight_ko": "Omio의 OpenAI 협력은 대화형 AI가 D2C 플랫폼의 고객 여정 전반을 재설계하는 실질적 경로를 보여주는 핵심 벤치마크 사례다.",
-    "one_line_insight_en": "Omio's OpenAI partnership is a landmark benchmark showing how conversational AI can redesign the entire customer journey in D2C platforms.",
-    "ai_processed": true
-  },
-  {
-    "title": "Levain Bakery is scooping up summer traffic with ice cream collaborations",
-    "link": "https://www.modernretail.co/operations/levain-bakery-is-scooping-up-summer-traffic-with-ice-cream-collaborations/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-06-23",
-    "description": "Levain Bakery is betting on new ice cream items and collaborations to drive sales during its slow summer months.",
-    "source_id": "modern_retail",
-    "source_name": "Modern Retail",
-    "source_url": "https://www.modernretail.co/feed/",
-    "categories": [
-      "commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.3,
-    "relevance_label": "high",
-    "title_en": "Levain Bakery Drives Summer Sales with Ice Cream Collaborations",
-    "summary_ko": "레베인 베이커리는 매출이 저조한 여름철을 극복하기 위해 아이스크림 신제품 출시 및 협업 전략을 추진하고 있다. 이는 계절적 수요 변동에 대응하는 D2C 브랜드의 전형적인 트래픽 확보 전략으로 볼 수 있다. 구체적인 협업 파트너나 매출 수치는 원문에서 확인되지 않음.",
-    "summary_en": "Levain Bakery is launching new ice cream products and brand collaborations to boost traffic during its traditionally slow summer season. This represents a seasonal diversification strategy aimed at sustaining revenue momentum beyond its core cookie business. Specific collaboration partners and financial targets are not confirmed in the source.",
-    "so_what_ko": "D2C 브랜드는 비수기 트래픽 유지를 위해 계절 한정 협업 상품을 활용할 수 있으며, LG D2C도 시즌별 번들 프로모션 전략을 검토할 필요가 있다.",
-    "so_what_en": "D2C brands can leverage seasonal limited-edition collaborations to sustain off-peak traffic; LG D2C should consider seasonal bundling or co-marketing strategies to maintain engagement during slower periods.",
-    "key_points": [
-      "여름 비수기 매출 보완을 위한 아이스크림 제품 라인 확장",
-      "브랜드 협업을 통한 신규 고객 트래픽 유입 전략",
-      "구체적 협업 상대 및 성과 지표는 원문에서 확인되지 않음"
-    ],
-    "tags": [
-      "seasonal-marketing",
-      "brand-collaboration",
-      "d2c",
-      "retail-traffic"
-    ],
-    "confidence": 0.5,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Levain Bakery"
-    ],
-    "one_line_insight_ko": "비수기 트래픽 확보를 위한 계절 협업 전략은 D2C 브랜드의 매출 평준화에 유효한 전술이다.",
-    "one_line_insight_en": "Seasonal collaborations are a viable tactic for D2C brands to smooth revenue dips during off-peak periods.",
-    "ai_processed": true
-  },
-  {
-    "title": "The running list: major tech layoffs in 2026 where employers cited AI",
-    "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-    "date_published": "2026-06-23",
-    "description": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "categories": [
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.5,
-    "relevance_label": "high",
-    "title_en": "Major Tech Companies Continue AI-Cited Layoffs in 2026",
-    "summary_ko": "2026년 들어 다수의 주요 테크 기업들이 AI를 주요 이유로 언급하며 대규모 구조조정을 단행하고 있다. TechCrunch는 AI를 구조조정 사유로 명시한 기업들의 목록을 역순으로 추적·정리하고 있다. 구체적인 기업명 및 감원 규모는 원문 발췌문에서 확인되지 않음.",
-    "summary_en": "A growing number of major tech companies have cited AI as a primary factor in announcing significant layoffs throughout 2026. TechCrunch is maintaining a running list of these events in reverse chronological order to track the trend. Specific company names and layoff figures beyond the excerpt are not confirmed in the source.",
-    "so_what_ko": "AI 자동화로 인한 인력 재편은 D2C 조직 내 AI 도입 계획 수립 시 인력 전략과 역량 재배치를 함께 고려해야 함을 시사한다.",
-    "so_what_en": "AI-driven workforce restructuring signals that LG D2C must proactively plan talent reallocation strategies alongside any AI adoption roadmap to manage organizational risk.",
-    "key_points": [
-      "2026년 AI를 사유로 한 테크 업계 대규모 감원 트렌드 지속",
-      "AI 자동화가 인력 구조에 미치는 실질적 영향이 가시화되고 있음",
-      "구체적 기업명 및 감원 수치는 원문 발췌문에서 확인되지 않음"
-    ],
-    "tags": [
-      "ai-layoffs",
-      "workforce-automation",
-      "tech-industry",
-      "ai-disruption"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "GLOBAL",
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "TechCrunch"
-    ],
-    "one_line_insight_ko": "AI를 이유로 한 대규모 감원 가속화는 기업의 AI 도입 전략이 인력 운영 전반에 미치는 파급력을 보여준다.",
-    "one_line_insight_en": "Accelerating AI-cited layoffs underscore that enterprise AI adoption strategies have direct and significant implications for workforce planning.",
-    "ai_processed": true
-  },
-  {
-    "title": "OpenAI launches new initiative to help find and patch open source bugs",
-    "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-    "date_published": "2026-06-23",
-    "description": "OpenAI is using AI to help the open source community better protect itself.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "categories": [
-      "tech"
-    ],
-    "relevance_score": 0.4,
-    "relevance_label": "high",
-    "title_en": "OpenAI Launches Initiative to Detect and Patch Open Source Security Bugs Using AI",
-    "summary_ko": "OpenAI가 AI를 활용해 오픈소스 소프트웨어의 보안 취약점을 탐지하고 패치하는 새로운 이니셔티브를 출범했다. 이 프로그램은 오픈소스 커뮤니티의 보안 역량을 강화하는 것을 목표로 한다. 구체적인 기술 방식, 참여 범위, 예산 등은 원문 발췌문에서 확인되지 않음.",
-    "summary_en": "OpenAI has launched a new initiative that uses AI to identify and fix security vulnerabilities in open source software. The program is aimed at helping the open source community better protect itself against threats. Specific technical methodologies, scale, and funding details are not confirmed in the source excerpt.",
-    "so_what_ko": "AI 기반 보안 자동화 기술의 발전은 D2C 플랫폼의 소프트웨어 공급망 보안 강화에 활용 가능한 새로운 도구가 등장하고 있음을 의미한다.",
-    "so_what_en": "AI-powered security automation represents an emerging tool that LG D2C platforms can leverage to strengthen software supply chain security and reduce vulnerability exposure.",
-    "key_points": [
-      "OpenAI가 AI를 활용한 오픈소스 버그 탐지·패치 이니셔티브 공식 출범",
-      "오픈소스 생태계 전반의 보안 수준 향상을 목표로 함",
-      "구체적 기술 세부사항 및 참여 대상은 원문에서 확인되지 않음"
-    ],
-    "tags": [
-      "openai",
-      "open-source-security",
-      "ai-automation",
-      "vulnerability-detection"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "EMERGING_TECH",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "OpenAI"
-    ],
-    "one_line_insight_ko": "OpenAI의 오픈소스 보안 이니셔티브는 AI가 소프트웨어 인프라 방어에도 전략적으로 활용될 수 있음을 보여준다.",
-    "one_line_insight_en": "OpenAI's open source security initiative demonstrates AI's expanding strategic role in proactive software infrastructure defense.",
-    "ai_processed": true
-  },
-  {
-    "title": "Glossier secures $45M in debt financing",
-    "link": "https://www.retaildive.com/news/glossier-secures-debt-financing-tiger-finance/823384/",
-    "date_published": "2026-06-22",
-    "description": "CEO Colin Walsh said the capital would support “the next chapter of Glossier’s growth,” though with few details on what that is.",
+    "description": "The retailer’s new locations — which will be in states such as California, Arizona and more — will top its average square footage.",
     "source_id": "retail_dive",
     "source_name": "Retail Dive",
     "source_url": "https://www.retaildive.com/feeds/news/",
@@ -624,22 +298,22 @@
       "commerce",
       "strategy"
     ],
-    "relevance_score": 0.45,
+    "relevance_score": 0.25,
     "relevance_label": "high",
-    "title_en": "Glossier Secures $45M in Debt Financing to Fund Next Growth Chapter",
-    "summary_ko": "뷰티 D2C 브랜드 글로시에가 Tiger Finance로부터 4,500만 달러의 부채 금융을 확보했다. CEO 콜린 월시는 이번 자금이 '글로시에의 다음 성장 챕터'를 지원할 것이라고 밝혔으나, 구체적인 사용 계획은 공개하지 않았다. 이번 자금 조달은 글로시에가 D2C 모델을 기반으로 재성장을 모색하는 시점에 이루어졌다.",
-    "summary_en": "Beauty D2C brand Glossier has secured $45 million in debt financing, with CEO Colin Walsh stating the capital will support the next chapter of the company's growth. However, specific plans for how the funds will be deployed were not disclosed. The financing comes as Glossier continues to rebuild momentum on its D2C foundation.",
-    "so_what_ko": "글로시에의 대규모 자금 조달은 D2C 뷰티 브랜드가 여전히 투자자 신뢰를 유지하고 있음을 보여주며, LG D2C는 경쟁 구도 변화에 주목할 필요가 있다.",
-    "so_what_en": "Glossier's significant debt raise signals continued investor confidence in the D2C beauty model, and LG D2C should monitor how this capital is deployed as it may intensify competition in the direct-to-consumer space.",
+    "title_en": "Target Plans to Open 11 New Stores in July, Expanding Physical Footprint",
+    "summary_ko": "Target은 2026년 7월에 캘리포니아, 애리조나 등 여러 주에 걸쳐 11개의 신규 매장을 오픈할 계획이다. 신규 매장들은 Target의 평균 매장 면적을 초과하는 규모가 될 예정이다. 이번 확장은 Target의 물리적 리테일 투자 지속 의지를 보여준다.",
+    "summary_en": "Target plans to open 11 new store locations in July 2026 across states including California and Arizona. The new stores will exceed the retailer's average square footage. This expansion underscores Target's continued commitment to physical retail growth.",
+    "so_what_ko": "Target의 대형 신규 매장 확장은 오프라인 리테일 공간 내 LG 제품 노출 기회를 확대할 수 있으며, 현지화된 D2C 연계 전략 검토가 필요하다.",
+    "so_what_en": "Target's large-format store expansion creates potential opportunities for LG product visibility in physical retail; LG D2C should explore co-marketing or in-store partnership strategies.",
     "key_points": [
-      "글로시에, Tiger Finance로부터 4,500만 달러 부채 금융 확보",
-      "CEO가 '다음 성장 챕터' 언급했으나 구체적 투자 계획 미공개",
-      "D2C 뷰티 브랜드의 자본 조달 지속으로 경쟁 환경 변화 가능성"
+      "Target, 7월 중 11개 신규 매장 오픈 예정",
+      "신규 매장은 캘리포니아, 애리조나 등 포함",
+      "신규 매장 면적은 Target 평균 이상 규모"
     ],
     "tags": [
-      "d2c",
-      "beauty-brand",
-      "funding",
+      "target",
+      "store-expansion",
+      "physical-retail",
       "retail-growth"
     ],
     "confidence": 0.65,
@@ -648,61 +322,391 @@
       "AMER"
     ],
     "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
+    "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Glossier",
-      "Tiger Finance",
-      "Colin Walsh"
+      "Target"
     ],
-    "one_line_insight_ko": "글로시에의 4,500만 달러 조달은 D2C 뷰티 시장에서 자본력 경쟁이 재점화될 수 있음을 시사한다.",
-    "one_line_insight_en": "Glossier's $45M raise signals that capital-backed competition in the D2C beauty sector is poised to intensify.",
+    "one_line_insight_ko": "Target의 대형 매장 확장 전략은 LG 가전 제품의 오프라인 노출 확대를 위한 파트너십 기회를 제공한다.",
+    "one_line_insight_en": "Target's large-format store expansion offers LG a potential avenue to increase in-store product presence and deepen retail partnerships.",
     "ai_processed": true
   },
   {
-    "title": "Three things to watch amid Anthropic’s latest feud with the government",
-    "link": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
-    "date_published": "2026-06-22",
-    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI model called Mythos…",
-    "source_id": "mit_tech_review_ai",
-    "source_name": "MIT Technology Review (AI)",
-    "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+    "title": "Bath & Body Works to launch at Ulta Beauty",
+    "link": "https://www.retaildive.com/news/bath-body-works-launches-ulta-beauty/823473/",
+    "date_published": "2026-06-23",
+    "description": "A curated collection of products will be available at over 600 locations, and the Juniper Breeze scent will return as a limited-time exclusive for the beauty retailer.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
     "categories": [
-      "tech",
+      "commerce",
       "strategy"
     ],
-    "relevance_score": 0.55,
+    "relevance_score": 0.2,
     "relevance_label": "high",
-    "title_en": "Anthropic's Government Feud Over AI Model 'Mythos' Raises Key Policy Questions",
-    "summary_ko": "Anthropic이 2026년 4월 'Mythos'라는 AI 모델을 공개한 이후 미국 정부와 갈등이 불거졌으며, MIT Technology Review는 이 사태에서 주목해야 할 세 가지 핵심 쟁점을 분석했다. 이번 분쟁은 AI 기업과 정부 규제 당국 간의 긴장 관계가 고조되고 있음을 보여준다. 구체적인 세 가지 쟁점 내용은 원문 발췌문에서 확인되지 않음.",
-    "summary_en": "Anthropic has become embroiled in a dispute with the US government following the release of its AI model called Mythos in April 2026, with MIT Technology Review outlining three key issues to watch. The feud highlights growing tensions between leading AI companies and government regulators. Specific details of the three watchpoints are not confirmed in the source excerpt.",
-    "so_what_ko": "AI 기업과 정부 간 규제 갈등이 심화될수록 기업의 AI 도입 전략은 정책 리스크를 선제적으로 반영해야 하며, LG D2C의 AI 마케팅 도구 선택에도 규제 환경 모니터링이 필수적이다.",
-    "so_what_en": "Escalating AI regulatory conflicts signal that LG D2C must factor policy risk into its AI tool selection and deployment strategy, particularly for customer-facing AI applications.",
+    "title_en": "Bath & Body Works to Launch at Ulta Beauty in 600+ Locations with Exclusive Scent",
+    "summary_ko": "Bath & Body Works가 Ulta Beauty와 파트너십을 체결하고 600개 이상의 Ulta 매장에서 선별된 제품 컬렉션을 판매하기로 했다. 이번 협업의 일환으로 Juniper Breeze 향이 Ulta Beauty 한정 익스클루시브로 재출시된다. 이번 파트너십은 두 브랜드의 유통 채널 다각화 전략의 일부로 해석된다.",
+    "summary_en": "Bath & Body Works is launching a curated product collection at over 600 Ulta Beauty locations. As part of the partnership, the Juniper Breeze scent will return as a limited-time exclusive for Ulta Beauty. This collaboration reflects a broader trend of brands diversifying their retail distribution channels.",
+    "so_what_ko": "브랜드 간 전략적 유통 파트너십은 단독 채널 의존도를 낮추고 신규 고객에게 접근하는 효과적인 방법으로, LG D2C도 유사한 채널 확장 전략을 검토할 수 있다.",
+    "so_what_en": "Strategic retail partnerships between brands demonstrate an effective method to reach new customer segments; LG D2C could explore similar cross-channel distribution arrangements to expand its reach.",
     "key_points": [
-      "Anthropic의 AI 모델 'Mythos' 공개 이후 미국 정부와 갈등 발생",
-      "AI 기업과 정부 규제 당국 간 긴장 관계 고조 추세 반영",
-      "MIT Technology Review가 주목해야 할 세 가지 쟁점 제시 (상세 내용은 원문에서 확인되지 않음)"
+      "Bath & Body Works 제품, 600개 이상 Ulta Beauty 매장에서 판매",
+      "Juniper Breeze 향, Ulta Beauty 한정 익스클루시브로 재출시",
+      "브랜드 유통 채널 다각화 트렌드를 반영한 파트너십"
     ],
     "tags": [
-      "ai-regulation",
-      "anthropic",
-      "government-policy",
-      "ai-governance"
+      "bath-body-works",
+      "ulta-beauty",
+      "retail-partnership",
+      "distribution-strategy"
     ],
-    "confidence": 0.6,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "confidence": 0.7,
+    "strategic_theme": "PLATFORM_ECOSYSTEM",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Bath & Body Works",
+      "Ulta Beauty",
+      "Juniper Breeze"
+    ],
+    "one_line_insight_ko": "브랜드 간 유통 파트너십은 신규 고객 접점 확보와 배타적 제품 경험 제공을 동시에 달성하는 효과적인 전략임을 보여준다.",
+    "one_line_insight_en": "Brand-to-brand retail partnerships demonstrate how companies can simultaneously gain new customer touchpoints while delivering exclusive product experiences.",
+    "ai_processed": true
+  },
+  {
+    "title": "Amazon Prime Day estimate puts sales higher than Black Friday and Cyber Monday combined",
+    "link": "https://www.digitalcommerce360.com/2026/06/23/amazon-prime-day-sales-estimate-projection-2026/",
+    "date_published": "2026-06-23",
+    "description": "Amazon’s Prime Day event in 2026 arrived earlier than usual, running for four days instead of the typical two — and other major retailers have adjusted their plans accordingly in an attempt to grow sales during summer’s peak period. Pre-Prime Day data analysis suggests that sales could rise from 2025 levels. Notably, Amazon was not […]\nThe post Amazon Prime Day estimate puts sales higher than Black Friday and Cyber Monday combined appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
+    "categories": [
+      "commerce",
+      "strategy",
+      "ai_commerce"
+    ],
+    "relevance_score": 0.6,
+    "relevance_label": "high",
+    "title_en": "Amazon Prime Day 2026 Sales Projected to Surpass Black Friday and Cyber Monday Combined",
+    "summary_ko": "2026년 Amazon Prime Day는 예년보다 일찍 시작되었으며, 기존 이틀에서 나흘로 행사 기간이 연장되었다. 사전 데이터 분석에 따르면 2026년 Prime Day 매출은 2025년 수준을 상회할 것으로 예측되며, 블랙프라이데이와 사이버먼데이를 합친 것보다 높을 것으로 추정된다. 다른 주요 소매업체들도 이 기간 동안 매출 극대화를 위해 전략을 조정하고 있다.",
+    "summary_en": "Amazon's 2026 Prime Day event arrived earlier than usual and was extended to four days from the typical two-day format. Pre-event data analysis projects that sales could surpass 2025 levels, with estimates suggesting total sales may exceed Black Friday and Cyber Monday combined. Other major retailers have also adjusted their strategies to capitalize on this peak summer shopping period.",
+    "so_what_ko": "Prime Day가 여름 최대 쇼핑 이벤트로 자리잡으면서, LG D2C는 이 기간에 맞춘 프로모션 전략과 Amazon 외 자사 채널 연계 캠페인을 적극 기획해야 한다.",
+    "so_what_en": "As Prime Day solidifies itself as the peak summer shopping event surpassing even holiday season benchmarks, LG D2C must develop coordinated promotional strategies across Amazon and owned channels to maximize revenue during this window.",
+    "key_points": [
+      "2026년 Prime Day, 기존 2일에서 4일로 행사 기간 연장 및 조기 개최",
+      "매출 추정치가 블랙프라이데이·사이버먼데이 합산을 초과할 전망",
+      "경쟁 소매업체들도 Prime Day 기간 매출 확대를 위한 전략 조정 중",
+      "사전 데이터 분석은 2025년 대비 매출 증가를 예측"
+    ],
+    "tags": [
+      "amazon-prime-day",
+      "ecommerce-events",
+      "seasonal-sales",
+      "retail-competition"
+    ],
+    "confidence": 0.72,
+    "strategic_theme": "AI_COMMERCE",
+    "regions": [
+      "GLOBAL",
+      "AMER"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Amazon",
+      "Prime Day"
+    ],
+    "one_line_insight_ko": "4일로 확장된 Prime Day가 블랙프라이데이를 넘어서는 최대 쇼핑 이벤트로 부상함에 따라 LG D2C의 선제적 프로모션 전략 수립이 시급하다.",
+    "one_line_insight_en": "With Prime Day expanding to four days and projected to outpace Black Friday and Cyber Monday combined, LG D2C must treat it as the highest-priority annual sales event for e-commerce strategy.",
+    "ai_processed": true
+  },
+  {
+    "title": "Ahold Delhaize names new CEO to head USA operations",
+    "link": "https://www.digitalcommerce360.com/2026/06/23/ahold-delhaize-names-ceo-usa-operations/",
+    "date_published": "2026-06-23",
+    "description": "A new CEO is scheduled to take over leadership duties at Ahold Delhaize USA. The supervisory board for Netherlands-based Ahold Delhaize named Claire Peters its next CEO. She is a former leader at Amazon and would assume the role on Sept. 8. There, she will have oversight of the company’s U.S. portfolio. Those banners include […]\nThe post Ahold Delhaize names new CEO to head USA operations appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.35,
+    "relevance_label": "high",
+    "title_en": "Ahold Delhaize Names Amazon Veteran Claire Peters as New USA CEO",
+    "summary_ko": "네덜란드 기반 식품 유통 대기업 Ahold Delhaize가 전 Amazon 임원 Claire Peters를 미국 법인의 새 CEO로 선임했다. Claire Peters는 2026년 9월 8일부터 역할을 맡아 Ahold Delhaize USA 산하 브랜드 전반을 총괄하게 된다. Amazon 출신 리더를 영입한 것은 디지털 커머스 및 데이터 역량 강화에 대한 기업의 의지를 반영한다.",
+    "summary_en": "Netherlands-based grocery conglomerate Ahold Delhaize has appointed former Amazon executive Claire Peters as the new CEO of its USA operations. Peters is set to assume the role on September 8 and will oversee all of the company's U.S. retail banners. The appointment of an Amazon alumna signals Ahold Delhaize's intent to strengthen its digital commerce and data capabilities.",
+    "so_what_ko": "Amazon 출신 리더의 대형 식품 유통업체 CEO 선임은 전통 리테일의 디지털 전환 가속화를 예고하며, LG D2C는 Ahold Delhaize의 전략 변화에 따른 협업 기회를 모색해야 한다.",
+    "so_what_en": "The appointment of an Amazon veteran as CEO of a major grocery retailer signals accelerating digital transformation in traditional retail; LG D2C should monitor Ahold Delhaize's evolving e-commerce strategy for potential partnership opportunities.",
+    "key_points": [
+      "Claire Peters, 전 Amazon 임원 출신으로 Ahold Delhaize USA CEO 선임",
+      "2026년 9월 8일부터 공식 취임 예정",
+      "Ahold Delhaize USA의 모든 리테일 브랜드 포트폴리오 총괄",
+      "Amazon 출신 리더십은 디지털·데이터 역량 강화 의지를 시사"
+    ],
+    "tags": [
+      "ahold-delhaize",
+      "executive-appointment",
+      "grocery-retail",
+      "digital-transformation"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
     "regions": [
       "AMER",
-      "GLOBAL"
+      "EMEA"
     ],
     "business_impact": "MEDIUM",
-    "sentiment": "THREAT",
+    "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Anthropic",
-      "Mythos",
-      "MIT Technology Review"
+      "Ahold Delhaize",
+      "Claire Peters",
+      "Amazon"
     ],
-    "one_line_insight_ko": "AI 규제 갈등의 심화는 기업의 AI 전략 수립 시 정책 리스크를 핵심 변수로 반드시 고려해야 함을 의미한다.",
-    "one_line_insight_en": "Deepening AI regulatory conflicts mean that policy risk must be treated as a core variable in enterprise AI strategy planning.",
+    "one_line_insight_ko": "Amazon 출신 CEO 선임을 통해 Ahold Delhaize는 디지털 커머스 역량을 강화하며 전통 식품 유통의 디지털 전환을 가속화할 것으로 예상된다.",
+    "one_line_insight_en": "Ahold Delhaize's appointment of an Amazon veteran as USA CEO signals a significant acceleration of digital commerce transformation within traditional grocery retail.",
+    "ai_processed": true
+  },
+  {
+    "title": "Nestlé opens automated distribution center in California",
+    "link": "https://www.digitalcommerce360.com/2026/06/23/nestle-automated-distribution-center-california/",
+    "date_published": "2026-06-23",
+    "description": "Nestlé USA opened a $330 million, 700,000-square-foot distribution center in Arvin, California, it announced in June. The Swiss food and beverage company called the new facility its largest and most technologically advanced distribution center to date. Its new facility will use automation to improve efficiency and eventually get all of its energy from renewable sources, including […]\nThe post Nestlé opens automated distribution center in California appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.45,
+    "relevance_label": "high",
+    "title_en": "Nestlé Opens $330M Automated Distribution Center in California",
+    "summary_ko": "네슬레 USA는 캘리포니아 아빈에 3억 3천만 달러 규모의 70만 평방피트 자동화 물류센터를 개설했다. 이 시설은 네슬레의 역대 최대이자 가장 기술적으로 앞선 물류센터로, 자동화를 통해 운영 효율성을 높인다. 또한 재생에너지를 전력원으로 전환하는 친환경 목표도 추진 중이다.",
+    "summary_en": "Nestlé USA opened a $330 million, 700,000-square-foot distribution center in Arvin, California, marking its largest and most technologically advanced facility to date. The center leverages automation to significantly improve operational efficiency across its supply chain. The facility also has plans to eventually source all of its energy from renewable sources.",
+    "so_what_ko": "대규모 자동화 물류 인프라 투자는 D2C 이행 속도와 비용 경쟁력을 결정짓는 핵심 요소로, LG D2C 조직도 물류 자동화 로드맵을 중장기 전략에 반영해야 한다.",
+    "so_what_en": "Large-scale automated fulfillment infrastructure is becoming a competitive differentiator in D2C; LG should evaluate logistics automation investments to improve delivery speed and cost efficiency.",
+    "key_points": [
+      "네슬레, 캘리포니아에 3억 3천만 달러 규모 자동화 물류센터 오픈",
+      "70만 평방피트 규모로 네슬레 역대 최대·최첨단 시설",
+      "운영 자동화 및 재생에너지 전환 목표 포함"
+    ],
+    "tags": [
+      "supply-chain-automation",
+      "distribution-center",
+      "retail-logistics",
+      "sustainability",
+      "fmcg"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Nestlé USA",
+      "Arvin Distribution Center"
+    ],
+    "one_line_insight_ko": "네슬레의 대규모 자동화 물류 투자는 D2C 공급망 경쟁력이 기술 인프라에 달려 있음을 보여준다.",
+    "one_line_insight_en": "Nestlé's massive automated DC investment signals that supply chain infrastructure is becoming a core D2C competitive advantage.",
+    "ai_processed": true
+  },
+  {
+    "title": "LiveRamp CEO dishes on OpenAI partnership, looming Publicis acquisition",
+    "link": "https://www.marketingdive.com/news/liveramp-ceo-dishes-on-openai-partnership-looming-publicis-acquisition/823481/",
+    "date_published": "2026-06-23",
+    "description": "Scott Howe sat down with Marketing Dive in Cannes to discuss new collaborations, including one with Adobe, and why he’s committed to neutrality.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
+    "categories": [
+      "marketing",
+      "ai_marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.82,
+    "relevance_label": "high",
+    "title_en": "LiveRamp CEO on OpenAI Partnership and Upcoming Publicis Acquisition",
+    "summary_ko": "LiveRamp CEO 스콧 하우는 칸에서 OpenAI와의 파트너십 및 Adobe와의 새로운 협업 계획을 공개했다. 퍼블리시스의 LiveRamp 인수가 임박한 가운데, 하우 CEO는 데이터 연결 플랫폼으로서의 중립성 유지에 대한 의지를 강조했다. 이번 협업은 AI 기반 마케팅 데이터 활용의 새로운 방향을 제시한다.",
+    "summary_en": "LiveRamp CEO Scott Howe spoke with Marketing Dive at Cannes, revealing new partnerships including one with OpenAI and another with Adobe. With Publicis's acquisition of LiveRamp on the horizon, Howe emphasized his commitment to maintaining the platform's neutrality. The developments signal a convergence of data connectivity, AI, and major holding company consolidation in the marketing ecosystem.",
+    "so_what_ko": "LiveRamp와 OpenAI의 협업은 퍼스트파티 데이터와 AI의 결합이 마케팅 개인화의 핵심 인프라가 됨을 의미하며, LG D2C는 데이터 연결 전략을 강화해야 한다.",
+    "so_what_en": "The LiveRamp-OpenAI partnership underscores the growing importance of first-party data connectivity in AI-driven marketing; LG D2C should assess how its data infrastructure aligns with emerging AI marketing platforms.",
+    "key_points": [
+      "LiveRamp CEO, 칸에서 OpenAI 및 Adobe와의 신규 파트너십 공개",
+      "퍼블리시스의 LiveRamp 인수 임박 — 마케팅 업계 대형 M&A",
+      "데이터 플랫폼 중립성 유지 의지 표명으로 다양한 파트너 신뢰 확보 전략"
+    ],
+    "tags": [
+      "data-connectivity",
+      "ai-marketing",
+      "first-party-data",
+      "martech-consolidation",
+      "openai"
+    ],
+    "confidence": 0.65,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL",
+      "EMEA"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "LiveRamp",
+      "OpenAI",
+      "Adobe",
+      "Publicis",
+      "Scott Howe"
+    ],
+    "one_line_insight_ko": "LiveRamp와 OpenAI의 파트너십은 퍼스트파티 데이터와 AI의 결합이 차세대 마케팅 인프라의 핵심이 될 것임을 시사한다.",
+    "one_line_insight_en": "LiveRamp's alliance with OpenAI marks a pivotal convergence of data connectivity and AI that will reshape the marketing infrastructure landscape.",
+    "ai_processed": true
+  },
+  {
+    "title": "Announcing the 2026 Modern Retail Top Workplaces",
+    "link": "https://www.modernretail.co/announcement/announcing-the-2026-digiday-media-top-workplaces/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-06-23",
+    "description": "Modern Retail Top Workplaces is an annual list of the best brands and retailers to work for. This year’s honorees are setting the standard for workplace excellence, leading with purpose, investing in their people and building cultures that drive both employee success and business growth. Modern Retail’s Top Workplaces: Boll & BranchBoll & Branch is […]",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.15,
+    "relevance_label": "high",
+    "title_en": "Modern Retail Announces 2026 Top Workplaces in Retail",
+    "summary_ko": "모던 리테일은 2026년 Top Workplaces 명단을 발표하며 브랜드 및 리테일러 중 최고의 직장 환경을 갖춘 기업들을 선정했다. 이번 명단에는 Boll & Branch 등 직원 투자와 목적 중심 문화를 선도하는 기업들이 포함됐다. 해당 기업들은 직원 성공과 비즈니스 성장을 동시에 추구하는 조직 문화를 구축한 것으로 평가받았다.",
+    "summary_en": "Modern Retail released its annual 2026 Top Workplaces list, recognizing brands and retailers that excel in workplace culture and employee investment. Honorees like Boll & Branch were highlighted for leading with purpose and building cultures that support both employee success and business growth. The list reflects a growing trend among retailers to prioritize people-centric organizational values.",
+    "so_what_ko": "이 기사는 AI 커머스 또는 D2C 마케팅 전략과의 직접적 연관성이 낮으며, LG D2C 조직에 대한 즉각적인 전략적 시사점은 제한적이다.",
+    "so_what_en": "This article has limited direct relevance to AI commerce or D2C marketing strategy; it is primarily an industry recognition piece with minimal actionable insights for LG D2C.",
+    "key_points": [
+      "모던 리테일 2026 Top Workplaces 연간 명단 발표",
+      "Boll & Branch 등 직원 투자 및 목적 중심 문화 선도 기업 선정",
+      "리테일 업계의 인재 중심 조직문화 트렌드 반영"
+    ],
+    "tags": [
+      "workplace-culture",
+      "retail-talent",
+      "employee-experience",
+      "brand-building"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Modern Retail",
+      "Boll & Branch"
+    ],
+    "one_line_insight_ko": "우수한 직장 문화는 리테일 브랜드 경쟁력의 기반이지만, 이 기사는 AI 커머스 전략과의 직접적 연관성이 낮다.",
+    "one_line_insight_en": "While workplace culture drives retail brand strength, this article offers limited direct relevance to AI commerce or D2C strategy.",
+    "ai_processed": true
+  },
+  {
+    "title": "Brands Briefing: How brands aim to stand out this summer as it’s become ‘harder to create momentum’",
+    "link": "https://www.modernretail.co/marketing/brands-briefing-how-brands-aim-to-stand-out-this-summer-as-its-become-harder-to-create-momentum/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-06-23",
+    "description": "Consumer spending has held up surprisingly well amid rising gas prices and sustained inflation — but that doesn’t mean it’s easy to get shoppers to open their wallets. Modern Retail spoke with some brand execs and agency heads about what results they saw during the first half of the year, and how they are looking to keep consumers engaged over the summer.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
+    "categories": [
+      "marketing",
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.58,
+    "relevance_label": "high",
+    "title_en": "Brands Struggle to Create Summer Momentum Amid Consumer Spending Caution",
+    "summary_ko": "인플레이션과 높은 유가에도 소비자 지출은 예상보다 견조하지만, 브랜드들은 소비자의 지갑을 열기가 갈수록 어려워지고 있다고 호소한다. 브랜드 임원들과 에이전시 리더들은 상반기 결과를 점검하며 여름 소비자 참여 유지 전략을 모색 중이다. '모멘텀 창출이 더 어려워졌다'는 인식이 퍼지며 차별화된 마케팅 전략의 필요성이 커지고 있다.",
+    "summary_en": "Despite rising gas prices and sustained inflation, consumer spending has remained surprisingly resilient, yet brands report increasing difficulty converting that spending into sales momentum. Modern Retail spoke with brand executives and agency heads reviewing first-half performance and planning summer engagement strategies. The prevailing sentiment is that standing out in a crowded marketplace has become significantly harder.",
+    "so_what_ko": "소비자 주의가 높아지는 환경에서 LG D2C는 단순 프로모션을 넘어 AI 기반 개인화와 감성적 브랜드 경험으로 여름 캠페인을 차별화해야 한다.",
+    "so_what_en": "As consumer attention becomes harder to capture, LG D2C should leverage AI-driven personalization and emotionally resonant brand experiences rather than relying solely on promotional tactics.",
+    "key_points": [
+      "인플레이션·유가 상승에도 소비자 지출은 견조하나 브랜드 전환율 저하",
+      "브랜드 임원들, 상반기 성과 점검 후 여름 소비자 참여 전략 재정비",
+      "'모멘텀 창출'의 어려움 증가로 차별화 마케팅 전략 수요 부상"
+    ],
+    "tags": [
+      "consumer-engagement",
+      "brand-marketing",
+      "summer-campaigns",
+      "d2c-strategy",
+      "retail-trends"
+    ],
+    "confidence": 0.72,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Modern Retail"
+    ],
+    "one_line_insight_ko": "소비자 전환이 어려워진 환경에서 브랜드 차별화는 프로모션이 아닌 데이터 기반 경험 설계에서 나온다.",
+    "one_line_insight_en": "In an era where consumer momentum is harder to generate, brand differentiation must shift from promotions to data-driven, personalized experiences.",
+    "ai_processed": true
+  },
+  {
+    "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+    "link": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+    "date_published": "2026-06-23",
+    "description": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "categories": [
+      "ai_marketing",
+      "agentic_commerce",
+      "tech"
+    ],
+    "relevance_score": 0.95,
+    "relevance_label": "high",
+    "title_en": "India's MoEngage Bets on Millions of AI Agents as the Future of Marketing",
+    "summary_ko": "인도의 마케팅 자동화 플랫폼 MoEngage는 개별 고객에게 AI 에이전트를 할당하는 기술을 확보하는 올캐시 딜을 통해 AI 에이전트 기반 마케팅의 미래에 베팅했다. 이 전략은 수백만 명의 개별 고객에게 각각 맞춤화된 AI 에이전트를 배치하는 초개인화 마케팅 모델을 지향한다. 이는 마케팅 자동화가 규칙 기반 세그멘테이션을 넘어 1:1 에이전트 기반 인터랙션으로 진화하는 중요한 전환점을 나타낸다.",
+    "summary_en": "India-based marketing automation platform MoEngage has made an all-cash acquisition to secure technology that assigns individual AI agents to each customer, positioning itself at the frontier of agentic marketing. The bet reflects a vision where millions of AI agents operate in parallel, each delivering hyper-personalized engagement at the individual customer level. This marks a significant shift in marketing automation from rule-based segmentation to one-to-one AI agent-driven interactions.",
+    "so_what_ko": "고객 1인당 AI 에이전트를 배치하는 초개인화 모델은 D2C 마케팅의 패러다임을 바꿀 수 있으며, LG D2C는 에이전틱 마케팅 플랫폼 도입 가능성을 전략적으로 검토해야 한다.",
+    "so_what_en": "The one-agent-per-customer model represents a paradigm shift in D2C engagement; LG D2C should actively evaluate agentic marketing platforms to deliver scalable hyper-personalization.",
+    "key_points": [
+      "MoEngage, 개별 고객별 AI 에이전트 할당 기술 확보를 위한 올캐시 인수 단행",
+      "수백만 AI 에이전트 병렬 운영을 통한 1:1 초개인화 마케팅 모델 지향",
+      "마케팅 자동화의 패러다임이 세그멘테이션에서 에이전트 기반 인터랙션으로 전환",
+      "인도 기반 B2B 마케팅 플랫폼의 AI 에이전트 기술 선점 경쟁 가속화"
+    ],
+    "tags": [
+      "ai-agents",
+      "marketing-automation",
+      "hyper-personalization",
+      "agentic-commerce",
+      "martech"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "APAC",
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "MoEngage",
+      "TechCrunch"
+    ],
+    "one_line_insight_ko": "고객 한 명당 전담 AI 에이전트를 배치하는 MoEngage의 전략은 마케팅 자동화의 미래가 에이전틱 초개인화에 있음을 선언한다.",
+    "one_line_insight_en": "MoEngage's bet on assigning individual AI agents to each customer signals that the future of marketing automation lies in agentic, one-to-one hyper-personalization at scale.",
     "ai_processed": true
   }
 ]
