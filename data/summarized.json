@@ -1,264 +1,316 @@
 [
   {
-    "title": "Nordstrom teases retail’s other big summer sale",
-    "link": "https://www.retaildive.com/news/nordstrom-teases-anniversary-summer-sale/824579/",
-    "date_published": "2026-07-07",
-    "description": "The department store’s annual event differs from most because it features discounts on merchandise set to drop in the fall.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
+    "title": "D+ Research: Marketers hesitate to adopt AI for influencer and CTV marketing",
+    "link": "https://digiday.com/marketing/d-research-marketers-hesitate-to-adopt-ai-for-influencer-and-ctv-marketing/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-07-09",
+    "description": "Advertisers embrace AI for social media and retail media marketing, but are slower to adopt AI for influencer and CTV marketing.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
     "categories": [
-      "commerce"
-    ],
-    "relevance_score": 0.2,
-    "relevance_label": "high",
-    "title_en": "Nordstrom Teases Annual Anniversary Sale Featuring Fall Merchandise at Discounted Prices",
-    "summary_ko": "노드스트롬이 여름 시즌 대표 세일 행사인 애니버서리 세일을 예고했다. 이 행사는 일반적인 시즌오프 세일과 달리 가을 신상품을 미리 할인된 가격에 판매하는 독특한 구조를 가지고 있다. 구체적인 AI 커머스 관련 내용은 원문에서 확인되지 않음.",
-    "summary_en": "Nordstrom has teased its upcoming Anniversary Sale, a flagship summer retail event. Unlike typical clearance sales, the event offers discounts on merchandise scheduled to launch in the fall season. Specific details about AI commerce integration were not confirmed in the source article.",
-    "so_what_ko": "D2C 관점에서 시즌 전 신제품 할인 판매 전략은 고객 조기 유입과 수요 예측에 유효하나, AI 커머스 연관성은 낮아 직접적인 전략 시사점은 제한적이다.",
-    "so_what_en": "While Nordstrom's pre-season discount model can drive early customer acquisition, the article lacks AI commerce relevance, limiting direct strategic implications for LG D2C.",
-    "key_points": [
-      "노드스트롬 애니버서리 세일은 가을 신상품을 여름에 미리 할인 판매하는 독특한 구조",
-      "일반적인 재고 소진 목적의 세일과 차별화된 전략적 접근",
-      "AI 커머스 관련 내용은 원문에서 확인되지 않음"
-    ],
-    "tags": [
-      "retail-sale",
-      "seasonal-promotion",
-      "department-store"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Nordstrom"
-    ],
-    "one_line_insight_ko": "노드스트롬의 애니버서리 세일은 가을 신상품 선할인이라는 독특한 구조로 경쟁 차별화를 꾀하지만, AI 커머스 연관성은 낮다.",
-    "one_line_insight_en": "Nordstrom's Anniversary Sale differentiates through pre-season fall discounts, but holds minimal relevance to AI commerce strategy.",
-    "ai_processed": true
-  },
-  {
-    "title": "Staples, Dollar General tout 2025 pricing for back-to-school sales",
-    "link": "https://www.retaildive.com/news/staples-dollar-general-back-to-school-sales-low-pricing/824571/",
-    "date_published": "2026-07-07",
-    "description": "Both retailers highlighted dozens of products priced at $1 and under, with teachers getting extra discounts.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "commerce",
+      "ai_marketing",
       "marketing"
     ],
-    "relevance_score": 0.2,
+    "relevance_score": 0.78,
     "relevance_label": "high",
-    "title_en": "Staples and Dollar General Compete on Back-to-School Pricing with $1-and-Under Deals",
-    "summary_ko": "스테이플스와 달러 제너럴이 2025년 가격 수준을 내세우며 백투스쿨 시즌 가격 경쟁을 예고했다. 두 유통업체 모두 1달러 이하 제품을 수십 종 선보이며 가격 민감 소비자를 공략하고 있다. 교사 대상 추가 할인 혜택도 제공되며 교육 시장 고객 유치에 집중하는 양상이다.",
-    "summary_en": "Staples and Dollar General are highlighting aggressive back-to-school pricing strategies anchored at 2025 price levels. Both retailers are featuring dozens of products priced at $1 and under to attract budget-conscious shoppers. Teachers are offered additional discounts, signaling a focus on capturing the education market segment.",
-    "so_what_ko": "가격 경쟁이 치열한 시즌 행사에서 LG D2C는 단순 할인보다 AI 기반 개인화 혜택이나 번들 전략으로 차별화할 필요가 있다.",
-    "so_what_en": "As price wars intensify during seasonal campaigns, LG D2C should leverage AI-driven personalization and bundling strategies rather than competing solely on discounts.",
+    "title_en": "Marketers Slow to Adopt AI for Influencer and CTV Marketing Despite Social Media Embrace",
+    "summary_ko": "광고주들은 소셜 미디어와 리테일 미디어 마케팅에서는 AI를 적극 수용하고 있으나, 인플루언서 마케팅과 CTV 광고 분야에서는 도입 속도가 더딘 것으로 나타났다. Digiday 리서치에 따르면 채널별로 AI 도입 속도에 뚜렷한 차이가 존재한다. 이는 인플루언서 신뢰성 검증이나 CTV의 복잡한 측정 체계 등 채널 고유의 특성이 AI 도입의 장벽으로 작용하기 때문으로 분석된다.",
+    "summary_en": "Advertisers are actively embracing AI for social media and retail media marketing but remain hesitant to apply it to influencer and CTV marketing channels. According to Digiday research, there is a notable disparity in AI adoption rates across different marketing channels. Channel-specific complexities, such as influencer authenticity verification and CTV measurement challenges, appear to be key barriers to broader AI adoption.",
+    "so_what_ko": "LG D2C 조직은 AI 도입이 활발한 소셜·리테일 미디어 채널에 우선 투자하면서, 인플루언서 및 CTV 채널에서의 AI 활용 가능성을 중장기 로드맵에 포함시켜 선제적으로 준비해야 한다.",
+    "so_what_en": "LG D2C should prioritize AI investment in social and retail media channels where adoption is proven, while building a mid-term roadmap to leverage AI in influencer and CTV channels before competitors do.",
     "key_points": [
-      "스테이플스·달러 제너럴 모두 1달러 이하 제품 수십 종으로 백투스쿨 가격 경쟁 돌입",
-      "2025년 가격 수준 유지를 마케팅 메시지로 활용",
-      "교사 전용 추가 할인으로 특정 소비자 세그먼트 집중 공략",
-      "AI 커머스 관련 내용은 원문에서 확인되지 않음"
+      "AI 도입률은 소셜 미디어 및 리테일 미디어에서 높고, 인플루언서·CTV에서 낮음",
+      "채널별 복잡성과 측정 어려움이 AI 도입의 주요 장벽으로 작용",
+      "마케터들의 채널별 AI 수용 격차가 뚜렷하게 나타남"
     ],
     "tags": [
-      "back-to-school",
-      "price-competition",
-      "retail-promotion"
+      "ai-adoption",
+      "influencer-marketing",
+      "ctv",
+      "retail-media",
+      "social-media"
     ],
-    "confidence": 0.65,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "confidence": 0.7,
+    "strategic_theme": "AI_MARKETING",
     "regions": [
+      "GLOBAL",
       "AMER"
     ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Staples",
-      "Dollar General"
+      "Digiday",
+      "CTV",
+      "Influencer Marketing"
     ],
-    "one_line_insight_ko": "스테이플스와 달러 제너럴의 백투스쿨 가격 경쟁은 단순 할인 전략의 한계를 보여주며, AI 기반 차별화의 필요성을 역설한다.",
-    "one_line_insight_en": "The Staples-Dollar General back-to-school price war underscores the limitations of discount-only strategies and the need for AI-driven differentiation.",
+    "one_line_insight_ko": "AI 마케팅 도입은 채널별로 불균등하게 진행되며, 선도 기업은 인플루언서·CTV 분야의 AI 공백을 먼저 메우는 전략으로 경쟁 우위를 확보할 수 있다.",
+    "one_line_insight_en": "AI marketing adoption is uneven across channels, giving early movers a competitive edge by closing the AI gap in influencer and CTV marketing.",
     "ai_processed": true
   },
   {
-    "title": "New Ecommerce Tools: July 7, 2026",
-    "link": "https://www.practicalecommerce.com/new-ecommerce-tools-july-7-2026",
-    "date_published": "2026-07-07",
-    "description": "This week's rundown includes new services for livestreaming, product images, logistics, agentic commerce, one-click checkout, Amazon, and more.\nThe post New Ecommerce Tools: July 7, 2026 appeared first on Practical Ecommerce.",
-    "source_id": "practical_ecommerce",
-    "source_name": "Practical Ecommerce",
-    "source_url": "https://www.practicalecommerce.com/feed",
+    "title": "Media Briefing: Declared ‘good bots,’ mixed-use crawlers, gray scrapers – how AI accesses publisher content",
+    "link": "https://digiday.com/media/media-briefing-declared-good-bots-mixed-use-crawlers-gray-scrapers-how-ai-accesses-publisher-content/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-07-09",
+    "description": "The Cloudflare's latest AI settings reshape how compliant crawlers behave, yet the biggest leakage for publisher content remains a gray scraping economy that doesn’t bother to play by those rules.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
     "categories": [
-      "commerce",
-      "agentic_commerce",
-      "tech"
+      "tech",
+      "strategy"
     ],
-    "relevance_score": 0.75,
+    "relevance_score": 0.52,
     "relevance_label": "high",
-    "title_en": "New Ecommerce Tools Roundup (July 7, 2026): Agentic Commerce, Livestreaming, and One-Click Checkout",
-    "summary_ko": "2026년 7월 7일 기준 이커머스 신규 툴 모음에는 라이브스트리밍, 상품 이미지, 물류, 에이전틱 커머스, 원클릭 결제, 아마존 연동 서비스 등이 포함됐다. 에이전틱 커머스 관련 도구가 주목받는 신규 카테고리로 부상하고 있음을 시사한다. 구체적인 서비스명 및 세부 내용은 원문에서 상세히 확인되지 않음.",
-    "summary_en": "This week's ecommerce tools roundup covers new services spanning livestreaming, product imagery, logistics, agentic commerce, one-click checkout, and Amazon integrations. The inclusion of agentic commerce as a distinct category signals its growing prominence in the ecommerce tooling landscape. Specific tool names and detailed features were not confirmed in the excerpt provided.",
-    "so_what_ko": "에이전틱 커머스 전용 툴의 등장은 LG D2C가 AI 에이전트 기반 구매 여정 자동화를 위한 기술 파트너십을 선제적으로 탐색해야 함을 시사한다.",
-    "so_what_en": "The emergence of dedicated agentic commerce tools signals that LG D2C should proactively explore technology partnerships to automate AI agent-driven purchase journeys.",
+    "title_en": "How AI Bots Access Publisher Content: From Declared Crawlers to Gray Scrapers",
+    "summary_ko": "Cloudflare의 최신 AI 설정이 규정을 준수하는 크롤러의 행동 방식을 재편하고 있지만, 퍼블리셔 콘텐츠의 가장 큰 누수는 규칙을 무시하는 '그레이 스크레이핑' 경제에서 비롯되고 있다. AI가 퍼블리셔 콘텐츠에 접근하는 방식은 '선언된 착한 봇', '혼합 사용 크롤러', '그레이 스크레이퍼' 세 가지로 구분된다. 이처럼 무단 콘텐츠 수집이 만연해지면서 퍼블리셔의 데이터 주권과 수익화 전략에 심각한 위협이 되고 있다.",
+    "summary_en": "Cloudflare's latest AI settings are reshaping how compliant crawlers behave, but the biggest threat to publisher content remains a gray scraping economy that ignores these rules entirely. AI accesses publisher content through three main pathways: declared 'good bots,' mixed-use crawlers, and gray scrapers. The prevalence of unauthorized content collection poses a serious threat to publishers' data sovereignty and monetization strategies.",
+    "so_what_ko": "LG D2C는 자사 제품 리뷰, 콘텐츠, 데이터가 무단 AI 스크레이핑에 노출되지 않도록 기술적 보호 조치를 강화하고, 콘텐츠 자산의 가치를 보호하는 정책을 수립해야 한다.",
+    "so_what_en": "LG D2C should strengthen technical safeguards against unauthorized AI scraping of its product content and reviews, and establish policies to protect its digital content assets.",
     "key_points": [
-      "에이전틱 커머스가 독립적인 이커머스 툴 카테고리로 부상",
-      "라이브스트리밍, 원클릭 결제, 물류 등 다양한 커머스 영역의 신규 도구 출시",
-      "아마존 연동 서비스 포함으로 플랫폼 생태계 확장 트렌드 반영",
-      "구체적 서비스 세부 내용은 원문 발췌에서 확인되지 않음"
+      "Cloudflare AI 설정이 규정 준수 크롤러 행동을 변화시키고 있음",
+      "그레이 스크레이퍼는 규칙을 무시하며 퍼블리셔 콘텐츠의 주요 누수 원인",
+      "AI의 콘텐츠 접근 방식은 선언 봇, 혼합 크롤러, 그레이 스크레이퍼 3가지로 분류됨",
+      "퍼블리셔 데이터 주권 및 수익화 전략에 직접적 위협"
     ],
     "tags": [
-      "agentic-commerce",
-      "ecommerce-tools",
-      "livestreaming",
-      "one-click-checkout"
+      "ai-crawlers",
+      "content-scraping",
+      "publisher-data",
+      "cloudflare",
+      "data-protection"
     ],
-    "confidence": 0.6,
-    "strategic_theme": "AI_COMMERCE",
+    "confidence": 0.72,
+    "strategic_theme": "DATA_STRATEGY",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
+    "sentiment": "THREAT",
     "key_entities": [
-      "Amazon",
-      "Practical Ecommerce"
+      "Cloudflare",
+      "Digiday"
     ],
-    "one_line_insight_ko": "에이전틱 커머스 전용 툴의 독립 카테고리화는 AI 에이전트 기반 쇼핑 자동화가 이커머스 핵심 인프라로 자리잡고 있음을 보여준다.",
-    "one_line_insight_en": "The emergence of agentic commerce as a standalone tool category signals that AI agent-driven shopping automation is becoming core ecommerce infrastructure.",
+    "one_line_insight_ko": "AI 스크레이핑 경제의 확산으로 브랜드 콘텐츠 자산 보호가 D2C 기업의 핵심 디지털 전략 과제로 부상하고 있다.",
+    "one_line_insight_en": "The rise of gray AI scraping makes protecting brand content assets a critical digital strategy priority for D2C companies.",
     "ai_processed": true
   },
   {
-    "title": "Home Depot adds rewards for Pro Xtra customers",
-    "link": "https://www.digitalcommerce360.com/2026/07/07/home-depot-adds-rewards-pro-xtra-customers/",
-    "date_published": "2026-07-07",
-    "description": "Home Depot has added rewards for Pro customers that include partnering with 7-Eleven, Jimmy John’s, Tecovas and Rosie’s AI Answering Service. The new benefits are for Home Depot’s Pro Xtra members, available through the retailer’s Rewards Hub. Home Depot said the rewards are available regardless of customers’ spending or membership tier. “True partnership means understanding […]\nThe post Home Depot adds rewards for Pro Xtra customers appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
+    "title": "OpenAI set to expand ads to France, Germany and Ireland",
+    "link": "https://digiday.com/marketing/openai-set-to-expand-ads-to-france-germany-and-ireland/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-07-09",
+    "description": "The ads solutions vacancies in those markets signify that OpenAI will have achieved a presence in every major global advertising region within less than a year.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
     "categories": [
-      "commerce",
+      "ai_marketing",
+      "marketing",
       "strategy"
     ],
-    "relevance_score": 0.55,
+    "relevance_score": 0.88,
     "relevance_label": "high",
-    "title_en": "Home Depot Expands Pro Xtra Rewards with 7-Eleven, Jimmy John's, and Rosie's AI Answering Service Partnerships",
-    "summary_ko": "홈 디포가 프로 고객 대상 로열티 프로그램인 Pro Xtra에 새로운 파트너십 혜택을 추가했다. 세븐일레븐, 지미 존스, 테코바스, 로지 AI 앤서링 서비스 등 이종 업종 파트너와 협력해 리워드 허브를 통해 혜택을 제공한다. 지출 금액이나 멤버십 등급과 무관하게 모든 Pro Xtra 회원이 혜택을 받을 수 있다는 점이 특징이다.",
-    "summary_en": "Home Depot has expanded its Pro Xtra loyalty program by partnering with 7-Eleven, Jimmy John's, Tecovas, and Rosie's AI Answering Service to offer new rewards to professional customers. The benefits are accessible through Home Depot's Rewards Hub and are available to all Pro Xtra members regardless of spending level or membership tier. The move signals Home Depot's strategy to deepen engagement with its professional customer segment through cross-industry partnerships.",
-    "so_what_ko": "LG D2C도 B2B 및 프로 고객 세그먼트를 위한 이종 업종 파트너십 기반 로열티 프로그램을 고려해 고객 락인과 차별화된 가치 제공을 강화할 수 있다.",
-    "so_what_en": "LG D2C could explore cross-industry loyalty partnerships targeting professional or B2B customer segments to enhance customer lock-in and deliver differentiated value beyond product discounts.",
+    "title_en": "OpenAI Expands Ad Sales Operations to France, Germany, and Ireland",
+    "summary_ko": "OpenAI가 프랑스, 독일, 아일랜드에 광고 솔루션 직책을 신설하며 주요 글로벌 광고 시장 전반으로 영향력을 확대하고 있다. 이번 채용 공고는 OpenAI가 1년도 채 안 되는 기간 내에 모든 주요 글로벌 광고 지역에 존재감을 확립하게 됨을 의미한다. AI 기반 광고 플랫폼으로서 OpenAI의 급속한 성장은 기존 디지털 광고 생태계의 판도를 근본적으로 바꿀 수 있는 잠재력을 지닌다.",
+    "summary_en": "OpenAI is expanding its advertising operations by opening ad solutions roles in France, Germany, and Ireland, signaling a push into every major global advertising region. These job postings indicate that OpenAI will have established a global advertising presence in less than a year. The rapid expansion of OpenAI as an AI-powered advertising platform has the potential to fundamentally reshape the existing digital advertising ecosystem.",
+    "so_what_ko": "LG D2C는 OpenAI 광고 플랫폼의 유럽 진출을 면밀히 모니터링하고, AI 기반 광고 채널 다변화 전략의 일환으로 OpenAI 광고 솔루션의 조기 도입 가능성을 검토해야 한다.",
+    "so_what_en": "LG D2C should closely monitor OpenAI's European ad expansion and proactively evaluate early adoption of OpenAI's advertising solutions as part of its AI-driven channel diversification strategy.",
     "key_points": [
-      "홈 디포 Pro Xtra에 세븐일레븐·지미 존스·테코바스·로지 AI 앤서링 서비스 등 이종 파트너십 추가",
-      "지출 금액·멤버십 등급 무관하게 모든 Pro Xtra 회원에게 혜택 제공으로 진입 장벽 낮춤",
-      "Rosie's AI Answering Service 파트너십으로 AI 기반 서비스 연계 시도",
-      "리워드 허브를 통한 통합 혜택 접근으로 고객 경험 단순화"
+      "OpenAI가 프랑스, 독일, 아일랜드에 광고 솔루션 직책 신설",
+      "1년 이내에 모든 주요 글로벌 광고 지역 진출 예정",
+      "AI 네이티브 광고 플랫폼으로서 기존 디지털 광고 시장 지형 변화 예고",
+      "유럽 광고 시장에서 OpenAI의 경쟁력 급부상"
     ],
     "tags": [
-      "loyalty-program",
-      "b2b-commerce",
-      "cross-industry-partnership",
-      "ai-service"
+      "openai",
+      "ai-advertising",
+      "digital-ads",
+      "europe-expansion",
+      "adtech"
     ],
-    "confidence": 0.75,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "confidence": 0.8,
+    "strategic_theme": "AI_MARKETING",
     "regions": [
-      "AMER"
+      "EMEA",
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "OpenAI",
+      "ChatGPT"
+    ],
+    "one_line_insight_ko": "OpenAI의 글로벌 광고 플랫폼화는 LG D2C에게 AI 네이티브 광고 채널을 선제적으로 확보할 전략적 기회를 제공한다.",
+    "one_line_insight_en": "OpenAI's rapid global ad expansion presents LG D2C with a strategic first-mover opportunity to secure presence on an AI-native advertising platform.",
+    "ai_processed": true
+  },
+  {
+    "title": "Advertisers look for advantage in Sky’s ITV deal",
+    "link": "https://digiday.com/media-buying/advertisers-look-for-advantage-in-skys-itv-deal/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-07-09",
+    "description": "The $2.13 proposed billion acquisition of ITV would redraw the UK's advertising map. Advertisers are still waiting to hear what's in it for them.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.45,
+    "relevance_label": "high",
+    "title_en": "Sky's $2.13 Billion ITV Acquisition Bid Reshapes UK Advertising Landscape",
+    "summary_ko": "Sky가 ITV를 약 21억 3천만 달러에 인수하는 제안이 영국 광고 시장의 판도를 새롭게 그릴 것으로 전망된다. 광고주들은 이번 딜이 자신들에게 어떤 이점을 가져다줄지 아직 명확한 답을 기다리고 있는 상황이다. 이번 인수가 성사될 경우 영국 내 TV 광고 인벤토리와 데이터 역량의 통합이 가속화될 수 있다.",
+    "summary_en": "Sky's proposed $2.13 billion acquisition of ITV is poised to redraw the UK's advertising map, creating a significantly consolidated broadcast and streaming advertising entity. Advertisers are still waiting to understand the specific benefits this deal will offer them. If the deal proceeds, it could accelerate the consolidation of TV advertising inventory and data capabilities within the UK market.",
+    "so_what_ko": "LG D2C 유럽 팀은 Sky-ITV 통합 이후 영국 TV 광고 시장의 인벤토리 변화와 새로운 타겟팅 기회를 선제적으로 파악하여 미디어 플래닝을 재조정할 필요가 있다.",
+    "so_what_en": "LG D2C's European team should proactively assess changes in UK TV ad inventory and new targeting opportunities following a potential Sky-ITV consolidation to inform media planning adjustments.",
+    "key_points": [
+      "Sky의 ITV 21억 3천만 달러 인수 제안으로 영국 광고 시장 재편 예상",
+      "광고주들은 아직 구체적인 혜택 내용을 파악 중",
+      "TV 광고 인벤토리 및 데이터 역량 통합 가속화 가능성"
+    ],
+    "tags": [
+      "uk-advertising",
+      "media-consolidation",
+      "tv-advertising",
+      "sky",
+      "itv"
+    ],
+    "confidence": 0.68,
+    "strategic_theme": "PLATFORM_ECOSYSTEM",
+    "regions": [
+      "EMEA"
     ],
     "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
+    "sentiment": "NEUTRAL",
     "key_entities": [
-      "Home Depot",
-      "7-Eleven",
-      "Jimmy John's",
-      "Rosie's AI Answering Service",
-      "Pro Xtra"
+      "Sky",
+      "ITV"
     ],
-    "one_line_insight_ko": "홈 디포의 이종 업종 파트너십 기반 Pro Xtra 확장은 프로 고객 락인을 위한 생태계 전략의 좋은 사례로, LG D2C의 B2B 로열티 설계에 시사점을 준다.",
-    "one_line_insight_en": "Home Depot's cross-industry Pro Xtra expansion demonstrates how ecosystem-based loyalty programs can deepen professional customer engagement beyond transactional rewards.",
+    "one_line_insight_ko": "Sky-ITV 통합은 영국 TV 광고 시장의 구조적 재편을 예고하며, 유럽 D2C 미디어 전략의 재검토를 요구한다.",
+    "one_line_insight_en": "The Sky-ITV deal signals a structural reshaping of UK TV advertising, prompting a reassessment of European D2C media strategies.",
     "ai_processed": true
   },
   {
-    "title": "Batteries Plus’ modernization journey prepared it for agentic AI",
-    "link": "https://www.digitalcommerce360.com/2026/07/07/batteries-plus-agentic-ai-modernization-journey/",
-    "date_published": "2026-07-07",
-    "description": "Consumer electronics retailer Batteries Plus has made a deliberate, multi-year modernization journey that it said has positioned it to scale artificial intelligence (AI) across its business. Karthik Jambulingam, senior director of enterprise architecture, shared with Digital Commerce 360 how Batteries Plus has transitioned its core systems to a scalable, cloud-enabled, and data-driven infrastructure. His team […]\nThe post Batteries Plus’ modernization journey prepared it for agentic AI appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
+    "title": "Meta’s AI glasses are already among the fastest sellers at America’s Best, Eyeglass World",
+    "link": "https://www.modernretail.co/technology/metas-ai-glasses-are-already-among-the-fastest-sellers-at-americas-best-eyeglass-world/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-07-09",
+    "description": "AI-powered glasses are beginning to make an impact on one of the largest vision retailers in the country.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
     "categories": [
       "commerce",
-      "agentic_commerce",
       "tech",
-      "strategy"
+      "ai_commerce"
     ],
-    "relevance_score": 0.92,
+    "relevance_score": 0.82,
     "relevance_label": "high",
-    "title_en": "Batteries Plus' Multi-Year Tech Modernization Laid the Foundation for Scaling Agentic AI",
-    "summary_ko": "배터리 플러스는 수년에 걸친 의도적인 IT 현대화 작업을 통해 에이전틱 AI 확산을 위한 기반을 마련했다고 밝혔다. 기업 아키텍처 시니어 디렉터 카르틱 잠불링감은 핵심 시스템을 클라우드 기반의 확장 가능하고 데이터 중심적인 인프라로 전환했다고 설명했다. 이 사례는 AI 도입이 기술 인프라 현대화라는 선행 투자 없이는 성과를 내기 어렵다는 점을 보여준다.",
-    "summary_en": "Consumer electronics retailer Batteries Plus has completed a deliberate, multi-year modernization effort to position itself for scaling agentic AI across its business. Senior Director of Enterprise Architecture Karthik Jambulingam explained that the company transitioned its core systems to a scalable, cloud-enabled, and data-driven infrastructure. The case illustrates that meaningful AI adoption requires foundational technology modernization as a prerequisite.",
-    "so_what_ko": "LG D2C가 에이전틱 AI를 실질적으로 확산하려면 클라우드 기반 데이터 인프라 현대화를 선행 투자로 우선순위화해야 하며, 배터리 플러스의 단계적 접근법이 참고 모델이 될 수 있다.",
-    "so_what_en": "LG D2C must prioritize cloud-based data infrastructure modernization as a prerequisite for scaling agentic AI, and Batteries Plus's phased approach offers a valuable reference model.",
+    "title_en": "Meta's AI-Powered Glasses Become Top Sellers at America's Best and Eyeglass World",
+    "summary_ko": "Meta의 AI 탑재 스마트 안경이 미국 최대 안경 소매 체인 중 하나인 America's Best와 Eyeglass World에서 가장 빠르게 팔리는 제품 중 하나로 자리잡았다. AI 안경이 주류 리테일 채널에서 빠른 판매 속도를 기록하면서 웨어러블 AI 기기 시장의 본격적인 소비자 수용이 시작되었음을 시사한다. 이는 AI 하드웨어가 틈새 시장을 넘어 일반 소비자 시장으로 진입하는 중요한 전환점을 의미한다.",
+    "summary_en": "Meta's AI-powered glasses have become among the fastest-selling products at America's Best and Eyeglass World, two of the largest vision retail chains in the United States. The strong sales performance in mainstream retail channels suggests that consumer adoption of wearable AI devices is gaining real momentum. This marks a significant inflection point as AI hardware moves beyond niche markets into mainstream consumer retail.",
+    "so_what_ko": "LG D2C는 AI 웨어러블 기기의 주류 시장 진입을 주목하고, 스마트 가전과 AI 웨어러블의 연동 시나리오를 D2C 제품 전략 및 고객 경험 설계에 반영할 필요가 있다.",
+    "so_what_en": "LG D2C should take note of AI wearables entering mainstream retail and explore integration scenarios between smart home appliances and AI wearable devices within its D2C product strategy and customer experience design.",
     "key_points": [
-      "배터리 플러스는 수년간의 의도적 IT 현대화로 에이전틱 AI 확산 기반 구축 완료",
-      "핵심 시스템을 클라우드·확장 가능·데이터 중심 인프라로 전환한 것이 핵심",
-      "에이전틱 AI 도입은 즉각적 기술 적용이 아닌 인프라 현대화라는 장기 여정임을 시사",
-      "소매 기업의 AI 성숙도 제고를 위한 단계적 아키텍처 전환 사례로서 벤치마크 가치 높음"
+      "Meta AI 안경이 America's Best, Eyeglass World에서 최다 판매 제품 중 하나로 등극",
+      "AI 웨어러블이 주류 소매 채널에서 빠른 판매 속도 기록",
+      "AI 하드웨어의 일반 소비자 시장 진입을 알리는 중요한 전환점",
+      "Vision 리테일 채널을 통한 AI 기기 유통 확대 가능성 확인"
     ],
     "tags": [
-      "agentic-ai",
-      "digital-modernization",
-      "cloud-infrastructure",
-      "retail-tech"
+      "meta-ai-glasses",
+      "ai-wearables",
+      "smart-glasses",
+      "retail-sales",
+      "consumer-ai"
     ],
-    "confidence": 0.82,
-    "strategic_theme": "AI_AGENT",
+    "confidence": 0.78,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
     "regions": [
       "AMER"
     ],
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Batteries Plus",
-      "Karthik Jambulingam",
-      "Digital Commerce 360"
+      "Meta",
+      "America's Best",
+      "Eyeglass World",
+      "Ray-Ban Meta"
     ],
-    "one_line_insight_ko": "배터리 플러스 사례는 에이전틱 AI의 성공적 확산이 기술 도입보다 데이터 인프라 현대화라는 선행 투자에 달려 있음을 명확히 보여준다.",
-    "one_line_insight_en": "Batteries Plus proves that successful agentic AI scaling depends less on AI adoption itself and more on the foundational data infrastructure modernization that precedes it.",
+    "one_line_insight_ko": "Meta AI 안경의 주류 리테일 흥행은 AI 웨어러블 시장의 대중화를 선언하며, LG 스마트 가전과의 연동 전략 수립을 서둘러야 할 시점임을 알린다.",
+    "one_line_insight_en": "Meta AI glasses' mainstream retail success signals the mass-market arrival of AI wearables, urging LG to accelerate integration strategies with its smart appliance ecosystem.",
     "ai_processed": true
   },
   {
-    "title": "Dick’s Sporting Goods adds $99 membership tier to loyalty program",
-    "link": "https://www.digitalcommerce360.com/2026/07/07/dicks-sporting-goods-membership-tier-loyalty-program/",
-    "date_published": "2026-07-07",
-    "description": "Dick’s Sporting Goods introduced a new paid membership tier to its ScoreCard loyalty program, ScoreCard+. The paid rewards program gives members free shipping on all orders, 20% off in-store services and other benefits for $99 per year, the sports supply retailer said. Dick’s Sporting Goods also announced updates to its free loyalty program. “Our enhanced […]\nThe post Dick’s Sporting Goods adds $99 membership tier to loyalty program appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
+    "title": "How Dollar Shave Club decides when to use AI-generated creative",
+    "link": "https://www.modernretail.co/marketing/how-dollar-shave-club-decides-when-to-use-ai-generated-creative/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-07-09",
+    "description": "Dollar Shave Club has started to embrace using generative AI for ad creative, most recently for its Fourth of July campaign.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
+    "categories": [
+      "marketing",
+      "ai_marketing"
+    ],
+    "relevance_score": 0.82,
+    "relevance_label": "high",
+    "title_en": "Dollar Shave Club's Framework for Deciding When to Deploy AI-Generated Ad Creative",
+    "summary_ko": "Dollar Shave Club은 독립기념일 캠페인을 포함해 광고 크리에이티브 제작에 생성형 AI를 적극 도입하기 시작했다. 브랜드는 AI 생성 크리에이티브 활용 여부를 판단하는 내부 기준을 마련하고 있다. 이는 D2C 브랜드가 AI를 마케팅 제작 워크플로우에 통합하는 실용적 사례로 주목받고 있다.",
+    "summary_en": "Dollar Shave Club has begun embracing generative AI for ad creative production, most recently leveraging it for its Fourth of July campaign. The brand has developed an internal decision framework to determine when AI-generated creative is appropriate versus traditional production. This represents a practical D2C use case for integrating generative AI into marketing workflows.",
+    "so_what_ko": "LG D2C 조직은 Dollar Shave Club의 사례를 참고해 AI 크리에이티브 활용 기준(속도, 비용, 브랜드 적합성)을 체계화하고 캠페인별 적용 여부를 판단하는 내부 가이드라인을 수립해야 한다.",
+    "so_what_en": "LG D2C teams should benchmark Dollar Shave Club's decision framework to build internal guidelines on when AI-generated creative fits campaign goals, balancing speed and cost savings against brand integrity.",
+    "key_points": [
+      "Dollar Shave Club is actively using generative AI for ad creative, with the Fourth of July campaign as a recent example",
+      "The brand has created an internal framework to decide when AI creative is appropriate",
+      "This signals a maturing approach to AI in D2C marketing—moving from experimentation to structured deployment"
+    ],
+    "tags": [
+      "generative-ai",
+      "ad-creative",
+      "d2c-marketing",
+      "ai-marketing"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Dollar Shave Club"
+    ],
+    "one_line_insight_ko": "D2C 브랜드들이 AI 크리에이티브 도입을 실험 단계에서 내부 기준이 있는 구조적 운영 단계로 전환하고 있다.",
+    "one_line_insight_en": "D2C brands are moving beyond AI creative experimentation toward structured, criteria-based deployment frameworks.",
+    "ai_processed": true
+  },
+  {
+    "title": "Home Depot adds 7-Eleven, Jimmy John’s as pro loyalty partners",
+    "link": "https://www.retaildive.com/news/home-depot-7-eleven-jimmy-johns-pro-loyalty-partners/824672/",
+    "date_published": "2026-07-08",
+    "description": "Every quarter the retailer will refresh its pro loyalty partnership offers, which span four lifestyle and business categories.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
     "categories": [
       "commerce",
       "strategy"
     ],
-    "relevance_score": 0.55,
+    "relevance_score": 0.42,
     "relevance_label": "high",
-    "title_en": "Dick's Sporting Goods Launches $99/Year ScoreCard+ Paid Membership Tier",
-    "summary_ko": "딕스 스포팅 굿즈가 기존 ScoreCard 로열티 프로그램에 연 99달러의 유료 멤버십 티어인 ScoreCard+를 추가했다. ScoreCard+ 회원은 모든 주문 무료 배송, 매장 내 서비스 20% 할인 등의 혜택을 제공받는다. 동시에 무료 로열티 프로그램도 업데이트되었다.",
-    "summary_en": "Dick's Sporting Goods has introduced a new paid membership tier called ScoreCard+ to its existing ScoreCard loyalty program. For $99 per year, members receive free shipping on all orders, 20% off in-store services, and additional benefits. The retailer also announced updates to its free loyalty program alongside the new paid tier.",
-    "so_what_ko": "LG D2C 조직은 유료 멤버십 티어 도입을 통해 충성 고객의 구매 빈도와 객단가를 높이는 전략을 검토할 수 있으며, 무료-유료 이중 구조의 로열티 프로그램 설계가 고객 세분화에 유효한 모델임을 참고해야 한다.",
-    "so_what_en": "LG D2C should consider a tiered loyalty model with a paid premium option to drive higher purchase frequency and average order value among core customers, using free-vs-paid segmentation to deepen engagement.",
+    "title_en": "Home Depot Expands Pro Loyalty Program with 7-Eleven and Jimmy John's Partnerships",
+    "summary_ko": "Home Depot은 프로 고객 로열티 프로그램에 7-Eleven과 Jimmy John's를 새로운 파트너로 추가했다. 파트너십 혜택은 라이프스타일 및 비즈니스 4개 카테고리에 걸쳐 구성되며, 매 분기마다 제공 혜택을 갱신할 계획이다. 이는 B2B 고객 충성도를 생활 밀착형 브랜드와의 협업으로 강화하려는 전략이다.",
+    "summary_en": "Home Depot has added 7-Eleven and Jimmy John's as new partners in its Pro loyalty program targeting professional customers. The partnership benefits span four lifestyle and business categories, with the retailer committing to refresh offers every quarter. This move reflects a strategy to deepen professional customer loyalty through lifestyle brand collaborations.",
+    "so_what_ko": "LG D2C는 단일 브랜드 로열티 프로그램의 한계를 보완하기 위해 라이프스타일 파트너십 기반의 복합 혜택 구조를 검토할 수 있다.",
+    "so_what_en": "LG D2C could explore cross-brand loyalty partnerships that bundle lifestyle benefits to increase stickiness among professional or high-value customer segments.",
     "key_points": [
-      "연 $99의 ScoreCard+ 유료 멤버십 티어 신설",
-      "혜택: 전 주문 무료 배송 + 매장 내 서비스 20% 할인",
-      "기존 무료 ScoreCard 프로그램도 동시 업데이트"
+      "Home Depot added 7-Eleven and Jimmy John's to its Pro loyalty partner ecosystem",
+      "Benefits are organized across four lifestyle and business categories",
+      "Quarterly refresh of offers ensures ongoing relevance and engagement for pro customers"
     ],
     "tags": [
       "loyalty-program",
-      "paid-membership",
-      "d2c-retail",
+      "retail-partnership",
+      "pro-customers",
       "customer-retention"
     ],
     "confidence": 0.75,
@@ -266,234 +318,377 @@
     "regions": [
       "AMER"
     ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
     "key_entities": [
-      "Dick's Sporting Goods",
-      "ScoreCard+",
-      "ScoreCard"
+      "Home Depot",
+      "7-Eleven",
+      "Jimmy John's"
     ],
-    "one_line_insight_ko": "유료 멤버십 티어는 충성 고객을 명확히 세분화하고 수익성 있는 장기 관계를 구축하는 효과적인 D2C 전략이다.",
-    "one_line_insight_en": "A paid membership tier is an effective D2C strategy to clearly segment loyal customers and build profitable long-term relationships.",
+    "one_line_insight_ko": "소매업체들이 로열티 프로그램을 이종 브랜드 생활 혜택으로 확장해 프로 고객 고착도를 높이고 있다.",
+    "one_line_insight_en": "Retailers are extending loyalty programs into cross-brand lifestyle benefits to deepen retention among high-value professional customers.",
     "ai_processed": true
   },
   {
-    "title": "Resideo board sets schedule for ADI spinoff",
-    "link": "https://www.digitalcommerce360.com/2026/07/07/resideo-board-sets-schedule-for-adi-spinoff/",
-    "date_published": "2026-07-07",
-    "description": "Resideo Technologies Inc. and ADI Global Distribution remain on track to split, following the Resideo board of directors’ vote to approve key dates in July and August. Following a record date of July 20 for the spinoff, Resideo expects distribution of the ADI shares to occur on Aug. 3. Then, ADI common stock is set […]\nThe post Resideo board sets schedule for ADI spinoff appeared first on Digital Commerce 360.",
+    "title": "Retailers plan to invest deeper in AI, cybersecurity this year",
+    "link": "https://www.retaildive.com/news/retailers-increase-investments-spending-ai-digital-technology/824613/",
+    "date_published": "2026-07-08",
+    "description": "The majority of retailers already allocate more than $50 million annually to technology, while 28% spend between $100 million and $250 million a year.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "commerce",
+      "tech",
+      "strategy"
+    ],
+    "relevance_score": 0.72,
+    "relevance_label": "high",
+    "title_en": "Retailers Ramp Up AI and Cybersecurity Investments, with Majority Spending Over $50M on Tech Annually",
+    "summary_ko": "대다수 소매업체가 연간 기술 투자에 5천만 달러 이상을 지출하고 있으며, 그 중 28%는 1억~2억5천만 달러를 투자하고 있다. 올해 주요 투자 우선순위는 AI와 사이버보안으로, 디지털 전환 가속화가 전략적 핵심으로 부상하고 있다. 이는 소매 산업 전반에서 AI 인프라 경쟁이 심화되고 있음을 시사한다.",
+    "summary_en": "The majority of retailers allocate more than $50 million annually to technology investments, with 28% spending between $100 million and $250 million per year. AI and cybersecurity have emerged as the top investment priorities for the current year, reflecting accelerating digital transformation across retail. This signals intensifying infrastructure competition as retailers race to build AI-ready operations.",
+    "so_what_ko": "LG D2C는 AI 및 사이버보안 투자 확대 트렌드에 발맞춰, 경쟁력 유지를 위한 기술 인프라 투자 수준과 우선순위를 재검토해야 한다.",
+    "so_what_en": "LG D2C should benchmark its AI and cybersecurity investment levels against industry benchmarks to ensure it is not falling behind as retailers aggressively scale tech spending.",
+    "key_points": [
+      "Majority of retailers spend over $50M annually on technology; 28% spend $100M–$250M",
+      "AI and cybersecurity are the top investment priorities for retailers in the current year",
+      "The scale of investment signals that AI infrastructure is becoming a baseline competitive requirement, not a differentiator"
+    ],
+    "tags": [
+      "retail-technology",
+      "ai-investment",
+      "cybersecurity",
+      "digital-transformation"
+    ],
+    "confidence": 0.78,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Retail Dive"
+    ],
+    "one_line_insight_ko": "AI와 사이버보안에 대한 대규모 소매 투자가 기술 인프라를 경쟁 차별화 요소가 아닌 산업 기본 요건으로 전환시키고 있다.",
+    "one_line_insight_en": "Massive retail AI and cybersecurity spending is turning technology infrastructure from a differentiator into a baseline industry requirement.",
+    "ai_processed": true
+  },
+  {
+    "title": "How Salesforce is positioning itself in the agentic AI landscape",
+    "link": "https://www.digitalcommerce360.com/2026/07/08/salesforce-agentic-ai-landscape/",
+    "date_published": "2026-07-08",
+    "description": "Salesforce has made updates to its ecommerce platform that center agentic artificial intelligence (AI) in what executive Nitin Mangtani considers its “biggest release in the past five years.” Mangtani specified three main aspects of Agentforce Commerce’s newest release, which is now generally available. Those are its official release of Cimulate technology for Salesforce users, shopper […]\nThe post How Salesforce is positioning itself in the agentic AI landscape appeared first on Digital Commerce 360.",
     "source_id": "digital_commerce_360",
     "source_name": "Digital Commerce 360",
     "source_url": "https://www.digitalcommerce360.com/feed",
     "categories": [
-      "commerce"
+      "commerce",
+      "agentic_commerce",
+      "tech"
     ],
-    "relevance_score": 0.1,
+    "relevance_score": 0.95,
     "relevance_label": "high",
-    "title_en": "Resideo Board Approves Key Dates for ADI Global Distribution Spinoff",
-    "summary_ko": "Resideo Technologies 이사회가 ADI Global Distribution 분사의 주요 일정을 승인했다. 7월 20일 기준일(record date) 이후 8월 3일 ADI 주식 배분이 예정되어 있다. 두 회사의 분리 작업은 계획대로 진행 중이다.",
-    "summary_en": "Resideo Technologies' board of directors has voted to approve key dates for the spinoff of ADI Global Distribution. Following a record date of July 20, Resideo expects to distribute ADI shares on August 3. The separation of the two companies remains on track as scheduled.",
-    "so_what_ko": "이 기사는 LG D2C 비즈니스와 직접적인 연관성이 낮은 기업 분사 관련 재무 이벤트로, 즉각적인 전략적 시사점은 제한적이다.",
-    "so_what_en": "This article covers a corporate spinoff financial event with limited direct relevance to LG D2C strategy or AI-driven commerce initiatives.",
+    "title_en": "Salesforce Positions Agentforce Commerce as Its Biggest E-Commerce Release in Five Years",
+    "summary_ko": "Salesforce는 에이전틱 AI를 중심으로 한 이커머스 플랫폼 대규모 업데이트를 발표하며 '5년 만의 최대 릴리스'로 평가했다. 이번 업데이트의 핵심은 Cimulate 기술의 공식 출시, 쇼퍼 경험 개선, 그리고 Agentforce Commerce의 일반 공개 가용화이다. Salesforce는 이를 통해 에이전틱 AI 커머스 생태계에서의 플랫폼 주도권 강화를 노리고 있다.",
+    "summary_en": "Salesforce has launched a major update to its e-commerce platform centered on agentic AI, describing it as its biggest release in the past five years according to executive Nitin Mangtani. The three key components of the Agentforce Commerce release include the official availability of Cimulate technology, enhanced shopper experiences, and general availability of the full platform. This positions Salesforce as a major contender in the rapidly evolving agentic AI commerce landscape.",
+    "so_what_ko": "LG D2C는 Salesforce Agentforce Commerce의 에이전틱 AI 기능—특히 Cimulate 기반 개인화 및 자율 쇼핑 지원—이 자사 커머스 플랫폼 전략에 통합 가능한지 평가해야 한다.",
+    "so_what_en": "LG D2C should evaluate Salesforce Agentforce Commerce's agentic AI capabilities—especially Cimulate-powered personalization and autonomous shopper assistance—as potential components of its commerce platform strategy.",
     "key_points": [
-      "Resideo 이사회가 ADI 분사 일정 공식 승인",
-      "7월 20일 기준일, 8월 3일 주식 배분 예정",
-      "ADI Global Distribution 독립 법인으로 분리"
+      "Salesforce calls this its biggest e-commerce platform release in five years, centering agentic AI via Agentforce Commerce",
+      "Three pillars of the release: Cimulate technology general availability, shopper experience enhancements, and full platform GA",
+      "Positions Salesforce as a dominant platform player in agentic AI commerce, intensifying competition for enterprise retail tech"
     ],
     "tags": [
-      "corporate-spinoff",
-      "b2b-distribution",
-      "resideo",
-      "adi-global"
+      "agentic-ai",
+      "salesforce",
+      "ecommerce-platform",
+      "agentforce",
+      "ai-commerce"
+    ],
+    "confidence": 0.82,
+    "strategic_theme": "AGENTIC_COMMERCE",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Salesforce",
+      "Agentforce Commerce",
+      "Cimulate",
+      "Nitin Mangtani"
+    ],
+    "one_line_insight_ko": "Salesforce의 Agentforce Commerce 출시는 에이전틱 AI가 엔터프라이즈 이커머스 플랫폼의 새로운 표준이 되고 있음을 선언한다.",
+    "one_line_insight_en": "Salesforce's Agentforce Commerce launch signals that agentic AI is becoming the new standard architecture for enterprise e-commerce platforms.",
+    "ai_processed": true
+  },
+  {
+    "title": "Ambi Robotics, Pickle Robot integrate AI-powered automation to move packages",
+    "link": "https://www.digitalcommerce360.com/2026/07/08/ambi-robotics-pickle-robot-integrate-ai-powered-automation-to-move-packages/",
+    "date_published": "2026-07-08",
+    "description": "Ambi Robotics and Pickle Robot said they have integrated their respective robotic systems to fully automate package moving, using artificial intelligence (AI) to power the process. The companies announced that their integration came in response to demand from Fortune 500 retail and logistics operators. In addition, they said the result fully automates how they move […]\nThe post Ambi Robotics, Pickle Robot integrate AI-powered automation to move packages appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
+    "categories": [
+      "commerce",
+      "tech"
+    ],
+    "relevance_score": 0.58,
+    "relevance_label": "high",
+    "title_en": "Ambi Robotics and Pickle Robot Integrate AI Systems to Fully Automate Package Movement for Retail and Logistics",
+    "summary_ko": "Ambi Robotics와 Pickle Robot은 각자의 로봇 시스템을 통합해 패키지 이동을 완전 자동화했다고 발표했다. 이번 통합은 Fortune 500 소매 및 물류 운영사들의 수요에 응한 결과이며, AI 기반 자동화로 전체 패키지 처리 프로세스를 완전히 자율화했다. 두 기업의 협력은 물류 자동화 시장에서 AI 로보틱스 통합 솔루션의 새로운 기준을 제시하고 있다.",
+    "summary_en": "Ambi Robotics and Pickle Robot have integrated their respective robotic systems to fully automate package movement using AI, responding to demand from Fortune 500 retail and logistics operators. The combined solution achieves full end-to-end automation of package handling processes. This partnership establishes a new benchmark for AI-powered robotics integration in the logistics automation market.",
+    "so_what_ko": "LG D2C는 물류 및 풀필먼트 효율화를 위해 Ambi Robotics·Pickle Robot과 같은 AI 로보틱스 통합 솔루션 도입을 공급망 자동화 전략의 일환으로 검토할 수 있다.",
+    "so_what_en": "LG D2C should monitor AI-powered robotics integration solutions like those from Ambi Robotics and Pickle Robot as potential investments to automate fulfillment and logistics operations at scale.",
+    "key_points": [
+      "Ambi Robotics and Pickle Robot have fully integrated their AI robotic systems to automate end-to-end package movement",
+      "The integration was driven by demand from Fortune 500 retail and logistics operators",
+      "Full automation of package handling reduces labor dependency and increases throughput in fulfillment operations"
+    ],
+    "tags": [
+      "robotics",
+      "logistics-automation",
+      "ai-fulfillment",
+      "supply-chain"
     ],
     "confidence": 0.8,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "AMER",
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Ambi Robotics",
+      "Pickle Robot"
+    ],
+    "one_line_insight_ko": "AI 로보틱스 시스템 간 통합이 물류 자동화의 완전한 엔드투엔드 구현을 현실화하며 대형 소매업체의 표준으로 자리잡고 있다.",
+    "one_line_insight_en": "Cross-system AI robotics integration is making fully autonomous end-to-end package handling a practical reality for large-scale retail and logistics operators.",
+    "ai_processed": true
+  },
+  {
+    "title": "Brookshire Brothers rolls out PromoAI for promotions and forecasting",
+    "link": "https://www.digitalcommerce360.com/2026/07/08/brookshire-brothers-promoai-promotions-forecasting/",
+    "date_published": "2026-07-08",
+    "description": "Texas-based grocer Brookshire Brothers, which operates a portfolio of food-, beverage- and tobacco-related brands, added PromoAI to its technology stack for promotions. Cognira, which owns PromoAI, announced that it had completed its implementation for Brookshire Brothers. The AI-powered solution will be used for forecasting, workflow automation and deep promotional performance analytics, according to the vendor. […]\nThe post Brookshire Brothers rolls out PromoAI for promotions and forecasting appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
+    "categories": [
+      "ai_commerce",
+      "commerce"
+    ],
+    "relevance_score": 0.75,
+    "relevance_label": "high",
+    "title_en": "Brookshire Brothers Deploys Cognira's PromoAI for AI-Powered Promotions and Forecasting",
+    "summary_ko": "텍사스 기반 식료품 체인 Brookshire Brothers가 Cognira의 PromoAI를 도입해 프로모션 예측, 워크플로 자동화, 판촉 성과 분석에 활용하기 시작했다. PromoAI는 AI 기반 솔루션으로, 복잡한 프로모션 전략의 효율화를 지원한다. Cognira는 Brookshire Brothers에 대한 구현을 완료했다고 공식 발표했다.",
+    "summary_en": "Texas-based grocer Brookshire Brothers has integrated Cognira's PromoAI into its technology stack to enhance promotional capabilities. The AI-powered solution will support forecasting, workflow automation, and deep promotional performance analytics. Cognira announced the completion of implementation for the retailer.",
+    "so_what_ko": "LG D2C 조직은 AI 기반 프로모션 예측 및 자동화 솔루션 도입을 검토하여 판촉 ROI를 높이고 운영 효율을 개선할 수 있다.",
+    "so_what_en": "LG D2C teams should evaluate AI-driven promotional forecasting tools to optimize campaign ROI and streamline workflow automation across product lines.",
+    "key_points": [
+      "Brookshire Brothers가 Cognira의 PromoAI를 공식 도입 완료",
+      "AI 솔루션은 프로모션 예측, 워크플로 자동화, 판촉 성과 분석을 포함",
+      "식료품 리테일 분야에서 AI 기반 프로모션 관리 도입이 가속화되는 추세"
+    ],
+    "tags": [
+      "promo-ai",
+      "retail-ai",
+      "forecasting",
+      "workflow-automation",
+      "promotional-analytics"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "AI_COMMERCE",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Brookshire Brothers",
+      "Cognira",
+      "PromoAI"
+    ],
+    "one_line_insight_ko": "AI 기반 프로모션 자동화는 리테일 업계 전반으로 확산되며, D2C 채널의 판촉 효율화 기회를 제공한다.",
+    "one_line_insight_en": "AI-powered promotional automation is expanding across retail, offering D2C organizations a clear path to higher campaign efficiency and ROI.",
+    "ai_processed": true
+  },
+  {
+    "title": "Once Unimaginable, Publishers Are Preparing to Opt Out of Google Search",
+    "link": "https://www.adweek.com/media/publishers-opt-out-google-search/",
+    "date_published": "2026-07-08",
+    "description": "The nuclear option is gaining traction as web traffic collapses and Google refuses to negotiate with content creators.",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
+    "categories": [
+      "ai_marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.72,
+    "relevance_label": "high",
+    "title_en": "Publishers Eye Opting Out of Google Search as AI Overviews Collapse Web Traffic",
+    "summary_ko": "구글의 AI 개요(AI Overviews) 기능 확대로 퍼블리셔들의 웹 트래픽이 급감하면서, 일부 콘텐츠 제작자들이 구글 검색에서 완전히 탈퇴하는 '핵 옵션'을 검토하기 시작했다. 구글이 콘텐츠 크리에이터와의 협상을 거부하면서 갈등이 심화되고 있다. 이 현상은 검색 기반 트래픽에 의존하는 디지털 마케팅 생태계 전반에 구조적 변화를 예고한다.",
+    "summary_en": "Publishers are increasingly considering opting out of Google Search entirely as web traffic collapses due to AI-generated search summaries. Google's refusal to negotiate with content creators has accelerated this trend toward what some are calling the 'nuclear option.' This shift signals a structural disruption to the search-driven traffic model that has underpinned digital marketing for decades.",
+    "so_what_ko": "LG D2C는 구글 검색 트래픽 의존도를 재평가하고, SEO 전략을 다각화하며 자사 채널(owned media) 강화에 집중해야 한다.",
+    "so_what_en": "LG D2C should reassess reliance on Google search traffic and accelerate owned-media and direct engagement strategies to reduce exposure to AI-driven traffic erosion.",
+    "key_points": [
+      "구글 AI Overviews로 인해 퍼블리셔 웹 트래픽이 급감",
+      "일부 퍼블리셔들이 구글 검색 인덱싱 탈퇴라는 극단적 선택을 고려",
+      "구글이 콘텐츠 크리에이터와의 협상을 거부하며 생태계 갈등 심화",
+      "검색 기반 디지털 마케팅 모델 전반에 구조적 위협 대두"
+    ],
+    "tags": [
+      "google-search",
+      "ai-overviews",
+      "publisher-traffic",
+      "seo-disruption",
+      "owned-media"
+    ],
+    "confidence": 0.65,
+    "strategic_theme": "PLATFORM_ECOSYSTEM",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "Google",
+      "AI Overviews"
+    ],
+    "one_line_insight_ko": "구글 AI 검색의 확산이 기존 SEO 기반 트래픽 모델을 붕괴시키며, D2C 브랜드의 자사 채널 강화가 생존 전략으로 부상하고 있다.",
+    "one_line_insight_en": "Google's AI search expansion is dismantling the traditional SEO traffic model, making owned-channel investment a critical survival strategy for D2C brands.",
+    "ai_processed": true
+  },
+  {
+    "title": "Inflation-Wary Parents Turn to AI to Thrift for Back-to-School Deals",
+    "link": "https://www.adweek.com/brand-marketing/inflation-wary-parents-turn-to-ai-to-thrift-for-back-to-school-deals/",
+    "date_published": "2026-07-08",
+    "description": "More than half of consumers will use AI to help them with back-to-school shopping this year",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
+    "categories": [
+      "ai_marketing",
+      "agentic_commerce"
+    ],
+    "relevance_score": 0.88,
+    "relevance_label": "high",
+    "title_en": "Inflation-Conscious Parents Use AI to Find Back-to-School Deals, Reshaping Shopping Behavior",
+    "summary_ko": "인플레이션 압박을 받는 부모 소비자 중 절반 이상이 올해 신학기 쇼핑에 AI를 활용할 것으로 조사됐다. AI가 할인 상품 탐색, 가격 비교 등 실질적인 쇼핑 보조 도구로 자리잡고 있다. 이는 AI 기반 쇼핑 에이전트가 소비자 구매 여정에 깊숙이 침투하고 있음을 보여주는 신호다.",
+    "summary_en": "More than half of consumers plan to use AI to assist with back-to-school shopping this year, driven by inflation concerns. AI is emerging as a practical tool for deal-hunting, price comparison, and budget management among cost-conscious shoppers. This trend signals the rapid integration of AI shopping assistants into mainstream consumer purchasing behavior.",
+    "so_what_ko": "LG D2C는 AI 쇼핑 에이전트가 소비자 구매 결정에 미치는 영향력을 인식하고, AI 기반 가격·프로모션 전략을 최적화해 AI 추천 결과에 노출될 수 있도록 해야 한다.",
+    "so_what_en": "LG D2C must optimize pricing and promotional strategies to ensure visibility within AI-powered shopping tools, as AI agents increasingly influence consumer purchase decisions.",
+    "key_points": [
+      "소비자의 50% 이상이 신학기 쇼핑에 AI 활용 계획",
+      "인플레이션이 AI 쇼핑 어시스턴트 수요를 가속화하는 핵심 동인",
+      "AI가 할인 탐색 및 가격 비교 등 실용적 구매 도구로 주류화",
+      "AI 에이전트 기반 소비자 구매 여정이 빠르게 확산 중"
+    ],
+    "tags": [
+      "ai-shopping",
+      "back-to-school",
+      "consumer-behavior",
+      "agentic-commerce",
+      "price-comparison"
+    ],
+    "confidence": 0.72,
+    "strategic_theme": "AGENTIC_COMMERCE",
+    "regions": [
+      "AMER",
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Adweek"
+    ],
+    "one_line_insight_ko": "AI 쇼핑 에이전트가 소비자 구매 결정의 핵심 채널로 부상함에 따라, D2C 브랜드는 AI 가시성 확보를 새로운 마케팅 경쟁력으로 인식해야 한다.",
+    "one_line_insight_en": "As AI shopping agents become a primary consumer decision-making channel, D2C brands must treat AI visibility as a core competitive marketing priority.",
+    "ai_processed": true
+  },
+  {
+    "title": "Kohl’s zeroes in on Nike for back-to-school marketing",
+    "link": "https://www.modernretail.co/marketing/kohls-zeroes-in-on-nike-for-back-to-school-marketing/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-07-08",
+    "description": "Kohl's is \"leaning heavily\" into Nike as part of its new back-to-school campaign, executives shared. The investment includes a broader assortment, as well as Nike-themed tunnel-walk installations in stores.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
+    "categories": [
+      "marketing",
+      "commerce"
+    ],
+    "relevance_score": 0.42,
+    "relevance_label": "high",
+    "title_en": "Kohl's Bets on Nike Partnership with In-Store Activations for Back-to-School Season",
+    "summary_ko": "콜스(Kohl's)는 신학기 마케팅 캠페인의 핵심 전략으로 나이키(Nike) 파트너십을 전면에 내세우며 제품 구색 확대와 매장 내 나이키 테마 터널워크 설치를 진행하고 있다. 경영진은 나이키에 '강하게 집중(leaning heavily)'하고 있다고 밝혔다. 이는 특정 브랜드 파트너십을 중심으로 시즌 마케팅을 집중하는 리테일 전략의 일환이다.",
+    "summary_en": "Kohl's is centering its back-to-school marketing campaign on a deep partnership with Nike, including expanded product assortment and Nike-themed tunnel-walk installations in stores. Executives described the approach as 'leaning heavily' into the Nike brand. The strategy reflects a broader retail trend of anchoring seasonal campaigns around high-affinity brand partnerships.",
+    "so_what_ko": "LG D2C는 시즌 마케팅에서 전략적 브랜드 파트너십과 오프라인 체험형 활성화를 결합한 방식이 소비자 참여도를 높일 수 있음을 참고할 수 있다.",
+    "so_what_en": "LG D2C can draw lessons from Kohl's approach by combining strategic brand partnerships with immersive in-store or channel-specific activations to drive seasonal engagement.",
+    "key_points": [
+      "콜스가 신학기 캠페인에서 나이키 파트너십을 핵심 축으로 설정",
+      "나이키 테마 매장 내 터널워크 설치 등 체험형 마케팅 활성화",
+      "특정 브랜드 집중 전략으로 시즌 마케팅 차별화 시도"
+    ],
+    "tags": [
+      "brand-partnership",
+      "back-to-school",
+      "retail-marketing",
+      "in-store-activation",
+      "seasonal-campaign"
+    ],
+    "confidence": 0.72,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
     "regions": [
       "AMER"
     ],
     "business_impact": "LOW",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "Resideo Technologies",
-      "ADI Global Distribution"
+      "Kohl's",
+      "Nike"
     ],
-    "one_line_insight_ko": "Resideo의 ADI 분사는 B2B 유통 시장 재편 신호이나 LG D2C에 대한 직접적 영향은 미미하다.",
-    "one_line_insight_en": "Resideo's ADI spinoff signals B2B distribution market restructuring but has minimal direct impact on LG D2C operations.",
+    "one_line_insight_ko": "리테일러의 특정 브랜드 집중 파트너십 전략은 시즌 마케팅에서 차별화된 소비자 경험을 만드는 효과적인 방법이 될 수 있다.",
+    "one_line_insight_en": "Anchoring seasonal campaigns around a single high-affinity brand partnership can create differentiated consumer experiences and drive retail traffic.",
     "ai_processed": true
   },
   {
-    "title": "Marketing’s data breakdown: H1 by the numbers",
-    "link": "https://www.marketingdive.com/news/marketings-data-breakdown-h1-by-the-numbers/819958/",
-    "date_published": "2026-07-07",
-    "description": "Artificial intelligence continues to demand significant investments this year, but the payoff for marketers is still unclear.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
-    "categories": [
-      "marketing",
-      "ai_marketing"
-    ],
-    "relevance_score": 0.75,
-    "relevance_label": "high",
-    "title_en": "Marketing's H1 2026 Data Breakdown: AI Investment Surges but ROI Remains Unclear",
-    "summary_ko": "2026년 상반기 마케팅 데이터 분석에 따르면, 인공지능에 대한 투자가 지속적으로 증가하고 있다. 그러나 마케터들 사이에서 AI 투자의 실질적 성과와 ROI는 아직 불분명한 상태다. AI는 여전히 마케팅 업계에서 가장 중요한 화두이지만 효과 측정의 어려움이 지속되고 있다.",
-    "summary_en": "Marketing's H1 2026 data shows that artificial intelligence continues to command significant investment across the industry. However, the actual payoff and ROI for marketers investing in AI remains unclear and difficult to quantify. AI is the dominant theme in marketing this year, yet measuring its effectiveness poses an ongoing challenge.",
-    "so_what_ko": "LG D2C는 AI 마케팅 투자 시 명확한 KPI와 ROI 측정 프레임워크를 사전에 수립해야 하며, 업계 전반의 성과 불투명성을 감안해 단계적이고 검증 가능한 AI 도입 전략을 취해야 한다.",
-    "so_what_en": "LG D2C must establish clear KPIs and ROI measurement frameworks before scaling AI marketing investments, adopting a phased and verifiable approach given industry-wide uncertainty around AI payoff.",
-    "key_points": [
-      "2026년 상반기 AI 마케팅 투자 지속 증가",
-      "AI 투자 대비 실질 성과(ROI) 측정이 여전히 불명확",
-      "AI는 마케팅 업계 최대 투자 우선순위로 자리잡음"
-    ],
-    "tags": [
-      "ai-marketing",
-      "roi-measurement",
-      "marketing-trends",
-      "h1-2026",
-      "ai-investment"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Marketing Dive"
-    ],
-    "one_line_insight_ko": "AI 마케팅 투자는 증가하고 있지만 ROI 불확실성이 크므로, 성과 측정 체계 구축이 선결 과제다.",
-    "one_line_insight_en": "As AI marketing investment grows with unclear returns, building a robust ROI measurement framework is the critical first step for D2C marketers.",
-    "ai_processed": true
-  },
-  {
-    "title": "The best brand campaigns of H1 2026 sold honesty. Are consumers buying?",
-    "link": "https://www.marketingdive.com/news/best-brand-campaigns-h1-2026-sold-honesty-consumers-buying/819960/",
-    "date_published": "2026-07-07",
-    "description": "As fake news, fake feeds and fake AI proliferate, Coca-Cola, Dove, Anthropic and other brands tried to leave a real mark in the first half.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
-    "categories": [
-      "marketing",
-      "ai_marketing"
-    ],
-    "relevance_score": 0.7,
-    "relevance_label": "high",
-    "title_en": "H1 2026's Best Brand Campaigns Bet on Honesty Amid AI and Misinformation Fatigue",
-    "summary_ko": "2026년 상반기 최고의 브랜드 캠페인들은 공통적으로 '진정성'과 '솔직함'을 핵심 메시지로 내세웠다. 코카콜라, 도브, Anthropic 등 주요 브랜드들이 가짜 뉴스, 허위 피드, AI 생성 콘텐츠가 범람하는 환경에서 진실성으로 소비자 신뢰를 구축하려 했다. 그러나 소비자들이 이러한 진정성 마케팅을 실제로 수용하고 있는지는 여전히 의문이다.",
-    "summary_en": "The best brand campaigns of H1 2026 shared a common theme of honesty and authenticity as their core message. Major brands including Coca-Cola, Dove, and Anthropic sought to build consumer trust through genuine communication amid a proliferation of fake news, fabricated social feeds, and AI-generated content. However, whether consumers are actually responding positively to this authenticity-driven marketing approach remains an open question.",
-    "so_what_ko": "LG D2C는 AI 생성 콘텐츠 남발로 소비자 신뢰가 하락하는 환경에서, 진정성 있는 브랜드 스토리텔링과 투명한 커뮤니케이션 전략으로 차별화를 도모해야 한다.",
-    "so_what_en": "LG D2C should differentiate by doubling down on authentic brand storytelling and transparent communication, as consumer trust erodes in an era of rampant AI-generated and fake content.",
-    "key_points": [
-      "2026 상반기 주요 캠페인의 공통 테마: 진정성과 솔직함",
-      "Coca-Cola, Dove, Anthropic 등이 대표 사례로 부상",
-      "가짜 뉴스·AI 콘텐츠 범람 속 브랜드 신뢰 구축이 핵심 과제",
-      "소비자의 진정성 마케팅 수용 여부는 아직 불확실"
-    ],
-    "tags": [
-      "brand-authenticity",
-      "ai-content",
-      "consumer-trust",
-      "brand-campaigns",
-      "honest-marketing"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Coca-Cola",
-      "Dove",
-      "Anthropic",
-      "Marketing Dive"
-    ],
-    "one_line_insight_ko": "AI 콘텐츠 홍수 속에서 진정성 기반 브랜드 캠페인이 차별화 전략으로 부상하고 있다.",
-    "one_line_insight_en": "In an era of AI-generated content overload, authenticity-driven brand campaigns are emerging as the most powerful differentiator for consumer trust.",
-    "ai_processed": true
-  },
-  {
-    "title": "Brands Briefing: Salomon is working to double its US store count by 2028",
-    "link": "https://www.modernretail.co/operations/brands-briefing-salomon-is-working-to-double-its-us-store-count-by-2028/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-07-07",
-    "description": "Sporting-goods company Salomon is going \"city by city\" as it looks to grow its retail presence in the U.S., executives say. The brand is considering opening stores in Boston, San Francisco and Miami.",
-    "source_id": "modern_retail",
-    "source_name": "Modern Retail",
-    "source_url": "https://www.modernretail.co/feed/",
-    "categories": [
-      "commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.6,
-    "relevance_label": "high",
-    "title_en": "Salomon Plans to Double US Store Count by 2028 with City-by-City Expansion Strategy",
-    "summary_ko": "스포츠용품 브랜드 살로몬이 2028년까지 미국 내 매장 수를 두 배로 늘리는 목표를 세우고 도시별 확장 전략을 추진하고 있다. 보스턴, 샌프란시스코, 마이애미 등 주요 도시에 신규 매장 오픈을 검토 중이다. 이는 살로몬의 미국 시장 내 D2C 오프라인 리테일 강화 전략의 일환이다.",
-    "summary_en": "Sporting-goods brand Salomon is pursuing a city-by-city expansion strategy aimed at doubling its US store count by 2028. The brand is considering opening new stores in key cities including Boston, San Francisco, and Miami. This initiative represents a deliberate push to strengthen Salomon's direct-to-consumer physical retail presence in the US market.",
-    "so_what_ko": "살로몬의 도시 단위 오프라인 D2C 확장 전략은 LG에게도 물리적 브랜드 경험 공간을 전략적으로 확대하는 것이 온라인 D2C 성장을 보완하는 유효한 방법임을 시사한다.",
-    "so_what_en": "Salomon's city-by-city D2C physical retail expansion illustrates that strategically growing branded store presence can effectively complement and reinforce online D2C growth for consumer brands like LG.",
-    "key_points": [
-      "살로몬, 2028년까지 미국 매장 수 2배 확대 목표",
-      "보스턴, 샌프란시스코, 마이애미 등 주요 도시 중심 확장",
-      "도시별(city-by-city) 단계적 접근 방식 채택",
-      "오프라인 D2C 리테일 강화가 브랜드 전략의 핵심"
-    ],
-    "tags": [
-      "d2c-retail",
-      "physical-stores",
-      "brand-expansion",
-      "omnichannel",
-      "sporting-goods"
-    ],
-    "confidence": 0.75,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Salomon",
-      "Modern Retail"
-    ],
-    "one_line_insight_ko": "살로몬의 도시별 오프라인 매장 확장은 D2C 브랜드에게 물리적 고객 접점이 디지털 성장의 강력한 보완재임을 보여준다.",
-    "one_line_insight_en": "Salomon's city-by-city physical retail expansion demonstrates that branded stores remain a powerful complement to digital D2C growth strategies.",
-    "ai_processed": true
-  },
-  {
-    "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
-    "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-    "date_published": "2026-07-07",
-    "description": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "title": "Meta’s Muse Image Might be Just What SMBs Need",
+    "link": "https://aibusiness.com/generative-ai/meta-s-muse-image-might-what-smbs-need",
+    "date_published": "2026-07-08",
+    "description": "Meta’s new AI imaging model enables users to create competitive ad content on the social media giant’s platforms.",
+    "source_id": "ai_business",
+    "source_name": "AI Business",
+    "source_url": "https://aibusiness.com/rss.xml",
     "categories": [
       "ai_marketing",
-      "commerce"
+      "marketing"
     ],
-    "relevance_score": 0.72,
+    "relevance_score": 0.82,
     "relevance_label": "high",
-    "title_en": "Meta Launches Muse Image AI Generator Amid User Backlash Over Photo Usage",
-    "summary_ko": "메타가 광고, 인테리어 데코레이션, 크리에이터 콘텐츠 등 다양한 용도를 지원하는 새로운 AI 이미지 생성 모델 'Muse Image'를 출시했다. 그러나 사용자들은 자신의 사진이 모델 학습에 활용된 것에 대해 즉각적인 반발을 나타내고 있다. 이번 출시는 메타의 AI 생성 콘텐츠 생태계 확장 전략의 일환으로 광고 크리에이티브 제작에도 활용될 것으로 예상된다.",
-    "summary_en": "Meta has launched Muse Image, a new AI image-generating model designed for use cases including advertising, home decorating, and creator-based opportunities. Users have quickly pushed back against the product, raising concerns over how their personal photos may have been used to train the model. The launch signals Meta's continued expansion into AI-generated content tools with direct advertising applications.",
-    "so_what_ko": "LG D2C 조직은 Meta Muse Image를 광고 크리에이티브 자동화에 활용할 수 있는 기회를 검토하되, 사용자 데이터 프라이버시 이슈와 브랜드 안전성 리스크를 면밀히 모니터링해야 한다.",
-    "so_what_en": "LG D2C teams should evaluate Meta Muse Image for automated ad creative generation while closely monitoring privacy concerns and brand safety risks that could affect consumer trust.",
+    "title_en": "Meta's Muse Image AI Model Empowers SMBs to Create Competitive Ad Content",
+    "summary_ko": "메타(Meta)가 중소기업(SMB)을 겨냥한 새로운 AI 이미지 생성 모델 'Muse Image'를 출시하며, 자사 플랫폼 내에서 경쟁력 있는 광고 콘텐츠를 손쉽게 제작할 수 있도록 지원한다. 이 모델은 광고 제작 비용과 진입 장벽을 낮춰 소규모 사업자의 마케팅 역량을 강화하는 것이 목표다. 메타 플랫폼 내 AI 광고 도구 생태계가 빠르게 확장되고 있다.",
+    "summary_en": "Meta has launched Muse Image, a new AI imaging model designed to help small and medium-sized businesses create competitive advertising content directly on its platforms. The tool aims to lower the cost and complexity of ad creative production for SMBs. This release reflects Meta's broader strategy of embedding AI-powered marketing tools within its advertising ecosystem.",
+    "so_what_ko": "LG D2C는 Meta Muse Image와 같은 AI 광고 크리에이티브 도구를 활용해 소셜 미디어 광고의 제작 속도와 비용 효율을 높이고, 다양한 타깃 세그먼트에 맞춘 개인화 광고 콘텐츠 생산을 가속화할 수 있다.",
+    "so_what_en": "LG D2C should explore Meta's Muse Image and similar AI creative tools to accelerate ad content production, reduce costs, and enable more personalized campaign assets across social media channels.",
     "key_points": [
-      "Meta's Muse Image targets advertising, decorating, and creator content use cases",
-      "Users are immediately pushing back over concerns about their photos being used for training",
-      "The tool represents a direct entry point for AI-generated advertising creatives within Meta's ecosystem"
+      "메타가 SMB 대상 AI 이미지 생성 모델 'Muse Image' 출시",
+      "광고 크리에이티브 제작의 비용 및 진입 장벽을 크게 낮춤",
+      "메타 플랫폼 내 AI 마케팅 도구 생태계의 빠른 확장",
+      "중소기업의 대형 브랜드 수준 광고 경쟁력 확보 가능성"
     ],
     "tags": [
+      "meta-muse",
       "ai-image-generation",
-      "meta",
+      "smb-marketing",
       "ad-creative",
-      "user-privacy",
       "generative-ai"
     ],
-    "confidence": 0.65,
+    "confidence": 0.75,
     "strategic_theme": "AI_MARKETING",
     "regions": [
       "GLOBAL"
@@ -504,198 +699,8 @@
       "Meta",
       "Muse Image"
     ],
-    "one_line_insight_ko": "메타의 AI 이미지 생성 도구는 광고 크리에이티브 자동화의 새로운 가능성을 열지만, 프라이버시 논란이 브랜드 활용의 걸림돌이 될 수 있다.",
-    "one_line_insight_en": "Meta's Muse Image opens new possibilities for ad creative automation, but privacy backlash may complicate brand adoption.",
-    "ai_processed": true
-  },
-  {
-    "title": "Criteo is subject to a takeover bid, further proving private equity’s continued interest in ad tech",
-    "link": "https://digiday.com/marketing/criteo-is-subject-to-a-takeover-bid-further-proving-private-equitys-continued-interest-in-ad-tech/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-07-08",
-    "description": "Vista Equity and Quinti Capital place a 50% premium on stock, raising questions over where the PE firms see value.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
-    "categories": [
-      "ai_marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.65,
-    "relevance_label": "high",
-    "title_en": "Criteo Receives Takeover Bid from Vista Equity and Quinti Capital at 50% Stock Premium",
-    "summary_ko": "광고 기술 기업 Criteo가 Vista Equity와 Quinti Capital로부터 주가 대비 50% 프리미엄의 인수 제안을 받았다. 이번 인수 시도는 사모펀드(PE)가 애드테크 분야에서 지속적으로 가치를 발견하고 있음을 보여주는 사례로 평가된다. 업계에서는 PE 기업들이 퍼포먼스 마케팅 데이터 자산과 리타게팅 기술에서 장기적 가치를 보고 있다는 분석이 나온다.",
-    "summary_en": "Criteo, a major ad tech company, has received a takeover bid from Vista Equity and Quinti Capital at a 50% premium over its stock price. The bid underscores private equity's sustained interest in ad tech, raising questions about where these firms see long-term value in the sector. Industry observers suggest PE firms are attracted to Criteo's performance marketing data assets and retargeting technology.",
-    "so_what_ko": "Criteo에 대한 PE의 인수 관심은 퍼포먼스 마케팅 데이터와 리타게팅 기술의 전략적 가치를 재확인하는 신호로, LG D2C는 파트너사 생태계 변화가 광고 운용 전략에 미치는 영향을 주시해야 한다.",
-    "so_what_en": "LG D2C teams should monitor how a potential Criteo ownership change could affect retargeting capabilities and ad tech partnerships that underpin performance marketing campaigns.",
-    "key_points": [
-      "Vista Equity and Quinti Capital have placed a 50% premium bid on Criteo's stock",
-      "The bid reflects continued private equity confidence in ad tech valuations",
-      "Criteo's core value likely lies in its performance marketing data assets and retargeting infrastructure"
-    ],
-    "tags": [
-      "adtech",
-      "criteo",
-      "private-equity",
-      "retargeting",
-      "performance-marketing"
-    ],
-    "confidence": 0.75,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "GLOBAL",
-      "EMEA",
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Criteo",
-      "Vista Equity",
-      "Quinti Capital"
-    ],
-    "one_line_insight_ko": "Criteo 인수 경쟁은 퍼포먼스 마케팅 데이터 자산이 여전히 높은 전략적 가치를 지닌다는 시장의 평가를 반영한다.",
-    "one_line_insight_en": "The Criteo takeover bid signals that performance marketing data assets remain highly valued strategic commodities in the ad tech landscape.",
-    "ai_processed": true
-  },
-  {
-    "title": "[AINews] Lilian Weng summarizes 35 papers on Harness Engineering for RSI",
-    "link": "https://www.latent.space/p/ainews-lilian-weng-summarizes-35",
-    "date_published": "2026-07-08",
-    "description": "a quiet day lets us read some condensed insight",
-    "source_id": "latent_space",
-    "source_name": "Latent Space (The AI Index)",
-    "source_url": "https://www.latent.space/feed",
-    "categories": [
-      "tech"
-    ],
-    "relevance_score": 0.2,
-    "relevance_label": "high",
-    "title_en": "Lilian Weng Publishes Condensed Summary of 35 Papers on Harness Engineering for RSI",
-    "summary_ko": "OpenAI의 Lilian Weng이 RSI(Recursive Self-Improvement, 재귀적 자기개선)를 위한 하네스 엔지니어링 관련 논문 35편을 요약한 자료를 공개했다. 이 내용은 Latent Space의 AINews 뉴스레터를 통해 소개되었으며, AI 연구자들에게 심층 기술 인사이트를 압축 제공한다. 해당 주제는 AI 시스템의 자율적 능력 향상과 관련된 고도의 기술적 연구 분야로, 상업적 D2C 활용보다는 기초 연구 영역에 해당한다.",
-    "summary_en": "OpenAI researcher Lilian Weng has released a condensed summary of 35 research papers focused on Harness Engineering for Recursive Self-Improvement (RSI) in AI systems. The summary was shared via Latent Space's AINews newsletter as a resource for AI researchers and engineers. This highly technical topic pertains to foundational AI capability research rather than direct commercial or marketing applications.",
-    "so_what_ko": "이 기사는 고도의 기초 AI 연구에 관한 내용으로 LG D2C의 단기 비즈니스 전략과의 직접적 연관성은 낮으나, AI 능력의 장기적 발전 방향을 이해하는 참고 자료로 활용할 수 있다.",
-    "so_what_en": "While not directly actionable for D2C operations, this research signals the long-term trajectory of self-improving AI systems that could eventually reshape how AI tools are deployed in commercial contexts.",
-    "key_points": [
-      "Lilian Weng summarized 35 papers on Harness Engineering for Recursive Self-Improvement (RSI)",
-      "Published via Latent Space AINews, targeting AI researchers and engineers",
-      "Highly technical foundational research with limited near-term D2C or marketing relevance"
-    ],
-    "tags": [
-      "ai-research",
-      "recursive-self-improvement",
-      "lilian-weng",
-      "ai-engineering",
-      "foundational-ai"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "EMERGING_TECH",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Lilian Weng",
-      "Latent Space",
-      "OpenAI"
-    ],
-    "one_line_insight_ko": "RSI 하네스 엔지니어링 연구는 현재 D2C 실무와 거리가 있으나 AI 자율 진화의 미래 방향성을 가늠하는 지표가 된다.",
-    "one_line_insight_en": "RSI Harness Engineering research is a distant but directionally important signal for how autonomous AI capabilities will evolve over time.",
-    "ai_processed": true
-  },
-  {
-    "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
-    "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
-    "date_published": "2026-07-08",
-    "description": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "categories": [
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.5,
-    "relevance_label": "high",
-    "title_en": "French AI Startup ZML Releases Free Inference Optimization Software Backed by Yann LeCun",
-    "summary_ko": "프랑스 AI 스타트업 ZML이 다양한 AI 칩에서의 추론 속도를 향상시키고 비용을 절감하는 무료 소프트웨어 'ZML/LLMD'를 출시했다. 이 제품은 튜링상 수상자인 Yann LeCun의 지지를 받고 있어 업계의 주목을 받고 있다. 해당 소프트웨어는 특정 칩에 종속되지 않고 다양한 AI 하드웨어에서 작동해 AI 운용 비용 절감에 기여할 것으로 기대된다.",
-    "summary_en": "French AI startup ZML, endorsed by Turing Award winner Yann LeCun, has released ZML/LLMD, a free software product designed to accelerate AI inference across multiple chip architectures. The tool aims to reduce the cost of running AI workloads by improving efficiency across diverse hardware environments. Its chip-agnostic design could lower the barrier for businesses looking to scale AI deployments without being locked into specific hardware vendors.",
-    "so_what_ko": "ZML/LLMD와 같은 추론 최적화 도구는 LG D2C가 AI 기반 개인화, 추천, 마케팅 자동화 솔루션을 더 낮은 비용으로 확장하는 데 활용할 수 있는 인프라 혁신 사례로 주목할 필요가 있다.",
-    "so_what_en": "LG D2C teams should track inference optimization tools like ZML/LLMD as they could significantly lower the infrastructure cost of scaling AI-powered personalization and marketing automation.",
-    "key_points": [
-      "ZML releases ZML/LLMD, a free chip-agnostic AI inference acceleration software",
-      "Endorsed by Turing Award winner Yann LeCun, adding significant credibility",
-      "Targets cost reduction for AI workloads across heterogeneous hardware environments"
-    ],
-    "tags": [
-      "ai-inference",
-      "ai-chips",
-      "cost-optimization",
-      "zml",
-      "open-source-ai"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "EMERGING_TECH",
-    "regions": [
-      "GLOBAL",
-      "EMEA"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "ZML",
-      "ZML/LLMD",
-      "Yann LeCun"
-    ],
-    "one_line_insight_ko": "칩 종속성 없는 AI 추론 최적화 소프트웨어의 등장은 AI 운용 비용 장벽을 낮춰 D2C 규모의 AI 확장을 가속화할 수 있다.",
-    "one_line_insight_en": "Chip-agnostic inference optimization software like ZML/LLMD can dramatically lower the cost barrier for scaling AI across D2C operations.",
-    "ai_processed": true
-  },
-  {
-    "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-    "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
-    "date_published": "2026-07-08",
-    "description": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "categories": [
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.45,
-    "relevance_label": "high",
-    "title_en": "SambaNova Raises $1B at $11B Valuation Just 5 Months After Previous Mega Round",
-    "summary_ko": "AI 반도체 기업 SambaNova가 약 5개월 만에 Series F 라운드에서 110억 달러 기업가치로 10억 달러를 추가 조달했다. 이전에 인텔이 약 16억 달러에 SambaNova를 인수하려 했다는 보도가 있었으나, 독립적인 대규모 투자 유치로 방향을 전환했다. 이번 투자는 AI 칩 분야에 대한 시장의 지속적인 높은 관심과 자본 유입을 보여주는 사례다.",
-    "summary_en": "AI chip maker SambaNova has raised $1 billion at an $11 billion valuation in a Series F first close, just five months after its previous mega funding round. The company previously attracted acquisition interest from Intel at a rumored price of approximately $1.6 billion, but has instead opted to continue as an independent entity with fresh capital. The raise reflects sustained investor enthusiasm and capital flow into the AI chip infrastructure market.",
-    "so_what_ko": "SambaNova의 연속적인 대규모 투자 유치는 AI 추론 인프라 시장의 경쟁이 심화되고 있음을 의미하며, LG는 AI 칩 공급망 다변화 및 비용 효율적인 AI 인프라 파트너십 전략을 재검토할 필요가 있다.",
-    "so_what_en": "SambaNova's rapid successive fundraising signals intensifying competition in AI inference infrastructure, prompting LG D2C to reassess AI chip sourcing strategies and cost-efficient infrastructure partnerships.",
-    "key_points": [
-      "SambaNova raises $1B at $11B valuation only 5 months after its previous mega round",
-      "Intel was previously rumored to be pursuing SambaNova for approximately $1.6B",
-      "Signals continued strong investor conviction in dedicated AI chip infrastructure companies"
-    ],
-    "tags": [
-      "ai-chips",
-      "sambanova",
-      "venture-funding",
-      "ai-infrastructure",
-      "semiconductor"
-    ],
-    "confidence": 0.75,
-    "strategic_theme": "EMERGING_TECH",
-    "regions": [
-      "GLOBAL",
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "SambaNova",
-      "Intel"
-    ],
-    "one_line_insight_ko": "SambaNova의 연속 대규모 투자는 AI 칩 인프라 경쟁이 단기간에 완화되지 않을 것임을 시사한다.",
-    "one_line_insight_en": "SambaNova's back-to-back mega rounds confirm that the AI chip infrastructure race remains fiercely competitive with no near-term slowdown in sight.",
+    "one_line_insight_ko": "메타의 Muse Image는 AI 광고 크리에이티브 생산을 민주화하며, D2C 브랜드가 소셜 광고에서 더 빠르고 저렴하게 개인화 콘텐츠를 제공할 수 있는 기회를 열어준다.",
+    "one_line_insight_en": "Meta's Muse Image democratizes AI ad creative production, giving D2C brands a faster and more cost-effective path to personalized social advertising at scale.",
     "ai_processed": true
   }
 ]
