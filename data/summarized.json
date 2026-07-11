@@ -1,450 +1,37 @@
 [
   {
-    "title": "AI Marketing Looks Familiar",
-    "link": "https://www.practicalecommerce.com/ai-marketing-looks-familiar",
-    "date_published": "2026-07-09",
-    "description": "AI marketing, while new, relies on tried-and-true techniques. The tools are changing, but not the challenges.\nThe post AI Marketing Looks Familiar appeared first on Practical Ecommerce.",
-    "source_id": "practical_ecommerce",
-    "source_name": "Practical Ecommerce",
-    "source_url": "https://www.practicalecommerce.com/feed",
-    "categories": [
-      "marketing",
-      "ai_marketing"
-    ],
-    "relevance_score": 0.72,
-    "relevance_label": "high",
-    "title_en": "AI Marketing Looks Familiar: New Tools, Same Fundamental Challenges",
-    "summary_ko": "AI 마케팅은 새로운 도구를 활용하지만, 그 기반은 검증된 전통적인 마케팅 기법에 의존한다. 도구는 변화하고 있지만 마케터가 직면하는 핵심 과제는 크게 달라지지 않았다. AI가 마케팅 실행 방식을 변화시키더라도 근본적인 전략적 사고의 중요성은 여전히 유효하다.",
-    "summary_en": "AI marketing, despite its novelty, continues to rely on time-tested marketing principles and techniques. While the tools available to marketers are rapidly evolving, the core challenges remain largely the same. The intersection of new AI capabilities and traditional marketing fundamentals defines the current landscape.",
-    "so_what_ko": "LG D2C 조직은 AI 마케팅 도구 도입 시 기존 마케팅 역량과 전략적 사고를 기반으로 접근해야 하며, 도구 변화에 휩쓸리지 않고 검증된 원칙 위에 AI를 통합하는 전략이 필요하다.",
-    "so_what_en": "LG D2C teams should integrate AI tools on top of proven marketing fundamentals rather than treating AI as a wholesale replacement, ensuring strategic continuity while gaining efficiency.",
-    "key_points": [
-      "AI marketing builds on traditional, proven marketing techniques rather than replacing them",
-      "The core challenges in marketing persist despite the introduction of new AI tools",
-      "Practitioners should balance technological adoption with foundational marketing expertise"
-    ],
-    "tags": [
-      "ai-marketing",
-      "digital-marketing",
-      "marketing-strategy",
-      "ecommerce"
-    ],
-    "confidence": 0.55,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Practical Ecommerce"
-    ],
-    "one_line_insight_ko": "AI 마케팅의 본질은 새로운 기술이 아닌 변하지 않는 마케팅 원칙에 있다.",
-    "one_line_insight_en": "AI marketing's true value lies in amplifying timeless marketing principles, not replacing them.",
-    "ai_processed": true
-  },
-  {
-    "title": "Platforms’ AI dilemma: scale without sameness",
-    "link": "https://digiday.com/marketing/platforms-ai-dilemma-scale-without-sameness/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "title": "How Aéropostale entertains Gen Alpha with a creator-led mini-series",
+    "link": "https://www.retaildive.com/news/aeropostale-gen-alpha-marketing-mini-series-intern-diaries/824934/",
     "date_published": "2026-07-10",
-    "description": "Using AI to create content risks a lot of it looking the same. But the platforms agree creativity will always come from humans.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
-    "categories": [
-      "marketing",
-      "ai_marketing"
-    ],
-    "relevance_score": 0.82,
-    "relevance_label": "high",
-    "title_en": "Platforms Face AI Dilemma: How to Scale Content Without Losing Creative Differentiation",
-    "summary_ko": "AI를 활용한 콘텐츠 대량 생성은 콘텐츠 획일화라는 심각한 위험을 초래할 수 있다. 주요 플랫폼들은 AI가 생산성을 높이는 도구이지만, 진정한 창의성은 여전히 인간에게서 나온다는 데 동의하고 있다. 브랜드와 플랫폼 모두 규모 확장과 창의적 독창성 사이의 균형을 찾는 것이 핵심 과제로 부상하고 있다.",
-    "summary_en": "The widespread use of AI for content creation risks producing homogeneous content that fails to differentiate brands. Major platforms acknowledge this tension but maintain that genuine creativity will always originate from humans. Balancing AI-driven scale with creative uniqueness has emerged as a defining challenge for brands and platforms alike.",
-    "so_what_ko": "LG D2C는 AI 기반 콘텐츠 자동화 도입 시 브랜드 고유의 창의적 정체성을 유지하기 위한 인간 중심 크리에이티브 전략을 병행해야 하며, 차별화된 브랜드 보이스 확보가 경쟁 우위의 핵심이 될 것이다.",
-    "so_what_en": "LG D2C must pair AI content scaling with strong human-led creative direction to avoid brand commoditization, making distinctive brand voice a key competitive differentiator.",
-    "key_points": [
-      "AI-generated content at scale risks creating homogeneous, undifferentiated brand messaging",
-      "Major platforms agree that human creativity remains essential even as AI handles execution",
-      "Brands must actively strategize to maintain creative distinctiveness in an AI-saturated content environment"
-    ],
-    "tags": [
-      "ai-content",
-      "creative-differentiation",
-      "platform-strategy",
-      "brand-identity",
-      "adtech"
-    ],
-    "confidence": 0.65,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "Digiday"
-    ],
-    "one_line_insight_ko": "AI 콘텐츠 대량 생산 시대에 창의적 차별화는 브랜드 생존의 핵심 과제다.",
-    "one_line_insight_en": "In the age of AI-scaled content, creative differentiation is becoming the defining competitive battleground for brands.",
-    "ai_processed": true
-  },
-  {
-    "title": "The Home Depot sees Hispanic market as a ‘huge growth opportunity’",
-    "link": "https://digiday.com/marketing/the-home-depot-sees-hispanic-market-as-a-huge-growth-opportunity/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-07-10",
-    "description": "While The Home Depot is not a sports equipment or sports apparel retailer, its consumer base has given it ample reason to develop a comprehensive retail media strategy around the World Cup.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
-    "categories": [
-      "marketing",
-      "commerce"
-    ],
-    "relevance_score": 0.48,
-    "relevance_label": "high",
-    "title_en": "Home Depot Bets on Hispanic Market as a Major Growth Opportunity Tied to World Cup Strategy",
-    "summary_ko": "홈디포는 히스패닉 시장을 주요 성장 기회로 보고 월드컵을 중심으로 한 종합적인 리테일 미디어 전략을 수립하고 있다. 스포츠 용품 브랜드가 아님에도 불구하고, 홈디포의 소비자 기반은 월드컵 연계 마케팅을 정당화할 충분한 근거를 제공한다. 특정 문화 집단을 타겟으로 한 세분화된 리테일 미디어 접근법이 브랜드 확장 전략의 핵심으로 부상하고 있다.",
-    "summary_en": "Home Depot is identifying the Hispanic market as a significant growth opportunity and building a comprehensive retail media strategy around the FIFA World Cup. Despite not being a sports retailer, the brand's consumer demographics provide a compelling rationale for World Cup-aligned marketing. This initiative highlights how retailers can leverage cultural moments and audience segmentation to drive targeted growth.",
-    "so_what_ko": "LG D2C는 특정 문화 커뮤니티나 라이프스타일 이벤트를 활용한 세분화 마케팅 전략을 통해 신규 고객층을 확보하고, 문화적 관련성을 갖춘 캠페인으로 브랜드 친밀도를 높일 수 있다.",
-    "so_what_en": "LG D2C can draw lessons from Home Depot's approach by identifying culturally relevant moments and under-tapped audience segments to deepen brand engagement and expand reach.",
-    "key_points": [
-      "Home Depot is leveraging the World Cup as a retail media opportunity despite not being a sports brand",
-      "The Hispanic consumer segment is identified as a high-growth priority for the retailer",
-      "Cultural moment marketing and audience segmentation are central to the retail media strategy"
-    ],
-    "tags": [
-      "retail-media",
-      "audience-segmentation",
-      "cultural-marketing",
-      "hispanic-market"
-    ],
-    "confidence": 0.65,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Home Depot",
-      "World Cup"
-    ],
-    "one_line_insight_ko": "홈디포의 월드컵 전략은 문화적 접점을 활용한 리테일 미디어가 비스포츠 브랜드에도 유효함을 보여준다.",
-    "one_line_insight_en": "Home Depot's World Cup play proves that cultural moment marketing can unlock new audience segments even for non-obvious category brands.",
-    "ai_processed": true
-  },
-  {
-    "title": "Hispanic shoppers and pro customers are key to The Home Depot’s World Cup retail media strategy",
-    "link": "https://www.modernretail.co/marketing/hispanic-shoppers-and-pro-customers-are-key-to-the-home-depots-world-cup-retail-media-strategy/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-07-10",
-    "description": "While The Home Depot is not a sports equipment or sports apparel retailer, its consumer base has given it ample reason to develop a comprehensive retail media strategy around the World Cup.",
-    "source_id": "modern_retail",
-    "source_name": "Modern Retail",
-    "source_url": "https://www.modernretail.co/feed/",
-    "categories": [
-      "commerce",
-      "marketing"
-    ],
-    "relevance_score": 0.45,
-    "relevance_label": "high",
-    "title_en": "Home Depot Targets Hispanic Shoppers and Pro Customers with World Cup Retail Media Strategy",
-    "summary_ko": "홈디포는 히스패닉 소비자와 전문 고객(프로 고객)을 핵심 타겟으로 한 월드컵 연계 리테일 미디어 전략을 전개하고 있다. 스포츠 관련 브랜드가 아닌 홈디포가 월드컵을 마케팅에 활용하는 것은 소비자 기반의 인구통계학적 구성에 기인한다. 이 전략은 D2C 및 리테일 미디어 관점에서 특정 고객 세그먼트를 겨냥한 문화적 마케팅의 실용적 사례를 제시한다.",
-    "summary_en": "Home Depot is centering its World Cup retail media strategy on two key segments: Hispanic shoppers and professional contractor customers. Although not a sports brand, the retailer's consumer demographics make World Cup-aligned campaigns strategically viable. The initiative serves as a practical example of how retailers can use cultural events to activate targeted D2C and retail media efforts.",
-    "so_what_ko": "LG D2C는 제품 카테고리와 직접 연관이 없는 문화적 이벤트라도 핵심 고객 세그먼트와의 연관성이 있다면 적극적으로 활용하는 리테일 미디어 전략을 검토할 필요가 있다.",
-    "so_what_en": "LG D2C should consider activating retail media campaigns around culturally resonant events for key customer segments, even when the product category connection is not immediately obvious.",
-    "key_points": [
-      "Hispanic shoppers and professional customers are the two primary segments in Home Depot's World Cup strategy",
-      "The strategy demonstrates how non-sports retailers can leverage major sporting events through audience relevance",
-      "Retail media is being used as a precision tool for cultural and demographic targeting"
-    ],
-    "tags": [
-      "retail-media",
-      "d2c",
-      "world-cup-marketing",
-      "hispanic-market",
-      "customer-segmentation"
-    ],
-    "confidence": 0.65,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Home Depot",
-      "Modern Retail",
-      "World Cup"
-    ],
-    "one_line_insight_ko": "홈디포의 사례는 리테일 미디어의 힘이 제품 카테고리보다 소비자 정체성과의 문화적 연결에 있음을 보여준다.",
-    "one_line_insight_en": "Home Depot's strategy reveals that retail media power comes from cultural consumer alignment, not just product category relevance.",
-    "ai_processed": true
-  },
-  {
-    "title": "Are grocers making smart investments in back-end AI?",
-    "link": "https://www.retaildive.com/news/grocers-ai-back-end-operations/824806/",
-    "date_published": "2026-07-09",
-    "description": "Retailers should lean into tech partnerships to alleviate operational pain in the short term, but they should also lay the rails for agentic operations, experts said.",
+    "description": "Marisa Thalberg, chief customer and marketing officer at parent Catalyst Brands, opens up about the “Intern Diaries” and a loyalty tie-up with J.C. Penney.",
     "source_id": "retail_dive",
     "source_name": "Retail Dive",
     "source_url": "https://www.retaildive.com/feeds/news/",
     "categories": [
-      "commerce",
-      "agentic_commerce",
-      "tech"
-    ],
-    "relevance_score": 0.85,
-    "relevance_label": "high",
-    "title_en": "Grocers Urged to Invest in Back-End AI While Laying Groundwork for Agentic Operations",
-    "summary_ko": "소매 식품업체들이 운영 효율화를 위해 백엔드 AI에 투자하고 있으나, 전문가들은 단기적 기술 파트너십과 함께 에이전틱 운영을 위한 장기적 인프라 구축을 병행해야 한다고 강조한다. 현재의 AI 투자는 운영상의 즉각적인 고통을 완화하는 데 초점이 맞춰져 있지만, 미래 경쟁력은 자율적 에이전트 기반 운영 체계에 달려 있다. 리테일러들은 기술 파트너십을 활용해 단기 성과를 거두면서도 에이전틱 커머스로의 전환을 위한 토대를 마련해야 한다.",
-    "summary_en": "Grocery retailers are investing in back-end AI to address immediate operational inefficiencies, but experts emphasize the need to simultaneously build infrastructure for agentic operations. Current AI deployments focus on alleviating short-term pain points through technology partnerships. However, long-term competitiveness will depend on transitioning to autonomous, agent-driven operational models.",
-    "so_what_ko": "LG D2C는 단기적 AI 운영 효율화 투자와 함께 에이전틱 커머스 전환을 위한 데이터 인프라와 기술 파트너십을 선제적으로 구축해야 하며, 이는 향후 자율화된 공급망 및 고객 경험 운영의 핵심 기반이 될 것이다.",
-    "so_what_en": "LG D2C should balance near-term AI operational investments with proactive infrastructure development for agentic commerce, as autonomous operations will define long-term supply chain and customer experience competitiveness.",
-    "key_points": [
-      "Retailers should use tech partnerships to solve immediate operational challenges with AI",
-      "Experts urge simultaneous investment in the infrastructure needed for future agentic operations",
-      "The transition to agentic commerce requires deliberate, long-term architectural planning beyond short-term AI fixes"
-    ],
-    "tags": [
-      "agentic-commerce",
-      "back-end-ai",
-      "retail-operations",
-      "ai-infrastructure",
-      "grocery-tech"
-    ],
-    "confidence": 0.75,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "GLOBAL",
-      "AMER"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Retail Dive"
-    ],
-    "one_line_insight_ko": "리테일의 미래는 단기 AI 효율화를 넘어 에이전틱 운영 인프라를 지금 구축하는 기업이 주도할 것이다.",
-    "one_line_insight_en": "Retailers that start building agentic infrastructure today—not just deploying AI for quick wins—will own the operational advantage of tomorrow.",
-    "ai_processed": true
-  },
-  {
-    "title": "Ecommerce Trends: How Chewy is using AI",
-    "link": "https://www.digitalcommerce360.com/2026/07/09/ecommerce-trends-how-chewy-is-using-ai/",
-    "date_published": "2026-07-09",
-    "description": "As Chewy’s quarterly sales reached $3.36 billion in its fiscal Q1 in 2026, the pet supplies and services seller credited artificial intelligence (AI) for helping it throughout the company. “Based on our current road map and implementation progress, we continue to expect AI-driven efficiencies to contribute a low tens of millions of dollars benefit in […]\nThe post Ecommerce Trends: How Chewy is using AI appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
-    "categories": [
-      "commerce",
-      "ai_commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.82,
-    "relevance_label": "high",
-    "title_en": "How Chewy Is Leveraging AI to Drive Tens of Millions in Efficiency Gains",
-    "summary_ko": "반려동물 용품 이커머스 기업 Chewy는 2026 회계연도 1분기 매출 33.6억 달러를 기록하며 AI 도입 효과를 강조했다. Chewy는 현재 로드맵과 구현 진척도에 따라 AI 기반 효율화가 수천만 달러 수준의 수익 기여를 할 것으로 기대하고 있다. AI는 회사 전반에 걸쳐 다양한 방식으로 활용되고 있으며, 이커머스 운영 효율화의 핵심 동력으로 자리잡고 있다.",
-    "summary_en": "Chewy reported quarterly sales of $3.36 billion in fiscal Q1 2026, crediting AI as a key contributor across the organization. The company expects AI-driven efficiencies to deliver a benefit in the low tens of millions of dollars based on its current roadmap and implementation progress. AI is being applied broadly throughout the business as a central driver of ecommerce operational efficiency.",
-    "so_what_ko": "LG D2C 조직은 Chewy의 사례를 벤치마크 삼아 AI를 물류, 고객 서비스, 재고 관리 등 이커머스 운영 전반에 통합하여 정량적 효율 목표를 설정하고 추진할 필요가 있다.",
-    "so_what_en": "LG D2C should benchmark Chewy's approach by setting measurable AI-driven efficiency targets across ecommerce operations including logistics, customer service, and inventory management.",
-    "key_points": [
-      "Chewy's fiscal Q1 2026 quarterly sales reached $3.36 billion with AI cited as a key growth enabler",
-      "AI-driven efficiencies are expected to contribute low tens of millions of dollars in financial benefit",
-      "AI is deployed company-wide, not limited to a single function, indicating broad operational integration"
-    ],
-    "tags": [
-      "ai-efficiency",
-      "ecommerce-operations",
-      "d2c-ai",
-      "retail-ai"
-    ],
-    "confidence": 0.72,
-    "strategic_theme": "AI_COMMERCE",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Chewy"
-    ],
-    "one_line_insight_ko": "Chewy는 AI를 전사적으로 통합하여 수천만 달러 규모의 운영 효율을 창출함으로써 AI가 이커머스 경쟁력의 핵심 변수임을 입증했다.",
-    "one_line_insight_en": "Chewy's company-wide AI integration delivering tens of millions in efficiency gains confirms AI as a decisive competitive lever in ecommerce.",
-    "ai_processed": true
-  },
-  {
-    "title": "Cotopaxi taps online marketplaces to expand ecommerce channel",
-    "link": "https://www.digitalcommerce360.com/2026/07/09/cotopaxi-online-marketplaces-ecommerce-channel/",
-    "date_published": "2026-07-09",
-    "description": "Apparel and outdoor gear brand Cotopaxi has added a new layer to its ecommerce business, joining two online marketplaces to boost sales. In addition to selling on its own ecommerce website, in its own physical stores and wholesale through other retailers, Cotopaxi sells on three main marketplaces, according to Stephan Jacob, chief global officer and […]\nThe post Cotopaxi taps online marketplaces to expand ecommerce channel appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
-    "categories": [
-      "commerce",
-      "strategy"
+      "marketing",
+      "commerce"
     ],
     "relevance_score": 0.55,
     "relevance_label": "high",
-    "title_en": "Cotopaxi Expands Ecommerce Reach by Joining Multiple Online Marketplaces",
-    "summary_ko": "아웃도어 의류 브랜드 Cotopaxi는 자사 웹사이트와 오프라인 매장 외에 온라인 마켓플레이스를 추가로 활용하며 이커머스 채널을 확장하고 있다. 최고글로벌책임자 Stephan Jacob에 따르면 Cotopaxi는 현재 세 개의 주요 마켓플레이스에서 판매 중이다. 이는 D2C와 도매 채널을 병행하면서 멀티채널 유통 전략을 강화하는 브랜드의 움직임을 보여준다.",
-    "summary_en": "Outdoor apparel brand Cotopaxi has expanded its ecommerce strategy by joining online marketplaces in addition to its own website, physical stores, and wholesale channels. According to Chief Global Officer Stephan Jacob, Cotopaxi now sells on three main marketplaces. This reflects a growing trend among brands to pursue multi-channel distribution to maximize online sales reach.",
-    "so_what_ko": "LG D2C는 자사 직판 채널 강화와 병행하여 주요 마켓플레이스 입점을 전략적으로 검토함으로써 고객 접점을 다변화하고 매출 기회를 확대할 수 있다.",
-    "so_what_en": "LG D2C should evaluate strategic marketplace participation alongside owned channels to diversify customer touchpoints and capture incremental revenue opportunities.",
+    "title_en": "Aéropostale Targets Gen Alpha with Creator-Led 'Intern Diaries' Mini-Series and Loyalty Tie-Up",
+    "summary_ko": "Aéropostale의 모회사 Catalyst Brands는 Gen Alpha를 겨냥한 크리에이터 주도 미니시리즈 'Intern Diaries'를 통해 새로운 마케팅 전략을 전개하고 있다. 최고 고객·마케팅 책임자 Marisa Thalberg는 이 콘텐츠 중심 접근법과 J.C. Penney와의 로열티 연계 프로그램을 공개했다. 이는 10대 이하 소비자층과의 진정성 있는 브랜드 연결을 위해 엔터테인먼트와 커머스를 결합한 전략이다.",
+    "summary_en": "Aéropostale's parent company Catalyst Brands is deploying a creator-led mini-series called 'Intern Diaries' to engage the Gen Alpha demographic. Chief Customer and Marketing Officer Marisa Thalberg discussed the content-driven campaign alongside a loyalty program partnership with J.C. Penney. The strategy blends entertainment and commerce to build authentic brand connections with consumers under 14.",
+    "so_what_ko": "LG D2C 조직도 Gen Alpha 및 Z세대를 겨냥한 크리에이터 협업 콘텐츠 시리즈와 파트너 브랜드 간 로열티 연계 프로그램을 검토하여 브랜드 충성도를 조기에 확보하는 전략을 고려할 수 있다.",
+    "so_what_en": "LG D2C should explore creator-led content series and cross-brand loyalty partnerships to build early brand affinity with younger, digitally-native consumer segments.",
     "key_points": [
-      "Cotopaxi now sells across three main online marketplaces in addition to its own D2C site and physical stores",
-      "The multi-channel approach combines D2C, wholesale, and marketplace distribution",
-      "Chief Global Officer Stephan Jacob confirmed the marketplace expansion strategy"
-    ],
-    "tags": [
-      "marketplace-expansion",
-      "multichannel",
-      "d2c-strategy",
-      "ecommerce-channels"
-    ],
-    "confidence": 0.68,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Cotopaxi",
-      "Stephan Jacob"
-    ],
-    "one_line_insight_ko": "Cotopaxi의 마켓플레이스 확장은 D2C 브랜드가 자사몰 중심 전략을 유지하면서도 외부 플랫폼을 통해 추가 매출을 창출하는 하이브리드 모델로 진화하고 있음을 시사한다.",
-    "one_line_insight_en": "Cotopaxi's marketplace expansion illustrates how D2C brands are evolving into hybrid models that blend owned channels with platform distribution to maximize reach.",
-    "ai_processed": true
-  },
-  {
-    "title": "Google will now disclose which ads are made with AI",
-    "link": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
-    "date_published": "2026-07-09",
-    "description": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.",
-    "source_id": "techcrunch_commerce",
-    "source_name": "TechCrunch Commerce",
-    "source_url": "https://techcrunch.com/category/commerce/feed",
-    "categories": [
-      "marketing",
-      "ai_marketing",
-      "tech"
-    ],
-    "relevance_score": 0.85,
-    "relevance_label": "high",
-    "title_en": "Google to Require Disclosure Labels on AI-Generated Ad Content",
-    "summary_ko": "구글은 선거 광고에만 적용하던 AI 생성 콘텐츠 공개 의무를 모든 광고로 확대하기로 했다. 구글은 오해를 유발하거나 기만적인 광고를 금지하고 있지만, AI를 활용한 합성 또는 디지털 변형 콘텐츠의 공개는 이제까지 선거 광고에만 적용되었다. 이번 정책 변경은 AI 생성 광고 콘텐츠에 대한 투명성 기준을 업계 전반으로 확장하는 중요한 규제적 전환점이 될 전망이다.",
-    "summary_en": "Google is expanding its AI content disclosure requirement, which previously applied only to election ads, to cover all advertisements featuring synthetic or digitally altered content. While Google already prohibits misleading and deceptive ads, the disclosure of AI-generated creative elements was not broadly mandated until now. This policy shift represents a significant step toward greater transparency standards for AI-generated advertising across the industry.",
-    "so_what_ko": "LG D2C는 AI 생성 광고 소재 활용 시 구글의 새로운 공개 정책을 즉시 준수해야 하며, 브랜드 신뢰도를 유지하기 위한 AI 광고 거버넌스 프로세스를 구축해야 한다.",
-    "so_what_en": "LG D2C must ensure immediate compliance with Google's new AI ad disclosure requirements and establish internal AI advertising governance processes to protect brand trust.",
-    "key_points": [
-      "Google is extending AI content disclosure requirements from election ads to all ad types",
-      "Ads using synthetic or digitally altered AI content must now be disclosed to users",
-      "This marks a major policy shift toward industry-wide AI ad transparency"
-    ],
-    "tags": [
-      "ai-transparency",
-      "google-ads",
-      "ad-disclosure",
-      "ai-content",
-      "regulatory"
-    ],
-    "confidence": 0.82,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Google"
-    ],
-    "one_line_insight_ko": "구글의 AI 광고 공개 의무화는 AI 생성 마케팅 콘텐츠에 대한 투명성이 선택이 아닌 규제 요건이 되는 새로운 시대의 시작을 알린다.",
-    "one_line_insight_en": "Google's mandated AI ad disclosure signals the dawn of a new era where transparency in AI-generated marketing content is a regulatory requirement, not a choice.",
-    "ai_processed": true
-  },
-  {
-    "title": "Mike’s Hard, Genesis take creative swings with custom Netflix campaigns",
-    "link": "https://www.marketingdive.com/news/mikes-hard-genesis-take-creative-swings-with-custom-netflix-campaigns/824804/",
-    "date_published": "2026-07-09",
-    "description": "A pair of efforts for the upcoming Will Ferrell vehicle “The Hawk” show how the streamer is focusing on more bespoke brand partnerships.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
-    "categories": [
-      "marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.48,
-    "relevance_label": "high",
-    "title_en": "Mike's Hard Lemonade and Genesis Craft Bespoke Netflix Campaign Partnerships for 'The Hawk'",
-    "summary_ko": "Mike's Hard Lemonade와 제네시스(Genesis)는 넷플릭스의 Will Ferrell 주연 영화 '더 호크(The Hawk)'와 연계한 맞춤형 브랜드 캠페인을 선보였다. 두 브랜드의 사례는 넷플릭스가 일반적인 광고 스폰서십을 넘어 더욱 창의적이고 맞춤화된 브랜드 파트너십에 집중하고 있음을 보여준다. 이는 스트리밍 플랫폼이 브랜드 마케팅의 새로운 프리미엄 채널로 부상하고 있는 트렌드를 반영한다.",
-    "summary_en": "Mike's Hard Lemonade and Genesis have launched custom brand campaigns tied to Netflix's upcoming Will Ferrell film 'The Hawk,' showcasing the streamer's focus on bespoke brand partnerships. The two campaigns illustrate how Netflix is moving beyond standard ad sponsorships toward more creatively integrated brand collaborations. This trend reflects the growing role of streaming platforms as premium channels for innovative brand marketing.",
-    "so_what_ko": "LG D2C는 넷플릭스와 같은 스트리밍 플랫폼과의 맞춤형 브랜드 파트너십을 탐색하여 프리미엄 콘텐츠와 연계한 브랜드 인지도 및 감성 연결을 강화하는 전략을 고려할 수 있다.",
-    "so_what_en": "LG D2C should explore bespoke brand partnership opportunities with streaming platforms like Netflix to build brand affinity through premium content association.",
-    "key_points": [
-      "Mike's Hard Lemonade and Genesis both created custom campaigns linked to Netflix's 'The Hawk'",
-      "Netflix is prioritizing bespoke, creatively integrated brand partnerships over standard sponsorships",
-      "Streaming platforms are emerging as premium vehicles for differentiated brand marketing"
-    ],
-    "tags": [
-      "netflix-partnership",
-      "brand-collaboration",
-      "streaming-marketing",
-      "content-marketing"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Netflix",
-      "Mike's Hard Lemonade",
-      "Genesis",
-      "The Hawk",
-      "Will Ferrell"
-    ],
-    "one_line_insight_ko": "넷플릭스가 맞춤형 브랜드 파트너십에 집중하는 것은 스트리밍 플랫폼이 브랜드 마케팅의 새로운 프리미엄 전장으로 부상했음을 의미한다.",
-    "one_line_insight_en": "Netflix's pivot to bespoke brand partnerships signals that streaming platforms have become the new premium battleground for brand marketing differentiation.",
-    "ai_processed": true
-  },
-  {
-    "title": "How Aéropostale entertains Gen Alpha with a creator-led mini-series",
-    "link": "https://www.marketingdive.com/news/how-aeropostale-entertains-gen-alpha-with-a-creator-led-mini-series/824693/",
-    "date_published": "2026-07-09",
-    "description": "Marisa Thalberg, chief customer and marketing officer at parent Catalyst Brands, opens up about the “Intern Diaries” and a loyalty tie-up with JCPenney.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
-    "categories": [
-      "marketing",
-      "ai_marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.5,
-    "relevance_label": "high",
-    "title_en": "Aéropostale Launches Creator-Led Mini-Series to Engage Gen Alpha Shoppers",
-    "summary_ko": "아에로포스탈레(Aéropostale)는 Gen Alpha 세대를 겨냥해 크리에이터 주도의 미니 시리즈 '인턴 다이어리(Intern Diaries)'를 선보이며 엔터테인먼트 마케팅에 나섰다. 모회사 Catalyst Brands의 최고고객마케팅책임자 Marisa Thalberg는 이 캠페인이 JCPenney와의 로열티 협업과 연계되어 있다고 밝혔다. 이 전략은 브랜드가 전통 광고 대신 크리에이터 콘텐츠와 엔터테인먼트를 통해 젊은 세대의 참여를 유도하는 방식으로 전환하고 있음을 보여준다.",
-    "summary_en": "Aéropostale has launched a creator-led mini-series called 'Intern Diaries' to engage Gen Alpha consumers through entertainment-driven marketing. Marisa Thalberg, Chief Customer and Marketing Officer at parent company Catalyst Brands, noted the campaign is tied to a loyalty partnership with JCPenney. The initiative reflects a broader brand shift away from traditional advertising toward creator content and entertainment as primary tools for engaging younger audiences.",
-    "so_what_ko": "LG D2C는 MZ세대 및 Gen Alpha 고객 공략을 위해 크리에이터 주도 콘텐츠 시리즈와 로열티 프로그램을 연계하는 엔터테인먼트 마케팅 전략을 적극 검토해야 한다.",
-    "so_what_en": "LG D2C should consider integrating creator-led content series with loyalty program mechanics to authentically engage younger Gen Alpha and Gen Z consumer segments.",
-    "key_points": [
-      "Aéropostale launched 'Intern Diaries,' a creator-led mini-series targeting Gen Alpha consumers",
-      "The campaign is connected to a loyalty partnership with JCPenney",
-      "The strategy reflects a shift from traditional advertising to entertainment-first engagement for younger audiences"
+      "'Intern Diaries' 미니시리즈는 Gen Alpha 타깃 크리에이터 마케팅의 구체적 사례",
+      "J.C. Penney와의 로열티 연계로 옴니채널 고객 유지 전략 강화",
+      "엔터테인먼트 콘텐츠와 커머스의 결합으로 브랜드 진정성 확보 시도"
     ],
     "tags": [
       "gen-alpha",
       "creator-marketing",
-      "entertainment-marketing",
-      "loyalty-program",
-      "youth-engagement"
+      "brand-loyalty",
+      "content-commerce",
+      "youth-marketing"
     ],
-    "confidence": 0.72,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "confidence": 0.6,
+    "strategic_theme": "AI_MARKETING",
     "regions": [
       "AMER"
     ],
@@ -453,89 +40,631 @@
     "key_entities": [
       "Aéropostale",
       "Catalyst Brands",
-      "Marisa Thalberg",
-      "JCPenney",
-      "Intern Diaries"
+      "J.C. Penney",
+      "Marisa Thalberg"
     ],
-    "one_line_insight_ko": "Aéropostale의 크리에이터 미니 시리즈는 Gen Alpha 세대에게 광고가 아닌 엔터테인먼트로 브랜드를 경험하게 하는 것이 차세대 마케팅의 핵심임을 보여준다.",
-    "one_line_insight_en": "Aéropostale's creator mini-series demonstrates that making Gen Alpha experience brands as entertainment rather than advertising is the defining principle of next-generation marketing.",
+    "one_line_insight_ko": "Gen Alpha 공략을 위한 크리에이터 주도 콘텐츠 커머스는 브랜드 충성도를 조기에 형성하는 핵심 전략으로 부상하고 있다.",
+    "one_line_insight_en": "Creator-led content commerce targeting Gen Alpha is emerging as a key strategy for building early brand loyalty in the next consumer generation.",
     "ai_processed": true
   },
   {
-    "title": "Reebok Ties Its Basketball Comeback to a Class of Rising Stars",
-    "link": "https://www.adweek.com/creativity/reebok-ties-its-basketball-comeback-to-a-class-of-rising-stars/",
-    "date_published": "2026-07-09",
-    "description": "Reebok's new campaign starring rookies aims to reestablish the brand in basketball culture.",
-    "source_id": "adweek",
-    "source_name": "Adweek",
-    "source_url": "https://www.adweek.com/feed",
+    "title": "Nail Profit before Site Extras, Owner Says",
+    "link": "https://www.practicalecommerce.com/nail-profit-before-site-extras-owner-says",
+    "date_published": "2026-07-10",
+    "description": "Paolo Vidali has a suggestion for merchants considering advanced ecommerce features.\nThe post Nail Profit before Site Extras, Owner Says appeared first on Practical Ecommerce.",
+    "source_id": "practical_ecommerce",
+    "source_name": "Practical Ecommerce",
+    "source_url": "https://www.practicalecommerce.com/feed",
     "categories": [
-      "marketing"
+      "commerce",
+      "strategy"
     ],
-    "relevance_score": 0.35,
+    "relevance_score": 0.4,
     "relevance_label": "high",
-    "title_en": "Reebok Bets on Rising NBA Rookies to Reclaim Basketball Culture",
-    "summary_ko": "리복은 신인 농구 선수들을 앞세운 새 캠페인을 통해 농구 문화 내 브랜드 재건을 시도하고 있다. 이 캠페인은 라이징 스타들과의 연계를 통해 젊은 소비자층에 다가가려는 전략으로 풀이된다. 구체적인 캠페인 세부 내용이나 성과 데이터는 원문에서 확인되지 않음.",
-    "summary_en": "Reebok has launched a new campaign featuring rising rookie basketball players as part of its effort to reestablish the brand in basketball culture. The strategy centers on aligning with emerging talent to connect with younger audiences. Specific campaign metrics or creative details are not confirmed in the source.",
-    "so_what_ko": "스포츠·라이프스타일 D2C 브랜드는 신인 스타와의 초기 파트너십을 통해 브랜드 진정성을 구축하고, 팬덤 기반의 커뮤니티 마케팅을 강화할 수 있다.",
-    "so_what_en": "D2C brands in lifestyle categories can take cues from Reebok's playbook by partnering with emerging talent early to build authenticity and community-driven brand equity.",
+    "title_en": "E-Commerce Owner Advises Merchants to Prioritize Profitability Over Advanced Site Features",
+    "summary_ko": "이커머스 사업자 Paolo Vidali는 고급 사이트 기능 도입보다 수익성 확보를 먼저 달성해야 한다고 주장한다. 기능 확장에 투자하기 전에 비즈니스의 근본적인 수익 구조를 탄탄히 해야 지속 가능한 성장이 가능하다는 실용적 조언이다. 이는 기술 투자와 재무 건전성 사이의 균형을 강조하는 메시지다.",
+    "summary_en": "E-commerce merchant Paolo Vidali advises that businesses should secure profitability before investing in advanced site features or extras. His perspective emphasizes that a sound financial foundation must precede technology expansion for sustainable growth. The guidance offers a pragmatic counterpoint to the trend of feature-heavy e-commerce investment.",
+    "so_what_ko": "LG D2C는 새로운 이커머스 기능이나 AI 도구 도입 시 수익성 기여도를 먼저 검증하는 ROI 중심의 우선순위 프레임워크를 적용해야 한다.",
+    "so_what_en": "LG D2C should apply an ROI-first prioritization framework when evaluating new e-commerce features or AI tools, ensuring profitability impact is validated before scaling investments.",
     "key_points": [
-      "Reebok is staging a basketball category comeback via a rookie-focused campaign",
-      "The strategy targets cultural relevance with younger, sports-engaged consumers",
-      "Specific AI or digital marketing tools used are not mentioned in the source"
+      "수익성 확보가 고급 기능 투자보다 선행되어야 한다는 실용적 원칙 제시",
+      "기술 과잉 투자의 위험성에 대한 경고 메시지",
+      "중소 이커머스 사업자를 위한 재무 우선 전략 권고"
     ],
     "tags": [
-      "brand-revival",
-      "influencer-marketing",
-      "sports-marketing",
-      "youth-audience"
+      "ecommerce-strategy",
+      "profitability",
+      "merchant-advice",
+      "site-optimization"
     ],
-    "confidence": 0.5,
-    "strategic_theme": "AI_MARKETING",
+    "confidence": 0.55,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
     "regions": [
-      "AMER",
       "GLOBAL"
     ],
     "business_impact": "LOW",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "Reebok"
+      "Paolo Vidali",
+      "Practical Ecommerce"
     ],
-    "one_line_insight_ko": "리복의 루키 마케팅 전략은 신흥 인플루언서와의 조기 파트너십이 브랜드 재건에 효과적임을 보여준다.",
-    "one_line_insight_en": "Reebok's rookie-led comeback illustrates how early alignment with rising talent can anchor a brand's cultural re-entry strategy.",
+    "one_line_insight_ko": "이커머스 기능 확장보다 수익성 기반 구축이 선행되어야 지속 가능한 디지털 커머스 성장이 가능하다.",
+    "one_line_insight_en": "Sustainable e-commerce growth requires a solid profitability foundation before investing in advanced platform features or technologies.",
     "ai_processed": true
   },
   {
-    "title": "Marketplace Briefing: AI traffic is poised to reshape the Amazon funnel",
-    "link": "https://www.modernretail.co/marketing/marketplace-briefing-ai-traffic-is-poised-to-reshape-the-amazon-funnel/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-07-09",
-    "description": "Every Amazon agency right now is trying to get a sense of what role AI referral traffic is playing — and will play — in driving purchases, even if they don't have much data to go off of yet.",
+    "title": "Omnia Partners names 10 new suppliers joining is Opus platform",
+    "link": "https://www.digitalcommerce360.com/2026/07/10/omnia-partners-10-suppliers-joining-opus-platform/",
+    "date_published": "2026-07-10",
+    "description": "A business-to-business (B2B) ecommerce portal gained a new wave of suppliers, as Omnia Partners announced 10 new participants for its Opus platform for procurement. Omnia, which operates nationally as a cooperative purchasing organization, has expanded Opus to include more than 8 million SKUs, according to the company. The new suppliers include IT solutions provider SHI, […]\nThe post Omnia Partners names 10 new suppliers joining is Opus platform appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
+    "categories": [
+      "commerce"
+    ],
+    "relevance_score": 0.35,
+    "relevance_label": "high",
+    "title_en": "Omnia Partners Adds 10 New Suppliers to Opus B2B Procurement Platform, Surpassing 8 Million SKUs",
+    "summary_ko": "협동 구매 조직 Omnia Partners가 B2B 이커머스 플랫폼 Opus에 10개의 신규 공급업체를 추가했다. IT 솔루션 공급업체 SHI를 포함한 신규 참여사로 플랫폼 총 SKU 수가 800만 개를 초과했다. 이는 B2B 조달 시장에서의 플랫폼 생태계 확장 전략을 보여주는 사례다.",
+    "summary_en": "Cooperative purchasing organization Omnia Partners announced the addition of 10 new suppliers to its Opus B2B e-commerce procurement platform. The expansion brings the platform's total catalog to more than 8 million SKUs, with new participants including IT solutions provider SHI. This move reflects a broader trend of B2B procurement platforms scaling their supplier ecosystems.",
+    "so_what_ko": "LG는 B2B 조달 플랫폼의 생태계 확장 트렌드를 참고하여, 기업 고객 대상 D2C 채널에서도 공급망 파트너십과 카탈로그 확장을 통한 플랫폼화 전략을 검토할 수 있다.",
+    "so_what_en": "LG could reference B2B procurement platform expansion trends to explore platformization strategies for enterprise D2C channels, leveraging supply chain partnerships and catalog breadth.",
+    "key_points": [
+      "Omnia Partners의 Opus 플랫폼에 10개 신규 공급업체 추가로 생태계 확장",
+      "플랫폼 총 SKU 수 800만 개 초과 달성",
+      "B2B 조달 시장에서 협동 구매 모델의 디지털화 가속화"
+    ],
+    "tags": [
+      "b2b-ecommerce",
+      "procurement",
+      "platform-ecosystem",
+      "supplier-network"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "PLATFORM_ECOSYSTEM",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Omnia Partners",
+      "Opus",
+      "SHI"
+    ],
+    "one_line_insight_ko": "B2B 조달 플랫폼의 공급업체 생태계 확장은 디지털 커머스에서 플랫폼 규모가 경쟁 우위의 핵심임을 재확인한다.",
+    "one_line_insight_en": "The rapid expansion of B2B procurement platform supplier ecosystems underscores that scale and catalog breadth are critical competitive moats in digital commerce.",
+    "ai_processed": true
+  },
+  {
+    "title": "Home Depot expands delivery for overseas military families",
+    "link": "https://www.digitalcommerce360.com/2026/07/10/home-depot-expands-delivery-overseas-military-families/",
+    "date_published": "2026-07-10",
+    "description": "The Home Depot said it’s expanding its delivery partnership to reach overseas military communities. As of July 8, its partnership with military exchanges expanded to include delivery to Army Post Office (APO), Fleet Post Office (FPO) and Diplomatic Post Office (DPO) addresses, Home Depot said. In doing so, the retailer and its partners will provide […]\nThe post Home Depot expands delivery for overseas military families appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
+    "categories": [
+      "commerce"
+    ],
+    "relevance_score": 0.4,
+    "relevance_label": "high",
+    "title_en": "Home Depot Extends Delivery Services to Overseas Military Families via APO, FPO, and DPO Addresses",
+    "summary_ko": "Home Depot는 군 교환소 파트너십을 확장하여 해외 주둔 군인 가족에게 배송 서비스를 제공하기 시작했다. 2026년 7월 8일부로 Army Post Office(APO), Fleet Post Office(FPO), Diplomatic Post Office(DPO) 주소로의 배송이 가능해졌다. 이는 기존에 서비스가 닿지 않던 틈새 소비자 세그먼트를 공략하는 D2C 확장 전략의 사례다.",
+    "summary_en": "Home Depot expanded its delivery partnership with military exchanges to serve overseas military communities, effective July 8. The expansion enables delivery to Army Post Office (APO), Fleet Post Office (FPO), and Diplomatic Post Office (DPO) addresses. This initiative represents a targeted approach to reaching an underserved consumer segment through a specialized logistics partnership.",
+    "so_what_ko": "LG D2C도 해외 주둔 군인 가족 등 특수 소비자 세그먼트를 위한 맞춤형 배송 파트너십을 모색하여 서비스 가능 시장을 확대하는 전략을 검토할 수 있다.",
+    "so_what_en": "LG D2C could explore specialized delivery partnerships targeting underserved consumer segments such as overseas military communities to expand total addressable market.",
+    "key_points": [
+      "군 교환소 파트너십을 통해 APO/FPO/DPO 주소 배송 서비스 신규 개시",
+      "해외 주둔 군인 가족이라는 틈새 소비자 세그먼트 공략",
+      "물류 파트너십 확장을 통한 D2C 도달 범위 확대 전략"
+    ],
+    "tags": [
+      "delivery-expansion",
+      "military-market",
+      "logistics-partnership",
+      "dtc-reach"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "GLOBAL",
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Home Depot"
+    ],
+    "one_line_insight_ko": "틈새 소비자 세그먼트를 위한 맞춤 물류 파트너십은 D2C 도달 범위를 저비용으로 확장하는 효과적인 전략이다.",
+    "one_line_insight_en": "Targeted logistics partnerships for niche consumer segments offer a cost-effective way to expand D2C reach without large infrastructure investment.",
+    "ai_processed": true
+  },
+  {
+    "title": "Levi Strauss ecommerce sales jump 19% as DTC strategy boosts Q2 growth",
+    "link": "https://www.digitalcommerce360.com/2026/07/10/levi-strauss-dtc-ecommerce-sales-q2-fy26/",
+    "date_published": "2026-07-10",
+    "description": "Levi Strauss & Co. grew ecommerce revenue and overall sales in its fiscal second quarter, as the retailer continued to invest in its direct-to-consumer (DTC) business. For the quarter ended May 31, Levi Strauss reported net revenue of $1.56 billion, up 8.0% year over year. Online revenue, which is part of Levi Strauss’ DTC channel, […]\nThe post Levi Strauss ecommerce sales jump 19% as DTC strategy boosts Q2 growth appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.75,
+    "relevance_label": "high",
+    "title_en": "Levi Strauss Reports 19% E-Commerce Sales Surge as DTC Strategy Drives 8% Q2 Revenue Growth",
+    "summary_ko": "Levi Strauss & Co.는 2026 회계연도 2분기에 순매출 15억 6천만 달러를 기록하며 전년 대비 8.0% 성장했다. 온라인 매출은 19% 급증했으며, 이는 DTC(소비자 직접 판매) 채널에 대한 지속적인 투자의 결과다. Levi's의 실적은 DTC 전략이 브랜드 수익성과 고객 관계 강화에 효과적임을 입증하는 사례다.",
+    "summary_en": "Levi Strauss & Co. reported net revenue of $1.56 billion in its fiscal Q2 2026, representing 8.0% year-over-year growth. E-commerce sales surged 19%, driven by the company's continued investment in its direct-to-consumer channel. The results underscore the effectiveness of a DTC-focused strategy in boosting both revenue growth and customer relationship depth.",
+    "so_what_ko": "Levi's의 DTC 투자 대비 19% 이커머스 성장은 LG D2C 조직이 자사 채널 강화에 지속 투자할 경우 유사한 수익성 개선 효과를 기대할 수 있음을 시사한다.",
+    "so_what_en": "Levi's 19% e-commerce growth driven by DTC investment signals that sustained commitment to owned channels can deliver compounding revenue and margin benefits for LG's D2C organization.",
+    "key_points": [
+      "2분기 순매출 15억 6천만 달러, 전년 대비 8.0% 성장 달성",
+      "이커머스 매출 19% 급증으로 DTC 채널 투자 효과 입증",
+      "DTC 전략이 브랜드 수익성 및 고객 직접 관계 강화에 기여"
+    ],
+    "tags": [
+      "dtc-strategy",
+      "ecommerce-growth",
+      "brand-revenue",
+      "direct-to-consumer"
+    ],
+    "confidence": 0.85,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "GLOBAL",
+      "AMER"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Levi Strauss & Co."
+    ],
+    "one_line_insight_ko": "Levi's의 DTC 집중 전략이 19% 이커머스 성장을 견인하며, 자사 채널 강화가 브랜드 수익성 제고의 핵심 동력임을 입증했다.",
+    "one_line_insight_en": "Levi's 19% e-commerce surge validates that a disciplined DTC investment strategy is a powerful engine for brand revenue growth and customer ownership.",
+    "ai_processed": true
+  },
+  {
+    "title": "Anthropic Confronts the Hard Questions About AI Responsibility",
+    "link": "https://www.adweek.com/creativity/anthropic-confronts-the-hard-questions-about-ai-responsibility/",
+    "date_published": "2026-07-10",
+    "description": "A new film is the latest from the company’s “Keep Thinking” campaign",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
+    "categories": [
+      "ai_marketing",
+      "marketing"
+    ],
+    "relevance_score": 0.55,
+    "relevance_label": "high",
+    "title_en": "Anthropic's 'Keep Thinking' Campaign Tackles AI Responsibility with New Film",
+    "summary_ko": "Anthropic이 'Keep Thinking' 캠페인의 일환으로 AI 책임에 관한 새로운 영상을 공개했다. 이 캠페인은 AI 기술의 윤리적 활용과 책임 있는 개발에 대한 질문을 정면으로 다루고 있다. Anthropic은 이번 콘텐츠를 통해 AI 기업으로서의 브랜드 철학을 대중에게 전달하고자 한다.",
+    "summary_en": "Anthropic has released a new film as part of its ongoing 'Keep Thinking' campaign focused on AI responsibility. The campaign directly confronts difficult questions surrounding ethical AI development and deployment. Through this creative content, Anthropic aims to communicate its brand philosophy on responsible AI to a broader audience.",
+    "so_what_ko": "AI 브랜딩에서 '책임감'이 핵심 차별화 요소로 부상하고 있으며, LG D2C도 AI 기술 활용 시 윤리적 투명성을 마케팅 전략에 통합할 필요가 있다.",
+    "so_what_en": "As AI responsibility becomes a brand differentiator, LG D2C should consider integrating ethical AI transparency into its marketing strategy to build consumer trust.",
+    "key_points": [
+      "Anthropic의 'Keep Thinking' 캠페인은 AI 책임을 브랜드 아이덴티티의 핵심으로 포지셔닝",
+      "AI 기업들이 대중 커뮤니케이션에서 윤리적 메시지를 적극 활용하는 트렌드 반영",
+      "창의적 콘텐츠(영상)를 통한 복잡한 AI 철학의 대중화 시도"
+    ],
+    "tags": [
+      "ai-responsibility",
+      "brand-campaign",
+      "anthropic",
+      "ai-ethics",
+      "content-marketing"
+    ],
+    "confidence": 0.5,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL",
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Anthropic",
+      "Keep Thinking Campaign"
+    ],
+    "one_line_insight_ko": "AI 책임을 브랜드 캠페인의 중심 메시지로 삼는 전략이 AI 기업의 새로운 마케팅 표준으로 자리잡고 있다.",
+    "one_line_insight_en": "Positioning AI responsibility as a core brand message is emerging as a new marketing standard for AI-forward companies.",
+    "ai_processed": true
+  },
+  {
+    "title": "Minneapolis-Based Retail Media Veterans Launch Networking Nonprofit",
+    "link": "https://www.adweek.com/commerce/minneapolis-based-retail-media-veterans-launch-networking-nonprofit/",
+    "date_published": "2026-07-10",
+    "description": "Commerce Media Meetup aims to support a growing pool of industry talent in retail hubs.",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
+    "categories": [
+      "commerce",
+      "marketing"
+    ],
+    "relevance_score": 0.45,
+    "relevance_label": "high",
+    "title_en": "Minneapolis Retail Media Veterans Launch Commerce Media Meetup Nonprofit to Support Industry Talent",
+    "summary_ko": "미니애폴리스를 기반으로 한 리테일 미디어 전문가들이 업계 인재를 지원하기 위한 비영리 네트워킹 단체 'Commerce Media Meetup'을 설립했다. 이 단체는 리테일 허브 내 성장하는 커머스 미디어 인재 풀을 연결하고 지원하는 것을 목표로 한다. 리테일 미디어 산업의 급성장을 반영하듯, 업계 내 커뮤니티 구축 수요가 높아지고 있다.",
+    "summary_en": "Retail media veterans based in Minneapolis have launched a nonprofit networking organization called Commerce Media Meetup to support growing industry talent. The organization aims to connect professionals in retail media hubs and address the talent development needs of the expanding sector. The initiative reflects the rapid growth of the retail media industry and increasing demand for community-building within it.",
+    "so_what_ko": "리테일 미디어 전문 인재 네트워크의 부상은 LG D2C가 커머스 미디어 역량 강화를 위해 외부 인재 생태계와 적극 협력해야 함을 시사한다.",
+    "so_what_en": "The rise of retail media talent networks signals that LG D2C should actively engage with external talent ecosystems to strengthen its commerce media capabilities.",
+    "key_points": [
+      "리테일 미디어 산업 성장에 따른 전문 인재 커뮤니티 수요 증가",
+      "비영리 네트워킹 조직으로 업계 협력 및 지식 공유 촉진",
+      "미니애폴리스 등 비전통적 리테일 허브에서도 커머스 미디어 생태계 형성 중"
+    ],
+    "tags": [
+      "retail-media",
+      "commerce-media",
+      "networking",
+      "industry-talent",
+      "nonprofit"
+    ],
+    "confidence": 0.55,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Commerce Media Meetup"
+    ],
+    "one_line_insight_ko": "리테일 미디어의 급성장이 전문 인재 생태계 형성을 촉진하며 업계 표준화와 역량 고도화를 가속화하고 있다.",
+    "one_line_insight_en": "The rapid growth of retail media is fostering specialized talent ecosystems, accelerating industry standardization and capability development.",
+    "ai_processed": true
+  },
+  {
+    "title": "Brands won this season of ‘Love Island USA’",
+    "link": "https://www.modernretail.co/marketing/brands-won-this-season-of-love-island-usa/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-07-10",
+    "description": "\"Love Island USA\" has become a cultural phenomenon that many brands can no longer ignore. Ad sales were up 73% across the hit show this season, and \"Love Island\" has now become an integral part of summer-long marketing campaigns for brands like Poppi.",
     "source_id": "modern_retail",
     "source_name": "Modern Retail",
     "source_url": "https://www.modernretail.co/feed/",
     "categories": [
-      "commerce",
-      "agentic_commerce"
+      "marketing",
+      "commerce"
     ],
-    "relevance_score": 0.92,
+    "relevance_score": 0.65,
     "relevance_label": "high",
-    "title_en": "AI Referral Traffic Is Set to Fundamentally Reshape the Amazon Purchase Funnel",
-    "summary_ko": "AI 추천 트래픽이 Amazon 구매 퍼널에 미치는 영향이 점차 가시화되고 있으며, 아마존 에이전시들은 이 트래픽의 역할을 파악하기 위해 노력 중이다. 아직 충분한 데이터가 축적되지 않았지만, AI가 소비자의 제품 발견 및 구매 결정 경로를 바꿀 것으로 전망된다. 이는 브랜드들이 AI 기반 검색 및 추천 환경에 최적화된 새로운 마케팅 전략을 수립해야 함을 시사한다.",
-    "summary_en": "AI referral traffic is emerging as a significant factor in reshaping how consumers discover and purchase products on Amazon, with agencies actively trying to measure its impact. While concrete data remains limited, there is growing consensus that AI-driven discovery will alter the traditional Amazon purchase funnel. Brands and agencies are beginning to rethink their optimization strategies to account for AI-generated traffic flows.",
-    "so_what_ko": "LG D2C 조직은 아마존 등 주요 마켓플레이스에서 AI 추천 트래픽에 최적화된 상품 콘텐츠 전략(제품 설명, 구조화 데이터 등)을 선제적으로 준비해야 한다.",
-    "so_what_en": "LG's D2C team should proactively optimize product listings and structured content for AI-driven discovery on Amazon and other platforms before AI referral traffic becomes a dominant channel.",
+    "title_en": "Brands Emerge as Big Winners from 'Love Island USA' Season with 73% Ad Sales Surge",
+    "summary_ko": "'Love Island USA'가 브랜드 마케팅의 핵심 플랫폼으로 자리잡으며 이번 시즌 광고 매출이 73% 급증했다. Poppi 등 여러 브랜드가 이 프로그램을 여름 마케팅 캠페인의 핵심 축으로 활용하고 있다. 문화적 현상으로 자리잡은 이 프로그램은 브랜드가 더 이상 무시할 수 없는 마케팅 채널이 되었다.",
+    "summary_en": "'Love Island USA' has solidified its position as a key brand marketing platform, with ad sales surging 73% this season. Brands like Poppi have integrated the show as a central pillar of their summer-long marketing campaigns. The show has evolved into a cultural phenomenon that brands can no longer afford to overlook as a marketing channel.",
+    "so_what_ko": "리얼리티 TV 프로그램과의 브랜드 통합이 높은 광고 효율과 문화적 연관성을 동시에 제공하고 있어, LG D2C도 엔터테인먼트 연계 마케팅 전략 검토가 필요하다.",
+    "so_what_en": "Brand integrations with reality TV are delivering both strong ad ROI and cultural relevance, prompting LG D2C to consider entertainment-linked marketing strategies.",
     "key_points": [
-      "AI referral traffic is beginning to influence product discovery on Amazon",
-      "Agencies lack sufficient data but recognize the structural shift underway",
-      "Brands need new optimization frameworks beyond traditional SEO/PPC for AI-era funnels",
-      "The change affects both top-of-funnel discovery and bottom-of-funnel conversion paths"
+      "'Love Island USA' 광고 매출 73% 증가로 엔터테인먼트 마케팅 플랫폼으로서의 가치 입증",
+      "Poppi 등 D2C 브랜드들이 시즌 전체 마케팅 캠페인에 프로그램 통합",
+      "리얼리티 TV가 젊은 소비자층 도달을 위한 핵심 미디어 채널로 부상"
     ],
     "tags": [
-      "ai-traffic",
-      "amazon",
-      "purchase-funnel",
-      "d2c",
-      "agentic-commerce"
+      "entertainment-marketing",
+      "brand-integration",
+      "reality-tv",
+      "d2c-marketing",
+      "advertising"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Love Island USA",
+      "Poppi"
+    ],
+    "one_line_insight_ko": "리얼리티 TV와의 브랜드 통합이 D2C 마케팅의 고효율 채널로 확립되며, 문화적 연관성과 광고 효율을 동시에 달성하는 전략으로 주목받고 있다.",
+    "one_line_insight_en": "Brand integration with reality TV is establishing itself as a high-ROI D2C marketing channel that simultaneously achieves cultural relevance and advertising efficiency.",
+    "ai_processed": true
+  },
+  {
+    "title": "Meta removes controversial AI feature on Instagram after backlash",
+    "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+    "date_published": "2026-07-10",
+    "description": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "categories": [
+      "ai_marketing",
+      "tech"
+    ],
+    "relevance_score": 0.75,
+    "relevance_label": "high",
+    "title_en": "Meta Removes Controversial Instagram AI Feature Following User Backlash",
+    "summary_ko": "Meta가 인스타그램에 도입했던 논란의 AI 기능을 사용자 반발 이후 즉각 제거했다. 해당 기능은 사용자의 공개 콘텐츠를 AI 참조 목적으로 활용하는 것으로, 창의적 도구 제공을 의도했으나 '목표를 달성하지 못했다'는 피드백을 받았다. Meta는 공식 블로그를 통해 사용자 의견을 반영한 결정임을 밝혔다.",
+    "summary_en": "Meta has removed a controversial AI feature from Instagram after facing significant user backlash. The feature was designed to reference users' public content as a creative tool, but the company acknowledged it 'missed the mark' following negative feedback. Meta confirmed the removal via an official blog post, citing user feedback as the driving factor.",
+    "so_what_ko": "소비자 콘텐츠를 AI 학습·참조에 활용하는 기능은 강한 사용자 반발을 유발할 수 있으며, LG D2C는 AI 기반 개인화 기능 도입 시 투명한 동의 프로세스를 선제적으로 설계해야 한다.",
+    "so_what_en": "AI features leveraging user-generated content can trigger strong backlash, urging LG D2C to proactively design transparent consent processes when deploying AI-driven personalization features.",
+    "key_points": [
+      "Meta가 사용자 공개 콘텐츠를 AI 참조에 활용하는 인스타그램 기능 철회",
+      "사용자 개인정보 및 콘텐츠 권리에 대한 민감도가 AI 기능 수용성에 직접 영향",
+      "AI 기능 출시 전 사용자 동의 및 투명성 확보의 중요성 재확인"
+    ],
+    "tags": [
+      "meta",
+      "instagram",
+      "ai-feature",
+      "user-backlash",
+      "ai-ethics"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "Meta",
+      "Instagram"
+    ],
+    "one_line_insight_ko": "사용자 콘텐츠를 활용한 AI 기능은 동의와 투명성이 결여될 경우 브랜드 신뢰 훼손과 즉각적인 철회 압박으로 이어질 수 있다.",
+    "one_line_insight_en": "AI features leveraging user content without clear consent and transparency can rapidly erode brand trust and force immediate product rollbacks.",
+    "ai_processed": true
+  },
+  {
+    "title": "Merchants blast credit union rule",
+    "link": "https://www.paymentsdive.com/news/merchants-blast-credit-union-card-fee-rule/824904/",
+    "date_published": "2026-07-10",
+    "description": "Retail and restaurant groups say federal credit union regulators imposed an “unlawful” rule preempting an Illinois law that curbs payment card fees.",
+    "source_id": "payments_dive",
+    "source_name": "Payments Dive",
+    "source_url": "https://www.paymentsdive.com/feeds/news/",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.35,
+    "relevance_label": "high",
+    "title_en": "Merchants Challenge Federal Credit Union Rule Preempting Illinois Payment Card Fee Law",
+    "summary_ko": "미국 소매 및 레스토랑 업계 단체들이 연방 신용조합 규제 당국의 새로운 규정이 일리노이주 결제 카드 수수료 제한법을 불법적으로 무력화한다며 강하게 반발하고 있다. 해당 규정은 신용조합이 부과하는 카드 수수료에 관한 것으로, 가맹점들의 비용 부담 증가로 이어질 수 있다. 업계 단체들은 이 규정을 '불법'으로 규정하며 법적 대응을 시사하고 있다.",
+    "summary_en": "U.S. retail and restaurant industry groups are pushing back against a federal credit union regulatory rule they claim unlawfully preempts an Illinois law designed to limit payment card fees. The rule pertains to card fees charged by credit unions and could increase cost burdens for merchants. Industry groups have labeled the rule 'unlawful' and are signaling potential legal challenges.",
+    "so_what_ko": "결제 수수료 규제 환경의 변화는 D2C 사업자의 거래 비용 구조에 직접 영향을 미칠 수 있으므로, LG D2C는 미국 시장 결제 규제 동향을 지속적으로 모니터링해야 한다.",
+    "so_what_en": "Shifts in payment fee regulation can directly affect transaction cost structures for D2C operators, making it important for LG D2C to continuously monitor U.S. payment regulatory developments.",
+    "key_points": [
+      "연방 신용조합 규정이 일리노이주 결제 수수료 제한법을 선점(preempt)한다는 업계 주장",
+      "소매 및 레스토랑 업계 단체들이 '불법' 규정으로 규정하며 반발",
+      "결제 수수료 규제 갈등이 가맹점 비용 구조에 미치는 영향 주목"
+    ],
+    "tags": [
+      "payment-fees",
+      "regulation",
+      "retail-merchants",
+      "credit-union",
+      "d2c-operations"
+    ],
+    "confidence": 0.65,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "Payments Dive",
+      "Illinois Payment Law"
+    ],
+    "one_line_insight_ko": "결제 수수료를 둘러싼 연방 규제와 주법의 충돌은 D2C 사업자의 거래 비용 불확실성을 높이는 구조적 리스크로 작용한다.",
+    "one_line_insight_en": "The clash between federal regulation and state law on payment card fees introduces structural cost uncertainty for D2C merchants operating in the U.S. market.",
+    "ai_processed": true
+  },
+  {
+    "title": "[AINews] not much happened today",
+    "link": "https://www.latent.space/p/ainews-not-much-happened-today-f5c",
+    "date_published": "2026-07-11",
+    "description": "a quiet day after a week of nonstop model releases",
+    "source_id": "latent_space",
+    "source_name": "Latent Space (The AI Index)",
+    "source_url": "https://www.latent.space/feed",
+    "categories": [
+      "tech"
+    ],
+    "relevance_score": 0.3,
+    "relevance_label": "high",
+    "title_en": "Latent Space AI News: A Quiet Day After a Week of Nonstop Model Releases",
+    "summary_ko": "AI 모델 출시가 이어진 한 주 후 비교적 조용한 하루를 다룬 뉴스레터 요약이다. 특별한 주요 발표나 신규 모델 출시 없이 업계가 잠시 숨 고르기에 들어간 모습이다. 원문에서 구체적인 기술 동향이나 기업 관련 세부 내용은 확인되지 않는다.",
+    "summary_en": "This newsletter edition from Latent Space covers a notably quiet day in the AI industry following a busy week of consecutive model releases. No major announcements or product launches were reported on this particular day. Specific technical developments or company-level details are not confirmed in the source excerpt.",
+    "so_what_ko": "AI 모델 출시 사이클이 빠르게 반복되고 있어, LG D2C 조직은 새로운 모델 및 기술 변화를 지속적으로 모니터링하는 체계를 갖출 필요가 있다.",
+    "so_what_en": "The rapid cadence of AI model releases underscores the need for LG D2C to maintain a continuous monitoring system to quickly assess and adopt relevant new capabilities.",
+    "key_points": [
+      "AI 모델 출시가 집중된 주 이후 업계가 소강 상태에 접어든 신호",
+      "특정 모델이나 기업 관련 세부 정보는 원문에서 확인되지 않음",
+      "AI 업계의 빠른 릴리즈 사이클이 지속되고 있음을 시사"
+    ],
+    "tags": [
+      "ai-news",
+      "model-releases",
+      "ai-industry"
+    ],
+    "confidence": 0.4,
+    "strategic_theme": "EMERGING_TECH",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Latent Space"
+    ],
+    "one_line_insight_ko": "AI 모델 출시 주기가 빨라지는 가운데, 업계 동향을 상시 추적하는 모니터링 체계가 필수적이다.",
+    "one_line_insight_en": "As AI model release cycles accelerate, continuous industry monitoring is becoming a strategic necessity.",
+    "ai_processed": true
+  },
+  {
+    "title": "On commercial chief exits amid leadership restructure",
+    "link": "https://www.retaildive.com/news/on-commercial-chief-exits-leadership-restructure-customer-chief-global-markets/824951/",
+    "date_published": "2026-07-10",
+    "description": "The activewear brand is splitting the role in two, with Rebecca Cai taking on oversight of global markets and Alice Delahunt joining to focus on the customer.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.5,
+    "relevance_label": "high",
+    "title_en": "On Splits Commercial Chief Role Amid Leadership Restructure, Names Alice Delahunt as Customer Chief",
+    "summary_ko": "On(온)은 리더십 개편의 일환으로 최고 상업 책임자(CCO) 역할을 두 개로 분리했다. Rebecca Cai가 글로벌 마켓 총괄을, Alice Delahunt가 고객 경험 중심의 새로운 직책을 맡게 된다. 이번 구조 개편은 글로벌 시장 확장과 고객 중심 전략을 동시에 강화하려는 On의 의도를 반영한다.",
+    "summary_en": "Activewear brand On is restructuring its commercial leadership by splitting the Chief Commercial Officer role into two distinct positions. Rebecca Cai will oversee global markets, while Alice Delahunt joins to focus specifically on the customer. This restructure signals On's intent to simultaneously scale its global presence and deepen its customer-centric strategy.",
+    "so_what_ko": "고객 경험 전담 리더십을 별도로 두는 전략은 D2C 브랜드가 글로벌 확장과 고객 관계를 균형 있게 관리하는 선진 사례로, LG D2C도 고객 전담 조직 구조를 검토할 수 있다.",
+    "so_what_en": "Separating global market expansion from customer experience leadership is a best-practice signal for D2C organizations; LG D2C should evaluate whether a dedicated customer experience leadership role could drive stronger retention and loyalty.",
+    "key_points": [
+      "On이 CCO 역할을 글로벌 마켓(Rebecca Cai)과 고객 경험(Alice Delahunt)으로 분리",
+      "고객 중심 전략을 조직 구조 차원에서 강화하는 D2C 트렌드 반영",
+      "글로벌 확장과 고객 관계 관리를 동시에 추진하는 이중 전략 채택"
+    ],
+    "tags": [
+      "d2c-strategy",
+      "leadership",
+      "customer-experience",
+      "retail-restructure"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "On",
+      "Rebecca Cai",
+      "Alice Delahunt"
+    ],
+    "one_line_insight_ko": "고객 경험 전담 리더십 분리는 D2C 브랜드의 조직 성숙도를 높이는 핵심 구조적 전략이다.",
+    "one_line_insight_en": "Separating customer experience leadership from commercial operations is becoming a structural hallmark of mature D2C brands.",
+    "ai_processed": true
+  },
+  {
+    "title": "Nike versus Adidas: Who’s spending more in race to claim the World Cup crown?",
+    "link": "https://digiday.com/marketing/nike-versus-adidas-whos-spending-more-in-race-to-claim-the-world-cup-crown/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-07-10",
+    "description": "With the World Cup at the midway point, ad spend estimates show the apparel rivals taking opposite tacks in their media approaches.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "marketing"
+    ],
+    "relevance_score": 0.45,
+    "relevance_label": "high",
+    "title_en": "Nike vs. Adidas: Contrasting Media Strategies in the Race for World Cup Ad Dominance",
+    "summary_ko": "2026 FIFA 월드컵을 기점으로 나이키와 아디다스가 서로 다른 미디어 전략으로 광고 경쟁을 벌이고 있다. 광고 지출 추정치에 따르면 두 브랜드는 미디어 믹스와 집행 방식에서 상반된 접근법을 취하고 있다. 구체적인 광고비 수치와 채널별 전략은 원문에서 확인되지 않는다.",
+    "summary_en": "Nike and Adidas are competing aggressively for World Cup advertising dominance, with ad spend estimates revealing opposite media approaches from the two apparel rivals. The two brands are reportedly taking contrasting tacks in their media mix strategies at the tournament's midway point. Specific ad spend figures and channel-level breakdowns are not confirmed in the source excerpt.",
+    "so_what_ko": "대형 스포츠 이벤트를 활용한 경쟁사 간 미디어 전략 차별화는 LG D2C가 글로벌 캠페인 기획 시 채널 다각화와 집행 타이밍 전략을 벤치마킹할 수 있는 사례다.",
+    "so_what_en": "The diverging media strategies of Nike and Adidas during major global events offer LG D2C a useful benchmark for evaluating channel diversification and timing strategies in high-reach campaign moments.",
+    "key_points": [
+      "나이키와 아디다스가 월드컵 광고에서 상반된 미디어 전략 채택",
+      "대형 스포츠 이벤트 기간 광고 집행 방식의 전략적 차별화 사례",
+      "구체적 광고비 수치는 원문에서 확인되지 않음"
+    ],
+    "tags": [
+      "advertising",
+      "world-cup",
+      "media-strategy",
+      "brand-competition"
+    ],
+    "confidence": 0.5,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Nike",
+      "Adidas",
+      "FIFA World Cup"
+    ],
+    "one_line_insight_ko": "글로벌 대형 이벤트에서 브랜드 간 미디어 전략의 차별화가 경쟁 우위를 결정하는 핵심 변수로 부상하고 있다.",
+    "one_line_insight_en": "Diverging media investment strategies during global tentpole events are emerging as a critical differentiator in brand competition.",
+    "ai_processed": true
+  },
+  {
+    "title": "Ticker: Uncertainty Grips CNN Ahead of Paramount Acquisition",
+    "link": "https://www.adweek.com/tvnewser/ticker-uncertainty-grips-cnn-ahead-of-paramount-acquisition/",
+    "date_published": "2026-07-10",
+    "description": "CNN CEO Mark Thompson is reportedly unsure of what to expect.",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
+    "categories": [
+      "marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.25,
+    "relevance_label": "high",
+    "title_en": "Uncertainty Grips CNN Ahead of Paramount Acquisition Amid Leadership Concerns",
+    "summary_ko": "파라마운트 인수를 앞두고 CNN 내부에서 불확실성이 고조되고 있다. CNN CEO 마크 톰슨이 향후 상황에 대해 확신하지 못하는 것으로 알려졌다. 인수 이후 CNN의 조직 및 사업 방향에 대한 구체적인 내용은 원문에서 확인되지 않는다.",
+    "summary_en": "Uncertainty is reportedly mounting at CNN as the network faces changes tied to an upcoming Paramount acquisition. CNN CEO Mark Thompson is said to be unsure of what to expect from the transition. Specific details about post-acquisition organizational or strategic changes are not confirmed in the source excerpt.",
+    "so_what_ko": "미디어 산업의 대형 M&A는 광고 인벤토리와 미디어 파트너십 구조 변화를 초래할 수 있어, LG D2C는 미디어 파트너 동향을 지속 모니터링해야 한다.",
+    "so_what_en": "Large-scale media M&A can reshape advertising inventory and partnership structures, making it important for LG D2C to monitor shifts among key media partners.",
+    "key_points": [
+      "파라마운트 인수 앞두고 CNN 내 불확실성 고조",
+      "CNN CEO 마크 톰슨이 향후 방향에 대해 불확실한 입장",
+      "미디어 업계 M&A가 광고 생태계에 미칠 잠재적 영향 주목 필요"
+    ],
+    "tags": [
+      "media-industry",
+      "mergers-acquisitions",
+      "cnn",
+      "advertising"
+    ],
+    "confidence": 0.5,
+    "strategic_theme": "PLATFORM_ECOSYSTEM",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "CNN",
+      "Paramount",
+      "Mark Thompson"
+    ],
+    "one_line_insight_ko": "미디어 업계의 대형 M&A는 광고 시장 구조를 재편하며 D2C 브랜드의 미디어 전략에 간접적 영향을 줄 수 있다.",
+    "one_line_insight_en": "Major media M&A activity can indirectly reshape the advertising landscape, warranting close attention from D2C brands with significant media investments.",
+    "ai_processed": true
+  },
+  {
+    "title": "The Maker of Slim Jim, Reddi-wip, and Swiss Miss Has a New Commerce Agency",
+    "link": "https://www.adweek.com/commerce/the-maker-of-slim-jim-reddi-wip-and-swiss-miss-has-a-new-commerce-agency/",
+    "date_published": "2026-07-10",
+    "description": "Conagra Brands, parent company to a portfolio of more than 100 consumer packaged goods brands, selected WPP-owned Barrows as its new commerce marketing agency of record following a competitive review. […]",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
+    "categories": [
+      "commerce",
+      "marketing"
+    ],
+    "relevance_score": 0.6,
+    "relevance_label": "high",
+    "title_en": "Conagra Brands Selects WPP's Barrows as New Commerce Marketing Agency of Record",
+    "summary_ko": "콘아그라 브랜드가 100개 이상의 소비재 브랜드 포트폴리오를 보유한 대형 CPG 기업으로, 경쟁 입찰 끝에 WPP 산하 Barrows를 새로운 커머스 마케팅 에이전시 오브 레코드로 선정했다. 이번 파트너십은 콘아그라의 커머스 마케팅 전략을 전문 에이전시와 함께 강화하려는 의도를 반영한다. Slim Jim, Reddi-wip, Swiss Miss 등 주요 브랜드의 커머스 마케팅을 Barrows가 통합 지원하게 된다.",
+    "summary_en": "Conagra Brands, a major CPG company with a portfolio of more than 100 consumer brands, has selected WPP-owned Barrows as its new commerce marketing agency of record following a competitive review. The partnership reflects Conagra's intent to strengthen its commerce marketing strategy with specialized agency support. Barrows will provide integrated commerce marketing support for key brands including Slim Jim, Reddi-wip, and Swiss Miss.",
+    "so_what_ko": "대형 CPG 기업이 커머스 마케팅 전문 에이전시를 별도로 선정하는 트렌드는 커머스 마케팅의 전문화·고도화를 의미하며, LG D2C도 커머스 마케팅 역량 강화를 위한 파트너십 전략을 검토할 필요가 있다.",
+    "so_what_en": "The trend of major CPG companies appointing dedicated commerce marketing agencies signals the growing specialization of the field; LG D2C should evaluate whether its current agency partnerships adequately address the complexity of modern commerce marketing.",
+    "key_points": [
+      "콘아그라 브랜드가 경쟁 입찰 끝에 WPP 산하 Barrows를 커머스 마케팅 AOR로 선정",
+      "100개 이상 브랜드 포트폴리오의 커머스 마케팅을 단일 전문 에이전시에 통합",
+      "CPG 업계에서 커머스 마케팅 전문 에이전시 파트너십이 확대되는 트렌드 반영"
+    ],
+    "tags": [
+      "commerce-marketing",
+      "cpg",
+      "agency-of-record",
+      "wpp",
+      "conagra"
     ],
     "confidence": 0.75,
     "strategic_theme": "AI_COMMERCE",
@@ -543,154 +672,17 @@
       "AMER",
       "GLOBAL"
     ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Amazon"
-    ],
-    "one_line_insight_ko": "AI 추천 트래픽이 아마존 구매 경로를 재편하고 있어, 브랜드의 제품 콘텐츠 최적화 전략의 패러다임 전환이 시급하다.",
-    "one_line_insight_en": "AI referral traffic is disrupting the Amazon funnel, demanding a fundamental rethink of how brands optimize for product discovery in an AI-mediated commerce environment.",
-    "ai_processed": true
-  },
-  {
-    "title": "[AINews] OpenAI launches GPT 5.6 Sol/Terra/Luna, Codex becomes ChatGPT superapp",
-    "link": "https://www.latent.space/p/ainews-openai-launches-gpt-56-solterraluna",
-    "date_published": "2026-07-10",
-    "description": "A big day for OpenAI.",
-    "source_id": "latent_space",
-    "source_name": "Latent Space (The AI Index)",
-    "source_url": "https://www.latent.space/feed",
-    "categories": [
-      "tech"
-    ],
-    "relevance_score": 0.55,
-    "relevance_label": "high",
-    "title_en": "OpenAI Launches GPT-5.6 Model Family and Transforms Codex into a ChatGPT Superapp",
-    "summary_ko": "OpenAI가 GPT-5.6 Sol, Terra, Luna 등 새로운 모델 패밀리를 출시하고, Codex를 ChatGPT 수퍼앱으로 전환하는 대규모 업데이트를 단행했다. 이는 OpenAI의 제품 생태계 확장과 플랫폼 통합 전략을 보여주는 중요한 행보다. 세부 기능 및 성능 사양은 원문에서 충분히 확인되지 않음.",
-    "summary_en": "OpenAI announced the launch of the GPT-5.6 model family, including variants named Sol, Terra, and Luna, alongside a repositioning of Codex as a ChatGPT superapp. This represents a significant expansion of OpenAI's product ecosystem and platform integration strategy. Detailed feature specifications and performance benchmarks are not fully confirmed in the source excerpt.",
-    "so_what_ko": "GPT-5.6 모델 패밀리의 출시는 LG D2C가 활용 가능한 AI 기반 고객 응대, 콘텐츠 생성, 커머스 자동화 도구의 성능 향상을 의미하므로 적용 가능성을 지속 모니터링해야 한다.",
-    "so_what_en": "The GPT-5.6 release signals improved AI capabilities available for D2C applications including customer service, content generation, and commerce automation—LG should evaluate integration opportunities.",
-    "key_points": [
-      "OpenAI launched GPT-5.6 with three model variants: Sol, Terra, and Luna",
-      "Codex has been evolved into a broader ChatGPT superapp",
-      "The move indicates OpenAI's strategy to consolidate its offerings into an integrated platform"
-    ],
-    "tags": [
-      "openai",
-      "gpt-5",
-      "llm",
-      "superapp",
-      "ai-platform"
-    ],
-    "confidence": 0.55,
-    "strategic_theme": "EMERGING_TECH",
-    "regions": [
-      "GLOBAL"
-    ],
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "OpenAI",
-      "ChatGPT",
-      "Codex",
-      "GPT-5.6"
+      "Conagra Brands",
+      "Barrows",
+      "WPP",
+      "Slim Jim",
+      "Reddi-wip"
     ],
-    "one_line_insight_ko": "OpenAI의 GPT-5.6 패밀리 출시와 수퍼앱 전략은 AI 기반 D2C 도구의 성능 향상과 통합 가속화를 예고한다.",
-    "one_line_insight_en": "OpenAI's GPT-5.6 family and superapp pivot signal accelerating AI capability improvements that will directly enhance D2C automation and personalization tools.",
-    "ai_processed": true
-  },
-  {
-    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-    "link": "https://openai.com/index/deutsche-telekom",
-    "date_published": "2026-07-10",
-    "description": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
-    "source_id": "openai_blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
-    "categories": [
-      "strategy",
-      "tech"
-    ],
-    "relevance_score": 0.72,
-    "relevance_label": "high",
-    "title_en": "Deutsche Telekom Becomes an AI-Native Telco by Transforming Customer Service and Operations with OpenAI",
-    "summary_ko": "도이치 텔레콤은 OpenAI와 협력하여 고객 서비스, 직원 업무 흐름, 네트워크 운영 전반에 AI를 도입하며 AI 네이티브 통신사로 전환하고 있다. 특히 음성 기반 AI 인터페이스의 미래를 선도하는 전략적 실험도 병행하고 있다. 이는 대형 기업이 AI를 단순 도구가 아닌 핵심 운영 인프라로 내재화하는 사례를 보여준다.",
-    "summary_en": "Deutsche Telekom is partnering with OpenAI to become an AI-native telecom company, integrating AI across customer service, employee workflows, and network operations. The initiative also explores the future of voice-based AI interfaces as a new customer interaction paradigm. This case illustrates how large enterprises are embedding AI as core operational infrastructure rather than a supplementary tool.",
-    "so_what_ko": "LG D2C 조직도 고객 서비스 자동화와 내부 업무 효율화를 위해 OpenAI 등 AI 파트너십을 통한 전사적 AI 네이티브 전환 전략을 적극 검토해야 한다.",
-    "so_what_en": "LG's D2C organization should benchmark Deutsche Telekom's AI-native transformation to accelerate its own AI integration across customer experience touchpoints and internal operations.",
-    "key_points": [
-      "Deutsche Telekom is partnering with OpenAI to embed AI across all major business functions",
-      "Scope includes customer service, employee workflows, network operations, and voice AI",
-      "The transformation positions AI as foundational infrastructure, not a point solution",
-      "Voice AI is highlighted as a key frontier for future customer interaction"
-    ],
-    "tags": [
-      "ai-transformation",
-      "customer-service",
-      "enterprise-ai",
-      "openai",
-      "voice-ai"
-    ],
-    "confidence": 0.82,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "EMEA",
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Deutsche Telekom",
-      "OpenAI"
-    ],
-    "one_line_insight_ko": "도이치 텔레콤의 AI 네이티브 전환 사례는 대기업이 AI를 운영 핵심 인프라로 내재화할 때 고객 경험과 운영 효율 모두에서 경쟁 우위를 확보할 수 있음을 입증한다.",
-    "one_line_insight_en": "Deutsche Telekom's AI-native transformation demonstrates that embedding AI as core infrastructure—not just a tool—can deliver simultaneous gains in customer experience and operational efficiency.",
-    "ai_processed": true
-  },
-  {
-    "title": "To manage 300,000 creators, Unilever automates everything but the relationship",
-    "link": "https://digiday.com/marketing/to-manage-300000-creators-unilever-automates-everything-but-the-relationship/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-07-10",
-    "description": "Unilever is using AI to vet creators and automate workflows as it scales a 300,000-creator network without handing over creative decisions.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
-    "categories": [
-      "ai_marketing",
-      "marketing"
-    ],
-    "relevance_score": 0.88,
-    "relevance_label": "high",
-    "title_en": "Unilever Automates Creator Vetting and Workflows to Manage a 300,000-Creator Network at Scale",
-    "summary_ko": "유니레버는 30만 명에 달하는 크리에이터 네트워크를 운영하기 위해 AI를 활용해 크리에이터 검증과 업무 자동화를 도입했다. 단, 창의적 의사결정은 인간이 유지하며 AI는 관계 관리를 제외한 모든 운영 프로세스를 자동화하는 방식을 택했다. 이는 AI와 인간 협업의 최적 경계를 설정한 대규모 인플루언서 마케팅의 선진 사례로 주목된다.",
-    "summary_en": "Unilever has deployed AI to vet creators and automate operational workflows across its 300,000-creator influencer network, one of the largest in the industry. Critically, the company retains human judgment for creative decisions and relationship management, using AI to handle scale while preserving authenticity. This hybrid model represents a benchmark approach for managing creator ecosystems at enterprise scale.",
-    "so_what_ko": "LG D2C 조직은 유니레버의 하이브리드 모델을 참고하여, 크리에이터 발굴·검증·성과 측정은 AI로 자동화하되 브랜드 관계와 창의적 방향성은 인간이 관리하는 인플루언서 마케팅 전략을 수립해야 한다.",
-    "so_what_en": "LG D2C should adopt a similar hybrid AI-human model for influencer marketing—automating creator discovery, vetting, and performance tracking with AI while keeping brand relationships and creative direction human-led.",
-    "key_points": [
-      "Unilever manages 300,000 creators using AI for vetting and workflow automation",
-      "Creative decisions and relationship management remain human-controlled",
-      "The model demonstrates scalable influencer marketing without sacrificing brand authenticity",
-      "AI handles operational scale; humans handle strategic and relational elements"
-    ],
-    "tags": [
-      "influencer-marketing",
-      "creator-economy",
-      "marketing-automation",
-      "ai-marketing",
-      "unilever"
-    ],
-    "confidence": 0.85,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Unilever"
-    ],
-    "one_line_insight_ko": "유니레버의 30만 크리에이터 네트워크 운영 모델은 AI 자동화와 인간 관계 관리의 최적 분업이 대규모 인플루언서 마케팅의 핵심 경쟁력임을 증명한다.",
-    "one_line_insight_en": "Unilever's 300,000-creator model proves that the winning formula for scaled influencer marketing is AI automation for operations paired with human stewardship for relationships and creativity.",
+    "one_line_insight_ko": "CPG 대기업의 커머스 마케팅 전문 에이전시 도입은 커머스와 마케팅의 경계가 통합 전문 역량으로 수렴하고 있음을 보여준다.",
+    "one_line_insight_en": "Major CPG brands appointing dedicated commerce marketing agencies signals that the convergence of commerce and marketing now demands specialized, integrated expertise.",
     "ai_processed": true
   }
 ]
