@@ -1,86 +1,549 @@
 [
   {
-    "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-    "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-    "date_published": "2026-07-11",
-    "description": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "title": "Modern Retail+ Research: Marketers hesitate to adopt AI for influencer and CTV marketing",
+    "link": "https://www.modernretail.co/marketing/modern-retail-research-marketers-hesitate-to-adopt-ai-for-influencer-and-ctv-marketing/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-07-13",
+    "description": "Advertisers are embracing AI for social media and retail media marketing. However, they are slower to adopt AI for influencer and CTV marketing. This is according to a Modern Retail+ Research survey of more than 100 marketing professionals in first-quarter 2026.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
     "categories": [
-      "commerce",
-      "strategy",
+      "marketing",
       "ai_marketing"
     ],
-    "relevance_score": 0.7,
+    "relevance_score": 0.82,
     "relevance_label": "high",
-    "title_en": "OpenAI Hires Family-Focused Product Manager to Expand ChatGPT Into Households",
-    "summary_ko": "OpenAI가 가족, 돌봄 제공자, 고령자를 위한 경험 구축을 전담할 제품 매니저를 채용하고 있다. 이는 ChatGPT를 개인 사용자 중심에서 가정 단위로 확장하려는 전략적 움직임이다. AI 어시스턴트가 가정 내 일상 깊숙이 침투하는 방향으로 경쟁이 심화되고 있음을 시사한다.",
-    "summary_en": "OpenAI is hiring a dedicated product manager to build ChatGPT experiences tailored for families, caregivers, and older adults. This signals a strategic push to expand ChatGPT's reach beyond individual users into the household as a unit. The move reflects intensifying competition to embed AI assistants into everyday home life.",
-    "so_what_ko": "AI가 가정 단위 소비 허브로 진화함에 따라, LG D2C는 가전 제품과 연계된 가족 맞춤형 AI 경험을 선제적으로 설계해 고객 생애 가치를 높여야 한다.",
-    "so_what_en": "As AI evolves into a household-level consumption hub, LG D2C should proactively design family-centric AI experiences integrated with home appliances to maximize customer lifetime value.",
+    "title_en": "Marketers Slow to Adopt AI for Influencer and CTV Marketing Despite Social Media Progress",
+    "summary_ko": "Modern Retail+ Research의 2026년 1분기 설문조사(마케터 100명 이상 대상)에 따르면, 마케터들은 소셜 미디어와 리테일 미디어 분야에서는 AI를 적극 수용하고 있다. 그러나 인플루언서 마케팅과 CTV(커넥티드 TV) 마케팅에서는 AI 도입 속도가 상대적으로 느린 것으로 나타났다. 채널별로 AI 채택 속도에 뚜렷한 격차가 존재함을 보여주는 결과다.",
+    "summary_en": "A Modern Retail+ Research survey of more than 100 marketing professionals conducted in Q1 2026 reveals that advertisers are actively embracing AI for social media and retail media marketing. However, adoption lags significantly for influencer and CTV marketing channels. The findings highlight an uneven pace of AI integration across different marketing disciplines.",
+    "so_what_ko": "LG D2C 마케팅팀은 AI 도입이 상대적으로 성숙한 소셜 미디어·리테일 미디어 채널에서 AI 자동화를 우선 확대하고, 인플루언서 및 CTV 채널에 대한 AI 적용 로드맵을 별도로 수립해 경쟁 우위를 확보해야 한다.",
+    "so_what_en": "LG D2C teams should prioritize AI automation in social and retail media where adoption is mature, while building a dedicated roadmap for AI integration in influencer and CTV channels to gain first-mover advantage.",
     "key_points": [
-      "OpenAI is recruiting a product manager specifically for family, caregiver, and older adult user segments",
-      "Strategy reflects a shift from individual to household-level AI penetration",
-      "Intensifying competition to own the AI layer within the home environment"
+      "100명 이상의 마케팅 전문가 대상 2026년 1분기 설문 결과",
+      "소셜 미디어·리테일 미디어: AI 도입 활발",
+      "인플루언서·CTV 마케팅: AI 도입 속도 상대적으로 느림",
+      "채널별 AI 채택 격차가 마케팅 전략 우선순위에 영향"
     ],
     "tags": [
-      "chatgpt",
-      "family-ai",
-      "household-ai",
-      "ai-assistant",
-      "openai"
+      "ai-marketing",
+      "influencer-marketing",
+      "ctv",
+      "retail-media",
+      "ad-tech"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER",
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Modern Retail"
+    ],
+    "one_line_insight_ko": "AI 마케팅 채택이 채널별로 불균등하게 진행되고 있어, 후발 채널인 인플루언서·CTV에서 조기 AI 도입 시 차별화 기회가 존재한다.",
+    "one_line_insight_en": "Uneven AI adoption across marketing channels means early movers in influencer and CTV AI integration can gain a significant competitive edge.",
+    "ai_processed": true
+  },
+  {
+    "title": "WTF is SPUR’s publisher-run Content Telemetry Framework?",
+    "link": "https://digiday.com/media/wtf-is-spurs-publisher-run-content-telemetry-framework/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-07-13",
+    "description": "SPUR is publisher‑run and fixated on one thing: turning AI’s use of their content from opaque scraping into a transparent, usage‑based licensing system they control.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "tech",
+      "strategy"
+    ],
+    "relevance_score": 0.58,
+    "relevance_label": "high",
+    "title_en": "SPUR Launches Publisher-Run Content Telemetry Framework to Bring Transparency to AI Licensing",
+    "summary_ko": "SPUR는 퍼블리셔 주도의 콘텐츠 텔레메트리 프레임워크를 구축해, AI가 퍼블리셔 콘텐츠를 불투명하게 스크래핑하는 방식을 투명한 사용량 기반 라이선싱 시스템으로 전환하는 것을 목표로 한다. 이 프레임워크는 퍼블리셔가 AI의 콘텐츠 활용 방식을 직접 통제할 수 있도록 설계되어 있다. 생성 AI의 콘텐츠 무단 사용 문제에 대한 퍼블리셔 측의 구체적인 대응책으로 주목받고 있다.",
+    "summary_en": "SPUR is a publisher-run initiative focused on transforming AI's opaque scraping of publisher content into a transparent, usage-based licensing system controlled by publishers themselves. The Content Telemetry Framework is designed to give publishers direct visibility and control over how their content is used by AI systems. It represents a concrete industry response to the growing tension between AI developers and content creators over unauthorized data use.",
+    "so_what_ko": "LG D2C가 생성 AI 기반 콘텐츠 전략을 확대할 경우, SPUR와 같은 퍼블리셔 주도 라이선싱 프레임워크의 동향을 주시하고 콘텐츠 조달 시 법적·윤리적 리스크를 사전에 관리해야 한다.",
+    "so_what_en": "As LG D2C scales generative AI content strategies, monitoring publisher-led licensing frameworks like SPUR is essential to proactively manage legal and reputational risks in AI-driven content sourcing.",
+    "key_points": [
+      "SPUR는 퍼블리셔가 직접 운영하는 AI 콘텐츠 라이선싱 이니셔티브",
+      "불투명한 AI 스크래핑을 사용량 기반 투명 라이선싱으로 전환하는 것이 핵심 목표",
+      "퍼블리셔의 콘텐츠 통제권 강화를 위한 텔레메트리 기반 추적 시스템 도입",
+      "AI와 콘텐츠 생태계 간 권리 분쟁에 대한 업계 차원의 대응 사례"
+    ],
+    "tags": [
+      "ai-content-licensing",
+      "publisher-rights",
+      "content-telemetry",
+      "generative-ai",
+      "ad-tech"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "PLATFORM_ECOSYSTEM",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "SPUR"
+    ],
+    "one_line_insight_ko": "AI의 콘텐츠 무단 활용에 맞서 퍼블리셔 주도의 사용량 기반 라이선싱 프레임워크가 등장하며 콘텐츠 조달 환경이 근본적으로 변화하고 있다.",
+    "one_line_insight_en": "Publisher-led usage-based licensing frameworks are reshaping the AI content landscape, signaling tighter controls and potential costs for brands relying on AI-generated or AI-curated content.",
+    "ai_processed": true
+  },
+  {
+    "title": "NASCAR rebuilds its commercial engine to tempt back motorsports fans",
+    "link": "https://digiday.com/marketing/nascar-rebuilds-its-commercial-engine-to-tempt-back-motorsports-fans/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-07-13",
+    "description": "Behind the scenes, the motorsport and racetrack business hopes a commercial refit and consumer-facing hero campaign can help it hold the line amid F1’s growing U.S. popularity.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.25,
+    "relevance_label": "high",
+    "title_en": "NASCAR Overhauls Commercial Strategy with Hero Campaign to Win Back Fans Amid F1's U.S. Surge",
+    "summary_ko": "NASCAR는 미국 내 F1의 급성장에 대응하기 위해 상업적 구조를 전면 재정비하고 소비자 대상 대규모 캠페인을 전개하고 있다. 레이스트랙 운영 사업과 함께 팬 재유치를 위한 전략적 리포지셔닝이 핵심이다. 원문에서 AI 관련 구체적인 기술 적용 내용은 확인되지 않으며, 스포츠 마케팅 전략 사례로서의 의미가 크다.",
+    "summary_en": "NASCAR is undertaking a comprehensive commercial overhaul, including a consumer-facing hero campaign, to recapture motorsports fans in the face of Formula 1's growing popularity in the United States. The restructuring covers both its motorsport operations and racetrack business segments. The initiative represents a broader repositioning effort rather than an AI-specific marketing transformation.",
+    "so_what_ko": "이 기사는 AI 커머스·마케팅과의 직접적 관련성이 낮으며, LG D2C 전략에 대한 즉각적인 시사점은 제한적이다. 다만 전통 스포츠 브랜드의 팬 이탈 방지를 위한 상업적 리브랜딩 전략은 참고 사례로 활용 가능하다.",
+    "so_what_en": "This article has limited direct relevance to AI commerce or marketing for LG D2C, but NASCAR's audience re-engagement strategy offers a reference case for brand repositioning when facing competitive disruption.",
+    "key_points": [
+      "NASCAR가 F1의 미국 시장 성장에 대응한 상업적 구조 개편 추진",
+      "소비자 대상 '히어로 캠페인' 론칭으로 팬 재유치 도모",
+      "레이스트랙 비즈니스와 모터스포츠 사업 전반에 걸친 리포지셔닝",
+      "AI 기술 활용 관련 구체적 내용은 원문에서 확인되지 않음"
+    ],
+    "tags": [
+      "sports-marketing",
+      "brand-repositioning",
+      "fan-engagement",
+      "competitive-strategy"
     ],
     "confidence": 0.65,
     "strategic_theme": "CUSTOMER_EXPERIENCE",
     "regions": [
-      "GLOBAL",
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "NASCAR",
+      "Formula 1"
+    ],
+    "one_line_insight_ko": "경쟁 심화로 팬을 잃어가는 NASCAR의 상업적 재정비는 브랜드 위기 시 구조적 리포지셔닝이 얼마나 중요한지를 보여주는 사례다.",
+    "one_line_insight_en": "NASCAR's commercial overhaul amid F1's rise illustrates how legacy brands must structurally reposition—not just campaign—when facing disruptive competition.",
+    "ai_processed": true
+  },
+  {
+    "title": "Intent Clusters Guide AI Product Discovery",
+    "link": "https://www.practicalecommerce.com/intent-clusters-guide-ai-product-discovery",
+    "date_published": "2026-07-12",
+    "description": "AI's growth in search and shopping adds precision to intent behaviors and opportunities.\nThe post Intent Clusters Guide AI Product Discovery appeared first on Practical Ecommerce.",
+    "source_id": "practical_ecommerce",
+    "source_name": "Practical Ecommerce",
+    "source_url": "https://www.practicalecommerce.com/feed",
+    "categories": [
+      "commerce",
+      "ai_marketing",
+      "agentic_commerce"
+    ],
+    "relevance_score": 0.88,
+    "relevance_label": "high",
+    "title_en": "Intent Clusters Are Redefining AI-Driven Product Discovery in E-Commerce",
+    "summary_ko": "AI 기반 검색과 쇼핑의 성장으로 '인텐트 클러스터(intent clusters)' 개념이 부상하며, AI가 소비자의 구매 의도를 더욱 정밀하게 파악하고 제품 탐색 경험을 고도화하고 있다. 인텐트 클러스터는 유사한 구매 의도를 가진 행동 신호를 묶어 AI가 더 정확한 상품 추천을 제공할 수 있도록 한다. 이커머스 사업자에게는 AI 탐색 알고리즘에 맞게 상품 정보와 콘텐츠를 최적화할 새로운 기회가 열리고 있다.",
+    "summary_en": "The rise of AI in search and shopping is bringing greater precision to understanding consumer intent through the concept of 'intent clusters'—groupings of behavioral signals that reflect similar purchase motivations. These clusters enable AI systems to deliver more accurate and contextually relevant product recommendations. For e-commerce operators, this creates new opportunities to optimize product content and discoverability for AI-driven search environments.",
+    "so_what_ko": "LG D2C는 AI 쇼핑 에이전트와 검색 알고리즘이 인텐트 클러스터를 활용해 상품을 추천하는 방식을 이해하고, 이에 맞게 제품 설명·태그·콘텐츠 구조를 최적화하는 AI-ready 상품 데이터 전략을 수립해야 한다.",
+    "so_what_en": "LG D2C should build an AI-ready product data strategy by understanding how intent clusters drive AI shopping recommendations, then structuring product descriptions, tags, and content to maximize visibility within AI-driven discovery engines.",
+    "key_points": [
+      "AI 검색·쇼핑 성장으로 인텐트 클러스터 기반 상품 탐색이 부상",
+      "소비자 구매 의도 신호를 클러스터링해 AI 추천 정확도 향상",
+      "이커머스 사업자에게 AI 탐색 최적화를 위한 콘텐츠 전략 재정비 필요",
+      "AI 에이전트 기반 쇼핑 환경에서 상품 데이터 품질이 경쟁력의 핵심으로 부상"
+    ],
+    "tags": [
+      "intent-clusters",
+      "ai-product-discovery",
+      "ai-search",
+      "ecommerce-optimization",
+      "personalization"
+    ],
+    "confidence": 0.72,
+    "strategic_theme": "AI_COMMERCE",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Practical Ecommerce"
+    ],
+    "one_line_insight_ko": "AI 쇼핑 시대에는 인텐트 클러스터를 이해하고 상품 데이터를 AI 탐색에 최적화하는 것이 D2C 브랜드의 핵심 경쟁력이 된다.",
+    "one_line_insight_en": "In the AI shopping era, optimizing product data around intent clusters is becoming the defining competitive capability for D2C brands.",
+    "ai_processed": true
+  },
+  {
+    "title": "After the click: Turning AI-referred shoppers into loyal customers",
+    "link": "https://www.retaildive.com/spons/after-the-click-turning-ai-referred-shoppers-into-loyal-customers/824663/",
+    "date_published": "2026-07-13",
+    "description": "AI that truly assists creates loyalty. Without it, stores are discovered but quickly forgotten.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "commerce",
+      "agentic_commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.92,
+    "relevance_label": "high",
+    "title_en": "AI-Referred Shoppers Demand Seamless Experiences to Convert from Discovery to Loyalty",
+    "summary_ko": "AI가 쇼핑 탐색 단계에서 소비자를 특정 브랜드로 유입시키는 역할이 커지면서, AI 유입 이후의 구매 경험이 충성 고객 전환의 핵심 변수로 떠오르고 있다. AI가 진정으로 쇼핑을 도와주는 경험을 제공할 때 고객 충성도가 형성되며, 그렇지 않을 경우 브랜드가 발견되더라도 금방 잊혀진다. 이는 AI 쇼핑 유입 이후의 온사이트 경험과 CX 최적화가 D2C 전략의 새로운 핵심 과제임을 시사한다.",
+    "summary_en": "As AI systems increasingly drive shoppers to specific brands during the discovery phase, the post-click experience has become the critical determinant of whether those shoppers convert into loyal customers. AI that genuinely assists consumers through the shopping journey creates lasting loyalty, while poor experiences mean brands are quickly forgotten despite being discovered. This underscores the growing importance of optimizing on-site experience and customer journey for AI-referred traffic.",
+    "so_what_ko": "LG D2C는 AI 쇼핑 에이전트를 통한 유입 트래픽을 충성 고객으로 전환하기 위해, AI 유입 후 랜딩 경험·개인화 추천·구매 후 관리까지 이어지는 통합 CX 전략을 강화해야 한다.",
+    "so_what_en": "LG D2C must build an integrated CX strategy that converts AI-referred traffic into loyal customers by optimizing the landing experience, personalized recommendations, and post-purchase engagement across the full journey.",
+    "key_points": [
+      "AI가 쇼핑 탐색 단계에서 브랜드 유입의 새로운 관문으로 부상",
+      "AI 유입 이후 경험의 질이 고객 충성도 전환의 핵심 결정 요인",
+      "진정성 있는 AI 쇼핑 지원이 이루어질 때만 고객 로열티 형성 가능",
+      "AI 유입 트래픽 대응을 위한 온사이트 CX 및 개인화 전략 고도화 필요"
+    ],
+    "tags": [
+      "ai-referred-shoppers",
+      "customer-loyalty",
+      "agentic-commerce",
+      "post-click-experience",
+      "d2c-cx"
+    ],
+    "confidence": 0.78,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Retail Dive"
+    ],
+    "one_line_insight_ko": "AI가 쇼핑 유입의 관문이 되는 시대에는 클릭 이후의 경험 품질이 브랜드 충성도를 결정하는 새로운 전장이 된다.",
+    "one_line_insight_en": "In the age of AI-driven discovery, the post-click experience is the new battleground where brand loyalty is won or lost.",
+    "ai_processed": true
+  },
+  {
+    "title": "Why Farmers Insurance flipped its jingle as part of all-pink rebrand",
+    "link": "https://www.marketingdive.com/news/why-farmers-insurance-flipped-jingle-part-all-pink-rebrand/824955/",
+    "date_published": "2026-07-13",
+    "description": "The effort is intended to help the brand stand out amid a “sea of sameness” in the insurance category, said Eleanor Solomon, head of creative at the brand.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
+    "categories": [
+      "marketing"
+    ],
+    "relevance_score": 0.4,
+    "relevance_label": "high",
+    "title_en": "Farmers Insurance Goes All-Pink in Bold Rebrand to Break Through Insurance 'Sea of Sameness'",
+    "summary_ko": "파머스 인슈어런스는 보험 카테고리 내 '획일화된 이미지'에서 벗어나기 위해 올핑크 리브랜딩과 기존 징글을 변형한 캠페인을 진행했다. 브랜드의 크리에이티브 총괄 Eleanor Solomon은 차별화된 시각적 정체성 확립을 목표로 밝혔다. 이번 캠페인은 경쟁이 치열한 보험 시장에서 브랜드 인지도를 높이기 위한 전략적 시도다.",
+    "summary_en": "Farmers Insurance launched an all-pink rebrand accompanied by a flipped version of its well-known jingle to differentiate itself in a crowded insurance market. Eleanor Solomon, head of creative at the brand, stated the goal was to stand out amid a 'sea of sameness' in the insurance category. The campaign represents a bold creative strategy to build distinctive brand equity in a competitive landscape.",
+    "so_what_ko": "LG D2C도 가전 카테고리 내 브랜드 차별화를 위해 감각적이고 일관된 비주얼 아이덴티티 전략을 적극 검토할 필요가 있다.",
+    "so_what_en": "LG D2C should consider bold, cohesive visual identity strategies to differentiate its brand in a commoditized home appliance market.",
+    "key_points": [
+      "보험 카테고리의 '획일성'을 탈피하기 위한 올핑크 비주얼 리브랜딩 실시",
+      "기존 브랜드 자산인 징글을 변형하여 친숙함과 새로움을 동시에 추구",
+      "크리에이티브 총괄 주도 하에 브랜드 차별화 전략 추진"
+    ],
+    "tags": [
+      "brand-differentiation",
+      "rebranding",
+      "creative-strategy",
+      "insurance-marketing"
+    ],
+    "confidence": 0.65,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Farmers Insurance",
+      "Eleanor Solomon"
+    ],
+    "one_line_insight_ko": "카테고리 내 차별화를 위한 과감한 리브랜딩은 획일화된 시장에서 브랜드 존재감을 높이는 유효한 전략이다.",
+    "one_line_insight_en": "Bold rebranding with a distinctive visual identity can be an effective antidote to category sameness in competitive markets.",
+    "ai_processed": true
+  },
+  {
+    "title": "DTC brands are finding growth with older customers",
+    "link": "https://www.modernretail.co/marketing/dtc-brands-are-finding-growth-with-older-customers/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-07-13",
+    "description": "DTC brands like Little Spoon and Boarderie are adjusting their marketing to win over older consumers like grandparents and Boomer parents.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
+    "categories": [
+      "commerce",
+      "marketing"
+    ],
+    "relevance_score": 0.72,
+    "relevance_label": "high",
+    "title_en": "DTC Brands Unlock New Growth by Targeting Older Consumers Including Boomers and Grandparents",
+    "summary_ko": "Little Spoon, Boarderie 등 DTC 브랜드들이 베이비부머와 조부모 세대를 새로운 성장 동력으로 주목하며 마케팅 전략을 조정하고 있다. 고령 소비자들은 구매력이 높고 브랜드 충성도가 강한 특성을 보여 DTC 채널의 새로운 핵심 타깃으로 부상 중이다. 이들 브랜드는 메시지, 비주얼, 채널 전략을 고령층 소비자에 맞게 최적화하고 있다.",
+    "summary_en": "DTC brands such as Little Spoon and Boarderie are pivoting their marketing strategies to capture growth from older consumers, including grandparents and Baby Boomer parents. Older consumers represent a high-purchasing-power segment with strong brand loyalty, making them an increasingly attractive target for direct-to-consumer channels. These brands are adapting their messaging, visuals, and channel mix to better resonate with this demographic.",
+    "so_what_ko": "LG D2C는 구매력 높은 5060 세대를 위한 맞춤형 콘텐츠와 채널 전략을 강화하여 미개발 성장 기회를 선점해야 한다.",
+    "so_what_en": "LG D2C should develop targeted content and channel strategies for the 50-60+ demographic to capture an underserved, high-value growth segment.",
+    "key_points": [
+      "DTC 브랜드들이 베이비부머·조부모 세대를 새로운 핵심 타깃으로 설정",
+      "고령 소비자는 높은 구매력과 강한 브랜드 충성도를 보유",
+      "메시지, 비주얼, 채널 전략을 고령층에 맞게 최적화하는 추세",
+      "Little Spoon, Boarderie 등 다양한 카테고리 DTC 브랜드가 동참"
+    ],
+    "tags": [
+      "dtc",
+      "older-consumers",
+      "demographic-targeting",
+      "d2c-growth",
+      "boomer-marketing"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "regions": [
       "AMER"
     ],
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "OpenAI",
-      "ChatGPT"
+      "Little Spoon",
+      "Boarderie"
     ],
-    "one_line_insight_ko": "OpenAI의 가족 중심 AI 전략은 가전 기업인 LG에게 홈 AI 경험의 주도권 확보가 시급함을 경고한다.",
-    "one_line_insight_en": "OpenAI's family-focused AI strategy signals urgency for home appliance leaders like LG to own the household AI experience layer.",
+    "one_line_insight_ko": "고령 소비자는 DTC 브랜드의 차세대 성장 동력으로, 맞춤형 마케팅 접근이 새로운 경쟁 우위를 창출할 수 있다.",
+    "one_line_insight_en": "Older consumers represent an untapped DTC growth frontier, and brands that tailor their marketing to this demographic can gain a meaningful competitive edge.",
     "ai_processed": true
   },
   {
-    "title": "The New AI Trust Architecture: 5 Requirements for Agent-to-Agent Communication",
-    "link": "https://www.salesforce.com/blog/new-ai-trust-architecture/",
-    "date_published": "2026-07-10",
-    "description": "In London in 1832, clerks from thirty-one competing banks gathered every afternoon on Lombard Street to settle accounts. Each bank had already mastered the basics — tracking debits, crediting accounts, settling balances. The…",
-    "source_id": "salesforce_agentforce",
-    "source_name": "Salesforce Agentforce Blog",
-    "source_url": "https://www.salesforce.com/blog/category/ai/feed/",
+    "title": "Ways to think about token pricing",
+    "link": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
+    "date_published": "2026-07-09",
+    "description": "AI is in a supply crunch today, but what happens when we come out of it? \r\nHow and where will supply, demand, price, capacity and capex get back into \r\nequilibrium? Today, model labs can name their price, but why won’t they end \r\nup as low-margin commodity infrastructure?",
+    "source_id": "benedict_evans",
+    "source_name": "Benedict Evans Newsletter",
+    "source_url": "https://www.ben-evans.com/benedictevans?format=RSS",
+    "categories": [
+      "strategy",
+      "tech"
+    ],
+    "relevance_score": 0.6,
+    "relevance_label": "high",
+    "title_en": "Token Pricing in AI: Will Model Labs Become Low-Margin Commodity Infrastructure?",
+    "summary_ko": "현재 AI 시장은 공급 부족 상태이지만, 향후 공급이 확대될 경우 AI 모델 가격이 급락하고 모델 랩들이 저마진 범용 인프라로 전락할 수 있다는 분석이 제기됐다. 토큰 가격 결정 방식과 수요·공급·설비투자 간 균형 회복 경로에 대한 다양한 시나리오가 논의된다. 현재 모델 랩들이 가격 주도권을 갖고 있지만, 경쟁 심화에 따라 이 구조가 붕괴될 수 있다.",
+    "summary_en": "AI is currently experiencing a supply crunch, but Benedict Evans analyzes what happens when supply expands and whether model labs will be reduced to low-margin commodity infrastructure. The piece explores different frameworks for understanding token pricing and how supply, demand, price, capacity, and capital expenditure might reach equilibrium. While model labs currently set prices freely, increasing competition could erode this pricing power significantly.",
+    "so_what_ko": "AI 인프라 비용이 장기적으로 하락할 가능성이 높으므로, LG D2C는 AI 도입 시 벤더 종속을 최소화하고 비용 효율적인 멀티모델 전략을 준비해야 한다.",
+    "so_what_en": "As AI infrastructure costs are likely to decline long-term, LG D2C should minimize vendor lock-in and prepare a cost-efficient multi-model strategy for AI adoption.",
+    "key_points": [
+      "현재 AI 공급 부족으로 모델 랩이 가격 주도권 보유 중",
+      "공급 확대 시 토큰 가격 하락 및 범용 인프라화 가능성 존재",
+      "수요·공급·설비투자 균형 회복 경로에 대한 다양한 시나리오 분석",
+      "AI 비용 구조 변화는 기업의 AI 투자 전략에 중요한 시사점"
+    ],
+    "tags": [
+      "token-pricing",
+      "ai-infrastructure",
+      "ai-economics",
+      "competitive-dynamics"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Benedict Evans"
+    ],
+    "one_line_insight_ko": "AI 토큰 가격의 장기적 하락은 불가피하며, 이는 기업의 AI 벤더 전략과 비용 구조 계획에 근본적인 재검토를 요구한다.",
+    "one_line_insight_en": "Long-term AI token price compression appears inevitable, demanding a fundamental rethink of enterprise vendor strategy and AI cost structures.",
+    "ai_processed": true
+  },
+  {
+    "title": "Capturing token IDs during agentic interactions for better reinforcement learning",
+    "link": "https://www.amazon.science/blog/capturing-token-ids-during-agentic-interactions-for-better-reinforcement-learning",
+    "date_published": "2026-07-09",
+    "description": "A new Rust proxy called Turnstile sits between the model backend and the agent harness to capture information lost in mere text transcripts.",
+    "source_id": "amazon_science",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science/index.rss",
+    "categories": [
+      "tech",
+      "agentic_commerce"
+    ],
+    "relevance_score": 0.65,
+    "relevance_label": "high",
+    "title_en": "Amazon Introduces Turnstile Rust Proxy to Capture Token IDs in Agentic AI Interactions for Better RL",
+    "summary_ko": "아마존 사이언스는 에이전틱 AI 상호작용 중 텍스트 전사에서 손실되는 토큰 ID 정보를 포착하기 위해 'Turnstile'이라는 Rust 기반 프록시를 개발했다. 이 도구는 모델 백엔드와 에이전트 하네스 사이에 위치하여 강화학습(RL) 품질 향상에 필요한 세밀한 데이터를 수집한다. 에이전틱 AI 시스템의 학습 효율성과 성능 개선을 위한 인프라 혁신 사례다.",
+    "summary_en": "Amazon Science has developed a Rust-based proxy called Turnstile that sits between the model backend and agent harness to capture token IDs lost in standard text transcripts during agentic AI interactions. This tool addresses a key data gap that limits the quality of reinforcement learning in agentic systems. The innovation represents a significant infrastructure advancement for improving the training efficiency and performance of agentic AI.",
+    "so_what_ko": "에이전틱 AI 도입을 계획 중인 LG D2C는 고품질 학습 데이터 수집 인프라의 중요성을 인식하고, 유사한 데이터 캡처 메커니즘 도입을 검토해야 한다.",
+    "so_what_en": "LG D2C teams planning agentic AI deployments should recognize the critical role of robust data capture infrastructure in ensuring high-quality reinforcement learning outcomes.",
+    "key_points": [
+      "아마존이 에이전틱 AI 상호작용의 토큰 ID 손실 문제 해결을 위해 Turnstile 개발",
+      "Rust 기반 프록시가 모델 백엔드와 에이전트 하네스 사이에서 세밀한 데이터 포착",
+      "강화학습 품질 향상을 위한 에이전틱 AI 인프라 혁신 사례"
+    ],
+    "tags": [
+      "agentic-ai",
+      "reinforcement-learning",
+      "amazon",
+      "ai-infrastructure",
+      "token-capture"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Amazon",
+      "Amazon Science",
+      "Turnstile"
+    ],
+    "one_line_insight_ko": "에이전틱 AI의 강화학습 품질은 정밀한 데이터 캡처 인프라에 달려 있으며, 이는 AI 에이전트 도입 기업들의 핵심 기술 과제가 된다.",
+    "one_line_insight_en": "The quality of agentic AI reinforcement learning hinges on precise data capture infrastructure, making it a foundational technical challenge for enterprises deploying AI agents.",
+    "ai_processed": true
+  },
+  {
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "date_published": "2026-07-09",
+    "description": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "categories": [
+      "tech",
+      "ai_marketing"
+    ],
+    "relevance_score": 0.7,
+    "relevance_label": "high",
+    "title_en": "GPT-5.6 Becomes Preferred Model in Microsoft 365 Copilot, Enhancing AI Capabilities Across Productivity Suite",
+    "summary_ko": "OpenAI의 GPT-5.6이 Microsoft 365 Copilot의 기본 모델로 채택되어 Word, Excel, PowerPoint, Chat, Cowork 전반에 걸쳐 강화된 AI 역량을 제공한다. 이번 업데이트는 기업 생산성 도구 전반에 더 빠르고 높은 품질의 AI 지원을 가능하게 한다. OpenAI와 Microsoft의 긴밀한 파트너십이 엔터프라이즈 AI 시장에서 영향력을 더욱 확대하고 있다.",
+    "summary_en": "OpenAI's GPT-5.6 has become the preferred model powering Microsoft 365 Copilot, delivering stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork. The upgrade enables faster and higher-quality AI assistance throughout the enterprise productivity suite. This development further solidifies the OpenAI-Microsoft partnership's dominance in the enterprise AI productivity market.",
+    "so_what_ko": "LG D2C 조직이 Microsoft 365를 활용 중이라면 GPT-5.6 기반 Copilot 업그레이드를 마케팅 콘텐츠 제작, 데이터 분석, 협업 업무에 즉시 활용하여 생산성을 높일 수 있다.",
+    "so_what_en": "LG D2C teams using Microsoft 365 can immediately leverage GPT-5.6-powered Copilot to accelerate marketing content creation, data analysis, and collaborative workflows.",
+    "key_points": [
+      "GPT-5.6이 Microsoft 365 Copilot의 기본 모델로 공식 채택",
+      "Word, Excel, PowerPoint, Chat, Cowork 등 전 제품군에 강화된 AI 기능 제공",
+      "더 빠르고 높은 품질의 AI 지원으로 기업 생산성 향상 기대",
+      "OpenAI-Microsoft 파트너십의 엔터프라이즈 AI 시장 영향력 강화"
+    ],
+    "tags": [
+      "gpt-5-6",
+      "microsoft-365-copilot",
+      "openai",
+      "enterprise-ai",
+      "productivity"
+    ],
+    "confidence": 0.85,
+    "strategic_theme": "PLATFORM_ECOSYSTEM",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "OpenAI",
+      "Microsoft",
+      "GPT-5.6",
+      "Microsoft 365 Copilot"
+    ],
+    "one_line_insight_ko": "GPT-5.6의 Microsoft 365 Copilot 통합은 기업 AI 생산성의 기준을 높이며, 이를 빠르게 업무에 내재화하는 조직이 경쟁 우위를 확보하게 된다.",
+    "one_line_insight_en": "GPT-5.6's integration into Microsoft 365 Copilot raises the enterprise AI productivity bar, rewarding organizations that swiftly embed these capabilities into their core workflows.",
+    "ai_processed": true
+  },
+  {
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "link": "https://openai.com/index/gpt-5-6",
+    "date_published": "2026-07-09",
+    "description": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "categories": [
+      "tech",
+      "ai_marketing"
+    ],
+    "relevance_score": 0.6,
+    "relevance_label": "high",
+    "title_en": "GPT-5.6: OpenAI Delivers Frontier Intelligence That Scales With Ambition",
+    "summary_ko": "OpenAI가 GPT-5.6을 출시하며 토큰당 더 높은 지능, 달러당 강화된 성능, 온디맨드 확장 가능한 역량을 제공한다고 발표했다. 이 모델은 가장 어려운 작업에 대응하기 위해 설계된 프런티어급 AI다. 비용 효율성과 성능을 동시에 강화한 것이 핵심 특징이다.",
+    "summary_en": "OpenAI announced GPT-5.6, promising greater intelligence per token and stronger performance per dollar for demanding tasks. The model is positioned as a frontier-tier AI designed to scale capabilities on demand. Cost efficiency and enhanced performance are highlighted as its core differentiators.",
+    "so_what_ko": "LG D2C 조직은 GPT-5.6의 비용 대비 성능 향상을 활용해 개인화 추천, 콘텐츠 생성, 고객 응대 자동화 등 AI 기반 커머스 워크플로우를 더 경제적으로 고도화할 수 있다.",
+    "so_what_en": "LG D2C can leverage GPT-5.6's improved cost-performance ratio to scale AI-driven workflows such as personalized recommendations, content generation, and customer service automation more economically.",
+    "key_points": [
+      "토큰당 더 높은 지능 및 달러당 강화된 성능 제공",
+      "온디맨드 확장 가능한 역량으로 고난도 작업 지원",
+      "원문에서 구체적인 벤치마크 수치나 가격 정보는 확인되지 않음"
+    ],
+    "tags": [
+      "gpt-5.6",
+      "openai",
+      "frontier-model",
+      "cost-efficiency",
+      "generative-ai"
+    ],
+    "confidence": 0.5,
+    "strategic_theme": "EMERGING_TECH",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "OpenAI",
+      "GPT-5.6"
+    ],
+    "one_line_insight_ko": "GPT-5.6은 비용 효율성과 성능을 동시에 강화해 D2C AI 워크플로우의 경제적 확장 가능성을 높인다.",
+    "one_line_insight_en": "GPT-5.6's improved cost-performance ratio opens more economical pathways for scaling D2C AI-powered workflows.",
+    "ai_processed": true
+  },
+  {
+    "title": "ChatGPT is now a partner for your most ambitious work",
+    "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "date_published": "2026-07-09",
+    "description": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
     "categories": [
       "agentic_commerce",
       "tech",
       "strategy"
     ],
-    "relevance_score": 0.9,
+    "relevance_score": 0.85,
     "relevance_label": "high",
-    "title_en": "Salesforce Outlines 5 Core Requirements for a New AI Agent-to-Agent Trust Architecture",
-    "summary_ko": "Salesforce는 에이전트 간 통신에서 신뢰를 구축하기 위한 5가지 요건을 담은 새로운 AI 신뢰 아키텍처를 제시했다. 이는 개별 AI 에이전트가 독립적으로 기능하는 것을 넘어, 복수의 에이전트가 협력하는 멀티 에이전트 환경에서의 표준 정립 필요성을 강조한다. 에이전트 상호운용성과 신뢰 체계는 향후 AI 커머스 및 엔터프라이즈 자동화의 핵심 기반이 될 전망이다.",
-    "summary_en": "Salesforce has published a framework outlining five requirements for establishing trust in agent-to-agent (A2A) communication. The framework goes beyond individual AI agent capabilities to address interoperability and governance in multi-agent environments. Secure and trusted A2A communication is positioned as a foundational requirement for the next wave of AI commerce and enterprise automation.",
-    "so_what_ko": "LG D2C는 멀티 에이전트 AI 환경 도입 시 에이전트 간 신뢰·보안 아키텍처를 사전에 설계해야 하며, Salesforce의 프레임워크를 벤치마크로 활용할 수 있다.",
-    "so_what_en": "LG D2C should proactively design agent-to-agent trust and security architecture when adopting multi-agent AI systems, using Salesforce's framework as a benchmark reference.",
+    "title_en": "ChatGPT Work Becomes an Agentic Partner for Long-Horizon Projects Across Apps and Files",
+    "summary_ko": "OpenAI의 ChatGPT Work는 앱과 파일 전반에 걸쳐 실제 행동을 취하고, 필요 시 수 시간 동안 프로젝트를 지속하며, 목표를 완성된 결과물로 전환할 수 있는 에이전트로 소개됐다. 이는 단순한 챗봇을 넘어 복잡한 업무를 자율적으로 수행하는 AI 에이전트 단계로의 전환을 의미한다. 야심찬 비즈니스 작업을 위한 파트너로 포지셔닝하며 엔터프라이즈 활용 가능성을 강조하고 있다.",
+    "summary_en": "OpenAI introduced ChatGPT Work as an agent capable of taking action across apps and files, sustaining project engagement for hours, and converting goals into finished deliverables. This marks a significant shift from chatbot to autonomous AI agent capable of handling complex, long-horizon tasks. The product is positioned as a partner for ambitious business work, highlighting enterprise applicability.",
+    "so_what_ko": "ChatGPT Work의 멀티앱 에이전트 능력은 LG D2C 팀이 캠페인 기획, 콘텐츠 제작, 데이터 분석 등 복합 업무를 자동화하고 인력 효율을 획기적으로 높이는 데 직접 활용 가능하다.",
+    "so_what_en": "ChatGPT Work's multi-app agentic capabilities can directly enable LG D2C teams to automate complex workflows—such as campaign planning, content production, and data analysis—dramatically improving operational efficiency.",
     "key_points": [
-      "Salesforce defines 5 requirements for trusted agent-to-agent (A2A) communication",
-      "Multi-agent interoperability is identified as critical for enterprise AI scaling",
-      "Trust architecture is framed as foundational infrastructure for agentic commerce",
-      "Framework draws analogy to historical financial clearing systems to illustrate standardization needs"
+      "앱과 파일 전반에 걸친 실제 액션 수행 가능한 에이전트",
+      "수 시간 지속되는 장기 프로젝트 처리 능력",
+      "목표를 완성된 결과물로 전환하는 엔드-투-엔드 실행 역량",
+      "엔터프라이즈 업무 파트너로 포지셔닝"
     ],
     "tags": [
       "agentic-ai",
-      "agent-to-agent",
-      "ai-trust",
-      "multi-agent",
-      "salesforce"
+      "chatgpt-work",
+      "openai",
+      "enterprise-ai",
+      "workflow-automation"
     ],
-    "confidence": 0.8,
+    "confidence": 0.7,
     "strategic_theme": "AI_AGENT",
     "regions": [
       "GLOBAL"
@@ -88,615 +551,151 @@
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Salesforce",
-      "Agentforce"
+      "OpenAI",
+      "ChatGPT Work"
     ],
-    "one_line_insight_ko": "에이전트 간 신뢰 아키텍처 표준화는 에이전틱 커머스 시대의 핵심 인프라로, 이를 선점하는 기업이 AI 자동화 생태계를 주도하게 된다.",
-    "one_line_insight_en": "Standardizing agent-to-agent trust architecture is the foundational infrastructure of the agentic commerce era, and the companies that define it will lead the AI automation ecosystem.",
+    "one_line_insight_ko": "ChatGPT Work는 단순 챗봇을 넘어 복잡한 비즈니스 목표를 자율 실행하는 에이전트로 진화해, D2C 업무 자동화의 새로운 기준을 제시한다.",
+    "one_line_insight_en": "ChatGPT Work's evolution into a long-horizon agentic partner sets a new benchmark for autonomous D2C business workflow automation.",
     "ai_processed": true
   },
   {
-    "title": "Apple sues OpenAI over alleged trade secret theft",
-    "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-    "date_published": "2026-07-10",
-    "description": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "link": "https://openai.com/index/bio-bug-bounty",
+    "date_published": "2026-07-09",
+    "description": "Details about the OpenAI Bio Bounty program",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
     "categories": [
-      "tech",
-      "strategy"
+      "tech"
     ],
-    "relevance_score": 0.45,
+    "relevance_score": 0.2,
     "relevance_label": "high",
-    "title_en": "Apple Sues OpenAI Alleging Trade Secret Theft Directed by Senior Leadership",
-    "summary_ko": "애플이 OpenAI를 상대로 영업 비밀 절취 혐의로 소송을 제기했으며, 해당 비위가 OpenAI 고위 리더십의 지시 하에 이루어졌다고 주장했다. 소장에는 OpenAI의 전직 장기 근속 직원이 연루된 것으로 명시됐다. 이번 소송은 두 빅테크 기업 간의 법적 갈등으로 AI 업계 전반의 지식재산권 분쟁이 격화되고 있음을 보여준다.",
-    "summary_en": "Apple has filed a lawsuit against OpenAI alleging theft of trade secrets, claiming the misconduct was directed by OpenAI's senior leadership. The complaint involves a longtime former employee of OpenAI. The lawsuit highlights escalating intellectual property disputes within the AI industry between major tech players.",
-    "so_what_ko": "AI 기술 도입 시 지식재산권 분쟁 리스크가 커지고 있으므로, LG D2C는 외부 AI 파트너십 및 직원 이동에 따른 IP 보호 정책을 강화해야 한다.",
-    "so_what_en": "As IP disputes in AI intensify, LG D2C must strengthen trade secret protection policies around external AI partnerships and employee transitions.",
+    "title_en": "OpenAI Launches GPT-5.5 Bio Bug Bounty Program to Strengthen AI Biosafety",
+    "summary_ko": "OpenAI가 GPT-5.5를 대상으로 한 바이오 버그 바운티 프로그램 세부 사항을 공개했다. 이 프로그램은 AI 모델의 생물학적 위험 관련 취약점을 발견하고 보고하는 연구자를 보상하는 제도다. 원문에서 구체적인 보상 규모나 참여 조건 등 세부 내용은 확인되지 않는다.",
+    "summary_en": "OpenAI released details of a Bio Bug Bounty program focused on GPT-5.5, designed to identify and reward researchers who discover biosafety-related vulnerabilities in the AI model. The program reflects OpenAI's commitment to responsible AI development in sensitive domains. Specific reward amounts and participation criteria are not confirmed in the source excerpt.",
+    "so_what_ko": "AI 모델의 안전성 검증 체계 강화는 LG D2C가 AI 솔루션 도입 시 파트너 선정 기준으로 안전성과 책임감 있는 AI 거버넌스를 고려해야 함을 시사한다.",
+    "so_what_en": "The growing emphasis on AI model safety validation suggests LG D2C should factor responsible AI governance and safety certifications into its criteria when selecting AI technology partners.",
     "key_points": [
-      "Apple alleges OpenAI engaged in trade secret theft directed by senior leadership",
-      "A longtime former employee is cited as a key figure in the alleged misconduct",
-      "The lawsuit signals escalating IP conflicts between leading AI and tech companies"
+      "GPT-5.5 대상 바이오 안전성 취약점 발견 보상 프로그램",
+      "AI 바이오 리스크 분야의 책임감 있는 개발 의지 반영",
+      "구체적인 보상 규모 및 참여 조건은 원문에서 확인되지 않음"
     ],
     "tags": [
-      "apple",
+      "ai-safety",
       "openai",
-      "trade-secret",
-      "ip-dispute",
-      "ai-litigation"
+      "bug-bounty",
+      "biosafety",
+      "responsible-ai"
     ],
-    "confidence": 0.7,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "GLOBAL",
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Apple",
-      "OpenAI"
-    ],
-    "one_line_insight_ko": "AI 빅테크 간 지식재산권 분쟁 격화는 업계 전반의 IP 보호 및 파트너십 리스크 관리 필요성을 높이고 있다.",
-    "one_line_insight_en": "Escalating IP battles between AI giants underscore the growing need for robust trade secret protection and partnership risk management across the industry.",
-    "ai_processed": true
-  },
-  {
-    "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
-    "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-    "date_published": "2026-07-10",
-    "description": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […]",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "categories": [
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.6,
-    "relevance_label": "high",
-    "title_en": "Hugging Face CEO: Open Source AI Is More Important Than Ever as Enterprise Adoption Surges",
-    "summary_ko": "Hugging Face CEO 클레망 들랑게는 오픈소스 AI가 어느 때보다 중요해졌다고 강조하며, 자사가 AI 분야의 GitHub 같은 역할을 하고 있다고 설명했다. Hugging Face의 오픈 모델과 데이터셋은 현재 포춘 500대 기업의 약 절반이 활용하고 있다. 기업들은 독점 AI로 시작했다가 오픈소스로 전환하는 패턴을 반복적으로 보인다고 그는 밝혔다.",
-    "summary_en": "Hugging Face CEO Clem Delangue argues that open source AI is more critical than ever, describing the company as a GitHub-equivalent for AI builders. The platform's open models and datasets are now used by approximately half of the Fortune 500 companies. Delangue observes a recurring pattern where enterprises begin with proprietary AI and eventually transition to open source alternatives.",
-    "so_what_ko": "오픈소스 AI의 엔터프라이즈 채택이 급증함에 따라, LG D2C는 Hugging Face 생태계를 활용해 마케팅·커머스 AI 모델을 비용 효율적으로 개발하고 내재화하는 전략을 검토해야 한다.",
-    "so_what_en": "With open source AI enterprise adoption surging, LG D2C should explore leveraging the Hugging Face ecosystem to develop and internalize marketing and commerce AI models in a cost-efficient manner.",
-    "key_points": [
-      "Hugging Face functions as a GitHub-like hub for AI models and datasets",
-      "Approximately half of Fortune 500 companies now use Hugging Face's open models or datasets",
-      "Enterprises consistently trend from proprietary AI toward open source over time",
-      "Open source AI is gaining strategic importance as a cost-effective and flexible alternative to closed models"
-    ],
-    "tags": [
-      "open-source-ai",
-      "hugging-face",
-      "enterprise-ai",
-      "foundation-models",
-      "ai-strategy"
-    ],
-    "confidence": 0.75,
-    "strategic_theme": "DATA_STRATEGY",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Hugging Face",
-      "Clem Delangue"
-    ],
-    "one_line_insight_ko": "포춘 500 기업의 절반이 오픈소스 AI를 채택한 현실은 LG D2C가 독점 AI 의존도를 줄이고 오픈소스 기반 AI 내재화를 가속화해야 함을 시사한다.",
-    "one_line_insight_en": "With half of Fortune 500 firms adopting open source AI, LG D2C should accelerate internalization of open-source AI to reduce dependency on proprietary models and lower costs.",
-    "ai_processed": true
-  },
-  {
-    "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-    "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-    "date_published": "2026-07-10",
-    "description": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "categories": [
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.35,
-    "relevance_label": "high",
-    "title_en": "SK Hynix Raises $26.5B in Largest Foreign IPO in US History Amid Push to Build American Fabs",
-    "summary_ko": "SK하이닉스가 미국 역사상 최대 외국 기업 IPO를 통해 265억 달러를 조달하며 AI 칩 붐의 최대 수혜주 중 하나로 부상했다. 미국 정부는 SK하이닉스와 삼성전자에 미국 내 반도체 공장 건설을 촉구하고 있다. 이번 IPO는 AI 인프라 투자에 대한 월스트리트의 폭발적인 수요를 상징하는 사건으로 평가된다.",
-    "summary_en": "SK Hynix raised $26.5 billion through the largest foreign IPO in US history, cementing its position as a major beneficiary of the AI chip boom. The US government is urging both SK Hynix and Samsung to build new semiconductor fabrication plants on American soil. The milestone IPO reflects Wall Street's surging appetite for AI infrastructure investment.",
-    "so_what_ko": "AI 반도체 공급망 재편이 가속화되고 있어, LG D2C는 AI 서비스 운영에 필요한 칩 공급망 안정성 및 비용 구조 변화를 중장기 전략에 반영해야 한다.",
-    "so_what_en": "As AI chip supply chain restructuring accelerates, LG D2C should factor shifts in chip supply stability and cost structures into its mid-to-long-term AI service operational strategy.",
-    "key_points": [
-      "SK Hynix raised $26.5B in the largest foreign IPO in US history",
-      "US government is urging SK Hynix and Samsung to establish domestic semiconductor fabs",
-      "The IPO reflects massive Wall Street investment appetite for AI infrastructure",
-      "AI chip boom is reshaping global semiconductor geopolitics and supply chains"
-    ],
-    "tags": [
-      "sk-hynix",
-      "ai-chips",
-      "semiconductor",
-      "ipo",
-      "ai-infrastructure"
-    ],
-    "confidence": 0.8,
+    "confidence": 0.4,
     "strategic_theme": "EMERGING_TECH",
     "regions": [
-      "GLOBAL",
-      "AMER",
-      "APAC"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "SK Hynix",
-      "Samsung",
-      "Wall Street"
-    ],
-    "one_line_insight_ko": "AI 칩 붐이 반도체 공급망의 지정학적 재편을 촉발하고 있으며, 이는 AI 서비스 비용 구조에 직·간접적 영향을 미칠 수 있다.",
-    "one_line_insight_en": "The AI chip boom is triggering geopolitical realignment of semiconductor supply chains, with potential direct and indirect implications for AI service cost structures.",
-    "ai_processed": true
-  },
-  {
-    "title": "Fraud fight can’t wait on government",
-    "link": "https://www.paymentsdive.com/news/merchants-must-fight-fraud-on-the-frontlines-retail-chargebacks/824949/",
-    "date_published": "2026-07-10",
-    "description": "“While we wait for federal roundtable policies to trickle down, merchants are suffering heavily right now,” writes one industry consultant.",
-    "source_id": "payments_dive",
-    "source_name": "Payments Dive",
-    "source_url": "https://www.paymentsdive.com/feeds/news/",
-    "categories": [
-      "commerce"
-    ],
-    "relevance_score": 0.45,
-    "relevance_label": "high",
-    "title_en": "Merchants Must Fight Fraud on the Frontlines as Federal Policy Lags",
-    "summary_ko": "연방 정책이 지연되는 동안 가맹점들은 사기와 차지백 문제로 심각한 피해를 입고 있다. 업계 컨설턴트들은 정부의 정책이 현장에 반영되기까지 기다릴 여유가 없다고 경고한다. 가맹점들은 지금 당장 사기 방지를 위한 자체적인 전선을 구축해야 한다는 목소리가 높아지고 있다.",
-    "summary_en": "Merchants are suffering significant losses from fraud and chargebacks while federal policy roundtables have yet to produce actionable guidance. Industry consultants warn that waiting for government intervention is not a viable strategy for businesses facing immediate harm. Retailers are being urged to take proactive, frontline measures to combat fraud independently.",
-    "so_what_ko": "LG D2C 조직은 연방 정책 완성을 기다리지 않고 자체적인 사기 방지 및 차지백 대응 체계를 지금 즉시 강화해야 한다.",
-    "so_what_en": "LG D2C teams should proactively invest in their own fraud detection and chargeback prevention systems rather than waiting for regulatory frameworks to materialize.",
-    "key_points": [
-      "Federal fraud policy is too slow to protect merchants in real time",
-      "Chargebacks are causing significant financial damage to merchants now",
-      "Industry experts advocate for merchant-led, frontline fraud prevention strategies"
-    ],
-    "tags": [
-      "fraud-prevention",
-      "chargebacks",
-      "e-commerce-security",
-      "retail-policy"
-    ],
-    "confidence": 0.5,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "Payments Dive"
-    ],
-    "one_line_insight_ko": "정부 정책을 기다리는 사이 가맹점 피해가 심화되고 있어, D2C 사업자의 자체 사기 방지 역량 구축이 시급하다.",
-    "one_line_insight_en": "With federal fraud policy stalled, D2C merchants must build their own real-time fraud defenses to avoid mounting chargeback losses.",
-    "ai_processed": true
-  },
-  {
-    "title": "New Dashboard Tool Lets You Monitor Claude Usage",
-    "link": "https://aibusiness.com/generative-ai/new-dashboard-tool-lets-you-monitor-claude-usage",
-    "date_published": "2026-07-10",
-    "description": "The generative AI vendor is aiming to counter dependence on and overuse of its popular model.",
-    "source_id": "ai_business",
-    "source_name": "AI Business",
-    "source_url": "https://aibusiness.com/rss.xml",
-    "categories": [
-      "tech",
-      "ai_marketing"
-    ],
-    "relevance_score": 0.55,
-    "relevance_label": "high",
-    "title_en": "Anthropic Launches Dashboard Tool to Help Enterprises Monitor Claude AI Usage",
-    "summary_ko": "Anthropic이 기업 사용자들이 Claude 모델의 사용량을 모니터링할 수 있는 새로운 대시보드 도구를 출시했다. 이 도구는 Claude에 대한 과도한 의존 및 남용을 방지하기 위한 목적으로 설계되었다. Anthropic은 기업 고객들이 AI 사용을 보다 효율적이고 책임감 있게 관리할 수 있도록 지원하고자 한다.",
-    "summary_en": "Anthropic has released a new dashboard tool designed to allow enterprise users to monitor their usage of the Claude AI model. The tool is specifically aimed at countering overreliance and overuse of the popular generative AI system. By providing visibility into consumption patterns, Anthropic hopes to encourage more responsible and efficient enterprise AI adoption.",
-    "so_what_ko": "LG D2C 팀이 Claude 등 생성형 AI 도구를 도입할 때, 사용량 모니터링 및 거버넌스 체계를 함께 구축하면 비용 효율성과 AI 책임감을 동시에 확보할 수 있다.",
-    "so_what_en": "As LG D2C teams scale adoption of generative AI tools like Claude, integrating usage monitoring dashboards is essential for cost governance and responsible AI management.",
-    "key_points": [
-      "Anthropic launched a usage monitoring dashboard for enterprise Claude users",
-      "The tool addresses concerns about AI overreliance and inefficient consumption",
-      "Visibility into AI usage patterns supports more responsible enterprise adoption"
-    ],
-    "tags": [
-      "anthropic",
-      "claude",
-      "ai-governance",
-      "enterprise-ai",
-      "generative-ai"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "DATA_STRATEGY",
-    "regions": [
       "GLOBAL"
     ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Anthropic",
-      "Claude"
-    ],
-    "one_line_insight_ko": "Anthropic의 사용량 대시보드는 기업의 AI 거버넌스 필요성을 반영하며, D2C 팀의 생성형 AI 책임 있는 관리의 출발점이 될 수 있다.",
-    "one_line_insight_en": "Anthropic's usage dashboard signals growing enterprise demand for AI governance tools, making responsible AI monitoring a new operational baseline for D2C teams.",
-    "ai_processed": true
-  },
-  {
-    "title": "How GPT-5.6 Reflects the New AI Regulation",
-    "link": "https://aibusiness.com/generative-ai/how-gpt-5-6-reflects-new-ai-regulation",
-    "date_published": "2026-07-10",
-    "description": "The release shows the power the U.S. government now holds in the AI model landscape. ChatGPT Work highlights how OpenAI continues to evolve into an enterprise vendor.",
-    "source_id": "ai_business",
-    "source_name": "AI Business",
-    "source_url": "https://aibusiness.com/rss.xml",
-    "categories": [
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.6,
-    "relevance_label": "high",
-    "title_en": "GPT-5.6 Launch Reflects Growing U.S. Government Influence Over AI Model Development",
-    "summary_ko": "GPT-5.6의 출시는 미국 정부가 AI 모델 개발 환경에 미치는 영향력이 커지고 있음을 보여주는 사례로 분석된다. OpenAI는 ChatGPT Work 기능을 통해 엔터프라이즈 시장으로의 전환을 지속적으로 추진하고 있다. 이번 릴리스는 AI 규제와 상업적 전략이 맞물리는 새로운 국면을 반영한다.",
-    "summary_en": "The release of GPT-5.6 illustrates the increasing power the U.S. government holds in shaping the AI model landscape through emerging regulations. OpenAI's ChatGPT Work feature highlights the company's continued evolution toward becoming a dedicated enterprise software vendor. This development reflects a new era where AI regulation and commercial strategy are becoming deeply intertwined.",
-    "so_what_ko": "미국 정부의 AI 규제 영향력이 커짐에 따라, LG D2C 팀은 도입 중인 AI 도구의 규제 준수 여부와 기업용 기능 로드맵을 지속적으로 모니터링해야 한다.",
-    "so_what_en": "LG D2C teams should closely track how U.S. AI regulation shapes the capabilities and compliance requirements of enterprise AI tools they rely on, including OpenAI's evolving product suite.",
-    "key_points": [
-      "GPT-5.6 reflects the growing regulatory influence of the U.S. government on AI development",
-      "ChatGPT Work signals OpenAI's deepening focus on enterprise customers",
-      "AI regulation and commercial AI strategy are increasingly interlinked"
-    ],
-    "tags": [
-      "openai",
-      "gpt-5",
-      "ai-regulation",
-      "enterprise-ai",
-      "chatgpt"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "GLOBAL",
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
+    "business_impact": "LOW",
     "sentiment": "NEUTRAL",
     "key_entities": [
       "OpenAI",
-      "GPT-5.6",
-      "ChatGPT Work",
-      "U.S. Government"
+      "GPT-5.5"
     ],
-    "one_line_insight_ko": "GPT-5.6은 AI 규제와 상업화가 교차하는 새로운 시대를 알리며, 기업용 AI 도구 선택 시 규제 리스크 평가가 필수 요소가 되고 있다.",
-    "one_line_insight_en": "GPT-5.6 marks an era where government regulation and AI commercialization converge, making regulatory risk assessment a critical factor in enterprise AI tool selection.",
+    "one_line_insight_ko": "AI 바이오 버그 바운티 프로그램은 AI 안전 거버넌스가 기술 경쟁력의 일부로 자리잡고 있음을 보여준다.",
+    "one_line_insight_en": "OpenAI's bio bug bounty signals that AI safety governance is becoming an integral component of competitive AI leadership.",
     "ai_processed": true
   },
   {
-    "title": "Prompt: AI's Next Challenge Is Making Better Use of Compute",
-    "link": "https://aibusiness.com/generative-ai/prompt-ai-s-next-challenge-making-better-use-compute",
-    "date_published": "2026-07-10",
-    "description": "After years spent racing to secure AI chips and computing power, enterprise leaders are discovering that getting access to infrastructure might be easier than using it effectively.",
+    "title": "IBM Extends Bob AI Platform With Array of New Features",
+    "link": "https://aibusiness.com/agentic-ai/ibm-extends-bob-ai-platform-array-new-features",
+    "date_published": "2026-07-09",
+    "description": "The updates amount to a significant expansion of the platform.",
     "source_id": "ai_business",
     "source_name": "AI Business",
     "source_url": "https://aibusiness.com/rss.xml",
     "categories": [
+      "agentic_commerce",
       "tech",
       "strategy"
     ],
-    "relevance_score": 0.55,
+    "relevance_score": 0.6,
     "relevance_label": "high",
-    "title_en": "AI's Next Frontier: Enterprise Leaders Struggle to Use Compute Effectively After Securing Access",
-    "summary_ko": "수년간 AI 칩과 컴퓨팅 파워 확보에 집중해온 기업들이 이제는 인프라를 효과적으로 활용하는 것이 더 어려운 과제임을 깨닫고 있다. 컴퓨팅 자원에 대한 접근 자체보다 이를 최대한 활용하는 역량이 AI 경쟁력의 새로운 핵심이 되고 있다. 기업 리더들은 컴퓨팅 효율성과 최적화를 다음 단계 AI 전략의 중심에 놓고 있다.",
-    "summary_en": "After years focused on securing AI chips and computing infrastructure, enterprise leaders are now finding that effectively utilizing that compute is the more difficult and critical challenge. Access to AI infrastructure is becoming commoditized, shifting the competitive advantage toward how efficiently organizations can leverage their compute resources. Enterprise AI strategy is pivoting from infrastructure acquisition to optimization and effective deployment.",
-    "so_what_ko": "LG D2C 조직도 AI 인프라 확보에서 한 단계 나아가, 보유한 컴퓨팅 자원을 마케팅·커머스 성과로 연결하는 실질적 활용 역량 강화에 집중해야 한다.",
-    "so_what_en": "LG D2C should shift focus from AI infrastructure access to building the internal competencies needed to extract business value from compute resources in marketing and commerce use cases.",
+    "title_en": "IBM Expands Bob AI Platform With Significant New Features for Agentic Workflows",
+    "summary_ko": "IBM이 Bob AI 플랫폼에 다수의 새로운 기능을 추가하며 플랫폼을 대폭 확장했다. 이번 업데이트는 에이전틱 AI 역량 강화에 초점을 맞춘 것으로 알려져 있다. 원문 발췌본에서 구체적인 신규 기능의 내용이나 세부 사항은 확인되지 않는다.",
+    "summary_en": "IBM has expanded its Bob AI platform with a significant array of new features, representing a major enhancement of the platform's capabilities. The updates are focused on agentic AI functionality according to the source category. Specific details of the new features are not confirmed in the available source excerpt.",
+    "so_what_ko": "IBM Bob AI 플랫폼의 에이전틱 기능 확장은 엔터프라이즈 AI 에이전트 경쟁이 심화되고 있음을 보여주며, LG D2C는 자체 AI 에이전트 도입 전략 수립 시 플랫폼 생태계의 변화를 면밀히 추적해야 한다.",
+    "so_what_en": "IBM's aggressive expansion of its agentic AI platform signals intensifying enterprise AI competition, urging LG D2C to closely monitor the shifting platform ecosystem when formulating its own AI agent adoption strategy.",
     "key_points": [
-      "Securing AI compute is no longer the primary bottleneck for enterprises",
-      "Effectively utilizing computing infrastructure is emerging as the new competitive differentiator",
-      "Enterprise AI strategy must evolve from acquisition to optimization and deployment effectiveness"
+      "IBM Bob AI 플랫폼에 다수의 신규 기능 추가로 대폭 확장",
+      "에이전틱 AI 역량 강화에 초점",
+      "구체적인 신규 기능 내용은 원문에서 확인되지 않음"
     ],
     "tags": [
-      "ai-infrastructure",
-      "compute-optimization",
-      "enterprise-ai",
-      "ai-strategy"
-    ],
-    "confidence": 0.65,
-    "strategic_theme": "DATA_STRATEGY",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "AI Business"
-    ],
-    "one_line_insight_ko": "AI 컴퓨팅 확보 경쟁은 끝나가고 있으며, 이제 진짜 경쟁력은 보유 인프라를 얼마나 효과적으로 비즈니스 성과로 전환하느냐에 달려 있다.",
-    "one_line_insight_en": "The race to secure AI compute is giving way to a new competition: how effectively enterprises can translate infrastructure into measurable business outcomes.",
-    "ai_processed": true
-  },
-  {
-    "title": "Web3 Commerce Boom: E-Commerce Sales Surge Creates New Opportunities and Challenges for Digital Marketplaces",
-    "link": "https://www.digitalcommerce360.com/2026/07/09/web3-commerce-boom-e-commerce-sales-surge-creates-new-opportunities-and-challenges-for-digital-marketplaces/",
-    "date_published": "2026-07-09",
-    "description": "Sponsor content is created on behalf of and in collaboration with Bazoom by DigitalCommerce360. Our editorial staff is not involved in the creation of the sponsored content. E-commerce has changed the way people buy and sell. Digital marketplaces offer a way to reach different customers and a way to deal with new complications that traditional […]\nThe post Web3 Commerce Boom: E-Commerce Sales Surge Creates New Opportunities and Challenges for Digital Marketplaces appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
-    "categories": [
-      "commerce"
-    ],
-    "relevance_score": 0.42,
-    "relevance_label": "high",
-    "title_en": "Web3 Commerce Boom: E-Commerce Sales Surge Brings New Opportunities and Challenges for Digital Marketplaces",
-    "summary_ko": "이커머스 판매량의 급증과 함께 Web3 기반 디지털 마켓플레이스가 새로운 기회와 도전을 동시에 맞이하고 있다. 디지털 마켓플레이스는 더 다양한 고객층에 도달할 수 있는 방법을 제공하는 동시에, 기존 전통적인 유통 방식에서는 없었던 새로운 복잡한 문제들을 수반한다. 단, 이 기사는 스폰서 콘텐츠로 편집부가 관여하지 않은 광고성 내용임을 유의해야 한다.",
-    "summary_en": "The surge in e-commerce sales is fueling the growth of Web3-based digital marketplaces, presenting both new opportunities and complex challenges for online retailers. Digital marketplaces offer expanded customer reach but also introduce complications not present in traditional commerce models. Note that this article is sponsored content produced in collaboration with Bazoom and does not reflect independent editorial judgment.",
-    "so_what_ko": "Web3 커머스 트렌드는 초기 단계이지만, LG D2C 팀은 디지털 마켓플레이스의 다변화 방향을 모니터링하며 중장기 채널 전략에 반영할 필요가 있다. 단, 본 기사가 스폰서 콘텐츠임을 감안해 정보의 객관성을 주의해야 한다.",
-    "so_what_en": "LG D2C should monitor Web3 marketplace developments as a potential future channel diversification opportunity, while treating the findings cautiously given this is sponsored content.",
-    "key_points": [
-      "E-commerce sales growth is driving expansion of Web3 digital marketplace models",
-      "Web3 marketplaces offer broader customer reach but introduce new operational complexities",
-      "This article is sponsored content by Bazoom via Digital Commerce 360 — editorial independence is not guaranteed"
-    ],
-    "tags": [
-      "web3",
-      "e-commerce",
-      "digital-marketplace",
-      "retail-innovation"
+      "ibm",
+      "agentic-ai",
+      "enterprise-platform",
+      "bob-ai",
+      "ai-expansion"
     ],
     "confidence": 0.4,
     "strategic_theme": "PLATFORM_ECOSYSTEM",
     "regions": [
       "GLOBAL"
     ],
-    "business_impact": "LOW",
+    "business_impact": "MEDIUM",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "Digital Commerce 360",
-      "Bazoom",
-      "Web3"
+      "IBM",
+      "Bob AI"
     ],
-    "one_line_insight_ko": "Web3 커머스 성장은 장기적인 채널 다변화 기회를 시사하지만, 스폰서 콘텐츠 특성상 전략적 판단 시 독립적인 검증이 필요하다.",
-    "one_line_insight_en": "Web3 commerce growth hints at future channel diversification potential, but its sponsored content origin demands independent verification before strategic consideration.",
+    "one_line_insight_ko": "IBM의 Bob AI 플랫폼 대규모 확장은 엔터프라이즈 에이전틱 AI 시장의 경쟁이 본격화되고 있음을 신호한다.",
+    "one_line_insight_en": "IBM's significant Bob AI platform expansion signals that competition in the enterprise agentic AI market is intensifying in earnest.",
     "ai_processed": true
   },
   {
-    "title": "Protecting Your Work as AI Models Rapidly Come and Go",
-    "link": "https://www.marketingaiinstitute.com/blog/podcast-ai-models-rapidly-changing",
+    "title": "Grok 4.5 Is SpaceXAI’s First Real Entry Into the Enterprise",
+    "link": "https://aibusiness.com/agentic-ai/grok-4-5-spacexai-s-first-real-entry-into-enterprise",
     "date_published": "2026-07-09",
-    "description": "Marketers, beware: The AI model you rely on today might not be the one you can rely on tomorrow.",
-    "source_id": "marketing_ai_institute",
-    "source_name": "Marketing AI Institute",
-    "source_url": "https://www.marketingaiinstitute.com/blog/rss.xml",
+    "description": "The model release is the first since SpaceX went public in June and will help SpaceXAI compete with other frontier model providers, particularly in coding.",
+    "source_id": "ai_business",
+    "source_name": "AI Business",
+    "source_url": "https://aibusiness.com/rss.xml",
     "categories": [
-      "ai_marketing",
+      "tech",
       "strategy"
     ],
-    "relevance_score": 0.72,
+    "relevance_score": 0.5,
     "relevance_label": "high",
-    "title_en": "Protecting Your Marketing Work as AI Models Rapidly Emerge and Disappear",
-    "summary_ko": "마케터들이 의존하는 AI 모델은 언제든지 변경되거나 사라질 수 있어 업무 연속성에 위협이 되고 있다. Marketing AI Institute는 특정 AI 모델에 과도하게 의존하는 마케팅 워크플로우의 취약성을 경고한다. AI 모델의 빠른 교체 주기에 대비해 마케터들은 유연하고 모델 독립적인 전략을 구축해야 한다.",
-    "summary_en": "Marketers face growing risk as the AI models they rely on today may be deprecated or replaced tomorrow. The Marketing AI Institute warns against over-dependence on any single AI model within marketing workflows. Building model-agnostic strategies and protecting work outputs is becoming essential for sustainable AI-driven marketing.",
-    "so_what_ko": "LG D2C 마케팅팀은 특정 AI 모델 종속성을 줄이고, 워크플로우와 산출물을 모델 독립적으로 설계하여 AI 전환 리스크에 대비해야 한다.",
-    "so_what_en": "LG D2C teams should reduce dependency on single AI models and design workflows that are model-agnostic to mitigate disruption risk as the AI landscape rapidly evolves.",
+    "title_en": "Grok 4.5 Marks SpaceXAI's First Serious Push Into Enterprise AI Market",
+    "summary_ko": "SpaceXAI가 Grok 4.5를 출시하며 엔터프라이즈 시장에 본격 진출했으며, 특히 코딩 분야에서 다른 프런티어 모델 제공업체들과의 경쟁력을 갖추는 것이 목표다. 이번 출시는 SpaceX가 2026년 6월 상장 이후 첫 번째 모델 릴리즈다. 원문 발췌본에서 Grok 4.5의 구체적인 기술적 사양이나 성능 벤치마크는 확인되지 않는다.",
+    "summary_en": "SpaceXAI launched Grok 4.5 as its first serious entry into the enterprise AI market, aiming to compete with frontier model providers particularly in the coding domain. This release marks the first model launch since SpaceX went public in June 2026. Specific technical specifications or performance benchmarks for Grok 4.5 are not confirmed in the available source excerpt.",
+    "so_what_ko": "SpaceXAI의 엔터프라이즈 AI 시장 진입으로 프런티어 모델 경쟁이 심화되며, LG D2C는 다양한 AI 공급업체의 등장을 활용해 더 유리한 조건으로 AI 솔루션을 확보하고 멀티벤더 전략을 고려할 수 있다.",
+    "so_what_en": "SpaceXAI's entry into enterprise AI intensifies frontier model competition, giving LG D2C greater leverage to negotiate favorable terms and consider a multi-vendor AI strategy to avoid lock-in.",
     "key_points": [
-      "AI 모델의 빠른 변화로 마케팅 워크플로우 연속성이 위협받고 있음",
-      "특정 AI 모델에 과도하게 의존하는 전략은 장기적으로 취약할 수 있음",
-      "모델 독립적 설계와 산출물 보호 전략이 필수적으로 요구됨"
+      "SpaceX 상장 이후 첫 번째 모델 릴리즈로 엔터프라이즈 시장 공략",
+      "코딩 분야에서 다른 프런티어 모델 제공업체와의 경쟁력 강화 목표",
+      "프런티어 AI 모델 시장의 경쟁 심화 신호"
     ],
     "tags": [
-      "ai-model-risk",
-      "marketing-workflow",
-      "model-agnostic",
-      "ai-strategy"
+      "grok-4.5",
+      "spacexai",
+      "enterprise-ai",
+      "frontier-model",
+      "competitive-dynamics"
     ],
-    "confidence": 0.55,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "Marketing AI Institute"
-    ],
-    "one_line_insight_ko": "AI 모델의 급격한 교체 주기는 마케터에게 특정 모델 종속 전략의 위험성을 경고하며, 유연한 멀티모델 접근이 필수적이다.",
-    "one_line_insight_en": "The rapid churn of AI models signals that marketers must build flexible, model-agnostic workflows to protect long-term operational continuity.",
-    "ai_processed": true
-  },
-  {
-    "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-    "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-    "date_published": "2026-07-09",
-    "description": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or…",
-    "source_id": "mit_tech_review_ai",
-    "source_name": "MIT Technology Review (AI)",
-    "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-    "categories": [
-      "tech"
-    ],
-    "relevance_score": 0.45,
-    "relevance_label": "high",
-    "title_en": "Anthropic's Jacobian Lens Offers Unprecedented Glimpse Inside Claude's Reasoning Process",
-    "summary_ko": "Anthropic은 대형 언어 모델 내부를 들여다볼 수 있는 새로운 기법인 'Jacobian lens'를 개발했다. 이 도구는 Claude가 질문에 답하거나 작업을 수행할 때 내부적으로 어떤 과정을 거치는지 가장 명확하게 보여주는 창을 제공한다. 연구 결과는 평범한 것부터 불안한 것까지 다양한 AI 내부 작동 방식을 드러내고 있다.",
-    "summary_en": "Anthropic has developed a new interpretability technique called the Jacobian lens that provides the clearest view yet into how large language models process and reason through tasks. The tool reveals what is happening inside Claude as it answers questions or carries out instructions. Findings range from mundane to unsettling, marking a significant step forward in AI transparency research.",
-    "so_what_ko": "AI 내부 작동 방식에 대한 해석 가능성 연구의 발전은 LG D2C가 AI 도구의 신뢰성과 안전성을 평가하는 기준을 높일 수 있으며, 향후 AI 거버넌스 정책 수립에 참고해야 한다.",
-    "so_what_en": "Advances in AI interpretability research will raise the bar for evaluating AI tool trustworthiness, informing LG D2C's AI governance frameworks and vendor assessment criteria.",
-    "key_points": [
-      "Anthropic이 LLM 내부 추론 과정을 시각화하는 'Jacobian lens' 기술 개발",
-      "AI 모델의 투명성과 해석 가능성에 대한 연구가 급진전되고 있음",
-      "AI 내부 작동에서 예상치 못한 불안 요소가 발견되어 안전성 논의에 영향을 미칠 전망"
-    ],
-    "tags": [
-      "ai-interpretability",
-      "llm-transparency",
-      "anthropic",
-      "claude",
-      "ai-safety"
-    ],
-    "confidence": 0.75,
-    "strategic_theme": "EMERGING_TECH",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Anthropic",
-      "Claude",
-      "Jacobian lens",
-      "MIT Technology Review"
-    ],
-    "one_line_insight_ko": "AI 내부 추론 과정의 해석 가능성이 높아질수록 기업의 AI 신뢰성 평가 및 거버넌스 기준도 함께 진화해야 한다.",
-    "one_line_insight_en": "As AI interpretability tools advance, businesses must evolve their AI governance and vendor trust frameworks to keep pace with growing transparency standards.",
-    "ai_processed": true
-  },
-  {
-    "title": "Sociable: Meta adds updated disclosure tags for AI-generated ads",
-    "link": "https://www.marketingdive.com/news/sociable-meta-adds-updated-disclosure-tags-for-ai-generated-ads/824833/",
-    "date_published": "2026-07-09",
-    "description": "The updated tags will provide more info on which promotions include AI-generated elements, whether from Meta or via external AI tools.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
-    "categories": [
-      "ai_marketing",
-      "commerce"
-    ],
-    "relevance_score": 0.82,
-    "relevance_label": "high",
-    "title_en": "Meta Introduces Updated AI-Generated Ad Disclosure Tags for Greater Transparency",
-    "summary_ko": "Meta가 AI 생성 광고에 대한 업데이트된 공시 태그를 도입하여 광고에 포함된 AI 생성 요소가 Meta 자체 도구인지 외부 AI 도구인지 명확히 표시하게 된다. 이 조치는 AI 광고 투명성 강화에 대한 플랫폼 차원의 대응으로, 소비자와 광고주 모두에게 영향을 미친다. AI 생성 광고 콘텐츠에 대한 규제 및 플랫폼 정책이 강화되는 추세를 반영한다.",
-    "summary_en": "Meta is rolling out updated disclosure tags for AI-generated advertisements, providing clearer information on whether AI elements originate from Meta's own tools or external AI platforms. This move reflects growing platform-level accountability for AI-assisted advertising content. The update affects both advertisers leveraging AI for creative production and consumers viewing AI-generated promotional materials.",
-    "so_what_ko": "LG D2C가 Meta 플랫폼에서 AI 생성 광고를 집행할 경우, 새로운 공시 태그 정책을 준수하고 브랜드 신뢰도에 미치는 영향을 사전에 평가해야 한다.",
-    "so_what_en": "LG D2C must comply with Meta's new AI ad disclosure requirements and proactively assess how AI-generated creative labels may influence brand trust and campaign performance.",
-    "key_points": [
-      "Meta가 AI 생성 광고 요소에 대한 공시 태그를 업데이트하여 출처(Meta vs 외부 도구) 구분",
-      "AI 광고 투명성 규제가 주요 플랫폼 차원에서 강화되는 추세",
-      "AI 생성 크리에이티브를 활용하는 광고주들은 새로운 표시 정책에 적응 필요"
-    ],
-    "tags": [
-      "ai-ad-disclosure",
-      "meta",
-      "ai-generated-content",
-      "ad-transparency",
-      "ai-marketing"
-    ],
-    "confidence": 0.78,
-    "strategic_theme": "AI_MARKETING",
+    "confidence": 0.5,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
     "regions": [
       "GLOBAL",
       "AMER"
     ],
     "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Meta",
-      "Marketing Dive"
-    ],
-    "one_line_insight_ko": "Meta의 AI 광고 공시 태그 강화는 AI 크리에이티브를 활용하는 브랜드들이 투명성 관리를 새로운 마케팅 역량으로 내재화해야 함을 시사한다.",
-    "one_line_insight_en": "Meta's enhanced AI ad disclosure tags signal that brands using AI-generated creative must embed transparency management as a core marketing competency.",
-    "ai_processed": true
-  },
-  {
-    "title": "Why unpaid media is now essential to AI visibility",
-    "link": "https://www.marketingdive.com/news/why-unpaid-media-is-now-essential-to-ai-visibility/822485/",
-    "date_published": "2026-07-09",
-    "description": "Earned media and community discussion generate the authority signals that determine whether a brand gets recommended by AI, writes Abigail Niziankiewicz of Mediassociates.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
-    "categories": [
-      "ai_marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.88,
-    "relevance_label": "high",
-    "title_en": "Unpaid Media and Earned Authority Are Now Critical for AI-Era Brand Visibility",
-    "summary_ko": "AI가 검색 및 추천 경로를 장악하면서, 브랜드가 AI에 의해 추천되기 위해서는 언드 미디어(earned media)와 커뮤니티 토론이 핵심 권위 신호가 되고 있다. Mediassociates의 Abigail Niziankiewicz는 유료 미디어만으로는 AI 가시성을 확보할 수 없으며, 진정성 있는 비유료 미디어 전략이 필수적이라고 주장한다. AI 추천 알고리즘이 브랜드 노출을 결정하는 환경에서, 유기적 권위 구축이 새로운 마케팅 우선순위가 되어야 한다.",
-    "summary_en": "As AI increasingly mediates brand discovery and recommendations, earned media and community-driven discussions have become the primary authority signals that determine AI visibility. Mediassociates' Abigail Niziankiewicz argues that paid media alone is insufficient for gaining AI-driven brand exposure. Organic authority building through unpaid channels is now essential for brands seeking recommendation by AI systems.",
-    "so_what_ko": "LG D2C는 유료 광고 중심 전략을 보완하여 리뷰, 커뮤니티 토론, 미디어 언급 등 언드 미디어 확보를 AI 가시성 전략의 핵심 축으로 강화해야 한다.",
-    "so_what_en": "LG D2C must complement paid media investments by actively building earned media authority—reviews, community discussions, and press coverage—to ensure brand visibility within AI recommendation systems.",
-    "key_points": [
-      "AI 추천 시스템은 언드 미디어와 커뮤니티 신호를 브랜드 권위의 주요 지표로 활용",
-      "유료 미디어만으로는 AI 시대의 브랜드 가시성 확보가 불충분함",
-      "유기적 권위 구축(리뷰, 미디어 언급, 커뮤니티 토론)이 새로운 마케팅 필수 역량으로 부상",
-      "AI 가시성 최적화(AIO)가 기존 SEO를 대체하는 새로운 마케팅 전략 영역으로 성장"
-    ],
-    "tags": [
-      "earned-media",
-      "ai-visibility",
-      "brand-authority",
-      "ai-seo",
-      "content-strategy"
-    ],
-    "confidence": 0.72,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Mediassociates",
-      "Abigail Niziankiewicz",
-      "Marketing Dive"
-    ],
-    "one_line_insight_ko": "AI 추천 시대에는 유료 광고보다 언드 미디어와 커뮤니티 권위가 브랜드 노출을 결정하는 핵심 변수가 된다.",
-    "one_line_insight_en": "In the AI recommendation era, earned media and community authority—not paid placements—are the decisive factors for brand visibility and discoverability.",
-    "ai_processed": true
-  },
-  {
-    "title": "[AINews] SpaceXAI launches Grok 4.5, first Opus-class model post Cursor acquisition",
-    "link": "https://www.latent.space/p/ainews-spacexai-launches-grok-45",
-    "date_published": "2026-07-09",
-    "description": "SpaceXAI continues to move faster than any other frontier lab on earth.",
-    "source_id": "latent_space",
-    "source_name": "Latent Space (The AI Index)",
-    "source_url": "https://www.latent.space/feed",
-    "categories": [
-      "tech"
-    ],
-    "relevance_score": 0.42,
-    "relevance_label": "high",
-    "title_en": "SpaceXAI Launches Grok 4.5, First Opus-Class Model Following Cursor Acquisition",
-    "summary_ko": "SpaceXAI가 Cursor 인수 이후 첫 번째 Opus급 모델인 Grok 4.5를 출시하며 프런티어 AI 개발 속도에서 경쟁사를 앞서나가고 있다. Grok 4.5는 SpaceXAI의 공격적인 AI 역량 확장 전략의 일환으로, 빠른 모델 출시 주기를 유지하고 있다. 이는 AI 프런티어 랩 간의 경쟁이 더욱 치열해지고 있음을 보여주는 사례다.",
-    "summary_en": "SpaceXAI has launched Grok 4.5, described as the first Opus-class model released following its acquisition of Cursor, maintaining an aggressive pace of frontier model development. The release underscores SpaceXAI's strategy of moving faster than competing AI labs in the frontier model space. This development reflects the intensifying competitive dynamics among leading AI model providers.",
-    "so_what_ko": "프런티어 AI 모델 경쟁의 가속화는 LG D2C가 활용할 수 있는 AI 도구의 성능 및 선택지가 빠르게 확장되고 있음을 의미하며, 최신 모델 도입 전략을 지속적으로 검토해야 한다.",
-    "so_what_en": "The accelerating frontier AI model race expands the performance ceiling and options available to LG D2C for AI-powered marketing and commerce tools, requiring ongoing evaluation of emerging model capabilities.",
-    "key_points": [
-      "SpaceXAI가 Cursor 인수 후 Opus급 모델 Grok 4.5를 신속 출시",
-      "SpaceXAI가 프런티어 AI 랩 중 가장 빠른 모델 출시 속도를 유지하고 있다고 주장",
-      "프런티어 AI 모델 간 경쟁이 심화되며 성능 향상 속도가 가속화되는 추세"
-    ],
-    "tags": [
-      "grok",
-      "spacexai",
-      "frontier-ai",
-      "ai-competition",
-      "llm-release"
-    ],
-    "confidence": 0.52,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
     "key_entities": [
       "SpaceXAI",
       "Grok 4.5",
-      "Cursor",
-      "Latent Space"
+      "SpaceX"
     ],
-    "one_line_insight_ko": "SpaceXAI의 공격적인 모델 출시 속도는 AI 도구 시장의 경쟁 구도를 재편하고 있으며, 기업들은 급변하는 AI 성능 기준에 지속적으로 적응해야 한다.",
-    "one_line_insight_en": "SpaceXAI's aggressive model release cadence is reshaping the competitive landscape of AI tools, compelling enterprises to continuously reassess their AI capability benchmarks.",
+    "one_line_insight_ko": "SpaceXAI의 엔터프라이즈 AI 시장 진입은 프런티어 모델 경쟁을 가속화해 기업들의 AI 협상력을 높이는 기회를 제공한다.",
+    "one_line_insight_en": "SpaceXAI's enterprise debut accelerates frontier model competition, creating new negotiating leverage for enterprises like LG seeking best-in-class AI capabilities.",
     "ai_processed": true
   }
 ]
