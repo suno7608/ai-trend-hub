@@ -1,595 +1,496 @@
 [
   {
-    "title": "Modern Retail+ Research: Marketers hesitate to adopt AI for influencer and CTV marketing",
-    "link": "https://www.modernretail.co/marketing/modern-retail-research-marketers-hesitate-to-adopt-ai-for-influencer-and-ctv-marketing/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "title": "Retailers stock up ahead of expected tariff changes",
+    "link": "https://www.retaildive.com/news/retailers-stock-up-inventory-expected-tariff-changes/825053/",
     "date_published": "2026-07-13",
-    "description": "Advertisers are embracing AI for social media and retail media marketing. However, they are slower to adopt AI for influencer and CTV marketing. This is according to a Modern Retail+ Research survey of more than 100 marketing professionals in first-quarter 2026.",
-    "source_id": "modern_retail",
-    "source_name": "Modern Retail",
-    "source_url": "https://www.modernretail.co/feed/",
-    "categories": [
-      "marketing",
-      "ai_marketing"
-    ],
-    "relevance_score": 0.82,
-    "relevance_label": "high",
-    "title_en": "Marketers Slow to Adopt AI for Influencer and CTV Marketing Despite Social Media Progress",
-    "summary_ko": "Modern Retail+ Research의 2026년 1분기 설문조사(마케터 100명 이상 대상)에 따르면, 마케터들은 소셜 미디어와 리테일 미디어 분야에서는 AI를 적극 수용하고 있다. 그러나 인플루언서 마케팅과 CTV(커넥티드 TV) 마케팅에서는 AI 도입 속도가 상대적으로 느린 것으로 나타났다. 채널별로 AI 채택 속도에 뚜렷한 격차가 존재함을 보여주는 결과다.",
-    "summary_en": "A Modern Retail+ Research survey of more than 100 marketing professionals conducted in Q1 2026 reveals that advertisers are actively embracing AI for social media and retail media marketing. However, adoption lags significantly for influencer and CTV marketing channels. The findings highlight an uneven pace of AI integration across different marketing disciplines.",
-    "so_what_ko": "LG D2C 마케팅팀은 AI 도입이 상대적으로 성숙한 소셜 미디어·리테일 미디어 채널에서 AI 자동화를 우선 확대하고, 인플루언서 및 CTV 채널에 대한 AI 적용 로드맵을 별도로 수립해 경쟁 우위를 확보해야 한다.",
-    "so_what_en": "LG D2C teams should prioritize AI automation in social and retail media where adoption is mature, while building a dedicated roadmap for AI integration in influencer and CTV channels to gain first-mover advantage.",
-    "key_points": [
-      "100명 이상의 마케팅 전문가 대상 2026년 1분기 설문 결과",
-      "소셜 미디어·리테일 미디어: AI 도입 활발",
-      "인플루언서·CTV 마케팅: AI 도입 속도 상대적으로 느림",
-      "채널별 AI 채택 격차가 마케팅 전략 우선순위에 영향"
-    ],
-    "tags": [
-      "ai-marketing",
-      "influencer-marketing",
-      "ctv",
-      "retail-media",
-      "ad-tech"
-    ],
-    "confidence": 0.75,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "AMER",
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Modern Retail"
-    ],
-    "one_line_insight_ko": "AI 마케팅 채택이 채널별로 불균등하게 진행되고 있어, 후발 채널인 인플루언서·CTV에서 조기 AI 도입 시 차별화 기회가 존재한다.",
-    "one_line_insight_en": "Uneven AI adoption across marketing channels means early movers in influencer and CTV AI integration can gain a significant competitive edge.",
-    "ai_processed": true
-  },
-  {
-    "title": "WTF is SPUR’s publisher-run Content Telemetry Framework?",
-    "link": "https://digiday.com/media/wtf-is-spurs-publisher-run-content-telemetry-framework/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-07-13",
-    "description": "SPUR is publisher‑run and fixated on one thing: turning AI’s use of their content from opaque scraping into a transparent, usage‑based licensing system they control.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
-    "categories": [
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.58,
-    "relevance_label": "high",
-    "title_en": "SPUR Launches Publisher-Run Content Telemetry Framework to Bring Transparency to AI Licensing",
-    "summary_ko": "SPUR는 퍼블리셔 주도의 콘텐츠 텔레메트리 프레임워크를 구축해, AI가 퍼블리셔 콘텐츠를 불투명하게 스크래핑하는 방식을 투명한 사용량 기반 라이선싱 시스템으로 전환하는 것을 목표로 한다. 이 프레임워크는 퍼블리셔가 AI의 콘텐츠 활용 방식을 직접 통제할 수 있도록 설계되어 있다. 생성 AI의 콘텐츠 무단 사용 문제에 대한 퍼블리셔 측의 구체적인 대응책으로 주목받고 있다.",
-    "summary_en": "SPUR is a publisher-run initiative focused on transforming AI's opaque scraping of publisher content into a transparent, usage-based licensing system controlled by publishers themselves. The Content Telemetry Framework is designed to give publishers direct visibility and control over how their content is used by AI systems. It represents a concrete industry response to the growing tension between AI developers and content creators over unauthorized data use.",
-    "so_what_ko": "LG D2C가 생성 AI 기반 콘텐츠 전략을 확대할 경우, SPUR와 같은 퍼블리셔 주도 라이선싱 프레임워크의 동향을 주시하고 콘텐츠 조달 시 법적·윤리적 리스크를 사전에 관리해야 한다.",
-    "so_what_en": "As LG D2C scales generative AI content strategies, monitoring publisher-led licensing frameworks like SPUR is essential to proactively manage legal and reputational risks in AI-driven content sourcing.",
-    "key_points": [
-      "SPUR는 퍼블리셔가 직접 운영하는 AI 콘텐츠 라이선싱 이니셔티브",
-      "불투명한 AI 스크래핑을 사용량 기반 투명 라이선싱으로 전환하는 것이 핵심 목표",
-      "퍼블리셔의 콘텐츠 통제권 강화를 위한 텔레메트리 기반 추적 시스템 도입",
-      "AI와 콘텐츠 생태계 간 권리 분쟁에 대한 업계 차원의 대응 사례"
-    ],
-    "tags": [
-      "ai-content-licensing",
-      "publisher-rights",
-      "content-telemetry",
-      "generative-ai",
-      "ad-tech"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "PLATFORM_ECOSYSTEM",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "SPUR"
-    ],
-    "one_line_insight_ko": "AI의 콘텐츠 무단 활용에 맞서 퍼블리셔 주도의 사용량 기반 라이선싱 프레임워크가 등장하며 콘텐츠 조달 환경이 근본적으로 변화하고 있다.",
-    "one_line_insight_en": "Publisher-led usage-based licensing frameworks are reshaping the AI content landscape, signaling tighter controls and potential costs for brands relying on AI-generated or AI-curated content.",
-    "ai_processed": true
-  },
-  {
-    "title": "NASCAR rebuilds its commercial engine to tempt back motorsports fans",
-    "link": "https://digiday.com/marketing/nascar-rebuilds-its-commercial-engine-to-tempt-back-motorsports-fans/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-07-13",
-    "description": "Behind the scenes, the motorsport and racetrack business hopes a commercial refit and consumer-facing hero campaign can help it hold the line amid F1’s growing U.S. popularity.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
-    "categories": [
-      "marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.25,
-    "relevance_label": "high",
-    "title_en": "NASCAR Overhauls Commercial Strategy with Hero Campaign to Win Back Fans Amid F1's U.S. Surge",
-    "summary_ko": "NASCAR는 미국 내 F1의 급성장에 대응하기 위해 상업적 구조를 전면 재정비하고 소비자 대상 대규모 캠페인을 전개하고 있다. 레이스트랙 운영 사업과 함께 팬 재유치를 위한 전략적 리포지셔닝이 핵심이다. 원문에서 AI 관련 구체적인 기술 적용 내용은 확인되지 않으며, 스포츠 마케팅 전략 사례로서의 의미가 크다.",
-    "summary_en": "NASCAR is undertaking a comprehensive commercial overhaul, including a consumer-facing hero campaign, to recapture motorsports fans in the face of Formula 1's growing popularity in the United States. The restructuring covers both its motorsport operations and racetrack business segments. The initiative represents a broader repositioning effort rather than an AI-specific marketing transformation.",
-    "so_what_ko": "이 기사는 AI 커머스·마케팅과의 직접적 관련성이 낮으며, LG D2C 전략에 대한 즉각적인 시사점은 제한적이다. 다만 전통 스포츠 브랜드의 팬 이탈 방지를 위한 상업적 리브랜딩 전략은 참고 사례로 활용 가능하다.",
-    "so_what_en": "This article has limited direct relevance to AI commerce or marketing for LG D2C, but NASCAR's audience re-engagement strategy offers a reference case for brand repositioning when facing competitive disruption.",
-    "key_points": [
-      "NASCAR가 F1의 미국 시장 성장에 대응한 상업적 구조 개편 추진",
-      "소비자 대상 '히어로 캠페인' 론칭으로 팬 재유치 도모",
-      "레이스트랙 비즈니스와 모터스포츠 사업 전반에 걸친 리포지셔닝",
-      "AI 기술 활용 관련 구체적 내용은 원문에서 확인되지 않음"
-    ],
-    "tags": [
-      "sports-marketing",
-      "brand-repositioning",
-      "fan-engagement",
-      "competitive-strategy"
-    ],
-    "confidence": 0.65,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "NASCAR",
-      "Formula 1"
-    ],
-    "one_line_insight_ko": "경쟁 심화로 팬을 잃어가는 NASCAR의 상업적 재정비는 브랜드 위기 시 구조적 리포지셔닝이 얼마나 중요한지를 보여주는 사례다.",
-    "one_line_insight_en": "NASCAR's commercial overhaul amid F1's rise illustrates how legacy brands must structurally reposition—not just campaign—when facing disruptive competition.",
-    "ai_processed": true
-  },
-  {
-    "title": "Intent Clusters Guide AI Product Discovery",
-    "link": "https://www.practicalecommerce.com/intent-clusters-guide-ai-product-discovery",
-    "date_published": "2026-07-12",
-    "description": "AI's growth in search and shopping adds precision to intent behaviors and opportunities.\nThe post Intent Clusters Guide AI Product Discovery appeared first on Practical Ecommerce.",
-    "source_id": "practical_ecommerce",
-    "source_name": "Practical Ecommerce",
-    "source_url": "https://www.practicalecommerce.com/feed",
-    "categories": [
-      "commerce",
-      "ai_marketing",
-      "agentic_commerce"
-    ],
-    "relevance_score": 0.88,
-    "relevance_label": "high",
-    "title_en": "Intent Clusters Are Redefining AI-Driven Product Discovery in E-Commerce",
-    "summary_ko": "AI 기반 검색과 쇼핑의 성장으로 '인텐트 클러스터(intent clusters)' 개념이 부상하며, AI가 소비자의 구매 의도를 더욱 정밀하게 파악하고 제품 탐색 경험을 고도화하고 있다. 인텐트 클러스터는 유사한 구매 의도를 가진 행동 신호를 묶어 AI가 더 정확한 상품 추천을 제공할 수 있도록 한다. 이커머스 사업자에게는 AI 탐색 알고리즘에 맞게 상품 정보와 콘텐츠를 최적화할 새로운 기회가 열리고 있다.",
-    "summary_en": "The rise of AI in search and shopping is bringing greater precision to understanding consumer intent through the concept of 'intent clusters'—groupings of behavioral signals that reflect similar purchase motivations. These clusters enable AI systems to deliver more accurate and contextually relevant product recommendations. For e-commerce operators, this creates new opportunities to optimize product content and discoverability for AI-driven search environments.",
-    "so_what_ko": "LG D2C는 AI 쇼핑 에이전트와 검색 알고리즘이 인텐트 클러스터를 활용해 상품을 추천하는 방식을 이해하고, 이에 맞게 제품 설명·태그·콘텐츠 구조를 최적화하는 AI-ready 상품 데이터 전략을 수립해야 한다.",
-    "so_what_en": "LG D2C should build an AI-ready product data strategy by understanding how intent clusters drive AI shopping recommendations, then structuring product descriptions, tags, and content to maximize visibility within AI-driven discovery engines.",
-    "key_points": [
-      "AI 검색·쇼핑 성장으로 인텐트 클러스터 기반 상품 탐색이 부상",
-      "소비자 구매 의도 신호를 클러스터링해 AI 추천 정확도 향상",
-      "이커머스 사업자에게 AI 탐색 최적화를 위한 콘텐츠 전략 재정비 필요",
-      "AI 에이전트 기반 쇼핑 환경에서 상품 데이터 품질이 경쟁력의 핵심으로 부상"
-    ],
-    "tags": [
-      "intent-clusters",
-      "ai-product-discovery",
-      "ai-search",
-      "ecommerce-optimization",
-      "personalization"
-    ],
-    "confidence": 0.72,
-    "strategic_theme": "AI_COMMERCE",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Practical Ecommerce"
-    ],
-    "one_line_insight_ko": "AI 쇼핑 시대에는 인텐트 클러스터를 이해하고 상품 데이터를 AI 탐색에 최적화하는 것이 D2C 브랜드의 핵심 경쟁력이 된다.",
-    "one_line_insight_en": "In the AI shopping era, optimizing product data around intent clusters is becoming the defining competitive capability for D2C brands.",
-    "ai_processed": true
-  },
-  {
-    "title": "After the click: Turning AI-referred shoppers into loyal customers",
-    "link": "https://www.retaildive.com/spons/after-the-click-turning-ai-referred-shoppers-into-loyal-customers/824663/",
-    "date_published": "2026-07-13",
-    "description": "AI that truly assists creates loyalty. Without it, stores are discovered but quickly forgotten.",
+    "description": "Import volume at major ports is surging as companies look to avoid a new tranche of tariffs, per a report from the NRF and Hackett Associates.",
     "source_id": "retail_dive",
     "source_name": "Retail Dive",
     "source_url": "https://www.retaildive.com/feeds/news/",
     "categories": [
       "commerce",
-      "agentic_commerce",
       "strategy"
     ],
-    "relevance_score": 0.92,
+    "relevance_score": 0.4,
     "relevance_label": "high",
-    "title_en": "AI-Referred Shoppers Demand Seamless Experiences to Convert from Discovery to Loyalty",
-    "summary_ko": "AI가 쇼핑 탐색 단계에서 소비자를 특정 브랜드로 유입시키는 역할이 커지면서, AI 유입 이후의 구매 경험이 충성 고객 전환의 핵심 변수로 떠오르고 있다. AI가 진정으로 쇼핑을 도와주는 경험을 제공할 때 고객 충성도가 형성되며, 그렇지 않을 경우 브랜드가 발견되더라도 금방 잊혀진다. 이는 AI 쇼핑 유입 이후의 온사이트 경험과 CX 최적화가 D2C 전략의 새로운 핵심 과제임을 시사한다.",
-    "summary_en": "As AI systems increasingly drive shoppers to specific brands during the discovery phase, the post-click experience has become the critical determinant of whether those shoppers convert into loyal customers. AI that genuinely assists consumers through the shopping journey creates lasting loyalty, while poor experiences mean brands are quickly forgotten despite being discovered. This underscores the growing importance of optimizing on-site experience and customer journey for AI-referred traffic.",
-    "so_what_ko": "LG D2C는 AI 쇼핑 에이전트를 통한 유입 트래픽을 충성 고객으로 전환하기 위해, AI 유입 후 랜딩 경험·개인화 추천·구매 후 관리까지 이어지는 통합 CX 전략을 강화해야 한다.",
-    "so_what_en": "LG D2C must build an integrated CX strategy that converts AI-referred traffic into loyal customers by optimizing the landing experience, personalized recommendations, and post-purchase engagement across the full journey.",
+    "title_en": "Retailers Rush to Stock Up Inventory Ahead of New Tariff Wave",
+    "summary_ko": "미국 주요 항구의 수입 물량이 급증하고 있으며, 이는 새로운 관세 부과를 앞두고 기업들이 재고를 미리 확보하려는 움직임에 따른 것이다. NRF와 Hackett Associates 보고서에 따르면 소매업체들이 관세 발효 전 선제적 재고 축적에 나서고 있다. 이러한 선행 수입 급증은 단기적으로 재고 비용 상승과 공급망 압박으로 이어질 수 있다.",
+    "summary_en": "Import volumes at major U.S. ports are surging as retailers and companies rush to build inventory ahead of an anticipated new round of tariffs. According to a report by the NRF and Hackett Associates, businesses are proactively stockpiling goods to avoid higher costs once tariffs take effect. This preemptive inventory build-up signals significant supply chain and cost pressures for the retail sector in the near term.",
+    "so_what_ko": "LG D2C는 관세 시행 전 주요 제품 재고를 선제적으로 확보하고, 공급망 리스크를 최소화하기 위한 조달 전략을 재검토해야 한다.",
+    "so_what_en": "LG D2C should proactively secure key product inventory before tariff implementation and reassess procurement strategies to minimize supply chain risk.",
     "key_points": [
-      "AI가 쇼핑 탐색 단계에서 브랜드 유입의 새로운 관문으로 부상",
-      "AI 유입 이후 경험의 질이 고객 충성도 전환의 핵심 결정 요인",
-      "진정성 있는 AI 쇼핑 지원이 이루어질 때만 고객 로열티 형성 가능",
-      "AI 유입 트래픽 대응을 위한 온사이트 CX 및 개인화 전략 고도화 필요"
+      "주요 항구의 수입 물량이 관세 회피 목적으로 급증",
+      "NRF 및 Hackett Associates 보고서가 소매업체들의 선행 재고 축적 확인",
+      "단기적 재고 비용 상승 및 공급망 압박 예상"
     ],
     "tags": [
-      "ai-referred-shoppers",
-      "customer-loyalty",
-      "agentic-commerce",
-      "post-click-experience",
-      "d2c-cx"
+      "tariffs",
+      "supply-chain",
+      "retail-inventory",
+      "trade-policy"
     ],
-    "confidence": 0.78,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "confidence": 0.7,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "NRF",
+      "Hackett Associates"
+    ],
+    "one_line_insight_ko": "관세 부과 임박에 따른 소매업체들의 선제적 재고 확보 움직임은 공급망 비용 상승과 재고 리스크를 동시에 초래한다.",
+    "one_line_insight_en": "Retailers' preemptive inventory stockpiling ahead of tariffs signals both rising supply chain costs and increased inventory risk.",
+    "ai_processed": true
+  },
+  {
+    "title": "Walmart inks nuclear energy deal to power Illinois warehouse",
+    "link": "https://www.retaildive.com/news/walmart-signs-176-mw-nuclear-ppa-with-constellation-to-support-illinois-operations/825047/",
+    "date_published": "2026-07-13",
+    "description": "The deal marks Walmart’s first nuclear power purchase agreement and is “among the first of its kind between a large retailer and a nuclear energy facility in the United States.”",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "strategy"
+    ],
+    "relevance_score": 0.25,
+    "relevance_label": "high",
+    "title_en": "Walmart Signs First Nuclear Power Deal to Energize Illinois Warehouse Operations",
+    "summary_ko": "월마트가 Constellation과 176MW 규모의 원자력 전력 구매 계약(PPA)을 체결하며 대형 소매업체와 원자력 시설 간 최초 수준의 계약을 성사시켰다. 이 계약은 일리노이주 창고 운영에 필요한 전력을 공급하기 위한 것으로, 월마트의 첫 원자력 PPA이다. 대형 소매업체가 청정 에너지 조달 방식을 다양화하는 새로운 선례를 만들었다는 점에서 업계의 주목을 받고 있다.",
+    "summary_en": "Walmart has signed a 176MW nuclear power purchase agreement (PPA) with Constellation to support its Illinois warehouse operations, marking the retailer's first-ever nuclear energy deal. The agreement is described as among the first of its kind between a large retailer and a nuclear energy facility in the United States. The move highlights a growing trend of major retailers diversifying their clean energy procurement strategies.",
+    "so_what_ko": "LG D2C는 물류·창고 운영의 탄소중립 목표 달성을 위해 원자력을 포함한 다양한 청정 에너지 조달 옵션을 검토할 필요가 있다.",
+    "so_what_en": "LG D2C should explore diverse clean energy procurement options, including nuclear, to meet carbon neutrality goals across logistics and warehouse operations.",
+    "key_points": [
+      "월마트, Constellation과 176MW 원자력 PPA 체결 — 소매업계 최초 수준",
+      "일리노이주 창고 운영 전력 공급이 주요 목적",
+      "대형 소매업체의 청정 에너지 다변화 트렌드를 상징하는 계약"
+    ],
+    "tags": [
+      "nuclear-energy",
+      "sustainability",
+      "retail-operations",
+      "clean-energy"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Walmart",
+      "Constellation"
+    ],
+    "one_line_insight_ko": "월마트의 원자력 PPA 체결은 대형 소매업체가 지속가능한 에너지 조달 방식을 본격적으로 다각화하고 있음을 보여준다.",
+    "one_line_insight_en": "Walmart's nuclear PPA signals that major retailers are seriously diversifying sustainable energy procurement beyond traditional renewables.",
+    "ai_processed": true
+  },
+  {
+    "title": "Retailers did well in Q1. Was it just a mirage?",
+    "link": "https://www.retaildive.com/news/retailers-strong-q1-tariffs-prices-mirage/824737/",
+    "date_published": "2026-07-13",
+    "description": "Tariffs’ effect on prices didn’t kick in until later in 2025. That and other factors flattered retail comps early this year, setting up Q3 for disappointment.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.4,
+    "relevance_label": "high",
+    "title_en": "Strong Retail Q1 Results May Have Been a Mirage as Tariff Impacts Loom",
+    "summary_ko": "2025년 1분기 소매업체들의 실적이 양호했던 것은 관세 영향이 아직 가격에 반영되지 않은 시기적 요인에 크게 기인한 것으로 분석된다. 이러한 요인들이 소매 비교 지표를 일시적으로 부풀렸으며, 3분기에는 실망스러운 실적이 예상된다는 경고가 나오고 있다. 관세로 인한 가격 상승이 본격화되면 소비자 수요와 소매 매출에 부정적인 영향을 미칠 가능성이 높다.",
+    "summary_en": "Retailers posted strong Q1 2025 results largely because tariff impacts had not yet been reflected in prices, creating a flattering but potentially misleading picture of retail health. Multiple factors inflated retail comparable sales figures early in the year, setting the stage for potential Q3 disappointment. As tariff-driven price increases begin to take effect later in 2025, consumer demand and retail revenue are expected to face headwinds.",
+    "so_what_ko": "LG D2C는 단기적인 매출 호조에 안주하지 않고, 관세 발효 이후 가격 인상이 소비자 수요에 미칠 영향을 선제적으로 시뮬레이션하고 대응 전략을 마련해야 한다.",
+    "so_what_en": "LG D2C should not be complacent about short-term sales gains and must proactively model the impact of tariff-driven price increases on consumer demand and adjust pricing and promotional strategies accordingly.",
+    "key_points": [
+      "Q1 강세는 관세 가격 미반영에 따른 일시적 착시 효과",
+      "3분기 실적 실망 가능성을 업계 전문가들이 경고",
+      "관세 기반 가격 상승이 하반기 소비자 수요에 부담으로 작용 예상"
+    ],
+    "tags": [
+      "tariffs",
+      "retail-performance",
+      "pricing",
+      "consumer-demand"
+    ],
+    "confidence": 0.72,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "THREAT",
+    "key_entities": [],
+    "one_line_insight_ko": "1분기 소매 호실적은 관세 유예 효과에 의한 착시이며, 하반기 수요 둔화에 대비한 선제적 전략 수립이 시급하다.",
+    "one_line_insight_en": "Retailers' strong Q1 results were largely a tariff-driven illusion, and D2C brands must brace for demand softening as price increases materialize in H2.",
+    "ai_processed": true
+  },
+  {
+    "title": "New GA4 Channel Tracks AI Traffic",
+    "link": "https://www.practicalecommerce.com/new-ga4-channel-tracks-ai-traffic",
+    "date_published": "2026-07-13",
+    "description": "The new \"AI Assistant\" feature in Google Analytics shows performance metrics such as engagement, events per session, time per session, and more.\nThe post New GA4 Channel Tracks AI Traffic appeared first on Practical Ecommerce.",
+    "source_id": "practical_ecommerce",
+    "source_name": "Practical Ecommerce",
+    "source_url": "https://www.practicalecommerce.com/feed",
+    "categories": [
+      "ai_marketing",
+      "commerce"
+    ],
+    "relevance_score": 0.88,
+    "relevance_label": "high",
+    "title_en": "Google Analytics 4 Adds Dedicated 'AI Assistant' Channel to Track AI-Driven Traffic",
+    "summary_ko": "Google Analytics 4(GA4)가 AI 어시스턴트로부터 유입되는 트래픽을 별도로 측정할 수 있는 새로운 'AI Assistant' 채널을 도입했다. 이 기능은 참여율, 세션당 이벤트 수, 세션당 체류 시간 등 AI 트래픽 관련 성과 지표를 제공한다. AI 검색 및 AI 에이전트를 통한 쇼핑이 증가하는 가운데, 이 채널은 마케터들이 AI 유입 트래픽의 가치를 정량화하는 데 중요한 도구가 될 것으로 보인다.",
+    "summary_en": "Google Analytics 4 (GA4) has introduced a new 'AI Assistant' channel that allows marketers to separately track and measure traffic originating from AI assistants. The feature provides key performance metrics including engagement rates, events per session, and time spent per session for AI-driven traffic. As AI-powered search and agentic shopping grow, this channel gives D2C marketers a critical tool to quantify the value and behavior of AI-referred visitors.",
+    "so_what_ko": "LG D2C는 GA4의 AI Assistant 채널을 즉시 활성화하여 AI 어시스턴트 유입 트래픽의 규모와 구매 전환 기여도를 파악하고, AI 채널 최적화 전략을 수립해야 한다.",
+    "so_what_en": "LG D2C should immediately activate GA4's AI Assistant channel to quantify AI-referred traffic volume and conversion contribution, then build optimization strategies for this emerging traffic source.",
+    "key_points": [
+      "GA4에 AI 어시스턴트 트래픽 전용 측정 채널 신규 도입",
+      "참여율, 세션당 이벤트, 체류 시간 등 핵심 지표 제공",
+      "AI 에이전트 기반 쇼핑 증가에 따른 새로운 트래픽 소스 가시성 확보 가능"
+    ],
+    "tags": [
+      "ga4",
+      "ai-traffic",
+      "analytics",
+      "agentic-commerce",
+      "ai-marketing"
+    ],
+    "confidence": 0.82,
+    "strategic_theme": "DATA_STRATEGY",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Retail Dive"
+      "Google Analytics 4",
+      "GA4",
+      "AI Assistant"
     ],
-    "one_line_insight_ko": "AI가 쇼핑 유입의 관문이 되는 시대에는 클릭 이후의 경험 품질이 브랜드 충성도를 결정하는 새로운 전장이 된다.",
-    "one_line_insight_en": "In the age of AI-driven discovery, the post-click experience is the new battleground where brand loyalty is won or lost.",
+    "one_line_insight_ko": "GA4의 AI 트래픽 전용 채널은 AI 에이전트 시대에 D2C 마케터가 새로운 유입 소스의 비즈니스 가치를 처음으로 정량화할 수 있게 해주는 핵심 도구다.",
+    "one_line_insight_en": "GA4's new AI Assistant channel gives D2C marketers their first systematic tool to quantify the business value of AI agent-driven traffic in the agentic commerce era.",
     "ai_processed": true
   },
   {
-    "title": "Why Farmers Insurance flipped its jingle as part of all-pink rebrand",
-    "link": "https://www.marketingdive.com/news/why-farmers-insurance-flipped-jingle-part-all-pink-rebrand/824955/",
+    "title": "S&S becomes exclusive US distributor for certain Adidas apparel",
+    "link": "https://www.digitalcommerce360.com/2026/07/13/ss-exclusive-us-distributor-certain-adidas-apparel/",
     "date_published": "2026-07-13",
-    "description": "The effort is intended to help the brand stand out amid a “sea of sameness” in the insurance category, said Eleanor Solomon, head of creative at the brand.",
+    "description": "S&S is now the exclusive U.S. distributor for Adidas team apparel, the former announced in early July. It said the exclusive status marks “a significant milestone in its longstanding partnership” with Adidas. Customers now have exclusive access to a broader assortment of apparel across teamwear, corporate apparel and gifting, according to S&S. S&S described itself […]\nThe post S&S becomes exclusive US distributor for certain Adidas apparel appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
+    "categories": [
+      "commerce"
+    ],
+    "relevance_score": 0.2,
+    "relevance_label": "high",
+    "title_en": "S&S Becomes Exclusive U.S. Distributor for Adidas Team Apparel",
+    "summary_ko": "S&S가 Adidas 팀 어패럴 부문의 미국 독점 유통업체로 선정되었으며, 이는 양사의 오랜 파트너십에서 중요한 이정표로 평가받고 있다. 고객들은 팀웨어, 기업 어패럴, 기프팅 등 더욱 폭넓은 Adidas 제품 라인에 독점적으로 접근할 수 있게 되었다. 이번 계약은 B2B 유통 채널에서 독점 파트너십을 통한 제품 접근성 강화 전략의 사례를 보여준다.",
+    "summary_en": "S&S has been named the exclusive U.S. distributor for Adidas team apparel, a move that the company described as a significant milestone in its longstanding partnership with the sportswear giant. Customers will now have exclusive access to a broader assortment of Adidas products spanning teamwear, corporate apparel, and gifting categories. The deal exemplifies how B2B distribution partnerships can be leveraged to expand product reach and exclusivity in competitive markets.",
+    "so_what_ko": "LG D2C는 특정 제품 카테고리에서 독점 유통 파트너십 구조가 경쟁 차별화와 채널 확장에 미치는 영향을 분석하고, 유사한 파트너십 기회를 탐색해 볼 수 있다.",
+    "so_what_en": "LG D2C can analyze how exclusive distribution partnerships drive competitive differentiation and channel expansion, and explore similar partnership models for select product categories.",
+    "key_points": [
+      "S&S가 Adidas 팀 어패럴 미국 독점 유통업체로 공식 지정",
+      "팀웨어, 기업 어패럴, 기프팅 등 폭넓은 제품군에 독점 접근 제공",
+      "B2B 독점 유통 파트너십을 통한 채널 차별화 전략 사례"
+    ],
+    "tags": [
+      "distribution",
+      "b2b-partnership",
+      "adidas",
+      "exclusive-deal"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "PLATFORM_ECOSYSTEM",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "S&S",
+      "Adidas"
+    ],
+    "one_line_insight_ko": "S&S의 Adidas 독점 유통 계약은 B2B 파트너십을 통한 채널 차별화가 경쟁이 치열한 어패럴 시장에서 유효한 전략임을 재확인시켜 준다.",
+    "one_line_insight_en": "S&S's exclusive Adidas distribution deal reaffirms that strategic B2B partnerships remain a powerful channel differentiation lever in competitive apparel markets.",
+    "ai_processed": true
+  },
+  {
+    "title": "MLS Is Ready for Its Through Pass From the World Cup",
+    "link": "https://www.adweek.com/brand-marketing/mls-world-cup-campaign/",
+    "date_published": "2026-07-13",
+    "description": "MLS CMO Radhika Duggal says the league is launching the largest coordinated marketing campaign in its history.",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
+    "categories": [
+      "marketing"
+    ],
+    "relevance_score": 0.35,
+    "relevance_label": "high",
+    "title_en": "MLS Launches Largest Marketing Campaign in League History Ahead of World Cup",
+    "summary_ko": "MLS CMO Radhika Duggal은 리그 역사상 가장 큰 규모의 통합 마케팅 캠페인을 월드컵을 앞두고 출범한다고 밝혔다. 이번 캠페인은 MLS가 글로벌 축구 무대에서의 존재감을 높이기 위한 전략적 시도로 평가된다. 월드컵이라는 대형 스포츠 이벤트를 레버리지로 활용해 브랜드 인지도와 팬 저변을 확대하는 것이 핵심 목표다.",
+    "summary_en": "MLS CMO Radhika Duggal announced the launch of the largest coordinated marketing campaign in the league's history, timed to capitalize on World Cup momentum. The campaign represents a strategic push to elevate MLS's profile on the global soccer stage. Leveraging the World Cup as a catalyst, the initiative aims to expand brand awareness and grow the league's fan base.",
+    "so_what_ko": "대형 스포츠 이벤트와 연계한 타이밍 마케팅 전략은 LG D2C에도 적용 가능하며, 글로벌 이벤트를 활용한 캠페인 설계가 브랜드 인지도 제고에 효과적일 수 있다.",
+    "so_what_en": "LG D2C can draw lessons from MLS's event-driven marketing approach by aligning major product launches or campaigns with high-visibility global moments to maximize reach and brand relevance.",
+    "key_points": [
+      "MLS is launching its largest coordinated marketing campaign in league history",
+      "Campaign is strategically timed around the FIFA World Cup",
+      "Led by CMO Radhika Duggal with a focus on global brand elevation",
+      "Opportunity to grow fan base and commercial partnerships at scale"
+    ],
+    "tags": [
+      "sports-marketing",
+      "brand-campaign",
+      "event-marketing",
+      "mls",
+      "world-cup"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER",
+      "GLOBAL"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "MLS",
+      "Radhika Duggal",
+      "FIFA World Cup"
+    ],
+    "one_line_insight_ko": "MLS는 월드컵을 기회 삼아 리그 역사상 최대 규모의 마케팅 캠페인으로 글로벌 브랜드 도약을 꾀하고 있다.",
+    "one_line_insight_en": "MLS is using the World Cup as a springboard for its most ambitious marketing campaign ever, signaling how sports brands can leverage global events for brand transformation.",
+    "ai_processed": true
+  },
+  {
+    "title": "Liquid I.V. Weaves Spider-Man Into Its Growing Entertainment Strategy",
+    "link": "https://www.adweek.com/brand-marketing/liquid-iv-weaves-spider-man-into-its-growing-entertainment-strategy/",
+    "date_published": "2026-07-13",
+    "description": "The Unilever brand’s Spider-Man: Brand New Day partnership combines film, TV, retail, and experiential.",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
+    "categories": [
+      "marketing"
+    ],
+    "relevance_score": 0.38,
+    "relevance_label": "high",
+    "title_en": "Liquid I.V. Partners with Spider-Man: Brand New Day in Multi-Channel Entertainment Strategy",
+    "summary_ko": "유니레버 산하 브랜드 Liquid I.V.가 영화 '스파이더맨: 브랜드 뉴 데이'와 파트너십을 체결하며 엔터테인먼트 마케팅 전략을 확대하고 있다. 이번 협업은 영화, TV, 리테일, 체험형 이벤트를 결합한 멀티채널 접근 방식을 취하고 있다. 브랜드가 대중문화 IP와 연계해 소비자 접점을 다각화하는 전략적 사례로 주목된다.",
+    "summary_en": "Liquid I.V., a Unilever brand, has partnered with the film Spider-Man: Brand New Day as part of its expanding entertainment marketing strategy. The collaboration integrates film, TV, retail, and experiential elements into a cohesive multi-channel campaign. This approach reflects a growing trend of consumer brands embedding themselves into major entertainment IP to deepen cultural relevance.",
+    "so_what_ko": "LG D2C는 인기 엔터테인먼트 IP와의 협업을 통해 제품 노출을 확대하고 젊은 소비자층과의 감성적 연결을 강화하는 전략을 검토할 수 있다.",
+    "so_what_en": "LG D2C should consider entertainment IP partnerships to create emotionally resonant, multi-touchpoint consumer experiences that go beyond traditional advertising.",
+    "key_points": [
+      "Liquid I.V. (Unilever) partnered with Spider-Man: Brand New Day film franchise",
+      "Campaign spans film, TV, retail, and experiential channels",
+      "Part of a growing entertainment strategy for the brand",
+      "Demonstrates how CPG brands use major IP to drive cultural relevance"
+    ],
+    "tags": [
+      "entertainment-marketing",
+      "brand-partnership",
+      "ip-collaboration",
+      "experiential",
+      "unilever"
+    ],
+    "confidence": 0.65,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "regions": [
+      "GLOBAL",
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Liquid I.V.",
+      "Unilever",
+      "Spider-Man: Brand New Day"
+    ],
+    "one_line_insight_ko": "Liquid I.V.의 스파이더맨 협업은 엔터테인먼트 IP를 활용한 멀티채널 브랜드 경험이 현대 마케팅의 핵심 전략으로 부상하고 있음을 보여준다.",
+    "one_line_insight_en": "Liquid I.V.'s Spider-Man tie-in illustrates how embedding brands into major entertainment IP across film, retail, and experiential channels is becoming a defining strategy for consumer brand growth.",
+    "ai_processed": true
+  },
+  {
+    "title": "M+C Saatchi NA launches entertainment arm as branded content booms",
+    "link": "https://www.marketingdive.com/news/mc-saatchi-na-launches-entertainment-arm-as-branded-content-booms/825049/",
+    "date_published": "2026-07-13",
+    "description": "Jen Bacchus, a former WME executive, is leading the specialized offering that aims to help clients drive deeper cultural relevance.",
     "source_id": "marketing_dive",
     "source_name": "Marketing Dive",
     "source_url": "https://www.marketingdive.com/feeds/news/",
     "categories": [
-      "marketing"
+      "marketing",
+      "strategy"
     ],
-    "relevance_score": 0.4,
+    "relevance_score": 0.42,
     "relevance_label": "high",
-    "title_en": "Farmers Insurance Goes All-Pink in Bold Rebrand to Break Through Insurance 'Sea of Sameness'",
-    "summary_ko": "파머스 인슈어런스는 보험 카테고리 내 '획일화된 이미지'에서 벗어나기 위해 올핑크 리브랜딩과 기존 징글을 변형한 캠페인을 진행했다. 브랜드의 크리에이티브 총괄 Eleanor Solomon은 차별화된 시각적 정체성 확립을 목표로 밝혔다. 이번 캠페인은 경쟁이 치열한 보험 시장에서 브랜드 인지도를 높이기 위한 전략적 시도다.",
-    "summary_en": "Farmers Insurance launched an all-pink rebrand accompanied by a flipped version of its well-known jingle to differentiate itself in a crowded insurance market. Eleanor Solomon, head of creative at the brand, stated the goal was to stand out amid a 'sea of sameness' in the insurance category. The campaign represents a bold creative strategy to build distinctive brand equity in a competitive landscape.",
-    "so_what_ko": "LG D2C도 가전 카테고리 내 브랜드 차별화를 위해 감각적이고 일관된 비주얼 아이덴티티 전략을 적극 검토할 필요가 있다.",
-    "so_what_en": "LG D2C should consider bold, cohesive visual identity strategies to differentiate its brand in a commoditized home appliance market.",
+    "title_en": "M+C Saatchi North America Launches Entertainment Arm to Capitalize on Branded Content Boom",
+    "summary_ko": "M+C Saatchi North America가 브랜디드 콘텐츠 수요 증가에 대응해 전문 엔터테인먼트 부문을 새롭게 출범했다. 전 WME 임원인 Jen Bacchus가 이 부문을 이끌며, 클라이언트들의 문화적 관련성을 심화하는 것을 목표로 한다. 이는 광고 에이전시들이 순수 광고를 넘어 콘텐츠 제작과 엔터테인먼트 영역으로 영역을 확장하는 트렌드를 반영한다.",
+    "summary_en": "M+C Saatchi North America has launched a dedicated entertainment division in response to surging demand for branded content. The new unit is led by Jen Bacchus, a former WME executive, with the goal of helping clients achieve deeper cultural relevance. This move reflects a broader industry trend of advertising agencies expanding into content production and entertainment.",
+    "so_what_ko": "브랜디드 콘텐츠와 엔터테인먼트 마케팅이 주류로 부상함에 따라, LG D2C도 단순 광고를 넘어 자체 콘텐츠 IP 또는 파트너십 기반 콘텐츠 전략을 강화할 필요가 있다.",
+    "so_what_en": "As branded content becomes a mainstream marketing vehicle, LG D2C should evaluate building or partnering for original content capabilities to sustain cultural relevance with target consumers.",
     "key_points": [
-      "보험 카테고리의 '획일성'을 탈피하기 위한 올핑크 비주얼 리브랜딩 실시",
-      "기존 브랜드 자산인 징글을 변형하여 친숙함과 새로움을 동시에 추구",
-      "크리에이티브 총괄 주도 하에 브랜드 차별화 전략 추진"
+      "M+C Saatchi NA launched a new entertainment division focused on branded content",
+      "Led by Jen Bacchus, former WME executive, signaling talent migration from entertainment to marketing",
+      "Goal is to drive deeper cultural relevance for brand clients",
+      "Reflects agency evolution beyond traditional advertising into content and entertainment"
     ],
     "tags": [
-      "brand-differentiation",
-      "rebranding",
-      "creative-strategy",
-      "insurance-marketing"
+      "branded-content",
+      "entertainment-marketing",
+      "agency-strategy",
+      "cultural-relevance",
+      "content-strategy"
     ],
-    "confidence": 0.65,
+    "confidence": 0.7,
     "strategic_theme": "AI_MARKETING",
     "regions": [
       "AMER"
     ],
     "business_impact": "LOW",
-    "sentiment": "OPPORTUNITY",
+    "sentiment": "NEUTRAL",
     "key_entities": [
-      "Farmers Insurance",
-      "Eleanor Solomon"
+      "M+C Saatchi",
+      "Jen Bacchus",
+      "WME"
     ],
-    "one_line_insight_ko": "카테고리 내 차별화를 위한 과감한 리브랜딩은 획일화된 시장에서 브랜드 존재감을 높이는 유효한 전략이다.",
-    "one_line_insight_en": "Bold rebranding with a distinctive visual identity can be an effective antidote to category sameness in competitive markets.",
+    "one_line_insight_ko": "광고 에이전시의 엔터테인먼트 부문 신설은 브랜디드 콘텐츠가 마케팅의 새로운 핵심 축으로 자리잡고 있음을 시사한다.",
+    "one_line_insight_en": "M+C Saatchi's entertainment arm launch signals that branded content and cultural storytelling are now central, not supplementary, to competitive marketing strategy.",
     "ai_processed": true
   },
   {
-    "title": "DTC brands are finding growth with older customers",
-    "link": "https://www.modernretail.co/marketing/dtc-brands-are-finding-growth-with-older-customers/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "title": "Measurement investments haven’t simplified advertising decisions: report",
+    "link": "https://www.marketingdive.com/news/measurement-investments-havent-simplified-advertising-decisions-report/824957/",
     "date_published": "2026-07-13",
-    "description": "DTC brands like Little Spoon and Boarderie are adjusting their marketing to win over older consumers like grandparents and Boomer parents.",
-    "source_id": "modern_retail",
-    "source_name": "Modern Retail",
-    "source_url": "https://www.modernretail.co/feed/",
+    "description": "Despite a wider set of tools available to the marketing industry, many still struggle to leverage insights to influence budgetary decisions.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
     "categories": [
-      "commerce",
-      "marketing"
+      "marketing",
+      "strategy"
     ],
-    "relevance_score": 0.72,
+    "relevance_score": 0.62,
     "relevance_label": "high",
-    "title_en": "DTC Brands Unlock New Growth by Targeting Older Consumers Including Boomers and Grandparents",
-    "summary_ko": "Little Spoon, Boarderie 등 DTC 브랜드들이 베이비부머와 조부모 세대를 새로운 성장 동력으로 주목하며 마케팅 전략을 조정하고 있다. 고령 소비자들은 구매력이 높고 브랜드 충성도가 강한 특성을 보여 DTC 채널의 새로운 핵심 타깃으로 부상 중이다. 이들 브랜드는 메시지, 비주얼, 채널 전략을 고령층 소비자에 맞게 최적화하고 있다.",
-    "summary_en": "DTC brands such as Little Spoon and Boarderie are pivoting their marketing strategies to capture growth from older consumers, including grandparents and Baby Boomer parents. Older consumers represent a high-purchasing-power segment with strong brand loyalty, making them an increasingly attractive target for direct-to-consumer channels. These brands are adapting their messaging, visuals, and channel mix to better resonate with this demographic.",
-    "so_what_ko": "LG D2C는 구매력 높은 5060 세대를 위한 맞춤형 콘텐츠와 채널 전략을 강화하여 미개발 성장 기회를 선점해야 한다.",
-    "so_what_en": "LG D2C should develop targeted content and channel strategies for the 50-60+ demographic to capture an underserved, high-value growth segment.",
+    "title_en": "Marketing Measurement Investments Failing to Simplify Advertising Decisions, Report Finds",
+    "summary_ko": "새로운 보고서에 따르면 마케팅 업계는 다양한 측정 도구에 투자하고 있음에도 불구하고, 이를 예산 의사결정에 실질적으로 활용하는 데 여전히 어려움을 겪고 있다. 도구의 다양성이 오히려 복잡성을 증가시켜 명확한 인사이트 도출을 방해하는 역설적 상황이 나타나고 있다. 이는 측정 기술의 발전이 곧 의사결정 효율성으로 이어지지 않는다는 점을 시사한다.",
+    "summary_en": "A new report reveals that despite increased investment in marketing measurement tools, many in the industry still struggle to translate insights into actionable budgetary decisions. The proliferation of measurement tools has paradoxically added complexity rather than clarity to advertising decision-making. The findings suggest that technological advancement in measurement does not automatically translate into decision-making efficiency.",
+    "so_what_ko": "LG D2C는 측정 도구의 수를 늘리기보다 핵심 KPI에 집중하고 인사이트를 예산 결정에 연결하는 명확한 프로세스를 구축하는 것이 더 중요하다.",
+    "so_what_en": "LG D2C should focus on consolidating measurement frameworks around core KPIs and establishing clear processes that translate data insights into budget allocation decisions, rather than simply investing in more tools.",
     "key_points": [
-      "DTC 브랜드들이 베이비부머·조부모 세대를 새로운 핵심 타깃으로 설정",
-      "고령 소비자는 높은 구매력과 강한 브랜드 충성도를 보유",
-      "메시지, 비주얼, 채널 전략을 고령층에 맞게 최적화하는 추세",
-      "Little Spoon, Boarderie 등 다양한 카테고리 DTC 브랜드가 동참"
+      "Marketing measurement investments are not simplifying advertising decisions per a new industry report",
+      "Many marketers struggle to leverage measurement insights for budgetary decisions",
+      "Wider toolsets are increasing complexity rather than reducing it",
+      "Gap exists between data availability and actionable decision-making"
     ],
     "tags": [
-      "dtc",
-      "older-consumers",
-      "demographic-targeting",
-      "d2c-growth",
-      "boomer-marketing"
+      "marketing-measurement",
+      "advertising-roi",
+      "data-driven-marketing",
+      "marketing-analytics",
+      "budget-optimization"
     ],
-    "confidence": 0.7,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Little Spoon",
-      "Boarderie"
-    ],
-    "one_line_insight_ko": "고령 소비자는 DTC 브랜드의 차세대 성장 동력으로, 맞춤형 마케팅 접근이 새로운 경쟁 우위를 창출할 수 있다.",
-    "one_line_insight_en": "Older consumers represent an untapped DTC growth frontier, and brands that tailor their marketing to this demographic can gain a meaningful competitive edge.",
-    "ai_processed": true
-  },
-  {
-    "title": "Ways to think about token pricing",
-    "link": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
-    "date_published": "2026-07-09",
-    "description": "AI is in a supply crunch today, but what happens when we come out of it? \r\nHow and where will supply, demand, price, capacity and capex get back into \r\nequilibrium? Today, model labs can name their price, but why won’t they end \r\nup as low-margin commodity infrastructure?",
-    "source_id": "benedict_evans",
-    "source_name": "Benedict Evans Newsletter",
-    "source_url": "https://www.ben-evans.com/benedictevans?format=RSS",
-    "categories": [
-      "strategy",
-      "tech"
-    ],
-    "relevance_score": 0.6,
-    "relevance_label": "high",
-    "title_en": "Token Pricing in AI: Will Model Labs Become Low-Margin Commodity Infrastructure?",
-    "summary_ko": "현재 AI 시장은 공급 부족 상태이지만, 향후 공급이 확대될 경우 AI 모델 가격이 급락하고 모델 랩들이 저마진 범용 인프라로 전락할 수 있다는 분석이 제기됐다. 토큰 가격 결정 방식과 수요·공급·설비투자 간 균형 회복 경로에 대한 다양한 시나리오가 논의된다. 현재 모델 랩들이 가격 주도권을 갖고 있지만, 경쟁 심화에 따라 이 구조가 붕괴될 수 있다.",
-    "summary_en": "AI is currently experiencing a supply crunch, but Benedict Evans analyzes what happens when supply expands and whether model labs will be reduced to low-margin commodity infrastructure. The piece explores different frameworks for understanding token pricing and how supply, demand, price, capacity, and capital expenditure might reach equilibrium. While model labs currently set prices freely, increasing competition could erode this pricing power significantly.",
-    "so_what_ko": "AI 인프라 비용이 장기적으로 하락할 가능성이 높으므로, LG D2C는 AI 도입 시 벤더 종속을 최소화하고 비용 효율적인 멀티모델 전략을 준비해야 한다.",
-    "so_what_en": "As AI infrastructure costs are likely to decline long-term, LG D2C should minimize vendor lock-in and prepare a cost-efficient multi-model strategy for AI adoption.",
-    "key_points": [
-      "현재 AI 공급 부족으로 모델 랩이 가격 주도권 보유 중",
-      "공급 확대 시 토큰 가격 하락 및 범용 인프라화 가능성 존재",
-      "수요·공급·설비투자 균형 회복 경로에 대한 다양한 시나리오 분석",
-      "AI 비용 구조 변화는 기업의 AI 투자 전략에 중요한 시사점"
-    ],
-    "tags": [
-      "token-pricing",
-      "ai-infrastructure",
-      "ai-economics",
-      "competitive-dynamics"
-    ],
-    "confidence": 0.75,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "confidence": 0.72,
+    "strategic_theme": "DATA_STRATEGY",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "MEDIUM",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "Benedict Evans"
+      "Marketing Dive"
     ],
-    "one_line_insight_ko": "AI 토큰 가격의 장기적 하락은 불가피하며, 이는 기업의 AI 벤더 전략과 비용 구조 계획에 근본적인 재검토를 요구한다.",
-    "one_line_insight_en": "Long-term AI token price compression appears inevitable, demanding a fundamental rethink of enterprise vendor strategy and AI cost structures.",
+    "one_line_insight_ko": "측정 도구의 증가가 오히려 의사결정을 복잡하게 만들고 있어, 마케터들은 '더 많은 데이터'보다 '더 명확한 프레임워크'가 필요하다.",
+    "one_line_insight_en": "More measurement tools are creating more confusion, not clarity — marketers urgently need unified frameworks that connect insights directly to budget decisions.",
     "ai_processed": true
   },
   {
-    "title": "Capturing token IDs during agentic interactions for better reinforcement learning",
-    "link": "https://www.amazon.science/blog/capturing-token-ids-during-agentic-interactions-for-better-reinforcement-learning",
-    "date_published": "2026-07-09",
-    "description": "A new Rust proxy called Turnstile sits between the model backend and the agent harness to capture information lost in mere text transcripts.",
-    "source_id": "amazon_science",
-    "source_name": "Amazon Science",
-    "source_url": "https://www.amazon.science/index.rss",
+    "title": "Ports brace for record-high imports in July",
+    "link": "https://www.modernretail.co/operations/ports-brace-for-record-high-imports-in-july/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-07-13",
+    "description": "Imports are expected to hit an all-time high this month as retailers and brands pull ahead their shipments to avoid new potential tariffs.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
     "categories": [
-      "tech",
-      "agentic_commerce"
-    ],
-    "relevance_score": 0.65,
-    "relevance_label": "high",
-    "title_en": "Amazon Introduces Turnstile Rust Proxy to Capture Token IDs in Agentic AI Interactions for Better RL",
-    "summary_ko": "아마존 사이언스는 에이전틱 AI 상호작용 중 텍스트 전사에서 손실되는 토큰 ID 정보를 포착하기 위해 'Turnstile'이라는 Rust 기반 프록시를 개발했다. 이 도구는 모델 백엔드와 에이전트 하네스 사이에 위치하여 강화학습(RL) 품질 향상에 필요한 세밀한 데이터를 수집한다. 에이전틱 AI 시스템의 학습 효율성과 성능 개선을 위한 인프라 혁신 사례다.",
-    "summary_en": "Amazon Science has developed a Rust-based proxy called Turnstile that sits between the model backend and agent harness to capture token IDs lost in standard text transcripts during agentic AI interactions. This tool addresses a key data gap that limits the quality of reinforcement learning in agentic systems. The innovation represents a significant infrastructure advancement for improving the training efficiency and performance of agentic AI.",
-    "so_what_ko": "에이전틱 AI 도입을 계획 중인 LG D2C는 고품질 학습 데이터 수집 인프라의 중요성을 인식하고, 유사한 데이터 캡처 메커니즘 도입을 검토해야 한다.",
-    "so_what_en": "LG D2C teams planning agentic AI deployments should recognize the critical role of robust data capture infrastructure in ensuring high-quality reinforcement learning outcomes.",
-    "key_points": [
-      "아마존이 에이전틱 AI 상호작용의 토큰 ID 손실 문제 해결을 위해 Turnstile 개발",
-      "Rust 기반 프록시가 모델 백엔드와 에이전트 하네스 사이에서 세밀한 데이터 포착",
-      "강화학습 품질 향상을 위한 에이전틱 AI 인프라 혁신 사례"
-    ],
-    "tags": [
-      "agentic-ai",
-      "reinforcement-learning",
-      "amazon",
-      "ai-infrastructure",
-      "token-capture"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Amazon",
-      "Amazon Science",
-      "Turnstile"
-    ],
-    "one_line_insight_ko": "에이전틱 AI의 강화학습 품질은 정밀한 데이터 캡처 인프라에 달려 있으며, 이는 AI 에이전트 도입 기업들의 핵심 기술 과제가 된다.",
-    "one_line_insight_en": "The quality of agentic AI reinforcement learning hinges on precise data capture infrastructure, making it a foundational technical challenge for enterprises deploying AI agents.",
-    "ai_processed": true
-  },
-  {
-    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-    "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-    "date_published": "2026-07-09",
-    "description": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
-    "source_id": "openai_blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
-    "categories": [
-      "tech",
-      "ai_marketing"
-    ],
-    "relevance_score": 0.7,
-    "relevance_label": "high",
-    "title_en": "GPT-5.6 Becomes Preferred Model in Microsoft 365 Copilot, Enhancing AI Capabilities Across Productivity Suite",
-    "summary_ko": "OpenAI의 GPT-5.6이 Microsoft 365 Copilot의 기본 모델로 채택되어 Word, Excel, PowerPoint, Chat, Cowork 전반에 걸쳐 강화된 AI 역량을 제공한다. 이번 업데이트는 기업 생산성 도구 전반에 더 빠르고 높은 품질의 AI 지원을 가능하게 한다. OpenAI와 Microsoft의 긴밀한 파트너십이 엔터프라이즈 AI 시장에서 영향력을 더욱 확대하고 있다.",
-    "summary_en": "OpenAI's GPT-5.6 has become the preferred model powering Microsoft 365 Copilot, delivering stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork. The upgrade enables faster and higher-quality AI assistance throughout the enterprise productivity suite. This development further solidifies the OpenAI-Microsoft partnership's dominance in the enterprise AI productivity market.",
-    "so_what_ko": "LG D2C 조직이 Microsoft 365를 활용 중이라면 GPT-5.6 기반 Copilot 업그레이드를 마케팅 콘텐츠 제작, 데이터 분석, 협업 업무에 즉시 활용하여 생산성을 높일 수 있다.",
-    "so_what_en": "LG D2C teams using Microsoft 365 can immediately leverage GPT-5.6-powered Copilot to accelerate marketing content creation, data analysis, and collaborative workflows.",
-    "key_points": [
-      "GPT-5.6이 Microsoft 365 Copilot의 기본 모델로 공식 채택",
-      "Word, Excel, PowerPoint, Chat, Cowork 등 전 제품군에 강화된 AI 기능 제공",
-      "더 빠르고 높은 품질의 AI 지원으로 기업 생산성 향상 기대",
-      "OpenAI-Microsoft 파트너십의 엔터프라이즈 AI 시장 영향력 강화"
-    ],
-    "tags": [
-      "gpt-5-6",
-      "microsoft-365-copilot",
-      "openai",
-      "enterprise-ai",
-      "productivity"
-    ],
-    "confidence": 0.85,
-    "strategic_theme": "PLATFORM_ECOSYSTEM",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "OpenAI",
-      "Microsoft",
-      "GPT-5.6",
-      "Microsoft 365 Copilot"
-    ],
-    "one_line_insight_ko": "GPT-5.6의 Microsoft 365 Copilot 통합은 기업 AI 생산성의 기준을 높이며, 이를 빠르게 업무에 내재화하는 조직이 경쟁 우위를 확보하게 된다.",
-    "one_line_insight_en": "GPT-5.6's integration into Microsoft 365 Copilot raises the enterprise AI productivity bar, rewarding organizations that swiftly embed these capabilities into their core workflows.",
-    "ai_processed": true
-  },
-  {
-    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-    "link": "https://openai.com/index/gpt-5-6",
-    "date_published": "2026-07-09",
-    "description": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-    "source_id": "openai_blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
-    "categories": [
-      "tech",
-      "ai_marketing"
-    ],
-    "relevance_score": 0.6,
-    "relevance_label": "high",
-    "title_en": "GPT-5.6: OpenAI Delivers Frontier Intelligence That Scales With Ambition",
-    "summary_ko": "OpenAI가 GPT-5.6을 출시하며 토큰당 더 높은 지능, 달러당 강화된 성능, 온디맨드 확장 가능한 역량을 제공한다고 발표했다. 이 모델은 가장 어려운 작업에 대응하기 위해 설계된 프런티어급 AI다. 비용 효율성과 성능을 동시에 강화한 것이 핵심 특징이다.",
-    "summary_en": "OpenAI announced GPT-5.6, promising greater intelligence per token and stronger performance per dollar for demanding tasks. The model is positioned as a frontier-tier AI designed to scale capabilities on demand. Cost efficiency and enhanced performance are highlighted as its core differentiators.",
-    "so_what_ko": "LG D2C 조직은 GPT-5.6의 비용 대비 성능 향상을 활용해 개인화 추천, 콘텐츠 생성, 고객 응대 자동화 등 AI 기반 커머스 워크플로우를 더 경제적으로 고도화할 수 있다.",
-    "so_what_en": "LG D2C can leverage GPT-5.6's improved cost-performance ratio to scale AI-driven workflows such as personalized recommendations, content generation, and customer service automation more economically.",
-    "key_points": [
-      "토큰당 더 높은 지능 및 달러당 강화된 성능 제공",
-      "온디맨드 확장 가능한 역량으로 고난도 작업 지원",
-      "원문에서 구체적인 벤치마크 수치나 가격 정보는 확인되지 않음"
-    ],
-    "tags": [
-      "gpt-5.6",
-      "openai",
-      "frontier-model",
-      "cost-efficiency",
-      "generative-ai"
-    ],
-    "confidence": 0.5,
-    "strategic_theme": "EMERGING_TECH",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "OpenAI",
-      "GPT-5.6"
-    ],
-    "one_line_insight_ko": "GPT-5.6은 비용 효율성과 성능을 동시에 강화해 D2C AI 워크플로우의 경제적 확장 가능성을 높인다.",
-    "one_line_insight_en": "GPT-5.6's improved cost-performance ratio opens more economical pathways for scaling D2C AI-powered workflows.",
-    "ai_processed": true
-  },
-  {
-    "title": "ChatGPT is now a partner for your most ambitious work",
-    "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-    "date_published": "2026-07-09",
-    "description": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-    "source_id": "openai_blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
-    "categories": [
-      "agentic_commerce",
-      "tech",
+      "commerce",
       "strategy"
     ],
-    "relevance_score": 0.85,
+    "relevance_score": 0.55,
     "relevance_label": "high",
-    "title_en": "ChatGPT Work Becomes an Agentic Partner for Long-Horizon Projects Across Apps and Files",
-    "summary_ko": "OpenAI의 ChatGPT Work는 앱과 파일 전반에 걸쳐 실제 행동을 취하고, 필요 시 수 시간 동안 프로젝트를 지속하며, 목표를 완성된 결과물로 전환할 수 있는 에이전트로 소개됐다. 이는 단순한 챗봇을 넘어 복잡한 업무를 자율적으로 수행하는 AI 에이전트 단계로의 전환을 의미한다. 야심찬 비즈니스 작업을 위한 파트너로 포지셔닝하며 엔터프라이즈 활용 가능성을 강조하고 있다.",
-    "summary_en": "OpenAI introduced ChatGPT Work as an agent capable of taking action across apps and files, sustaining project engagement for hours, and converting goals into finished deliverables. This marks a significant shift from chatbot to autonomous AI agent capable of handling complex, long-horizon tasks. The product is positioned as a partner for ambitious business work, highlighting enterprise applicability.",
-    "so_what_ko": "ChatGPT Work의 멀티앱 에이전트 능력은 LG D2C 팀이 캠페인 기획, 콘텐츠 제작, 데이터 분석 등 복합 업무를 자동화하고 인력 효율을 획기적으로 높이는 데 직접 활용 가능하다.",
-    "so_what_en": "ChatGPT Work's multi-app agentic capabilities can directly enable LG D2C teams to automate complex workflows—such as campaign planning, content production, and data analysis—dramatically improving operational efficiency.",
+    "title_en": "US Ports Brace for Record-High Imports in July as Retailers Rush to Front-Run Tariffs",
+    "summary_ko": "미국 항구들이 7월 역대 최고 수준의 수입량을 앞두고 대비 태세에 들어갔으며, 이는 소매업체와 브랜드들이 새로운 관세 부과 전에 선적을 앞당기고 있기 때문이다. 관세 불확실성이 공급망 전략에 직접적인 영향을 미치며 재고 확보 경쟁이 심화되고 있다. 이러한 선제적 수입 급증은 물류 병목과 비용 상승 위험을 동반하고 있다.",
+    "summary_en": "US ports are preparing for record-high import volumes in July as retailers and brands accelerate shipments to get ahead of potential new tariffs. Tariff uncertainty is directly reshaping supply chain strategies, intensifying competition for inventory buffers. This preemptive import surge carries risks of logistical bottlenecks and increased operational costs.",
+    "so_what_ko": "LG D2C는 관세 리스크에 대응한 공급망 유연성 확보와 재고 전략 재검토가 시급하며, 물류 비용 급등에 대비한 시나리오 플래닝이 필요하다.",
+    "so_what_en": "LG D2C must urgently reassess inventory and supply chain strategies in light of tariff-driven import surges, conducting scenario planning for potential logistics bottlenecks and cost escalation.",
     "key_points": [
-      "앱과 파일 전반에 걸친 실제 액션 수행 가능한 에이전트",
-      "수 시간 지속되는 장기 프로젝트 처리 능력",
-      "목표를 완성된 결과물로 전환하는 엔드-투-엔드 실행 역량",
-      "엔터프라이즈 업무 파트너로 포지셔닝"
+      "US ports expect record-high import volumes in July 2026",
+      "Retailers and brands are front-loading shipments to avoid anticipated new tariffs",
+      "Tariff uncertainty is a primary driver reshaping near-term supply chain decisions",
+      "Risk of logistics congestion and elevated costs accompanies the import surge"
     ],
     "tags": [
-      "agentic-ai",
-      "chatgpt-work",
-      "openai",
-      "enterprise-ai",
-      "workflow-automation"
+      "supply-chain",
+      "tariffs",
+      "retail-operations",
+      "imports",
+      "trade-policy"
     ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_AGENT",
+    "confidence": 0.75,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
     "regions": [
+      "AMER",
       "GLOBAL"
     ],
     "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
+    "sentiment": "THREAT",
     "key_entities": [
-      "OpenAI",
-      "ChatGPT Work"
+      "Modern Retail",
+      "US Ports"
     ],
-    "one_line_insight_ko": "ChatGPT Work는 단순 챗봇을 넘어 복잡한 비즈니스 목표를 자율 실행하는 에이전트로 진화해, D2C 업무 자동화의 새로운 기준을 제시한다.",
-    "one_line_insight_en": "ChatGPT Work's evolution into a long-horizon agentic partner sets a new benchmark for autonomous D2C business workflow automation.",
+    "one_line_insight_ko": "관세 불확실성이 촉발한 역대급 수입 급증은 LG를 포함한 글로벌 브랜드의 공급망 전략과 비용 구조에 직접적인 위협으로 작용한다.",
+    "one_line_insight_en": "Tariff-driven import surges to record levels signal an urgent need for D2C brands to build supply chain resilience and proactive inventory strategies against trade policy volatility.",
     "ai_processed": true
   },
   {
-    "title": "GPT-5.5 Bio Bug Bounty",
-    "link": "https://openai.com/index/bio-bug-bounty",
-    "date_published": "2026-07-09",
-    "description": "Details about the OpenAI Bio Bounty program",
-    "source_id": "openai_blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
+    "title": "[AINews] Codex usage up >10x in 6 months to 7M users, +1M in the past ~day; did Codex overtake Claude Code??",
+    "link": "https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months",
+    "date_published": "2026-07-14",
+    "description": "a quiet day lets us fact check some numbers against the sound of silence of Claude Code reporting...",
+    "source_id": "latent_space",
+    "source_name": "Latent Space (The AI Index)",
+    "source_url": "https://www.latent.space/feed",
     "categories": [
       "tech"
     ],
-    "relevance_score": 0.2,
+    "relevance_score": 0.3,
     "relevance_label": "high",
-    "title_en": "OpenAI Launches GPT-5.5 Bio Bug Bounty Program to Strengthen AI Biosafety",
-    "summary_ko": "OpenAI가 GPT-5.5를 대상으로 한 바이오 버그 바운티 프로그램 세부 사항을 공개했다. 이 프로그램은 AI 모델의 생물학적 위험 관련 취약점을 발견하고 보고하는 연구자를 보상하는 제도다. 원문에서 구체적인 보상 규모나 참여 조건 등 세부 내용은 확인되지 않는다.",
-    "summary_en": "OpenAI released details of a Bio Bug Bounty program focused on GPT-5.5, designed to identify and reward researchers who discover biosafety-related vulnerabilities in the AI model. The program reflects OpenAI's commitment to responsible AI development in sensitive domains. Specific reward amounts and participation criteria are not confirmed in the source excerpt.",
-    "so_what_ko": "AI 모델의 안전성 검증 체계 강화는 LG D2C가 AI 솔루션 도입 시 파트너 선정 기준으로 안전성과 책임감 있는 AI 거버넌스를 고려해야 함을 시사한다.",
-    "so_what_en": "The growing emphasis on AI model safety validation suggests LG D2C should factor responsible AI governance and safety certifications into its criteria when selecting AI technology partners.",
+    "title_en": "Codex Surpasses 7M Users with 10x Growth in 6 Months, Potentially Overtaking Claude Code",
+    "summary_ko": "OpenAI의 Codex가 6개월 만에 사용자 수 10배 이상 증가하며 700만 명을 돌파했으며, 단 하루 만에 100만 명이 추가됐다. 이는 Anthropic의 Claude Code와의 경쟁 구도에서 주목할 만한 성장세로 평가된다. AI 코딩 어시스턴트 시장의 빠른 성장이 수치로 확인되고 있다.",
+    "summary_en": "OpenAI's Codex has surpassed 7 million users, representing more than a 10x increase over six months, with approximately 1 million users added in roughly a single day. This growth is being compared against Anthropic's Claude Code, which has not publicly reported equivalent usage figures. The data highlights the intensifying competition in the AI coding assistant market.",
+    "so_what_ko": "AI 코딩 도구의 급속한 사용자 확산은 D2C 조직 내 개발 생산성 향상 도구 선택에 직접적인 영향을 미칠 수 있으며, OpenAI 생태계 의존도 증가에 전략적 주의가 필요하다.",
+    "so_what_en": "The rapid adoption of AI coding tools like Codex signals that engineering productivity platforms are maturing quickly; LG D2C teams should evaluate which AI development tools to standardize on before vendor lock-in deepens.",
     "key_points": [
-      "GPT-5.5 대상 바이오 안전성 취약점 발견 보상 프로그램",
-      "AI 바이오 리스크 분야의 책임감 있는 개발 의지 반영",
-      "구체적인 보상 규모 및 참여 조건은 원문에서 확인되지 않음"
+      "Codex reached 7M users with 10x+ growth in 6 months",
+      "~1M new users added in approximately one day",
+      "Claude Code has not publicly released comparable usage metrics",
+      "AI coding assistant market competition is accelerating rapidly"
     ],
     "tags": [
-      "ai-safety",
+      "ai-coding",
       "openai",
-      "bug-bounty",
-      "biosafety",
-      "responsible-ai"
+      "developer-tools",
+      "market-competition"
     ],
-    "confidence": 0.4,
-    "strategic_theme": "EMERGING_TECH",
+    "confidence": 0.6,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
     "regions": [
       "GLOBAL"
     ],
@@ -597,92 +498,189 @@
     "sentiment": "NEUTRAL",
     "key_entities": [
       "OpenAI",
-      "GPT-5.5"
+      "Codex",
+      "Anthropic",
+      "Claude Code"
     ],
-    "one_line_insight_ko": "AI 바이오 버그 바운티 프로그램은 AI 안전 거버넌스가 기술 경쟁력의 일부로 자리잡고 있음을 보여준다.",
-    "one_line_insight_en": "OpenAI's bio bug bounty signals that AI safety governance is becoming an integral component of competitive AI leadership.",
+    "one_line_insight_ko": "AI 코딩 도구 시장에서 OpenAI Codex가 폭발적 성장으로 선두를 굳히며 경쟁 구도를 재편하고 있다.",
+    "one_line_insight_en": "OpenAI's Codex is rapidly consolidating leadership in the AI coding assistant market, potentially reshaping developer tool adoption at enterprise scale.",
     "ai_processed": true
   },
   {
-    "title": "IBM Extends Bob AI Platform With Array of New Features",
-    "link": "https://aibusiness.com/agentic-ai/ibm-extends-bob-ai-platform-array-new-features",
-    "date_published": "2026-07-09",
-    "description": "The updates amount to a significant expansion of the platform.",
-    "source_id": "ai_business",
-    "source_name": "AI Business",
-    "source_url": "https://aibusiness.com/rss.xml",
+    "title": "‘Future of targeting’: Media agencies tentatively explore vector-based planning",
+    "link": "https://digiday.com/media-buying/future-of-targeting-media-agencies-tentatively-explore-vector-based-planning/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-07-14",
+    "description": "Vector-based targeting is ‘very experimental’, but could offer AI-forward advertisers a better way of directing media buys.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
     "categories": [
-      "agentic_commerce",
+      "marketing",
+      "ai_marketing"
+    ],
+    "relevance_score": 0.85,
+    "relevance_label": "high",
+    "title_en": "Media Agencies Begin Cautiously Exploring Vector-Based Targeting as AI-Forward Ad Planning Approach",
+    "summary_ko": "미디어 에이전시들이 AI 기반 광고 집행의 새로운 방식으로 벡터 기반 타겟팅을 실험적으로 탐색하고 있다. 벡터 기반 플래닝은 전통적인 인구통계나 키워드 대신 의미적 유사성을 활용해 더 정밀한 오디언스 타겟팅을 가능하게 한다. 아직 매우 초기 단계이지만, AI 친화적 광고주들에게 미디어 바잉을 개선할 잠재력이 있다고 평가된다.",
+    "summary_en": "Media agencies are tentatively experimenting with vector-based planning as a more AI-forward approach to media buying and audience targeting. Unlike traditional demographic or keyword-based targeting, vector-based methods leverage semantic similarity to identify and reach audiences more precisely. The approach is described as 'very experimental' but holds promise for advertisers seeking to align with AI-driven media environments.",
+    "so_what_ko": "벡터 기반 타겟팅은 LG D2C의 디지털 광고 전략을 의미 기반 정밀 타겟팅으로 진화시킬 수 있는 기회로, 미디어 에이전시 파트너와 함께 파일럿 테스트를 선제적으로 검토해야 한다.",
+    "so_what_en": "LG D2C should proactively engage media agency partners to pilot vector-based targeting, as early movers in semantic ad planning could gain significant efficiency advantages in reaching high-intent audiences.",
+    "key_points": [
+      "Vector-based targeting uses semantic similarity rather than traditional demographics or keywords",
+      "Currently in very experimental stages across media agencies",
+      "Could offer AI-forward advertisers improved precision in media buys",
+      "Represents a structural shift in how audience targeting may be defined in AI-native environments"
+    ],
+    "tags": [
+      "vector-targeting",
+      "ai-advertising",
+      "media-planning",
+      "adtech",
+      "audience-targeting"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL",
+      "AMER",
+      "EMEA"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Digiday",
+      "media agencies"
+    ],
+    "one_line_insight_ko": "벡터 기반 타겟팅은 AI 시대 광고 집행의 패러다임을 바꿀 수 있는 차세대 미디어 플래닝 기술로 선제적 탐색이 필요하다.",
+    "one_line_insight_en": "Vector-based targeting represents a potential paradigm shift in AI-era media planning, and early experimentation could yield meaningful competitive advantages for D2C advertisers.",
+    "ai_processed": true
+  },
+  {
+    "title": "Inside the newsroom push to turn print reporters into video talent",
+    "link": "https://digiday.com/media/inside-the-newsroom-push-to-turn-print-reporters-into-video-talent/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-07-14",
+    "description": "As reporter-led video becomes a priority, publishers are investing in newsroom training to help journalists deepen audience relationships.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "marketing"
+    ],
+    "relevance_score": 0.35,
+    "relevance_label": "high",
+    "title_en": "Newsrooms Push to Transform Print Reporters into Video Talent to Deepen Audience Relationships",
+    "summary_ko": "언론사들이 기자 주도 동영상 콘텐츠를 핵심 전략으로 삼고, 기존 지면 기자들을 비디오 크리에이터로 전환하기 위한 뉴스룸 교육에 투자하고 있다. 이는 독자와의 관계를 심화하고 디지털 플랫폼에서의 경쟁력을 높이기 위한 퍼블리셔들의 대응이다. 영상 중심 콘텐츠 소비 트렌드에 맞춰 저널리스트의 역할과 스킬셋이 빠르게 변화하고 있다.",
+    "summary_en": "Publishers are investing in newsroom training programs to convert print reporters into video talent as reporter-led video content becomes a strategic priority. The shift is driven by the need to deepen audience relationships and compete more effectively on digital and social platforms. This represents a broader transformation in journalist skill sets and content formats within the media industry.",
+    "so_what_ko": "미디어 업계의 영상 중심 콘텐츠 전환은 LG D2C의 콘텐츠 마케팅 전략에서도 브랜드 전문가를 영상 스토리텔러로 육성하는 인하우스 역량 개발의 필요성을 시사한다.",
+    "so_what_en": "The newsroom-to-video shift signals a broader content consumption trend that LG D2C should heed by investing in video-first content strategies and training brand experts to become compelling on-camera storytellers.",
+    "key_points": [
+      "Publishers are formally training print reporters to produce reporter-led video content",
+      "Video is being prioritized as a tool for deepening audience relationships",
+      "This represents a significant skill set transformation within traditional media organizations",
+      "Digital platform competition is a key driver of this newsroom evolution"
+    ],
+    "tags": [
+      "video-content",
+      "content-strategy",
+      "media-transformation",
+      "audience-engagement"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "regions": [
+      "GLOBAL",
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Digiday"
+    ],
+    "one_line_insight_ko": "퍼블리셔들의 영상 전환 투자는 텍스트에서 영상 중심으로 이동하는 콘텐츠 소비 패턴의 구조적 변화를 반영한다.",
+    "one_line_insight_en": "Publishers' rapid pivot to reporter-led video underscores a structural content consumption shift that demands video-first strategies from any brand seeking to sustain audience engagement.",
+    "ai_processed": true
+  },
+  {
+    "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+    "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+    "date_published": "2026-07-14",
+    "description": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "categories": [
+      "tech",
+      "strategy"
+    ],
+    "relevance_score": 0.45,
+    "relevance_label": "high",
+    "title_en": "Veteran Tech Winners Are Re-entering the Arena, Driven by Fear of Missing AI's Defining Moment",
+    "summary_ko": "이미 성공을 거둔 전 세대 테크 기업인들이 AI의 역사적 전환점을 놓칠 수 있다는 두려움과 더 큰 경제적 기회에 이끌려 다시 창업 전선에 뛰어들고 있다. 이들은 이전 성공 경험과 네트워크, 자본을 바탕으로 AI 스타트업 생태계에서 중요한 플레이어로 부상하고 있다. 이 현상은 AI가 단순한 기술 트렌드를 넘어 산업 전반을 재편하는 결정적 변곡점임을 시사한다.",
+    "summary_en": "A wave of already-wealthy and successful tech veterans are re-engaging in the startup grind, motivated by fear of missing AI's defining technological moment and the prospect of generating even greater wealth. These individuals bring prior success, capital, and networks to the AI startup ecosystem, making them formidable new entrants. The trend underscores the widespread belief that AI represents a once-in-a-generation platform shift.",
+    "so_what_ko": "AI 분야로 몰리는 베테랑 테크 창업자들의 재등장은 AI 경쟁이 자본과 인재 측면에서 급격히 심화되고 있음을 의미하며, LG D2C도 AI 역량 확보 속도를 높여야 함을 시사한다.",
+    "so_what_en": "The return of seasoned tech founders to AI startups signals intensifying competition for AI talent and capital, urging LG D2C to accelerate its own AI capability building before the talent market becomes even more constrained.",
+    "key_points": [
+      "Successful tech veterans are re-entering the startup world specifically to compete in AI",
+      "Fear of missing AI's defining moment is a primary motivator alongside financial upside",
+      "This influx of experienced founders and capital intensifies the AI competitive landscape",
+      "The trend signals broad industry consensus that AI is a generational platform shift"
+    ],
+    "tags": [
+      "ai-startup",
+      "tech-founders",
+      "competitive-landscape",
+      "ai-investment"
+    ],
+    "confidence": 0.65,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "regions": [
+      "GLOBAL",
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "TechCrunch"
+    ],
+    "one_line_insight_ko": "AI 시대의 기회를 잡기 위해 베테랑 창업자들이 재집결하는 현상은 AI 경쟁이 질적·양적으로 심화되고 있음을 경고한다.",
+    "one_line_insight_en": "The re-emergence of proven tech veterans in AI startups signals that competition in the AI space is intensifying in both quality and scale, demanding urgency from established players like LG.",
+    "ai_processed": true
+  },
+  {
+    "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+    "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+    "date_published": "2026-07-14",
+    "description": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "categories": [
+      "commerce",
       "tech",
       "strategy"
     ],
     "relevance_score": 0.6,
     "relevance_label": "high",
-    "title_en": "IBM Expands Bob AI Platform With Significant New Features for Agentic Workflows",
-    "summary_ko": "IBM이 Bob AI 플랫폼에 다수의 새로운 기능을 추가하며 플랫폼을 대폭 확장했다. 이번 업데이트는 에이전틱 AI 역량 강화에 초점을 맞춘 것으로 알려져 있다. 원문 발췌본에서 구체적인 신규 기능의 내용이나 세부 사항은 확인되지 않는다.",
-    "summary_en": "IBM has expanded its Bob AI platform with a significant array of new features, representing a major enhancement of the platform's capabilities. The updates are focused on agentic AI functionality according to the source category. Specific details of the new features are not confirmed in the available source excerpt.",
-    "so_what_ko": "IBM Bob AI 플랫폼의 에이전틱 기능 확장은 엔터프라이즈 AI 에이전트 경쟁이 심화되고 있음을 보여주며, LG D2C는 자체 AI 에이전트 도입 전략 수립 시 플랫폼 생태계의 변화를 면밀히 추적해야 한다.",
-    "so_what_en": "IBM's aggressive expansion of its agentic AI platform signals intensifying enterprise AI competition, urging LG D2C to closely monitor the shifting platform ecosystem when formulating its own AI agent adoption strategy.",
+    "title_en": "Uber's CPO on Hotels, Robotaxis, and AI Integration: Focused Strategy Over 'Everything for Everyone'",
+    "summary_ko": "Uber의 최고제품책임자(CPO) Sachin Kansal이 호텔 서비스, 로보택시, 금융 서비스 등 신규 사업 확장과 Waymo와의 복잡한 관계를 공개했다. AI는 탑승자와 드라이버가 실제로 체감할 수 있는 방식으로 서비스에 통합되고 있으며, Uber는 AV Labs 데이터 운영으로 자율주행 생태계에서 역할을 강화하고 있다. Uber는 '모든 것을 제공하는 플랫폼'보다 핵심 모빌리티 가치에 집중하는 전략을 유지한다.",
+    "summary_en": "Uber's Chief Product Officer Sachin Kansal outlined the company's expansion into hotels, financial services, and robotaxi partnerships, while clarifying its increasingly complex relationship with Waymo. AI is being integrated into Uber's platform in tangible ways that riders and drivers will directly notice, and the new AV Labs data operation positions Uber centrally in the autonomous vehicle data ecosystem. Despite these expansions, Uber is deliberately avoiding a sprawling 'everything for everyone' platform strategy, instead maintaining focus on core mobility value.",
+    "so_what_ko": "Uber의 AI 통합 방식과 선택적 집중 전략은 LG D2C가 AI를 고객이 실제로 체감하는 경험 개선에 집중하고, 플랫폼 확장보다 핵심 가치 강화에 우선순위를 두어야 한다는 교훈을 제공한다.",
+    "so_what_en": "Uber's model of embedding AI where customers tangibly feel it—rather than AI for AI's sake—offers LG D2C a strategic blueprint: prioritize AI applications that directly enhance the customer purchase and ownership experience over broad platform expansion.",
     "key_points": [
-      "IBM Bob AI 플랫폼에 다수의 신규 기능 추가로 대폭 확장",
-      "에이전틱 AI 역량 강화에 초점",
-      "구체적인 신규 기능 내용은 원문에서 확인되지 않음"
+      "Uber is expanding into hotels and financial services while maintaining strategic focus on core mobility",
+      "AI is being embedded in ways that riders and drivers will directly experience",
+      "AV Labs data operation positions Uber as a key player in the autonomous vehicle data ecosystem",
+      "Deliberate avoidance of 'everything for everyone' strategy despite diversification moves"
     ],
     "tags": [
-      "ibm",
-      "agentic-ai",
-      "enterprise-platform",
-      "bob-ai",
-      "ai-expansion"
+      "uber",
+      "ai-integration",
+      "platform-strategy",
+      "robotaxi",
+      "customer-experience"
     ],
-    "confidence": 0.4,
+    "confidence": 0.8,
     "strategic_theme": "PLATFORM_ECOSYSTEM",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "IBM",
-      "Bob AI"
-    ],
-    "one_line_insight_ko": "IBM의 Bob AI 플랫폼 대규모 확장은 엔터프라이즈 에이전틱 AI 시장의 경쟁이 본격화되고 있음을 신호한다.",
-    "one_line_insight_en": "IBM's significant Bob AI platform expansion signals that competition in the enterprise agentic AI market is intensifying in earnest.",
-    "ai_processed": true
-  },
-  {
-    "title": "Grok 4.5 Is SpaceXAI’s First Real Entry Into the Enterprise",
-    "link": "https://aibusiness.com/agentic-ai/grok-4-5-spacexai-s-first-real-entry-into-enterprise",
-    "date_published": "2026-07-09",
-    "description": "The model release is the first since SpaceX went public in June and will help SpaceXAI compete with other frontier model providers, particularly in coding.",
-    "source_id": "ai_business",
-    "source_name": "AI Business",
-    "source_url": "https://aibusiness.com/rss.xml",
-    "categories": [
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.5,
-    "relevance_label": "high",
-    "title_en": "Grok 4.5 Marks SpaceXAI's First Serious Push Into Enterprise AI Market",
-    "summary_ko": "SpaceXAI가 Grok 4.5를 출시하며 엔터프라이즈 시장에 본격 진출했으며, 특히 코딩 분야에서 다른 프런티어 모델 제공업체들과의 경쟁력을 갖추는 것이 목표다. 이번 출시는 SpaceX가 2026년 6월 상장 이후 첫 번째 모델 릴리즈다. 원문 발췌본에서 Grok 4.5의 구체적인 기술적 사양이나 성능 벤치마크는 확인되지 않는다.",
-    "summary_en": "SpaceXAI launched Grok 4.5 as its first serious entry into the enterprise AI market, aiming to compete with frontier model providers particularly in the coding domain. This release marks the first model launch since SpaceX went public in June 2026. Specific technical specifications or performance benchmarks for Grok 4.5 are not confirmed in the available source excerpt.",
-    "so_what_ko": "SpaceXAI의 엔터프라이즈 AI 시장 진입으로 프런티어 모델 경쟁이 심화되며, LG D2C는 다양한 AI 공급업체의 등장을 활용해 더 유리한 조건으로 AI 솔루션을 확보하고 멀티벤더 전략을 고려할 수 있다.",
-    "so_what_en": "SpaceXAI's entry into enterprise AI intensifies frontier model competition, giving LG D2C greater leverage to negotiate favorable terms and consider a multi-vendor AI strategy to avoid lock-in.",
-    "key_points": [
-      "SpaceX 상장 이후 첫 번째 모델 릴리즈로 엔터프라이즈 시장 공략",
-      "코딩 분야에서 다른 프런티어 모델 제공업체와의 경쟁력 강화 목표",
-      "프런티어 AI 모델 시장의 경쟁 심화 신호"
-    ],
-    "tags": [
-      "grok-4.5",
-      "spacexai",
-      "enterprise-ai",
-      "frontier-model",
-      "competitive-dynamics"
-    ],
-    "confidence": 0.5,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
     "regions": [
       "GLOBAL",
       "AMER"
@@ -690,12 +688,13 @@
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "SpaceXAI",
-      "Grok 4.5",
-      "SpaceX"
+      "Uber",
+      "Sachin Kansal",
+      "Waymo",
+      "AV Labs"
     ],
-    "one_line_insight_ko": "SpaceXAI의 엔터프라이즈 AI 시장 진입은 프런티어 모델 경쟁을 가속화해 기업들의 AI 협상력을 높이는 기회를 제공한다.",
-    "one_line_insight_en": "SpaceXAI's enterprise debut accelerates frontier model competition, creating new negotiating leverage for enterprises like LG seeking best-in-class AI capabilities.",
+    "one_line_insight_ko": "Uber의 '선택과 집중' AI 통합 전략은 플랫폼 확장보다 고객이 실제로 체감하는 AI 경험이 경쟁 우위의 핵심임을 보여준다.",
+    "one_line_insight_en": "Uber's disciplined AI integration strategy demonstrates that customer-tangible AI experiences—not platform sprawl—are the true source of sustainable competitive advantage.",
     "ai_processed": true
   }
 ]
