@@ -1,175 +1,220 @@
 [
   {
-    "title": "Audience-proof your campaigns: Defensible strategy for marketers",
-    "link": "https://www.retaildive.com/spons/audience-proof-your-campaigns-defensible-strategy-for-marketers/825617/",
-    "date_published": "2026-07-27",
-    "description": "Make your BFCM bets defensible: simulate audience reactions before launch.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
+    "title": "Modern Retail+ Research: Brands are expanding their creator marketing strategies",
+    "link": "https://www.modernretail.co/marketing/modern-retail-research-brands-are-expanding-their-creator-marketing-strategies/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-07-28",
+    "description": "As brands expand their creator marketing strategies, they are increasingly tapping influencers for more than just awareness campaigns. Many are partnering with creators to help drive seasonal campaigns, support product launches and, in some cases, even help develop products.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
     "categories": [
-      "ai_marketing",
-      "commerce"
+      "marketing",
+      "ai_marketing"
     ],
-    "relevance_score": 0.65,
+    "relevance_score": 0.72,
     "relevance_label": "high",
-    "title_en": "Audience-Proof Your Campaigns: Defensible Strategy for Marketers Ahead of BFCM",
-    "summary_ko": "마케터들이 BFCM(블랙프라이데이·사이버먼데이) 시즌을 앞두고 캠페인 출시 전 오디언스 반응을 시뮬레이션하는 '방어적 전략'이 주목받고 있다. 이 접근법은 잘못된 타깃팅이나 메시지로 인한 예산 낭비를 줄이고 캠페인의 효과성을 사전에 검증하는 데 초점을 맞춘다. 불확실한 시장 환경에서 데이터 기반의 사전 검증이 마케팅 투자 수익률을 높이는 핵심 수단으로 부상하고 있다.",
-    "summary_en": "Marketers are being urged to adopt a 'defensible strategy' for campaigns by simulating audience reactions before launch, particularly ahead of the high-stakes BFCM season. This approach aims to reduce budget waste caused by misaligned targeting or messaging. Pre-launch audience simulation is positioned as a key tool for improving marketing ROI in an uncertain retail environment.",
-    "so_what_ko": "LG D2C 마케팅팀은 주요 프로모션 시즌 전 AI 기반 오디언스 시뮬레이션 도구를 도입해 캠페인 리스크를 사전에 최소화하고 방어 가능한 ROI 근거를 확보해야 한다.",
-    "so_what_en": "LG D2C marketing teams should integrate AI-driven audience simulation tools ahead of major promotional seasons to de-risk campaigns and build defensible ROI justifications before launch.",
+    "title_en": "Brands Expand Creator Marketing Beyond Awareness to Product Development and Seasonal Campaigns",
+    "summary_ko": "브랜드들이 크리에이터 마케팅 전략을 단순 인지도 제고를 넘어 시즌 캠페인, 제품 출시, 심지어 제품 개발까지 확대하고 있다. 인플루언서와의 파트너십이 점점 더 깊은 협업 구조로 진화하고 있다. 이는 크리에이터를 단순 홍보 수단이 아닌 전략적 파트너로 인식하는 브랜드의 시각 변화를 반영한다.",
+    "summary_en": "Brands are increasingly expanding their creator marketing strategies beyond traditional awareness campaigns. Many are now partnering with influencers to drive seasonal campaigns, support product launches, and even co-develop products. This reflects a strategic shift in how brands perceive creators — as collaborative partners rather than mere promotional channels.",
+    "so_what_ko": "LG D2C는 크리에이터를 제품 개발 단계부터 참여시키는 딥 파트너십 전략을 검토하여 제품 신뢰도와 초기 소비자 반응을 강화할 수 있다.",
+    "so_what_en": "LG D2C should consider deeper creator partnerships that begin at the product development stage to boost authenticity and early consumer engagement.",
     "key_points": [
-      "BFCM 시즌 대비 캠페인 출시 전 오디언스 반응 시뮬레이션 전략 강조",
-      "방어 가능한(defensible) 마케팅 전략 수립이 예산 낭비 방지에 핵심",
-      "데이터 기반 사전 검증이 마케팅 투자 효율성의 새로운 기준으로 부상"
+      "크리에이터 마케팅의 역할이 인지도 캠페인에서 시즌 캠페인, 제품 출시, 제품 개발 협업으로 확대",
+      "브랜드들이 인플루언서를 전략적 파트너로 재정의하는 추세",
+      "크리에이터와의 협업 심화가 브랜드 차별화 및 소비자 신뢰 구축에 기여"
     ],
     "tags": [
-      "audience-simulation",
-      "bfcm",
-      "campaign-strategy",
-      "ai-marketing",
-      "retail-marketing"
+      "creator-marketing",
+      "influencer-strategy",
+      "d2c",
+      "product-launch",
+      "brand-partnerships"
     ],
-    "confidence": 0.55,
+    "confidence": 0.7,
     "strategic_theme": "AI_MARKETING",
     "regions": [
-      "GLOBAL",
-      "AMER"
+      "GLOBAL"
     ],
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Retail Dive"
+      "Modern Retail"
     ],
-    "one_line_insight_ko": "AI 기반 오디언스 시뮬레이션이 BFCM 캠페인 리스크를 줄이는 새로운 마케팅 필수 도구로 자리잡고 있다.",
-    "one_line_insight_en": "AI-powered audience simulation is becoming an essential pre-launch tool to de-risk high-stakes retail campaigns like BFCM.",
+    "one_line_insight_ko": "크리에이터는 이제 브랜드의 마케팅 채널을 넘어 제품 공동 개발자로 진화하고 있다.",
+    "one_line_insight_en": "Creators are evolving from marketing channels into strategic co-developers of products for forward-thinking brands.",
     "ai_processed": true
   },
   {
-    "title": "Retail brands risk optimizing the wrong thing",
-    "link": "https://www.retaildive.com/spons/retail-brands-risk-optimizing-the-wrong-thing/825613/",
+    "title": "Rare Beauty draws inspiration from Greek mythology for global campaign",
+    "link": "https://www.marketingdive.com/news/rare-beauty-draws-inspiration-from-greek-mythology-for-global-campaign/826225/",
     "date_published": "2026-07-27",
-    "description": "AI platforms are making purchase decisions. Is your brand structured to be found?",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
+    "description": "The Selena Gomez-founded cosmetics brand’s new effort around its second fragrance spans social, out-of-home, retail and paid digital.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
     "categories": [
-      "agentic_commerce",
+      "marketing",
+      "ai_marketing"
+    ],
+    "relevance_score": 0.55,
+    "relevance_label": "high",
+    "title_en": "Rare Beauty Launches Greek Mythology-Inspired Global Campaign for New Fragrance",
+    "summary_ko": "셀레나 고메즈가 창립한 뷰티 브랜드 Rare Beauty가 두 번째 향수 출시를 위해 그리스 신화에서 영감을 받은 글로벌 캠페인을 전개한다. 해당 캠페인은 소셜 미디어, 옥외광고, 리테일, 유료 디지털 등 멀티채널 전략을 통해 진행된다. 이는 D2C 브랜드가 강력한 스토리텔링과 통합 채널 전략으로 글로벌 인지도를 확장하는 사례다.",
+    "summary_en": "Rare Beauty, the cosmetics brand founded by Selena Gomez, has launched a globally integrated campaign inspired by Greek mythology to support its second fragrance. The campaign spans social media, out-of-home advertising, retail activations, and paid digital channels. This multi-channel approach highlights how celebrity-founded D2C brands leverage compelling narratives to drive global reach.",
+    "so_what_ko": "LG D2C는 제품 출시 시 단일 채널 광고를 넘어 강력한 브랜드 스토리텔링과 멀티채널 통합 캠페인 전략을 채택하여 글로벌 소비자와의 감성적 연결을 강화할 수 있다.",
+    "so_what_en": "LG D2C can adopt integrated multi-channel campaign strategies anchored by strong brand storytelling to create deeper emotional connections with global consumers at product launch.",
+    "key_points": [
+      "그리스 신화 기반의 독창적 브랜드 스토리텔링으로 글로벌 관심 유도",
+      "소셜, OOH, 리테일, 유료 디지털을 아우르는 통합 멀티채널 캠페인 실행",
+      "셀러브리티 파운더의 영향력을 활용한 D2C 브랜드 글로벌 확장 전략"
+    ],
+    "tags": [
+      "brand-campaign",
+      "multichannel-marketing",
+      "d2c",
+      "fragrance",
+      "storytelling"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Rare Beauty",
+      "Selena Gomez"
+    ],
+    "one_line_insight_ko": "강력한 문화적 스토리텔링과 멀티채널 통합 전략이 D2C 브랜드의 글로벌 캠페인 성공을 이끄는 핵심 공식이다.",
+    "one_line_insight_en": "Compelling cultural storytelling combined with multi-channel integration is the winning formula for D2C global campaign success.",
+    "ai_processed": true
+  },
+  {
+    "title": "The new rules of cross-border commerce after de minimis",
+    "link": "https://www.modernretail.co/sponsored/the-new-rules-of-cross-border-commerce-after-de-minimis/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-07-27",
+    "description": "Juan Pellerano-Rendon, Chief Marketing Officer, Swap On July 1, the duty-free era of European e-commerce ended. As reported by Modern Retail, every parcel entering the European Union now owes customs duty, regardless of value. Shipments under €150 carry a €3 charge per line item, and the liability lands on brands and retailers. Under the new […]",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
+    "categories": [
       "commerce",
       "strategy"
     ],
-    "relevance_score": 0.9,
+    "relevance_score": 0.78,
     "relevance_label": "high",
-    "title_en": "Retail Brands Risk Optimizing for Visibility in a World Where AI Platforms Make Purchase Decisions",
-    "summary_ko": "AI 플랫폼이 소비자를 대신해 구매 결정을 내리는 시대가 도래함에 따라, 브랜드가 기존 검색 최적화(SEO) 방식만으로는 AI에게 '발견'되지 못할 위험이 커지고 있다. 소매 브랜드들은 AI 에이전트가 제품을 선택하는 기준에 맞춰 브랜드 구조와 데이터를 재편해야 한다는 경고가 나온다. AI 커머스 시대에 최적화의 대상이 사람에서 AI로 전환되고 있음을 직시해야 한다.",
-    "summary_en": "As AI platforms increasingly make purchase decisions on behalf of consumers, retail brands face the risk of optimizing for the wrong metrics and becoming invisible to AI-driven discovery. The article warns that brand structure and data must be realigned to meet the criteria used by AI agents when selecting products. The shift from human-centric to AI-centric optimization represents a fundamental challenge for retail brands.",
-    "so_what_ko": "LG D2C는 제품 데이터, 콘텐츠 구조, 메타데이터를 AI 에이전트가 이해하고 추천할 수 있는 형태로 재설계하여 에이전틱 커머스 환경에서의 브랜드 가시성을 확보해야 한다.",
-    "so_what_en": "LG D2C must restructure product data, content, and metadata to be discoverable and recommendable by AI purchasing agents, ensuring brand visibility in an agentic commerce landscape.",
+    "title_en": "Cross-Border E-Commerce Faces New Compliance Challenges as EU Ends De Minimis Duty Exemption",
+    "summary_ko": "2026년 7월 1일부터 유럽연합(EU)의 소액 면세(de minimis) 제도가 종료되어 모든 수입 소포에 관세가 부과된다. 150유로 미만 배송 건에는 품목당 3유로의 수수료가 부과되며, 그 책임은 브랜드와 소매업체가 부담한다. 이는 EU 시장에 진출한 글로벌 D2C 브랜드의 비용 구조와 운영 전략에 중대한 변화를 요구한다.",
+    "summary_en": "Starting July 1, the EU's de minimis duty-free threshold has been eliminated, requiring all incoming parcels to pay customs duties regardless of value. Shipments under €150 now carry a €3 charge per line item, with liability placed on brands and retailers. This regulatory shift significantly impacts the cost structure and operational strategy of global D2C brands targeting EU markets.",
+    "so_what_ko": "LG D2C는 EU 크로스보더 전자상거래 전략을 재검토하여 관세 비용 반영, 물류 구조 최적화, 현지 풀필먼트 거점 확보 여부를 긴급히 점검해야 한다.",
+    "so_what_en": "LG D2C must urgently reassess its EU cross-border e-commerce strategy, factoring in new customs costs and evaluating local fulfillment options to protect margin and customer experience.",
     "key_points": [
-      "AI 플랫폼이 소비자 대신 구매 결정을 내리는 에이전틱 커머스 시대 본격화",
-      "기존 SEO·마케팅 최적화 전략이 AI 기반 발견 환경에서는 효과 없을 수 있음",
-      "브랜드 데이터 구조를 AI가 인식할 수 있는 형태로 재편하는 것이 시급한 과제"
+      "2026년 7월 1일부로 EU 소액 면세 제도 폐지, 모든 수입 소포에 관세 부과",
+      "150유로 미만 배송 건에 품목당 3유로 수수료 발생, 브랜드/소매업체 책임",
+      "EU 진출 글로벌 D2C 브랜드의 가격 경쟁력과 운영 비용 구조에 직접적 영향"
     ],
     "tags": [
-      "agentic-commerce",
-      "ai-discovery",
-      "brand-visibility",
-      "retail-optimization",
-      "ai-purchase-decisions"
+      "cross-border-commerce",
+      "eu-regulations",
+      "de-minimis",
+      "d2c",
+      "customs-duty"
     ],
-    "confidence": 0.6,
-    "strategic_theme": "AI_COMMERCE",
+    "confidence": 0.82,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
     "regions": [
+      "EMEA",
       "GLOBAL"
     ],
     "business_impact": "HIGH",
     "sentiment": "THREAT",
     "key_entities": [
-      "Retail Dive"
+      "Swap",
+      "Modern Retail",
+      "European Union"
     ],
-    "one_line_insight_ko": "AI가 구매 결정자로 부상하면서, 브랜드의 최적화 전략은 사람이 아닌 AI 에이전트를 겨냥해야 하는 패러다임 전환이 요구된다.",
-    "one_line_insight_en": "With AI platforms becoming the true purchase decision-makers, brands must urgently shift their optimization strategy from human audiences to AI agents.",
+    "one_line_insight_ko": "EU 소액 면세 폐지는 크로스보더 D2C 브랜드의 수익성과 물류 전략 전반을 재설계하게 만드는 구조적 변화다.",
+    "one_line_insight_en": "The end of EU de minimis exemption is a structural shift forcing cross-border D2C brands to fundamentally redesign their pricing and logistics strategies.",
     "ai_processed": true
   },
   {
-    "title": "Michaels claims Google-powered AI assistant doubles conversion rate of traditional search",
-    "link": "https://digiday.com/marketing/michaels-claims-google-powered-ai-assistant-doubles-conversion-rate-of-traditional-search/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-07-27",
-    "description": "Michaels shared early results of its new Google Gemini-powered AI assistant.",
+    "title": "D+ Research: Brands expand creator marketing strategies",
+    "link": "https://digiday.com/marketing/d-research-brands-expand-creator-marketing-strategies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-07-28",
+    "description": "Many are partnering with creators to help drive seasonal campaigns, support product launches and, in some cases, even help develop products",
     "source_id": "digiday",
     "source_name": "Digiday",
     "source_url": "https://digiday.com/feed",
     "categories": [
-      "ai_marketing",
-      "commerce"
+      "marketing",
+      "ai_marketing"
     ],
-    "relevance_score": 0.92,
+    "relevance_score": 0.7,
     "relevance_label": "high",
-    "title_en": "Michaels Reports Google Gemini-Powered AI Assistant Doubles Conversion Rate vs. Traditional Search",
-    "summary_ko": "공예 전문 소매업체 마이클스(Michaels)가 구글 제미나이(Google Gemini) 기반 AI 어시스턴트를 도입한 결과, 전통적인 검색 대비 전환율이 2배 높아졌다는 초기 성과를 공유했다. 이 AI 어시스턴트는 고객이 프로젝트 아이디어를 입력하면 관련 제품과 튜토리얼을 함께 추천하는 방식으로 작동한다. 이번 사례는 AI 기반 쇼핑 어시스턴트가 전환율과 고객 경험을 동시에 개선할 수 있는 실질적 증거로 주목받고 있다.",
-    "summary_en": "Craft retailer Michaels shared early results from its new Google Gemini-powered AI assistant, claiming it doubles the conversion rate compared to traditional search. The assistant works by recommending relevant products and tutorials based on project ideas entered by customers. This case serves as a concrete example of how AI shopping assistants can simultaneously improve conversion rates and customer experience.",
-    "so_what_ko": "LG D2C는 마이클스의 사례를 벤치마크 삼아 Google Gemini 등 생성형 AI 기반 쇼핑 어시스턴트 도입을 검토하고, 제품 추천과 콘텐츠를 연계한 전환율 향상 전략을 수립해야 한다.",
-    "so_what_en": "LG D2C should benchmark Michaels' results and explore integrating generative AI-powered shopping assistants—such as Google Gemini—that link product recommendations with content to drive measurable conversion improvements.",
+    "title_en": "Research Shows Brands Deepening Creator Partnerships Beyond Traditional Influencer Campaigns",
+    "summary_ko": "브랜드들이 크리에이터와의 협력을 시즌 캠페인, 제품 출시, 나아가 제품 개발 단계까지 확대하는 추세가 연구를 통해 확인됐다. 크리에이터 마케팅이 단순 광고 게재에서 심층적인 전략적 파트너십으로 진화하고 있다. 이는 브랜드가 크리에이터의 영향력과 소비자 신뢰를 보다 전략적으로 활용하려는 의지를 보여준다.",
+    "summary_en": "New research confirms that brands are deepening their creator partnerships well beyond traditional one-off influencer campaigns. Many brands are now engaging creators in seasonal campaigns, product launches, and even product co-development roles. This evolution signals that creator relationships are becoming a core strategic asset rather than a tactical marketing tool.",
+    "so_what_ko": "LG D2C는 크리에이터를 단순 광고 파트너가 아닌 제품 기획 및 브랜드 전략의 공동 주체로 포함시키는 장기적 파트너십 모델을 구축해야 한다.",
+    "so_what_en": "LG D2C should build long-term creator partnership models that integrate creators into product planning and brand strategy as co-creators, not just ad partners.",
     "key_points": [
-      "Google Gemini 기반 AI 어시스턴트가 전통 검색 대비 전환율 2배 달성",
-      "프로젝트 아이디어 기반 제품·튜토리얼 통합 추천으로 고객 경험 차별화",
-      "소매업체의 AI 어시스턴트 도입이 전환율 개선의 실질적 수단으로 입증"
-    ],
-    "tags": [
-      "ai-assistant",
-      "google-gemini",
-      "conversion-rate",
-      "retail-ai",
-      "shopping-assistant"
-    ],
-    "confidence": 0.82,
-    "strategic_theme": "AI_COMMERCE",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Michaels",
-      "Google Gemini",
-      "Google"
-    ],
-    "one_line_insight_ko": "구글 제미나이 기반 AI 쇼핑 어시스턴트가 마이클스의 전환율을 2배 끌어올리며 AI 어시스턴트의 커머스 ROI를 실증했다.",
-    "one_line_insight_en": "Michaels' Google Gemini-powered AI assistant doubling conversion rates proves that generative AI shopping tools can deliver measurable, significant commerce ROI.",
-    "ai_processed": true
-  },
-  {
-    "title": "Kai Cenat’s Streamer U was a ‘masterclass’ for brands looking to tap content creators",
-    "link": "https://digiday.com/media/kai-cenats-streamer-u-was-a-masterclass-for-brands-looking-to-tap-content-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-07-27",
-    "description": "The creator bootcamp brought in big brand partnerships and big engagement metrics, which could bring more brands to the streaming sponsorship table.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
-    "categories": [
-      "ai_marketing",
-      "marketing"
-    ],
-    "relevance_score": 0.5,
-    "relevance_label": "high",
-    "title_en": "Kai Cenat's Streamer U Was a Brand Masterclass in Creator-Driven Sponsorship and Engagement",
-    "summary_ko": "인기 스트리머 카이 세낫(Kai Cenat)의 '스트리머 U(Streamer U)' 크리에이터 부트캠프가 대형 브랜드 파트너십과 높은 참여 지표를 기록하며 크리에이터 마케팅의 새로운 모델로 주목받고 있다. 이 프로그램은 신인 스트리머들을 육성하면서 동시에 브랜드가 자연스럽게 콘텐츠에 통합될 수 있는 환경을 만들었다. 브랜드 업계에서는 이 사례가 스트리밍 스폰서십에 더 많은 브랜드를 유입하는 계기가 될 것으로 전망하고 있다.",
-    "summary_en": "Kai Cenat's Streamer U creator bootcamp generated significant brand partnerships and strong engagement metrics, establishing it as a new model for creator-driven marketing. The program nurtured emerging streamers while creating an environment where brands could be integrated organically into content. Industry observers believe this case will attract more brands to streaming sponsorship opportunities.",
-    "so_what_ko": "LG D2C는 단순 광고 노출을 넘어 스트리머 U와 같이 크리에이터 육성 프로그램에 브랜드를 유기적으로 통합하는 스트리밍 스폰서십 모델을 탐색할 필요가 있다.",
-    "so_what_en": "LG D2C should explore streaming sponsorship models like Streamer U that organically embed brands into creator development programs, moving beyond traditional ad placements to drive deeper audience engagement.",
-    "key_points": [
-      "카이 세낫의 스트리머 U가 브랜드 파트너십과 높은 참여율로 크리에이터 마케팅 모범 사례 확립",
-      "크리에이터 부트캠프 형식이 브랜드를 콘텐츠에 자연스럽게 통합하는 새로운 스폰서십 환경 제공",
-      "스트리밍 스폰서십 시장으로의 브랜드 유입 확대 전망"
+      "크리에이터 파트너십이 인지도 캠페인을 넘어 제품 개발 단계까지 확장",
+      "브랜드가 크리에이터를 전략적 핵심 자산으로 재정의하는 추세 확인",
+      "시즌 캠페인 및 신제품 출시에서 크리에이터의 역할 증대"
     ],
     "tags": [
       "creator-marketing",
-      "streaming-sponsorship",
-      "influencer-marketing",
-      "brand-partnerships",
-      "content-creators"
+      "influencer-partnerships",
+      "brand-strategy",
+      "product-development",
+      "d2c"
     ],
-    "confidence": 0.75,
+    "confidence": 0.68,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Digiday"
+    ],
+    "one_line_insight_ko": "크리에이터 마케팅은 광고 집행 도구에서 브랜드의 핵심 전략 파트너십으로 그 본질이 바뀌고 있다.",
+    "one_line_insight_en": "Creator marketing is fundamentally shifting from a tactical advertising tool to a core strategic partnership essential for brand growth.",
+    "ai_processed": true
+  },
+  {
+    "title": "Gap Inc. opens creator program to employees",
+    "link": "https://www.retaildive.com/news/gap-inc-opens-creator-influencer-program-staff-employees/826238/",
+    "date_published": "2026-07-27",
+    "description": "Corporate, distribution and store staff can now apply to be influencers for the retailer’s brand portfolio, almost a year after the program’s launch.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "marketing",
+      "commerce"
+    ],
+    "relevance_score": 0.65,
+    "relevance_label": "high",
+    "title_en": "Gap Inc. Opens Creator Influencer Program to All Employees Including Store and Distribution Staff",
+    "summary_ko": "Gap Inc.가 기업, 물류, 매장 직원 모두에게 자사 브랜드 포트폴리오의 인플루언서로 참여할 수 있는 크리에이터 프로그램을 개방했다. 해당 프로그램은 약 1년 전 처음 론칭된 후 이번에 전 직원으로 확대되었다. 이는 직원을 브랜드 앰배서더로 활용함으로써 진정성 있는 콘텐츠 생산과 내부 브랜드 문화를 동시에 강화하는 전략이다.",
+    "summary_en": "Gap Inc. has expanded its creator influencer program to include all employees — corporate, distribution, and store staff — almost a year after the program's initial launch. This move allows any employee to apply to become an influencer for the retailer's brand portfolio. The strategy leverages employee authenticity to generate organic branded content and strengthen internal brand culture.",
+    "so_what_ko": "LG D2C는 내부 직원을 브랜드 앰배서더로 활용하는 직원 인플루언서 프로그램 도입을 검토하여 진정성 있는 콘텐츠 생산과 브랜드 충성도를 동시에 제고할 수 있다.",
+    "so_what_en": "LG D2C should explore employee influencer programs that turn internal staff into authentic brand ambassadors, simultaneously boosting content authenticity and internal brand loyalty.",
+    "key_points": [
+      "Gap Inc.가 크리에이터 프로그램을 전 직원(기업·물류·매장)으로 확대 개방",
+      "직원 인플루언서 활용을 통한 진정성 있는 브랜드 콘텐츠 생산 전략",
+      "론칭 약 1년 만에 프로그램 대상 범위를 전 임직원으로 확장하며 내부 브랜드 문화 강화"
+    ],
+    "tags": [
+      "employee-influencers",
+      "creator-program",
+      "brand-ambassador",
+      "retail-marketing",
+      "gap-inc"
+    ],
+    "confidence": 0.8,
     "strategic_theme": "AI_MARKETING",
     "regions": [
       "AMER",
@@ -178,516 +223,473 @@
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Kai Cenat",
-      "Streamer U",
-      "Digiday"
+      "Gap Inc."
     ],
-    "one_line_insight_ko": "크리에이터 육성 프로그램에 브랜드를 유기적으로 통합하는 스트리머 U 모델은 스트리밍 스폰서십의 새로운 기준을 제시한다.",
-    "one_line_insight_en": "Streamer U's model of organically embedding brands into creator development programs sets a new benchmark for effective streaming sponsorship partnerships.",
+    "one_line_insight_ko": "Gap의 전 직원 크리에이터 프로그램은 내부 인력을 가장 진정성 있는 브랜드 콘텐츠 생산자로 전환하는 혁신적 접근이다.",
+    "one_line_insight_en": "Gap's all-employee creator program is an innovative approach that transforms internal staff into the most authentic brand content creators.",
     "ai_processed": true
   },
   {
-    "title": "Schnucks’ new health-tracking AI assistant is a model for other retailers",
-    "link": "https://www.modernretail.co/technology/schnucks-new-health-tracking-ai-assistant-is-a-model-for-other-retailers/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "title": "Pacsun, Ulta Beauty debut curated beauty collaboration",
+    "link": "https://www.retaildive.com/news/pacsun-ulta-beauty-curated-beauty-fashion-collaboration/826239/",
     "date_published": "2026-07-27",
-    "description": "St. Louis-based regional grocer Schnucks just launched a new AI assistant, but behind it is a larger idea around how agents could eventually take over the shopping process and help people eat healthier.",
-    "source_id": "modern_retail",
-    "source_name": "Modern Retail",
-    "source_url": "https://www.modernretail.co/feed/",
+    "description": "The retailers developed two beauty essentials kits and a limited-edition hoodie meant to encourage self-expression.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
     "categories": [
-      "agentic_commerce",
       "commerce",
-      "tech"
-    ],
-    "relevance_score": 0.88,
-    "relevance_label": "high",
-    "title_en": "Schnucks' Health-Tracking AI Assistant Points the Way for AI Agents to Transform the Shopping Journey",
-    "summary_ko": "미국 세인트루이스 기반 지역 식료품 체인 슈넉스(Schnucks)가 건강 추적 AI 어시스턴트를 출시하며, AI 에이전트가 쇼핑 전 과정을 대신 처리하고 건강한 식습관을 지원하는 미래 비전을 제시했다. 이 AI 어시스턴트는 개인 건강 데이터를 기반으로 맞춤형 식품을 추천하고, 장기적으로는 에이전트가 쇼핑 프로세스 전체를 자율적으로 관리하는 방향으로 진화할 계획이다. 식료품 소매업에서의 이 사례는 헬스케어와 커머스를 결합한 AI 에이전트 모델이 다른 소매업체들에게도 적용 가능한 청사진이 될 수 있음을 시사한다.",
-    "summary_en": "St. Louis-based regional grocer Schnucks has launched a health-tracking AI assistant, presenting a vision where AI agents could eventually manage the entire shopping process and support healthier eating habits. The assistant uses personal health data to provide personalized food recommendations, with plans to evolve toward fully autonomous shopping management by AI agents. This case suggests that a health-commerce integrated AI agent model could serve as a blueprint for other retailers.",
-    "so_what_ko": "LG D2C는 슈넉스의 헬스케어 연계 AI 에이전트 모델을 참고해 가전제품 사용 데이터와 건강·라이프스타일 데이터를 결합한 개인화 AI 쇼핑 어시스턴트 개발 가능성을 검토해야 한다.",
-    "so_what_en": "LG D2C should study Schnucks' health-integrated AI agent model and explore developing a personalized AI shopping assistant that combines appliance usage data with health and lifestyle insights to drive deeper customer engagement.",
-    "key_points": [
-      "슈넉스, 개인 건강 데이터 기반 맞춤형 식품 추천 AI 어시스턴트 출시",
-      "장기적으로 AI 에이전트가 쇼핑 전 과정을 자율 관리하는 에이전틱 커머스 비전 제시",
-      "헬스케어와 커머스를 통합한 AI 모델이 식료품 외 타 소매업 분야로 확산 가능"
-    ],
-    "tags": [
-      "agentic-commerce",
-      "health-ai",
-      "personalization",
-      "retail-ai",
-      "ai-assistant"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Schnucks",
-      "Modern Retail"
-    ],
-    "one_line_insight_ko": "슈넉스의 건강 추적 AI 어시스턴트는 에이전트가 쇼핑 전 과정을 자율화하는 에이전틱 커머스의 실현 가능성을 보여주는 선도적 사례다.",
-    "one_line_insight_en": "Schnucks' health-tracking AI assistant is a leading-edge proof of concept for agentic commerce, where AI agents autonomously manage the entire shopping journey.",
-    "ai_processed": true
-  },
-  {
-    "title": "Keeping pace with the next era of commerce payments",
-    "link": "https://www.paymentsdive.com/spons/keeping-pace-with-the-next-era-of-commerce-payments/825735/",
-    "date_published": "2026-07-27",
-    "description": "Discover the strategic path to modernizing payments for Adobe Commerce and Magento Open Source.",
-    "source_id": "payments_dive",
-    "source_name": "Payments Dive",
-    "source_url": "https://www.paymentsdive.com/feeds/news/",
-    "categories": [
-      "commerce"
+      "strategy"
     ],
     "relevance_score": 0.4,
     "relevance_label": "high",
-    "title_en": "Strategic Path to Modernizing Payments for Adobe Commerce and Magento Open Source",
-    "summary_ko": "어도비 커머스 및 마젠토 오픈소스 기반 결제 시스템의 현대화 전략을 다룬 스폰서 콘텐츠다. 차세대 커머스 결제 환경에 발맞추기 위한 전략적 방향성을 제시하고 있다. 구체적인 기술 세부 사항은 원문에서 충분히 확인되지 않음.",
-    "summary_en": "This sponsored content outlines a strategic path toward modernizing payment systems for Adobe Commerce and Magento Open Source platforms. It addresses how merchants can keep pace with the evolving next era of commerce payments. Specific technical details and data points are not confirmed in the source excerpt.",
-    "so_what_ko": "LG D2C 조직은 어도비 커머스 기반 결제 인프라 현대화 동향을 참고하여 자사 결제 시스템의 고도화 전략을 점검할 필요가 있다.",
-    "so_what_en": "LG D2C teams should monitor payment modernization trends in the Adobe Commerce ecosystem to assess whether their own checkout and payment infrastructure remains competitive.",
+    "title_en": "Pacsun and Ulta Beauty Launch Curated Beauty-Fashion Collaboration with Limited-Edition Products",
+    "summary_ko": "Pacsun과 Ulta Beauty가 자기표현을 장려하기 위한 뷰티 에센셜 키트 2종과 한정판 후디를 출시하는 컬래버레이션을 선보였다. 두 리테일러는 패션과 뷰티 카테고리를 결합한 큐레이티드 컬렉션을 통해 소비자 경험을 확장하고 있다. 이번 협업은 브랜드 간 시너지를 활용한 한정판 제품 전략으로 고객 유입과 브랜드 인지도 제고를 동시에 노린다.",
+    "summary_en": "Pacsun and Ulta Beauty have launched a curated beauty-fashion collaboration featuring two beauty essentials kits and a limited-edition hoodie designed to encourage self-expression. The partnership blends fashion and beauty categories to create a differentiated retail experience for consumers. This limited-edition strategy leverages cross-brand synergy to drive foot traffic and boost brand awareness for both retailers.",
+    "so_what_ko": "LG D2C는 타 브랜드와의 한정판 컬래버레이션 전략을 통해 새로운 고객층을 유입하고 브랜드 경험을 다각화하는 방안을 검토할 수 있다.",
+    "so_what_en": "LG D2C can explore cross-brand limited-edition collaboration strategies to attract new customer segments and diversify brand experience touchpoints.",
     "key_points": [
-      "Adobe Commerce 및 Magento Open Source 환경에서의 결제 현대화 전략 제시",
-      "차세대 커머스 결제 트렌드에 대응하는 로드맵 필요성 강조",
-      "스폰서 콘텐츠로 객관적 데이터 및 세부 정보 제한적"
+      "Pacsun과 Ulta Beauty가 뷰티+패션 카테고리 융합 컬래버레이션 출시",
+      "한정판 후디와 뷰티 에센셜 키트 2종으로 구성된 큐레이티드 컬렉션",
+      "자기표현(self-expression) 테마를 중심으로 소비자 감성 공략"
     ],
     "tags": [
-      "payment-modernization",
-      "adobe-commerce",
-      "magento",
-      "ecommerce-infrastructure"
+      "brand-collaboration",
+      "limited-edition",
+      "retail-partnership",
+      "beauty-fashion"
     ],
-    "confidence": 0.5,
-    "strategic_theme": "AI_COMMERCE",
+    "confidence": 0.6,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
     "regions": [
-      "GLOBAL"
+      "AMER"
     ],
     "business_impact": "LOW",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "Adobe Commerce",
-      "Magento Open Source"
+      "Pacsun",
+      "Ulta Beauty"
     ],
-    "one_line_insight_ko": "커머스 결제 현대화는 D2C 전환의 핵심 인프라 과제로 지속적인 전략 점검이 필요하다.",
-    "one_line_insight_en": "Payment modernization remains a foundational infrastructure challenge for D2C commerce that requires ongoing strategic review.",
+    "one_line_insight_ko": "뷰티와 패션 브랜드 간 한정판 컬래버레이션은 새로운 고객층 유입과 브랜드 차별화에 효과적인 전략이다.",
+    "one_line_insight_en": "Limited-edition cross-category brand collaborations offer an effective strategy for customer acquisition and brand differentiation in retail.",
     "ai_processed": true
   },
   {
-    "title": "N.Y. Targets AI Models in Product Ads",
-    "link": "https://www.practicalecommerce.com/n-y-targets-ai-models-in-product-ads",
-    "date_published": "2026-07-26",
-    "description": "AI-generated images help small businesses compete with large corporations by reducing the need for expensive photoshoots.\nThe post N.Y. Targets AI Models in Product Ads appeared first on Practical Ecommerce.",
-    "source_id": "practical_ecommerce",
-    "source_name": "Practical Ecommerce",
-    "source_url": "https://www.practicalecommerce.com/feed",
+    "title": "How Advance Auto Parts has improved same-day delivery speeds",
+    "link": "https://www.digitalcommerce360.com/2026/07/27/advance-auto-parts-same-day-delivery-speed-fulfillment/",
+    "date_published": "2026-07-27",
+    "description": "Advance Auto Parts is working to improve its fulfillment, offering same-day delivery for automotive parts and accessories. Ron Gilbert, senior vice president of supply chain at Advance Auto Parts, told Digital Commerce 360 via email that the retailer uses a fulfillment strategy focusing on its market hubs. Those hubs serve as an additional distribution node […]\nThe post How Advance Auto Parts has improved same-day delivery speeds appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.45,
+    "relevance_label": "high",
+    "title_en": "Advance Auto Parts Boosts Same-Day Delivery Speeds Through Market Hub Fulfillment Strategy",
+    "summary_ko": "Advance Auto Parts는 시장 허브(market hubs)를 추가 물류 거점으로 활용하는 이행(fulfillment) 전략을 통해 당일 배송 속도를 개선하고 있다. 공급망 담당 SVP Ron Gilbert는 이 허브 전략이 배송 효율을 높이는 핵심 요소라고 밝혔다. 자동차 부품 및 액세서리의 당일 배송 서비스 강화는 고객 경험과 경쟁력 제고를 동시에 겨냥한다.",
+    "summary_en": "Advance Auto Parts is enhancing its same-day delivery capabilities by leveraging market hubs as additional distribution nodes within its fulfillment network. SVP of Supply Chain Ron Gilbert explained that this hub-based strategy is central to improving delivery speed and operational efficiency. The initiative targets improved customer satisfaction and competitive positioning in the automotive parts market.",
+    "so_what_ko": "LG D2C는 지역 허브 기반 분산 물류 전략을 통해 대형 가전제품의 당일 또는 익일 배송 경쟁력을 강화하고 고객 만족도를 높일 수 있다.",
+    "so_what_en": "LG D2C should consider hub-based distributed fulfillment strategies to improve same-day or next-day delivery capabilities for large appliances, enhancing customer satisfaction.",
+    "key_points": [
+      "시장 허브를 추가 물류 거점으로 활용해 당일 배송 속도 개선",
+      "공급망 SVP가 허브 중심 이행 전략의 효율성 강조",
+      "자동차 부품 시장에서 빠른 배송을 통한 경쟁력 확보 추구"
+    ],
+    "tags": [
+      "same-day-delivery",
+      "fulfillment",
+      "supply-chain",
+      "retail-logistics"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Advance Auto Parts",
+      "Ron Gilbert"
+    ],
+    "one_line_insight_ko": "시장 허브 기반 분산 물류 전략은 당일 배송 속도를 높이고 소매 경쟁력을 강화하는 핵심 수단이다.",
+    "one_line_insight_en": "Market hub-based distributed fulfillment is a critical lever for accelerating same-day delivery and strengthening retail competitiveness.",
+    "ai_processed": true
+  },
+  {
+    "title": "How marketers can tackle a new creative paradigm with connected content",
+    "link": "https://www.marketingdive.com/news/how-marketers-can-tackle-a-new-creative-paradigm-with-connected-content/826236/",
+    "date_published": "2026-07-27",
+    "description": "Ad aversion remains a problem but better-quality experiences can drive up purchase intent, new Omnicom research finds.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
+    "categories": [
+      "marketing",
+      "ai_marketing"
+    ],
+    "relevance_score": 0.72,
+    "relevance_label": "high",
+    "title_en": "Omnicom Research: Connected Content Strategy Can Overcome Ad Aversion and Boost Purchase Intent",
+    "summary_ko": "Omnicom의 새로운 연구에 따르면 광고 혐오(ad aversion) 문제가 지속되고 있으나, 더 높은 품질의 콘텐츠 경험이 구매 의향을 높이는 데 효과적인 것으로 나타났다. 마케터들은 '연결된 콘텐츠(connected content)' 패러다임을 통해 소비자와의 접점을 개선할 수 있다. 이 새로운 크리에이티브 패러다임은 브랜드가 소비자의 관심을 유지하면서 실질적인 구매 전환을 유도하는 전략적 접근법을 제시한다.",
+    "summary_en": "New research from Omnicom reveals that ad aversion remains a persistent challenge, but higher-quality content experiences can significantly drive up purchase intent among consumers. Marketers are encouraged to adopt a 'connected content' paradigm to enhance consumer touchpoints and reduce resistance to advertising. This new creative framework offers brands a strategic approach to maintaining consumer engagement while driving meaningful purchase conversions.",
+    "so_what_ko": "LG D2C 마케터는 단순 광고 노출보다 연결된 고품질 콘텐츠 경험을 설계해 소비자의 광고 거부감을 줄이고 구매 전환율을 높여야 한다.",
+    "so_what_en": "LG D2C marketers should prioritize designing connected, high-quality content experiences over traditional ad exposure to reduce ad aversion and improve purchase conversion rates.",
+    "key_points": [
+      "Omnicom 연구: 광고 혐오 현상 지속, 고품질 경험이 구매 의향 제고에 효과적",
+      "'연결된 콘텐츠(connected content)' 전략이 새로운 크리에이티브 패러다임으로 부상",
+      "소비자 접점의 콘텐츠 품질 향상이 구매 전환의 핵심 동인"
+    ],
+    "tags": [
+      "connected-content",
+      "ad-aversion",
+      "purchase-intent",
+      "content-strategy",
+      "omnicom-research"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Omnicom",
+      "Marketing Dive"
+    ],
+    "one_line_insight_ko": "광고 혐오 시대에 연결된 고품질 콘텐츠 경험이 구매 의향을 높이는 핵심 마케팅 전략으로 떠오르고 있다.",
+    "one_line_insight_en": "In an era of growing ad aversion, connected high-quality content experiences are emerging as the key marketing strategy to drive purchase intent.",
+    "ai_processed": true
+  },
+  {
+    "title": "HubSpot AEO vs. Semrush AI Visibility: Which is right for your team?",
+    "link": "https://blog.hubspot.com/marketing/hubspot-vs-semrush-aeo",
+    "date_published": "2026-07-27",
+    "description": "If you’re comparing HubSpot AEO vs Semrush AI Visibility Toolkit, I tested both for you as a marketing and AEO practitioner myself and will share my detailed review.",
+    "source_id": "hubspot_marketing",
+    "source_name": "HubSpot Marketing Blog",
+    "source_url": "https://blog.hubspot.com/marketing/rss.xml",
+    "categories": [
+      "marketing",
+      "ai_marketing"
+    ],
+    "relevance_score": 0.78,
+    "relevance_label": "high",
+    "title_en": "HubSpot AEO vs. Semrush AI Visibility Toolkit: A Practitioner's Comparative Review",
+    "summary_ko": "마케팅 및 AEO(Answer Engine Optimization) 실무자가 HubSpot AEO와 Semrush AI Visibility Toolkit 두 도구를 직접 테스트하고 상세 비교 리뷰를 제공한다. 두 플랫폼은 AI 검색 가시성을 높이기 위한 서로 다른 접근 방식을 제공하며, 팀의 목표와 기존 스택에 따라 적합한 선택이 달라진다. AI 검색 엔진 최적화가 디지털 마케팅의 핵심 역량으로 부상하면서 관련 툴 선택이 전략적으로 중요해졌다.",
+    "summary_en": "A marketing and AEO practitioner conducted a hands-on comparative test of HubSpot AEO and the Semrush AI Visibility Toolkit, sharing a detailed review of both platforms. The two tools offer distinct approaches to improving AI search visibility, with the right choice depending on a team's goals and existing technology stack. As AI search engine optimization emerges as a core digital marketing capability, selecting the right tool has become strategically significant.",
+    "so_what_ko": "LG D2C 마케팅팀은 AI 검색 가시성 강화를 위해 HubSpot AEO 또는 Semrush AI Visibility Toolkit 도입을 검토하고, 기존 마케팅 스택과의 통합 적합성을 평가해야 한다.",
+    "so_what_en": "LG D2C marketing teams should evaluate HubSpot AEO and Semrush AI Visibility Toolkit for adoption, assessing integration compatibility with their existing marketing stack to improve AI search visibility.",
+    "key_points": [
+      "HubSpot AEO와 Semrush AI Visibility Toolkit의 실무자 직접 비교 테스트 리뷰",
+      "AI 검색 가시성(AI Search Visibility) 최적화가 디지털 마케팅 핵심 역량으로 부상",
+      "팀 목표 및 기존 기술 스택에 따라 최적 도구 선택이 달라짐"
+    ],
+    "tags": [
+      "aeo",
+      "ai-search-visibility",
+      "hubspot",
+      "semrush",
+      "seo-tools"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "HubSpot",
+      "Semrush",
+      "AEO"
+    ],
+    "one_line_insight_ko": "AI 검색 가시성 최적화 도구 선택이 디지털 마케팅 경쟁력의 핵심 변수로 부상하고 있다.",
+    "one_line_insight_en": "Choosing the right AI search visibility optimization tool is emerging as a pivotal variable in digital marketing competitiveness.",
+    "ai_processed": true
+  },
+  {
+    "title": "AI SEO tools that fit your growth stack",
+    "link": "https://blog.hubspot.com/marketing/ai-seo-tools",
+    "date_published": "2026-07-27",
+    "description": "AI SEO tools have matured quickly. What started as a novelty layer atop existing keyword tools has become a full-fledged category, helping improve everything from research to AI search visibility.",
+    "source_id": "hubspot_marketing",
+    "source_name": "HubSpot Marketing Blog",
+    "source_url": "https://blog.hubspot.com/marketing/rss.xml",
+    "categories": [
+      "marketing",
+      "ai_marketing",
+      "tech"
+    ],
+    "relevance_score": 0.8,
+    "relevance_label": "high",
+    "title_en": "AI SEO Tools Have Matured Into a Full-Fledged Category Transforming Search Visibility and Research",
+    "summary_ko": "AI SEO 툴이 단순한 키워드 도구의 부가 기능에서 벗어나 독자적인 카테고리로 성숙하면서, 리서치부터 AI 검색 가시성 향상까지 전 과정을 지원하는 종합 솔루션으로 자리잡고 있다. 이 도구들은 기업의 성장 스택(growth stack)에 통합되어 디지털 마케팅 효율성을 전반적으로 높이는 역할을 한다. AI 검색 환경의 변화에 따라 기존 SEO 전략을 AI 중심으로 재편하는 것이 마케터에게 필수 과제가 되고 있다.",
+    "summary_en": "AI SEO tools have rapidly matured from a novelty layer atop traditional keyword tools into a full-fledged category, now supporting everything from research to AI search visibility improvement. These tools are increasingly integrated into business growth stacks, driving overall digital marketing efficiency. As the AI search landscape evolves, transitioning from traditional SEO strategies to AI-centric approaches has become an essential task for marketers.",
+    "so_what_ko": "LG D2C는 AI SEO 툴을 마케팅 성장 스택에 통합하여 AI 검색 환경에서의 브랜드 가시성을 높이고 유기적 트래픽 획득 전략을 강화해야 한다.",
+    "so_what_en": "LG D2C should integrate AI SEO tools into its marketing growth stack to enhance brand visibility in AI-driven search environments and strengthen organic traffic acquisition strategies.",
+    "key_points": [
+      "AI SEO 툴이 키워드 도구 부가 기능에서 독립적인 성숙 카테고리로 진화",
+      "리서치부터 AI 검색 가시성까지 전 과정을 커버하는 종합 솔루션으로 발전",
+      "성장 스택(growth stack) 통합을 통한 디지털 마케팅 전반의 효율성 제고"
+    ],
+    "tags": [
+      "ai-seo",
+      "search-visibility",
+      "growth-stack",
+      "digital-marketing",
+      "ai-search"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "HubSpot",
+      "AI SEO Tools"
+    ],
+    "one_line_insight_ko": "AI SEO 툴의 성숙은 AI 검색 시대에 브랜드 가시성 확보를 위한 필수 인프라로의 전환을 의미한다.",
+    "one_line_insight_en": "The maturation of AI SEO tools signals a shift toward treating AI search visibility infrastructure as a non-negotiable component of modern brand strategy.",
+    "ai_processed": true
+  },
+  {
+    "title": "Dick’s, LiveRamp, and Adobe Are Building Retail Media’s Creative Future",
+    "link": "https://www.adweek.com/commerce/dicks-liveramp-and-adobe-are-building-retail-medias-creative-future/",
+    "date_published": "2026-07-27",
+    "description": "A new partnership offers a model for creative personalization at scale.",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
     "categories": [
       "ai_marketing",
       "commerce"
     ],
     "relevance_score": 0.75,
     "relevance_label": "high",
-    "title_en": "New York Targets AI-Generated Human Models in Product Advertising",
-    "summary_ko": "뉴욕주가 제품 광고에서 AI 생성 인물 이미지 사용을 규제하는 방향으로 움직이고 있다. AI 생성 이미지는 소규모 비즈니스가 고비용 화보 촬영 없이도 대기업과 경쟁할 수 있도록 돕는 도구로 주목받아 왔다. 이번 규제 움직임은 AI 광고 이미지 활용에 새로운 법적 제약을 가할 수 있어 업계의 주의가 필요하다.",
-    "summary_en": "New York state is moving to regulate the use of AI-generated human models in product advertisements. AI-generated images have been valued by small businesses as a cost-effective alternative to expensive photoshoots, enabling them to compete with larger corporations. This regulatory development could introduce new legal constraints on AI-generated advertising imagery across the industry.",
-    "so_what_ko": "LG D2C 마케팅팀은 AI 생성 모델 이미지를 광고에 활용할 때 미국 주별 규제 동향을 면밀히 모니터링하고, 법적 리스크 대응 가이드라인을 선제적으로 마련해야 한다.",
-    "so_what_en": "LG D2C marketing teams should proactively monitor US state-level regulatory developments around AI-generated ad imagery and establish compliance guidelines before broader regulations take effect.",
+    "title_en": "Dick's Sporting Goods, LiveRamp, and Adobe Partner to Scale Creative Personalization in Retail Media",
+    "summary_ko": "Dick's Sporting Goods, LiveRamp, Adobe가 파트너십을 맺고 리테일 미디어의 크리에이티브 개인화를 대규모로 구현하는 새로운 모델을 제시했다. 이 협력은 데이터 연결성과 크리에이티브 자동화를 결합해 광고주에게 맞춤형 광고 경험을 제공하는 것을 목표로 한다. 리테일 미디어 네트워크가 단순 인벤토리 판매를 넘어 크리에이티브 기술 플랫폼으로 진화하는 방향성을 보여준다.",
+    "summary_en": "Dick's Sporting Goods, LiveRamp, and Adobe have formed a partnership to build a scalable model for creative personalization within retail media. The collaboration aims to combine data connectivity with creative automation to deliver tailored ad experiences for advertisers. This signals a broader evolution of retail media networks from inventory sellers to full-stack creative technology platforms.",
+    "so_what_ko": "LG D2C는 리테일 미디어 네트워크 구축 시 데이터 파트너십과 크리에이티브 자동화를 통합하여 개인화 광고 역량을 강화하는 전략을 고려해야 한다.",
+    "so_what_en": "LG D2C should consider integrating data partnerships and creative automation when developing retail media capabilities to deliver personalized ad experiences at scale.",
     "key_points": [
-      "뉴욕주, 제품 광고 내 AI 생성 인물 이미지 규제 추진",
-      "AI 이미지 생성 기술은 소규모 사업자의 광고 비용 절감에 기여해 온 핵심 도구",
-      "규제 확산 시 AI 기반 광고 크리에이티브 전략 전반에 영향 가능",
-      "광고 AI 활용의 법적·윤리적 리스크 관리 필요성 부각"
+      "Dick's, LiveRamp, Adobe의 3자 파트너십으로 리테일 미디어 크리에이티브 개인화 모델 구축",
+      "데이터 연결성(LiveRamp)과 크리에이티브 자동화(Adobe)의 결합이 핵심 구조",
+      "리테일 미디어 네트워크가 기술 플랫폼으로 진화하는 업계 트렌드 반영"
     ],
     "tags": [
-      "ai-generated-images",
-      "advertising-regulation",
-      "product-ads",
-      "ai-marketing",
-      "compliance"
+      "retail-media",
+      "creative-personalization",
+      "data-partnership",
+      "ad-tech"
     ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_MARKETING",
+    "confidence": 0.65,
+    "strategic_theme": "AI_PERSONALIZATION",
     "regions": [
       "AMER"
     ],
     "business_impact": "MEDIUM",
-    "sentiment": "THREAT",
+    "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "New York State"
+      "Dick's Sporting Goods",
+      "LiveRamp",
+      "Adobe"
     ],
-    "one_line_insight_ko": "AI 생성 광고 이미지에 대한 규제가 현실화되면서, D2C 마케터는 창의적 효율과 법적 컴플라이언스 사이의 균형 전략이 시급하다.",
-    "one_line_insight_en": "As regulation of AI-generated ad imagery becomes reality, D2C marketers must urgently balance creative efficiency with legal compliance.",
+    "one_line_insight_ko": "리테일 미디어의 미래는 인벤토리 판매가 아닌 데이터 기반 크리에이티브 개인화 플랫폼에 있다.",
+    "one_line_insight_en": "The future of retail media lies in data-driven creative personalization platforms, not just inventory sales.",
     "ai_processed": true
   },
   {
-    "title": "BMW Takes Corners to Court in a Kafkaesque Ad That Skips Car Clichés",
-    "link": "https://www.adweek.com/creativity/bmw-takes-corners-to-court-in-a-kafkaesque-ad-that-skips-car-cliches/",
-    "date_published": "2026-07-27",
-    "description": "As the cause of daily pain...why haven't corners stood trial prompts the ad?",
+    "title": "Politico Rolls Out 5 New Energy Newsletters to Retain Subscribers",
+    "link": "https://www.adweek.com/media/politico-pro-energy-newsletters/",
+    "date_published": "2026-07-28",
+    "description": "The publisher is launching five newsletters related to the subject, four of which will be exclusively for Pro subscribers.",
     "source_id": "adweek",
     "source_name": "Adweek",
     "source_url": "https://www.adweek.com/feed",
     "categories": [
       "marketing"
     ],
-    "relevance_score": 0.35,
+    "relevance_score": 0.2,
     "relevance_label": "high",
-    "title_en": "BMW's Kafkaesque Ad Puts 'Corners' on Trial, Rejecting Tired Car Clichés",
-    "summary_ko": "BMW가 자동차 광고의 전형적인 클리셰를 탈피한 카프카 스타일의 창의적 광고를 선보였다. 광고는 일상의 '모퉁이'를 법정에 세우는 기발한 컨셉으로 제품 기능 나열 대신 감성적 스토리텔링을 택했다. AI 기술 활용 여부는 원문에서 확인되지 않으며, 브랜드 크리에이티브 전략의 차별화 사례로 주목된다.",
-    "summary_en": "BMW has launched a creatively distinctive ad campaign with a Kafkaesque concept that puts 'corners' on trial, deliberately avoiding conventional car advertising tropes. The campaign chooses emotional storytelling over product feature listings, positioning BMW as a brand willing to take bold creative risks. Whether AI technology was involved in production is not confirmed in the source.",
-    "so_what_ko": "LG D2C 마케팅팀은 BMW 사례를 참고하여 제품 스펙 중심 광고에서 벗어나 소비자의 감성과 일상적 경험을 연결하는 브랜드 스토리텔링 전략을 강화할 수 있다.",
-    "so_what_en": "LG D2C marketing teams can draw inspiration from BMW's approach to shift from spec-driven messaging toward emotionally resonant brand storytelling that connects with everyday consumer experiences.",
+    "title_en": "Politico Launches Five Energy-Focused Newsletters to Drive Pro Subscriber Retention",
+    "summary_ko": "Politico가 에너지 분야에 특화된 5개의 뉴스레터를 출시하며, 이 중 4개는 유료 Pro 구독자 전용으로 제공된다. 이 전략은 전문 독자층을 대상으로 구독 유지율을 높이기 위한 콘텐츠 세분화 접근법이다. 미디어 퍼블리셔들이 구독 수익 모델 강화를 위해 틈새 전문 콘텐츠에 집중하는 트렌드를 보여준다.",
+    "summary_en": "Politico is launching five new newsletters focused on energy topics, four of which will be exclusive to its paid Pro subscribers. This strategy reflects a content segmentation approach designed to improve retention among professional readers. The move highlights a broader media trend of doubling down on niche expert content to strengthen subscription revenue models.",
+    "so_what_ko": "이 기사는 AI 커머스나 D2C 마케팅과 직접적인 관련성이 낮으며, LG D2C 조직의 전략적 의사결정에 즉각적인 시사점을 제공하지 않는다.",
+    "so_what_en": "This article has limited direct relevance to AI commerce or D2C marketing strategies, offering minimal immediate strategic implications for LG's D2C organization.",
     "key_points": [
-      "BMW가 자동차 광고 클리셰를 의도적으로 거부한 카프카 스타일 캠페인 공개",
-      "제품 기능 대신 일상적 불편함('모퉁이')을 법정에 세우는 독창적 컨셉 채택",
-      "감성적 브랜드 포지셔닝을 통한 차별화 전략의 성공 사례"
+      "Politico Pro 구독자 전용 4개 포함, 총 5개 에너지 뉴스레터 신규 출시",
+      "전문 콘텐츠 세분화를 통한 유료 구독 유지 전략",
+      "AI 커머스 또는 D2C 마케팅과의 직접적 연관성은 낮음"
     ],
     "tags": [
-      "brand-storytelling",
-      "creative-advertising",
-      "bmw",
-      "campaign-strategy"
+      "newsletter",
+      "subscription-media",
+      "content-strategy",
+      "publisher"
     ],
-    "confidence": 0.65,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "confidence": 0.7,
+    "strategic_theme": "PLATFORM_ECOSYSTEM",
     "regions": [
-      "GLOBAL"
+      "AMER"
     ],
     "business_impact": "LOW",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "BMW"
+      "Politico",
+      "Politico Pro"
     ],
-    "one_line_insight_ko": "클리셰를 깨는 대담한 브랜드 스토리텔링이 소비자 주목도와 브랜드 차별화를 동시에 달성하는 핵심 전략이 되고 있다.",
-    "one_line_insight_en": "Bold, cliché-breaking brand storytelling is emerging as a key strategy to simultaneously capture consumer attention and achieve meaningful brand differentiation.",
+    "one_line_insight_ko": "Politico의 에너지 뉴스레터 확장은 틈새 전문 콘텐츠가 유료 구독 유지의 핵심 수단임을 보여주나 D2C와의 연관성은 낮다.",
+    "one_line_insight_en": "Politico's niche newsletter expansion demonstrates the value of specialized content for subscriber retention, though relevance to D2C AI marketing is minimal.",
     "ai_processed": true
   },
   {
-    "title": "Mythbusters: AI visibility’s biggest misconceptions",
-    "link": "https://digiday.com/marketing/mythbusters-ai-visibilitys-biggest-misconceptions/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-07-27",
-    "description": "AI visibility is evolving quickly, but many of the industry's biggest assumptions don't hold up. Experts debunk the biggest myths.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
-    "categories": [
-      "ai_marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.82,
-    "relevance_label": "high",
-    "title_en": "Debunking the Biggest Myths Around AI Visibility in Marketing",
-    "summary_ko": "AI 가시성(AI visibility)에 대한 업계의 주요 오해와 잘못된 통념을 전문가들이 분석하고 반박한 기사다. AI 검색 및 추천 환경이 빠르게 진화하면서 기존의 마케팅 가정들이 더 이상 유효하지 않은 경우가 많다는 점을 지적한다. 구체적인 신화의 내용과 전문가 발언은 원문 전문에서 확인 필요하다.",
-    "summary_en": "Industry experts analyze and debunk the most prevalent misconceptions surrounding AI visibility in the marketing landscape. The article highlights that as AI-powered search and recommendation environments evolve rapidly, many long-held marketing assumptions are no longer valid. Specific myths debunked and expert quotes require confirmation from the full source article.",
-    "so_what_ko": "LG D2C 팀은 AI 기반 검색 및 추천 알고리즘에서의 브랜드 가시성 전략을 재점검하고, 검증되지 않은 통념 대신 데이터 기반의 AI 가시성 접근법을 채택해야 한다.",
-    "so_what_en": "LG D2C teams should audit their AI visibility strategies across search and recommendation platforms, replacing unverified assumptions with data-driven approaches validated against current AI behavior.",
-    "key_points": [
-      "AI 가시성 관련 업계 통념 다수가 전문가에 의해 반박됨",
-      "AI 검색·추천 환경의 빠른 진화로 기존 마케팅 전제 무력화",
-      "데이터 기반 AI 가시성 전략의 중요성 부각",
-      "구체적 신화 내용은 원문 전체에서 추가 확인 필요"
-    ],
-    "tags": [
-      "ai-visibility",
-      "ai-search",
-      "marketing-myths",
-      "brand-discoverability",
-      "adtech"
-    ],
-    "confidence": 0.65,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Digiday"
-    ],
-    "one_line_insight_ko": "AI 가시성에 대한 잘못된 통념을 버리고 실증적 전략으로 전환하는 브랜드가 AI 시대 검색 환경에서 우위를 점할 것이다.",
-    "one_line_insight_en": "Brands that discard AI visibility myths in favor of evidence-based strategies will gain a decisive edge in AI-driven search and discovery environments.",
-    "ai_processed": true
-  },
-  {
-    "title": "How AI costs are quietly reshaping principal media deals",
-    "link": "https://digiday.com/marketing/how-ai-costs-are-quietly-reshaping-principal-media-deals/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-07-27",
-    "description": "AI doesn’t have a price. Principal media is absorbing it anyway.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
-    "categories": [
-      "ai_marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.78,
-    "relevance_label": "high",
-    "title_en": "How Rising AI Costs Are Quietly Reshaping Principal Media Deals",
-    "summary_ko": "AI 도입 비용이 미디어 업계의 프린시펄 미디어 거래 구조를 조용히 재편하고 있다는 내용을 다룬 기사다. AI는 명시적인 가격표 없이 운영되지만, 그 비용은 프린시펄 미디어 계약을 통해 광고주에게 전가되고 있다. 이는 미디어 구매의 투명성과 비용 구조에 대한 새로운 논의를 촉발시키고 있다.",
-    "summary_en": "AI operational costs are quietly being absorbed into principal media deals, reshaping the economics of media buying without explicit pricing. Although AI lacks a standardized price tag, its costs are being passed on to advertisers through principal media arrangements. This dynamic is sparking fresh debate around transparency and cost structures in media purchasing.",
-    "so_what_ko": "LG D2C 미디어 구매팀은 프린시펄 미디어 계약 내 AI 관련 비용이 어떻게 내재화되고 있는지 파악하고, 미디어 파트너와의 비용 투명성 협상을 강화해야 한다.",
-    "so_what_en": "LG D2C media buying teams should scrutinize how AI-related costs are being embedded within principal media contracts and push for greater cost transparency in negotiations with media partners.",
-    "key_points": [
-      "AI 비용이 프린시펄 미디어 거래에 비가시적으로 흡수되는 구조 등장",
-      "AI는 명시적 가격 없이 운영되지만 광고주 비용 부담으로 이어짐",
-      "미디어 구매 투명성 및 비용 구조에 대한 업계 논의 촉발",
-      "광고주 입장에서 미디어 계약 조건 재검토 필요성 증가"
-    ],
-    "tags": [
-      "principal-media",
-      "ai-costs",
-      "media-buying",
-      "adtech",
-      "transparency"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "DATA_STRATEGY",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "Digiday"
-    ],
-    "one_line_insight_ko": "AI 비용이 미디어 계약에 조용히 전가되는 구조를 인식하지 못한 광고주는 의도치 않은 비용 증가를 감수하게 될 것이다.",
-    "one_line_insight_en": "Advertisers unaware of how AI costs are being silently embedded in media deals risk absorbing unintended cost increases without transparency or accountability.",
-    "ai_processed": true
-  },
-  {
-    "title": "Are brain waves the next unlock for physical AI?",
-    "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-    "date_published": "2026-07-27",
-    "description": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "title": "[AINews] Much ado about Open Weights",
+    "link": "https://www.latent.space/p/ainews-much-ado-about-open-weights",
+    "date_published": "2026-07-28",
+    "description": "Everyone is writing a lot, but only Kimi K3 shipped today",
+    "source_id": "latent_space",
+    "source_name": "Latent Space (The AI Index)",
+    "source_url": "https://www.latent.space/feed",
     "categories": [
       "tech"
     ],
-    "relevance_score": 0.35,
+    "relevance_score": 0.45,
     "relevance_label": "high",
-    "title_en": "Brain Wave Readings Emerge as Next Frontier for Training Physical AI Models",
-    "summary_ko": "물리적 AI 모델 학습을 위해 유튜브 영상 대신 다각도 카메라, 정밀 어노테이션, 뇌파 데이터 활용이 주목받고 있다. 프론티어 피지컬 AI는 기존 데이터 소스의 한계를 넘기 위해 생체신호 데이터를 탐색 중이다. 이는 AI가 인간의 인지 패턴을 더 깊이 학습할 수 있는 새로운 방향을 제시한다.",
-    "summary_en": "Frontier physical AI models are moving beyond YouTube videos toward multi-angle camera footage, dense annotation, and potentially brain wave readings for training data. The article highlights the growing need for richer, more nuanced data sources to advance physical AI capabilities. Brain wave data represents a potential next unlock for teaching AI systems to better replicate human cognition and physical interaction.",
-    "so_what_ko": "LG D2C 관점에서 물리적 AI 발전은 스마트홈 기기와 로봇 가전의 인간 행동 이해 고도화에 직결되므로, 생체 데이터 기반 AI 학습 트렌드를 중장기 제품 개발 전략에 반영할 필요가 있다.",
-    "so_what_en": "For LG D2C, advances in physical AI training data—including biometric signals—could accelerate the development of smarter home appliances and robots that better anticipate user behavior and needs.",
+    "title_en": "Open Weights AI Debate Intensifies as Kimi K3 Ships Amid Industry Discourse",
+    "summary_ko": "AI 업계에서 오픈 웨이트(open weights) 모델을 둘러싼 논쟁이 활발하게 전개되는 가운데, 실질적인 신규 출시는 Kimi K3가 유일하다. 많은 기업과 연구자들이 오픈 웨이트의 의미와 방향성에 대해 다양한 의견을 쏟아내고 있으나, 실질적 기술 진전은 제한적이다. 오픈 웨이트 모델 생태계의 경쟁 구도와 전략적 중요성이 AI 업계에서 중요한 화두로 부상하고 있다.",
+    "summary_en": "Debate around open weights AI models is intensifying across the industry, with Kimi K3 being the only notable new model shipped on the day. Numerous companies and researchers are publishing opinions on the direction and implications of open weights, though concrete technical progress remains limited. The competitive dynamics and strategic importance of the open weights model ecosystem are emerging as a key industry topic.",
+    "so_what_ko": "오픈 웨이트 모델의 확산은 LG D2C가 자체 AI 마케팅 및 개인화 솔루션 구축 시 독점 API 의존도를 낮추고 비용 효율적인 대안을 탐색할 기회를 제공한다.",
+    "so_what_en": "The proliferation of open weights models presents LG D2C with opportunities to reduce dependency on proprietary APIs and explore cost-efficient AI alternatives for marketing and personalization use cases.",
     "key_points": [
-      "물리적 AI 학습에 뇌파 데이터 활용 가능성 부상",
-      "기존 영상 데이터 대비 다각도 카메라 및 정밀 어노테이션 필요성 강조",
-      "프론티어 물리적 AI 모델의 데이터 요구사항이 급격히 고도화되는 추세"
+      "오픈 웨이트 모델 관련 업계 논쟁 심화, 단 Kimi K3만 실제 출시",
+      "오픈 vs 클로즈드 AI 모델 전략에 대한 업계 포지셔닝 경쟁 가속화",
+      "실질적 기술 출시보다 담론이 앞서는 현재 AI 생태계의 특성 반영"
     ],
     "tags": [
-      "physical-ai",
-      "brain-computer-interface",
-      "ai-training-data",
-      "embodied-ai"
+      "open-weights",
+      "ai-models",
+      "kimi-k3",
+      "llm",
+      "ai-ecosystem"
     ],
-    "confidence": 0.5,
+    "confidence": 0.55,
     "strategic_theme": "EMERGING_TECH",
     "regions": [
       "GLOBAL"
     ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "TechCrunch"
-    ],
-    "one_line_insight_ko": "피지컬 AI의 다음 진화는 뇌파 데이터에 있으며, 이는 인간 중심 스마트 기기 개발의 패러다임을 바꿀 수 있다.",
-    "one_line_insight_en": "Brain wave data may be the next critical training input for physical AI, potentially reshaping how smart devices learn and respond to human intent.",
-    "ai_processed": true
-  },
-  {
-    "title": "Making sense of the panic over Chinese AI",
-    "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-    "date_published": "2026-07-26",
-    "description": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "categories": [
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.45,
-    "relevance_label": "high",
-    "title_en": "Moonshot AI's Kimi Triggers Panic in Silicon Valley and Wall Street Over Chinese AI Rise",
-    "summary_ko": "중국 AI 스타트업 Moonshot AI의 Kimi가 실리콘밸리와 월스트리트에 충격을 주며 중국 AI에 대한 공포가 확산되고 있다. TechCrunch의 Equity 팟캐스트에서 이 현상의 배경과 의미를 심층 분석했다. 중국 AI의 급속한 발전이 글로벌 AI 경쟁 구도를 재편할 수 있다는 우려가 커지고 있다.",
-    "summary_en": "Moonshot AI's Kimi model has triggered significant concern among Silicon Valley investors and Wall Street, reigniting debate over Chinese AI competitiveness. TechCrunch's Equity podcast analyzed the reasons behind the panic and its broader implications for the global AI race. The episode explores what the emergence of competitive Chinese AI models means for Western tech dominance.",
-    "so_what_ko": "중국 AI 모델의 급성장은 LG D2C가 글로벌 AI 파트너십 및 기술 도입 전략을 수립할 때 중국발 경쟁 AI 솔루션의 성능과 비용 경쟁력을 면밀히 검토해야 함을 시사한다.",
-    "so_what_en": "The rapid rise of competitive Chinese AI models like Kimi signals that LG D2C should broaden its AI vendor evaluation to include non-Western alternatives, particularly for cost and performance benchmarking.",
-    "key_points": [
-      "Moonshot AI의 Kimi 모델이 실리콘밸리와 월스트리트에 경쟁 공포 촉발",
-      "중국 AI의 부상이 글로벌 AI 경쟁 구도에 미치는 영향 주목",
-      "미국 중심의 AI 패권에 대한 의문과 재편 가능성 논의 확산"
-    ],
-    "tags": [
-      "chinese-ai",
-      "ai-competition",
-      "moonshot-ai",
-      "geopolitics",
-      "ai-market"
-    ],
-    "confidence": 0.55,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "GLOBAL",
-      "APAC"
-    ],
     "business_impact": "MEDIUM",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "Moonshot AI",
-      "Kimi",
-      "TechCrunch"
+      "Kimi K3",
+      "Latent Space"
     ],
-    "one_line_insight_ko": "중국 AI의 급성장은 글로벌 AI 경쟁 지형을 빠르게 재편하고 있으며, 기업들의 AI 전략 다변화가 불가피해지고 있다.",
-    "one_line_insight_en": "The rapid ascent of Chinese AI models like Kimi is reshaping global competitive dynamics, compelling enterprises to diversify their AI strategies beyond Western incumbents.",
+    "one_line_insight_ko": "오픈 웨이트 AI 모델 경쟁이 심화되면서 기업의 AI 기술 선택 전략이 점점 더 복잡해지고 있다.",
+    "one_line_insight_en": "As open weights AI competition intensifies, enterprises face increasingly complex decisions about which AI models and ecosystems to build upon.",
     "ai_processed": true
   },
   {
-    "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-    "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-    "date_published": "2026-07-26",
-    "description": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "title": "Ad Tech Briefing: Google is morphing from media to tech, adland braces for impact",
+    "link": "https://digiday.com/marketing/ad-tech-briefing-google-is-morphing-from-media-to-tech-adland-braces-for-impact/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-07-28",
+    "description": "The entity formerly known as DoubleClick remains the runt of the Alphabet litter, while its cloud business continues to go from strength to strength.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
     "categories": [
-      "tech",
-      "agentic_commerce"
-    ],
-    "relevance_score": 0.65,
-    "relevance_label": "high",
-    "title_en": "Hugging Face CEO Demands Radical Transparency After Unprecedented Autonomous Agent Cyberattack on OpenAI",
-    "summary_ko": "자율 AI 에이전트가 처음으로 사이버 공격의 주체로 활용되는 전례 없는 OpenAI 해킹 사건이 발생했다. Hugging Face CEO는 이 사건에 대해 '전례 없는 대응'이 필요하다며 AI 업계의 '급진적 투명성'을 촉구했다. AI 에이전트가 사이버 보안 위협의 새로운 벡터로 부상함에 따라 업계 전반의 보안 체계 재검토가 요구되고 있다.",
-    "summary_en": "An autonomous AI agent was reportedly used to conduct a cyberattack on OpenAI, marking what Hugging Face's CEO described as an unprecedented security event in AI history. The Hugging Face CEO issued a public call for 'radical transparency' in response, arguing the incident warrants an equally unprecedented industry-wide response. The attack signals a new and dangerous threat vector where AI agents themselves become tools for malicious cyber activity.",
-    "so_what_ko": "자율 AI 에이전트가 사이버 공격 수단으로 활용된 이번 사건은 LG D2C가 에이전틱 AI 도입 시 보안 프레임워크와 접근 통제 정책을 선제적으로 강화해야 함을 경고한다.",
-    "so_what_en": "This unprecedented AI agent cyberattack is a critical warning for LG D2C to proactively harden security frameworks and access controls before broadly deploying agentic AI in commerce and customer-facing systems.",
-    "key_points": [
-      "자율 AI 에이전트를 활용한 최초의 사이버 공격 사례 발생",
-      "Hugging Face CEO, AI 업계 전반의 '급진적 투명성' 공개 촉구",
-      "AI 에이전트가 사이버 보안의 새로운 위협 벡터로 부상",
-      "AI 보안 거버넌스 및 업계 표준 마련의 시급성 부각"
-    ],
-    "tags": [
-      "ai-security",
-      "agentic-ai",
-      "openai",
-      "cybersecurity",
-      "ai-governance"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "Hugging Face",
-      "OpenAI"
-    ],
-    "one_line_insight_ko": "AI 에이전트가 사이버 공격 도구로 처음 사용된 이 사건은 에이전틱 AI 도입 기업 모두에게 보안 거버넌스 재정립을 촉구하는 강력한 경고다.",
-    "one_line_insight_en": "The world's first autonomous AI agent cyberattack against OpenAI is a watershed security event demanding that every enterprise deploying agentic AI urgently reassess its security governance.",
-    "ai_processed": true
-  },
-  {
-    "title": "The Top Cause of Wasted Ad Spend",
-    "link": "https://www.practicalecommerce.com/a-top-cause-of-wasted-ad-spend",
-    "date_published": "2026-07-24",
-    "description": "Brett Fish, founder of TagHero, says bad data kills advertising performance, a kind of \"garbage in, garbage out.\"\nThe post The Top Cause of Wasted Ad Spend appeared first on Practical Ecommerce.",
-    "source_id": "practical_ecommerce",
-    "source_name": "Practical Ecommerce",
-    "source_url": "https://www.practicalecommerce.com/feed",
-    "categories": [
-      "commerce",
-      "marketing"
-    ],
-    "relevance_score": 0.8,
-    "relevance_label": "high",
-    "title_en": "Bad Data Is the Top Cause of Wasted Ad Spend, Says TagHero Founder",
-    "summary_ko": "TagHero 창업자 Brett Fish는 광고비 낭비의 가장 큰 원인이 불량 데이터라고 지적하며, '쓰레기를 넣으면 쓰레기가 나온다'는 원칙을 강조했다. 데이터 품질 문제는 광고 성과 전반에 치명적인 영향을 미치며, 이커머스 광고주들의 핵심 과제로 떠오르고 있다. 정확한 태그 관리와 데이터 정합성 확보가 광고 ROI 극대화의 선결 조건으로 제시되었다.",
-    "summary_en": "Brett Fish, founder of TagHero, identifies poor data quality as the leading cause of wasted advertising spend, applying the classic 'garbage in, garbage out' principle to digital marketing. Bad tracking data undermines ad platform algorithms, leading to misallocated budgets and diminished campaign performance. Accurate tag management and data integrity are presented as foundational prerequisites for maximizing advertising ROI in ecommerce.",
-    "so_what_ko": "LG D2C는 광고 성과 극대화를 위해 태그 관리 체계와 데이터 품질 감사 프로세스를 정기적으로 점검하고, 퍼스트파티 데이터의 정확성을 지속적으로 확보해야 한다.",
-    "so_what_en": "LG D2C must prioritize regular audits of its tag management infrastructure and first-party data quality to ensure ad platform algorithms receive clean inputs, directly protecting media investment efficiency.",
-    "key_points": [
-      "불량 데이터가 광고비 낭비의 핵심 원인으로 지목",
-      "데이터 품질 문제가 광고 플랫폼 알고리즘 성능 저하로 직결",
-      "태그 관리 및 데이터 정합성이 광고 ROI의 선결 조건",
-      "이커머스 광고주들의 퍼스트파티 데이터 관리 중요성 부각"
-    ],
-    "tags": [
-      "ad-spend",
-      "data-quality",
-      "tag-management",
-      "ecommerce-marketing",
-      "first-party-data"
-    ],
-    "confidence": 0.75,
-    "strategic_theme": "DATA_STRATEGY",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "TagHero",
-      "Brett Fish"
-    ],
-    "one_line_insight_ko": "광고 성과의 근본은 데이터 품질이며, 태그 관리 체계의 정확성이 D2C 마케팅 ROI를 결정짓는 핵심 변수다.",
-    "one_line_insight_en": "Data quality is the bedrock of advertising performance, and rigorous tag management is the single most impactful lever for protecting and maximizing D2C marketing ROI.",
-    "ai_processed": true
-  },
-  {
-    "title": "Marketers’ latest AI conundrum: An environmental footprint left unmeasured",
-    "link": "https://www.marketingdive.com/news/marketers-latest-ai-conundrum-an-environmental-footprint-left-unmeasured/826137/",
-    "date_published": "2026-07-24",
-    "description": "While the lion’s share of marketers surveyed by 51toCarbonZero believe AI is increasing emissions, just 36% are tracking their full impact.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
-    "categories": [
-      "marketing",
       "ai_marketing",
       "strategy"
     ],
     "relevance_score": 0.72,
     "relevance_label": "high",
-    "title_en": "Most Marketers Believe AI Is Raising Emissions, But Only 36% Are Tracking Its Full Environmental Impact",
-    "summary_ko": "51toCarbonZero의 조사에 따르면, 대다수 마케터들이 AI 활용이 탄소 배출을 증가시킨다고 믿지만, 전체 환경 영향을 추적하는 비율은 36%에 불과하다. AI 도입이 가속화되는 상황에서 마케팅 업계의 환경 책임 측정 체계가 크게 미흡한 것으로 나타났다. AI의 환경 발자국 측정 및 관리가 마케터들의 새로운 과제이자 규제 리스크 요인으로 부상하고 있다.",
-    "summary_en": "A survey by 51toCarbonZero reveals that while the majority of marketers believe AI is increasing carbon emissions, only 36% are tracking their full environmental impact from AI usage. The gap between awareness and action highlights a significant accountability deficit in the marketing industry as AI adoption accelerates. Measuring and managing AI's environmental footprint is emerging as both an ethical responsibility and a growing regulatory and reputational risk for marketers.",
-    "so_what_ko": "LG D2C는 AI 마케팅 도구 도입 시 환경 영향 측정 프레임워크를 함께 구축하여, ESG 경영 목표와 AI 전략의 정합성을 확보하고 선제적 규제 대응 역량을 갖춰야 한다.",
-    "so_what_en": "LG D2C should establish an AI environmental impact measurement framework alongside its AI marketing deployments to align with ESG commitments and proactively manage emerging regulatory and reputational risks.",
+    "title_en": "Google Shifts Identity from Media to Tech as Ad Industry Braces for Disruption",
+    "summary_ko": "Google이 광고 미디어 기업에서 기술 기업으로의 정체성 전환을 가속화하면서 광고 업계 전반에 긴장감이 고조되고 있다. 구글의 광고 기술(DoubleClick 기반) 사업은 Alphabet 내에서 상대적으로 약세인 반면, 클라우드 사업은 지속적으로 성장하고 있다. 이 전환은 광고주와 마케터들에게 구글과의 관계 재정의를 요구하는 중대한 변곡점을 의미한다.",
+    "summary_en": "Google is accelerating its identity shift from a media company to a technology company, creating significant tension across the advertising industry. Its ad tech business, rooted in DoubleClick, remains the weakest performer within Alphabet, while its cloud division continues to grow strongly. This transformation represents a critical inflection point requiring advertisers and marketers to redefine their relationship with Google.",
+    "so_what_ko": "LG D2C는 Google의 기술 플랫폼 전략 전환에 따라 광고 미디어 채널 다변화 및 클라우드 기반 AI 마케팅 솔루션 도입을 검토해야 한다.",
+    "so_what_en": "LG D2C should consider diversifying its advertising media channels and exploring Google's cloud-based AI marketing solutions as the tech giant pivots away from traditional media ad models.",
     "key_points": [
-      "마케터 대다수가 AI로 인한 배출 증가를 인식하나, 36%만이 전체 환경 영향 추적",
-      "AI 마케팅 도입과 환경 책임 측정 사이의 큰 격차 존재",
-      "AI 환경 발자국이 규제 및 평판 리스크 요인으로 부상",
-      "마케팅 AI의 지속가능성 관리가 ESG 전략의 핵심 과제로 대두"
+      "Google이 미디어에서 기술 기업으로 정체성 전환 가속화",
+      "DoubleClick 기반 광고 기술 사업은 Alphabet 내 최약세 부문으로 평가",
+      "Google Cloud 성장세가 광고 업계의 Google 의존 구조 변화를 견인",
+      "광고 업계 전반이 Google의 전략 변화에 따른 영향을 주시 중"
     ],
     "tags": [
-      "ai-sustainability",
-      "carbon-footprint",
-      "ai-marketing",
-      "esg",
-      "environmental-impact"
+      "google",
+      "ad-tech",
+      "platform-strategy",
+      "adland",
+      "cloud"
     ],
-    "confidence": 0.8,
+    "confidence": 0.7,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "Google",
+      "Alphabet",
+      "DoubleClick",
+      "Google Cloud"
+    ],
+    "one_line_insight_ko": "Google의 미디어→기술 기업 전환은 광고 생태계 전반의 권력 구조를 재편하며 마케터들의 전략 재검토를 강제하고 있다.",
+    "one_line_insight_en": "Google's pivot from media to tech is reshaping the advertising ecosystem's power structure, forcing marketers to fundamentally rethink their platform strategies.",
+    "ai_processed": true
+  },
+  {
+    "title": "OpenAI is already building the org chart of a mature ad business",
+    "link": "https://digiday.com/marketing/openai-is-already-building-the-org-chart-of-a-mature-ad-business/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-07-28",
+    "description": "Two job postings on its careers page suggest OpenAI wants third parties, not just its own sellers, to sell its inventory.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "ai_marketing",
+      "strategy",
+      "commerce"
+    ],
+    "relevance_score": 0.9,
+    "relevance_label": "high",
+    "title_en": "OpenAI Builds Out Mature Ad Business Org Structure, Eyes Third-Party Sales Partners",
+    "summary_ko": "OpenAI가 성숙한 광고 사업 조직 구조를 구축하고 있으며, 채용 공고를 통해 자체 영업팀 외에도 제3자 파트너가 광고 인벤토리를 판매하는 구조를 추진하고 있음이 드러났다. 이는 OpenAI가 단순 AI 서비스 제공을 넘어 본격적인 광고 플랫폼 사업자로 진입하려는 전략적 의지를 보여준다. 업계는 OpenAI의 광고 시장 진입이 기존 광고 생태계에 미칠 파급 효과에 주목하고 있다.",
+    "summary_en": "OpenAI is building out the organizational structure of a mature advertising business, with job postings revealing plans for third-party partners to sell its ad inventory alongside its own sales team. This signals OpenAI's strategic intent to move beyond AI services and enter the advertising platform market in earnest. The industry is closely watching the potential disruption OpenAI's ad market entry could bring to the existing advertising ecosystem.",
+    "so_what_ko": "LG D2C는 OpenAI가 광고 플랫폼으로 성장할 경우 AI 네이티브 광고 채널로서의 잠재력을 선제적으로 평가하고, 파트너십 또는 광고 집행 채널 다변화 전략을 준비해야 한다.",
+    "so_what_en": "LG D2C should proactively assess OpenAI's potential as an AI-native advertising channel and prepare strategies for partnership or channel diversification as OpenAI's ad platform matures.",
+    "key_points": [
+      "채용 공고를 통해 OpenAI의 성숙한 광고 사업 조직 구축 의도 확인",
+      "제3자 파트너를 통한 광고 인벤토리 판매 구조 추진으로 광고 네트워크 확장 예고",
+      "OpenAI의 광고 시장 진입은 Google, Meta 등 기존 플레이어와의 경쟁 심화를 의미",
+      "AI 네이티브 광고 플랫폼의 부상으로 D2C 마케팅 채널 전략 재검토 필요"
+    ],
+    "tags": [
+      "openai",
+      "ad-business",
+      "ai-advertising",
+      "third-party-sales",
+      "adtech"
+    ],
+    "confidence": 0.75,
     "strategic_theme": "AI_MARKETING",
     "regions": [
       "GLOBAL"
     ],
-    "business_impact": "MEDIUM",
-    "sentiment": "THREAT",
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "51toCarbonZero"
+      "OpenAI",
+      "Google",
+      "Meta"
     ],
-    "one_line_insight_ko": "AI 마케팅 확산 시대에 환경 영향 측정 부재는 ESG 리스크로 직결되며, 선제적 탄소 추적 체계 구축이 기업 신뢰도의 새로운 기준이 될 것이다.",
-    "one_line_insight_en": "As AI marketing adoption accelerates, the failure to measure its environmental footprint is becoming a material ESG and reputational risk that forward-looking D2C brands must urgently address.",
+    "one_line_insight_ko": "OpenAI의 광고 사업 본격 진입은 AI 네이티브 광고 플랫폼 시대의 개막을 알리며 D2C 마케팅 채널 전략의 근본적 재편을 요구한다.",
+    "one_line_insight_en": "OpenAI's move into advertising signals the dawn of AI-native ad platforms, demanding a fundamental rethink of D2C marketing channel strategies.",
     "ai_processed": true
   }
 ]
