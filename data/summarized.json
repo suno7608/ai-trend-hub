@@ -1,132 +1,310 @@
 [
   {
-    "title": "Kroger’s AI shopping assistant has ads at launch",
-    "link": "https://digiday.com/marketing/krogers-ai-shopping-assistant-has-ads-at-launch/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "title": "Ahold Delhaize USA adds Pear Commerce to connect CPG content to online grocery carts",
+    "link": "https://www.digitalcommerce360.com/2026/08/06/ahold-delhaize-usa-adds-pear-commerce-to-connect-cpg-content-to-online-grocery-carts/",
     "date_published": "2026-08-06",
-    "description": "Kroger has made advertising part of its AI shopping assistant, following the implementation of advertising features on competitors’ chatbots.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
+    "description": "Ahold Delhaize USA is partnering with Pear Commerce on a new ecommerce integration, the grocery retailer announced.  Shoppers will be able to add grocery items to their online carts directly from consumer packaged goods (CPG) brand websites, shoppable recipes and store locator tools. The collaboration, announced July 29, covers all five of Ahold Delhaize USA’s […]\nThe post Ahold Delhaize USA adds Pear Commerce to connect CPG content to online grocery carts appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
     "categories": [
-      "ai_marketing",
-      "commerce"
+      "commerce",
+      "agentic_commerce"
     ],
-    "relevance_score": 0.85,
+    "relevance_score": 0.72,
     "relevance_label": "high",
-    "title_en": "Kroger Launches AI Shopping Assistant with Embedded Advertising at Debut",
-    "summary_ko": "크로거는 경쟁사의 챗봇 광고 도입에 발맞춰, 자사 AI 쇼핑 어시스턴트 출시 시점부터 광고 기능을 포함시켰다. 이는 AI 대화형 인터페이스가 새로운 광고 채널로 빠르게 자리잡고 있음을 보여준다. 리테일 미디어 네트워크와 AI 어시스턴트의 결합이 식료품 업계 전반으로 확산되는 추세다.",
-    "summary_en": "Kroger has integrated advertising directly into its AI shopping assistant from the moment of launch, following similar moves by competitors. This signals a broader industry trend of monetizing AI-powered retail chatbots through native advertising. The move reflects the rapid convergence of retail media networks and conversational AI interfaces.",
-    "so_what_ko": "LG D2C도 자사 AI 쇼핑 어시스턴트 또는 제조사 리테일 미디어 전략 수립 시, 광고 수익화 모델을 초기 설계 단계부터 포함시키는 것을 검토해야 한다.",
-    "so_what_en": "LG D2C should consider building ad monetization capabilities into any AI shopping assistant strategy from day one, rather than treating it as a later-stage addition.",
+    "title_en": "Ahold Delhaize USA Partners with Pear Commerce to Enable Direct-to-Cart Shopping from CPG Brand Sites",
+    "summary_ko": "Ahold Delhaize USA가 Pear Commerce와 파트너십을 체결하여 CPG 브랜드 웹사이트, 쇼퍼블 레시피, 매장 위치 안내 도구에서 직접 온라인 장바구니에 상품을 추가할 수 있는 이커머스 통합 기능을 도입했다. 이 협력은 Ahold Delhaize USA 산하 5개 배너 전체에 적용되며 2026년 7월 29일 발표되었다. 소비자들은 CPG 브랜드 콘텐츠를 탐색하는 중에도 구매 과정을 끊김 없이 이어갈 수 있게 된다.",
+    "summary_en": "Ahold Delhaize USA has partnered with Pear Commerce to integrate shoppable functionality directly into CPG brand websites, recipes, and store locator tools. The collaboration, announced July 29, covers all five of Ahold Delhaize USA's retail banners, enabling consumers to add grocery items to their online carts without leaving brand content. This integration shortens the path from content discovery to purchase for online grocery shoppers.",
+    "so_what_ko": "LG D2C 관점에서, 브랜드 콘텐츠(레시피, 제품 페이지 등)에서 직접 구매로 연결되는 쇼퍼블 통합 모델은 자사몰 전환율 제고와 콘텐츠 커머스 전략 강화에 직접 적용 가능한 사례다.",
+    "so_what_en": "For LG D2C, this shoppable content integration model demonstrates how linking brand-owned content directly to purchase flows can reduce friction and boost conversion rates across owned channels.",
     "key_points": [
-      "크로거는 AI 쇼핑 어시스턴트 출시와 동시에 광고 기능 탑재",
-      "경쟁사 챗봇의 광고 도입 사례를 벤치마킹하여 선제적 수익화 전략 채택",
-      "리테일 AI 어시스턴트가 새로운 광고 인벤토리로 부상 중"
+      "CPG 브랜드 사이트 및 쇼퍼블 콘텐츠에서 온라인 장바구니로 직접 연결하는 이커머스 통합 구현",
+      "Ahold Delhaize USA 산하 5개 배너 전체에 적용되는 광범위한 파트너십",
+      "콘텐츠 소비와 구매 사이의 마찰을 줄이는 쇼퍼블 커머스 트렌드 반영"
     ],
     "tags": [
-      "retail-media",
-      "ai-assistant",
-      "conversational-ads",
-      "kroger",
-      "chatbot-monetization"
+      "shoppable-content",
+      "cpg-commerce",
+      "online-grocery",
+      "d2c-integration",
+      "retail-partnership"
     ],
     "confidence": 0.75,
     "strategic_theme": "AI_COMMERCE",
     "regions": [
       "AMER"
     ],
-    "business_impact": "HIGH",
+    "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Kroger"
+      "Ahold Delhaize USA",
+      "Pear Commerce"
     ],
-    "one_line_insight_ko": "리테일 AI 어시스턴트가 출시 즉시 광고 채널로 기능하는 시대가 도래했다.",
-    "one_line_insight_en": "Retail AI assistants are now advertising channels from day one, signaling a new era of conversational commerce monetization.",
+    "one_line_insight_ko": "CPG 브랜드 콘텐츠와 구매 경로를 직접 연결하는 쇼퍼블 통합이 온라인 그로서리 커머스의 새로운 표준으로 자리잡고 있다.",
+    "one_line_insight_en": "Shoppable content integrations that connect brand storytelling directly to purchase are becoming a new standard in online grocery commerce.",
     "ai_processed": true
   },
   {
-    "title": "OpenAI brings product carousels to ChatGPT ads",
-    "link": "https://digiday.com/marketing/openai-brings-product-carousels-to-chatgpt-ads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "title": "What 24/7 actually costs: the operational anatomy of round-the-clock support for mid-market retailers",
+    "link": "https://www.digitalcommerce360.com/2026/08/06/what-24-7-actually-costs-the-operational-anatomy-of-round-the-clock-support-for-mid-market-retailers/",
     "date_published": "2026-08-06",
-    "description": "It builds on OpenAI's product feed campaigns, bringing a Google Shopping-style carousel format to ChatGPT ahead of the Q4 holiday period.",
+    "description": "Sponsor content is created on behalf of and in collaboration with Bazoom by DigitalCommerce360. Our editorial staff is not involved in the creation of the sponsored content. Round-the-clock support looks like a simple hiring problem: three shifts instead of one, so roughly triple the payroll. In practice, mid-market retailers often discover that the real costs […]\nThe post What 24/7 actually costs: the operational anatomy of round-the-clock support for mid-market retailers appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
+    "categories": [
+      "commerce",
+      "ai_marketing"
+    ],
+    "relevance_score": 0.55,
+    "relevance_label": "high",
+    "title_en": "The True Cost of 24/7 Customer Support: Operational Realities for Mid-Market Retailers",
+    "summary_ko": "중견 소매업체들이 연중무휴 고객 지원 체계를 구축할 때 단순 인력 3교대 비용을 훨씬 초과하는 숨겨진 운영 비용이 발생한다는 점이 조명되었다. 야간 교대 수당, 교육 비용, 이직률 증가 등 복합적 비용 요인이 실제 지출을 크게 늘린다. AI 기반 자동화 및 챗봇 도입이 이러한 비용 문제의 현실적 대안으로 부상하고 있다.",
+    "summary_en": "Mid-market retailers attempting to offer 24/7 customer support face operational costs far exceeding a simple tripling of payroll, as night shift premiums, training, and high turnover compound expenses significantly. The article, sponsored content created in collaboration with Bazoom, examines the full anatomy of round-the-clock support costs. AI-driven automation and chatbots are emerging as practical alternatives to manage these escalating expenses.",
+    "so_what_ko": "LG D2C는 24/7 고객 지원의 실제 운영 비용을 면밀히 분석하고, AI 챗봇·자동화 도구를 전략적으로 도입하여 고객 경험을 유지하면서 비용을 최적화할 수 있는 방안을 검토해야 한다.",
+    "so_what_en": "LG D2C should evaluate the full operational cost structure of always-on support and strategically deploy AI chatbots and automation to sustain customer experience while controlling costs.",
+    "key_points": [
+      "24/7 지원 비용은 단순 3교대 급여의 합을 크게 초과하는 복합적 구조",
+      "야간 수당, 높은 이직률, 교육비 등 숨겨진 운영 비용 존재",
+      "AI 자동화가 중견 소매업체의 현실적 비용 절감 대안으로 부상"
+    ],
+    "tags": [
+      "customer-support",
+      "ai-automation",
+      "retail-operations",
+      "cost-management",
+      "chatbot"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Bazoom",
+      "Digital Commerce 360"
+    ],
+    "one_line_insight_ko": "24/7 고객 지원의 숨겨진 운영 비용을 이해하는 것이 AI 자동화 투자 결정의 핵심 근거가 된다.",
+    "one_line_insight_en": "Understanding the hidden operational costs of round-the-clock support is the key business case for investing in AI-driven customer service automation.",
+    "ai_processed": true
+  },
+  {
+    "title": "Big-Box Briefing: This back-to-school season is all about low prices and social trends",
+    "link": "https://www.modernretail.co/operations/big-box-briefing-this-back-to-school-season-is-all-about-low-prices-and-social-trends/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-08-06",
+    "description": "For major brick-and-mortar retailers, back-to-school season this year is largely about a race to the bottom in price and a push to offer the most popular products seen on social media.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
+    "categories": [
+      "commerce",
+      "marketing"
+    ],
+    "relevance_score": 0.5,
+    "relevance_label": "high",
+    "title_en": "Back-to-School 2026: Big-Box Retailers Race on Low Prices and Social Media Trends",
+    "summary_ko": "2026년 백투스쿨 시즌에 주요 오프라인 대형 소매업체들은 가격 경쟁과 소셜 미디어 인기 제품 확보를 핵심 전략으로 삼고 있다. 소비자들의 가격 민감도가 높아진 가운데, 틱톡 등 소셜 플랫폼에서 바이럴된 제품들이 구매 결정에 큰 영향을 미치고 있다. 대형 유통업체들은 트렌드 제품을 빠르게 확보하고 최저가를 유지하는 이중 전략으로 고객을 유인하고 있다.",
+    "summary_en": "Major brick-and-mortar retailers are approaching the 2026 back-to-school season with a dual focus on aggressive price competition and stocking products trending on social media platforms. Heightened consumer price sensitivity is pushing retailers toward a race to the bottom on pricing. Social media-driven demand is compelling retailers to rapidly identify and source viral products to stay relevant with younger shoppers.",
+    "so_what_ko": "LG D2C는 소셜 미디어 트렌드를 실시간으로 포착하여 제품 프로모션 및 콘텐츠 전략에 빠르게 반영하고, 가격 경쟁력과 트렌드 민감성을 동시에 갖춘 시즌별 마케팅 전략을 수립해야 한다.",
+    "so_what_en": "LG D2C should integrate real-time social trend monitoring into seasonal marketing strategies, balancing competitive pricing with agile content that capitalizes on viral product moments.",
+    "key_points": [
+      "2026 백투스쿨 시즌의 핵심 경쟁 축은 최저가와 소셜 트렌드 제품 확보",
+      "틱톡 등 소셜 미디어가 소비자 구매 결정에 미치는 영향력 증대",
+      "대형 유통업체들의 가격 인하 경쟁이 마진 압박으로 이어질 우려"
+    ],
+    "tags": [
+      "back-to-school",
+      "social-commerce",
+      "price-competition",
+      "retail-trends",
+      "big-box"
+    ],
+    "confidence": 0.65,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Modern Retail"
+    ],
+    "one_line_insight_ko": "소셜 미디어 트렌드와 가격 경쟁력이 2026년 시즌 마케팅의 두 핵심 축으로 자리 잡으면서 유통업체의 민첩성이 경쟁 우위를 결정한다.",
+    "one_line_insight_en": "In 2026, social trend agility and price competitiveness are the twin pillars of seasonal retail strategy, making real-time responsiveness a key competitive differentiator.",
+    "ai_processed": true
+  },
+  {
+    "title": "Your favorite beauty brands are now also entertainment brands",
+    "link": "https://digiday.com/marketing/your-favorite-beauty-brands-are-now-also-entertainment-brands/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-08-07",
+    "description": "Many of today’s beauty brands are asking if entertainment and advertising can be one and the same.",
     "source_id": "digiday",
     "source_name": "Digiday",
     "source_url": "https://digiday.com/feed",
     "categories": [
-      "ai_marketing",
-      "commerce"
+      "marketing",
+      "ai_marketing"
     ],
-    "relevance_score": 0.95,
+    "relevance_score": 0.62,
     "relevance_label": "high",
-    "title_en": "OpenAI Introduces Google Shopping-Style Product Carousels in ChatGPT Ads Ahead of Q4",
-    "summary_ko": "OpenAI가 ChatGPT에 구글 쇼핑과 유사한 제품 캐러셀 광고 포맷을 도입하며 Q4 홀리데이 시즌을 앞두고 광고 기능을 강화했다. 이는 기존 제품 피드 캠페인을 기반으로 한 시각적 쇼핑 경험의 확장이다. ChatGPT가 단순 정보 제공 도구를 넘어 직접적인 커머스 플랫폼으로 진화하고 있음을 보여준다.",
-    "summary_en": "OpenAI has introduced product carousel ads to ChatGPT, adopting a Google Shopping-style visual format to enhance the shopping experience within the chatbot. This builds upon existing product feed campaign capabilities and is timed strategically ahead of the Q4 holiday shopping period. The move marks a significant step in ChatGPT's evolution from an information tool to a full-fledged commerce platform.",
-    "so_what_ko": "LG는 Q4 홀리데이 시즌을 겨냥해 ChatGPT 제품 캐러셀 광고를 D2C 채널 믹스에 조기 편입하고, 제품 피드 최적화 전략을 수립해야 한다.",
-    "so_what_en": "LG D2C should prioritize integrating ChatGPT product carousel ads into its Q4 channel mix and invest in product feed optimization to capture AI-driven discovery traffic.",
+    "title_en": "Beauty Brands Blur the Line Between Advertising and Entertainment",
+    "summary_ko": "오늘날 많은 뷰티 브랜드들이 광고와 엔터테인먼트의 경계를 허물며 브랜드 자체를 콘텐츠 엔터테인먼트 플랫폼으로 진화시키고 있다. 소비자들이 전통적 광고에 피로감을 느끼면서 스토리텔링, 숏폼 드라마, 인터랙티브 콘텐츠 등 엔터테인먼트 형식의 마케팅이 주목받고 있다. 뷰티 업계의 이 같은 전략적 전환은 가전·소비재 브랜드의 콘텐츠 마케팅 방향성에도 시사점을 제공한다.",
+    "summary_en": "Leading beauty brands are increasingly merging entertainment and advertising into a unified brand experience, questioning whether the two need to be distinct at all. As consumers grow fatigued by traditional advertising formats, brands are investing in storytelling, short-form drama, and interactive content to build deeper emotional connections. This strategic shift toward entertainment-led marketing in the beauty sector offers a replicable model for other consumer brand categories.",
+    "so_what_ko": "LG D2C는 제품 광고를 넘어 브랜드 세계관을 담은 엔터테인먼트형 콘텐츠를 제작하여 소비자의 자발적 참여와 장기적 브랜드 충성도를 구축하는 전략을 검토해야 한다.",
+    "so_what_en": "LG D2C should explore entertainment-led content strategies that embed brand narratives into engaging formats, moving beyond product-centric advertising to build lasting consumer relationships.",
     "key_points": [
-      "ChatGPT에 구글 쇼핑 스타일의 제품 캐러셀 광고 포맷 도입",
-      "기존 제품 피드 캠페인을 기반으로 시각적 쇼핑 경험 확장",
-      "Q4 홀리데이 시즌을 앞두고 전략적 타이밍으로 출시",
-      "ChatGPT가 커머스 플랫폼으로 본격 진화"
+      "뷰티 브랜드들이 광고와 엔터테인먼트의 경계를 허물며 콘텐츠 브랜드로 진화",
+      "소비자 광고 피로도 증가로 인해 스토리텔링·인터랙티브 콘텐츠의 중요성 부상",
+      "엔터테인먼트 마케팅 전략은 가전 등 타 소비재 카테고리로 확장 가능"
     ],
     "tags": [
-      "chatgpt-ads",
-      "product-carousel",
-      "openai",
-      "ai-commerce",
-      "holiday-season"
+      "entertainment-marketing",
+      "branded-content",
+      "beauty-brands",
+      "storytelling",
+      "content-strategy"
     ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_COMMERCE",
+    "confidence": 0.7,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Digiday"
+    ],
+    "one_line_insight_ko": "광고와 엔터테인먼트의 경계가 사라지는 시대, 브랜드 자체가 콘텐츠 플랫폼이 되어야 소비자의 자발적 몰입을 이끌 수 있다.",
+    "one_line_insight_en": "As the line between advertising and entertainment dissolves, brands that become content platforms in their own right will win deeper, more durable consumer engagement.",
+    "ai_processed": true
+  },
+  {
+    "title": "By the numbers: How marketers are building the infrastructure for AI search",
+    "link": "https://digiday.com/marketing/by-the-numbers-how-marketers-are-building-the-infrastructure-for-ai-search/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-08-07",
+    "description": "Marketers are carving out budgets for AI search, but research suggests execution, measurement and content strategies are still catching up.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "marketing",
+      "ai_marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.85,
+    "relevance_label": "high",
+    "title_en": "Marketers Are Investing in AI Search Infrastructure, But Execution and Measurement Still Lag",
+    "summary_ko": "마케터들이 AI 검색 최적화를 위한 예산을 확보하고 인프라 구축에 나서고 있지만, 실행 전략과 성과 측정 방법론은 아직 초기 단계에 머물러 있다. 조사 결과에 따르면 콘텐츠 전략 역시 AI 검색 환경의 변화를 따라잡지 못하고 있어 투자 대비 성과가 불확실한 상황이다. AI 검색이 소비자 정보 탐색 방식을 근본적으로 바꾸면서 기업들은 기존 SEO와 차별화된 새로운 최적화 접근법을 모색해야 한다.",
+    "summary_en": "Marketers are allocating budgets and building infrastructure for AI search, but research indicates that execution capabilities, measurement frameworks, and content strategies are still catching up to the pace of change. The gap between investment intent and operational readiness presents a significant risk of misallocated resources in the near term. As AI search fundamentally reshapes how consumers discover information and products, brands need differentiated optimization strategies beyond traditional SEO.",
+    "so_what_ko": "LG D2C는 AI 검색 환경에 맞는 콘텐츠 최적화 전략과 성과 측정 체계를 조기에 구축하여, 경쟁사 대비 AI 검색 가시성과 전환율에서 선제적 우위를 확보해야 한다.",
+    "so_what_en": "LG D2C should prioritize building AI search optimization capabilities and measurement frameworks now to gain early-mover advantage in AI-driven discovery before competitors catch up.",
+    "key_points": [
+      "마케터들이 AI 검색 인프라에 예산을 투입하고 있으나 실행·측정 역량은 여전히 부족",
+      "콘텐츠 전략이 AI 검색 환경 변화 속도를 따라가지 못하는 구조적 격차 존재",
+      "AI 검색이 소비자 구매 여정의 출발점을 바꾸면서 기존 SEO 전략의 재편 필요"
+    ],
+    "tags": [
+      "ai-search",
+      "seo-optimization",
+      "content-strategy",
+      "marketing-infrastructure",
+      "measurement"
+    ],
+    "confidence": 0.78,
+    "strategic_theme": "AI_MARKETING",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "OpenAI",
-      "ChatGPT",
-      "Google Shopping"
+      "Digiday"
     ],
-    "one_line_insight_ko": "ChatGPT가 구글 쇼핑형 제품 캐러셀을 도입하며 AI 기반 쇼핑 발견의 핵심 플랫폼으로 부상하고 있다.",
-    "one_line_insight_en": "ChatGPT's launch of product carousels signals its emergence as a primary AI-powered shopping discovery platform, directly challenging Google Shopping.",
+    "one_line_insight_ko": "AI 검색 시대에 인프라 투자보다 실행력과 측정 체계가 먼저 갖춰진 브랜드가 검색 가시성 경쟁에서 앞서게 된다.",
+    "one_line_insight_en": "In the AI search era, brands that close the gap between investment and execution—with robust measurement frameworks—will outpace competitors in search visibility and conversion.",
     "ai_processed": true
   },
   {
-    "title": "New Ecommerce Tools: August 5, 2026",
-    "link": "https://www.practicalecommerce.com/new-ecommerce-tools-august-5-2026",
-    "date_published": "2026-08-05",
-    "description": "This week: new services for drone deliveries, image and video editors, site and product search, AI-native ads, warehouse automation, agentic marketing, cross-border payments, and more.\nThe post New Ecommerce Tools: August 5, 2026 appeared first on Practical Ecommerce.",
+    "title": "Future of Marketing Briefing: Creator agencies are becoming entertainment studios — brands are footing the bill",
+    "link": "https://digiday.com/marketing/future-of-marketing-briefing-creator-agencies-are-becoming-entertainment-studios-brands-are-footing-the-bill/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-08-07",
+    "description": "Creator agencies are either rebuilding themselves as entertainment companies or launching as one from day one.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "marketing",
+      "ai_marketing"
+    ],
+    "relevance_score": 0.55,
+    "relevance_label": "high",
+    "title_en": "Creator Agencies Transform into Entertainment Studios with Brand Funding",
+    "summary_ko": "크리에이터 에이전시들이 엔터테인먼트 스튜디오로 진화하며 브랜드들이 이 전환 비용을 부담하는 구조가 형성되고 있다. 일부 에이전시는 기존 조직을 엔터테인먼트 회사로 재편하고, 일부는 처음부터 엔터테인먼트 스튜디오로 출발하고 있다. 이는 콘텐츠 마케팅 생태계의 구조적 변화를 시사한다.",
+    "summary_en": "Creator agencies are transforming into full-scale entertainment studios, with brands increasingly bankrolling the transition. Some agencies are rebuilding their existing structures while others are launching as entertainment companies from the outset. This structural shift signals a significant evolution in how branded content and creator marketing are funded and produced.",
+    "so_what_ko": "LG D2C 조직은 크리에이터 파트너십 전략을 단순 인플루언서 마케팅에서 벗어나 엔터테인먼트 콘텐츠 공동 제작 모델로 확장하는 방안을 검토해야 한다.",
+    "so_what_en": "LG's D2C organization should evaluate shifting creator partnerships from transactional influencer campaigns toward co-produced entertainment content models that drive deeper brand engagement.",
+    "key_points": [
+      "크리에이터 에이전시가 엔터테인먼트 스튜디오로 구조 전환 중",
+      "브랜드가 이 전환의 재정적 부담을 지는 새로운 투자 모델 등장",
+      "콘텐츠 제작 및 마케팅 생태계의 근본적 재편 가속화"
+    ],
+    "tags": [
+      "creator-economy",
+      "branded-content",
+      "entertainment-studios",
+      "influencer-marketing"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL",
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Digiday",
+      "Creator Agencies"
+    ],
+    "one_line_insight_ko": "크리에이터 에이전시의 엔터테인먼트 스튜디오화는 브랜드가 콘텐츠 투자 방식을 근본적으로 재설계해야 할 시점임을 알린다.",
+    "one_line_insight_en": "As creator agencies evolve into entertainment studios, brands must fundamentally rethink how they invest in and structure content partnerships.",
+    "ai_processed": true
+  },
+  {
+    "title": "Thinking about Cart Recovery in 2026",
+    "link": "https://www.practicalecommerce.com/thinking-about-cart-recovery-in-2026",
+    "date_published": "2026-08-06",
+    "description": "Today's cart abandonment automations can do more than remind shoppers what they left behind.\nThe post Thinking about Cart Recovery in 2026 appeared first on Practical Ecommerce.",
     "source_id": "practical_ecommerce",
     "source_name": "Practical Ecommerce",
     "source_url": "https://www.practicalecommerce.com/feed",
     "categories": [
-      "ai_marketing",
       "commerce",
-      "agentic_commerce"
+      "ai_commerce"
     ],
-    "relevance_score": 0.8,
+    "relevance_score": 0.75,
     "relevance_label": "high",
-    "title_en": "New Ecommerce Tools Roundup: Drone Delivery, AI Ads, Agentic Marketing, and Warehouse Automation (August 2026)",
-    "summary_ko": "2026년 8월 첫째 주, 드론 배송, AI 네이티브 광고, 에이전틱 마케팅, 창고 자동화, 크로스보더 결제 등 다양한 신규 이커머스 툴이 출시됐다. 이미지·영상 편집, 사이트 및 제품 검색 기능도 새롭게 업데이트되며 이커머스 운영 전반의 AI 전환이 가속화되고 있다. 특히 에이전틱 마케팅과 AI 네이티브 광고 도구의 등장은 D2C 마케팅 자동화의 새로운 지평을 열고 있다.",
-    "summary_en": "A wave of new ecommerce tools launched in early August 2026, spanning drone deliveries, AI-native ads, agentic marketing platforms, warehouse automation, and cross-border payment solutions. Image and video editing tools, as well as site and product search enhancements, were also introduced, accelerating AI transformation across ecommerce operations. Notably, the emergence of agentic marketing and AI-native ad tools signals a new frontier in D2C marketing automation.",
-    "so_what_ko": "에이전틱 마케팅 및 AI 네이티브 광고 도구를 조기 도입하여 D2C 운영 효율화와 마케팅 자동화 역량을 선제적으로 확보해야 한다.",
-    "so_what_en": "LG D2C should evaluate and pilot agentic marketing and AI-native ad tools early to build automation capabilities and operational efficiency ahead of broader market adoption.",
+    "title_en": "Cart Recovery in 2026: Smarter Automations Go Beyond Simple Reminders",
+    "summary_ko": "2026년 장바구니 복구 자동화는 단순한 리마인더 알림을 넘어 더욱 정교한 기능을 제공하고 있다. 최신 툴들은 개인화된 인센티브 제공, 행동 기반 트리거, 멀티채널 재참여 전략 등을 지원한다. 이커머스 사업자들은 이를 통해 구매 전환율과 고객 생애가치를 높일 수 있다.",
+    "summary_en": "Modern cart abandonment automation tools in 2026 have evolved well beyond simple reminder emails to offer more sophisticated recovery capabilities. Today's solutions support personalized incentives, behavioral triggers, and multi-channel re-engagement strategies. E-commerce operators can leverage these advances to meaningfully improve conversion rates and customer lifetime value.",
+    "so_what_ko": "LG D2C는 장바구니 복구 자동화를 고도화하여 개인화 인센티브와 멀티채널 재참여 전략을 도입함으로써 전환율 향상과 매출 회수를 극대화해야 한다.",
+    "so_what_en": "LG D2C should upgrade cart recovery automation with personalized incentives and multi-channel re-engagement to maximize revenue recovery and conversion uplift.",
     "key_points": [
-      "드론 배송, 창고 자동화 등 물류 혁신 툴 다수 출시",
-      "에이전틱 마케팅 플랫폼 등장으로 마케팅 자동화 가속화",
-      "AI 네이티브 광고 도구가 기존 광고 운영 방식을 대체하기 시작",
-      "크로스보더 결제 솔루션으로 글로벌 D2C 확장 지원 강화"
+      "2026년 장바구니 복구 자동화는 단순 리마인더를 넘어 행동 기반 트리거 지원",
+      "개인화 인센티브 및 멀티채널 전략으로 전환율 향상 가능",
+      "이커머스 운영자에게 고객 생애가치 증대 기회 제공"
     ],
     "tags": [
-      "agentic-marketing",
-      "ai-native-ads",
-      "ecommerce-tools",
-      "warehouse-automation",
-      "drone-delivery"
+      "cart-abandonment",
+      "ecommerce-automation",
+      "personalization",
+      "conversion-optimization"
     ],
-    "confidence": 0.7,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "confidence": 0.65,
+    "strategic_theme": "AI_COMMERCE",
     "regions": [
       "GLOBAL"
     ],
@@ -135,15 +313,15 @@
     "key_entities": [
       "Practical Ecommerce"
     ],
-    "one_line_insight_ko": "에이전틱 마케팅과 AI 네이티브 광고 툴의 동시 등장은 D2C 운영 자동화의 임계점이 도래했음을 시사한다.",
-    "one_line_insight_en": "The simultaneous launch of agentic marketing and AI-native ad tools marks a tipping point in D2C operational automation.",
+    "one_line_insight_ko": "2026년 장바구니 복구 자동화는 행동 기반 개인화로 진화하여 D2C 전환율 개선의 핵심 레버가 되고 있다.",
+    "one_line_insight_en": "Cart recovery automation has evolved into behavior-driven personalization, making it a critical lever for D2C conversion improvement in 2026.",
     "ai_processed": true
   },
   {
-    "title": "Bed Bath & Beyond Inc. changes corporate name again, relocates headquarters",
-    "link": "https://www.retaildive.com/news/bed-bath-beyond-corporate-name-neighborhood-intelligence-headquarters-second-quarter-earnings/827083/",
-    "date_published": "2026-08-05",
-    "description": "The rebrand to Neighborhood Intelligence underscores the company’s ambitions to move beyond retail and into home services.",
+    "title": "Claire’s revamps iconic piercing experience",
+    "link": "https://www.retaildive.com/news/claires-revamps-in-store-piercing-experience/826321/",
+    "date_published": "2026-08-06",
+    "description": "The retailer is rolling out updated training, store displays, earrings and more as part of broader upgrades to its store service.",
     "source_id": "retail_dive",
     "source_name": "Retail Dive",
     "source_url": "https://www.retaildive.com/feeds/news/",
@@ -151,188 +329,91 @@
       "commerce",
       "strategy"
     ],
-    "relevance_score": 0.55,
+    "relevance_score": 0.4,
     "relevance_label": "high",
-    "title_en": "Bed Bath & Beyond Rebrands as 'Neighborhood Intelligence,' Pivots from Retail to Home Services",
-    "summary_ko": "베드 배스 앤 비욘드가 사명을 '네이버후드 인텔리전스(Neighborhood Intelligence)'로 변경하고 본사를 이전하며 리테일을 넘어 홈 서비스 영역으로의 전환을 공식화했다. 이 리브랜딩은 회사가 데이터 및 인텔리전스 기반 사업 모델로의 근본적인 변신을 추구하고 있음을 반영한다. 한때 미국 최대 홈 리테일러 중 하나였던 이 회사의 대대적인 방향 전환은 전통 리테일의 구조적 위기를 상징적으로 보여준다.",
-    "summary_en": "Bed Bath & Beyond has rebranded as 'Neighborhood Intelligence' and relocated its headquarters, formally signaling a strategic pivot away from traditional retail toward home services. The new name reflects the company's ambition to build a data and intelligence-driven business model. This transformation underscores the structural challenges facing legacy retailers and their search for new identity and revenue streams.",
-    "so_what_ko": "전통 리테일 브랜드의 '인텔리전스' 기반 사업 전환 사례는 LG D2C가 제품 판매를 넘어 홈 서비스 및 데이터 기반 가치 제공으로 포지셔닝을 확장할 필요성을 재확인시킨다.",
-    "so_what_en": "This pivot reinforces the strategic imperative for LG D2C to evolve beyond product sales toward intelligence-driven home services, leveraging its connected device ecosystem.",
+    "title_en": "Claire's Revamps In-Store Piercing Experience with Updated Training and Displays",
+    "summary_ko": "클레어스(Claire's)가 매장 내 피어싱 서비스를 전면 개편하며 직원 교육, 매장 디스플레이, 귀걸이 라인업 등을 업그레이드하고 있다. 이번 개편은 단순 상품 판매를 넘어 체험형 서비스를 강화하는 리테일 전략의 일환이다. 브랜드 아이덴티티와 연결된 시그니처 서비스 경험을 통해 고객 충성도 제고를 노린다.",
+    "summary_en": "Claire's is rolling out a comprehensive revamp of its iconic in-store piercing experience, including updated staff training, store displays, and earring offerings. The initiative is part of broader upgrades aimed at enhancing the retailer's experiential service proposition beyond simple product sales. By investing in a signature branded service experience, Claire's seeks to strengthen customer loyalty and differentiation.",
+    "so_what_ko": "오프라인 체험 서비스를 브랜드 차별화 수단으로 활용하는 전략은 LG D2C가 프리미엄 제품 체험 공간이나 서비스 터치포인트 설계 시 참고할 수 있는 사례다.",
+    "so_what_en": "Claire's experiential service strategy offers a reference point for LG D2C in designing premium product experience spaces and differentiated service touchpoints that reinforce brand identity.",
     "key_points": [
-      "베드 배스 앤 비욘드, '네이버후드 인텔리전스'로 사명 변경 및 본사 이전",
-      "리테일 사업을 넘어 홈 서비스 영역으로의 전략적 전환 공식화",
-      "데이터 및 인텔리전스 기반 비즈니스 모델로의 근본적 변신 추구"
+      "클레어스, 매장 피어싱 서비스 전면 개편으로 체험형 리테일 강화",
+      "직원 교육·디스플레이·상품 라인업 동시 업그레이드",
+      "시그니처 서비스 경험을 통한 브랜드 차별화 및 고객 충성도 제고"
     ],
     "tags": [
-      "retail-transformation",
-      "rebranding",
-      "home-services",
-      "legacy-retail",
-      "business-pivot"
+      "retail-experience",
+      "in-store-service",
+      "brand-differentiation",
+      "customer-loyalty"
     ],
-    "confidence": 0.8,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Bed Bath & Beyond",
-      "Neighborhood Intelligence"
-    ],
-    "one_line_insight_ko": "전통 리테일의 '인텔리전스' 기업으로의 전환은 홈 생태계 데이터를 보유한 LG에게 차별화 기회를 시사한다.",
-    "one_line_insight_en": "The transformation of a legacy retailer into an 'intelligence' company highlights the competitive opportunity for LG to leverage its connected home ecosystem data.",
-    "ai_processed": true
-  },
-  {
-    "title": "Best Buy picks Nordstrom alum for CFO",
-    "link": "https://www.retaildive.com/news/best-buy-picks-nordstrom-alum-for-cfo/827051/",
-    "date_published": "2026-08-05",
-    "description": "Anne Bramman succeeds Matt Bilunas, who left the retailer last month after serving as its finance chief for seven years.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.3,
-    "relevance_label": "high",
-    "title_en": "Best Buy Appoints Nordstrom Veteran Anne Bramman as New CFO",
-    "summary_ko": "베스트 바이가 노드스트롬 출신의 앤 브라맨(Anne Bramman)을 새 CFO로 선임하며 7년간 재직한 맷 빌루나스의 후임을 확정했다. 브라맨은 고급 리테일 재무 경험을 바탕으로 베스트 바이의 재무 전략을 이끌게 된다. 이번 인사는 베스트 바이가 AI 및 디지털 전환 투자를 지속하는 가운데 이루어진 리더십 교체다.",
-    "summary_en": "Best Buy has appointed Anne Bramman, a veteran from Nordstrom, as its new Chief Financial Officer, succeeding Matt Bilunas who departed last month after seven years in the role. Bramman brings premium retail finance experience to Best Buy as the company continues its AI and digital transformation investments. The leadership change occurs at a critical period for the consumer electronics retailer.",
-    "so_what_ko": "베스트 바이의 CFO 교체는 단기적으로 LG D2C 파트너십 전략이나 유통 협상에 직접적인 영향을 미칠 가능성은 낮으나, 베스트 바이의 재무 전략 방향성 변화를 모니터링할 필요가 있다.",
-    "so_what_en": "While the CFO change at Best Buy is unlikely to immediately impact LG's D2C partnerships, it warrants monitoring for any shifts in Best Buy's financial strategy and investment priorities.",
-    "key_points": [
-      "앤 브라맨(노드스트롬 출신)이 베스트 바이 신임 CFO로 선임",
-      "맷 빌루나스는 7년 재직 후 지난달 퇴임",
-      "AI 및 디지털 전환 투자 지속 중 단행된 리더십 교체"
-    ],
-    "tags": [
-      "best-buy",
-      "cfo-appointment",
-      "retail-leadership",
-      "consumer-electronics"
-    ],
-    "confidence": 0.9,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Best Buy",
-      "Anne Bramman",
-      "Nordstrom",
-      "Matt Bilunas"
-    ],
-    "one_line_insight_ko": "베스트 바이의 CFO 교체는 LG의 주요 유통 파트너 재무 전략 변화 가능성을 점검하는 계기가 된다.",
-    "one_line_insight_en": "Best Buy's CFO transition is a cue for LG to reassess potential shifts in its key retail partner's financial priorities and investment direction.",
-    "ai_processed": true
-  },
-  {
-    "title": "ShipBob adds Claude-integrated AI to in-house fulfillment tech suite",
-    "link": "https://www.digitalcommerce360.com/2026/08/05/shipbob-adds-claude-integrated-ai-to-in-house-fulfillment-tech-suite/",
-    "date_published": "2026-08-05",
-    "description": "Global supply chain and fulfillment platform ShipBob has introduced an artificial intelligence (AI) suite to connect to merchants’ live operations using either its agent, Bobby, or Anthropic’s Claude. ShipBob said it has built its fulfillment technology stack internally. That stack can now “bring an end-to-end AI layer across its entire operations,” the company said in […]\nThe post ShipBob adds Claude-integrated AI to in-house fulfillment tech suite appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
-    "categories": [
-      "commerce",
-      "agentic_commerce"
-    ],
-    "relevance_score": 0.82,
-    "relevance_label": "high",
-    "title_en": "ShipBob Integrates Anthropic's Claude into AI Fulfillment Suite with Agent 'Bobby'",
-    "summary_ko": "글로벌 풀필먼트 플랫폼 ShipBob이 자체 개발한 기술 스택에 AI 레이어를 추가하며, Anthropic의 Claude 또는 자체 AI 에이전트 'Bobby'를 통해 판매자의 실시간 운영에 연결되는 AI 스위트를 출시했다. ShipBob은 자체 구축한 풀필먼트 기술 스택 전반에 걸쳐 엔드투엔드 AI 레이어를 제공한다고 밝혔다. 이번 AI 통합은 공급망 운영의 지능화를 통해 D2C 판매자들의 물류 효율성을 높이는 것을 목표로 한다.",
-    "summary_en": "ShipBob, the global supply chain and fulfillment platform, has launched an AI suite that connects to merchants' live operations via either its proprietary agent 'Bobby' or Anthropic's Claude. The company built its fulfillment technology stack entirely in-house and is now layering end-to-end AI capabilities across its entire operations. This integration aims to improve logistics efficiency and real-time decision-making for D2C merchants.",
-    "so_what_ko": "LG D2C 조직은 풀필먼트 파트너 선정 시 Claude 등 LLM 기반 AI 에이전트 통합 역량을 핵심 평가 기준으로 고려해야 하며, 실시간 공급망 자동화를 통한 운영 효율화 기회를 탐색해야 한다.",
-    "so_what_en": "LG D2C should evaluate fulfillment partners based on their AI agent integration capabilities, and explore how real-time supply chain automation can reduce operational overhead and improve order accuracy.",
-    "key_points": [
-      "ShipBob은 자체 AI 에이전트 'Bobby'와 Anthropic Claude를 모두 지원하는 이중 AI 전략 채택",
-      "풀필먼트 기술 스택을 자체 개발하여 엔드투엔드 AI 레이어 구현 가능",
-      "판매자의 실시간 운영 데이터에 AI가 직접 연결되는 구조로 의사결정 자동화 기대"
-    ],
-    "tags": [
-      "fulfillment-ai",
-      "ai-agent",
-      "supply-chain",
-      "claude",
-      "d2c-logistics"
-    ],
-    "confidence": 0.75,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "GLOBAL",
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "ShipBob",
-      "Anthropic",
-      "Claude",
-      "Bobby"
-    ],
-    "one_line_insight_ko": "AI 에이전트가 풀필먼트 운영 전반에 통합되면서 D2C 물류 자동화가 새로운 표준으로 부상하고 있다.",
-    "one_line_insight_en": "AI agents embedded in fulfillment operations are setting a new standard for D2C logistics automation.",
-    "ai_processed": true
-  },
-  {
-    "title": "Kohl’s debuts Gemini-powered AI assistant in time for back-to-school shopping",
-    "link": "https://www.digitalcommerce360.com/2026/08/05/kohls-google-gemini-ai-assistant-back-to-school-shopping/",
-    "date_published": "2026-08-05",
-    "description": "Kohl’s unveiled its latest artificial intelligence (AI) tool, urging back-to-school shoppers to give the technology a try for school supplies recommendations and other use cases. The Kohl’s AI assistant, which was built using Google Cloud’s Gemini Enterprise for Customer Experience, according to the retailer, follows the retailer’s Mother’s Day Gift Finder as the company looks […]\nThe post Kohl’s debuts Gemini-powered AI assistant in time for back-to-school shopping appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
-    "categories": [
-      "commerce",
-      "ai_marketing"
-    ],
-    "relevance_score": 0.88,
-    "relevance_label": "high",
-    "title_en": "Kohl's Launches Gemini-Powered AI Shopping Assistant for Back-to-School Season",
-    "summary_ko": "Kohl's가 Google Cloud의 Gemini Enterprise for Customer Experience를 활용해 구축한 AI 쇼핑 어시스턴트를 백투스쿨 시즌에 맞춰 공개했다. 이 AI 어시스턴트는 학용품 추천 등 다양한 쇼핑 지원 기능을 제공하며, 앞서 선보인 마더스데이 선물 추천 기능의 연장선상에 있다. Kohl's는 AI를 통해 고객의 쇼핑 경험을 개인화하고 시즌별 특화 마케팅을 강화하는 전략을 지속적으로 추진하고 있다.",
-    "summary_en": "Kohl's has unveiled an AI-powered shopping assistant built on Google Cloud's Gemini Enterprise for Customer Experience, timed to the back-to-school shopping season. The assistant offers product recommendations for school supplies and other use cases, building on the retailer's earlier Mother's Day Gift Finder tool. This move reflects Kohl's ongoing strategy to leverage AI for personalized, occasion-driven customer engagement.",
-    "so_what_ko": "LG D2C는 주요 쇼핑 시즌에 맞춘 AI 기반 상황별 쇼핑 어시스턴트 도입을 검토해야 하며, Google Gemini 등 엔터프라이즈 AI 플랫폼을 활용한 고객 경험 개인화 전략을 가속화할 필요가 있다.",
-    "so_what_en": "LG D2C should consider deploying occasion-specific AI shopping assistants tied to seasonal campaigns, leveraging enterprise AI platforms like Gemini to deliver personalized customer experiences at scale.",
-    "key_points": [
-      "Google Cloud Gemini Enterprise for Customer Experience 기반으로 구축된 리테일 AI 어시스턴트",
-      "백투스쿨 시즌 학용품 추천 등 시즌별 특화 유스케이스 제공",
-      "마더스데이 선물 추천에 이은 연속적인 AI 쇼핑 지원 기능 확장 전략"
-    ],
-    "tags": [
-      "conversational-ai",
-      "retail-ai",
-      "gemini",
-      "personalization",
-      "seasonal-marketing"
-    ],
-    "confidence": 0.8,
+    "confidence": 0.7,
     "strategic_theme": "CUSTOMER_EXPERIENCE",
     "regions": [
       "AMER"
     ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
     "key_entities": [
-      "Kohl's",
-      "Google Cloud",
-      "Gemini"
+      "Claire's"
     ],
-    "one_line_insight_ko": "주요 소매업체들이 시즌별 AI 쇼핑 어시스턴트를 통해 고객 접점을 개인화하며 AI 기반 커머스의 새 기준을 제시하고 있다.",
-    "one_line_insight_en": "Major retailers are setting a new benchmark for AI commerce by deploying season-specific AI assistants that personalize customer touchpoints at scale.",
+    "one_line_insight_ko": "클레어스의 체험 서비스 혁신은 오프라인 리테일에서 시그니처 경험이 브랜드 차별화의 핵심 자산이 될 수 있음을 보여준다.",
+    "one_line_insight_en": "Claire's experiential revamp demonstrates that signature in-store service can become a core brand differentiator in physical retail.",
     "ai_processed": true
   },
   {
-    "title": "Wayfair credits Perigold, AI with driving momentum",
-    "link": "https://www.digitalcommerce360.com/2026/08/05/wayfair-perigold-ai-q2-fy26/",
-    "date_published": "2026-08-05",
-    "description": "Wayfair CEO Niraj Shah credited the retailer’s Perigold luxury banner and how it applies artificial intelligence (AI) with helping to drive the company’s momentum as revenue grew in its fiscal Q2. Wayfair launched the Perigold brand in 2017 as a way to target high-income households in the U.S., Shah shared on the retailer’s Q2 earnings […]\nThe post Wayfair credits Perigold, AI with driving momentum appeared first on Digital Commerce 360.",
+    "title": "How Shopify is approaching agentic AI so far in 2026",
+    "link": "https://www.digitalcommerce360.com/2026/08/06/how-shopify-is-approaching-agentic-ai-2026/",
+    "date_published": "2026-08-06",
+    "description": "On Shopify’s Q2 earnings call with analysts, president Harley Finkelstein said the ecommerce platform and its ecosystem are “well-suited to this agentic era” of artificial intelligence (AI). Finkelstein said Shopify has been investing in the search index for about two years. It has been going through 20 years of commerce data from more than 1 […]\nThe post How Shopify is approaching agentic AI so far in 2026 appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
+    "categories": [
+      "commerce",
+      "agentic_commerce",
+      "tech"
+    ],
+    "relevance_score": 0.95,
+    "relevance_label": "high",
+    "title_en": "Shopify Bets on Agentic AI Infrastructure Built on 20 Years of Commerce Data",
+    "summary_ko": "Shopify 사장 Harley Finkelstein은 Q2 실적 발표에서 자사 플랫폼과 생태계가 'AI 에이전트 시대'에 최적화되어 있다고 강조했다. Shopify는 약 2년간 검색 인덱스에 투자해 왔으며, 100만 개 이상 판매자의 20년치 커머스 데이터를 학습에 활용하고 있다. 이 방대한 데이터 자산이 에이전틱 AI 기반 커머스 인프라 구축의 핵심 경쟁력으로 부상하고 있다.",
+    "summary_en": "Shopify president Harley Finkelstein declared on the Q2 earnings call that the platform and its ecosystem are 'well-suited to this agentic era' of AI. The company has been investing in its search index for approximately two years, leveraging 20 years of commerce data from over one million merchants. This vast proprietary data asset is emerging as the cornerstone of Shopify's agentic AI commerce infrastructure.",
+    "so_what_ko": "Shopify의 에이전틱 AI 전략은 LG D2C가 자사 고객 및 거래 데이터를 AI 에이전트 기반 커머스 역량 강화에 전략적으로 활용해야 함을 시사한다.",
+    "so_what_en": "Shopify's agentic AI strategy signals that LG D2C must strategically leverage its own customer and transaction data to build competitive AI agent-powered commerce capabilities.",
+    "key_points": [
+      "Shopify, 에이전틱 AI 시대에 최적화된 플랫폼임을 공개 선언",
+      "20년간 100만+ 판매자 데이터를 기반으로 한 AI 검색 인덱스 구축 중",
+      "독점 커머스 데이터 자산이 에이전틱 AI 경쟁력의 핵심으로 부상",
+      "Q2 실적 발표에서 AI 에이전트 투자 전략 구체화"
+    ],
+    "tags": [
+      "agentic-ai",
+      "shopify",
+      "ecommerce-platform",
+      "ai-commerce",
+      "data-strategy"
+    ],
+    "confidence": 0.85,
+    "strategic_theme": "AGENTIC_COMMERCE",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "Shopify",
+      "Harley Finkelstein"
+    ],
+    "one_line_insight_ko": "Shopify가 20년치 커머스 데이터로 에이전틱 AI 인프라를 구축하며 플랫폼 생태계 주도권을 선점하고 있어 LG D2C의 독립적 AI 역량 확보가 시급하다.",
+    "one_line_insight_en": "Shopify's agentic AI push—anchored in 20 years of commerce data—is rapidly consolidating platform dominance, making independent AI capability-building urgent for LG D2C.",
+    "ai_processed": true
+  },
+  {
+    "title": "Ecommerce Trends: What online shoppers said will matter in 2026 holiday survey results",
+    "link": "https://www.digitalcommerce360.com/2026/08/06/ecommerce-trends-what-online-shoppers-said-will-matter-in-2026-holiday-survey-results/",
+    "date_published": "2026-08-06",
+    "description": "New survey results show that retailers are not the only ones preparing for the 2026 holiday season. Online shoppers are thinking ahead — and their answers about how and when they expect to shop have implications for merchants. Digital Commerce 360 and Bizrate Insights surveyed 1,018 online shoppers in July, asking them about how much […]\nThe post Ecommerce Trends: What online shoppers said will matter in 2026 holiday survey results appeared first on Digital Commerce 360.",
     "source_id": "digital_commerce_360",
     "source_name": "Digital Commerce 360",
     "source_url": "https://www.digitalcommerce360.com/feed",
@@ -340,119 +421,74 @@
       "commerce",
       "strategy"
     ],
-    "relevance_score": 0.8,
+    "relevance_score": 0.7,
     "relevance_label": "high",
-    "title_en": "Wayfair Credits Perigold Luxury Brand and AI Capabilities for Q2 Revenue Growth",
-    "summary_ko": "Wayfair CEO Niraj Shah는 2026 회계연도 2분기 실적 발표에서 럭셔리 브랜드 Perigold와 AI 활용이 회사의 성장 모멘텀을 이끄는 핵심 요인이라고 밝혔다. 2017년 고소득 가구를 타깃으로 론칭된 Perigold는 AI와 결합되어 차별화된 프리미엄 고객 경험을 제공하고 있다. 이번 실적 발표는 AI가 단순 비용 절감이 아닌 매출 성장 동력으로 작동하고 있음을 보여주는 사례로 주목된다.",
-    "summary_en": "Wayfair CEO Niraj Shah highlighted the company's Perigold luxury banner and its AI applications as key drivers of momentum during the Q2 FY26 earnings call, where revenue grew. Perigold, launched in 2017 to target high-income U.S. households, is being enhanced by AI to deliver premium customer experiences. This signals that AI is functioning as a revenue growth driver, not just a cost-reduction tool, at Wayfair.",
-    "so_what_ko": "LG D2C는 프리미엄 고객 세그먼트를 위한 AI 기반 차별화 경험 설계에 투자하고, AI가 실제 매출 성장에 기여하는 구체적인 활용 사례를 발굴해야 한다.",
-    "so_what_en": "LG D2C should invest in AI-powered differentiated experiences for premium customer segments and identify concrete use cases where AI directly contributes to top-line revenue growth rather than cost savings alone.",
+    "title_en": "2026 Holiday Ecommerce Survey: What Online Shoppers Expect This Season",
+    "summary_ko": "Digital Commerce 360과 Bizrate Insights가 2026년 7월 온라인 쇼핑객 1,018명을 대상으로 홀리데이 시즌 쇼핑 계획을 조사한 결과를 발표했다. 소비자들은 이미 2026년 홀리데이 시즌을 앞두고 쇼핑 시기와 방식을 구체적으로 계획하고 있는 것으로 나타났다. 이 설문 결과는 온라인 리테일러들이 홀리데이 전략을 수립하는 데 중요한 소비자 인사이트를 제공한다.",
+    "summary_en": "Digital Commerce 360 and Bizrate Insights surveyed 1,018 online shoppers in July 2026, revealing consumer expectations and plans for the upcoming holiday shopping season. The results show that shoppers are actively thinking ahead, with clear preferences around timing and shopping methods that carry significant implications for merchants. The survey data provides actionable consumer insights for online retailers refining their 2026 holiday strategies.",
+    "so_what_ko": "LG D2C는 이번 소비자 설문 인사이트를 바탕으로 홀리데이 시즌 프로모션 타이밍, 채널 믹스, 재고 전략을 선제적으로 최적화해야 한다.",
+    "so_what_en": "LG D2C should leverage these consumer survey insights to proactively optimize holiday season promotion timing, channel mix, and inventory strategy ahead of peak demand.",
     "key_points": [
-      "Wayfair Q2 FY26 실적에서 Perigold 럭셔리 브랜드와 AI가 핵심 성장 동력으로 언급",
-      "AI가 비용 절감을 넘어 매출 성장 촉진제로 기능하고 있음을 경영진이 직접 확인",
-      "고소득 타깃 럭셔리 이커머스에서 AI 활용이 프리미엄 경험 차별화에 기여"
+      "1,018명 온라인 쇼핑객 대상 2026 홀리데이 시즌 쇼핑 행동 조사 실시",
+      "소비자들이 홀리데이 시즌 쇼핑 시기와 방식을 사전에 계획하는 경향 확인",
+      "리테일러들의 홀리데이 전략 수립에 활용 가능한 소비자 데이터 제공"
     ],
     "tags": [
-      "luxury-ecommerce",
-      "ai-revenue-growth",
-      "retail-ai",
-      "premium-segment",
-      "wayfair"
+      "holiday-shopping",
+      "consumer-survey",
+      "ecommerce-trends",
+      "retail-strategy"
     ],
-    "confidence": 0.72,
+    "confidence": 0.75,
     "strategic_theme": "RETAIL_TRANSFORMATION",
     "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Wayfair",
-      "Perigold",
-      "Niraj Shah"
-    ],
-    "one_line_insight_ko": "AI가 럭셔리 이커머스 성장의 핵심 동력으로 부상하면서, 프리미엄 고객 경험에 대한 AI 투자가 실질적인 매출 성장으로 이어지고 있다.",
-    "one_line_insight_en": "AI is emerging as a core revenue driver in luxury e-commerce, with targeted AI investments in premium customer experiences translating directly into top-line growth.",
-    "ai_processed": true
-  },
-  {
-    "title": "How AI Is Rewriting the Content Activation Playbook",
-    "link": "https://www.marketingaiinstitute.com/blog/podcast-ai-rewriting-content-activation-playbook",
-    "date_published": "2026-08-05",
-    "description": "Anyone who's worked in content marketing has heard some version of the 80/20 rule: 20% of the work is creating the asset, 80% is activating it.",
-    "source_id": "marketing_ai_institute",
-    "source_name": "Marketing AI Institute",
-    "source_url": "https://www.marketingaiinstitute.com/blog/rss.xml",
-    "categories": [
-      "marketing",
-      "ai_marketing"
-    ],
-    "relevance_score": 0.78,
-    "relevance_label": "high",
-    "title_en": "AI Is Rewriting the Content Activation Playbook, Flipping the 80/20 Rule",
-    "summary_ko": "콘텐츠 마케팅의 오래된 법칙인 '80/20 규칙'—콘텐츠 제작에 20%, 활성화에 80%의 노력이 소요된다는 원칙—이 AI의 등장으로 근본적으로 재편되고 있다. AI는 콘텐츠 활성화 방식을 자동화하고 확장함으로써 마케터들이 보다 전략적인 업무에 집중할 수 있도록 지원하고 있다. 이는 콘텐츠 마케팅 조직의 역할과 업무 방식 전반에 걸친 구조적 변화를 예고한다.",
-    "summary_en": "The longstanding 80/20 rule of content marketing—where 20% of effort goes to creation and 80% to activation—is being fundamentally disrupted by AI. AI tools are automating and scaling content activation processes, freeing marketers to focus on higher-value strategic work. This shift signals a structural transformation in how content marketing teams operate and measure impact.",
-    "so_what_ko": "LG D2C 마케팅 팀은 AI 기반 콘텐츠 활성화 도구를 도입해 캠페인 배포와 채널 최적화를 자동화하고, 마케터들이 전략 기획과 창의적 업무에 더 많은 시간을 투자할 수 있는 구조로 전환해야 한다.",
-    "so_what_en": "LG D2C marketing teams should adopt AI-powered content activation tools to automate campaign distribution and channel optimization, reallocating human effort toward strategy and creative direction.",
-    "key_points": [
-      "콘텐츠 마케팅의 '80/20 규칙'이 AI 도입으로 근본적으로 변화하고 있음",
-      "AI가 콘텐츠 활성화의 자동화와 확장을 가능케 하여 마케터의 역할 재정의",
-      "콘텐츠 마케팅 조직의 업무 구조 및 성과 측정 방식에 전반적인 변화 예고"
-    ],
-    "tags": [
-      "content-marketing",
-      "ai-automation",
-      "content-activation",
-      "marketing-strategy"
-    ],
-    "confidence": 0.65,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
+      "AMER",
       "GLOBAL"
     ],
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Marketing AI Institute"
+      "Digital Commerce 360",
+      "Bizrate Insights"
     ],
-    "one_line_insight_ko": "AI가 콘텐츠 활성화의 80%를 자동화하면서, 마케터의 핵심 역할이 실행에서 전략과 창의로 이동하고 있다.",
-    "one_line_insight_en": "As AI automates the 80% of content activation work, marketers' core value is shifting from execution to strategy and creative thinking.",
+    "one_line_insight_ko": "2026년 홀리데이 시즌 소비자들은 이미 구매 시기와 방식을 계획 중이며, D2C 브랜드는 선제적 데이터 기반 전략으로 대응해야 한다.",
+    "one_line_insight_en": "With 2026 holiday shoppers already planning their purchase timing and channels, D2C brands must respond with proactive, data-driven seasonal strategies.",
     "ai_processed": true
   },
   {
-    "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-    "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
-    "date_published": "2026-08-05",
-    "description": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+    "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+    "date_published": "2026-08-06",
+    "description": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
+    "source_id": "techcrunch_commerce",
+    "source_name": "TechCrunch Commerce",
+    "source_url": "https://techcrunch.com/category/commerce/feed",
     "categories": [
       "commerce",
-      "ai_marketing",
-      "agentic_commerce"
+      "ai_marketing"
     ],
-    "relevance_score": 0.9,
+    "relevance_score": 0.92,
     "relevance_label": "high",
-    "title_en": "Klaviyo Acquires Elias Torres' AI Agency, Appoints Him CPO to Lead AI Agents",
-    "summary_ko": "이커머스 마케팅 자동화 플랫폼 Klaviyo가 연쇄 창업가 Elias Torres의 AI 에이전시를 인수하고, 그를 최고제품책임자(CPO)로 임명해 AI 에이전트 개발을 이끌게 했다. 이번 인수는 Klaviyo가 AI 에이전트 역량을 핵심 제품 전략으로 격상시키는 신호로 해석된다. Torres는 마케팅 자동화 분야의 대표적인 기술 창업가로, 이번 합류로 Klaviyo의 AI 에이전트 개발에 강력한 추진력이 더해질 전망이다.",
-    "summary_en": "E-commerce marketing automation platform Klaviyo has acquired the AI agency founded by serial entrepreneur Elias Torres, appointing him as Chief Product Officer to lead its AI agents initiative. The acquisition signals Klaviyo's strategic elevation of AI agent capabilities as a core product priority. Torres, a well-known figure in the marketing technology space, is expected to significantly accelerate Klaviyo's AI agent development.",
-    "so_what_ko": "Klaviyo의 AI 에이전트 전략 강화는 이커머스 마케팅 자동화 경쟁이 AI 에이전트 중심으로 재편되고 있음을 의미하며, LG D2C는 마케팅 자동화 플랫폼 파트너 전략을 AI 에이전트 역량 관점에서 재평가해야 한다.",
-    "so_what_en": "Klaviyo's strategic push into AI agents signals that e-commerce marketing automation is rapidly converging around agentic AI; LG D2C should reassess its marketing automation platform partnerships through the lens of AI agent capabilities.",
+    "title_en": "Ex-Spotify Employees Raise $10M to Bring Music Recommendation AI to E-Commerce",
+    "summary_ko": "스포티파이 출신 직원들이 음악 추천 AI 기술을 이커머스에 적용하는 스타트업으로 1,000만 달러를 조달했다. 해당 플랫폼은 쇼핑객이 다음에 원하는 상품을 예측하고, 개인의 취향을 학습하며, 실시간 행동 데이터를 기반으로 지속적으로 모델을 미세 조정한다. 이는 스포티파이의 개인화 추천 엔진이 이커머스 영역으로 확장되는 움직임을 보여준다.",
+    "summary_en": "Former Spotify employees have raised $10 million to apply the AI recommendation technology behind Spotify's music discovery engine to e-commerce. The platform predicts the next product a shopper wants, builds a model of their general taste, and continuously fine-tunes itself based on real-time user behavior. This represents a significant transfer of personalization intelligence from the music streaming world to online retail.",
+    "so_what_ko": "LG D2C는 실시간 행동 기반 개인화 추천 기술 도입을 적극 검토해야 하며, 이 스타트업과의 파트너십 또는 유사 솔루션 벤치마킹을 통해 전환율과 고객 재구매율을 높일 수 있다.",
+    "so_what_en": "LG D2C should actively evaluate real-time behavioral personalization platforms like this one to improve conversion rates and repeat purchase, either through direct partnership or benchmarking similar solutions.",
     "key_points": [
-      "Klaviyo가 Elias Torres의 AI 에이전시 인수 및 CPO 임명으로 AI 에이전트 전략 본격화",
-      "이커머스 마케팅 자동화 플랫폼이 AI 에이전트를 핵심 제품 역량으로 통합하는 트렌드 가속",
-      "연쇄 창업가 출신 CPO 영입으로 Klaviyo의 AI 제품 혁신 속도 상승 기대"
+      "스포티파이 추천 AI의 핵심 기술을 이커머스 상품 추천에 적용",
+      "실시간 행동 데이터 기반 지속적 모델 미세 조정으로 정확도 향상",
+      "시드 라운드 1,000만 달러 조달로 이커머스 AI 개인화 시장 본격 진입",
+      "쇼핑객의 일반적 취향 학습 및 차기 구매 상품 예측 기능 제공"
     ],
     "tags": [
-      "ai-agent",
-      "martech-acquisition",
-      "klaviyo",
-      "ecommerce-automation",
-      "marketing-ai"
+      "ai-personalization",
+      "ecommerce-recommendation",
+      "startup",
+      "real-time-ai",
+      "d2c-tech"
     ],
-    "confidence": 0.78,
-    "strategic_theme": "AI_AGENT",
+    "confidence": 0.8,
+    "strategic_theme": "AI_PERSONALIZATION",
     "regions": [
       "GLOBAL",
       "AMER"
@@ -460,188 +496,184 @@
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Klaviyo",
-      "Elias Torres"
+      "Spotify",
+      "TechCrunch"
     ],
-    "one_line_insight_ko": "Klaviyo의 AI 에이전트 전략 강화는 이커머스 마케팅 자동화의 경쟁 축이 AI 에이전트로 이동하고 있음을 명확히 보여준다.",
-    "one_line_insight_en": "Klaviyo's aggressive AI agent push makes clear that the competitive axis of e-commerce marketing automation has decisively shifted toward agentic AI.",
+    "one_line_insight_ko": "스포티파이 추천 AI의 이커머스 전환은 D2C 개인화 경쟁의 수준을 실시간 취향 예측 단계로 끌어올리는 기술적 전환점이다.",
+    "one_line_insight_en": "Spotify's recommendation AI entering e-commerce signals a new bar for D2C personalization—real-time taste prediction that continuously self-improves.",
     "ai_processed": true
   },
   {
-    "title": "Media Briefing: The case for and against markdown for AI bots",
-    "link": "https://digiday.com/media/media-briefing-the-case-for-and-against-markdown-for-ai-bots/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "title": "Kraft Heinz pours nearly $100M more into marketing to drive turnaround",
+    "link": "https://www.marketingdive.com/news/kraft-heinz-zeroes-in-on-marketing-as-it-pours-another-100m-into-turnaroun/827183/",
     "date_published": "2026-08-06",
-    "description": "Markdown is becoming publishers’ latest AI optimization tactic, raising questions about the scraping tradeoff.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
+    "description": "Higher-impact media partnerships and stronger creative are leading to “green shoots” for its brands in the U.S., executives said.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
     "categories": [
-      "ai_marketing",
+      "marketing",
       "strategy"
     ],
-    "relevance_score": 0.65,
+    "relevance_score": 0.52,
     "relevance_label": "high",
-    "title_en": "Publishers Weigh Markdown Formatting as AI Bot Optimization Strategy",
-    "summary_ko": "퍼블리셔들이 AI 봇 최적화 전술로 마크다운 포맷 채택을 검토하고 있다. 마크다운은 AI 크롤러가 콘텐츠를 더 쉽게 파싱할 수 있도록 돕지만, 동시에 스크래핑 노출 위험을 높이는 트레이드오프가 존재한다. 이는 콘텐츠 가시성과 지적재산권 보호 사이의 긴장을 심화시키는 새로운 AIO 논쟁으로 부상하고 있다.",
-    "summary_en": "Publishers are exploring markdown formatting as a tactic to optimize their content for AI bots and large language models. While markdown makes content easier for AI crawlers to parse and index, it also increases the risk of content scraping by AI systems. This development highlights a growing tradeoff between AI visibility and intellectual property protection for digital content creators.",
-    "so_what_ko": "LG D2C 콘텐츠 팀은 AI 검색 최적화(AIO)를 위해 마크다운 기반 콘텐츠 구조화 전략을 검토해야 하며, 동시에 제품 정보 스크래핑 리스크를 평가할 필요가 있다.",
-    "so_what_en": "LG D2C content teams should evaluate markdown-based structuring for AI search optimization while assessing the risk of product content being scraped and redistributed by AI systems without attribution.",
+    "title_en": "Kraft Heinz Pours Nearly $100M More Into Marketing to Drive Turnaround",
+    "summary_ko": "크래프트 하인즈는 브랜드 회생을 위해 약 1억 달러에 달하는 추가 마케팅 투자를 단행했다. 경영진은 더 강력한 미디어 파트너십과 크리에이티브 강화가 미국 내 브랜드에 '녹색 새싹(긍정적 신호)'을 만들어 내고 있다고 밝혔다. 이번 투자는 마케팅을 핵심 성장 동력으로 삼는 전략적 방향 전환의 일환이다.",
+    "summary_en": "Kraft Heinz has committed nearly $100 million in additional marketing investment as part of its brand turnaround strategy. Executives reported that higher-impact media partnerships and stronger creative executions are producing 'green shoots' for its U.S. brands. The move underscores marketing spend as a primary lever for reversing the company's recent struggles.",
+    "so_what_ko": "대규모 마케팅 투자와 미디어 파트너십 강화가 브랜드 반등의 핵심 동력이 될 수 있음을 시사하며, LG D2C도 단순 비용 절감보다 전략적 마케팅 투자 확대를 고려해야 한다.",
+    "so_what_en": "This case reinforces that bold marketing investment—not cost-cutting—can be the primary driver of brand recovery, a lesson LG D2C should weigh when evaluating its own marketing budget priorities.",
     "key_points": [
-      "마크다운 포맷이 AI 봇의 콘텐츠 파싱 효율을 높이는 새로운 최적화 수단으로 주목받고 있음",
-      "AI 가시성 확보와 콘텐츠 스크래핑 노출 위험 사이의 트레이드오프 존재",
-      "퍼블리셔 및 브랜드의 AI 시대 콘텐츠 전략 재정립 필요성 부각"
+      "크래프트 하인즈, 브랜드 회생 목적으로 약 1억 달러 추가 마케팅 투자 결정",
+      "고효율 미디어 파트너십 및 크리에이티브 강화가 초기 긍정 신호 창출",
+      "마케팅을 전략적 성장 핵심 축으로 재정립하는 방향 전환"
     ],
     "tags": [
-      "ai-optimization",
-      "markdown",
-      "content-strategy",
-      "ai-scraping",
-      "aio"
+      "brand-turnaround",
+      "marketing-investment",
+      "media-partnership",
+      "cpg-marketing"
     ],
-    "confidence": 0.6,
+    "confidence": 0.75,
     "strategic_theme": "AI_MARKETING",
     "regions": [
-      "GLOBAL"
+      "AMER"
     ],
     "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
+    "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Digiday"
+      "Kraft Heinz"
     ],
-    "one_line_insight_ko": "마크다운 기반 콘텐츠 구조화는 AI 검색 노출을 높이지만, 스크래핑 리스크라는 새로운 딜레마를 동반한다.",
-    "one_line_insight_en": "Markdown formatting boosts AI discoverability but introduces a new scraping dilemma that brands must navigate carefully.",
+    "one_line_insight_ko": "크래프트 하인즈의 1억 달러 마케팅 투자는 브랜드 위기 극복의 핵심 수단으로서 마케팅 지출의 전략적 가치를 재확인시켜 준다.",
+    "one_line_insight_en": "Kraft Heinz's $100M marketing commitment reaffirms that aggressive brand investment, not retrenchment, is the path to reversing a brand decline.",
     "ai_processed": true
   },
   {
-    "title": "[AINews] Jeff, Sanjay, Oriol, and Quoc depart DeepMind; Demis to Chair; Koray to SVP — what is going on at GDM???",
-    "link": "https://www.latent.space/p/ainews-jeff-sanjay-oriol-and-quoc",
+    "title": "Papa Johns changes CMOs, ramps up mass marketing amid struggles",
+    "link": "https://www.marketingdive.com/news/papa-johns-changes-cmo-role-ramps-up-mass-marketing-amid-struggles/827203/",
     "date_published": "2026-08-06",
-    "description": "The end of an era.",
-    "source_id": "latent_space",
-    "source_name": "Latent Space (The AI Index)",
-    "source_url": "https://www.latent.space/feed",
+    "description": "CMO Jenna Bromberg will depart as the chain appoints a global marketer and plans to rebalance its media mix and continue to invest in marketing co-ops.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
     "categories": [
-      "tech",
+      "marketing",
       "strategy"
     ],
-    "relevance_score": 0.35,
+    "relevance_score": 0.42,
     "relevance_label": "high",
-    "title_en": "Key Leadership Departures Shake Google DeepMind as Demis Hassabis Moves to Chair Role",
-    "summary_ko": "구글 딥마인드에서 Jeff Dean, Sanjay Ghemawat, Oriol Vinyals, Quoc Le 등 핵심 연구 리더들이 대거 이탈하는 조직 격변이 발생했다. Demis Hassabis는 CEO에서 의장직으로 이동하고 Koray Kavukcuoglu가 SVP로 승진하는 등 리더십 구조가 재편되고 있다. 이는 AI 업계에서 가장 영향력 있는 연구 조직 중 하나인 딥마인드의 전략적 방향 전환을 시사하는 중요한 변화로 평가된다.",
-    "summary_en": "Google DeepMind is experiencing a significant leadership upheaval with the departure of several founding-era researchers including Jeff Dean, Sanjay Ghemawat, Oriol Vinyals, and Quoc Le. Demis Hassabis is transitioning to a Chair role while Koray Kavukcuoglu is being elevated to SVP, signaling a structural reorganization. This marks a potential end-of-era shift for one of the most influential AI research organizations in the world.",
-    "so_what_ko": "딥마인드의 리더십 재편은 구글 AI 전략의 방향 전환을 예고할 수 있으며, LG는 Google AI 파트너십 및 기술 로드맵에 미치는 영향을 모니터링해야 한다.",
-    "so_what_en": "LG should monitor how DeepMind's leadership reshuffle may affect Google's AI product roadmap and any existing or planned partnerships with Google AI technologies.",
+    "title_en": "Papa Johns Changes CMO and Ramps Up Mass Marketing Amid Business Struggles",
+    "summary_ko": "파파존스는 CMO 제나 브롬버그의 퇴임과 함께 글로벌 마케터를 새로 선임하며 대규모 리더십 교체를 단행했다. 브랜드는 미디어 믹스를 재조정하고 마케팅 협동조합에 대한 투자를 지속하는 방향으로 전략을 전환하고 있다. 이는 브랜드 부진을 타개하기 위한 대중 마케팅 강화 전략의 일환이다.",
+    "summary_en": "Papa Johns is replacing CMO Jenna Bromberg with a global marketer as part of a broader strategic shift amid ongoing business struggles. The chain plans to rebalance its media mix and continue investing in marketing co-ops to broaden its reach. The leadership change signals a pivot toward mass marketing to reverse declining performance.",
+    "so_what_ko": "CMO 교체와 대중 마케팅 강화는 성과 부진 시 마케팅 리더십과 채널 전략의 신속한 재조정이 얼마나 중요한지를 보여주며, LG D2C도 채널 믹스 최적화와 리더십 민첩성을 점검해야 한다.",
+    "so_what_en": "Papa Johns' swift CMO replacement and media mix rebalancing highlight the importance of agile marketing leadership and channel optimization when performance falters—a reminder for LG D2C to maintain strategic flexibility.",
     "key_points": [
-      "Jeff Dean, Sanjay Ghemawat, Oriol Vinyals, Quoc Le 등 딥마인드 핵심 연구진 동시 이탈",
-      "Demis Hassabis CEO → 의장 전환, Koray Kavukcuoglu SVP 승진으로 리더십 구조 재편",
-      "AI 업계 최고 연구기관 중 하나의 세대 교체로 향후 연구 방향성 변화 가능성"
+      "CMO 제나 브롬버그 퇴임, 글로벌 마케터 신규 선임",
+      "미디어 믹스 재조정 및 마케팅 협동조합 투자 지속 계획",
+      "브랜드 부진 타개를 위한 대중 마케팅 전략으로 전환"
     ],
     "tags": [
-      "google-deepmind",
-      "ai-leadership",
-      "organizational-change",
-      "ai-research"
+      "cmo-change",
+      "mass-marketing",
+      "media-mix",
+      "brand-strategy"
     ],
-    "confidence": 0.7,
+    "confidence": 0.75,
     "strategic_theme": "COMPETITIVE_DYNAMICS",
     "regions": [
-      "GLOBAL"
+      "GLOBAL",
+      "AMER"
     ],
     "business_impact": "LOW",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "Google DeepMind",
-      "Demis Hassabis",
-      "Jeff Dean",
-      "Koray Kavukcuoglu",
-      "Oriol Vinyals"
+      "Papa Johns",
+      "Jenna Bromberg"
     ],
-    "one_line_insight_ko": "딥마인드의 대규모 리더십 이탈은 구글 AI 전략의 전환점을 알리는 업계 지각변동 신호다.",
-    "one_line_insight_en": "DeepMind's mass leadership exodus signals a potential strategic pivot at Google AI that could reshape the competitive AI landscape.",
+    "one_line_insight_ko": "파파존스의 CMO 교체와 대중 마케팅 전환은 브랜드 위기 시 리더십 민첩성과 채널 전략 재정비가 핵심 회복 수단임을 보여준다.",
+    "one_line_insight_en": "Papa Johns' CMO swap and mass-marketing pivot underscore that agile leadership and rapid channel rebalancing are essential tools for brand recovery.",
     "ai_processed": true
   },
   {
-    "title": "OpenAI brings product carousels to ChatGPT ads",
-    "link": "https://www.modernretail.co/marketing/openai-brings-product-carousels-to-chatgpt-ads/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "title": "Fossil ads using AI to identify target profiles earn 58.8M impressions",
+    "link": "https://www.marketingdive.com/news/fossil-ads-using-ai-to-identify-target-profiles-earn-588m-impressions/827148/",
     "date_published": "2026-08-06",
-    "description": "ChatGPT appears to be experimenting with a new ad type: a product carousel. Digiday viewed and verified screenshots of the new ad format.",
-    "source_id": "modern_retail",
-    "source_name": "Modern Retail",
-    "source_url": "https://www.modernretail.co/feed/",
+    "description": "In-flight Wi-Fi pre-roll helped to drive traffic to a virtual holiday pop-up shop as part of a campaign targeting three traveler profiles.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
     "categories": [
-      "commerce",
       "ai_marketing",
-      "agentic_commerce"
+      "marketing"
     ],
-    "relevance_score": 0.95,
+    "relevance_score": 0.82,
     "relevance_label": "high",
-    "title_en": "OpenAI Tests Product Carousels in ChatGPT as New Ad Format Emerges",
-    "summary_ko": "OpenAI가 ChatGPT 내에 상품 카루셀 형태의 새로운 광고 포맷을 실험 중인 것으로 확인됐다. Digiday가 해당 광고 포맷의 스크린샷을 직접 열람 및 검증했으며, 이는 ChatGPT의 상업화 전략이 구체화되고 있음을 보여준다. AI 대화 인터페이스 내 쇼핑 광고의 등장은 기존 검색 광고 생태계를 근본적으로 흔들 수 있는 변화로 주목된다.",
-    "summary_en": "OpenAI is experimenting with product carousel ads within ChatGPT, representing a significant step toward monetizing the AI assistant platform. Digiday viewed and verified screenshots of the new ad format, confirming the development. This marks a pivotal shift in AI-driven commerce, as conversational AI interfaces begin to directly compete with traditional search and shopping ad ecosystems.",
-    "so_what_ko": "ChatGPT 내 상품 카루셀 광고는 LG D2C팀이 AI 채널을 신규 쇼핑 광고 매체로 적극 검토해야 할 시점이 도래했음을 의미하며, AIO 및 ChatGPT 내 제품 노출 전략 수립이 시급하다.",
-    "so_what_en": "LG D2C teams must urgently develop a ChatGPT advertising strategy, including product feed optimization and carousel ad participation, as conversational AI becomes a critical new channel for product discovery and purchase intent.",
+    "title_en": "Fossil Uses AI to Identify Traveler Target Profiles, Earning 58.8M Impressions",
+    "summary_ko": "화석(Fossil)은 AI를 활용해 세 가지 여행객 타깃 프로필을 식별하고 이에 맞춘 광고 캠페인을 집행해 5,880만 회 노출을 달성했다. 기내 Wi-Fi 프리롤 광고를 활용해 가상 홀리데이 팝업 스토어로의 트래픽을 유도하는 전략을 구사했다. 이는 AI 기반 타깃 프로파일링과 혁신적인 미디어 채널의 결합이 높은 광고 효율을 창출할 수 있음을 보여준다.",
+    "summary_en": "Fossil leveraged AI to identify three distinct traveler target profiles and executed a tailored ad campaign that earned 58.8 million impressions. The campaign used in-flight Wi-Fi pre-roll ads to drive traffic to a virtual holiday pop-up shop, combining precise audience targeting with an unconventional media channel. The results demonstrate how AI-powered audience profiling paired with innovative placement can generate strong campaign performance.",
+    "so_what_ko": "LG D2C는 AI 기반 타깃 프로파일링과 비전통적 미디어 채널(예: 기내 광고)의 결합을 벤치마킹하여 특정 라이프스타일 고객층에 대한 타깃 마케팅 효율을 높일 수 있다.",
+    "so_what_en": "LG D2C can benchmark Fossil's approach of combining AI-driven audience profiling with unconventional media placements to boost targeting precision and reach high-affinity lifestyle segments more effectively.",
     "key_points": [
-      "ChatGPT 내 상품 카루셀 광고 포맷 실험 확인 — AI 플랫폼의 커머스 광고 진출 공식화",
-      "Digiday가 스크린샷 직접 열람·검증하여 신뢰도 높은 정보로 확인됨",
-      "대화형 AI 인터페이스가 전통적 쇼핑 광고 채널(구글 쇼핑 등)의 강력한 경쟁자로 부상",
-      "브랜드의 ChatGPT 내 제품 피드 관리 및 AI 광고 전략 수립 필요성 증가"
+      "AI로 세 가지 여행객 타깃 프로필 식별, 맞춤형 광고 집행",
+      "기내 Wi-Fi 프리롤 광고로 가상 팝업 스토어 트래픽 유도",
+      "캠페인 총 노출 5,880만 회 달성으로 높은 광고 효율 입증",
+      "AI 타깃 프로파일링과 혁신적 미디어 채널 결합의 시너지 효과 확인"
     ],
     "tags": [
-      "chatgpt-ads",
-      "product-carousel",
-      "ai-advertising",
-      "openai",
-      "d2c-commerce"
+      "ai-targeting",
+      "audience-profiling",
+      "digital-advertising",
+      "campaign-performance",
+      "innovative-media"
     ],
-    "confidence": 0.9,
-    "strategic_theme": "AI_COMMERCE",
+    "confidence": 0.8,
+    "strategic_theme": "AI_MARKETING",
     "regions": [
       "GLOBAL",
       "AMER"
     ],
-    "business_impact": "HIGH",
+    "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "OpenAI",
-      "ChatGPT",
-      "Digiday"
+      "Fossil"
     ],
-    "one_line_insight_ko": "ChatGPT 상품 카루셀 광고의 등장은 AI 대화 인터페이스가 쇼핑 광고의 새로운 주전장이 됨을 선언한다.",
-    "one_line_insight_en": "ChatGPT's product carousel ads signal that conversational AI is becoming the next major battleground for shopping advertising, demanding immediate D2C channel strategy adaptation.",
+    "one_line_insight_ko": "AI 기반 타깃 프로파일링과 기내 Wi-Fi 같은 비전통 채널의 결합은 정밀 타깃 마케팅의 새로운 효율 공식을 제시한다.",
+    "one_line_insight_en": "Fossil's AI-driven traveler profiling combined with in-flight Wi-Fi ads proves that pairing precise audience intelligence with unconventional placements can unlock exceptional campaign efficiency.",
     "ai_processed": true
   },
   {
-    "title": "Brand tracking tools for scaling companies",
-    "link": "https://blog.hubspot.com/marketing/brand-tracking-tools",
-    "date_published": "2026-08-05",
-    "description": "Brand tracking tools help growth marketers gauge what people say about the brand, whether it’s good or bad, and why they choose competitors, all at scale. Brand monitoring also reveals AI share of voice and what you should improve to be cited more by LLMs.",
+    "title": "HubSpot AEO vs. Scrunch: Which tool fits your workflow?",
+    "link": "https://blog.hubspot.com/marketing/hubspot-vs-scrunch",
+    "date_published": "2026-08-06",
+    "description": "If you’re evaluating answer engine optimization tools, here’s the short version: HubSpot AEO is an insight-to-execution platform that connects AI visibility data directly to your CRM and content workflows. Scrunch is a focused monitoring and benchmarking tool that excels at multi-engine tracking and competitive share-of-voice analysis.",
     "source_id": "hubspot_marketing",
     "source_name": "HubSpot Marketing Blog",
     "source_url": "https://blog.hubspot.com/marketing/rss.xml",
     "categories": [
       "ai_marketing",
-      "strategy"
+      "marketing",
+      "tech"
     ],
-    "relevance_score": 0.82,
+    "relevance_score": 0.72,
     "relevance_label": "high",
-    "title_en": "Brand Tracking Tools Help Scaling Companies Monitor AI Share of Voice and LLM Citations",
-    "summary_ko": "브랜드 트래킹 도구는 성장 단계 기업들이 자사 브랜드에 대한 소비자 인식, 경쟁사 선택 이유, 그리고 AI 모델 내 언급 점유율(AI Share of Voice)을 파악하는 데 활용된다. 특히 LLM이 소비자 구매 결정에 미치는 영향이 커지면서, ChatGPT 등 AI 엔진에서 브랜드가 얼마나 자주 인용되는지를 측정하는 기능이 핵심 지표로 부상하고 있다. 브랜드 모니터링을 통해 AI 검색 최적화(AEO) 개선 방향을 도출할 수 있다.",
-    "summary_en": "Brand tracking tools are emerging as essential instruments for growth marketers to monitor consumer sentiment, understand why customers choose competitors, and measure AI share of voice at scale. As LLMs increasingly influence purchase decisions, tracking how often and how positively a brand is cited by AI engines like ChatGPT has become a critical new KPI. These tools also help identify gaps in AI-optimized content to improve LLM citation rates.",
-    "so_what_ko": "LG D2C 마케팅팀은 기존 브랜드 모니터링 도구를 AI 점유율(AI Share of Voice) 측정 기능이 포함된 AEO 특화 도구로 업그레이드하여 LLM 내 브랜드 인지도를 관리해야 한다.",
-    "so_what_en": "LG D2C marketing teams should upgrade brand tracking capabilities to include AI share of voice metrics, enabling proactive management of how LG products are cited and recommended by AI assistants like ChatGPT and Perplexity.",
+    "title_en": "HubSpot AEO vs. Scrunch: Choosing the Right Answer Engine Optimization Tool for Your Workflow",
+    "summary_ko": "HubSpot AEO는 AI 가시성 데이터를 CRM 및 콘텐츠 워크플로우와 직접 연결하는 인사이트-실행 통합 플랫폼으로 포지셔닝된다. Scrunch는 멀티 엔진 트래킹과 경쟁 점유율 분석에 특화된 모니터링 및 벤치마킹 도구다. 두 도구는 목적과 강점이 상이하며, 사용자의 워크플로우 요구에 따라 선택이 달라진다.",
+    "summary_en": "HubSpot AEO is positioned as an insight-to-execution platform that connects AI visibility data directly to CRM and content workflows. Scrunch, by contrast, is a focused monitoring and benchmarking tool that excels at multi-engine tracking and competitive share-of-voice analysis. The two tools serve different needs, and the right choice depends on a user's specific workflow requirements and strategic priorities.",
+    "so_what_ko": "LG D2C는 AI 검색 시대에 브랜드 가시성을 확보하기 위해 AEO 도구 도입을 검토해야 하며, CRM 연동이 필요하다면 HubSpot AEO를, 경쟁 모니터링이 우선이라면 Scrunch를 우선 평가해야 한다.",
+    "so_what_en": "LG D2C should evaluate AEO tools as AI search engines reshape brand discovery—prioritizing HubSpot AEO for CRM-integrated execution or Scrunch for competitive share-of-voice monitoring depending on strategic needs.",
     "key_points": [
-      "AI Share of Voice가 LLM 시대의 새로운 브랜드 KPI로 부상",
-      "브랜드 트래킹 도구가 경쟁사 분석 및 AEO 개선 방향 도출에 활용 가능",
-      "ChatGPT 등 AI 엔진 내 브랜드 인용 빈도와 맥락 측정이 마케팅 필수 과제로 진화"
+      "HubSpot AEO: AI 가시성 데이터와 CRM·콘텐츠 워크플로우 통합에 강점",
+      "Scrunch: 멀티 엔진 트래킹 및 경쟁 점유율(Share-of-Voice) 분석에 특화",
+      "AEO(Answer Engine Optimization)가 AI 검색 시대 핵심 마케팅 역량으로 부상",
+      "두 도구의 선택은 사용자의 워크플로우 목적과 우선순위에 따라 결정"
     ],
     "tags": [
-      "brand-tracking",
-      "ai-share-of-voice",
       "aeo",
-      "llm-marketing",
-      "brand-monitoring"
+      "answer-engine-optimization",
+      "hubspot",
+      "ai-search",
+      "seo-tools"
     ],
-    "confidence": 0.75,
+    "confidence": 0.78,
     "strategic_theme": "AI_MARKETING",
     "regions": [
       "GLOBAL"
@@ -650,60 +682,11 @@
     "sentiment": "OPPORTUNITY",
     "key_entities": [
       "HubSpot",
-      "ChatGPT"
+      "HubSpot AEO",
+      "Scrunch"
     ],
-    "one_line_insight_ko": "LLM 내 브랜드 인용 점유율(AI Share of Voice)이 디지털 마케팅의 새로운 핵심 KPI로 자리잡고 있다.",
-    "one_line_insight_en": "AI share of voice in LLMs is rapidly becoming a critical new brand KPI that D2C marketers can no longer afford to ignore.",
-    "ai_processed": true
-  },
-  {
-    "title": "Scrunch vs. Peec AI: Which tool fits your AEO strategy? [2026]",
-    "link": "https://blog.hubspot.com/marketing/scrunch-vs-peec-ai",
-    "date_published": "2026-08-05",
-    "description": "If you’re comparing Scrunch versus Peec AI, you need to know your buyers are already forming opinions about your brand in answer engines like ChatGPT, Perplexity, and Google AI Mode before they ever reach your website.",
-    "source_id": "hubspot_marketing",
-    "source_name": "HubSpot Marketing Blog",
-    "source_url": "https://blog.hubspot.com/marketing/rss.xml",
-    "categories": [
-      "ai_marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.85,
-    "relevance_label": "high",
-    "title_en": "Scrunch vs. Peec AI: Comparing AEO Tools as Consumers Form Brand Opinions in Answer Engines",
-    "summary_ko": "소비자들이 ChatGPT, Perplexity, Google AI Mode 등 답변 엔진에서 브랜드에 대한 의견을 형성하는 시대가 도래함에 따라, AEO(Answer Engine Optimization) 전략 도구에 대한 관심이 높아지고 있다. Scrunch와 Peec AI는 대표적인 AEO 분석 도구로, 브랜드의 AI 엔진 내 노출 및 인용 현황을 추적·분석하는 기능을 제공한다. AEO 전략 수립을 위한 도구 선택은 브랜드의 AI 검색 가시성 확보에 직결되는 핵심 의사결정이다.",
-    "summary_en": "As consumers increasingly form brand opinions within answer engines like ChatGPT, Perplexity, and Google AI Mode before visiting websites, AEO (Answer Engine Optimization) has become a critical marketing discipline. Scrunch and Peec AI are two leading tools that help brands track and optimize their visibility and citation rates within AI-powered answer engines. Choosing the right AEO tool is now a strategic decision directly tied to a brand's AI search presence and consumer consideration.",
-    "so_what_ko": "LG D2C팀은 Scrunch, Peec AI 등 AEO 전문 도구 도입을 검토하여, 소비자가 AI 엔진에서 LG 제품을 검색할 때 긍정적으로 노출되도록 콘텐츠와 브랜드 신호를 최적화해야 한다.",
-    "so_what_en": "LG D2C teams should evaluate AEO-specific tools like Scrunch and Peec AI to systematically track and improve how LG products appear in AI answer engines, where consumers are increasingly making pre-purchase decisions.",
-    "key_points": [
-      "소비자 구매 여정의 시작점이 웹사이트 방문 이전 AI 답변 엔진으로 이동 중",
-      "Scrunch, Peec AI 등 AEO 전문 도구가 AI 내 브랜드 가시성 추적·최적화 지원",
-      "ChatGPT, Perplexity, Google AI Mode가 새로운 브랜드 접점으로 부상하여 AEO 전략 필수화",
-      "AEO 도구 선택이 AI 시대 브랜드 마케팅 전략의 핵심 인프라 결정으로 부상"
-    ],
-    "tags": [
-      "aeo",
-      "answer-engine-optimization",
-      "scrunch",
-      "peec-ai",
-      "ai-visibility"
-    ],
-    "confidence": 0.75,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Scrunch",
-      "Peec AI",
-      "ChatGPT",
-      "Perplexity",
-      "Google AI Mode"
-    ],
-    "one_line_insight_ko": "소비자 구매 의사결정이 AI 답변 엔진 안에서 시작되는 시대, AEO 도구 도입은 브랜드 생존 전략의 일부가 됐다.",
-    "one_line_insight_en": "With consumers forming brand opinions inside AI answer engines before ever visiting a website, AEO tooling is no longer optional but a foundational element of modern D2C brand strategy.",
+    "one_line_insight_ko": "AEO 도구의 부상은 AI 검색 엔진이 브랜드 발견의 새로운 전쟁터가 되었음을 의미하며, D2C 브랜드는 지금 당장 AI 가시성 전략을 수립해야 한다.",
+    "one_line_insight_en": "The emergence of AEO tools signals that AI search engines are becoming the new battleground for brand discovery, making AI visibility strategy an urgent priority for D2C brands.",
     "ai_processed": true
   }
 ]
