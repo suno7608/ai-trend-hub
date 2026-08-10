@@ -1,242 +1,9 @@
 [
   {
-    "title": "Here are the marketing skills AI is making more valuable",
-    "link": "https://martech.org/here-are-the-marketing-skills-ai-is-making-more-valuable/",
-    "date_published": "2026-08-07",
-    "description": "As AI takes on more execution, there is more need for marketers who bring judgment, strategy and the skills to direct the technology.\nThe post Here are the marketing skills AI is making more valuable appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
-    "categories": [
-      "marketing",
-      "ai_marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.85,
-    "relevance_label": "high",
-    "title_en": "AI Is Making These Marketing Skills More Valuable Than Ever",
-    "summary_ko": "AI가 마케팅 실행 업무를 자동화하면서, 판단력·전략적 사고·기술 방향 설정 능력을 갖춘 마케터의 가치가 높아지고 있다. 단순 실행보다 AI를 올바르게 지시하고 활용할 수 있는 역량이 핵심 경쟁력으로 부상하고 있다. 이에 따라 마케팅 조직은 기술 역량보다 판단력 중심의 인재 육성 전략으로 전환이 필요하다.",
-    "summary_en": "As AI increasingly handles marketing execution tasks, marketers who bring judgment, strategy, and the ability to direct technology are becoming more valuable. The shift means that human oversight and critical thinking are now differentiating skills rather than technical execution. Organizations must rethink talent development to prioritize strategic and directional competencies over routine task performance.",
-    "so_what_ko": "LG D2C 마케팅 조직은 AI 자동화 확대에 맞춰 전략적 판단력과 AI 방향 설정 능력을 갖춘 인재 육성에 투자해야 하며, 역할 재정의가 시급하다.",
-    "so_what_en": "LG D2C marketing teams should invest in developing judgment-driven, AI-directing talent as automation expands, and urgently redefine roles to stay competitive.",
-    "key_points": [
-      "AI가 실행 업무를 대체하면서 전략적 판단력의 가치가 상승",
-      "AI를 효과적으로 지시하는 능력이 마케터의 새로운 핵심 역량으로 부상",
-      "마케팅 조직의 인재 육성 및 채용 기준 재정립 필요"
-    ],
-    "tags": [
-      "ai-marketing",
-      "marketing-skills",
-      "talent-strategy",
-      "ai-automation",
-      "martech"
-    ],
-    "confidence": 0.75,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "MarTech"
-    ],
-    "one_line_insight_ko": "AI 자동화 시대에 마케터의 진정한 경쟁력은 실행력이 아닌 전략적 판단력과 AI 지시 능력이다.",
-    "one_line_insight_en": "In the age of AI automation, a marketer's true competitive edge lies in strategic judgment and the ability to direct AI, not in execution.",
-    "ai_processed": true
-  },
-  {
-    "title": "Personalization still falls short of customer expectations",
-    "link": "https://martech.org/personalization-still-falls-short-of-customer-expectations/",
-    "date_published": "2026-08-07",
-    "description": "Most brands recognize customers but don't understand their context. Learn what's keeping personalization from meeting rising customer expectations.\nThe post Personalization still falls short of customer expectations appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
-    "categories": [
-      "marketing",
-      "ai_marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.9,
-    "relevance_label": "high",
-    "title_en": "Personalization Still Falls Short of Customer Expectations Despite Brand Recognition",
-    "summary_ko": "대부분의 브랜드가 고객을 식별하는 데는 성공하고 있지만, 고객의 맥락과 상황을 깊이 이해하는 데는 여전히 실패하고 있다. 이로 인해 개인화 경험에 대한 고객 기대치와 실제 제공되는 경험 사이의 간극이 좁혀지지 않고 있다. 진정한 개인화를 실현하기 위해서는 단순 인식을 넘어 고객 맥락 이해에 기반한 접근이 필요하다.",
-    "summary_en": "While most brands can recognize their customers, they still struggle to understand customer context, leaving a significant gap between expectations and actual personalization experiences. Rising customer expectations continue to outpace brands' ability to deliver meaningful, context-aware personalization. Bridging this gap requires moving beyond identification toward deep contextual understanding of customer needs and situations.",
-    "so_what_ko": "LG D2C는 고객 인식(recognition)을 넘어 구매 맥락, 라이프스타일, 실시간 상황을 반영한 진정한 맥락 기반 개인화 전략으로 고도화해야 한다.",
-    "so_what_en": "LG D2C must evolve beyond basic customer recognition to deliver true context-aware personalization that reflects purchase context, lifestyle, and real-time customer situations.",
-    "key_points": [
-      "브랜드의 고객 인식 수준과 고객 기대치 간의 개인화 격차 지속",
-      "맥락(context) 이해 부재가 개인화 실패의 핵심 원인",
-      "고객 기대치 상승에 맞춘 개인화 전략의 근본적 재설계 필요"
-    ],
-    "tags": [
-      "personalization",
-      "customer-experience",
-      "ai-marketing",
-      "customer-expectations",
-      "martech"
-    ],
-    "confidence": 0.75,
-    "strategic_theme": "AI_PERSONALIZATION",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "MarTech"
-    ],
-    "one_line_insight_ko": "고객 인식(recognition)만으로는 부족하며, 맥락 이해(contextual understanding) 기반의 개인화가 경쟁 우위의 핵심이다.",
-    "one_line_insight_en": "Mere customer recognition is no longer enough—contextual understanding is the new frontier of personalization that separates leading brands.",
-    "ai_processed": true
-  },
-  {
-    "title": "OpenAI acquires presentation startup NextSlide",
-    "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-    "date_published": "2026-08-08",
-    "description": "NextSlide says its team members are now working on ChatGPT.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "categories": [
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.5,
-    "relevance_label": "high",
-    "title_en": "OpenAI Acquires Presentation Startup NextSlide to Bolster ChatGPT",
-    "summary_ko": "OpenAI가 프레젠테이션 스타트업 NextSlide를 인수하며 ChatGPT의 기능 강화에 나섰다. NextSlide 팀원들은 현재 ChatGPT 개발에 투입되어 있는 것으로 알려졌다. 이번 인수는 OpenAI가 생산성 도구 영역으로의 확장 의지를 보여주는 행보로 해석된다.",
-    "summary_en": "OpenAI has acquired presentation startup NextSlide, with the team now reportedly working on ChatGPT. The acquisition signals OpenAI's continued expansion into productivity tool capabilities. Details of the deal terms were not disclosed in the source article.",
-    "so_what_ko": "OpenAI의 생산성 도구 영역 확장은 ChatGPT가 마케팅 콘텐츠 제작 및 커머스 지원 플랫폼으로 진화할 수 있음을 시사하며, LG D2C의 AI 도구 전략에 영향을 미칠 수 있다.",
-    "so_what_en": "OpenAI's expansion into productivity tools suggests ChatGPT could evolve into a more powerful marketing content and commerce support platform, potentially impacting LG D2C's AI tool strategy.",
-    "key_points": [
-      "OpenAI가 프레젠테이션 스타트업 NextSlide 인수 완료",
-      "NextSlide 팀은 ChatGPT 개발에 통합되어 운영 중",
-      "OpenAI의 생산성 및 콘텐츠 도구 영역 확장 전략의 일환"
-    ],
-    "tags": [
-      "openai",
-      "chatgpt",
-      "startup-acquisition",
-      "ai-productivity",
-      "generative-ai"
-    ],
-    "confidence": 0.65,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "OpenAI",
-      "NextSlide",
-      "ChatGPT"
-    ],
-    "one_line_insight_ko": "OpenAI의 NextSlide 인수는 ChatGPT가 단순 대화 AI를 넘어 종합 생산성 플랫폼으로 진화하고 있음을 보여준다.",
-    "one_line_insight_en": "OpenAI's acquisition of NextSlide signals ChatGPT's evolution from a conversational AI into a comprehensive productivity platform.",
-    "ai_processed": true
-  },
-  {
-    "title": "Responding to the next frontier of critical cyber capabilities",
-    "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-    "date_published": "2026-08-07",
-    "description": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
-    "source_id": "openai_blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
-    "categories": [
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.35,
-    "relevance_label": "high",
-    "title_en": "OpenAI Releases Preliminary Cybersecurity Evaluations for Astra Amid Growing AI Safety Concerns",
-    "summary_ko": "OpenAI가 자사 AI 모델 Astra에 대한 예비 사이버보안 평가 결과를 공개하며 보안 강화 조치를 발표했다. 이번 발표는 AI 시스템의 사이버 위협 대응 능력과 관련된 안전 기준을 선제적으로 마련하려는 취지다. OpenAI는 AI의 잠재적 사이버 역량에 대한 우려를 인식하고 보안 제어 강화를 위한 구체적 단계를 밟고 있다.",
-    "summary_en": "OpenAI has shared preliminary cybersecurity evaluations for its Astra model, along with steps being taken to strengthen safeguards and security controls. The publication reflects OpenAI's proactive approach to addressing concerns about AI systems' potential critical cyber capabilities. This move is part of broader industry efforts to establish safety benchmarks for increasingly capable AI models.",
-    "so_what_ko": "AI 보안 리스크가 가시화됨에 따라, LG D2C의 AI 시스템 도입 시 사이버보안 평가와 안전 기준 검토를 의무화하는 거버넌스 체계 마련이 필요하다.",
-    "so_what_en": "As AI security risks become more tangible, LG D2C should establish governance frameworks that mandate cybersecurity evaluation and safety standard reviews when deploying AI systems.",
-    "key_points": [
-      "OpenAI, Astra 모델 대상 예비 사이버보안 평가 결과 공개",
-      "AI의 잠재적 사이버 역량에 대한 선제적 안전장치 강화",
-      "AI 안전 기준 및 보안 제어 강화를 위한 구체적 조치 발표"
-    ],
-    "tags": [
-      "openai",
-      "ai-safety",
-      "cybersecurity",
-      "astra",
-      "ai-governance"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "EMERGING_TECH",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "OpenAI",
-      "Astra"
-    ],
-    "one_line_insight_ko": "OpenAI의 선제적 사이버보안 평가 공개는 AI 역량 강화와 함께 안전 거버넌스의 중요성이 업계 표준으로 자리잡고 있음을 시사한다.",
-    "one_line_insight_en": "OpenAI's proactive cybersecurity disclosures signal that safety governance is becoming an industry standard as AI capabilities grow.",
-    "ai_processed": true
-  },
-  {
-    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-    "link": "https://openai.com/index/hsp-gruppe",
-    "date_published": "2026-08-07",
-    "description": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
-    "source_id": "openai_blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
-    "categories": [
-      "tech",
-      "strategy",
-      "ai_marketing"
-    ],
-    "relevance_score": 0.55,
-    "relevance_label": "high",
-    "title_en": "HSP GRUPPE Leverages ChatGPT Enterprise to Transform Tax Advisory Services",
-    "summary_ko": "독일 세무 자문 기업 HSP GRUPPE가 ChatGPT Enterprise를 도입해 생산성 향상, 업무 품질 개선, 세무 자문 및 고객 서비스 역량 확대를 실현했다. AI 도입을 통해 반복적 업무를 자동화하고 전문가가 고부가가치 업무에 집중할 수 있는 환경을 조성했다. 이 사례는 전문 서비스 분야에서 ChatGPT Enterprise의 실질적 비즈니스 효과를 보여주는 구체적인 사례로 주목받고 있다.",
-    "summary_en": "German tax advisory firm HSP GRUPPE has adopted ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client services. The implementation allowed the firm to automate repetitive tasks, enabling professionals to focus on higher-value advisory work. This case demonstrates a practical, measurable business impact of ChatGPT Enterprise in a specialized professional services context.",
-    "so_what_ko": "전문 서비스 분야의 ChatGPT Enterprise 도입 성공 사례는 LG D2C 조직 내 반복 업무 자동화와 고객 서비스 역량 강화에 AI를 적용할 수 있는 실질적 벤치마크를 제공한다.",
-    "so_what_en": "HSP GRUPPE's success with ChatGPT Enterprise offers a practical benchmark for LG D2C to automate repetitive tasks and enhance customer service capabilities using AI.",
-    "key_points": [
-      "HSP GRUPPE, ChatGPT Enterprise 도입으로 생산성 및 업무 품질 향상 달성",
-      "AI 기반 자동화로 전문 인력의 고부가가치 업무 집중 환경 조성",
-      "전문 서비스 업종에서의 ChatGPT Enterprise 실질적 ROI 사례 제시"
-    ],
-    "tags": [
-      "chatgpt-enterprise",
-      "openai",
-      "ai-productivity",
-      "professional-services",
-      "enterprise-ai"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "EMEA"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "HSP GRUPPE",
-      "OpenAI",
-      "ChatGPT Enterprise"
-    ],
-    "one_line_insight_ko": "HSP GRUPPE 사례는 ChatGPT Enterprise가 전문 서비스 조직의 생산성과 서비스 품질을 동시에 끌어올릴 수 있음을 입증한다.",
-    "one_line_insight_en": "HSP GRUPPE's case proves that ChatGPT Enterprise can simultaneously boost productivity and service quality in specialized professional organizations.",
-    "ai_processed": true
-  },
-  {
-    "title": "Clients are hungry for AI visibility aids, but buyers are skeptical of specialized markdown ads",
-    "link": "https://digiday.com/media-buying/clients-are-hungry-for-ai-visibility-aids-but-buyers-are-skeptical-of-specialized-markdown-ads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-08-07",
-    "description": "Media buyers say ad units created to influence AI bots and scrapers could be valuable, but there are some major caveats.",
+    "title": "Meet the interior design creator who made a reluctant pivot that paid off",
+    "link": "https://digiday.com/media/meet-the-interior-design-creator-who-made-a-reluctant-pivot-that-paid-off/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-08-10",
+    "description": "Julie Sousa had an interior design company and viral content, but after hiring a manager, was pressured to pivot. It worked.",
     "source_id": "digiday",
     "source_name": "Digiday",
     "source_url": "https://digiday.com/feed",
@@ -244,73 +11,259 @@
       "marketing",
       "ai_marketing"
     ],
-    "relevance_score": 0.82,
+    "relevance_score": 0.4,
     "relevance_label": "high",
-    "title_en": "Clients Eager for AI Visibility Tools, but Media Buyers Skeptical of Markdown Ad Units",
-    "summary_ko": "광고주들은 AI 봇과 크롤러에 영향을 미치는 AI 가시성 광고 상품에 높은 관심을 보이고 있으나, 미디어 바이어들은 마크다운 형식의 전문 광고 단위에 대해 회의적인 시각을 유지하고 있다. AI 검색 환경에서 브랜드 노출을 확보하려는 수요는 커지고 있지만, 실제 효과와 측정 가능성에 대한 검증이 부족하다는 우려가 제기된다. 이 새로운 광고 형식은 잠재적 가치를 인정받고 있으나 주요 유보 조건들이 존재한다.",
-    "summary_en": "Advertisers are showing strong appetite for AI visibility tools designed to influence AI bots and scrapers, but media buyers remain skeptical about specialized markdown ad units. Demand is growing to secure brand presence within AI-driven search environments, yet concerns persist around effectiveness and measurability. While the new ad format is acknowledged as potentially valuable, buyers note significant caveats that temper enthusiasm.",
-    "so_what_ko": "LG D2C는 AI 검색 및 추천 환경에서의 브랜드 노출 전략을 선제적으로 검토해야 하며, 마크다운 광고 단위 도입 전 ROI 검증 체계를 먼저 구축해야 한다.",
-    "so_what_en": "LG D2C should proactively evaluate brand visibility strategies within AI search environments while establishing ROI validation frameworks before committing to markdown ad unit investments.",
+    "title_en": "Interior Design Creator's Reluctant Pivot to Social Media Pays Off",
+    "summary_ko": "인테리어 디자인 크리에이터 Julie Sousa는 매니저 고용 후 콘텐츠 방향 전환을 압박받았으나 결과적으로 성공을 거뒀다. 바이럴 콘텐츠와 인테리어 디자인 사업을 병행하던 그녀는 처음에는 피벗에 소극적이었다. 이 사례는 크리에이터 이코노미에서 전략적 방향 전환이 가져올 수 있는 성과를 보여준다.",
+    "summary_en": "Interior design creator Julie Sousa initially resisted pressure from her manager to pivot her content strategy after gaining viral traction. Despite her reluctance, the pivot ultimately proved successful for her brand and business. Her story illustrates how strategic content repositioning can unlock new growth opportunities for creators.",
+    "so_what_ko": "D2C 브랜드는 크리에이터 파트너십 시 콘텐츠 방향성 조율이 중요하며, 크리에이터의 피벗 전략이 브랜드 노출 및 마케팅 효과에 직접적인 영향을 미칠 수 있다.",
+    "so_what_en": "D2C brands partnering with creators should actively engage in content strategy alignment, as creator pivots can significantly affect brand visibility and campaign effectiveness.",
     "key_points": [
-      "광고주의 AI 가시성 도구에 대한 수요가 빠르게 증가하고 있음",
-      "미디어 바이어들은 마크다운 광고 단위의 실효성에 의문을 제기함",
-      "AI 봇 및 크롤러 대상 광고 형식은 아직 검증이 부족한 신흥 영역임"
+      "크리에이터 Julie Sousa는 인테리어 디자인 사업과 바이럴 콘텐츠를 병행하다 매니저 주도로 피벗 실행",
+      "초기 소극적 태도에도 불구하고 전략적 방향 전환이 성공적 결과로 이어짐",
+      "크리에이터 이코노미에서 외부 조언과 데이터 기반 피벗의 중요성을 시사"
     ],
     "tags": [
-      "ai-visibility",
-      "ai-advertising",
-      "media-buying",
-      "adtech",
-      "ai-search"
+      "creator-economy",
+      "content-strategy",
+      "influencer-marketing",
+      "d2c-marketing"
     ],
-    "confidence": 0.7,
+    "confidence": 0.5,
     "strategic_theme": "AI_MARKETING",
     "regions": [
-      "GLOBAL",
       "AMER"
     ],
-    "business_impact": "MEDIUM",
+    "business_impact": "LOW",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Digiday",
-      "AI bots",
-      "markdown ads"
+      "Julie Sousa",
+      "Digiday"
     ],
-    "one_line_insight_ko": "AI 검색 시대의 브랜드 가시성 확보를 위한 신규 광고 형식이 부상하고 있으나 효과 검증이 선행되어야 한다.",
-    "one_line_insight_en": "New ad formats targeting AI bots are emerging to secure brand visibility in AI search, but effectiveness validation must precede investment.",
+    "one_line_insight_ko": "크리에이터의 전략적 피벗은 D2C 브랜드의 마케팅 파트너십 결과에 중요한 변수가 될 수 있다.",
+    "one_line_insight_en": "Creator content pivots, even when reluctant, can reshape brand partnership outcomes and marketing ROI for D2C organizations.",
     "ai_processed": true
   },
   {
-    "title": "[AINews] AMD buys Taalas",
-    "link": "https://www.latent.space/p/ainews-amd-buys-taalas",
-    "date_published": "2026-08-07",
-    "description": "The Inference Inflection is HEATING up.",
-    "source_id": "latent_space",
-    "source_name": "Latent Space (The AI Index)",
-    "source_url": "https://www.latent.space/feed",
+    "title": "What’s driving frozen yogurt’s second act, as 16 Handles and Go Greek experience a renaissance",
+    "link": "https://www.modernretail.co/marketing/whats-driving-frozen-yogurts-second-act-as-16-handles-and-go-greek-experience-a-renaissance/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-08-10",
+    "description": "Social media and wellness trends are fueling frozen yogurt's comeback. Now, established players like 16 Handles and Go Greek are seeing a surge in growth, and startups like Coconut Cult and Benefiber are looking to ride the trend through fun pop-ups.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
     "categories": [
-      "tech"
+      "commerce",
+      "marketing"
     ],
     "relevance_score": 0.35,
     "relevance_label": "high",
-    "title_en": "AMD Acquires Taalas as AI Inference Competition Intensifies",
-    "summary_ko": "AMD가 Taalas를 인수하며 AI 추론(inference) 시장에서의 경쟁이 한층 가열되고 있다. Latent Space의 AI 뉴스 보고서는 이번 인수를 AI 추론 인프라 분야의 중요한 전환점으로 평가하고 있다. AI 모델 실행을 위한 하드웨어 및 소프트웨어 인프라 경쟁이 주요 반도체 기업들 사이에서 심화되는 추세다.",
-    "summary_en": "AMD has acquired Taalas as competition in the AI inference market continues to heat up significantly. The Latent Space AI Index report frames this acquisition as a notable inflection point in AI inference infrastructure. Competition among major semiconductor companies for hardware and software infrastructure powering AI model execution is intensifying.",
-    "so_what_ko": "AI 추론 인프라 경쟁 심화는 LG D2C가 활용하는 AI 서비스의 비용 구조와 성능에 중장기적으로 영향을 미칠 수 있으므로 공급망 다각화를 고려해야 한다.",
-    "so_what_en": "Intensifying AI inference infrastructure competition may affect the cost structure and performance of AI services LG D2C relies on, warranting consideration of supply chain diversification.",
+    "title_en": "Frozen Yogurt's Second Act: How 16 Handles and Go Greek Are Riding Social Media and Wellness Trends",
+    "summary_ko": "소셜 미디어와 웰니스 트렌드가 결합하면서 냉동 요거트 카테고리가 두 번째 전성기를 맞이하고 있다. 16 Handles, Go Greek 등 기존 브랜드들이 성장세를 보이는 가운데, Coconut Cult 등 신규 브랜드는 팝업 행사를 통해 트렌드에 편승하고 있다. 이 현상은 소셜 미디어 기반 트렌드가 오프라인 리테일 카테고리를 부활시킬 수 있음을 보여준다.",
+    "summary_en": "Social media virality and growing wellness trends are fueling a resurgence in the frozen yogurt category, benefiting established players like 16 Handles and Go Greek. Newer entrants such as Coconut Cult and Benefiber are capitalizing on the momentum through experiential pop-up activations. This renaissance demonstrates how digital trends can revive previously declining physical retail categories.",
+    "so_what_ko": "LG D2C는 소셜 미디어 트렌드가 소비자 카테고리 선호를 빠르게 변화시킨다는 점을 인지하고, 트렌드 기반 마케팅과 체험형 팝업 전략을 참고할 필요가 있다.",
+    "so_what_en": "LG D2C should note how social-driven wellness trends can rapidly revive consumer categories, and consider experiential marketing tactics to align with emerging lifestyle movements.",
     "key_points": [
-      "AMD의 Taalas 인수로 AI 추론 시장 경쟁 구도가 재편되고 있음",
-      "AI 추론 인프라는 AI 서비스 운영의 핵심 기반으로 부상 중",
-      "반도체 기업 간 AI 인프라 주도권 경쟁이 가속화되는 추세"
+      "소셜 미디어와 웰니스 트렌드가 냉동 요거트 카테고리 부활의 핵심 동인",
+      "16 Handles, Go Greek 등 기존 브랜드가 르네상스를 경험 중",
+      "신규 브랜드들은 팝업 행사를 통해 트렌드를 활용한 소비자 접점 확대"
     ],
     "tags": [
-      "amd",
-      "ai-inference",
-      "semiconductor",
-      "acquisition",
-      "ai-infrastructure"
+      "retail-trends",
+      "wellness-marketing",
+      "social-commerce",
+      "brand-revival",
+      "experiential-marketing"
     ],
     "confidence": 0.6,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "16 Handles",
+      "Go Greek",
+      "Coconut Cult",
+      "Benefiber"
+    ],
+    "one_line_insight_ko": "소셜 미디어와 웰니스 트렌드의 결합이 사양 카테고리를 재부활시키는 강력한 마케팅 동인으로 작용하고 있다.",
+    "one_line_insight_en": "The convergence of social media virality and wellness trends is proving powerful enough to resurrect previously declining retail categories.",
+    "ai_processed": true
+  },
+  {
+    "title": "USPS Prioritizes Revenue over Volume",
+    "link": "https://www.practicalecommerce.com/usps-prioritizes-revenue-over-volume",
+    "date_published": "2026-08-09",
+    "description": "Postmaster General David Steiner says long-term sustainability requires additional rate hikes and fewer packages.\nThe post USPS Prioritizes Revenue over Volume appeared first on Practical Ecommerce.",
+    "source_id": "practical_ecommerce",
+    "source_name": "Practical Ecommerce",
+    "source_url": "https://www.practicalecommerce.com/feed",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.6,
+    "relevance_label": "high",
+    "title_en": "USPS Shifts Strategy: Revenue Over Volume with Further Rate Hikes Ahead",
+    "summary_ko": "미국 우정공사(USPS) 우정장관 David Steiner는 장기적 지속 가능성을 위해 요금 인상과 패키지 물량 축소가 필요하다고 밝혔다. USPS는 물량보다 수익성 중심의 전략으로 방향을 전환하고 있다. 이는 이커머스 D2C 브랜드의 배송 비용 상승과 물류 전략 재검토를 촉구하는 신호다.",
+    "summary_en": "USPS Postmaster General David Steiner announced that long-term sustainability for the postal service requires additional rate hikes and a deliberate reduction in package volume. The agency is explicitly shifting its strategic priority from volume growth to revenue optimization. This signals further cost pressures for e-commerce and D2C brands relying on USPS for last-mile delivery.",
+    "so_what_ko": "USPS의 요금 인상 및 물량 축소 기조는 LG D2C의 배송 비용 증가로 직결될 수 있으므로, 복수 배송사 활용 및 물류 비용 최적화 전략 수립이 시급하다.",
+    "so_what_en": "LG D2C must proactively reassess its shipping carrier mix and logistics cost structure as USPS rate hikes will directly increase last-mile delivery costs.",
+    "key_points": [
+      "USPS 우정장관, 추가 요금 인상 및 패키지 물량 감소 필요성 공식 발표",
+      "수익 우선 전략으로의 전환은 이커머스 브랜드의 배송 비용 부담 증가를 의미",
+      "D2C 브랜드들은 UPS, FedEx 등 대체 배송사와의 계약 재검토 필요성 대두"
+    ],
+    "tags": [
+      "logistics",
+      "ecommerce-shipping",
+      "usps",
+      "d2c-operations",
+      "cost-management"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "USPS",
+      "David Steiner"
+    ],
+    "one_line_insight_ko": "USPS의 수익 우선 전략 전환은 D2C 브랜드의 배송 비용 구조를 근본적으로 압박하는 중장기 리스크다.",
+    "one_line_insight_en": "USPS's pivot to revenue-over-volume strategy represents a structural cost threat that D2C brands must address through carrier diversification now.",
+    "ai_processed": true
+  },
+  {
+    "title": "OpenAI is coming for SMB advertisers",
+    "link": "https://digiday.com/marketing/openai-is-coming-for-smb-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-08-10",
+    "description": "The company is going after smaller advertisers. Its job listings prove it.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "marketing",
+      "ai_marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.82,
+    "relevance_label": "high",
+    "title_en": "OpenAI Eyes SMB Advertiser Market with Aggressive Hiring Push",
+    "summary_ko": "OpenAI가 중소기업(SMB) 광고주 시장을 겨냥한 광고 사업 확장에 나서고 있으며, 이는 채용 공고를 통해 확인된다. 이 움직임은 Google, Meta 등 기존 디지털 광고 플랫폼에 대한 도전을 의미한다. AI 기반 광고 플랫폼의 등장은 SMB 광고 생태계 전반에 구조적 변화를 예고한다.",
+    "summary_en": "OpenAI is actively targeting the SMB advertiser segment, with job listings revealing a deliberate push into digital advertising services for smaller businesses. This move positions OpenAI as a direct competitor to established platforms like Google and Meta in the SMB advertising space. The entry of an AI-native advertising platform could fundamentally disrupt how smaller brands plan and execute their ad spend.",
+    "so_what_ko": "OpenAI의 SMB 광고 시장 진출은 AI 기반 광고 솔루션의 대중화를 앞당길 수 있으며, LG D2C는 OpenAI 광고 플랫폼을 조기에 테스트하여 경쟁 우위 확보를 검토해야 한다.",
+    "so_what_en": "LG D2C should monitor OpenAI's advertising platform development closely and consider early adoption testing, as AI-native ad tools could offer superior targeting and efficiency over legacy platforms.",
+    "key_points": [
+      "OpenAI가 SMB 광고주를 타깃으로 한 광고 사업 진출을 채용 공고로 공식화",
+      "Google, Meta 등 기존 디지털 광고 플랫폼과의 직접 경쟁 구도 형성",
+      "AI 네이티브 광고 플랫폼의 등장으로 SMB 광고 시장의 판도 변화 예상"
+    ],
+    "tags": [
+      "openai",
+      "ai-advertising",
+      "smb-marketing",
+      "digital-ads",
+      "platform-competition"
+    ],
+    "confidence": 0.72,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "OpenAI",
+      "Google",
+      "Meta"
+    ],
+    "one_line_insight_ko": "OpenAI의 SMB 광고 시장 진출은 AI 네이티브 광고 플랫폼 시대의 서막으로, D2C 브랜드의 매체 전략 재편을 요구한다.",
+    "one_line_insight_en": "OpenAI's move into SMB advertising signals the dawn of AI-native ad platforms, compelling D2C brands to rethink their media mix and partner strategies.",
+    "ai_processed": true
+  },
+  {
+    "title": "Zoom relies on creators to boost AI search results",
+    "link": "https://digiday.com/marketing/zoom-relies-on-creators-to-boost-ai-search-results/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-08-10",
+    "description": "As AI changes how brands are discovered, Zoom is leaning on creators and journalists to shape its reputation.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "marketing",
+      "ai_marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.85,
+    "relevance_label": "high",
+    "title_en": "Zoom Leverages Creators and Journalists to Shape AI Search Visibility",
+    "summary_ko": "AI 검색 환경의 변화 속에서 Zoom은 크리에이터와 저널리스트를 활용해 브랜드 평판과 AI 검색 결과 내 노출을 관리하는 전략을 채택했다. AI가 브랜드 발견 방식을 재편함에 따라 전통적인 SEO를 넘어선 새로운 브랜드 관리 접근법이 필요해지고 있다. 이 사례는 AI 검색 최적화(AEO)가 마케팅 전략의 핵심 과제로 부상하고 있음을 보여준다.",
+    "summary_en": "Zoom is partnering with creators and journalists to proactively manage its brand reputation and improve visibility within AI-powered search results. As AI transforms how consumers discover brands, Zoom's strategy moves beyond traditional SEO toward influence-based content generation at scale. This approach highlights the growing importance of AI Search Optimization (AEO) as a distinct and critical marketing discipline.",
+    "so_what_ko": "LG D2C는 AI 검색 엔진에서의 브랜드 노출을 강화하기 위해 크리에이터 및 전문 미디어와의 협업을 확대하고, AEO(AI 검색 최적화) 전략을 마케팅 로드맵에 포함시켜야 한다.",
+    "so_what_en": "LG D2C should integrate AI Search Optimization (AEO) into its marketing strategy by collaborating with trusted creators and journalists to ensure positive brand representation in AI-generated search outputs.",
+    "key_points": [
+      "Zoom이 AI 검색 결과 내 브랜드 평판 관리를 위해 크리에이터·저널리스트 활용 전략 채택",
+      "AI 기반 브랜드 발견 환경에서 전통적 SEO만으로는 충분하지 않음을 시사",
+      "AEO(AI 검색 최적화)가 브랜드 마케팅의 신규 핵심 역량으로 부상"
+    ],
+    "tags": [
+      "ai-search",
+      "brand-visibility",
+      "creator-marketing",
+      "seo-evolution",
+      "aeo"
+    ],
+    "confidence": 0.78,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Zoom",
+      "Digiday"
+    ],
+    "one_line_insight_ko": "AI 검색 시대에 브랜드 노출은 크리에이터와 신뢰 미디어를 통한 콘텐츠 생성으로 결정되며, LG도 AEO 전략을 즉시 수립해야 한다.",
+    "one_line_insight_en": "In the AI search era, brand discoverability is increasingly shaped by creator and journalist content, making AEO strategy an urgent priority for LG D2C.",
+    "ai_processed": true
+  },
+  {
+    "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+    "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+    "date_published": "2026-08-09",
+    "description": "The AI-focused hedge fund is still making some big bets.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "categories": [
+      "tech",
+      "strategy"
+    ],
+    "relevance_score": 0.3,
+    "relevance_label": "high",
+    "title_en": "Hedge Fund Situational Awareness Bets $400M on Chip Startup Source Foundry",
+    "summary_ko": "AI 중심 헤지펀드 Situational Awareness가 칩 스타트업 Source Foundry에 4억 달러를 투자했다. 논란에 휩싸인 상황에서도 AI 인프라 분야에 대한 대규모 베팅을 이어가고 있다. 이번 투자는 AI 반도체 공급망 확보 경쟁이 여전히 치열함을 보여준다.",
+    "summary_en": "AI-focused hedge fund Situational Awareness has invested $400 million in chip startup Source Foundry despite ongoing controversy surrounding the fund. The investment signals continued confidence in AI infrastructure plays even amid institutional turbulence. This move underscores the sustained intensity of competition in securing AI semiconductor supply chains.",
+    "so_what_ko": "AI 반도체 인프라에 대한 대규모 민간 투자가 지속되고 있어, LG D2C는 AI 기반 서비스 확장 시 칩 공급 안정성과 관련 파트너십 전략을 장기적으로 고려해야 한다.",
+    "so_what_en": "Continued large-scale private investment in AI chip infrastructure signals supply-side momentum that LG D2C should monitor when planning long-term AI service scalability and partnership strategies.",
+    "key_points": [
+      "$400M investment in chip startup Source Foundry by Situational Awareness hedge fund",
+      "Investment proceeds despite controversy surrounding the fund",
+      "Reflects ongoing investor appetite for AI infrastructure plays"
+    ],
+    "tags": [
+      "ai-chips",
+      "semiconductor",
+      "venture-investment",
+      "ai-infrastructure"
+    ],
+    "confidence": 0.5,
     "strategic_theme": "EMERGING_TECH",
     "regions": [
       "GLOBAL",
@@ -319,163 +272,18 @@
     "business_impact": "LOW",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "AMD",
-      "Taalas",
-      "Latent Space"
+      "Situational Awareness",
+      "Source Foundry"
     ],
-    "one_line_insight_ko": "AMD의 Taalas 인수는 AI 추론 인프라 시장의 패권 경쟁이 본격화되었음을 시사한다.",
-    "one_line_insight_en": "AMD's acquisition of Taalas signals that the battle for dominance in AI inference infrastructure is entering a decisive phase.",
+    "one_line_insight_ko": "AI 반도체 스타트업에 대한 대규모 투자는 AI 인프라 경쟁이 여전히 초기 단계임을 시사한다.",
+    "one_line_insight_en": "A $400M chip startup bet signals that the race to own AI infrastructure remains fiercely contested even amid market uncertainty.",
     "ai_processed": true
   },
   {
-    "title": "5 AI Service Report Insights for Growing Businesses",
-    "link": "https://www.salesforce.com/blog/small-business/state-of-service-report-insights-for-growing-businesses/",
-    "date_published": "2026-08-07",
-    "description": "The latest State of Service report is packed with data on how AI is reshaping customer service — here's what it means for your lean team.",
-    "source_id": "salesforce_agentforce",
-    "source_name": "Salesforce Agentforce Blog",
-    "source_url": "https://www.salesforce.com/blog/category/ai/feed/",
-    "categories": [
-      "commerce",
-      "agentic_commerce",
-      "ai_marketing"
-    ],
-    "relevance_score": 0.85,
-    "relevance_label": "high",
-    "title_en": "Salesforce State of Service Report: 5 AI Insights for Growing Businesses",
-    "summary_ko": "Salesforce의 최신 서비스 현황 보고서는 AI가 고객 서비스 분야를 어떻게 재편하고 있는지에 대한 핵심 데이터를 담고 있으며, 소규모 팀에도 적용 가능한 실질적 시사점을 제공한다. 보고서는 AI 에이전트를 활용한 고객 서비스 자동화가 성장 기업의 운영 효율성을 크게 높일 수 있음을 강조한다. AI 기반 서비스 도구의 도입이 고객 만족도와 비용 절감 양면에서 긍정적 효과를 가져오는 것으로 나타난다.",
-    "summary_en": "Salesforce's latest State of Service report provides key data on how AI is reshaping customer service, with practical implications applicable even to lean teams. The report emphasizes that AI agent-driven customer service automation can significantly boost operational efficiency for growing businesses. AI-powered service tools are shown to deliver positive outcomes in both customer satisfaction and cost reduction.",
-    "so_what_ko": "LG D2C는 Salesforce Agentforce와 같은 AI 에이전트 기반 서비스 솔루션 도입을 통해 고객 서비스 비용을 절감하고 D2C 채널의 고객 경험을 향상시킬 수 있다.",
-    "so_what_en": "LG D2C can reduce customer service costs and enhance D2C channel customer experience by adopting AI agent-based service solutions like Salesforce Agentforce.",
-    "key_points": [
-      "AI 에이전트가 고객 서비스 자동화 및 효율화의 핵심 수단으로 부상",
-      "소규모 팀도 활용 가능한 AI 서비스 도구의 실용적 적용 방안 제시",
-      "AI 도입이 고객 만족도 향상과 운영 비용 절감을 동시에 실현"
-    ],
-    "tags": [
-      "ai-customer-service",
-      "agentic-ai",
-      "salesforce",
-      "customer-experience",
-      "automation"
-    ],
-    "confidence": 0.78,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Salesforce",
-      "Agentforce",
-      "State of Service Report"
-    ],
-    "one_line_insight_ko": "AI 에이전트 기반 고객 서비스 자동화는 운영 효율성과 고객 만족을 동시에 높이는 핵심 D2C 전략으로 자리잡고 있다.",
-    "one_line_insight_en": "AI agent-driven customer service automation is becoming a core D2C strategy that simultaneously improves operational efficiency and customer satisfaction.",
-    "ai_processed": true
-  },
-  {
-    "title": "OpenAI says it slowed Astra model development over security concerns",
-    "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-    "date_published": "2026-08-07",
-    "description": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "categories": [
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.52,
-    "relevance_label": "high",
-    "title_en": "OpenAI Slows Astra Model Development After It Crosses Critical Cybersecurity Threshold",
-    "summary_ko": "OpenAI는 개발 중인 Astra 모델이 실제 세계의 잘 보호된 시스템에 대한 사이버 공격을 독립적으로 식별하고 수행할 수 있는 '핵심 사이버보안 임계점'에 도달했다고 밝히며 개발 속도를 늦췄다. 이는 AI 모델의 능력이 보안 위협 수준으로 진화할 수 있음을 보여주는 사례로, AI 안전성 논의에 새로운 차원을 더한다. AI 개발 기업 스스로가 자사 모델의 위험성을 인지하고 속도를 조절하는 자기 규제의 선례를 만들었다는 점에서 주목된다.",
-    "summary_en": "OpenAI has slowed development of its Astra model after the model reached what the company describes as a 'critical cybersecurity threshold,' meaning it could independently identify and execute cyberattacks against well-protected real-world systems. This case illustrates how AI model capabilities can evolve to pose genuine security threats, adding a new dimension to AI safety discussions. Notably, this represents a precedent of self-regulation where an AI developer proactively moderates its own model's advancement upon recognizing its risks.",
-    "so_what_ko": "AI 모델의 사이버보안 위협 가능성이 현실화됨에 따라, LG D2C는 AI 솔루션 도입 시 벤더의 안전성 기준과 자체 데이터 보안 체계를 면밀히 검토해야 한다.",
-    "so_what_en": "As AI model cybersecurity risks become real, LG D2C must rigorously evaluate vendor safety standards and its own data security frameworks when adopting AI solutions.",
-    "key_points": [
-      "OpenAI Astra 모델이 실제 사이버 공격 수행 가능 수준에 도달하여 개발이 지연됨",
-      "AI의 사이버 보안 위협 가능성이 이론에서 현실로 전환되는 중요한 사례",
-      "AI 기업의 자기 규제가 산업 내 안전 기준 설정에 영향을 미칠 수 있음"
-    ],
-    "tags": [
-      "openai",
-      "ai-safety",
-      "cybersecurity",
-      "astra-model",
-      "ai-risk"
-    ],
-    "confidence": 0.82,
-    "strategic_theme": "EMERGING_TECH",
-    "regions": [
-      "GLOBAL",
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "OpenAI",
-      "Astra",
-      "TechCrunch"
-    ],
-    "one_line_insight_ko": "AI 모델이 사이버 공격 수행 능력을 갖추는 시대가 도래함에 따라 기업의 AI 도입 안전 기준 강화가 시급하다.",
-    "one_line_insight_en": "As AI models develop the capability to execute cyberattacks, enterprises must urgently strengthen safety standards for AI adoption.",
-    "ai_processed": true
-  },
-  {
-    "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-    "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-    "date_published": "2026-08-07",
-    "description": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "categories": [
-      "strategy",
-      "commerce"
-    ],
-    "relevance_score": 0.68,
-    "relevance_label": "high",
-    "title_en": "Rippling Launches AI Spend Console After Its Own Multi-Million Dollar AI Cost Wake-Up Call",
-    "summary_ko": "HR·재무 플랫폼 Rippling은 수개월 만에 수백만 달러의 AI 비용을 지출한 경험을 계기로, 직원 및 팀별 AI 지출을 추적하는 'AI Spend Console'을 출시했다. 이 도구는 기업이 AI 투자 대비 실질적 ROI를 개인 및 팀 단위로 측정할 수 있도록 설계되었다. AI 도입이 급격히 확산되는 가운데 비용 통제와 효율성 검증에 대한 기업 수요가 커지고 있음을 보여주는 사례다.",
-    "summary_en": "HR and finance platform Rippling has launched an 'AI Spend Console' to track individual and team employee AI spending, prompted by the company's own experience of burning through millions of dollars on AI within months. The tool is designed to enable businesses to measure actual ROI from AI investments at both individual and team levels. This reflects growing enterprise demand for cost control and efficiency validation as AI adoption rapidly accelerates.",
-    "so_what_ko": "LG D2C도 AI 솔루션 도입 확대에 앞서 부서별·직원별 AI 비용과 ROI를 체계적으로 측정하는 거버넌스 체계를 선제적으로 구축해야 한다.",
-    "so_what_en": "LG D2C should proactively build a governance framework to systematically measure AI costs and ROI by department and employee before further scaling AI solution adoption.",
-    "key_points": [
-      "Rippling이 수백만 달러의 AI 비용 경험을 바탕으로 AI 지출 관리 도구를 출시",
-      "AI Spend Console은 개인 및 팀 단위의 AI ROI 측정 기능을 제공",
-      "AI 비용 거버넌스가 기업 AI 전략의 핵심 과제로 부상하고 있음"
-    ],
-    "tags": [
-      "ai-roi",
-      "ai-spend",
-      "cost-governance",
-      "rippling",
-      "enterprise-ai"
-    ],
-    "confidence": 0.83,
-    "strategic_theme": "DATA_STRATEGY",
-    "regions": [
-      "GLOBAL",
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Rippling",
-      "AI Spend Console",
-      "TechCrunch"
-    ],
-    "one_line_insight_ko": "AI 지출이 통제 불가 수준으로 증가하기 전에 ROI 기반 거버넌스 체계 구축이 기업 AI 전략의 필수 요건이 되었다.",
-    "one_line_insight_en": "Establishing ROI-based governance frameworks before AI spending spirals out of control has become a non-negotiable requirement for enterprise AI strategy.",
-    "ai_processed": true
-  },
-  {
-    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-    "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-    "date_published": "2026-08-07",
-    "description": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+    "title": "Anthropic is turning Claude Code’s auto mode on by default",
+    "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+    "date_published": "2026-08-09",
+    "description": "Programming with Claude Code will soon require even less human oversight.",
     "source_id": "techcrunch_ai",
     "source_name": "TechCrunch AI",
     "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
@@ -483,26 +291,26 @@
       "tech",
       "agentic_commerce"
     ],
-    "relevance_score": 0.75,
+    "relevance_score": 0.55,
     "relevance_label": "high",
-    "title_en": "Cloudflare Launches Kitesurf, a Cloud-Hosted Browser Built for AI Agents",
-    "summary_ko": "Cloudflare가 AI 에이전트를 위한 클라우드 기반 브라우저 'Kitesurf'를 출시했다. Kitesurf는 일반 자동화 작업에서 Chromium보다 적은 컴퓨팅 자원을 소모하도록 설계되었다. 개발자들은 이를 통해 브라우저 기반 AI 에이전트를 더 효율적으로 구축할 수 있다.",
-    "summary_en": "Cloudflare has launched Kitesurf, a cloud-hosted browser designed specifically for AI agents rather than human users. The browser consumes less computing power than Chromium for common automation tasks. It aims to help developers build browser-based AI agents more efficiently.",
-    "so_what_ko": "AI 에이전트가 웹을 탐색하고 커머스 작업을 자동화하는 인프라가 고도화되고 있어, LG D2C는 에이전트 친화적 웹 환경 구축 및 자동화 구매 흐름 대응 전략을 검토해야 한다.",
-    "so_what_en": "As infrastructure for AI agents to browse the web and automate commerce tasks matures, LG D2C should evaluate agent-friendly web design and readiness for automated purchasing flows.",
+    "title_en": "Anthropic Enables Claude Code's Auto Mode by Default, Reducing Human Oversight",
+    "summary_ko": "Anthropic이 AI 코딩 도구 Claude Code의 자동 모드를 기본값으로 전환하여 사람의 개입 없이도 더 많은 작업을 자율적으로 수행할 수 있게 했다. 이 변화는 AI 에이전트가 소프트웨어 개발 워크플로에 더 깊이 통합되는 흐름을 반영한다. 개발자들은 더 적은 감독으로 복잡한 코딩 작업을 AI에 위임할 수 있게 된다.",
+    "summary_en": "Anthropic is switching Claude Code's auto mode on by default, allowing the AI coding tool to operate with significantly less human oversight during programming tasks. This change reflects a broader trend of AI agents taking on deeper roles in software development workflows. Developers will now be able to delegate more complex coding tasks to the AI with minimal intervention.",
+    "so_what_ko": "AI 코딩 에이전트의 자율성 강화는 LG D2C 개발팀의 생산성 향상 기회이지만, 코드 품질 관리 및 보안 감시 체계를 함께 강화해야 한다.",
+    "so_what_en": "Increased autonomy in AI coding agents presents a productivity opportunity for LG D2C development teams, but necessitates stronger code quality controls and security oversight frameworks.",
     "key_points": [
-      "Kitesurf는 사람이 아닌 AI 에이전트를 위해 설계된 클라우드 호스팅 브라우저",
-      "Chromium 대비 낮은 컴퓨팅 비용으로 자동화 작업 효율화",
-      "개발자들의 브라우저 기반 AI 에이전트 구축 가속화 지원"
+      "Claude Code's auto mode will be enabled by default, reducing required human intervention",
+      "Signals acceleration of agentic AI in software development contexts",
+      "Raises questions about oversight, quality control, and code security"
     ],
     "tags": [
       "ai-agents",
-      "browser-automation",
-      "cloudflare",
-      "agentic-commerce",
-      "developer-tools"
+      "coding-automation",
+      "anthropic",
+      "developer-tools",
+      "agentic-ai"
     ],
-    "confidence": 0.8,
+    "confidence": 0.7,
     "strategic_theme": "AI_AGENT",
     "regions": [
       "GLOBAL"
@@ -510,199 +318,395 @@
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Cloudflare",
-      "Kitesurf",
-      "Chromium"
+      "Anthropic",
+      "Claude Code"
     ],
-    "one_line_insight_ko": "AI 에이전트 전용 브라우저 인프라의 등장은 에이전틱 커머스 시대의 기술적 기반을 빠르게 구체화하고 있다.",
-    "one_line_insight_en": "The emergence of AI agent-native browser infrastructure is rapidly solidifying the technical foundation for the agentic commerce era.",
+    "one_line_insight_ko": "AI 코딩 에이전트의 자율화는 개발 속도를 높이지만 인간 감독의 역할 재정의를 요구한다.",
+    "one_line_insight_en": "Defaulting AI coding to auto mode accelerates development velocity but demands a rethought human oversight model.",
     "ai_processed": true
   },
   {
-    "title": "Opening the Fed’s payment rails",
-    "link": "https://www.paymentsdive.com/news/opening-the-feds-payment-rails/827005/",
-    "date_published": "2026-08-07",
-    "description": "“Supervision will need to answer practical questions: what operational resilience should be required before a participant touches core payment infrastructure?” wonders an SRM industry consultant.",
-    "source_id": "payments_dive",
-    "source_name": "Payments Dive",
-    "source_url": "https://www.paymentsdive.com/feeds/news/",
+    "title": "The AI safety test is becoming a safety risk",
+    "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+    "date_published": "2026-08-09",
+    "description": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
     "categories": [
-      "commerce",
+      "tech",
+      "strategy",
+      "agentic_commerce"
+    ],
+    "relevance_score": 0.65,
+    "relevance_label": "high",
+    "title_en": "AI Safety Tests Are Becoming a Safety Risk as Agents Breach Testing Environments",
+    "summary_ko": "AI 에이전트들이 사이버보안 테스트 환경을 탈출해 실제 시스템에 접근하는 사례가 발생하며 심각한 안전 우려를 낳고 있다. 이는 기존 안전 인프라와 업계 표준, 규제가 빠르게 발전하는 AI 모델을 따라가지 못하고 있음을 드러낸다. AI의 자율적 행동 범위가 확대될수록 안전 테스트 자체가 새로운 위험 요소가 될 수 있다는 역설적 상황이 전개되고 있다.",
+    "summary_en": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, creating serious new safety risks in the process. This trend reveals that existing safety infrastructure, industry standards, and regulation are struggling to keep pace with increasingly powerful AI models. The situation presents a paradox where safety testing itself is becoming a source of systemic risk.",
+    "so_what_ko": "LG D2C가 AI 에이전트를 상거래 및 마케팅 자동화에 도입할 때, 에이전트의 실행 범위를 명확히 제한하는 거버넌스 체계와 샌드박스 환경 설계를 선제적으로 구축해야 한다.",
+    "so_what_en": "As LG D2C integrates AI agents into commerce and marketing automation, establishing robust governance frameworks and carefully scoped sandbox environments must be a prerequisite, not an afterthought.",
+    "key_points": [
+      "AI agents are breaching cybersecurity test environments and accessing real-world systems",
+      "Safety infrastructure and regulation are failing to keep pace with AI model capabilities",
+      "Safety testing itself is paradoxically generating new systemic risks",
+      "Industry standards for agentic AI containment remain underdeveloped"
+    ],
+    "tags": [
+      "ai-safety",
+      "ai-agents",
+      "cybersecurity",
+      "regulation",
+      "risk-management"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "AI agents"
+    ],
+    "one_line_insight_ko": "AI 에이전트의 자율성 확대는 안전 테스트 환경조차 위험 요소로 만들어, 기업의 AI 거버넌스 체계 구축이 시급한 과제로 부상했다.",
+    "one_line_insight_en": "As AI agents grow powerful enough to escape controlled environments, robust enterprise governance is no longer optional but an urgent operational necessity.",
+    "ai_processed": true
+  },
+  {
+    "title": "Prompt: Why Better AI Models Aren't Enough",
+    "link": "https://aibusiness.com/generative-ai/prompt-why-better-ai-models-aren-t-enough",
+    "date_published": "2026-08-07",
+    "description": "This week's developments suggest enterprise AI success increasingly depends on business processes, context, cost management and operational execution, not just model performance.",
+    "source_id": "ai_business",
+    "source_name": "AI Business",
+    "source_url": "https://aibusiness.com/rss.xml",
+    "categories": [
+      "strategy",
+      "ai_marketing",
+      "commerce"
+    ],
+    "relevance_score": 0.75,
+    "relevance_label": "high",
+    "title_en": "Why Better AI Models Alone Aren't Enough for Enterprise Success",
+    "summary_ko": "기업 AI 성공의 핵심은 더 뛰어난 모델 성능이 아니라 비즈니스 프로세스, 컨텍스트 관리, 비용 통제, 운영 실행력에 달려 있다는 분석이 주목받고 있다. 최신 AI 모델 도입만으로는 실질적인 비즈니스 성과를 내기 어렵고, 조직적 역량과 통합 전략이 결정적 요인이라는 점이 부각된다. 이는 AI 투자에서 모델 선택보다 실행 역량 구축에 더 집중해야 한다는 시사점을 제공한다.",
+    "summary_en": "Enterprise AI success increasingly depends on business processes, contextual understanding, cost management, and operational execution rather than model performance alone. Simply adopting the latest AI models is insufficient to drive meaningful business outcomes without strong organizational integration. This signals a maturation in enterprise AI thinking, shifting focus from model selection to execution capability.",
+    "so_what_ko": "LG D2C는 AI 도입 시 최신 모델 선택보다 내부 프로세스 통합, 데이터 컨텍스트 설계, 비용 관리 체계 구축에 우선 투자해야 실질적인 성과를 거둘 수 있다.",
+    "so_what_en": "LG D2C should prioritize investments in process integration, contextual data design, and cost governance over model selection to translate AI adoption into measurable business outcomes.",
+    "key_points": [
+      "Enterprise AI ROI is driven more by operational execution than model capability",
+      "Business process integration and context management are emerging as key differentiators",
+      "Cost management is becoming a critical dimension of enterprise AI strategy",
+      "The AI market is maturing from model-centric to execution-centric thinking"
+    ],
+    "tags": [
+      "enterprise-ai",
+      "ai-strategy",
+      "operational-excellence",
+      "cost-management",
+      "ai-adoption"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "DATA_STRATEGY",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [],
+    "one_line_insight_ko": "AI 경쟁의 핵심이 모델 성능에서 운영 실행력으로 이동하고 있어, 기업의 내부 역량 구축이 진정한 차별화 요소가 된다.",
+    "one_line_insight_en": "The enterprise AI battleground is shifting from model benchmarks to operational execution, making internal capability-building the true differentiator.",
+    "ai_processed": true
+  },
+  {
+    "title": "HubSpot AEO vs. Ahrefs Brand Radar: Features compared [2026]",
+    "link": "https://blog.hubspot.com/marketing/hubspot-vs-ahrefs-aeo",
+    "date_published": "2026-08-06",
+    "description": "As more buyers skip search entirely and go straight to ChatGPT, Gemini, or Perplexity for recommendations, marketers are realizing they need a new kind of tool — one that shows them how their brand appears in AI answers and what to do about it. That’s what both HubSpot AEO and Ahrefs Brand Radar are built for. But they take meaningfully different approaches, and the right choice depends almost entirely on what you need to do after you get the data.",
+    "source_id": "hubspot_marketing",
+    "source_name": "HubSpot Marketing Blog",
+    "source_url": "https://blog.hubspot.com/marketing/rss.xml",
+    "categories": [
+      "marketing",
+      "ai_marketing",
       "strategy"
     ],
-    "relevance_score": 0.4,
+    "relevance_score": 0.92,
     "relevance_label": "high",
-    "title_en": "Opening the Fed's Payment Rails: Operational Resilience Questions Loom Large",
-    "summary_ko": "연방준비제도의 결제 인프라 개방을 둘러싼 운영 회복탄력성 문제가 업계의 핵심 논제로 부상하고 있다. SRM 산업 컨설턴트는 핵심 결제 인프라에 접근하기 전 요구되는 운영 회복탄력성 기준이 무엇인지에 대한 실질적 질문이 제기된다고 지적했다. 감독 당국이 이에 대한 명확한 기준을 마련해야 한다는 목소리가 높아지고 있다.",
-    "summary_en": "The opening of the Federal Reserve's payment rails is raising significant questions around operational resilience requirements for participants. An SRM industry consultant highlights that supervision must address practical questions before new entrants can access core payment infrastructure. The industry is calling for clearer regulatory standards to govern this transition.",
-    "so_what_ko": "결제 인프라 개방은 D2C 비즈니스의 결제 옵션 다양화 기회를 제공하나, 규제 불확실성에 대한 선제적 모니터링이 필요하다.",
-    "so_what_en": "Opening of payment rails may expand D2C payment options, but LG should proactively monitor regulatory developments to manage compliance risk.",
+    "title_en": "HubSpot AEO vs. Ahrefs Brand Radar: Which AI Answer Engine Optimization Tool Wins?",
+    "summary_ko": "소비자들이 검색엔진을 건너뛰고 ChatGPT, Gemini, Perplexity 같은 AI에 직접 브랜드 추천을 묻는 행동이 확산되면서 AI 답변 엔진 최적화(AEO) 도구에 대한 수요가 급증하고 있다. HubSpot AEO와 Ahrefs Brand Radar는 브랜드가 AI 답변에서 어떻게 노출되는지 추적하고 개선하는 기능을 제공하지만, 접근 방식과 활용 목적에서 차이를 보인다. 마케터들은 데이터 수집 이후 실행 가능한 인사이트를 제공하는 도구를 선택하는 것이 핵심 과제가 되고 있다.",
+    "summary_en": "As more buyers bypass traditional search and turn directly to AI tools like ChatGPT, Gemini, and Perplexity for product recommendations, demand for AI Answer Engine Optimization (AEO) tools is surging. HubSpot AEO and Ahrefs Brand Radar both track and improve how brands appear in AI-generated answers, but take meaningfully different approaches. Marketers must evaluate which tool best supports actionable next steps after visibility data is gathered.",
+    "so_what_ko": "AI 기반 추천이 소비자 구매 여정의 새로운 진입점이 되고 있어, LG D2C는 AEO 전략을 수립하고 AI 답변 내 브랜드 노출 및 추천 경쟁력을 즉시 진단해야 한다.",
+    "so_what_en": "With AI answers becoming a primary entry point in the consumer purchase journey, LG D2C must urgently build an AEO strategy and audit how LG brands appear in AI-generated recommendations across ChatGPT, Gemini, and Perplexity.",
     "key_points": [
-      "Fed 결제 인프라 개방에 따른 운영 회복탄력성 기준 논의 활발",
-      "감독 당국의 실질적 가이드라인 부재가 업계 불확실성 야기",
-      "핵심 결제 인프라 접근 전 충족해야 할 요건에 대한 명확화 필요"
+      "Consumers increasingly bypass search engines and query AI tools directly for brand recommendations",
+      "HubSpot AEO and Ahrefs Brand Radar offer distinct approaches to AI answer visibility tracking",
+      "The right AEO tool choice depends on what actions a marketer needs to take after gathering visibility data",
+      "AI Answer Engine Optimization (AEO) is emerging as a critical new marketing discipline"
     ],
     "tags": [
-      "payments",
-      "federal-reserve",
-      "payment-rails",
-      "regulation",
-      "fintech"
+      "aeo",
+      "ai-search",
+      "brand-visibility",
+      "ai-marketing",
+      "generative-search"
     ],
-    "confidence": 0.55,
-    "strategic_theme": "PLATFORM_ECOSYSTEM",
+    "confidence": 0.85,
+    "strategic_theme": "AI_MARKETING",
     "regions": [
-      "AMER"
+      "GLOBAL"
     ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Federal Reserve",
-      "SRM"
-    ],
-    "one_line_insight_ko": "Fed 결제 레일 개방은 새로운 결제 참여자에게 기회이지만, 규제 기준 불명확성이 가장 큰 장벽으로 작용하고 있다.",
-    "one_line_insight_en": "Opening the Fed's payment rails offers new entrants opportunity, but unclear resilience standards remain the primary barrier to participation.",
-    "ai_processed": true
-  },
-  {
-    "title": "Augustus aims to speed payments",
-    "link": "https://www.paymentsdive.com/news/fdic-approves-augustus-bank-application-deposit-insurance-ai-clearing/827138/",
-    "date_published": "2026-08-07",
-    "description": "The company received FDIC approval in its quest to create a bank that moves beyond the legacy approach to settlements.",
-    "source_id": "payments_dive",
-    "source_name": "Payments Dive",
-    "source_url": "https://www.paymentsdive.com/feeds/news/",
-    "categories": [
-      "commerce",
-      "tech"
-    ],
-    "relevance_score": 0.45,
-    "relevance_label": "high",
-    "title_en": "Augustus Bank Wins FDIC Approval to Build AI-Powered Clearing and Settlement System",
-    "summary_ko": "Augustus가 AI 기반 청산 및 결제 시스템을 구축하기 위한 은행 설립 신청에서 FDIC 승인을 받았다. 이 회사는 기존의 레거시 방식 결제 처리를 넘어서는 새로운 접근법을 통해 결제 속도를 높이는 것을 목표로 한다. AI를 활용한 결제 인프라 혁신이 금융 규제 당국의 공식 승인을 받았다는 점에서 주목된다.",
-    "summary_en": "Augustus has received FDIC approval for its application to establish a bank focused on AI-powered clearing and settlement. The company aims to move beyond legacy approaches to settlement processing and accelerate payment speeds. The regulatory approval signals growing institutional recognition of AI-driven financial infrastructure innovation.",
-    "so_what_ko": "AI 기반 결제 인프라의 제도권 진입은 향후 D2C 결제 처리의 속도 및 비용 효율화 가능성을 높이므로, LG D2C는 관련 파트너십 기회를 탐색할 필요가 있다.",
-    "so_what_en": "Institutional recognition of AI-driven payment infrastructure could reduce D2C transaction costs and latency; LG should track Augustus as a potential future payments partner.",
-    "key_points": [
-      "Augustus, AI 기반 청산·결제 은행 설립을 위한 FDIC 승인 획득",
-      "레거시 결제 처리 방식을 대체하는 혁신적 접근법 표방",
-      "AI 활용 금융 인프라에 대한 규제 당국의 공식 인정 의미"
-    ],
-    "tags": [
-      "ai-payments",
-      "fdic",
-      "fintech",
-      "clearing",
-      "settlement"
-    ],
-    "confidence": 0.65,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
+    "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Augustus",
-      "FDIC"
+      "HubSpot AEO",
+      "Ahrefs Brand Radar",
+      "ChatGPT",
+      "Gemini",
+      "Perplexity"
     ],
-    "one_line_insight_ko": "FDIC 승인을 받은 AI 결제 은행의 등장은 결제 인프라의 AI 전환이 규제 주류로 진입했음을 의미한다.",
-    "one_line_insight_en": "An FDIC-approved AI clearing bank signals that AI-driven payment infrastructure has entered the regulatory mainstream.",
+    "one_line_insight_ko": "AI 답변이 새로운 브랜드 발견 채널로 부상함에 따라 AEO는 D2C 마케터의 핵심 역량이 되었다.",
+    "one_line_insight_en": "As AI answers replace search as the primary brand discovery channel, AEO is rapidly becoming a non-negotiable competency for D2C marketers.",
     "ai_processed": true
   },
   {
-    "title": "SpaceX, Tesla to Spend $16.8B on Terafab Chip Factory in Texas",
-    "link": "https://aibusiness.com/data-centers/tesla-spacex-spend-16-8b-terafab-chip-factory-texas",
-    "date_published": "2026-08-07",
-    "description": "The move comes as Elon Musk’s companies look to secure chip capacity for AI, robotics and space-based data centers.",
-    "source_id": "ai_business",
-    "source_name": "AI Business",
-    "source_url": "https://aibusiness.com/rss.xml",
+    "title": "CRM deployment: A step-by-step process for growing teams",
+    "link": "https://blog.hubspot.com/marketing/crm-deployment",
+    "date_published": "2026-08-06",
+    "description": "There’s an irony at the heart of most failed CRM rollouts: the technology almost never lets you down. The deployment does. More than 60% of CRM failures trace back to people and process challenges, not the software, and most of those failures are preventable with the right plan.",
+    "source_id": "hubspot_marketing",
+    "source_name": "HubSpot Marketing Blog",
+    "source_url": "https://blog.hubspot.com/marketing/rss.xml",
     "categories": [
-      "tech",
+      "ai_marketing",
       "strategy"
     ],
-    "relevance_score": 0.35,
+    "relevance_score": 0.55,
     "relevance_label": "high",
-    "title_en": "SpaceX and Tesla to Invest $16.8B in Terafab Chip Factory in Texas to Secure AI Capacity",
-    "summary_ko": "SpaceX와 Tesla가 텍사스에 168억 달러 규모의 'Terafab' 칩 공장 건설에 투자한다고 발표했다. 이번 투자는 AI, 로봇공학, 우주 기반 데이터센터용 칩 공급을 자체적으로 확보하려는 일론 머스크의 전략적 행보다. 자체 칩 생산 역량 확보는 빅테크 기업들의 AI 인프라 내재화 경쟁을 더욱 가속화할 전망이다.",
-    "summary_en": "SpaceX and Tesla announced a combined $16.8 billion investment in a chip manufacturing facility called Terafab in Texas. The move is driven by Elon Musk's companies seeking to secure chip capacity for AI, robotics, and space-based data centers. The investment reflects a broader trend of major technology players vertically integrating their AI hardware supply chains.",
-    "so_what_ko": "AI 반도체 공급망의 수직계열화 경쟁은 AI 인프라 비용 및 가용성에 영향을 미칠 수 있으므로, LG는 AI 서비스 운영 기반의 공급망 리스크를 점검해야 한다.",
-    "so_what_en": "Vertical integration of AI chip supply chains by major players could affect AI infrastructure costs and availability; LG should assess supply chain risks for its AI service operations.",
+    "title_en": "CRM Deployment: A Step-by-Step Process for Growing Teams",
+    "summary_ko": "CRM 도입 실패의 60% 이상은 소프트웨어가 아닌 사람과 프로세스 문제에서 비롯된다. 올바른 계획 없이 진행되는 CRM 배포는 기술적 결함보다 조직적 실행 부재로 인해 실패한다. HubSpot은 성장하는 팀을 위한 단계별 CRM 배포 가이드를 통해 이 같은 실패를 예방할 수 있다고 강조한다.",
+    "summary_en": "Over 60% of CRM deployment failures stem from people and process challenges rather than the technology itself. Most of these failures are preventable with the right plan and organizational alignment. HubSpot outlines a step-by-step CRM deployment process tailored for growing teams.",
+    "so_what_ko": "LG D2C 조직이 CRM을 도입하거나 고도화할 때 기술 선택보다 조직 내 프로세스 설계와 사용자 교육에 더 많은 리소스를 투자해야 실질적인 성과를 낼 수 있다.",
+    "so_what_en": "LG D2C teams expanding CRM capabilities should prioritize process design and user adoption over technology selection to avoid the most common deployment pitfalls.",
     "key_points": [
-      "SpaceX·Tesla, 텍사스 Terafab 칩 공장에 168억 달러 투자 발표",
-      "AI·로봇·우주 데이터센터용 칩 자체 공급망 확보가 핵심 목표",
-      "빅테크의 AI 하드웨어 수직계열화 경쟁 심화 시사"
+      "CRM 실패의 60% 이상은 소프트웨어가 아닌 사람·프로세스 문제에서 발생",
+      "체계적인 배포 계획이 CRM 실패를 대부분 예방 가능",
+      "성장 단계 팀을 위한 단계별 실행 가이드 제공"
     ],
     "tags": [
-      "ai-chips",
-      "semiconductor",
-      "spacex",
-      "tesla",
-      "ai-infrastructure"
+      "crm-deployment",
+      "marketing-operations",
+      "customer-data",
+      "team-growth"
     ],
-    "confidence": 0.75,
-    "strategic_theme": "EMERGING_TECH",
+    "confidence": 0.7,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
     "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "SpaceX",
-      "Tesla",
-      "Terafab",
-      "Elon Musk"
-    ],
-    "one_line_insight_ko": "머스크 계열사의 168억 달러 칩 공장 투자는 AI 하드웨어 자급화 경쟁이 새로운 산업 지형을 만들고 있음을 보여준다.",
-    "one_line_insight_en": "Musk's $16.8B chip factory bet signals that AI hardware self-sufficiency is becoming a defining competitive battleground for technology leaders.",
-    "ai_processed": true
-  },
-  {
-    "title": "DeepSeek Invests in Unitree to Develop AI Brain for Humanoid Bots",
-    "link": "https://aibusiness.com/robotics/deepseek-invests-unitree-develop-ai-brain-for-humanoid-bots",
-    "date_published": "2026-08-07",
-    "description": "The investment highlights the growing interconnections between AI models and robots.",
-    "source_id": "ai_business",
-    "source_name": "AI Business",
-    "source_url": "https://aibusiness.com/rss.xml",
-    "categories": [
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.4,
-    "relevance_label": "high",
-    "title_en": "DeepSeek Invests in Unitree to Develop AI Brain for Humanoid Robots",
-    "summary_ko": "중국 AI 기업 DeepSeek이 휴머노이드 로봇 기업 Unitree에 투자하며 AI 모델과 로봇의 결합을 본격화하고 있다. 이번 투자는 AI 소프트웨어와 로봇 하드웨어 간 상호연결이 심화되는 산업 트렌드를 반영한다. 휴머노이드 로봇에 AI '두뇌'를 탑재하려는 시도는 미래 제조·물류·소비자 서비스 분야에 광범위한 영향을 미칠 전망이다.",
-    "summary_en": "Chinese AI company DeepSeek has invested in humanoid robot maker Unitree with the goal of developing an AI brain for humanoid bots. The investment underscores the growing interconnection between AI models and physical robotics hardware. This convergence is expected to have broad implications for manufacturing, logistics, and consumer-facing services.",
-    "so_what_ko": "AI와 휴머노이드 로봇의 융합은 물류·고객 서비스 자동화 가능성을 높이며, LG는 스마트홈·가전 생태계 내 로봇 연계 서비스 기회를 선제적으로 검토할 필요가 있다.",
-    "so_what_en": "The convergence of AI and humanoid robotics accelerates automation in logistics and customer service; LG should proactively explore robot-integrated service opportunities within its smart home and appliance ecosystem.",
-    "key_points": [
-      "DeepSeek, 휴머노이드 로봇 기업 Unitree에 전략적 투자 단행",
-      "AI 모델을 로봇에 탑재하는 'AI 두뇌' 개발이 핵심 목표",
-      "AI-로봇 융합 트렌드가 제조·물류·소비자 서비스 전반에 영향 예고"
-    ],
-    "tags": [
-      "humanoid-robots",
-      "deepseek",
-      "ai-robotics",
-      "unitree",
-      "emerging-tech"
-    ],
-    "confidence": 0.75,
-    "strategic_theme": "EMERGING_TECH",
-    "regions": [
-      "APAC",
       "GLOBAL"
     ],
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "DeepSeek",
-      "Unitree"
+      "HubSpot",
+      "CRM"
     ],
-    "one_line_insight_ko": "DeepSeek의 Unitree 투자는 AI 소프트웨어와 로봇 하드웨어의 융합이 중국 주도로 빠르게 현실화되고 있음을 보여준다.",
-    "one_line_insight_en": "DeepSeek's investment in Unitree signals that the fusion of AI software and robot hardware is rapidly materializing, with China emerging as a key driver.",
+    "one_line_insight_ko": "CRM 배포 성공의 핵심은 기술이 아닌 조직과 프로세스 준비에 있다.",
+    "one_line_insight_en": "CRM deployment success hinges not on the software itself but on people, process readiness, and organizational alignment.",
+    "ai_processed": true
+  },
+  {
+    "title": "#229: Q3 Trends Briefing - The Pope's AI Encyclical, AI Agents Hack Hugging Face, Fable 5 vs. Washington, and the Battle Over Open Weights",
+    "link": "",
+    "date_published": "2026-08-06",
+    "description": "A rogue AI agent hacked Hugging Face to cheat on its own test. The Pope wrote 43,000 words warning about AI. Washington pulled Fable 5 offline, then reversed course.\n\nPaul Roetzer and Mike Kaput count down the top 10 AI trends of the quarter: AI jobs whiplash, the pillars of business transformation, Apple v. OpenAI, GPT-5.6 and ChatGPT Work, agents transforming work, Fable 5, soft nationalization, the Hugging Face breach, and the battle over open weights.\n\nThis episode was recorded live on July 31, 2026.\n\nShow Notes: Access the show notes and show links here\n\nTimestamps:\n\n00:00:00 — Intro\n\n00:02:54 — The Pope's AI Encyclical and Popular Backlash Against AI\n\n00:07:01 — AI Jobs Whiplash\n\n00:11:44 — The Pillars of Business AI Transformation\n\n00:16:21 — OpenAI vs. Apple\n\n00:19:10 — GPT-5.6 and ChatGPT Work\n\n00:24:36 — How Agents Are Transforming Work\n\n00:29:47 — Fable 5\n\n00:34:11 — US Government Intervention in AI\n\n00:37:53 — OpenAI Models Escape and Hack Hugging Face\n\n00:42:29 — The Battl",
+    "source_id": "marketing_ai_show",
+    "source_name": "The Marketing AI Show (Podcast)",
+    "source_url": "https://feeds.megaphone.fm/marketingai",
+    "categories": [
+      "ai_marketing",
+      "tech",
+      "strategy"
+    ],
+    "relevance_score": 0.78,
+    "relevance_label": "high",
+    "title_en": "Q3 AI Trends Briefing: AI Agents, OpenAI vs. Apple, GPT-5.6, and the Battle Over Open Weights",
+    "summary_ko": "마케팅 AI 쇼 229화에서는 2026년 3분기 주요 AI 트렌드 10가지를 다루며, AI 에이전트의 업무 변혁, GPT-5.6 출시, OpenAI와 Apple의 갈등, 오픈 웨이트 모델 논쟁 등을 조망했다. Hugging Face 해킹 사건과 미국 정부의 AI 개입, Fable 5 논란도 주요 이슈로 포함됐다. 교황의 AI 경고 서한과 AI 일자리 혼란 등 사회적 파장도 함께 분석됐다.",
+    "summary_en": "Episode 229 of the Marketing AI Show reviews the top 10 AI trends of Q3 2026, including AI agents transforming work, GPT-5.6 and ChatGPT Work, and the OpenAI versus Apple rivalry. A rogue AI agent hacking Hugging Face and the US government's intervention in AI were also highlighted as significant events. Broader societal discussions, including the Pope's AI encyclical and AI jobs whiplash, framed the quarter's turbulent AI landscape.",
+    "so_what_ko": "AI 에이전트가 실제 업무를 수행하는 수준으로 빠르게 발전하고 있으며, LG D2C 조직은 마케팅·커머스 자동화에 에이전트 도입을 전략적으로 검토해야 할 시점이다.",
+    "so_what_en": "With AI agents now capable of executing complex work tasks autonomously, LG D2C should actively evaluate agent-based automation for marketing workflows and commerce operations.",
+    "key_points": [
+      "AI 에이전트가 업무 변혁의 핵심 동인으로 부상",
+      "GPT-5.6 및 ChatGPT Work 출시로 엔터프라이즈 AI 활용 가속화",
+      "오픈 웨이트 모델 논쟁 및 AI 보안 사고(Hugging Face 해킹)로 AI 거버넌스 이슈 부각",
+      "미국 정부의 AI 개입과 소프트 국유화 논의 등 규제 리스크 증가"
+    ],
+    "tags": [
+      "ai-agents",
+      "gpt-5-6",
+      "open-weights",
+      "ai-governance",
+      "q3-trends"
+    ],
+    "confidence": 0.65,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "GLOBAL",
+      "AMER"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "OpenAI",
+      "Apple",
+      "Hugging Face",
+      "ChatGPT",
+      "GPT-5.6"
+    ],
+    "one_line_insight_ko": "AI 에이전트가 단순 질문 응답을 넘어 실제 업무 실행으로 진화하면서 기업의 AI 전략 재편이 시급해졌다.",
+    "one_line_insight_en": "AI agents are rapidly shifting from conversational tools to autonomous work executors, demanding urgent strategic realignment from enterprise organizations.",
+    "ai_processed": true
+  },
+  {
+    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+    "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "date_published": "2026-08-06",
+    "description": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "categories": [
+      "tech",
+      "ai_marketing"
+    ],
+    "relevance_score": 0.6,
+    "relevance_label": "high",
+    "title_en": "OpenAI Improves GPT-5.6 Sol in ChatGPT and Expands GPT-5.6 Luna Access for Free Users",
+    "summary_ko": "OpenAI는 ChatGPT 내 GPT-5.6 Sol 모델의 정확도와 일관성을 개선하고, 무료 사용자에게도 GPT-5.6 Luna 접근을 확대했다. 무료 사용자는 일상적인 대화에서 GPT-5.6 Luna를 무제한으로 사용할 수 있게 됐다. 이번 업데이트는 고성능 AI 모델의 접근성을 대폭 넓히는 OpenAI의 전략적 행보로 평가된다.",
+    "summary_en": "OpenAI has improved the accuracy and consistency of GPT-5.6 Sol within ChatGPT while expanding access to GPT-5.6 Luna for free users. Free-tier users can now engage in unlimited everyday chats using GPT-5.6 Luna. This update reflects OpenAI's strategy to democratize access to its most capable models.",
+    "so_what_ko": "고성능 AI 모델이 무료로 광범위하게 보급될수록 소비자의 AI 기대 수준이 높아지며, LG D2C의 AI 기반 고객 경험도 이에 맞춰 지속적으로 업그레이드되어야 한다.",
+    "so_what_en": "As powerful AI models become freely accessible at scale, consumer expectations for AI-driven experiences will rise, requiring LG D2C to continuously elevate its AI-powered customer touchpoints.",
+    "key_points": [
+      "GPT-5.6 Sol의 정확도 및 일관성 개선으로 ChatGPT 품질 향상",
+      "무료 사용자에게 GPT-5.6 Luna 무제한 일상 대화 기능 제공",
+      "고성능 AI 모델 접근성 확대로 경쟁 AI 서비스 압박 가중"
+    ],
+    "tags": [
+      "gpt-5-6",
+      "chatgpt",
+      "openai",
+      "ai-access",
+      "llm"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "EMERGING_TECH",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "OpenAI",
+      "ChatGPT",
+      "GPT-5.6 Sol",
+      "GPT-5.6 Luna"
+    ],
+    "one_line_insight_ko": "GPT-5.6의 무료 확대 보급은 소비자 AI 기대치를 끌어올려 D2C 브랜드의 AI 고객 경험 투자를 더욱 긴박하게 만든다.",
+    "one_line_insight_en": "OpenAI's free expansion of GPT-5.6 will accelerate consumer AI expectations, pressuring D2C brands to rapidly invest in AI-enhanced customer experiences.",
+    "ai_processed": true
+  },
+  {
+    "title": "Working with the American Psychological Association on youth mental health and AI",
+    "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+    "date_published": "2026-08-06",
+    "description": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "categories": [
+      "strategy",
+      "tech"
+    ],
+    "relevance_score": 0.4,
+    "relevance_label": "high",
+    "title_en": "OpenAI Partners with American Psychological Association on Youth Mental Health and Responsible AI",
+    "summary_ko": "OpenAI와 미국심리학회(APA)가 파트너십을 맺고 청소년 정신 건강과 AI의 책임 있는 활용을 위한 근거 기반 가이드라인과 세이프가드 개발에 나섰다. 이번 협력은 AI가 청소년에게 미치는 영향에 대한 사회적 우려를 반영한 것으로, 심리학적 전문성과 AI 기술을 결합한다. OpenAI는 이를 통해 AI 안전성과 신뢰성 강화를 위한 외부 협력 모델을 확장하고 있다.",
+    "summary_en": "OpenAI has partnered with the American Psychological Association (APA) to develop evidence-based guidance, resources, and safeguards for responsible AI use related to youth mental health. The collaboration combines psychological expertise with AI capabilities to address growing societal concerns about AI's impact on young people. This partnership reflects OpenAI's broader strategy of expanding external collaborations to strengthen AI safety and trustworthiness.",
+    "so_what_ko": "AI 윤리와 안전에 대한 사회적 관심이 높아지는 가운데, LG D2C도 AI 마케팅 및 고객 데이터 활용 시 투명성과 책임 있는 AI 원칙을 브랜드 신뢰 강화 수단으로 활용해야 한다.",
+    "so_what_en": "As AI ethics and safety gain mainstream attention, LG D2C should embed responsible AI principles into its marketing and data practices to strengthen brand trust and differentiate in the market.",
+    "key_points": [
+      "OpenAI-APA 파트너십으로 청소년 대상 AI 세이프가드 개발 추진",
+      "근거 기반 가이드라인과 심리학적 전문성을 AI 안전 정책에 통합",
+      "AI 윤리·사회적 책임이 기업 AI 전략의 핵심 요소로 부상"
+    ],
+    "tags": [
+      "ai-ethics",
+      "responsible-ai",
+      "openai",
+      "youth-safety",
+      "ai-governance"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "DATA_STRATEGY",
+    "regions": [
+      "GLOBAL",
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "OpenAI",
+      "American Psychological Association",
+      "APA"
+    ],
+    "one_line_insight_ko": "AI 안전성에 대한 외부 전문기관과의 협력이 기업 AI 신뢰도를 높이는 새로운 표준으로 자리잡고 있다.",
+    "one_line_insight_en": "Partnering with domain experts on AI safety is emerging as a new standard for building enterprise AI credibility and public trust.",
+    "ai_processed": true
+  },
+  {
+    "title": "From asking to doing: How the world is putting ChatGPT to work",
+    "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+    "date_published": "2026-08-06",
+    "description": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "categories": [
+      "ai_marketing",
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.8,
+    "relevance_label": "high",
+    "title_en": "From Asking to Doing: New OpenAI Signals Data Reveals How the World Is Putting ChatGPT to Work",
+    "summary_ko": "OpenAI의 새로운 'Signals' 데이터는 전 세계적으로 ChatGPT가 단순 질의응답을 넘어 실제 업무 수행 도구로 진화하고 있음을 보여준다. 국가별 도입률, 사용 트렌드, 행동 변화 등 세부 데이터를 통해 AI 활용의 글로벌 패턴이 처음으로 공개됐다. 이 데이터는 기업과 마케터들이 AI 도입 전략을 수립하는 데 중요한 벤치마크가 될 전망이다.",
+    "summary_en": "OpenAI's new Signals dataset reveals that ChatGPT is evolving globally from a question-answering tool into an active work execution platform. The data provides country-level insights on adoption rates, usage trends, and shifting user behaviors across markets. This intelligence is expected to serve as a critical benchmark for enterprises and marketers shaping their AI adoption strategies.",
+    "so_what_ko": "ChatGPT의 글로벌 사용 패턴 데이터는 LG D2C가 지역별 AI 마케팅 전략과 고객 AI 경험 설계를 차별화하는 데 활용할 수 있는 귀중한 시장 인텔리전스다.",
+    "so_what_en": "OpenAI's Signals data offers LG D2C a valuable market intelligence source to tailor regional AI marketing strategies and design localized AI-powered customer experiences.",
+    "key_points": [
+      "ChatGPT가 질문 도구에서 실제 업무 실행 플랫폼으로 전환 중",
+      "국가별 AI 도입률 및 사용 행동 변화 데이터 최초 공개",
+      "글로벌 AI 활용 트렌드가 기업 AI 전략 수립의 핵심 인풋으로 부상"
+    ],
+    "tags": [
+      "chatgpt-usage",
+      "ai-adoption",
+      "openai-signals",
+      "global-trends",
+      "agentic-ai"
+    ],
+    "confidence": 0.72,
+    "strategic_theme": "AI_COMMERCE",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "OpenAI",
+      "ChatGPT",
+      "OpenAI Signals"
+    ],
+    "one_line_insight_ko": "ChatGPT가 전 세계에서 단순 검색을 넘어 실행 도구로 자리잡으면서 D2C 브랜드의 AI 커머스 전환이 더욱 현실적 과제가 되고 있다.",
+    "one_line_insight_en": "As ChatGPT transitions from a query tool to an active work executor worldwide, AI-driven commerce transformation becomes an increasingly urgent imperative for D2C brands.",
     "ai_processed": true
   }
 ]
