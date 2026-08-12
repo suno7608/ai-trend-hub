@@ -1,444 +1,80 @@
 [
   {
-    "title": "Bob’s Discount Furniture is winning over higher-income shoppers",
-    "link": "https://www.retaildive.com/news/bobs-discount-furniture-higher-income-consumers-q2-earnings/827396/",
-    "date_published": "2026-08-10",
-    "description": "The furniture retailer, known for its value-oriented marketing, said it’s seeing momentum build within its cohort of customers earning over $100,000.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
+    "title": "Rhone CMO on marketing at an inflection point for the apparel brand",
+    "link": "https://www.marketingdive.com/news/rhone-cmo-on-marketing-at-an-inflection-point-for-the-apparel-brand/827382/",
+    "date_published": "2026-08-11",
+    "description": "“A Love Letter to NYC” arrives amid the growth of the brand’s retail and wholesale ambitions, alongside an evolution of performance apparel.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
     "categories": [
-      "commerce",
       "marketing",
       "strategy"
     ],
-    "relevance_score": 0.4,
+    "relevance_score": 0.45,
     "relevance_label": "high",
-    "title_en": "Bob's Discount Furniture Gains Traction Among Higher-Income Shoppers",
-    "summary_ko": "Bob's Discount Furniture는 전통적으로 가성비 마케팅으로 알려진 가구 소매업체로, 연소득 10만 달러 이상의 고소득 고객층에서 성장 모멘텀을 확인하고 있다. 이는 고소득 소비자들이 경제 불확실성 속에서 가치 지향적 브랜드로 이동하는 트렌드를 반영한다. 해당 동향은 Q2 실적 발표에서 공개되었다.",
-    "summary_en": "Bob's Discount Furniture, known for its value-oriented marketing, is seeing growing momentum among customers earning over $100,000 annually. This signals a broader shift where higher-income consumers are increasingly gravitating toward value-driven retailers. The trend was highlighted during the company's Q2 earnings report.",
-    "so_what_ko": "LG D2C는 고가 제품 라인업에서도 '가치 중심' 메시지를 강화하여 고소득 소비자를 유입시키는 포지셔닝 전략을 검토할 필요가 있다.",
-    "so_what_en": "LG D2C should consider reinforcing value-driven messaging even for premium product lines to attract high-income consumers seeking perceived value.",
+    "title_en": "Rhone CMO Navigates Brand Inflection Point with NYC Campaign and Retail Expansion",
+    "summary_ko": "남성 퍼포먼스 어패럴 브랜드 Rhone의 CMO가 'A Love Letter to NYC' 캠페인을 통해 브랜드의 새로운 성장 국면을 알렸다. 이번 캠페인은 리테일 및 홀세일 채널 확장과 맞물려 브랜드 포지셔닝을 강화하는 전략의 일환이다. 퍼포먼스 어패럴 카테고리의 진화 속에서 마케팅 전략의 전환점을 모색하고 있다.",
+    "summary_en": "Rhone's CMO launched the 'A Love Letter to NYC' campaign as the brand reaches a strategic inflection point in its growth trajectory. The campaign aligns with the brand's expanding retail and wholesale ambitions, signaling a broader push beyond its D2C roots. The move reflects an evolution in performance apparel marketing as the brand scales across channels.",
+    "so_what_ko": "D2C 브랜드가 성장 단계에서 리테일·홀세일 채널로 확장할 때 브랜드 캠페인을 통해 일관된 정체성을 유지하는 전략은 LG D2C 조직에도 참고할 만한 사례다.",
+    "so_what_en": "As D2C brands scale into retail and wholesale, anchoring expansion with strong brand campaigns offers a replicable model for LG D2C to maintain identity while growing across channels.",
     "key_points": [
-      "Bob's Discount Furniture는 $100K 이상 고소득 소비자 코호트에서 성장세 확인",
-      "가성비 포지셔닝이 고소득층에도 유효한 마케팅 전략임을 시사",
-      "Q2 실적에서 해당 고객 세그먼트의 모멘텀이 공식 언급됨"
+      "Rhone launched 'A Love Letter to NYC' campaign at a key brand growth inflection point",
+      "Brand is expanding retail and wholesale presence alongside its D2C business",
+      "Performance apparel category is evolving, requiring updated marketing positioning"
     ],
     "tags": [
-      "value-retail",
-      "consumer-behavior",
-      "d2c-strategy",
-      "furniture-retail"
+      "brand-marketing",
+      "d2c-expansion",
+      "omnichannel",
+      "performance-apparel"
     ],
-    "confidence": 0.6,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "confidence": 0.55,
+    "strategic_theme": "AI_MARKETING",
     "regions": [
       "AMER"
     ],
     "business_impact": "LOW",
-    "sentiment": "OPPORTUNITY",
+    "sentiment": "NEUTRAL",
     "key_entities": [
-      "Bob's Discount Furniture"
+      "Rhone"
     ],
-    "one_line_insight_ko": "가성비 브랜드가 고소득층을 흡수하는 현상은 D2C 브랜드의 가치 메시지 재정립 필요성을 시사한다.",
-    "one_line_insight_en": "Value-oriented retailers attracting high-income shoppers signals an opportunity for D2C brands to reframe their value proposition.",
+    "one_line_insight_ko": "D2C 브랜드의 멀티채널 확장 시 브랜드 캠페인을 전략적 전환점으로 활용하는 것이 효과적이다.",
+    "one_line_insight_en": "D2C brands can use bold brand campaigns as strategic anchors when expanding into retail and wholesale channels.",
     "ai_processed": true
   },
   {
-    "title": "S4 and Monks are trying to get ahead of rising AI token costs",
-    "link": "https://digiday.com/marketing/s4s-growing-margins-please-shareholders-but-can-it-balance-cost-controls-with-ai-token-spend/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-08-11",
-    "description": "Monks is considered a leader in AI marketing services, but “exploding” use of AI tokens poses difficult questions for execs focused on keeping costs down.",
+    "title": "Lifestyle brand Stanley 1913 adapts its marketing for the AI search era",
+    "link": "https://digiday.com/marketing/lifestyle-brand-stanley-1913-adapts-its-marketing-for-the-ai-search-era/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-08-12",
+    "description": "The marketing it was doing worked well, but only for a human audience. The brand needed different approaches to ensure it was picked up by the AI platforms.",
     "source_id": "digiday",
     "source_name": "Digiday",
     "source_url": "https://digiday.com/feed",
     "categories": [
+      "marketing",
       "ai_marketing",
       "strategy"
     ],
-    "relevance_score": 0.82,
+    "relevance_score": 0.9,
     "relevance_label": "high",
-    "title_en": "S4 Capital's Monks Navigates Surging AI Token Costs to Protect Margins",
-    "summary_ko": "S4 Capital 산하 AI 마케팅 서비스 리더 Monks는 AI 토큰 사용량 급증으로 인한 비용 압박에 직면하고 있으며, 마진을 유지하면서 AI 역량을 확장하는 균형점을 찾는 데 어려움을 겪고 있다. 경영진은 비용 통제와 AI 투자 확대 사이의 긴장을 관리해야 하는 복잡한 과제에 놓여 있다. 이 문제는 AI 마케팅 서비스 업계 전반에 걸친 구조적 비용 도전을 보여준다.",
-    "summary_en": "Monks, widely regarded as a leader in AI marketing services under S4 Capital, is grappling with 'exploding' AI token usage costs that threaten profit margins. Executives face difficult decisions around balancing cost controls with the necessary investment in AI capabilities to stay competitive. This challenge reflects a broader structural cost issue emerging across the AI marketing services industry.",
-    "so_what_ko": "LG D2C가 외부 AI 마케팅 에이전시를 활용할 경우, AI 토큰 비용의 전가 방식과 계약 구조를 사전에 협의하여 예산 리스크를 관리해야 한다.",
-    "so_what_en": "When LG D2C engages AI marketing agencies, it should proactively negotiate AI token cost pass-through mechanisms and contract structures to manage budget risk.",
+    "title_en": "Stanley 1913 Overhauls Marketing Strategy to Stay Visible in the AI Search Era",
+    "summary_ko": "라이프스타일 브랜드 Stanley 1913이 AI 검색 플랫폼에서의 브랜드 노출을 확보하기 위해 마케팅 전략을 전면 재편하고 있다. 기존 마케팅은 인간 독자를 대상으로 최적화되어 있었으나, AI 플랫폼이 콘텐츠를 해석하는 방식에 맞춘 새로운 접근이 필요해졌다. 브랜드는 AI 검색 가시성을 확보하기 위한 구체적인 콘텐츠 및 SEO 전략을 도입하고 있다.",
+    "summary_en": "Stanley 1913 is overhauling its marketing approach to ensure visibility within AI-powered search platforms, recognizing that human-optimized content does not automatically translate to AI discoverability. The brand identified a gap between its existing marketing effectiveness for human audiences and its performance within AI-driven search environments. New strategies are being adopted to align content with how AI platforms interpret and surface brand information.",
+    "so_what_ko": "AI 검색 최적화(AEO)는 이제 선택이 아닌 필수로, LG D2C도 제품 콘텐츠와 브랜드 정보를 AI 플랫폼이 인식할 수 있는 구조로 재설계해야 한다.",
+    "so_what_en": "LG D2C must proactively restructure product content and brand narratives to be AI-discoverable, as AI search platforms increasingly mediate consumer purchase journeys.",
     "key_points": [
-      "Monks는 AI 마케팅 서비스 분야의 선도 기업으로 AI 토큰 비용 급증 문제에 직면",
-      "AI 사용 확대와 마진 유지 간 균형이 에이전시 경영의 핵심 과제로 부상",
-      "AI 마케팅 서비스 비용 구조의 불확실성이 클라이언트 예산 계획에 영향을 미칠 수 있음"
+      "Stanley 1913's existing marketing was optimized for human audiences but not AI search platforms",
+      "The brand is developing new content strategies to ensure AI platform visibility",
+      "AI search optimization is emerging as a distinct and critical marketing discipline for consumer brands",
+      "Brands risk invisibility in AI-driven search if they do not adapt their content structure"
     ],
     "tags": [
-      "ai-token-costs",
-      "ai-marketing-services",
-      "agency-economics",
-      "s4-capital"
-    ],
-    "confidence": 0.75,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "S4 Capital",
-      "Monks"
-    ],
-    "one_line_insight_ko": "AI 마케팅 서비스의 토큰 비용 급증은 에이전시와 클라이언트 모두에게 새로운 비용 구조 재설계를 요구한다.",
-    "one_line_insight_en": "Surging AI token costs are forcing a fundamental rethinking of the economics of AI marketing services for both agencies and their clients.",
-    "ai_processed": true
-  },
-  {
-    "title": "Walmart finally lets advertisers exclude certain search terms",
-    "link": "https://www.modernretail.co/marketing/walmart-finally-lets-advertisers-exclude-certain-search-terms/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-08-11",
-    "description": "Walmart's advertising platform is giving brands more control over where they show up in searches, marking a significant change in how their ad budgets are spent.",
-    "source_id": "modern_retail",
-    "source_name": "Modern Retail",
-    "source_url": "https://www.modernretail.co/feed/",
-    "categories": [
-      "commerce",
-      "ai_marketing"
-    ],
-    "relevance_score": 0.78,
-    "relevance_label": "high",
-    "title_en": "Walmart Advertising Now Allows Brands to Exclude Specific Search Terms",
-    "summary_ko": "Walmart의 광고 플랫폼이 브랜드에게 특정 검색어에서 광고 노출을 제외할 수 있는 기능을 제공하기 시작했으며, 이는 광고주의 예산 통제력을 크게 향상시키는 중요한 변화다. 이전까지 Walmart 광고 플랫폼은 이 기능이 없어 광고주들이 불필요한 검색 결과에 예산을 낭비하는 경우가 있었다. 이번 업데이트는 Walmart의 광고 플랫폼 성숙도를 높이고 Google·Amazon과의 경쟁력을 강화하는 데 기여할 것으로 보인다.",
-    "summary_en": "Walmart's advertising platform has introduced the ability for brands to exclude specific search terms, marking a significant upgrade in advertiser control over ad spend. Previously, the absence of this feature led to wasted budget on irrelevant search results, a pain point for many advertisers. This update enhances Walmart's ad platform competitiveness against rivals like Amazon Advertising and Google.",
-    "so_what_ko": "LG D2C가 Walmart 광고 플랫폼을 활용 중이라면, 신규 검색어 제외 기능을 즉시 적용하여 광고 예산 효율을 최적화하고 브랜드 안전성을 강화해야 한다.",
-    "so_what_en": "LG D2C teams using Walmart's ad platform should immediately leverage the new negative keyword feature to improve ad spend efficiency and ensure brand-safe placements.",
-    "key_points": [
-      "Walmart 광고 플랫폼에 특정 검색어 제외(네거티브 키워드) 기능 신규 도입",
-      "광고주의 예산 통제력 및 광고 집행 정밀도 대폭 향상",
-      "Amazon Advertising 등 경쟁 플랫폼 대비 기능 격차 축소"
-    ],
-    "tags": [
-      "walmart-advertising",
-      "negative-keywords",
-      "retail-media",
-      "ad-platform"
-    ],
-    "confidence": 0.85,
-    "strategic_theme": "PLATFORM_ECOSYSTEM",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Walmart"
-    ],
-    "one_line_insight_ko": "Walmart의 네거티브 키워드 기능 도입은 리테일 미디어 광고 정밀도를 높여 D2C 브랜드의 ROI 개선에 직접적으로 기여한다.",
-    "one_line_insight_en": "Walmart's new negative keyword capability directly improves ad ROI for D2C brands by enabling more precise retail media targeting.",
-    "ai_processed": true
-  },
-  {
-    "title": "What GenAI Visibility Tactics Miss",
-    "link": "https://www.practicalecommerce.com/what-genai-visibility-tactics-miss",
-    "date_published": "2026-08-10",
-    "description": "There's no single fix for elevating AI visibility, despite assurances from many agencies and service providers.\nThe post What GenAI Visibility Tactics Miss appeared first on Practical Ecommerce.",
-    "source_id": "practical_ecommerce",
-    "source_name": "Practical Ecommerce",
-    "source_url": "https://www.practicalecommerce.com/feed",
-    "categories": [
-      "ai_marketing",
-      "commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.85,
-    "relevance_label": "high",
-    "title_en": "What Most GenAI Visibility Tactics Are Getting Wrong",
-    "summary_ko": "많은 에이전시와 서비스 제공업체들이 AI 가시성 향상을 위한 단일 해법을 제시하고 있지만, 실제로는 GenAI 환경에서 브랜드 노출도를 높이기 위한 만능 전략은 존재하지 않는다. AI 가시성은 다층적인 요소들의 복합적 결과물로, 단순한 전술적 접근만으로는 효과를 거두기 어렵다. 이 기사는 현재 GenAI 가시성 전술들이 놓치고 있는 핵심 요소들을 짚어낸다.",
-    "summary_en": "Despite promises from many agencies and service providers, there is no single fix for elevating a brand's visibility within generative AI platforms and search results. GenAI visibility is the outcome of multiple complex factors, and purely tactical approaches are unlikely to deliver sustained results. The article critiques the oversimplification of GenAI visibility strategies currently prevalent in the market.",
-    "so_what_ko": "LG D2C는 GenAI 검색 가시성 향상을 위해 단일 전술보다 콘텐츠 품질, 구조화 데이터, 권위 있는 출처 인용 등 복합적 접근 전략을 수립해야 한다.",
-    "so_what_en": "LG D2C should build a multi-layered GenAI visibility strategy—covering content quality, structured data, and authoritative citations—rather than relying on any single tactical fix.",
-    "key_points": [
-      "GenAI 환경에서의 브랜드 가시성 향상에는 단일 해결책이 존재하지 않음",
-      "다수의 에이전시가 과도하게 단순화된 AI 가시성 전술을 판매하고 있어 주의 필요",
-      "지속 가능한 GenAI 가시성은 복합적이고 장기적인 전략을 요구함"
-    ],
-    "tags": [
-      "genai-visibility",
-      "ai-seo",
+      "ai-search",
+      "aeo",
       "content-strategy",
-      "ecommerce-marketing"
-    ],
-    "confidence": 0.72,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Practical Ecommerce"
-    ],
-    "one_line_insight_ko": "GenAI 가시성은 단일 전술로 해결될 수 없으며, LG D2C는 복합적 AI 검색 최적화 전략을 조기에 내재화해야 한다.",
-    "one_line_insight_en": "GenAI visibility cannot be solved by a single tactic, making it imperative for LG D2C to internalize a multi-dimensional AI search optimization strategy early.",
-    "ai_processed": true
-  },
-  {
-    "title": "DXL board chair steps in for CEO as challenges mount",
-    "link": "https://www.retaildive.com/news/dxl-board-chair-takes-over-ceo-retires-challenges-mount/827407/",
-    "date_published": "2026-08-10",
-    "description": "The big-and-tall men’s retailer is mulling a merger, fighting off a takeover offer and grappling with weight-loss drugs’ impact on its business.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.3,
-    "relevance_label": "high",
-    "title_en": "DXL Board Chair Steps In as CEO Retires Amid Merger Talks and Business Pressures",
-    "summary_ko": "빅앤톨 남성 의류 소매업체 DXL은 CEO 퇴임 후 이사회 의장이 임시로 경영을 맡게 되었으며, 인수 제안 방어, 합병 검토, GLP-1 체중감량 약물이 핵심 고객층에 미치는 영향이라는 복합적 도전에 직면해 있다. 체중감량 약물의 확산은 빅앤톨 의류 시장의 구조적 수요 변화를 초래할 수 있는 외부 변수로 작용하고 있다. 이번 리더십 공백은 DXL이 복수의 전략적 위기를 동시에 관리해야 하는 시점에 발생했다.",
-    "summary_en": "DXL, the big-and-tall men's clothing retailer, is facing a leadership transition as its CEO retires and the board chair steps in, coinciding with merger deliberations and a hostile takeover defense. The growing adoption of GLP-1 weight-loss drugs presents a structural demand challenge for the big-and-tall apparel segment. This confluence of pressures highlights the vulnerability of niche retailers to both market disruption and external business threats.",
-    "so_what_ko": "이 사례는 D2C 비즈니스 모델이 특정 고객 신체 특성에 의존할 경우 GLP-1 같은 외부 변수에 취약할 수 있음을 경고하며, 제품 포트폴리오 다각화의 중요성을 시사한다.",
-    "so_what_en": "This case serves as a warning for D2C businesses that rely on specific consumer physical characteristics, underscoring the need for portfolio diversification against disruptive external variables like GLP-1 drugs.",
-    "key_points": [
-      "DXL CEO 퇴임 후 이사회 의장이 임시 경영 승계",
-      "합병 검토 및 적대적 인수 제안 방어 동시 진행",
-      "GLP-1 체중감량 약물 확산이 빅앤톨 의류 시장의 구조적 수요에 위협"
-    ],
-    "tags": [
-      "retail-leadership",
-      "glp1-impact",
-      "mergers-acquisitions",
-      "niche-retail"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "DXL"
-    ],
-    "one_line_insight_ko": "GLP-1 약물로 인한 소비자 신체 변화는 특정 체형 타겟 D2C 브랜드의 수요 기반을 근본적으로 흔들 수 있는 비전통적 외부 리스크다.",
-    "one_line_insight_en": "GLP-1-driven consumer body changes represent an unconventional but structurally significant external risk for D2C brands targeting specific physical demographics.",
-    "ai_processed": true
-  },
-  {
-    "title": "Retailers stocked up for upcoming holiday season",
-    "link": "https://www.retaildive.com/news/retailers-stocked-up-holiday-season-imports/827437/",
-    "date_published": "2026-08-10",
-    "description": "Data from NRF projects that imports at major U.S. ports have peaked as businesses built up inventory ahead of new tariffs.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.35,
-    "relevance_label": "high",
-    "title_en": "U.S. Retailers Stock Up Inventory Ahead of Holiday Season as Tariff Fears Drive Import Surge",
-    "summary_ko": "NRF 데이터에 따르면 미국 주요 항구의 수입량이 새로운 관세 부과를 앞두고 급증하며 정점을 찍었다. 소매업체들이 관세 영향을 최소화하기 위해 연휴 시즌 재고를 조기에 확보하는 전략을 취하고 있다. 이는 공급망 관리와 재고 계획에 있어 선제적 대응이 중요해졌음을 보여준다.",
-    "summary_en": "NRF data shows that imports at major U.S. ports have peaked as retailers rush to build inventory ahead of new tariffs. Businesses are proactively stocking up for the holiday season to mitigate the impact of anticipated trade policy changes. This trend highlights the growing importance of supply chain agility and early inventory planning in the current trade environment.",
-    "so_what_ko": "LG D2C 조직은 관세 리스크에 대비해 주요 제품군의 재고를 선제적으로 확보하고, 공급망 전략을 조기에 수립해야 한다.",
-    "so_what_en": "LG D2C should proactively secure inventory for key product lines and establish early supply chain strategies to hedge against tariff-related disruptions ahead of the holiday season.",
-    "key_points": [
-      "NRF 데이터 기준 미국 주요 항구 수입량이 최고치 기록",
-      "신규 관세 부과 전 재고 선확보가 주요 소매업체들의 공통 전략으로 부상",
-      "연휴 시즌 대비 공급망 선제 관리의 중요성 증가"
-    ],
-    "tags": [
-      "supply-chain",
-      "holiday-season",
-      "tariffs",
-      "inventory-management",
-      "retail"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "NRF",
-      "U.S. Ports"
-    ],
-    "one_line_insight_ko": "관세 리스크가 소매업체들의 재고 전략을 앞당기고 있으며, D2C 조직도 선제적 공급망 대응이 필요하다.",
-    "one_line_insight_en": "Tariff uncertainty is accelerating inventory buildup among U.S. retailers, signaling a need for D2C organizations to adopt proactive supply chain strategies.",
-    "ai_processed": true
-  },
-  {
-    "title": "Best Buy’s chief marketer exits, replaced by newcomer",
-    "link": "https://www.retaildive.com/news/best-buy-chief-marketer-jennie-weber-exits/827446/",
-    "date_published": "2026-08-10",
-    "description": "Jennie Weber left the retailer after over 20 years at the company, with Chief Creative Officer Marty Senn taking over the position.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.3,
-    "relevance_label": "high",
-    "title_en": "Best Buy's Chief Marketer Jennie Weber Exits After 20+ Years, Replaced by Chief Creative Officer Marty Senn",
-    "summary_ko": "Best Buy의 최고 마케팅 책임자(CMO) Jennie Weber가 20년 이상 재직 후 회사를 떠났다. 후임으로는 Chief Creative Officer인 Marty Senn이 CMO 역할을 겸임하게 되었다. 이번 리더십 변화는 Best Buy가 마케팅과 크리에이티브 기능을 통합하려는 방향성을 시사한다.",
-    "summary_en": "Best Buy's Chief Marketing Officer Jennie Weber has departed after more than 20 years with the company. Chief Creative Officer Marty Senn has stepped in to assume the CMO responsibilities. This leadership transition suggests Best Buy may be consolidating its marketing and creative functions under unified leadership.",
-    "so_what_ko": "대형 소매업체의 CMO 교체는 마케팅 전략의 전환점을 의미하며, LG D2C는 Best Buy와의 파트너십 전략에서 새로운 리더십의 방향성 변화를 주시해야 한다.",
-    "so_what_en": "The CMO transition at Best Buy signals a potential shift in marketing priorities, and LG D2C should monitor how the new leadership reshapes brand and partnership strategies.",
-    "key_points": [
-      "Jennie Weber가 20년 이상 재직 후 Best Buy CMO직 사임",
-      "Chief Creative Officer Marty Senn이 CMO 역할 승계",
-      "마케팅과 크리에이티브 기능 통합 가능성 시사"
-    ],
-    "tags": [
-      "best-buy",
-      "cmo-transition",
-      "retail-leadership",
-      "brand-strategy"
-    ],
-    "confidence": 0.65,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Best Buy",
-      "Jennie Weber",
-      "Marty Senn"
-    ],
-    "one_line_insight_ko": "Best Buy의 CMO 교체는 마케팅과 크리에이티브의 통합 트렌드를 반영하며, 파트너사의 전략 변화에 대한 모니터링이 필요하다.",
-    "one_line_insight_en": "Best Buy's CMO exit reflects a broader trend of consolidating marketing and creative roles, warranting close monitoring for partners dependent on the retailer's brand direction.",
-    "ai_processed": true
-  },
-  {
-    "title": "Foot Locker reinforces role in sneaker culture with new brand platform",
-    "link": "https://www.retaildive.com/news/foot-locker-role-in-sneaker-culture-with-new-brand-platform/827324/",
-    "date_published": "2026-08-10",
-    "description": "Chief marketer Brett O’Brien digs into the retailer’s “It Always Will Be Foot Locker” creative, which arrives as the business begins to turn around.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.32,
-    "relevance_label": "high",
-    "title_en": "Foot Locker Launches 'It Always Will Be Foot Locker' Brand Platform to Reassert Role in Sneaker Culture",
-    "summary_ko": "Foot Locker가 'It Always Will Be Foot Locker'라는 새로운 브랜드 플랫폼을 출시하며 스니커 문화에서의 입지를 강화하고 있다. 최고 마케팅 책임자 Brett O'Brien이 주도한 이번 캠페인은 비즈니스 턴어라운드 시점과 맞물려 브랜드 정체성을 재정립하는 데 초점을 맞추고 있다. 문화적 커뮤니티와의 연결을 핵심 마케팅 전략으로 삼아 경쟁이 치열한 스니커 시장에서 차별화를 꾀하고 있다.",
-    "summary_en": "Foot Locker has launched a new brand platform titled 'It Always Will Be Foot Locker,' aimed at reinforcing its identity within sneaker culture. Chief Marketing Officer Brett O'Brien spearheaded the creative initiative, which coincides with the retailer's broader business turnaround efforts. The campaign focuses on cultural community connection as the key differentiator in an increasingly competitive sneaker market.",
-    "so_what_ko": "문화적 정체성을 핵심으로 한 브랜드 리포지셔닝 전략은 LG D2C가 기술 혁신을 넘어 라이프스타일 브랜드로서의 정체성을 강화하는 데 참고할 수 있는 사례다.",
-    "so_what_en": "Foot Locker's culturally-driven brand repositioning offers a reference point for LG D2C to consider how lifestyle identity and community connection can amplify brand equity beyond product features.",
-    "key_points": [
-      "'It Always Will Be Foot Locker' 신규 브랜드 플랫폼 출시",
-      "CMO Brett O'Brien 주도 하에 스니커 문화 커뮤니티 연결 강화",
-      "비즈니스 턴어라운드와 동시에 브랜드 정체성 재정립 추진"
-    ],
-    "tags": [
-      "brand-strategy",
-      "foot-locker",
-      "sneaker-culture",
-      "brand-repositioning",
-      "retail-marketing"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Foot Locker",
-      "Brett O'Brien"
-    ],
-    "one_line_insight_ko": "Foot Locker의 문화 기반 브랜드 플랫폼은 커뮤니티 연결이 브랜드 턴어라운드의 핵심 동력이 될 수 있음을 보여준다.",
-    "one_line_insight_en": "Foot Locker's culture-led brand platform demonstrates that deep community connection can serve as a powerful engine for retail brand turnarounds.",
-    "ai_processed": true
-  },
-  {
-    "title": "Keys Inc. builds AI-powered parts marketplace",
-    "link": "https://www.digitalcommerce360.com/2026/08/10/keys-inc-builds-ai-powered-parts-marketplace/",
-    "date_published": "2026-08-10",
-    "description": "Keys Inc. is expanding its software ecosystem to include a full procurement network, it announced Aug. 7. The system will allow locksmiths to identify, source, compare and order automotive keys directly through its app without contacting distributors by phone. Keys is an artificial intelligence (AI)-powered platform serving the U.S. locksmith and roadside service industry. The […]\nThe post Keys Inc. builds AI-powered parts marketplace appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
-    "categories": [
-      "commerce",
-      "agentic_commerce",
-      "tech"
-    ],
-    "relevance_score": 0.75,
-    "relevance_label": "high",
-    "title_en": "Keys Inc. Launches AI-Powered Parts Marketplace to Streamline Procurement for Locksmiths",
-    "summary_ko": "Keys Inc.는 미국 자물쇠 및 긴급출동 서비스 산업을 위한 AI 기반 플랫폼으로, 완전한 조달 네트워크로의 확장을 발표했다. 새 시스템은 자물쇠 기술자들이 앱 내에서 자동차 열쇠를 식별, 소싱, 비교, 주문할 수 있도록 하여 유통업체에 전화 연락 없이 구매 가능하게 한다. 이는 B2B 버티컬 시장에서 AI가 조달 프로세스를 자동화하고 거래 마찰을 제거하는 구체적 사례를 보여준다.",
-    "summary_en": "Keys Inc. announced the expansion of its AI-powered platform to include a full procurement network targeting the U.S. locksmith and roadside service industry. The new system enables locksmiths to identify, source, compare, and order automotive keys directly through its app, eliminating the need to contact distributors by phone. This represents a concrete example of AI-driven agentic commerce automating B2B procurement in a niche vertical market.",
-    "so_what_ko": "AI 기반 조달 자동화가 틈새 B2B 시장에서도 빠르게 확산되고 있으며, LG D2C는 유사한 AI 주도 구매 자동화 기술을 D2C 플랫폼에 적용해 구매 마찰을 줄이는 기회를 탐색해야 한다.",
-    "so_what_en": "AI-driven procurement automation is rapidly expanding even in niche B2B verticals; LG D2C should explore applying similar AI-powered purchasing automation to reduce friction in its D2C platform and partner ecosystems.",
-    "key_points": [
-      "Keys Inc.가 자물쇠 서비스 업계 대상 AI 기반 조달 마켓플레이스 출시",
-      "앱 내에서 열쇠 식별·소싱·비교·주문 전 과정 자동화 구현",
-      "B2B 버티컬에서 에이전틱 커머스 모델의 실용적 적용 사례 제시",
-      "유통업체 전화 연락 없이 직접 거래 가능한 구조로 거래 마찰 제거"
-    ],
-    "tags": [
-      "ai-commerce",
-      "b2b-marketplace",
-      "procurement-automation",
-      "agentic-commerce",
-      "vertical-saas"
-    ],
-    "confidence": 0.72,
-    "strategic_theme": "AI_COMMERCE",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Keys Inc."
-    ],
-    "one_line_insight_ko": "AI 기반 조달 자동화가 틈새 B2B 시장에서도 구현되며, 에이전틱 커머스의 실용적 확산이 가속화되고 있다.",
-    "one_line_insight_en": "Keys Inc.'s AI-powered marketplace shows that agentic commerce is rapidly penetrating niche B2B verticals, automating end-to-end procurement with no human intermediary.",
-    "ai_processed": true
-  },
-  {
-    "title": "When AI Creates Tons of Content, Trust Becomes the Strategy [MAICON 2026]",
-    "link": "https://www.marketingaiinstitute.com/blog/trust-as-content-strategy-maicon-2026",
-    "date_published": "2026-08-10",
-    "description": "AI can now produce more content in an afternoon than most marketing teams used to create in a month. For Joe Pulizzi, that's precisely the problem and the opportunity.",
-    "source_id": "marketing_ai_institute",
-    "source_name": "Marketing AI Institute",
-    "source_url": "https://www.marketingaiinstitute.com/blog/rss.xml",
-    "categories": [
-      "marketing",
-      "ai_marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.85,
-    "relevance_label": "high",
-    "title_en": "Joe Pulizzi at MAICON 2026: As AI Floods Content Markets, Trust Becomes the Ultimate Marketing Strategy",
-    "summary_ko": "MAICON 2026에서 콘텐츠 마케팅의 선구자 Joe Pulizzi는 AI가 하루 오후 만에 대부분의 마케팅 팀이 한 달에 생산하던 것보다 많은 콘텐츠를 생성할 수 있게 되었다고 지적했다. AI로 인한 콘텐츠 과잉 시대에 신뢰(Trust)가 단순한 가치를 넘어 핵심 마케팅 전략이 되어야 한다고 강조했다. 콘텐츠의 양이 아닌 신뢰성과 진정성이 브랜드 차별화의 결정적 요소로 부상하고 있다.",
-    "summary_en": "At MAICON 2026, content marketing pioneer Joe Pulizzi highlighted that AI can now generate more content in a single afternoon than most marketing teams used to produce in a month. He argued that in an era of AI-driven content abundance, trust must evolve from a value to a core strategic pillar for marketers. Authenticity and credibility, rather than volume, are emerging as the decisive differentiators for brands navigating the AI content era.",
-    "so_what_ko": "LG D2C는 AI 콘텐츠 생성을 확대하되, 브랜드 신뢰와 진정성을 전략적 차별화 요소로 삼아 콘텐츠 품질 관리 체계를 강화해야 한다.",
-    "so_what_en": "LG D2C should scale AI content generation while simultaneously building trust and authenticity as strategic differentiators, establishing robust quality governance to stand out in an AI content-saturated market.",
-    "key_points": [
-      "AI가 하루 오후 만에 한 달치 마케팅 콘텐츠 생성 가능한 시대 도래",
-      "Joe Pulizzi: 콘텐츠 과잉 시대에 '신뢰(Trust)'가 핵심 마케팅 전략",
-      "콘텐츠 양보다 진정성과 신뢰성이 브랜드 차별화 핵심 요소로 부상",
-      "MAICON 2026에서 AI 마케팅의 패러다임 전환 방향 제시"
-    ],
-    "tags": [
-      "ai-content",
-      "content-strategy",
-      "brand-trust",
-      "ai-marketing",
-      "maicon-2026"
+      "brand-visibility",
+      "generative-ai"
     ],
     "confidence": 0.75,
     "strategic_theme": "AI_MARKETING",
@@ -449,183 +85,92 @@
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Joe Pulizzi",
-      "MAICON 2026",
-      "Marketing AI Institute"
+      "Stanley 1913"
     ],
-    "one_line_insight_ko": "AI 콘텐츠 홍수 시대에 브랜드 신뢰가 마케팅의 최후 경쟁 우위가 되고 있다.",
-    "one_line_insight_en": "In an AI-flooded content landscape, brand trust is becoming the last sustainable competitive advantage in marketing.",
+    "one_line_insight_ko": "AI 검색 시대에는 사람이 아닌 AI가 콘텐츠를 해석하므로, 브랜드 마케팅의 최적화 대상 자체가 바뀌고 있다.",
+    "one_line_insight_en": "In the AI search era, brands must optimize content for AI interpretation—not just human readers—or risk disappearing from the new discovery layer.",
     "ai_processed": true
   },
   {
-    "title": "Bazooka puts reality TV rivalry center stage in social-forward campaign",
-    "link": "https://www.marketingdive.com/news/bazooka-puts-reality-tv-rivalry-center-stage-in-social-forward-campaign/827369/",
-    "date_published": "2026-08-10",
-    "description": "Two stars of “The Secret Lives of Mormon Wives” go head-to-head in an effort that features in-person activations and a social content series.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
+    "title": "Walmart finally lets advertisers exclude certain search terms",
+    "link": "https://digiday.com/marketing/walmart-finally-lets-advertisers-exclude-certain-search-terms/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-08-12",
+    "description": "Walmart Connect said it would give advertisers the ability to exclude specific search terms for sponsored-products campaigns through “negative keywords.”",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
     "categories": [
-      "marketing"
+      "marketing",
+      "commerce",
+      "ai_marketing"
     ],
-    "relevance_score": 0.35,
+    "relevance_score": 0.78,
     "relevance_label": "high",
-    "title_en": "Bazooka Launches Social-Forward Campaign Featuring Reality TV Stars from 'Mormon Wives'",
-    "summary_ko": "바주카(Bazooka)는 리얼리티 TV 프로그램 '모르몬 아내들의 비밀 생활' 스타 두 명을 내세운 소셜 중심 캠페인을 선보였다. 이 캠페인은 대면 활성화 이벤트와 소셜 콘텐츠 시리즈를 결합한 형태로 구성되었다. 두 스타 간의 경쟁 구도를 활용해 소셜 미디어 참여를 극대화하는 전략을 취하고 있다.",
-    "summary_en": "Bazooka launched a social-forward marketing campaign featuring two stars from the reality TV show 'The Secret Lives of Mormon Wives.' The campaign combines in-person activations with a social content series built around a rivalry narrative between the two personalities. The effort is designed to maximize engagement through culturally relevant influencer partnerships tied to a popular reality TV property.",
-    "so_what_ko": "LG D2C 관점에서 리얼리티 TV 인플루언서와의 협업 및 소셜 콘텐츠 시리즈 전략은 브랜드 친밀도와 소셜 참여율을 높이는 데 참고할 수 있는 사례다.",
-    "so_what_en": "For LG D2C, leveraging reality TV talent and rivalry-driven social content series can be a useful model for boosting brand affinity and social engagement among target demographics.",
+    "title_en": "Walmart Connect Introduces Negative Keywords, Giving Advertisers Greater Search Campaign Control",
+    "summary_ko": "Walmart Connect가 스폰서드 프로덕트 캠페인에서 특정 검색어를 제외할 수 있는 '네거티브 키워드' 기능을 광고주에게 제공하기 시작했다. 이 기능은 광고 타겟팅 정밀도를 높여 불필요한 광고 노출을 줄이고 광고비 효율성을 개선하는 데 기여할 것으로 기대된다. Walmart의 광고 플랫폼이 Google, Amazon 수준의 고도화된 광고 관리 기능을 갖추어 가고 있음을 보여준다.",
+    "summary_en": "Walmart Connect has introduced negative keyword functionality, allowing advertisers to exclude specific search terms from sponsored-products campaigns for the first time. This capability improves targeting precision by preventing ads from appearing against irrelevant search queries, thereby reducing wasted spend. The update signals Walmart's continued investment in maturing its advertising platform to compete with Amazon and Google.",
+    "so_what_ko": "LG D2C가 Walmart Connect에서 광고를 운영한다면, 네거티브 키워드 활용으로 광고 효율을 즉시 개선할 수 있으며, Walmart 플랫폼의 광고 성숙도 향상은 향후 채널 투자 확대를 고려할 근거가 된다.",
+    "so_what_en": "LG D2C teams advertising on Walmart Connect should immediately leverage negative keywords to improve ROAS, while Walmart's platform maturation warrants increased channel investment consideration.",
     "key_points": [
-      "리얼리티 TV 스타 두 명의 경쟁 구도를 중심으로 한 캠페인 구성",
-      "대면 활성화 이벤트와 소셜 콘텐츠 시리즈의 복합 전략 활용",
-      "소셜 미디어 중심의 브랜드 참여 전략으로 젊은 소비자층 공략"
+      "Walmart Connect now offers negative keyword exclusion for sponsored-products campaigns",
+      "Feature improves ad targeting precision and reduces wasted spend on irrelevant searches",
+      "Marks a significant step in Walmart's advertising platform maturity relative to Amazon and Google"
     ],
     "tags": [
-      "influencer-marketing",
-      "social-media",
-      "reality-tv",
-      "brand-campaign",
-      "content-marketing"
+      "retail-media",
+      "walmart-connect",
+      "negative-keywords",
+      "paid-search",
+      "adtech"
     ],
-    "confidence": 0.6,
-    "strategic_theme": "AI_MARKETING",
+    "confidence": 0.85,
+    "strategic_theme": "PLATFORM_ECOSYSTEM",
     "regions": [
       "AMER"
     ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Bazooka",
-      "The Secret Lives of Mormon Wives"
+      "Walmart Connect",
+      "Walmart"
     ],
-    "one_line_insight_ko": "리얼리티 TV 인플루언서의 경쟁 서사를 활용한 소셜 캠페인은 브랜드 참여를 높이는 효과적인 전술이 될 수 있다.",
-    "one_line_insight_en": "Leveraging reality TV rivalry narratives in social campaigns can be an effective tactic for driving brand engagement among younger audiences.",
+    "one_line_insight_ko": "Walmart Connect의 네거티브 키워드 도입은 리테일 미디어 플랫폼의 광고 정교화를 가속하며, D2C 브랜드의 Walmart 광고 효율 개선에 직접적인 기회를 제공한다.",
+    "one_line_insight_en": "Walmart Connect's negative keyword launch accelerates retail media maturation, offering D2C advertisers an immediate lever to improve campaign efficiency on the platform.",
     "ai_processed": true
   },
   {
-    "title": "Jif’s new campaign reworks logo to go beyond peanut butter and jelly",
-    "link": "https://www.marketingdive.com/news/jifs-new-campaign-reworks-logo-to-go-beyond-peanut-butter-and-jelly/827414/",
-    "date_published": "2026-08-10",
-    "description": "Developed by PSOne, “Every Jif’ing Thing” sets peanut butter snacking occasions to a remix of classical epic “O Fortuna.”",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
+    "title": "3 AI Prompts for Google Ads",
+    "link": "https://www.practicalecommerce.com/3-ai-prompts-for-google-ads",
+    "date_published": "2026-08-11",
+    "description": "ChatGPT, Claude, and other genAI platforms can expedite and improve Google Ads management.\nThe post 3 AI Prompts for Google Ads appeared first on Practical Ecommerce.",
+    "source_id": "practical_ecommerce",
+    "source_name": "Practical Ecommerce",
+    "source_url": "https://www.practicalecommerce.com/feed",
     "categories": [
-      "marketing"
+      "marketing",
+      "ai_marketing",
+      "commerce"
     ],
-    "relevance_score": 0.3,
+    "relevance_score": 0.8,
     "relevance_label": "high",
-    "title_en": "Jif Reworks Logo and Launches 'Every Jif'ing Thing' Campaign to Expand Beyond PB&J",
-    "summary_ko": "Jif는 땅콩버터의 소비 영역을 잼 샌드위치 너머로 확장하기 위해 새로운 캠페인 '에브리 지핑 씽(Every Jif'ing Thing)'을 선보이며 로고를 리워크했다. PSOne이 개발한 이 캠페인은 클래식 서사시 '오 포르투나(O Fortuna)'의 리믹스 음악을 배경으로 다양한 땅콩버터 스낵 상황을 묘사한다. 브랜드 아이덴티티 재정립을 통해 제품의 활용 범위를 넓히고 새로운 소비 기회를 창출하는 전략을 추구하고 있다.",
-    "summary_en": "Jif launched a new campaign titled 'Every Jif'ing Thing,' developed by PSOne, aimed at expanding peanut butter consumption beyond the traditional peanut butter and jelly sandwich. The campaign features a remix of the classical epic 'O Fortuna' and showcases a variety of peanut butter snacking occasions. As part of the effort, Jif also reworked its logo to better align with the broadened brand positioning.",
-    "so_what_ko": "LG D2C 관점에서, 제품 카테고리의 활용 범위를 확장하는 브랜드 리포지셔닝 전략과 로고 리워크는 브랜드 인지도와 구매 전환에 긍정적인 영향을 줄 수 있는 참고 사례다.",
-    "so_what_en": "For LG D2C, Jif's brand repositioning strategy—expanding perceived product use cases through creative campaigns and visual identity updates—offers a model for broadening product appeal and driving purchase consideration.",
+    "title_en": "3 Practical AI Prompts to Streamline and Improve Google Ads Management",
+    "summary_ko": "ChatGPT, Claude 등 생성형 AI 플랫폼을 활용하면 Google Ads 관리 업무를 더 빠르고 효율적으로 처리할 수 있다. 본 기사는 Google Ads 운영자가 즉시 활용 가능한 3가지 AI 프롬프트 사례를 소개하며 실무 적용 방법을 안내한다. 생성형 AI는 광고 카피 작성, 키워드 전략 수립, 캠페인 분석 등 다양한 Google Ads 작업에 적용될 수 있다.",
+    "summary_en": "Generative AI platforms such as ChatGPT and Claude can significantly accelerate and enhance Google Ads campaign management tasks. The article presents three specific AI prompt examples designed for practical use by Google Ads practitioners. Applications include ad copy generation, keyword strategy development, and campaign performance analysis.",
+    "so_what_ko": "LG D2C 마케팅팀은 생성형 AI 프롬프트를 Google Ads 운영에 즉시 도입하여 캠페인 관리 효율성을 높이고 인력 리소스를 고부가가치 전략 업무에 집중시킬 수 있다.",
+    "so_what_en": "LG D2C marketing teams can immediately adopt AI prompts for Google Ads management to reduce operational workload and reallocate resources toward higher-value strategic activities.",
     "key_points": [
-      "땅콩버터 소비 기회 확장을 위한 브랜드 리포지셔닝 캠페인 전개",
-      "PSOne 개발, 클래식 음악 리믹스를 활용한 창의적 광고 크리에이티브",
-      "로고 리워크를 통한 브랜드 아이덴티티 현대화 시도"
+      "ChatGPT and Claude can be used to manage and optimize Google Ads campaigns",
+      "Three actionable AI prompts are provided for immediate practitioner use",
+      "AI can assist with ad copy, keyword strategy, and performance analysis in paid search"
     ],
     "tags": [
-      "brand-repositioning",
-      "creative-campaign",
-      "fmcg-marketing",
-      "logo-redesign",
-      "consumer-engagement"
+      "google-ads",
+      "generative-ai",
+      "ai-prompts",
+      "paid-search",
+      "campaign-optimization"
     ],
-    "confidence": 0.6,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Jif",
-      "PSOne",
-      "O Fortuna"
-    ],
-    "one_line_insight_ko": "제품 활용 범위를 확장하는 크리에이티브 캠페인과 브랜드 아이덴티티 리뉴얼은 소비자 인식 전환과 신규 구매 기회 창출에 효과적이다.",
-    "one_line_insight_en": "Expanding perceived product use cases through bold creative campaigns and visual identity refreshes can effectively shift consumer perception and unlock new purchase occasions.",
-    "ai_processed": true
-  },
-  {
-    "title": "P&G’s Always Discreet fights incontinence stigma with NFL campaign",
-    "link": "https://www.marketingdive.com/news/how-pgs-always-discreet-normalizes-incontinence-with-nfl-campaign/827309/",
-    "date_published": "2026-08-10",
-    "description": "“Protect the Moment” is the brand’s biggest media campaign activation to date and features three moms of NFL players in ads and social content.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
-    "categories": [
-      "marketing"
-    ],
-    "relevance_score": 0.32,
-    "relevance_label": "high",
-    "title_en": "P&G's Always Discreet Takes On Incontinence Stigma with Largest-Ever NFL Campaign",
-    "summary_ko": "P&G의 올웨이즈 디스크리트(Always Discreet)는 요실금에 대한 사회적 낙인에 맞서기 위해 브랜드 역대 최대 규모의 NFL 연계 미디어 캠페인 '프로텍트 더 모먼트(Protect the Moment)'를 론칭했다. 이 캠페인은 NFL 선수들의 어머니 세 명을 광고와 소셜 콘텐츠에 등장시켜 요실금을 일상적인 경험으로 정상화하는 서사를 구축한다. 스포츠 미디어와 감성적 스토리텔링을 결합해 타깃 소비자층에 대한 도달률과 브랜드 신뢰도를 동시에 높이는 전략을 취하고 있다.",
-    "summary_en": "P&G's Always Discreet launched 'Protect the Moment,' its biggest media campaign activation to date, in partnership with the NFL to combat the stigma surrounding incontinence. The campaign features three mothers of NFL players in ads and social content, aiming to normalize incontinence as a common life experience. By combining sports media reach with emotionally resonant storytelling, the brand seeks to build trust and destigmatize the category among its target audience.",
-    "so_what_ko": "LG D2C 관점에서, 스포츠 파트너십과 실제 소비자 스토리를 결합한 감성적 캠페인 전략은 브랜드 신뢰도를 높이고 민감한 카테고리에서도 소비자와의 유대감을 형성하는 데 효과적임을 시사한다.",
-    "so_what_en": "For LG D2C, combining major sports partnerships with authentic consumer stories offers a powerful model for building brand trust and emotional connection, even in sensitive or underrepresented product categories.",
-    "key_points": [
-      "브랜드 역대 최대 규모의 NFL 연계 미디어 캠페인 론칭",
-      "NFL 선수 어머니 3인을 광고 모델로 기용해 요실금 정상화 서사 구축",
-      "스포츠 미디어와 감성 스토리텔링의 결합으로 신뢰도 및 도달률 극대화"
-    ],
-    "tags": [
-      "brand-campaign",
-      "sports-marketing",
-      "destigmatization",
-      "p-and-g",
-      "social-content"
-    ],
-    "confidence": 0.65,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "P&G",
-      "Always Discreet",
-      "NFL",
-      "Protect the Moment"
-    ],
-    "one_line_insight_ko": "스포츠 미디어와 실제 소비자 스토리를 결합한 감성 캠페인은 민감한 카테고리에서도 브랜드 신뢰도와 소비자 공감을 효과적으로 높일 수 있다.",
-    "one_line_insight_en": "Pairing major sports media platforms with authentic consumer narratives can effectively build brand trust and normalize even sensitive product categories.",
-    "ai_processed": true
-  },
-  {
-    "title": "The simple way to make your marketing claims 42.9% more believable",
-    "link": "https://blog.hubspot.com/marketing/marketing-claims-psychology",
-    "date_published": "2026-08-10",
-    "description": "A few weeks back, I stumbled across a Reddit post that talked about the first measurement ever taken of Mount Everest. Rather than listing the exact measurement of 29,000 feet, the British Royal Geographical Society declared Mount Everest’s elevation to be 29,002 feet. It’s one of those facts that seems fake, but there’s good evidence that it’s true.",
-    "source_id": "hubspot_marketing",
-    "source_name": "HubSpot Marketing Blog",
-    "source_url": "https://blog.hubspot.com/marketing/rss.xml",
-    "categories": [
-      "marketing"
-    ],
-    "relevance_score": 0.55,
-    "relevance_label": "high",
-    "title_en": "Psychology Research Shows Precise Numbers Make Marketing Claims 42.9% More Believable",
-    "summary_ko": "HubSpot 마케팅 블로그는 마케팅 주장에서 구체적이고 정확한 수치를 사용하면 소비자의 신뢰도를 크게 높일 수 있다는 심리학적 연구를 소개했다. 에베레스트 산의 초기 측정 사례처럼, 29,000피트 대신 29,002피트라는 구체적 수치가 더 믿음직스럽게 인식되는 심리적 효과를 마케팅에 응용할 수 있다. 마케터들은 반올림된 수치보다 정밀한 수치를 활용함으로써 브랜드 메시지의 신뢰성과 설득력을 강화할 수 있다.",
-    "summary_en": "A HubSpot Marketing Blog post explores psychological research suggesting that using precise, specific numbers in marketing claims significantly increases consumer believability. Drawing on the historical example of Mount Everest's elevation being declared as 29,002 feet rather than the rounded 29,000 feet, the article explains the psychological mechanism behind why precision signals credibility. Marketers can apply this insight by replacing rounded figures with exact numbers to make their claims more persuasive and trustworthy.",
-    "so_what_ko": "LG D2C 마케터들은 제품 성능, 고객 만족도, 절감 효과 등을 표현할 때 반올림 수치 대신 정밀한 수치를 활용하면 마케팅 메시지의 신뢰도와 전환율을 높일 수 있다.",
-    "so_what_en": "LG D2C marketers can boost message credibility and conversion rates by replacing rounded figures with precise numbers when communicating product performance, customer satisfaction scores, or cost savings.",
-    "key_points": [
-      "정밀한 수치 사용이 마케팅 주장의 신뢰도를 유의미하게 높인다는 심리학적 근거 제시",
-      "에베레스트 측정 사례를 통해 정확한 수치가 신뢰감을 형성하는 심리적 메커니즘 설명",
-      "반올림 수치 대신 구체적 수치를 활용하는 실용적 마케팅 전술 제안"
-    ],
-    "tags": [
-      "consumer-psychology",
-      "marketing-strategy",
-      "persuasion",
-      "copywriting",
-      "conversion-optimization"
-    ],
-    "confidence": 0.65,
+    "confidence": 0.7,
     "strategic_theme": "AI_MARKETING",
     "regions": [
       "GLOBAL"
@@ -633,19 +178,296 @@
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "HubSpot",
-      "Mount Everest",
-      "British Royal Geographical Society"
+      "ChatGPT",
+      "Claude",
+      "Google Ads",
+      "OpenAI"
     ],
-    "one_line_insight_ko": "마케팅 메시지에서 반올림 수치 대신 정밀한 수치를 사용하면 소비자 신뢰도와 설득력을 즉각적으로 높일 수 있다.",
-    "one_line_insight_en": "Replacing rounded numbers with precise figures in marketing claims is a simple yet psychologically powerful tactic to boost consumer credibility and persuasion.",
+    "one_line_insight_ko": "생성형 AI 프롬프트의 Google Ads 적용은 마케팅 운영 효율화의 가장 빠르고 실용적인 진입점이다.",
+    "one_line_insight_en": "Using generative AI prompts for Google Ads management is one of the fastest, most practical entry points for AI-driven marketing efficiency gains.",
     "ai_processed": true
   },
   {
-    "title": "CMOs Are the Least Proficient at AI In the Marketing Org, Research Finds",
-    "link": "https://www.adweek.com/brand-marketing/cmos-are-the-least-proficient-at-ai-in-the-marketing-org-research-finds/",
-    "date_published": "2026-08-10",
-    "description": "NewtonX and ADWEEK surveyed 500 marketers to reveal AI skills gap",
+    "title": "Simon poised to rake in millions more in rent thanks to Saks Global closures",
+    "link": "https://www.retaildive.com/news/simon-poised-millions-more-rent-saks-global-store-closures/827556/",
+    "date_published": "2026-08-11",
+    "description": "After vacating a million square feet, the luxury retailer stopped paying $18 million in rent, but the mall owner is on pace to more than double that.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.3,
+    "relevance_label": "high",
+    "title_en": "Simon Property Group Set to More Than Double Lost Rent Revenue After Saks Global Store Closures",
+    "summary_ko": "Saks Global의 대규모 매장 철수로 약 100만 평방피트의 공간이 비워지며 Simon Property Group은 1,800만 달러의 임대 수입을 잃었다. 그러나 Simon은 공석이 된 공간을 재임대하여 잃은 임대 수익을 두 배 이상 회수할 것으로 전망된다. 이는 럭셔리 리테일의 오프라인 구조조정이 가속화되는 가운데, 프라임 몰 운영사의 공간 재활용 능력을 보여주는 사례다.",
+    "summary_en": "Saks Global's store closures vacated approximately one million square feet across Simon Property Group's mall portfolio, resulting in $18 million in lost rent payments. However, Simon is on track to more than double that lost revenue through re-leasing the vacated space to new tenants. The situation highlights both the ongoing restructuring of luxury retail real estate and the resilience of premium mall operators in backfilling high-demand locations.",
+    "so_what_ko": "럭셔리 리테일의 오프라인 축소는 프리미엄 몰 내 팝업 또는 체험형 매장 기회를 확대시킬 수 있으며, LG D2C는 오프라인 브랜드 경험 공간 확보 전략을 검토해볼 만하다.",
+    "so_what_en": "The reshuffling of luxury retail real estate in premium malls could create openings for LG D2C to explore experiential or pop-up physical brand presence in high-traffic locations.",
+    "key_points": [
+      "Saks Global vacated ~1 million sq ft in Simon malls, causing $18M in lost rent",
+      "Simon Property Group is projected to more than double recovered rent through re-leasing",
+      "Luxury retail's physical footprint contraction is accelerating, reshaping prime mall real estate"
+    ],
+    "tags": [
+      "retail-real-estate",
+      "luxury-retail",
+      "store-closures",
+      "mall-operators"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Simon Property Group",
+      "Saks Global"
+    ],
+    "one_line_insight_ko": "럭셔리 리테일의 오프라인 구조조정은 프리미엄 몰 내 새로운 브랜드 입점 기회를 만들어내고 있다.",
+    "one_line_insight_en": "Luxury retail's accelerating physical contraction is reshuffling premium mall real estate, creating potential entry points for brands seeking high-traffic physical presence.",
+    "ai_processed": true
+  },
+  {
+    "title": "Gap’s fall campaign enlists ‘Obsession’ star to promote denim",
+    "link": "https://www.retaildive.com/news/gaps-fall-campaign-enlists-obsession-star-to-promote-denim/827532/",
+    "date_published": "2026-08-11",
+    "description": "Ads show Hollywood breakout Inde Navarrette dancing alongside Malcolm Todd, who performs a new version of Robyn’s “Dancing on My Own.”",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "marketing"
+    ],
+    "relevance_score": 0.2,
+    "relevance_label": "high",
+    "title_en": "Gap's Fall Campaign Features 'Obsession' Star Inde Navarrette in Denim Push",
+    "summary_ko": "갭(Gap)은 할리우드 신예 인드 나바레테와 말콤 토드가 로빈의 'Dancing on My Own' 리메이크 버전에 맞춰 춤추는 가을 캠페인을 공개했다. 이 캠페인은 데님 라인을 중심으로 구성되었으며 엔터테인먼트와 패션을 결합한 형태다. AI 관련 내용은 원문에서 확인되지 않음.",
+    "summary_en": "Gap launched its fall campaign featuring Hollywood breakout star Inde Navarrette dancing alongside Malcolm Todd, who performs a new rendition of Robyn's 'Dancing on My Own.' The campaign centers on promoting Gap's denim line through a celebrity-driven entertainment format. No AI or D2C-specific technology elements were mentioned in the source.",
+    "so_what_ko": "셀러브리티 중심의 감성 캠페인은 브랜드 인지도 제고에 유효하나, LG D2C 관점에서 직접적인 전환 전략과의 연계가 필요하다.",
+    "so_what_en": "Celebrity-led emotional campaigns can boost brand awareness, but LG D2C teams should consider how to connect such storytelling to measurable conversion and direct sales outcomes.",
+    "key_points": [
+      "갭이 할리우드 신예 인드 나바레테를 기용한 가을 데님 캠페인 공개",
+      "말콤 토드가 로빈의 'Dancing on My Own' 리메이크 버전 퍼포먼스",
+      "AI 기술 또는 D2C 혁신 요소는 원문에서 확인되지 않음"
+    ],
+    "tags": [
+      "celebrity-marketing",
+      "brand-campaign",
+      "denim",
+      "fashion-retail"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Gap",
+      "Inde Navarrette",
+      "Malcolm Todd",
+      "Robyn"
+    ],
+    "one_line_insight_ko": "갭의 가을 캠페인은 셀러브리티 기반 감성 마케팅으로 데님 라인을 홍보하나, AI나 D2C 혁신과의 연관성은 낮다.",
+    "one_line_insight_en": "Gap's fall campaign leverages celebrity storytelling to promote denim, but holds limited relevance to AI or D2C innovation strategies.",
+    "ai_processed": true
+  },
+  {
+    "title": "Ferguson completes 5 acquisitions as Q2 sales rise 4.6%",
+    "link": "https://www.digitalcommerce360.com/2026/08/11/ferguson-completes-5-acquisitions-sales-q2-fy26/",
+    "date_published": "2026-08-11",
+    "description": "Ferguson Enterprises Inc. continued to pursue growth through acquisition during its fiscal second quarter ended June 30, capping a Q2 that preceded its latest $1.6 billion deal to acquire FloWorks. The North American plumbing and heating, ventilation and air conditioning (HVAC) distributor grew its sales by 4.6% year over year to $8.8 billion in Q2. […]\nThe post Ferguson completes 5 acquisitions as Q2 sales rise 4.6% appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.2,
+    "relevance_label": "high",
+    "title_en": "Ferguson Enterprises Completes 5 Acquisitions as Q2 FY26 Sales Climb 4.6% to $8.8B",
+    "summary_ko": "북미 배관 및 HVAC 유통업체 퍼거슨 엔터프라이즈는 2026 회계연도 2분기(6월 30일 마감)에 5건의 기업 인수를 완료하며 전년 대비 4.6% 성장한 88억 달러의 매출을 기록했다. 이후 16억 달러 규모의 FloWorks 인수 계약도 추가로 발표했다. AI 기술이나 디지털 커머스 혁신 관련 내용은 원문에서 확인되지 않음.",
+    "summary_en": "Ferguson Enterprises completed five acquisitions during its fiscal Q2 ended June 30, reporting a 4.6% year-over-year sales increase to $8.8 billion. The North American plumbing and HVAC distributor subsequently announced a further $1.6 billion deal to acquire FloWorks. No AI or digital commerce technology content was mentioned in the source excerpt.",
+    "so_what_ko": "M&A를 통한 공격적 성장 전략은 B2B 유통 시장의 규모 경쟁 심화를 보여주며, LG D2C는 파트너십 및 유통 채널 전략 수립 시 이러한 시장 통합 트렌드를 고려해야 한다.",
+    "so_what_en": "Ferguson's aggressive M&A growth signals accelerating consolidation in B2B distribution; LG D2C should factor such market consolidation trends into partnership and channel strategy planning.",
+    "key_points": [
+      "퍼거슨, FY26 Q2에 5건 인수 완료 및 매출 88억 달러 달성",
+      "전년 동기 대비 4.6% 매출 성장 기록",
+      "분기 후 16억 달러 규모의 FloWorks 추가 인수 발표",
+      "AI 또는 디지털 커머스 혁신 관련 내용은 원문에서 확인되지 않음"
+    ],
+    "tags": [
+      "mergers-acquisitions",
+      "b2b-distribution",
+      "hvac",
+      "revenue-growth"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Ferguson Enterprises",
+      "FloWorks"
+    ],
+    "one_line_insight_ko": "퍼거슨의 공격적 M&A 전략은 북미 B2B 유통 시장의 빠른 통합 흐름을 반영하며, 디지털 커머스와의 직접적 연관성은 낮다.",
+    "one_line_insight_en": "Ferguson's aggressive acquisition strategy reflects rapid consolidation in North American B2B distribution, with limited direct relevance to AI or digital commerce innovation.",
+    "ai_processed": true
+  },
+  {
+    "title": "AI search performance KPIs every marketer should track",
+    "link": "https://blog.hubspot.com/marketing/ai-search-kpis",
+    "date_published": "2026-08-11",
+    "description": "As long as I’ve been in marketing, people have warned against focusing on “vanity metrics,” or those flashy, high numbers that don’t translate to real results or profit. Fast forward a decade, I never expected traffic and search rank to be part of that conversation.",
+    "source_id": "hubspot_marketing",
+    "source_name": "HubSpot Marketing Blog",
+    "source_url": "https://blog.hubspot.com/marketing/rss.xml",
+    "categories": [
+      "marketing",
+      "ai_marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.85,
+    "relevance_label": "high",
+    "title_en": "AI Search Performance KPIs Every Marketer Should Track in the Generative AI Era",
+    "summary_ko": "HubSpot 마케팅 블로그는 AI 검색 환경의 부상으로 기존 트래픽과 검색 순위 같은 지표가 '허영 지표'로 전락할 수 있다고 경고하며, 마케터들이 추적해야 할 새로운 AI 검색 KPI를 제시했다. 생성형 AI 검색이 확산되면서 전통적인 SEO 중심의 성과 측정 방식이 근본적으로 변화하고 있다. AI 검색 가시성, 인용 빈도, AI 응답 내 브랜드 언급 등이 새로운 핵심 지표로 부상하고 있다.",
+    "summary_en": "HubSpot's marketing blog warns that traditional metrics like web traffic and search rankings risk becoming vanity metrics as AI-powered search reshapes digital discovery. Generative AI search is fundamentally changing how performance should be measured, rendering conventional SEO-centric frameworks insufficient. New KPIs such as AI search visibility, citation frequency, and brand mentions within AI-generated responses are emerging as critical benchmarks.",
+    "so_what_ko": "LG D2C 마케팅팀은 기존 SEO 중심의 KPI 체계를 재검토하고, AI 검색 내 브랜드 가시성과 인용 빈도를 새로운 성과 지표로 통합해야 한다.",
+    "so_what_en": "LG D2C marketing teams should reassess their KPI frameworks to incorporate AI search visibility and citation metrics, as traditional SEO rankings may no longer reliably reflect brand discoverability.",
+    "key_points": [
+      "AI 검색 확산으로 기존 트래픽·검색순위 지표의 유효성 저하 경고",
+      "AI 검색 가시성, 인용 빈도, AI 응답 내 브랜드 언급이 새로운 KPI로 부상",
+      "마케터들은 생성형 AI 환경에 맞는 성과 측정 체계 재구축 필요",
+      "원문의 구체적 KPI 목록 상세 내용은 excerpt에서 완전히 확인되지 않음"
+    ],
+    "tags": [
+      "ai-search",
+      "seo",
+      "kpi",
+      "generative-ai",
+      "digital-marketing"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "HubSpot"
+    ],
+    "one_line_insight_ko": "AI 검색 시대에는 트래픽·검색순위 대신 AI 응답 내 브랜드 인용 빈도와 가시성이 마케팅 성과의 핵심 지표로 자리잡고 있다.",
+    "one_line_insight_en": "In the AI search era, brand citation frequency and visibility within AI-generated responses are replacing traditional traffic and ranking as the defining marketing KPIs.",
+    "ai_processed": true
+  },
+  {
+    "title": "CeraVe tackles tanmaxxing in social series to pitch Gen Z on SPF",
+    "link": "https://www.marketingdive.com/news/cerave-tackles-tanmaxxing-in-social-series-to-pitch-gen-z-on-spf/827365/",
+    "date_published": "2026-08-11",
+    "description": "The L'Oréal brand’s latest campaign taps home renovation tropes to engage a cohort that is increasingly prioritizing getting a tan over protecting their skin.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
+    "categories": [
+      "marketing"
+    ],
+    "relevance_score": 0.25,
+    "relevance_label": "high",
+    "title_en": "CeraVe Targets Gen Z Tanmaxxing Trend with Social Campaign to Drive SPF Adoption",
+    "summary_ko": "로레알 산하 스킨케어 브랜드 세라비(CeraVe)는 Z세대 사이에서 유행 중인 '탠맥싱(tanmaxxing, 피부 보호보다 태닝을 우선시하는 트렌드)'을 직접 겨냥한 소셜 미디어 시리즈 캠페인을 선보였다. 이 캠페인은 홈 리노베이션 트렌드를 콘셉트로 활용해 Z세대와의 공감대를 형성하며 자외선차단제(SPF) 사용을 권장한다. AI 기술 관련 내용은 원문에서 확인되지 않음.",
+    "summary_en": "L'Oréal-owned skincare brand CeraVe launched a social media series directly addressing the Gen Z 'tanmaxxing' trend—prioritizing getting a tan over skin protection. The campaign employs home renovation tropes as a creative hook to resonate with a cohort increasingly dismissive of SPF use. No AI or technology-driven marketing elements were mentioned in the source excerpt.",
+    "so_what_ko": "Z세대의 소비 문화와 소셜 트렌드를 캠페인에 직접 반영한 세라비의 접근법은, LG D2C도 타깃 소비자의 온라인 서브컬처를 실시간으로 모니터링하고 콘텐츠 전략에 빠르게 통합해야 함을 시사한다.",
+    "so_what_en": "CeraVe's approach of embedding real-time Gen Z subculture trends into campaign messaging suggests LG D2C should invest in social listening capabilities to rapidly integrate emerging consumer behaviors into content strategy.",
+    "key_points": [
+      "세라비가 Z세대 탠맥싱 트렌드를 직접 겨냥한 소셜 캠페인 전개",
+      "홈 리노베이션 트렌드 콘셉트를 활용해 Z세대와 공감대 형성",
+      "SPF 제품 채택률 제고를 위한 문화적 트렌드 기반 마케팅 전략",
+      "AI 또는 데이터 기반 마케팅 요소는 원문에서 확인되지 않음"
+    ],
+    "tags": [
+      "gen-z-marketing",
+      "social-media",
+      "trend-marketing",
+      "skincare",
+      "brand-campaign"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "CeraVe",
+      "L'Oréal"
+    ],
+    "one_line_insight_ko": "세라비의 탠맥싱 대응 캠페인은 Z세대 소셜 서브컬처를 브랜드 메시지에 실시간 통합하는 트렌드 반응형 마케팅의 효과를 보여준다.",
+    "one_line_insight_en": "CeraVe's tanmaxxing campaign demonstrates the power of embedding real-time Gen Z subculture trends directly into brand messaging to drive product relevance.",
+    "ai_processed": true
+  },
+  {
+    "title": "Gap’s fall campaign enlists ‘Obsession’ star to promote denim",
+    "link": "https://www.marketingdive.com/news/gaps-fall-campaign-enlists-obsession-star-to-promote-denim/827375/",
+    "date_published": "2026-08-11",
+    "description": "Ads show Hollywood breakout Inde Navarrette dancing alongside Malcolm Todd, who performs a new version of Robyn’s “Dancing on My Own.”",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
+    "categories": [
+      "marketing"
+    ],
+    "relevance_score": 0.2,
+    "relevance_label": "high",
+    "title_en": "Gap Taps 'Obsession' Star Inde Navarrette for Celebrity-Driven Fall Denim Campaign",
+    "summary_ko": "갭(Gap)은 할리우드 신예 인드 나바레테와 말콤 토드가 로빈의 'Dancing on My Own' 리메이크 곡에 맞춰 춤추는 가을 데님 광고 캠페인을 공개했다. 이 캠페인은 Marketing Dive를 통해 별도로 보도된 동일한 갭의 캠페인이다. AI 기술이나 마케팅 자동화 관련 내용은 원문에서 확인되지 않음.",
+    "summary_en": "Gap unveiled its fall denim campaign featuring Hollywood breakout Inde Navarrette dancing with Malcolm Todd, who performs a new version of Robyn's 'Dancing on My Own,' as reported by Marketing Dive. This article covers the same Gap campaign as Article 1, sourced from a different publication. No AI, automation, or D2C technology elements were mentioned in the source.",
+    "so_what_ko": "동일 캠페인의 멀티 채널 보도는 갭의 미디어 전략을 보여주나, LG D2C 관점에서 AI 마케팅이나 D2C 혁신과의 직접적 연관성은 낮다.",
+    "so_what_en": "The multi-outlet coverage of Gap's campaign reflects effective media amplification strategy, but holds minimal direct relevance to LG D2C's AI marketing or digital commerce priorities.",
+    "key_points": [
+      "갭 가을 데님 캠페인, Marketing Dive에서 별도 보도 (Article 1과 동일 캠페인)",
+      "인드 나바레테와 말콤 토드 주연, 로빈 곡 리메이크 활용",
+      "AI 또는 D2C 혁신 관련 내용은 원문에서 확인되지 않음"
+    ],
+    "tags": [
+      "celebrity-marketing",
+      "brand-campaign",
+      "denim",
+      "fashion-retail"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Gap",
+      "Inde Navarrette",
+      "Malcolm Todd",
+      "Robyn"
+    ],
+    "one_line_insight_ko": "갭의 가을 데님 캠페인은 셀러브리티 기반 감성 마케팅의 전형을 보여주나 AI D2C 전략과의 연관성은 미미하다.",
+    "one_line_insight_en": "Gap's celebrity-driven denim campaign exemplifies traditional emotional marketing with negligible relevance to AI-powered D2C strategy.",
+    "ai_processed": true
+  },
+  {
+    "title": "Marketing Vanguard at Cannes: How IBM Became Its Own AI Case Study ft. Jonathan Adashek",
+    "link": "https://www.adweek.com/brand-marketing/marketing-vanguard-at-cannes-how-ibm-became-its-own-ai-case-study-ft-jonathan-adashek/",
+    "date_published": "2026-08-11",
+    "description": "Are marketers making a fatal mistake by treating AI as just a cost-cutting tool?",
     "source_id": "adweek",
     "source_name": "Adweek",
     "source_url": "https://www.adweek.com/feed",
@@ -653,39 +475,228 @@
       "ai_marketing",
       "strategy"
     ],
-    "relevance_score": 0.82,
+    "relevance_score": 0.75,
     "relevance_label": "high",
-    "title_en": "CMOs Are the Least AI-Proficient Role in the Marketing Organization, Survey of 500 Marketers Finds",
-    "summary_ko": "뉴튼X(NewtonX)와 애드위크(Adweek)가 마케터 500명을 대상으로 실시한 조사에 따르면, CMO(최고마케팅책임자)가 마케팅 조직 내에서 AI 역량이 가장 낮은 직군으로 나타났다. 이는 AI 도입을 주도해야 할 리더십 계층에서 오히려 AI 활용 능력의 격차가 가장 크다는 구조적 문제를 드러낸다. 이러한 AI 스킬 격차는 마케팅 조직 전반의 AI 전환 속도와 효과에 부정적인 영향을 미칠 수 있다.",
-    "summary_en": "A survey of 500 marketers conducted by NewtonX and Adweek found that Chief Marketing Officers (CMOs) are the least AI-proficient role within the marketing organization. This reveals a structural gap where the leadership layer most responsible for driving AI adoption is also the least equipped with hands-on AI skills. The findings suggest that this skills deficit at the top could hinder the speed and effectiveness of AI transformation across marketing teams.",
-    "so_what_ko": "LG D2C 마케팅 리더십은 AI 역량 격차를 조기에 진단하고, CMO를 포함한 시니어 리더십 차원의 AI 리터러시 강화 프로그램을 우선적으로 도입해야 한다.",
-    "so_what_en": "LG D2C marketing leadership should proactively assess AI skills gaps at the executive level and prioritize AI literacy programs for CMOs and senior leaders to ensure effective top-down AI transformation.",
+    "title_en": "IBM's Jonathan Adashek on Why Treating AI as a Cost-Cutting Tool Is a Fatal Marketing Mistake",
+    "summary_ko": "IBM의 CMO 조나단 아다셱은 Cannes에서 AI를 단순 비용 절감 도구로 활용하는 것이 마케터들의 치명적인 실수라고 경고했다. IBM은 자사 마케팅에 AI를 직접 적용하며 내부 AI 케이스 스터디로 활용하고 있다. AI를 전략적 성장 동력으로 재정의해야 한다는 메시지가 핵심이다.",
+    "summary_en": "IBM CMO Jonathan Adashek warned at Cannes that marketers are making a critical error by viewing AI solely as a cost-cutting mechanism. IBM has positioned itself as its own AI case study by applying AI directly within its marketing operations. The core message is that AI must be reframed as a strategic growth driver, not just an efficiency tool.",
+    "so_what_ko": "LG D2C 조직도 AI를 단순 운영 효율화 수단이 아닌, 브랜드 성장과 고객 경험 혁신의 핵심 전략 도구로 재정의할 필요가 있다.",
+    "so_what_en": "LG D2C should reposition AI as a core strategic growth enabler for brand and customer experience innovation, not merely an operational cost-reduction tool.",
     "key_points": [
-      "마케터 500명 대상 조사에서 CMO가 마케팅 조직 내 AI 역량 최하위로 확인",
-      "AI 도입을 주도해야 할 리더십 계층의 AI 스킬 격차가 조직 전환의 병목이 될 수 있음",
-      "마케팅 조직 전반의 AI 전환 가속화를 위해 리더십 AI 교육이 선행되어야 함"
+      "AI를 비용 절감 도구로만 보는 것은 전략적 오류",
+      "IBM은 자사 마케팅을 AI 실험장으로 활용하는 'AI 케이스 스터디' 접근법 채택",
+      "AI의 전략적 가치를 성장과 혁신 관점에서 재정의 필요"
     ],
     "tags": [
-      "ai-skills-gap",
-      "cmo-leadership",
-      "ai-marketing",
-      "organizational-transformation",
-      "marketing-ai"
+      "ai-strategy",
+      "brand-marketing",
+      "ibm",
+      "cannes",
+      "ai-transformation"
     ],
-    "confidence": 0.78,
+    "confidence": 0.55,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "IBM",
+      "Jonathan Adashek",
+      "Cannes Lions"
+    ],
+    "one_line_insight_ko": "AI를 비용 절감이 아닌 성장 전략으로 접근한 기업만이 마케팅 경쟁에서 앞서갈 수 있다.",
+    "one_line_insight_en": "Brands that treat AI as a growth strategy rather than a cost tool will gain a decisive competitive edge in marketing.",
+    "ai_processed": true
+  },
+  {
+    "title": "Why Creators Are Becoming the New Marketing Operating System",
+    "link": "https://www.adweek.com/brand-marketing/why-creators-are-becoming-the-new-marketing-operating-system/",
+    "date_published": "2026-08-11",
+    "description": "From viral moments to lasting brand growth with Creo's Kevin Blazaitis and dentsu's Chrissie Hanson.",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
+    "categories": [
+      "ai_marketing",
+      "marketing"
+    ],
+    "relevance_score": 0.65,
+    "relevance_label": "high",
+    "title_en": "Creators Are Becoming the New Marketing Operating System, Say Creo and Dentsu Leaders",
+    "summary_ko": "Creo의 케빈 블라자이티스와 dentsu의 크리시 핸슨은 크리에이터가 단순 인플루언서를 넘어 브랜드 마케팅의 핵심 운영 체계로 진화하고 있다고 주장한다. 일회성 바이럴 효과를 넘어 지속적인 브랜드 성장을 이끄는 크리에이터 생태계 구축이 중요해지고 있다. 크리에이터는 이제 콘텐츠 생산자가 아닌 마케팅 인프라 그 자체로 자리매김하고 있다.",
+    "summary_en": "Creo's Kevin Blazaitis and dentsu's Chrissie Hanson argue that creators are evolving beyond influencers to become the core operating system of brand marketing. Building a sustainable creator ecosystem that drives lasting brand growth—beyond one-time viral moments—is increasingly critical. Creators are now being positioned not just as content producers but as fundamental marketing infrastructure.",
+    "so_what_ko": "LG D2C는 크리에이터를 일회성 캠페인 파트너가 아닌 장기적 브랜드 성장을 위한 구조적 마케팅 채널로 통합하는 전략을 수립해야 한다.",
+    "so_what_en": "LG D2C should integrate creators as a structural, long-term marketing channel rather than treating them as one-off campaign partners.",
+    "key_points": [
+      "크리에이터가 마케팅의 핵심 '운영 체계(OS)'로 부상",
+      "바이럴 일회성 효과에서 지속적 브랜드 성장 기여로 역할 전환",
+      "Creo, dentsu 등 주요 에이전시가 크리에이터 중심 마케팅 모델 공식화"
+    ],
+    "tags": [
+      "creator-economy",
+      "influencer-marketing",
+      "brand-growth",
+      "dentsu",
+      "content-strategy"
+    ],
+    "confidence": 0.55,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Creo",
+      "dentsu",
+      "Kevin Blazaitis",
+      "Chrissie Hanson"
+    ],
+    "one_line_insight_ko": "크리에이터는 이제 마케팅 캠페인의 요소가 아니라, 브랜드 성장을 구동하는 마케팅 운영 체계 자체가 되고 있다.",
+    "one_line_insight_en": "Creators are no longer campaign elements but the foundational operating system driving sustainable brand growth.",
+    "ai_processed": true
+  },
+  {
+    "title": "A 7-step guide to running ads on ChatGPT",
+    "link": "https://martech.org/a-7-step-guide-to-running-ads-on-chatgpt/",
+    "date_published": "2026-08-11",
+    "description": "ChatGPT Ads work differently from other ad platforms. Here’s what early campaigns reveal about CPCs, targeting, measurement, and performance.\nThe post A 7-step guide to running ads on ChatGPT appeared first on MarTech.",
+    "source_id": "martech_org",
+    "source_name": "MarTech.org",
+    "source_url": "https://martech.org/feed",
+    "categories": [
+      "ai_marketing",
+      "commerce"
+    ],
+    "relevance_score": 0.92,
+    "relevance_label": "high",
+    "title_en": "7-Step Guide to Running Ads on ChatGPT: What Early Campaigns Reveal About CPCs, Targeting, and Performance",
+    "summary_ko": "ChatGPT 광고는 기존 디지털 광고 플랫폼과 다른 방식으로 작동하며, 초기 캠페인 결과는 CPC, 타겟팅, 측정 방식에서 새로운 패턴을 보여주고 있다. 본 가이드는 ChatGPT 광고를 효과적으로 집행하기 위한 7단계 실행 프레임워크를 제공한다. AI 검색 기반 광고 생태계의 등장으로 마케터는 새로운 매체 전략과 성과 지표 체계를 수립해야 한다.",
+    "summary_en": "ChatGPT Ads operate differently from traditional digital ad platforms, with early campaigns revealing new patterns in CPCs, targeting capabilities, and performance measurement. The guide provides a 7-step actionable framework for marketers looking to run effective campaigns on ChatGPT. The emergence of AI search-based advertising requires marketers to develop new media strategies and KPI frameworks.",
+    "so_what_ko": "LG D2C는 ChatGPT 광고 플랫폼을 조기에 테스트하여 AI 검색 기반 소비자 접점에서의 광고 효율과 최적 타겟팅 전략을 선제적으로 파악해야 한다.",
+    "so_what_en": "LG D2C should pilot ChatGPT ad campaigns early to understand advertising efficiency and optimal targeting strategies within AI search-based consumer touchpoints.",
+    "key_points": [
+      "ChatGPT 광고는 기존 플랫폼과 구별되는 독자적 작동 방식 보유",
+      "CPC, 타겟팅, 측정 등 초기 캠페인 성과 데이터 공개",
+      "AI 검색 광고 생태계 진입을 위한 7단계 실행 가이드 제공",
+      "AI 기반 광고 채널 확장에 따른 새로운 미디어 믹스 전략 필요"
+    ],
+    "tags": [
+      "chatgpt-ads",
+      "ai-advertising",
+      "digital-marketing",
+      "paid-media",
+      "ai-search"
+    ],
+    "confidence": 0.72,
     "strategic_theme": "AI_MARKETING",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "HIGH",
-    "sentiment": "THREAT",
+    "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "NewtonX",
-      "Adweek",
-      "CMO"
+      "ChatGPT",
+      "OpenAI",
+      "MarTech"
     ],
-    "one_line_insight_ko": "AI 전환을 주도해야 할 CMO가 조직 내 AI 역량이 가장 낮다는 사실은 마케팅 리더십의 AI 리터러시 강화가 D2C 전환 성공의 선결 조건임을 시사한다.",
-    "one_line_insight_en": "CMOs being the least AI-proficient in their own organizations signals that executive-level AI literacy is a critical prerequisite for successful D2C marketing transformation.",
+    "one_line_insight_ko": "ChatGPT 광고는 AI 검색 시대의 새로운 유료 미디어 채널로 부상하고 있으며, 조기 진입 기업이 타겟팅과 비용 효율의 우위를 선점할 것이다.",
+    "one_line_insight_en": "ChatGPT Ads are emerging as a new paid media channel in the AI search era, and early movers will gain advantages in targeting efficiency and cost performance.",
+    "ai_processed": true
+  },
+  {
+    "title": "How AI, publishers, and social media are rewriting product discovery",
+    "link": "https://martech.org/how-ai-publishers-and-social-media-are-rewriting-product-discovery/",
+    "date_published": "2026-08-11",
+    "description": "Product discovery now spans AI, social, publishers, creators and communities. Here’s how brands can influence purchase decisions.\nThe post How AI, publishers, and social media are rewriting product discovery appeared first on MarTech.",
+    "source_id": "martech_org",
+    "source_name": "MarTech.org",
+    "source_url": "https://martech.org/feed",
+    "categories": [
+      "ai_marketing",
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.93,
+    "relevance_label": "high",
+    "title_en": "AI, Publishers, and Social Media Are Rewriting Product Discovery — Here's How Brands Can Stay Relevant",
+    "summary_ko": "제품 발견(Product Discovery) 경로가 AI, 소셜 미디어, 퍼블리셔, 크리에이터, 커뮤니티 등 다양한 채널로 분산되며 근본적으로 재편되고 있다. 브랜드는 이 다중 채널 발견 생태계에서 구매 결정에 영향을 미치기 위한 새로운 전략이 필요하다. AI가 소비자의 정보 탐색과 구매 여정 초입 단계를 점점 더 중개하고 있어 브랜드 가시성 확보 방식이 변화하고 있다.",
+    "summary_en": "Product discovery pathways are being fundamentally restructured as they fragment across AI, social media, publishers, creators, and communities. Brands need new strategies to influence purchase decisions within this multi-channel discovery ecosystem. AI is increasingly mediating the early stages of consumer information search and purchase journeys, fundamentally changing how brands achieve visibility.",
+    "so_what_ko": "LG D2C는 전통적 검색 광고 중심의 발견 전략을 넘어, AI 추천, 소셜 커머스, 크리에이터 채널을 통합한 멀티채널 제품 발견 전략을 구축해야 한다.",
+    "so_what_en": "LG D2C must build a multi-channel product discovery strategy integrating AI recommendations, social commerce, and creator channels beyond traditional search advertising.",
+    "key_points": [
+      "제품 발견 경로가 AI·소셜·퍼블리셔·커뮤니티로 다중 분산",
+      "AI가 소비자 구매 여정 초입 단계를 점점 더 중개",
+      "브랜드 가시성 확보를 위한 멀티채널 발견 전략 수립 필수",
+      "구매 결정에 영향을 미치기 위한 채널별 맞춤 접근 전략 필요"
+    ],
+    "tags": [
+      "product-discovery",
+      "ai-search",
+      "social-commerce",
+      "omnichannel",
+      "purchase-journey"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "MarTech"
+    ],
+    "one_line_insight_ko": "AI와 소셜이 제품 발견의 새로운 관문이 되면서, 브랜드는 검색 최적화를 넘어 AI·크리에이터·커뮤니티 채널 전반에서의 발견 가능성을 설계해야 한다.",
+    "one_line_insight_en": "As AI and social become the new gatekeepers of product discovery, brands must engineer discoverability across AI, creator, and community channels beyond traditional search optimization.",
+    "ai_processed": true
+  },
+  {
+    "title": "IAB Tech Lab releases new privacy standards",
+    "link": "https://martech.org/iab-tech-lab-releases-new-privacy-standards/",
+    "date_published": "2026-08-11",
+    "description": "Rules aim to keep up with evolving state laws and to make it easier to communicate consumer privacy choices.\nThe post IAB Tech Lab releases new privacy standards appeared first on MarTech.",
+    "source_id": "martech_org",
+    "source_name": "MarTech.org",
+    "source_url": "https://martech.org/feed",
+    "categories": [
+      "marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.55,
+    "relevance_label": "high",
+    "title_en": "IAB Tech Lab Releases New Privacy Standards to Align with Evolving State Laws and Consumer Choice",
+    "summary_ko": "IAB Tech Lab이 진화하는 미국 주(州)별 개인정보 보호법에 대응하고 소비자 프라이버시 선택을 보다 명확하게 전달하기 위한 새로운 프라이버시 표준을 발표했다. 이번 표준은 광고 기술 생태계 전반에서 소비자 동의 및 선택 사항 전달을 표준화하는 것을 목표로 한다. 규제 환경이 복잡해지면서 마케터와 기술 플랫폼 모두 새로운 컴플라이언스 체계를 구축해야 할 필요성이 커지고 있다.",
+    "summary_en": "IAB Tech Lab has released new privacy standards designed to keep pace with evolving U.S. state-level privacy laws and to simplify the communication of consumer privacy choices. The standards aim to harmonize how consumer consent and opt-out signals are transmitted across the ad tech ecosystem. As the regulatory environment grows more complex, both marketers and technology platforms face increasing pressure to build new compliance frameworks.",
+    "so_what_ko": "LG D2C는 IAB Tech Lab의 새 프라이버시 표준을 조기에 검토하고, 소비자 동의 관리 및 데이터 활용 체계를 선제적으로 업데이트하여 규제 리스크를 최소화해야 한다.",
+    "so_what_en": "LG D2C should proactively review the new IAB Tech Lab privacy standards and update its consent management and data utilization frameworks to minimize regulatory risk.",
+    "key_points": [
+      "IAB Tech Lab, 미국 주법 대응 및 소비자 프라이버시 선택 전달 표준화를 위한 새 규정 발표",
+      "광고 기술 생태계 전반에서 동의 신호 전달 방식 표준화 추진",
+      "마케터와 플랫폼 모두 새로운 컴플라이언스 체계 구축 필요"
+    ],
+    "tags": [
+      "privacy-standards",
+      "iab-tech-lab",
+      "data-compliance",
+      "consumer-consent",
+      "adtech"
+    ],
+    "confidence": 0.72,
+    "strategic_theme": "DATA_STRATEGY",
+    "regions": [
+      "AMER",
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "IAB Tech Lab"
+    ],
+    "one_line_insight_ko": "강화되는 프라이버시 규제에 선제 대응하는 기업만이 데이터 기반 마케팅의 지속 가능성을 확보할 수 있다.",
+    "one_line_insight_en": "Only brands that proactively adapt to tightening privacy standards will sustain the data-driven marketing capabilities needed for long-term competitiveness.",
     "ai_processed": true
   }
 ]
