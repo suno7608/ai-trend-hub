@@ -1,225 +1,223 @@
 [
   {
-    "title": "React for Agents: Astro Creator Brings Hooks to his Meta-Harness, Flue",
-    "link": "https://www.latent.space/p/flue-2",
-    "date_published": "2026-08-15",
-    "description": "Flue 2 takes its inspiration from React. Creator Fred Schott, of Astro fame, tells Latent Space why he added hooks and why agents are defined by their harnesses.",
-    "source_id": "latent_space",
-    "source_name": "Latent Space (The AI Index)",
-    "source_url": "https://www.latent.space/feed",
+    "title": "JCPenney parodies off-price retailers with wellness-themed campaign",
+    "link": "https://www.marketingdive.com/news/jcpenney-parodies-off-price-retailers-with-wellness-themed-campaign/827878/",
+    "date_published": "2026-08-17",
+    "description": "Marisa Thalberg, chief customer and marketing officer at Catalyst Brands, details a Retail Rejuvenation Retreat that looks to change shopping habits.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
     "categories": [
-      "tech",
-      "agentic_commerce"
-    ],
-    "relevance_score": 0.55,
-    "relevance_label": "high",
-    "title_en": "Flue 2 Brings React-Inspired Hooks to AI Agent Harnesses",
-    "summary_ko": "Astro 창시자 Fred Schott가 AI 에이전트 프레임워크 Flue의 두 번째 버전을 공개하며 React의 훅(Hooks) 개념을 도입했다. Flue 2는 에이전트의 동작 방식이 그것을 감싸는 '하네스(harness)'에 의해 정의된다는 철학을 기반으로 설계되었다. 이 접근 방식은 프론트엔드 개발자에게 친숙한 패턴을 에이전트 개발에 적용해 진입 장벽을 낮추려는 시도다.",
-    "summary_en": "Flue 2, created by Fred Schott—known for building the Astro web framework—draws direct inspiration from React by introducing hooks into AI agent development. The framework is built on the philosophy that agents are fundamentally defined by their harnesses, the meta-structures that wrap and control their behavior. This approach aims to lower the barrier to agent development by applying patterns familiar to frontend engineers.",
-    "so_what_ko": "에이전트 개발 프레임워크가 성숙해질수록 LG D2C 조직도 커머스 에이전트 구축 시 표준화된 개발 패턴을 채택할 수 있으며, React 기반 훅 모델은 기존 웹 개발팀의 에이전트 개발 참여를 가속화할 수 있다.",
-    "so_what_en": "As agent development frameworks mature, LG D2C teams could accelerate commerce agent builds by leveraging React-style patterns that existing web developers already know, reducing the need for specialized AI engineering resources.",
-    "key_points": [
-      "Flue 2 introduces React-inspired hooks into AI agent development workflows",
-      "Creator Fred Schott (Astro) argues that agents are defined by their harnesses, not just their models",
-      "The framework lowers the technical barrier for frontend developers entering agent engineering"
-    ],
-    "tags": [
-      "ai-agents",
-      "developer-tools",
-      "react-hooks",
-      "agent-framework"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Flue",
-      "Fred Schott",
-      "Astro",
-      "React"
-    ],
-    "one_line_insight_ko": "React 훅 패러다임을 에이전트 개발에 적용하는 Flue 2는 일반 웹 개발자도 AI 에이전트를 구축할 수 있는 시대를 앞당기고 있다.",
-    "one_line_insight_en": "Flue 2's React-inspired hooks signal a coming era where mainstream web developers can build production-grade AI agents without deep ML expertise.",
-    "ai_processed": true
-  },
-  {
-    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-    "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-    "date_published": "2026-08-15",
-    "description": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "categories": [
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.3,
-    "relevance_label": "high",
-    "title_en": "Woman Alleges Stepfather Used Grok AI to Generate CSAM from Childhood Photo",
-    "summary_ko": "한 여성이 자신의 의붓아버지가 xAI의 Grok을 사용해 어린 시절 사진을 아동 성 착취물로 변환했다고 주장했다. 피해자는 AI 도구들이 '일상적인 삶을 아동 성 착취로 변환하고 있다'고 강하게 비판했다. 이 사건은 생성형 AI의 안전장치 미비와 악용 가능성에 대한 심각한 우려를 다시 한번 불러일으키고 있다.",
-    "summary_en": "A woman has alleged that her stepfather used xAI's Grok to transform a childhood photograph of her into explicit imagery, constituting child sexual abuse material. The victim stated that AI tools are 'taking everyday life and turning it into child sexual abuse.' The case raises serious concerns about the adequacy of safety guardrails in publicly available generative AI systems.",
-    "so_what_ko": "AI 도구의 안전장치 실패 사례가 늘어날수록 브랜드와 소비자 신뢰에 직접적인 영향을 미치며, LG D2C가 AI 마케팅 도구를 도입할 때 윤리적 거버넌스와 안전 기준을 엄격히 검토해야 한다.",
-    "so_what_en": "High-profile AI safety failures erode consumer trust in AI-powered products broadly; LG D2C must apply rigorous ethical governance and vendor safety vetting when selecting AI marketing or commerce tools.",
-    "key_points": [
-      "Grok allegedly used to generate CSAM from a real childhood photo, highlighting critical safety guardrail failures",
-      "Victim highlights the systemic danger of AI tools capable of transforming ordinary images into abuse material",
-      "Case underscores growing regulatory and reputational risks for companies deploying generative AI without robust safeguards"
-    ],
-    "tags": [
-      "ai-safety",
-      "generative-ai",
-      "content-moderation",
-      "ethics",
-      "grok"
-    ],
-    "confidence": 0.75,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "GLOBAL",
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "Grok",
-      "xAI"
-    ],
-    "one_line_insight_ko": "생성형 AI의 안전장치 실패 사례는 AI 도구 도입 기업 전반의 브랜드 신뢰를 위협하며, 엄격한 벤더 안전 검증이 필수가 되고 있다.",
-    "one_line_insight_en": "Grok's alleged safety failure illustrates how generative AI misuse can devastate brand trust industry-wide, making rigorous vendor safety audits a non-negotiable for any D2C AI adoption.",
-    "ai_processed": true
-  },
-  {
-    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-    "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-    "date_published": "2026-08-15",
-    "description": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "categories": [
-      "tech",
-      "strategy",
+      "marketing",
       "ai_marketing"
-    ],
-    "relevance_score": 0.65,
-    "relevance_label": "high",
-    "title_en": "Anthropic Details How Claude's New AI Watermarking System Will Work",
-    "summary_ko": "Anthropic이 Claude AI가 생성한 콘텐츠에 적용되는 새로운 워터마킹 기술의 세부 작동 방식을 공개했다. 이 기술은 AI 생성 콘텐츠를 식별하고 추적할 수 있도록 설계되었으며, 편집이나 코드 생성 시에도 적용 여부가 검토되고 있다. AI 생성 콘텐츠의 투명성 확보와 저작권 보호 측면에서 업계 표준을 선도할 가능성이 있다.",
-    "summary_en": "Anthropic has shared additional details about how Claude's newly introduced watermarking system will function to identify and trace AI-generated content. The disclosure addresses key questions such as whether watermarks can survive editing and how the system applies to AI-generated code. The initiative positions Anthropic as a proponent of AI content transparency, with potential implications for industry-wide content provenance standards.",
-    "so_what_ko": "AI 워터마킹 기술이 확산되면 LG D2C의 AI 생성 마케팅 콘텐츠(카피, 이미지 등)에도 출처 표시 의무가 생길 수 있으며, 이를 선제적으로 대비한 콘텐츠 거버넌스 체계 구축이 필요하다.",
-    "so_what_en": "As AI watermarking becomes standard, LG D2C should proactively build content governance frameworks to manage disclosure requirements for AI-generated marketing assets including copy, images, and code.",
-    "key_points": [
-      "Anthropic reveals technical details of Claude's watermarking mechanism for AI-generated content identification",
-      "Key questions addressed include watermark resilience to editing and applicability to code outputs",
-      "Could set a precedent for industry-wide AI content provenance and transparency standards"
-    ],
-    "tags": [
-      "ai-watermarking",
-      "content-provenance",
-      "anthropic",
-      "claude",
-      "ai-transparency"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "DATA_STRATEGY",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Anthropic",
-      "Claude"
-    ],
-    "one_line_insight_ko": "Claude의 워터마킹 도입은 AI 생성 콘텐츠에 대한 투명성 의무화 시대의 도래를 예고하며, D2C 마케팅 콘텐츠 거버넌스 전략 재검토가 시급하다.",
-    "one_line_insight_en": "Claude's watermarking rollout signals an approaching era of mandatory AI content disclosure, requiring D2C marketers to rethink content governance before regulations force their hand.",
-    "ai_processed": true
-  },
-  {
-    "title": "SpaceX officially closes its Cursor acquisition",
-    "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-    "date_published": "2026-08-15",
-    "description": "AI coding startup Cursor is now officially a part of SpaceX.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "categories": [
-      "tech",
-      "strategy"
     ],
     "relevance_score": 0.4,
     "relevance_label": "high",
-    "title_en": "SpaceX Officially Completes Acquisition of AI Coding Startup Cursor",
-    "summary_ko": "SpaceX가 AI 코딩 스타트업 Cursor의 인수를 공식 완료했다고 TechCrunch가 보도했다. Cursor는 개발자 생산성을 높이는 AI 기반 코드 편집 도구로 주목받아 왔으며, 이번 인수로 SpaceX의 소프트웨어 개발 역량 강화가 예상된다. 우주·항공 기업이 AI 개발 도구 기업을 직접 인수한 것은 이례적인 행보로 업계의 관심을 끌고 있다.",
-    "summary_en": "SpaceX has officially closed its acquisition of Cursor, a prominent AI-powered coding assistant startup. Cursor had gained significant traction among developers for boosting software development productivity through AI-assisted code editing. The acquisition is notable as it marks an aerospace company making a direct play into enterprise AI developer tooling.",
-    "so_what_ko": "SpaceX의 Cursor 인수는 AI 개발 도구 시장의 전략적 가치를 재확인시켜 주며, LG D2C 조직도 AI 코딩 도구 도입을 통해 디지털 제품 개발 속도를 높이는 전략을 검토할 필요가 있다.",
-    "so_what_en": "SpaceX's acquisition of Cursor validates the strategic value of AI developer tools; LG D2C should evaluate similar AI coding assistants to accelerate digital product and commerce platform development velocity.",
+    "title_en": "JCPenney Parodies Off-Price Retailers with Wellness-Themed 'Retail Rejuvenation Retreat' Campaign",
+    "summary_ko": "JCPenney는 Catalyst Brands의 최고 고객·마케팅 책임자 Marisa Thalberg의 주도 하에 오프프라이스 유통업체를 패러디한 웰니스 테마 캠페인 'Retail Rejuvenation Retreat'를 선보였다. 이 캠페인은 소비자의 쇼핑 습관 변화를 유도하는 것을 목표로 한다. 창의적인 유머와 웰니스 트렌드를 결합해 브랜드 차별화를 시도한 마케팅 사례다.",
+    "summary_en": "JCPenney launched a wellness-themed campaign called 'Retail Rejuvenation Retreat' that parodies off-price retailers, led by Catalyst Brands' chief customer and marketing officer Marisa Thalberg. The campaign aims to shift consumer shopping habits by blending humor with wellness messaging. It represents a creative brand differentiation strategy targeting shoppers drawn to off-price competitors.",
+    "so_what_ko": "LG D2C도 경쟁사 대비 자사 브랜드 가치를 부각하는 창의적 캠페인 전략을 통해 소비자 인식 전환을 유도할 수 있다.",
+    "so_what_en": "LG D2C can draw inspiration from this approach to craft creative, differentiated campaigns that reframe brand value versus competitors and shift consumer perception.",
     "key_points": [
-      "SpaceX officially closes acquisition of AI coding startup Cursor",
-      "Cursor is an AI-powered code editor known for significantly boosting developer productivity",
-      "Unusual cross-industry acquisition signals growing enterprise demand for integrated AI development capabilities"
+      "JCPenney의 'Retail Rejuvenation Retreat' 캠페인은 오프프라이스 유통업체를 직접 패러디하는 대담한 전략 채택",
+      "Catalyst Brands CMO Marisa Thalberg가 캠페인을 주도하며 쇼핑 행동 변화 유도를 목표로 설정",
+      "웰니스 트렌드와 유머를 결합한 감성 마케팅으로 브랜드 재포지셔닝 시도"
     ],
     "tags": [
-      "ai-coding",
-      "acquisition",
-      "developer-tools",
-      "spacex",
-      "cursor"
+      "brand-differentiation",
+      "campaign-strategy",
+      "off-price-retail",
+      "wellness-marketing",
+      "consumer-behavior"
     ],
-    "confidence": 0.75,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "confidence": 0.6,
+    "strategic_theme": "AI_MARKETING",
     "regions": [
-      "GLOBAL",
       "AMER"
     ],
     "business_impact": "LOW",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "SpaceX",
-      "Cursor"
+      "JCPenney",
+      "Catalyst Brands",
+      "Marisa Thalberg"
     ],
-    "one_line_insight_ko": "SpaceX의 Cursor 인수는 AI 코딩 도구가 단순 생산성 툴을 넘어 핵심 전략 자산으로 인정받고 있음을 보여준다.",
-    "one_line_insight_en": "SpaceX's Cursor deal confirms that AI coding tools have evolved from productivity perks to core strategic assets worth acquiring at the enterprise level.",
+    "one_line_insight_ko": "JCPenney는 웰니스 테마 패러디 캠페인으로 오프프라이스 경쟁자 대비 브랜드 차별화를 시도하고 있다.",
+    "one_line_insight_en": "JCPenney is leveraging wellness-themed parody marketing to differentiate its brand against off-price retail competitors.",
     "ai_processed": true
   },
   {
-    "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-    "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-    "date_published": "2026-08-14",
-    "description": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
+    "title": "How DTC startups are using AI to scale more efficiently",
+    "link": "https://www.modernretail.co/operations/how-dtc-startups-are-using-ai-to-scale-more-efficiently/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-08-17",
+    "description": "Several brand executives spoke at eTail Boston about the new DTC playbook — specifically, how they are reshaping wholesale strategies and using AI for search, content and operations to drive growth.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
+    "categories": [
+      "commerce",
+      "ai_marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.9,
+    "relevance_label": "high",
+    "title_en": "DTC Startups Leverage AI for Search, Content, and Operations to Scale More Efficiently",
+    "summary_ko": "eTail Boston에서 여러 DTC 브랜드 임원들이 AI를 활용해 검색, 콘텐츠, 운영 등 핵심 영역에서 효율적 성장을 이루는 방법을 공유했다. DTC 스타트업들은 AI 도입을 통해 기존 도매 전략을 재편하며 새로운 성장 플레이북을 구축하고 있다. 이는 AI가 D2C 비즈니스의 운영 전반을 혁신하는 핵심 도구로 자리잡고 있음을 보여준다.",
+    "summary_en": "At eTail Boston, several DTC brand executives shared how they are using AI across search, content creation, and operations to drive more efficient growth. These startups are also reshaping their wholesale strategies as part of a new DTC playbook. The discussions highlight AI as a central lever for scaling D2C businesses without proportional increases in headcount or cost.",
+    "so_what_ko": "LG D2C는 AI를 검색 최적화, 콘텐츠 자동화, 운영 효율화에 전략적으로 도입해 스타트업 수준의 민첩성과 확장성을 확보해야 한다.",
+    "so_what_en": "LG D2C should strategically integrate AI into search, content, and operations to achieve startup-like agility and cost-efficient scalability across its D2C channels.",
+    "key_points": [
+      "DTC 스타트업들이 AI를 검색·콘텐츠·운영에 활용해 비용 효율적 성장을 실현 중",
+      "eTail Boston에서 공유된 새로운 DTC 플레이북은 AI 중심의 도매 전략 재편을 포함",
+      "AI 도입이 인력 증가 없이 D2C 비즈니스 확장을 가능하게 하는 핵심 수단으로 부상"
+    ],
+    "tags": [
+      "dtc-ai",
+      "ai-operations",
+      "d2c-scaling",
+      "ai-content",
+      "ai-search"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "AI_COMMERCE",
+    "regions": [
+      "AMER",
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "eTail Boston",
+      "DTC startups"
+    ],
+    "one_line_insight_ko": "AI는 DTC 스타트업의 검색·콘텐츠·운영 전반을 혁신하며 적은 자원으로 빠른 성장을 가능하게 하는 핵심 경쟁력이 되고 있다.",
+    "one_line_insight_en": "AI is becoming the core growth engine for DTC startups, enabling them to scale search, content, and operations efficiently without proportional resource increases.",
+    "ai_processed": true
+  },
+  {
+    "title": "Retail construction hits record lows, making it hard to find space",
+    "link": "https://www.modernretail.co/operations/retail-construction-hits-record-lows-making-it-hard-to-find-space/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-08-17",
+    "description": "Recently, retailers have had a hard time finding space in which to put new stores. The problem is that there are not a lot of buildings going up to begin with. Retail construction completions fell to 5.7 million square feet in the second quarter, setting record lows for both quarterly and rolling four-quarter totals, according to CBRE.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.45,
+    "relevance_label": "high",
+    "title_en": "Retail Construction Hits Record Lows, Intensifying Competition for Physical Store Space",
+    "summary_ko": "CBRE에 따르면 2분기 미국 리테일 건설 완공 면적이 570만 평방피트로 분기 및 연간 기준 모두 사상 최저치를 기록했다. 신규 건물 공급 자체가 줄어들면서 소매업체들이 새 매장을 열기 위한 공간 확보에 어려움을 겪고 있다. 이는 오프라인 매장 확장을 원하는 유통업체들에게 심각한 공간 부족 문제를 야기하고 있다.",
+    "summary_en": "Retail construction completions in the U.S. fell to 5.7 million square feet in Q2, setting record lows for both quarterly and rolling four-quarter totals, according to CBRE. The shortage stems from a significant decline in new building starts, making it increasingly difficult for retailers to find available space for new stores. This trend is intensifying competition for existing retail real estate.",
+    "so_what_ko": "물리적 리테일 공간 확보가 어려워지는 환경에서 LG D2C는 온라인·D2C 채널 강화에 더욱 집중해야 하며, 팝업 등 유연한 오프라인 전략도 병행해야 한다.",
+    "so_what_en": "As physical retail space becomes increasingly scarce, LG D2C should prioritize strengthening online and D2C channels while also exploring flexible offline formats such as pop-ups.",
+    "key_points": [
+      "미국 리테일 건설 완공 면적이 2분기 570만 평방피트로 역대 최저치 기록 (출처: CBRE)",
+      "신규 건물 공급 감소로 소매업체의 오프라인 매장 공간 확보가 점점 어려워지는 상황",
+      "오프라인 공간 경쟁 심화는 D2C 디지털 채널 투자의 전략적 중요성을 높임"
+    ],
+    "tags": [
+      "retail-real-estate",
+      "physical-retail",
+      "d2c-strategy",
+      "retail-construction",
+      "omnichannel"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "CBRE",
+      "Modern Retail"
+    ],
+    "one_line_insight_ko": "리테일 건설이 역대 최저 수준으로 떨어지며 오프라인 공간 확보 경쟁이 심화되고 있어 D2C 디지털 채널의 전략적 가치가 더욱 높아지고 있다.",
+    "one_line_insight_en": "Record-low retail construction is tightening the physical space market, elevating the strategic value of D2C digital channels as a scalable alternative.",
+    "ai_processed": true
+  },
+  {
+    "title": "Creators build GEO strategies to get discovered by brands and agencies in AI search",
+    "link": "https://digiday.com/marketing/creators-build-geo-strategies-to-get-discovered-by-brands-and-agencies-in-ai-search/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-08-17",
+    "description": "With no established playbook for AI search, creators are starting to build their own.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "marketing",
+      "ai_marketing"
+    ],
+    "relevance_score": 0.85,
+    "relevance_label": "high",
+    "title_en": "Creators Develop GEO Strategies to Boost Discoverability in AI-Powered Search",
+    "summary_ko": "AI 검색 시대가 도래하면서 크리에이터들이 브랜드와 에이전시에 발견되기 위해 자체적인 GEO(생성형 엔진 최적화) 전략을 구축하기 시작했다. AI 검색에 대한 확립된 플레이북이 없는 상황에서 크리에이터들이 직접 실험하며 새로운 방법론을 개척하고 있다. 이는 마케터들이 크리에이터를 발굴하고 협업하는 방식 자체가 AI 검색 중심으로 재편되고 있음을 시사한다.",
+    "summary_en": "As AI-powered search reshapes content discovery, creators are proactively building their own GEO (Generative Engine Optimization) strategies to be found by brands and agencies. With no established playbook for AI search, creators are pioneering their own experimental approaches. This shift signals a broader transformation in how marketers discover and engage influencer talent in the AI era.",
+    "so_what_ko": "LG D2C는 크리에이터 협업 시 GEO 역량을 보유한 크리에이터를 우선 발굴하고, 자사 콘텐츠도 AI 검색에 최적화하는 전략을 수립해야 한다.",
+    "so_what_en": "LG D2C should prioritize partnering with GEO-savvy creators and simultaneously optimize its own content for AI-powered search to maintain brand visibility in the evolving discovery landscape.",
+    "key_points": [
+      "크리에이터들이 AI 검색에서 브랜드·에이전시에 발견되기 위한 GEO 전략을 자체 개발 중",
+      "AI 검색에 대한 업계 표준 플레이북이 부재한 가운데 크리에이터들이 직접 실험하며 방법론 개척",
+      "AI 검색 최적화(GEO)가 기존 SEO를 대체하는 새로운 콘텐츠 발견 패러다임으로 부상"
+    ],
+    "tags": [
+      "geo-optimization",
+      "ai-search",
+      "creator-marketing",
+      "influencer-discovery",
+      "generative-engine-optimization"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Digiday"
+    ],
+    "one_line_insight_ko": "AI 검색 시대에 크리에이터들이 GEO 전략을 개척하고 있으며, 브랜드도 AI 검색 최적화를 통한 콘텐츠·파트너 발굴 전략을 재정립해야 한다.",
+    "one_line_insight_en": "As creators pioneer GEO strategies for AI search visibility, brands must rethink how they optimize content and discover partners in an AI-first discovery landscape.",
+    "ai_processed": true
+  },
+  {
+    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+    "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "date_published": "2026-08-16",
+    "description": "OpenRouter's CEO recently described the startup as Stripe for AI.",
     "source_id": "techcrunch_ai",
     "source_name": "TechCrunch AI",
     "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
     "categories": [
+      "commerce",
       "tech",
-      "strategy",
-      "ai_marketing"
+      "agentic_commerce"
     ],
-    "relevance_score": 0.7,
+    "relevance_score": 0.8,
     "relevance_label": "high",
-    "title_en": "Meta Releases Open-Weight Glimmer Model Amid Zuckerberg's 'AI for Everyone' Push",
-    "summary_ko": "Meta가 누구나 자신의 하드웨어에서 다운로드해 실행할 수 있는 오픈웨이트 AI 모델 Glimmer를 출시했다. 이와 동시에 더 강력하지만 자체 API 뒤에 잠긴 Muse Spark 모델도 함께 공개하며 오픈과 클로즈드 전략을 병행하고 있다. 마크 저커버그는 AI가 소수 기업이 통제하는 것이 아니라 '모두를 위한 것'이어야 한다는 서한을 발표해 공개 AI 생태계 구축 의지를 천명했다.",
-    "summary_en": "Meta released Glimmer, an open-weight AI model that anyone can download and run locally on their own hardware, alongside a more powerful closed model called Muse Spark available only via Meta's APIs. Mark Zuckerberg published an accompanying letter arguing that AI should be 'for everyone' rather than controlled by a small number of labs. The dual release reflects Meta's strategy of using open-source AI to build ecosystem influence while monetizing premium capabilities through proprietary channels.",
-    "so_what_ko": "Meta의 오픈웨이트 모델 공개 전략은 AI 기술 접근성을 높이고 경쟁 비용을 낮춰 LG D2C가 더 저렴하게 AI 마케팅·커머스 기능을 구현할 수 있는 기반을 제공한다.",
-    "so_what_en": "Meta's open-weight Glimmer lowers the cost barrier for AI-powered marketing and commerce capabilities, giving LG D2C teams a viable path to deploy custom AI models without full reliance on expensive proprietary APIs.",
+    "title_en": "Stripe Reportedly Acquires AI Gateway Startup OpenRouter for Over $7 Billion",
+    "summary_ko": "결제 인프라 기업 Stripe가 AI 게이트웨이 스타트업 OpenRouter를 70억 달러 이상에 인수할 것이라는 보도가 나왔다. OpenRouter의 CEO는 자사를 'AI 분야의 Stripe'로 묘사한 바 있으며, 이번 인수는 Stripe의 AI 인프라 영역 진출을 의미한다. 이 딜은 AI 게이트웨이 기술이 차세대 커머스 인프라의 핵심 레이어로 부상하고 있음을 보여준다.",
+    "summary_en": "Stripe is reportedly set to acquire AI gateway startup OpenRouter for more than $7 billion, marking a major move into AI infrastructure. OpenRouter's CEO had previously described the company as 'Stripe for AI,' highlighting its role as a unified gateway for accessing multiple AI models. The acquisition signals that AI routing and orchestration infrastructure is becoming a critical layer in the next generation of commerce and payment ecosystems.",
+    "so_what_ko": "AI 게이트웨이 기술이 커머스 인프라의 핵심 레이어로 부상함에 따라 LG D2C는 AI 모델 오케스트레이션 기술 동향을 주시하고 자사 커머스 플랫폼의 AI 인프라 전략을 점검해야 한다.",
+    "so_what_en": "As AI gateway infrastructure becomes a critical commerce layer, LG D2C should monitor AI orchestration technology trends and assess how to integrate multi-model AI capabilities into its own D2C platform infrastructure.",
     "key_points": [
-      "Meta releases Glimmer, an open-weight AI model freely downloadable and runnable on local hardware",
-      "Simultaneously launches Muse Spark, a more powerful model locked behind Meta's proprietary APIs",
-      "Zuckerberg frames open AI as a democratic alternative to closed lab monopolies, reinforcing Meta's ecosystem-building strategy"
+      "Stripe가 AI 게이트웨이 스타트업 OpenRouter를 70억 달러 이상에 인수 예정 (보도 기준)",
+      "OpenRouter CEO는 자사를 'AI 분야의 Stripe'로 정의하며 AI 모델 통합 접근 게이트웨이 역할 강조",
+      "이번 인수는 AI 라우팅·오케스트레이션 인프라가 차세대 커머스 생태계의 핵심 기술로 자리잡고 있음을 시사"
     ],
     "tags": [
-      "open-source-ai",
-      "meta",
-      "llm",
-      "ai-democratization",
-      "platform-strategy"
+      "ai-infrastructure",
+      "ai-gateway",
+      "stripe-acquisition",
+      "openrouter",
+      "ai-orchestration"
     ],
-    "confidence": 0.75,
+    "confidence": 0.7,
     "strategic_theme": "PLATFORM_ECOSYSTEM",
     "regions": [
       "GLOBAL"
@@ -227,477 +225,480 @@
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Meta",
-      "Glimmer",
-      "Muse Spark",
-      "Mark Zuckerberg"
+      "Stripe",
+      "OpenRouter",
+      "TechCrunch"
     ],
-    "one_line_insight_ko": "Meta의 오픈웨이트 Glimmer 출시는 AI 모델 상용화 비용을 낮추고, D2C 기업들이 자체 AI 역량을 내재화할 수 있는 현실적인 경로를 열어준다.",
-    "one_line_insight_en": "Meta's open-weight Glimmer release democratizes access to frontier AI, giving D2C brands a cost-effective path to internalize AI capabilities rather than depending entirely on proprietary API vendors.",
+    "one_line_insight_ko": "Stripe의 OpenRouter 인수는 AI 게이트웨이 인프라가 커머스 플랫폼의 핵심 경쟁 요소로 부상했음을 알리는 신호탄이다.",
+    "one_line_insight_en": "Stripe's reported acquisition of OpenRouter signals that AI gateway infrastructure is emerging as a core competitive layer in the future of commerce platforms.",
     "ai_processed": true
   },
   {
-    "title": "Consumers warm up to agentic AI purchases",
-    "link": "https://www.retaildive.com/news/retail-shoppers-warm-up-agentic-ai-purchases/827563/",
-    "date_published": "2026-08-13",
-    "description": "Shoppers are trusting AI to buy items on their behalf, but they still prefer a human step in the process, a new survey found.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
+    "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+    "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+    "date_published": "2026-08-16",
+    "description": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
     "categories": [
-      "commerce",
-      "agentic_commerce"
+      "ai_marketing",
+      "strategy"
     ],
-    "relevance_score": 0.95,
+    "relevance_score": 0.5,
     "relevance_label": "high",
-    "title_en": "Consumers Warming Up to Agentic AI Purchases, But Still Want Human Oversight",
-    "summary_ko": "최신 설문조사에 따르면 소비자들은 AI가 자신을 대신해 상품을 구매하는 에이전틱 AI 쇼핑에 점점 더 개방적인 태도를 보이고 있다. 그러나 대부분의 소비자는 최종 구매 결정 단계에서 인간의 개입 혹은 확인 절차를 여전히 선호하는 것으로 나타났다. 이는 완전 자율 AI 구매 대행에 대한 신뢰가 아직 완전히 형성되지 않았음을 시사한다.",
-    "summary_en": "A new survey indicates that shoppers are increasingly open to using agentic AI to make purchases on their behalf. However, most consumers still prefer to have a human step or confirmation process involved before a final purchase is completed. This suggests that full autonomous AI purchasing has yet to fully earn consumer trust.",
-    "so_what_ko": "LG D2C는 에이전틱 AI 구매 흐름을 설계할 때 소비자가 최종 확인 단계에 참여할 수 있는 '휴먼 인더루프' 방식을 채택해 신뢰도를 높여야 한다.",
-    "so_what_en": "LG D2C should design agentic AI purchasing flows with a 'human-in-the-loop' confirmation step to build consumer trust and drive adoption.",
+    "title_en": "Why Many Aren't Buying Zuckerberg's AI Vision",
+    "summary_ko": "마크 저커버그의 AI 미래 비전에 대해 많은 사람들이 회의적인 시각을 보이고 있다. TechCrunch의 Equity 팟캐스트에서는 저커버그의 AI 청사진에 대한 대중의 불신 원인을 논의했다. 메타의 AI 전략이 소비자와 투자자 모두에게 충분히 설득력 있게 전달되지 않고 있다는 점이 핵심 쟁점이다.",
+    "summary_en": "Mark Zuckerberg's AI-driven vision for the future is meeting skepticism from a broad audience. TechCrunch's Equity podcast explored the reasons behind the public's reluctance to embrace his AI narrative. The disconnect between Meta's AI ambitions and consumer or investor confidence is a central concern raised in the discussion.",
+    "so_what_ko": "빅테크 AI 비전에 대한 대중 불신이 커지는 흐름 속에서, LG D2C는 AI 도입 시 소비자 신뢰 구축을 최우선 전략으로 삼아야 한다.",
+    "so_what_en": "As skepticism toward big-tech AI visions grows, LG D2C should prioritize transparent, trust-first communication when deploying AI-driven consumer experiences.",
     "key_points": [
-      "소비자들은 AI 대리 구매에 점점 익숙해지고 있음",
-      "최종 구매 전 인간 확인 단계에 대한 선호도가 여전히 높음",
-      "완전 자율 에이전틱 커머스 도입을 위해서는 신뢰 구축이 선행되어야 함"
+      "저커버그의 AI 비전이 대중적 공감을 얻지 못하고 있음",
+      "AI 전략에 대한 소비자·투자자 양측의 불신이 공존",
+      "원문 내용이 팟캐스트 발췌 수준으로 세부 근거가 제한적임"
     ],
     "tags": [
-      "agentic-commerce",
+      "meta-ai",
       "consumer-trust",
-      "ai-shopping",
-      "autonomous-purchasing"
+      "ai-skepticism",
+      "big-tech"
     ],
-    "confidence": 0.75,
-    "strategic_theme": "AI_COMMERCE",
+    "confidence": 0.5,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
     "regions": [
       "GLOBAL",
       "AMER"
     ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
+    "business_impact": "MEDIUM",
+    "sentiment": "NEUTRAL",
     "key_entities": [
-      "Retail Dive"
+      "Meta",
+      "Mark Zuckerberg",
+      "TechCrunch",
+      "Equity Podcast"
     ],
-    "one_line_insight_ko": "소비자의 에이전틱 AI 구매 수용도가 높아지고 있으나, 인간 확인 단계를 포함한 신뢰 설계가 D2C 전환의 핵심 조건이다.",
-    "one_line_insight_en": "Consumer openness to agentic AI purchasing is growing, but trust-by-design with human confirmation remains the critical enabler for D2C conversion.",
+    "one_line_insight_ko": "저커버그의 AI 비전에 대한 대중 불신은 AI 커뮤니케이션 전략의 신뢰성이 기술력보다 더 중요해졌음을 시사한다.",
+    "one_line_insight_en": "Growing skepticism toward Zuckerberg's AI vision signals that credibility in AI communication now matters more than technological ambition alone.",
     "ai_processed": true
   },
   {
-    "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-    "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-    "date_published": "2026-08-13",
-    "description": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly at a problem that has made recent headlines:…",
-    "source_id": "mit_tech_review_ai",
-    "source_name": "MIT Technology Review (AI)",
-    "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+    "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "date_published": "2026-08-16",
+    "description": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
     "categories": [
-      "tech",
+      "ai_marketing",
       "strategy"
     ],
-    "relevance_score": 0.25,
+    "relevance_score": 0.6,
     "relevance_label": "high",
-    "title_en": "Flock Safety Tightens License Plate Reader Access Rules Amid Surveillance Backlash",
-    "summary_ko": "경찰 기술 기업 Flock Safety는 전국 번호판 인식 네트워크에 대한 경찰관의 접근 규칙을 강화한다고 발표했다. 이는 대규모 감시와 경찰 남용에 대한 우려로 계약을 잃는 등 거세지는 반발을 진정시키기 위한 조치다. 변경 사항들은 최근 언론에서 주목받은 문제들을 직접적으로 겨냥하고 있다.",
-    "summary_en": "Police-tech company Flock Safety announced it will restrict officers' access to its nationwide license plate reader network amid a growing backlash over mass surveillance and police abuse concerns. The move appears aimed at stemming the loss of contracts as criticism has intensified. Several of the new rules directly address issues that have recently made headlines.",
-    "so_what_ko": "AI 기반 감시 기술에 대한 규제 및 대중 반발이 커지고 있어, LG D2C는 고객 데이터 활용 시 투명성과 윤리적 AI 원칙을 더욱 강화해야 한다.",
-    "so_what_en": "Growing public and regulatory backlash against AI-driven surveillance underscores the need for LG D2C to reinforce data transparency and ethical AI principles in customer data usage.",
+    "title_en": "Anthropic CEO Dario Amodei: AI Backlash Is 'Fundamentally a Crisis of Trust'",
+    "summary_ko": "Anthropic CEO 다리오 아모데이는 AI에 대한 대중적 반발이 본질적으로 신뢰의 위기라고 진단했다. 그는 자신이 AI에 대해 지나치게 비관적인 시각을 제시한다는 비판에 반박하며, AI의 위험성과 가능성을 균형 있게 전달하려 한다고 밝혔다. AI 산업 전반에 걸쳐 대중과의 신뢰 회복이 핵심 과제로 부상하고 있다.",
+    "summary_en": "Anthropic CEO Dario Amodei has characterized the growing backlash against AI as fundamentally a crisis of trust. He pushed back against criticism that he portrays AI too pessimistically, asserting that he aims to present a balanced view of AI risks and opportunities. His comments highlight that rebuilding public trust has become a central challenge for the entire AI industry.",
+    "so_what_ko": "AI에 대한 신뢰 위기가 산업 전반의 문제로 대두된 만큼, LG D2C는 AI 활용 마케팅 및 커머스 전략에서 투명성과 책임감을 핵심 메시지로 내세워야 한다.",
+    "so_what_en": "With AI trust erosion becoming an industry-wide challenge, LG D2C must embed transparency and accountability as core pillars of its AI-powered marketing and commerce initiatives.",
     "key_points": [
-      "Flock Safety가 번호판 인식 데이터에 대한 경찰 접근 제한 규정을 강화",
-      "대규모 감시 논란으로 인해 기업 계약 손실이 발생",
-      "AI 및 데이터 기술 기업들의 신뢰 회복을 위한 자체 규제 움직임이 증가"
+      "AI 반발의 근본 원인은 기술적 실패가 아닌 신뢰 부재",
+      "다리오 아모데이는 AI 위험·기회의 균형 잡힌 소통을 강조",
+      "AI 업계 전체가 대중 신뢰 회복이라는 공통 과제에 직면"
     ],
     "tags": [
-      "ai-surveillance",
-      "data-privacy",
-      "police-tech",
-      "ethical-ai"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "DATA_STRATEGY",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Flock Safety"
-    ],
-    "one_line_insight_ko": "AI 감시 기술에 대한 대중 반발은 모든 데이터 기반 기업에게 윤리적 AI 거버넌스 강화의 필요성을 상기시킨다.",
-    "one_line_insight_en": "The public backlash against AI surveillance serves as a reminder for all data-driven companies to strengthen ethical AI governance frameworks.",
-    "ai_processed": true
-  },
-  {
-    "title": "How kids feel about AI, in their own words",
-    "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-    "date_published": "2026-08-13",
-    "description": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were…",
-    "source_id": "mit_tech_review_ai",
-    "source_name": "MIT Technology Review (AI)",
-    "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-    "categories": [
-      "marketing",
-      "ai_marketing"
-    ],
-    "relevance_score": 0.45,
-    "relevance_label": "high",
-    "title_en": "Kids Share Their Unfiltered Perspectives on AI in Their Own Words",
-    "summary_ko": "MIT 테크놀로지 리뷰는 아이들이 AI에 대해 실제로 어떻게 느끼는지를 직접 인터뷰를 통해 탐구했다. 연구진은 일부 아이들이 AI를 과거 세대의 CliffsNotes처럼 부정행위에 활용하고, 또 다른 아이들은 영감을 주는 방식으로 사용하고 있음을 발견했다. 이 결과는 차세대 소비자인 Z세대·알파세대의 AI에 대한 복잡하고 다양한 인식을 보여준다.",
-    "summary_en": "MIT Technology Review conducted direct interviews with children to explore their unfiltered feelings about artificial intelligence. Researchers found that some kids use AI to cheat, similar to how older generations used CliffsNotes, while others employ it in genuinely inspiring ways. The findings reveal a complex and varied perception of AI among the next generation of consumers.",
-    "so_what_ko": "미래 핵심 소비자층인 Z세대·알파세대의 AI 활용 행태와 인식을 파악하는 것은 LG D2C의 장기 마케팅 및 제품 전략 수립에 중요한 기반이 된다.",
-    "so_what_en": "Understanding how Gen Z and Gen Alpha perceive and use AI is foundational for LG D2C's long-term marketing and product strategy targeting future consumers.",
-    "key_points": [
-      "아이들은 AI를 부정행위 도구와 창의적 도구 양면으로 활용하고 있음",
-      "차세대 소비자의 AI 인식은 단순하지 않고 복잡하고 다양함",
-      "미래 소비자 세대의 AI 수용도와 태도는 장기적 D2C 전략에 중요한 시사점을 제공"
-    ],
-    "tags": [
-      "gen-alpha",
-      "gen-z",
-      "consumer-insights",
-      "ai-adoption"
-    ],
-    "confidence": 0.75,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "MIT Technology Review"
-    ],
-    "one_line_insight_ko": "차세대 소비자들의 AI에 대한 복잡한 인식은 D2C 브랜드가 신뢰 기반의 AI 경험을 설계해야 함을 시사한다.",
-    "one_line_insight_en": "The nuanced AI perceptions of next-gen consumers signal that D2C brands must design trust-first AI experiences to win future loyalty.",
-    "ai_processed": true
-  },
-  {
-    "title": "The builder’s guide to GPT‑5.6",
-    "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
-    "date_published": "2026-08-13",
-    "description": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-    "source_id": "openai_blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
-    "categories": [
-      "tech",
-      "agentic_commerce"
-    ],
-    "relevance_score": 0.78,
-    "relevance_label": "high",
-    "title_en": "OpenAI Releases Builder's Guide to GPT-5.6 for Faster, Cost-Efficient AI Agent Development",
-    "summary_ko": "OpenAI는 스타트업들이 GPT-5.6을 활용해 더 빠르고 비용 효율적인 AI 에이전트를 구축하는 방법을 안내하는 빌더 가이드를 공개했다. 이 가이드는 스마트한 모델 선택과 새로운 Responses API 기능 활용법을 중점적으로 다루고 있다. GPT-5.6은 에이전틱 AI 애플리케이션 개발의 진입 장벽을 낮추는 핵심 도구로 자리잡고 있다.",
-    "summary_en": "OpenAI released a builder's guide showing startups how to use GPT-5.6 to develop faster and more cost-efficient AI agents. The guide focuses on smarter model selection and new capabilities within the Responses API. GPT-5.6 is positioning itself as a key tool for lowering the barrier to entry for agentic AI application development.",
-    "so_what_ko": "LG D2C 기술팀은 GPT-5.6과 Responses API를 활용해 커머스 에이전트, 개인화 추천 등 에이전틱 AI 서비스를 보다 빠르고 경제적으로 구축할 수 있는 기회를 검토해야 한다.",
-    "so_what_en": "LG D2C tech teams should evaluate GPT-5.6 and the Responses API as cost-effective foundations for building agentic commerce and personalization services.",
-    "key_points": [
-      "GPT-5.6 기반 AI 에이전트 개발의 속도 및 비용 효율성 향상",
-      "새로운 Responses API가 에이전틱 애플리케이션 구축을 단순화",
-      "스타트업뿐 아니라 엔터프라이즈 팀도 적용 가능한 실용적 가이드 제공"
-    ],
-    "tags": [
-      "gpt-5-6",
-      "ai-agents",
-      "openai",
-      "responses-api",
-      "developer-tools"
-    ],
-    "confidence": 0.82,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "OpenAI",
-      "GPT-5.6",
-      "Responses API"
-    ],
-    "one_line_insight_ko": "GPT-5.6과 Responses API는 D2C 조직이 에이전틱 커머스 기능을 빠르고 경제적으로 내재화할 수 있는 실질적 기반을 제공한다.",
-    "one_line_insight_en": "GPT-5.6 and the Responses API offer D2C organizations a practical and cost-efficient foundation for internalizing agentic commerce capabilities.",
-    "ai_processed": true
-  },
-  {
-    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-    "link": "https://openai.com/index/previewing-ultrafast",
-    "date_published": "2026-08-13",
-    "description": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
-    "source_id": "openai_blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
-    "categories": [
-      "tech",
-      "agentic_commerce"
-    ],
-    "relevance_score": 0.72,
-    "relevance_label": "high",
-    "title_en": "OpenAI Previews Ultrafast Mode: GPT-5.6 Sol Runs Up to 14X Faster via Cerebras",
-    "summary_ko": "OpenAI는 Cerebras와 협력하여 GPT-5.6 Sol 모델을 최대 14배 빠른 속도로 실행하는 새로운 API 서비스 티어 'Ultrafast'를 공개했다. 이 서비스는 초당 최대 750개의 출력 토큰을 처리할 수 있으며, 실시간 응답이 중요한 애플리케이션에 최적화되어 있다. Ultrafast 모드는 현재 미리보기 단계로 제공되고 있다.",
-    "summary_en": "OpenAI, in partnership with Cerebras, unveiled a new API service tier called 'Ultrafast' that runs its GPT-5.6 Sol model at up to 14 times faster speeds. The service can deliver up to 750 output tokens per second, making it ideal for applications requiring real-time responsiveness. Ultrafast mode is currently available as a preview.",
-    "so_what_ko": "초고속 AI 추론 능력은 실시간 쇼핑 어시스턴트, 즉각적인 개인화 추천 등 LG D2C의 고객 경험 품질을 획기적으로 향상시킬 수 있는 기반 기술이 될 수 있다.",
-    "so_what_en": "Ultra-low latency AI inference could be a foundational enabler for LG D2C to deliver real-time shopping assistants and instant personalization at scale.",
-    "key_points": [
-      "GPT-5.6 Sol이 Cerebras 칩 기반으로 최대 14배 빠른 속도 실현",
-      "초당 750 토큰 처리로 실시간 AI 응용 서비스에 새로운 가능성 제공",
-      "현재 미리보기 단계이나 향후 에이전틱 커머스 실시간 상호작용에 활용 가능"
-    ],
-    "tags": [
-      "gpt-5-6",
-      "ultrafast",
-      "openai",
-      "cerebras",
-      "real-time-ai"
-    ],
-    "confidence": 0.85,
-    "strategic_theme": "EMERGING_TECH",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "OpenAI",
-      "GPT-5.6 Sol",
-      "Cerebras",
-      "Ultrafast"
-    ],
-    "one_line_insight_ko": "초당 750토큰의 초고속 AI 추론은 에이전틱 커머스의 실시간 고객 상호작용 품질을 새로운 차원으로 끌어올릴 기술적 돌파구다.",
-    "one_line_insight_en": "750-token-per-second AI inference is a technological breakthrough that could elevate the quality of real-time customer interactions in agentic commerce to a new level.",
-    "ai_processed": true
-  },
-  {
-    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-    "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-    "date_published": "2026-08-13",
-    "description": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-    "source_id": "openai_blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
-    "categories": [
-      "strategy",
-      "ai_marketing"
-    ],
-    "relevance_score": 0.55,
-    "relevance_label": "high",
-    "title_en": "OpenAI Appoints Dali Rajic as Chief Revenue Officer to Lead Global Revenue Organization",
-    "summary_ko": "OpenAI가 글로벌 수익 조직을 이끌 최고수익책임자(CRO)로 Dali Rajic을 임명했다. 이번 임명은 기업들이 AI의 전체 가치를 실현할 수 있도록 지원하는 것을 목표로 한다. OpenAI의 상업화 전략 강화를 위한 리더십 확충으로 해석된다.",
-    "summary_en": "OpenAI has appointed Dali Rajic as its new Chief Revenue Officer to lead the company's global revenue organization. The appointment is aimed at helping businesses realize the full value of AI. This move signals OpenAI's continued push to strengthen its commercial and enterprise monetization strategy.",
-    "so_what_ko": "OpenAI의 CRO 임명은 AI 상업화 가속화를 의미하며, LG D2C 조직은 OpenAI 엔터프라이즈 솔루션과의 파트너십 기회 및 가격·조건 변화에 주목할 필요가 있다.",
-    "so_what_en": "OpenAI's CRO appointment signals accelerating AI commercialization; LG D2C should monitor potential shifts in enterprise pricing, partnership structures, and solution offerings from OpenAI.",
-    "key_points": [
-      "Dali Rajic appointed as OpenAI's first or newly designated Chief Revenue Officer",
-      "Role focuses on leading global revenue organization and enterprise AI value realization",
-      "Signals OpenAI's intensified focus on B2B monetization and commercial growth"
-    ],
-    "tags": [
-      "openai",
-      "leadership",
-      "ai-commercialization",
-      "enterprise-ai",
-      "revenue-strategy"
-    ],
-    "confidence": 0.65,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "OpenAI",
-      "Dali Rajic"
-    ],
-    "one_line_insight_ko": "OpenAI의 CRO 신설 임명은 AI 기업 솔루션 시장의 본격적 상업화 경쟁 가속을 예고한다.",
-    "one_line_insight_en": "OpenAI's CRO appointment signals an accelerating race to monetize enterprise AI, reshaping vendor relationships for D2C organizations.",
-    "ai_processed": true
-  },
-  {
-    "title": "Walmart-backed gaming publication lays off editorial team",
-    "link": "https://digiday.com/media/walmart-backed-gaming-publication-lays-off-editorial-team/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-08-13",
-    "description": "Brandy Berthelson — who had been Restart’s editor-in-chief — said on Bluesky last Friday that the “entire editorial team” at Restart was laid off.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
-    "categories": [
-      "marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.35,
-    "relevance_label": "high",
-    "title_en": "Walmart-Backed Gaming Publication Restart Lays Off Entire Editorial Team",
-    "summary_ko": "월마트가 후원하는 게이밍 미디어 Restart가 편집팀 전원을 해고했다. 편집장 Brandy Berthelson이 Bluesky를 통해 '편집팀 전체'가 해고되었음을 밝혔다. 이는 리테일 기업의 미디어 투자 전략 재검토 움직임으로 볼 수 있다.",
-    "summary_en": "Walmart-backed gaming publication Restart has laid off its entire editorial team, according to former editor-in-chief Brandy Berthelson. Berthelson announced the layoffs on Bluesky, confirming the full editorial staff was let go. The move raises questions about Walmart's media investment strategy in the gaming content space.",
-    "so_what_ko": "리테일 기업의 미디어 직접 투자 모델이 흔들리고 있어, LG D2C는 콘텐츠 마케팅 전략에서 자체 미디어 운영보다 파트너십 또는 AI 기반 콘텐츠 생성 방식을 검토해야 한다.",
-    "so_what_en": "Walmart's retreat from owned gaming media highlights the risk of direct media investment; LG D2C should evaluate AI-driven content creation and strategic partnerships over building proprietary editorial teams.",
-    "key_points": [
-      "Restart's entire editorial team was laid off, signaling a potential pivot or shutdown",
-      "Walmart's media investment strategy in gaming content is under scrutiny",
-      "Retail-owned media models face sustainability challenges in niche content verticals"
-    ],
-    "tags": [
-      "walmart",
-      "retail-media",
-      "gaming-content",
-      "layoffs",
-      "owned-media"
+      "ai-trust",
+      "anthropic",
+      "ai-backlash",
+      "responsible-ai"
     ],
     "confidence": 0.6,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
     "regions": [
+      "GLOBAL",
       "AMER"
     ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Walmart",
-      "Restart",
-      "Brandy Berthelson"
+      "Anthropic",
+      "Dario Amodei",
+      "TechCrunch"
     ],
-    "one_line_insight_ko": "월마트의 게이밍 미디어 철수는 리테일 기업 소유 미디어 모델의 지속 가능성에 대한 의문을 제기한다.",
-    "one_line_insight_en": "Walmart's exit from owned gaming media underscores the unsustainable economics of retailer-run editorial content ventures.",
+    "one_line_insight_ko": "AI 반발의 본질이 '신뢰의 위기'라는 진단은, AI를 도입하는 모든 브랜드에게 신뢰 구축이 기술 경쟁력보다 선행되어야 함을 경고한다.",
+    "one_line_insight_en": "Framing AI backlash as a 'crisis of trust' warns every brand deploying AI that earning consumer confidence must precede any technical advantage.",
     "ai_processed": true
   },
   {
-    "title": "[AINews] SpaceXAI Grok 4.6 and Grok @Bot",
-    "link": "https://www.latent.space/p/ainews-spacexai-grok-46-and-grok",
-    "date_published": "2026-08-13",
-    "description": "AI teammate category just had its most significant new entrant yet",
+    "title": "[AINews] Cursor's $60B acquisition by SpaceXai closes",
+    "link": "https://www.latent.space/p/ainews-cursors-60b-acquisition-by",
+    "date_published": "2026-08-14",
+    "description": "Congrats to the team!",
     "source_id": "latent_space",
     "source_name": "Latent Space (The AI Index)",
     "source_url": "https://www.latent.space/feed",
     "categories": [
       "tech",
-      "agentic_commerce"
+      "strategy"
     ],
-    "relevance_score": 0.7,
+    "relevance_score": 0.35,
     "relevance_label": "high",
-    "title_en": "SpaceXAI Launches Grok 4.6 and Grok Bot, Marking Major Entry into AI Teammate Category",
-    "summary_ko": "SpaceXAI가 Grok 4.6 모델과 Grok Bot을 출시하며 AI 팀메이트 카테고리에 주요 신규 진입자로 부상했다. Latent Space의 분석에 따르면 이번 출시는 AI 팀메이트 범주에서 가장 중요한 신규 진입으로 평가된다. Grok Bot은 장시간 실행 작업에 초점을 맞추며 경쟁 모델 대비 가격 경쟁력을 갖추고 있다.",
-    "summary_en": "SpaceXAI has released Grok 4.6 and introduced Grok Bot, described as the most significant new entrant yet in the AI teammate category. The release positions SpaceXAI as a serious competitor in the agentic AI space. Grok 4.6 is designed to handle long-running tasks while maintaining competitive pricing against frontier models.",
-    "so_what_ko": "Grok 4.6의 장시간 작업 처리 능력과 경쟁적 가격은 LG D2C의 에이전틱 AI 도입 시 공급업체 다양화 옵션으로 고려할 만하다.",
-    "so_what_en": "Grok 4.6's focus on long-running agentic tasks at competitive pricing offers LG D2C a viable alternative to OpenAI and Anthropic for automating complex commerce and marketing workflows.",
+    "title_en": "Cursor Acquired by SpaceXai in $60B Deal",
+    "summary_ko": "AI 코딩 도구 Cursor가 SpaceXai에 600억 달러 규모로 인수되었다고 Latent Space가 보도했다. 이번 인수는 AI 개발 도구 시장에서의 대형 M&A 흐름을 보여주는 사례로 주목받고 있다. 그러나 원문 내용이 매우 제한적이어서 인수 배경 및 전략적 의도에 대한 상세 정보는 확인되지 않는다.",
+    "summary_en": "AI coding assistant Cursor has reportedly been acquired by SpaceXai in a deal valued at $60 billion, according to Latent Space. This transaction represents a landmark M&A event in the AI developer tools market. However, the source excerpt provides very limited detail regarding the strategic rationale or implications of the acquisition.",
+    "so_what_ko": "AI 개발 도구 시장에서의 대규모 인수합병은 AI 기술 생태계의 급속한 재편을 의미하며, LG D2C도 파트너사 및 기술 스택의 변화에 민감하게 대응해야 한다.",
+    "so_what_en": "Mega-deals in the AI developer tools space signal rapid ecosystem consolidation, prompting LG D2C to monitor shifts in its technology partners and AI stack dependencies.",
     "key_points": [
-      "Grok 4.6 and Grok Bot mark SpaceXAI's major entry into the AI teammate/agentic AI category",
-      "Model is optimized for long-running tasks, relevant for autonomous business process automation",
-      "Competitive pricing strategy positions Grok 4.6 as a cost-effective frontier model alternative"
+      "Cursor, SpaceXai에 600억 달러에 인수 완료",
+      "AI 개발 도구 분야 최대 규모 M&A 중 하나",
+      "원문 발췌가 극히 짧아 세부 내용 확인 불가"
     ],
     "tags": [
-      "grok",
-      "spacexai",
-      "agentic-ai",
-      "ai-models",
-      "competitive-pricing"
+      "ai-acquisition",
+      "cursor",
+      "developer-tools",
+      "spacexai"
     ],
-    "confidence": 0.65,
-    "strategic_theme": "AI_AGENT",
+    "confidence": 0.4,
+    "strategic_theme": "PLATFORM_ECOSYSTEM",
     "regions": [
-      "GLOBAL"
+      "GLOBAL",
+      "AMER"
     ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
     "key_entities": [
-      "SpaceXAI",
-      "Grok 4.6",
-      "Grok Bot"
+      "Cursor",
+      "SpaceXai",
+      "Latent Space"
     ],
-    "one_line_insight_ko": "Grok 4.6의 에이전틱 AI 진입은 장시간 자율 작업 처리 시장의 경쟁을 심화시키며 기업의 AI 선택지를 넓힌다.",
-    "one_line_insight_en": "Grok 4.6's entry into the agentic AI space intensifies competition and expands enterprise options for autonomous long-running task execution.",
+    "one_line_insight_ko": "AI 개발 도구 시장에서 600억 달러 규모의 인수는 AI 생태계 주도권 경쟁이 소프트웨어 인프라 레벨로 확대되고 있음을 보여준다.",
+    "one_line_insight_en": "A $60B acquisition in the AI coding tools market signals that the battle for AI ecosystem dominance is now extending to the software infrastructure layer.",
     "ai_processed": true
   },
   {
-    "title": "Target builds digital-twin platform to improve inventory availability",
-    "link": "https://www.modernretail.co/operations/target-builds-digital-twin-platform-to-improve-inventory-availability/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-08-13",
-    "description": "Target has unveiled a new technology play as it continues to work to improve inventory levels in stores.",
-    "source_id": "modern_retail",
-    "source_name": "Modern Retail",
-    "source_url": "https://www.modernretail.co/feed/",
+    "title": "Credit card strain rises: study",
+    "link": "https://www.paymentsdive.com/news/credit-cards-strain-rises-study-debt-consumer-spending/827880/",
+    "date_published": "2026-08-14",
+    "description": "As consumers spend more monthly on their credit cards, some cardholders are carrying hefty balances, a J.D. Power analysis found.",
+    "source_id": "payments_dive",
+    "source_name": "Payments Dive",
+    "source_url": "https://www.paymentsdive.com/feeds/news/",
     "categories": [
       "commerce",
-      "tech",
       "strategy"
     ],
-    "relevance_score": 0.72,
+    "relevance_score": 0.55,
     "relevance_label": "high",
-    "title_en": "Target Builds Digital-Twin Platform to Improve In-Store Inventory Availability",
-    "summary_ko": "Target이 매장 내 재고 가용성 향상을 위한 디지털 트윈 플랫폼을 구축했다. 이 기술은 실제 매장 환경을 가상으로 복제하여 재고 수준 최적화를 지원하는 것으로 알려졌다. 리테일 운영의 디지털화와 AI 기반 공급망 최적화 트렌드를 반영하는 사례다.",
-    "summary_en": "Target has unveiled a new digital-twin platform designed to improve inventory availability across its stores. The technology creates a virtual replica of physical store environments to optimize inventory management. This initiative reflects the broader retail trend of leveraging AI and simulation technologies to enhance supply chain efficiency.",
-    "so_what_ko": "Target의 디지털 트윈 도입은 LG D2C가 물리적 유통 채널과 온라인 채널 간 재고 통합 최적화를 위해 유사 기술 도입을 검토해야 함을 시사한다.",
-    "so_what_en": "Target's digital-twin investment signals that leading retailers are using AI simulation to close the gap between online and in-store inventory accuracy—a capability LG D2C should evaluate for its own fulfillment operations.",
+    "title_en": "Credit Card Strain Rising as Consumers Carry Heavier Balances, J.D. Power Finds",
+    "summary_ko": "J.D. Power 분석에 따르면 소비자들이 신용카드 월 지출을 늘리는 동시에 높은 잔액을 유지하며 재정적 부담이 커지고 있다. 이는 소비자 지출 여력 약화와 부채 증가가 동시에 진행되고 있음을 시사한다. D2C 브랜드 입장에서는 소비자 구매력 하락이 매출에 직접적인 영향을 미칠 수 있는 거시경제적 위험 신호다.",
+    "summary_en": "A J.D. Power analysis reveals that consumers are spending more monthly on credit cards while simultaneously carrying larger balances, indicating rising financial strain. This trend points to a simultaneous weakening of purchasing power and acceleration of consumer debt. For D2C brands, this represents a macroeconomic risk signal that could directly pressure consumer spending on discretionary goods.",
+    "so_what_ko": "소비자 신용 부담 증가는 D2C 채널에서의 고가 제품 구매 전환율 하락으로 이어질 수 있으므로, LG D2C는 할부 옵션 확대 및 가격 민감 고객 대상 프로모션 전략을 강화해야 한다.",
+    "so_what_en": "Rising credit card strain may suppress conversion rates for premium D2C purchases, prompting LG D2C to expand installment payment options and sharpen value-focused promotions for price-sensitive consumers.",
     "key_points": [
-      "Target developed a digital-twin platform to simulate store environments and optimize inventory levels",
-      "The platform directly targets improving in-store inventory availability, a key retail pain point",
-      "Demonstrates AI and simulation technology adoption as a competitive differentiator in retail operations"
+      "소비자 신용카드 월 지출 증가와 높은 잔액 유지 동시 발생",
+      "J.D. Power 분석 기반의 소비자 재정 건전성 악화 신호",
+      "D2C 프리미엄 제품 구매 심리 위축 가능성"
     ],
     "tags": [
-      "digital-twin",
-      "inventory-management",
-      "target",
-      "retail-tech",
-      "supply-chain"
+      "consumer-spending",
+      "credit-card-debt",
+      "retail-macro",
+      "d2c-risk"
     ],
-    "confidence": 0.7,
+    "confidence": 0.65,
     "strategic_theme": "RETAIL_TRANSFORMATION",
     "regions": [
       "AMER"
     ],
     "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
+    "sentiment": "THREAT",
     "key_entities": [
-      "Target",
-      "digital-twin platform"
+      "J.D. Power",
+      "Payments Dive"
     ],
-    "one_line_insight_ko": "Target의 디지털 트윈 플랫폼은 AI 기반 재고 시뮬레이션이 리테일 운영 경쟁력의 핵심 요소로 부상하고 있음을 보여준다.",
-    "one_line_insight_en": "Target's digital-twin platform demonstrates that AI-driven inventory simulation is becoming a core competitive capability in modern retail operations.",
+    "one_line_insight_ko": "소비자 신용 부담 증가는 D2C 프리미엄 브랜드의 구매 전환율을 위협하는 핵심 거시경제 리스크로 부상하고 있다.",
+    "one_line_insight_en": "Escalating consumer credit strain is emerging as a key macroeconomic risk that could suppress conversion rates for D2C premium brands.",
     "ai_processed": true
   },
   {
-    "title": "Grok 4.6 is Out, Undercutting AI Prices of Rivals",
-    "link": "https://aibusiness.com/generative-ai/grok-4-6-out-undercutting-ai-prices-rivals",
-    "date_published": "2026-08-13",
-    "description": "SpaceXAI’s new model focuses on long-running tasks, while remaining competitively priced compared to other frontier models.",
-    "source_id": "ai_business",
-    "source_name": "AI Business",
-    "source_url": "https://aibusiness.com/rss.xml",
+    "title": "LinkedIn Is Policing AI Slop, So Time to Reset",
+    "link": "https://www.marketingaiinstitute.com/blog/linkedin-policing-ai-slop",
+    "date_published": "2026-08-12",
+    "description": "LinkedIn just introduced a new option for users: \"Seems like AI slop.\"",
+    "source_id": "marketing_ai_institute",
+    "source_name": "Marketing AI Institute",
+    "source_url": "https://www.marketingaiinstitute.com/blog/rss.xml",
     "categories": [
-      "tech",
       "ai_marketing",
-      "agentic_commerce"
+      "marketing"
     ],
-    "relevance_score": 0.75,
+    "relevance_score": 0.82,
     "relevance_label": "high",
-    "title_en": "Grok 4.6 Undercuts Rival AI Model Prices While Targeting Long-Running Tasks",
-    "summary_ko": "SpaceXAI가 Grok 4.6을 출시하며 경쟁 AI 모델 대비 낮은 가격으로 프론티어 모델 시장을 공략하고 있다. 이 모델은 특히 장시간 실행 작업에 최적화되어 있어 에이전틱 AI 활용 사례에 적합하다. 가격 경쟁력을 앞세운 Grok 4.6의 등장은 AI 모델 시장의 가격 하락 압력을 가속화할 것으로 예상된다.",
-    "summary_en": "SpaceXAI has released Grok 4.6, a new AI model competitively priced below rival frontier models while focusing on long-running task execution. The model is positioned to challenge established players like OpenAI and Anthropic on both capability and cost. Its pricing strategy is expected to intensify downward price pressure across the AI model market.",
-    "so_what_ko": "Grok 4.6의 저가 전략은 AI 모델 비용 하락을 가속화하여 LG D2C의 AI 도입 비용 절감과 다양한 공급업체 협상력 강화로 이어질 수 있다.",
-    "so_what_en": "Grok 4.6's aggressive pricing accelerates cost reduction in AI model access, giving LG D2C greater negotiating leverage with vendors and more affordable options for scaling AI-powered marketing and commerce automation.",
+    "title_en": "LinkedIn Introduces 'AI Slop' Reporting Feature, Signaling Crackdown on Low-Quality AI Content",
+    "summary_ko": "LinkedIn이 사용자들이 AI가 생성한 저품질 콘텐츠를 신고할 수 있는 'Seems like AI slop' 기능을 도입했다. 이는 플랫폼 내 AI 생성 스팸성 콘텐츠에 대한 본격적인 규제 움직임을 의미한다. 마케터들은 LinkedIn에서의 콘텐츠 전략을 재검토하고 AI 생성 콘텐츠의 품질 관리를 강화해야 할 시점이 됐다.",
+    "summary_en": "LinkedIn has introduced a new user-reporting option labeled 'Seems like AI slop,' enabling members to flag low-quality AI-generated content on the platform. This move signals a formal crackdown on AI-generated spam and filler content that has proliferated across professional networks. Marketers relying on AI for LinkedIn content creation must now recalibrate their strategies to prioritize authenticity and quality.",
+    "so_what_ko": "LG D2C 마케팅팀은 LinkedIn 채널에서 AI 자동화 콘텐츠의 품질 기준을 즉시 재점검하고, 브랜드 신뢰도 보호를 위해 인간 편집자의 검수 프로세스를 강화해야 한다.",
+    "so_what_en": "LG D2C marketing teams should immediately audit the quality of AI-generated LinkedIn content and reinforce human editorial review processes to protect brand credibility on professional platforms.",
     "key_points": [
-      "Grok 4.6 is priced below competing frontier AI models, intensifying market price competition",
-      "Model is optimized for long-running tasks, supporting agentic and autonomous workflow use cases",
-      "SpaceXAI's entry as a price competitor could accelerate commoditization of frontier AI models"
+      "LinkedIn, 사용자가 AI 저품질 콘텐츠를 직접 신고하는 기능 출시",
+      "AI 생성 콘텐츠의 플랫폼 내 규제 강화 흐름의 시작",
+      "B2B·전문가 네트워크에서 AI 마케팅 콘텐츠 품질 기준이 상향될 전망",
+      "마케터들의 AI 콘텐츠 전략 전면 재검토 필요"
     ],
     "tags": [
-      "grok-4-6",
-      "spacexai",
-      "ai-pricing",
-      "frontier-models",
-      "agentic-ai"
+      "linkedin",
+      "ai-content",
+      "ai-slop",
+      "content-moderation",
+      "ai-marketing"
     ],
-    "confidence": 0.72,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "confidence": 0.75,
+    "strategic_theme": "AI_MARKETING",
     "regions": [
       "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "LinkedIn",
+      "Marketing AI Institute"
+    ],
+    "one_line_insight_ko": "LinkedIn의 'AI slop' 신고 기능 도입은 AI 마케팅 콘텐츠의 시대가 '양'에서 '질'로 전환됨을 알리는 명확한 업계 신호다.",
+    "one_line_insight_en": "LinkedIn's 'AI slop' reporting feature is a clear industry signal that the era of AI marketing content is shifting from volume to verified quality.",
+    "ai_processed": true
+  },
+  {
+    "title": "Scaling AI agents with trustworthy data",
+    "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+    "date_published": "2026-08-12",
+    "description": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data…",
+    "source_id": "mit_tech_review_ai",
+    "source_name": "MIT Technology Review (AI)",
+    "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+    "categories": [
+      "agentic_commerce",
+      "tech",
+      "strategy"
+    ],
+    "relevance_score": 0.82,
+    "relevance_label": "high",
+    "title_en": "Scaling AI Agents Requires Trustworthy Data as the Core Foundation",
+    "summary_ko": "AI 에이전트 도입이 급속히 확산되는 가운데, 많은 기업들이 ROI 실현을 위해 올바른 데이터 인프라 구축이 필수적임을 깨닫고 있다. 기술 및 비즈니스 리더들은 에이전틱 AI의 잠재력을 인정하면서도 부적절한 인프라와 데이터 품질 문제로 어려움을 겪고 있다. 신뢰할 수 있는 데이터 기반이 AI 에이전트 확장의 핵심 선결 조건으로 부상하고 있다.",
+    "summary_en": "Organizations are rapidly adopting agentic AI, yet many struggle to realize expected ROI due to inadequate data infrastructure. Business and technology leaders acknowledge the transformative potential of AI agents but face significant foundational challenges. Trustworthy, well-structured data is emerging as the critical prerequisite for successfully scaling AI agents across the enterprise.",
+    "so_what_ko": "LG D2C 조직이 AI 에이전트를 확장하려면 고객 데이터, 제품 데이터, 구매 이력 등의 데이터 인프라를 먼저 정비해야 하며, 데이터 품질 투자가 AI ROI의 선행 조건이다.",
+    "so_what_en": "LG D2C must prioritize data infrastructure—customer profiles, product catalogs, purchase histories—before scaling AI agents, as data quality is the leading determinant of AI ROI.",
+    "key_points": [
+      "에이전틱 AI 도입은 급증하고 있으나 ROI 실현은 데이터 인프라에 달려 있음",
+      "부적절한 데이터 기반이 AI 에이전트 확장의 주요 장벽으로 작용",
+      "신뢰할 수 있는 데이터 구축이 AI 투자 성공의 핵심 선결 조건으로 강조됨"
+    ],
+    "tags": [
+      "ai-agents",
+      "data-infrastructure",
+      "enterprise-ai",
+      "agentic-ai",
+      "roi"
+    ],
+    "confidence": 0.72,
+    "strategic_theme": "DATA_STRATEGY",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "MIT Technology Review"
+    ],
+    "one_line_insight_ko": "AI 에이전트 확장의 성패는 기술보다 데이터 신뢰성에 달려 있다.",
+    "one_line_insight_en": "The success of scaling AI agents depends less on the technology itself and more on the quality and trustworthiness of underlying data.",
+    "ai_processed": true
+  },
+  {
+    "title": "From assistance to execution: How enterprises put AI to work",
+    "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "date_published": "2026-08-12",
+    "description": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "categories": [
+      "agentic_commerce",
+      "strategy",
+      "tech"
+    ],
+    "relevance_score": 0.88,
+    "relevance_label": "high",
+    "title_en": "OpenAI Research Shows Enterprises Shifting AI from Assistance to Autonomous Execution",
+    "summary_ko": "OpenAI의 최신 연구에 따르면 기업들이 AI를 단순 지원 도구에서 자율적으로 업무를 실행하는 에이전트로 전환하고 있다. ChatGPT와 Codex를 활용한 에이전틱 AI 도입이 확산되며, 선도 기업들은 AI 채택 속도에서 경쟁사를 앞서고 있다. 프론티어 기업들은 AI를 적극 활용함으로써 생산성과 운영 효율성에서 뚜렷한 격차를 벌리고 있다.",
+    "summary_en": "OpenAI research reveals that enterprises are moving beyond AI as a passive assistant toward deploying it as an autonomous execution engine. Companies are leveraging ChatGPT and Codex for agentic workflows, and frontier firms are pulling significantly ahead in AI adoption. The research highlights a growing competitive divide between organizations that embrace full AI integration and those that lag behind.",
+    "so_what_ko": "LG D2C는 AI를 단순 업무 보조 도구가 아닌 마케팅 캠페인 실행, 고객 응대, 주문 처리 등을 자율 수행하는 에이전틱 시스템으로 전환해야 경쟁 우위를 유지할 수 있다.",
+    "so_what_en": "LG D2C should transition AI from a support tool to an autonomous executor across marketing, customer engagement, and order operations to keep pace with frontier enterprise adopters.",
+    "key_points": [
+      "기업 AI 활용이 보조(assistance)에서 자율 실행(execution)으로 전환 중",
+      "ChatGPT와 Codex가 기업의 에이전틱 AI 핵심 도구로 활용됨",
+      "AI 도입 선도 기업과 후발 기업 간 경쟁 격차가 확대되고 있음"
+    ],
+    "tags": [
+      "agentic-ai",
+      "enterprise-ai",
+      "chatgpt",
+      "codex",
+      "ai-adoption"
+    ],
+    "confidence": 0.78,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "OpenAI",
+      "ChatGPT",
+      "Codex"
+    ],
+    "one_line_insight_ko": "AI 도입의 다음 단계는 '보조'에서 '자율 실행'으로의 전환이며, 이를 선점하는 기업이 경쟁 우위를 확보한다.",
+    "one_line_insight_en": "The next frontier of enterprise AI is autonomous execution, and organizations that make this shift early will establish a lasting competitive advantage.",
+    "ai_processed": true
+  },
+  {
+    "title": "How RingCentral builds AI-native work from engineering to ops",
+    "link": "https://openai.com/index/ringcentral",
+    "date_published": "2026-08-12",
+    "description": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "categories": [
+      "tech",
+      "strategy"
+    ],
+    "relevance_score": 0.65,
+    "relevance_label": "high",
+    "title_en": "RingCentral Deploys ChatGPT Work and Codex to Build AI-Native Engineering and Operations",
+    "summary_ko": "RingCentral은 ChatGPT Work와 Codex를 도입해 AI 네이티브 방식으로 엔지니어링과 운영 전반을 혁신하고 있다. 이 솔루션을 통해 AI 제품 개발을 가속화하고 엔지니어링·운영 부문의 운영 인텔리전스를 중앙화했다. RingCentral의 사례는 OpenAI 도구가 기업의 핵심 운영 플랫폼으로 자리잡을 수 있음을 보여주는 구체적 사례다.",
+    "summary_en": "RingCentral has integrated ChatGPT Work and Codex to transform its engineering and operational processes into an AI-native model. The deployment accelerates AI product development while centralizing operational intelligence across engineering and operations teams. This case study demonstrates how OpenAI tools can serve as a foundational layer for enterprise-wide AI transformation.",
+    "so_what_ko": "LG D2C의 제품 개발 및 운영 팀도 ChatGPT Work 및 Codex와 같은 AI 네이티브 도구를 내재화하여 개발 속도와 운영 효율을 동시에 높이는 전략을 검토할 수 있다.",
+    "so_what_en": "LG D2C product and operations teams could explore AI-native tools like ChatGPT Work and Codex to accelerate development cycles and centralize operational intelligence.",
+    "key_points": [
+      "RingCentral이 ChatGPT Work·Codex로 엔지니어링과 운영을 AI 네이티브로 전환",
+      "AI 제품 개발 속도 가속화 및 운영 인텔리전스 중앙화 달성",
+      "OpenAI 도구가 기업 핵심 운영 인프라로 통합될 수 있음을 실증"
+    ],
+    "tags": [
+      "chatgpt",
+      "codex",
+      "ai-native",
+      "enterprise-operations",
+      "openai"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "GLOBAL",
+      "AMER"
     ],
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "SpaceXAI",
-      "Grok 4.6",
+      "RingCentral",
       "OpenAI",
-      "Anthropic"
+      "ChatGPT",
+      "Codex"
     ],
-    "one_line_insight_ko": "Grok 4.6의 공격적 저가 전략은 프론티어 AI 모델 시장의 가격 하락을 가속화하며 기업의 AI 도입 장벽을 낮춘다.",
-    "one_line_insight_en": "Grok 4.6's aggressive undercutting of rival AI prices accelerates frontier model commoditization, lowering the cost barrier for enterprise AI adoption.",
+    "one_line_insight_ko": "RingCentral 사례는 AI 네이티브 운영 모델이 실제 기업 환경에서 구현 가능함을 입증한다.",
+    "one_line_insight_en": "RingCentral's deployment proves that an AI-native operating model is practically achievable for large enterprises using OpenAI tools.",
+    "ai_processed": true
+  },
+  {
+    "title": "[AINews] How to steal a Reasoning Trace",
+    "link": "https://www.latent.space/p/ainews-how-to-steal-a-reasoning-trace",
+    "date_published": "2026-08-12",
+    "description": "Speculative Decoding by any other name would distil as sweet",
+    "source_id": "latent_space",
+    "source_name": "Latent Space (The AI Index)",
+    "source_url": "https://www.latent.space/feed",
+    "categories": [
+      "tech"
+    ],
+    "relevance_score": 0.35,
+    "relevance_label": "high",
+    "title_en": "AI Reasoning Trace Vulnerability: Speculative Decoding Enables Model Knowledge Extraction",
+    "summary_ko": "최신 AI 뉴스레터는 추론 추적(Reasoning Trace) 탈취 가능성과 Speculative Decoding 기술의 발전을 다루고 있다. 이 기법은 사실상 모델 지식 증류(distillation)와 유사한 방식으로 작동하며, AI 모델의 내부 추론 과정을 외부에서 추출할 수 있는 취약점을 시사한다. 엔지니어링 및 AI 보안 커뮤니티에서 주목받고 있는 기술적 이슈다.",
+    "summary_en": "A recent AI newsletter explores the concept of stealing reasoning traces from AI models, connecting it to advancements in speculative decoding techniques. The method effectively mirrors model distillation, enabling extraction of internal reasoning processes from frontier models. This raises important technical and security considerations for organizations deploying AI systems with proprietary reasoning capabilities.",
+    "so_what_ko": "LG D2C가 독자적 AI 모델이나 추론 기반 시스템을 구축할 경우, 추론 추적 탈취 등 AI 지식재산 보안 위협에 대한 대비책 마련이 필요하다.",
+    "so_what_en": "As LG D2C builds proprietary AI reasoning systems, it must account for emerging IP security threats such as reasoning trace extraction and model distillation attacks.",
+    "key_points": [
+      "추론 추적(Reasoning Trace) 탈취가 AI 보안의 새로운 위협으로 부상",
+      "Speculative Decoding 기술이 모델 지식 증류와 유사하게 작동함",
+      "AI 모델 지식재산 보호를 위한 보안 전략 수립 필요성 대두"
+    ],
+    "tags": [
+      "ai-security",
+      "reasoning-trace",
+      "speculative-decoding",
+      "model-distillation",
+      "llm"
+    ],
+    "confidence": 0.55,
+    "strategic_theme": "EMERGING_TECH",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "Latent Space"
+    ],
+    "one_line_insight_ko": "AI 추론 추적 탈취 기법의 등장은 기업 AI 시스템의 지식재산 보안 전략을 재검토하게 만드는 새로운 위협이다.",
+    "one_line_insight_en": "The emergence of reasoning trace theft techniques signals a new class of AI IP security threats that enterprises deploying proprietary models must urgently address.",
+    "ai_processed": true
+  },
+  {
+    "title": "How to Make AI a Trusted Business Partner With Anti-Hallucination Practices",
+    "link": "https://www.salesforce.com/blog/small-business/ai-anti-hallucination-practices/",
+    "date_published": "2026-08-12",
+    "description": "Learn how to make AI more reliable for your business with these anti-hallucination strategies.",
+    "source_id": "salesforce_agentforce",
+    "source_name": "Salesforce Agentforce Blog",
+    "source_url": "https://www.salesforce.com/blog/category/ai/feed/",
+    "categories": [
+      "agentic_commerce",
+      "ai_marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.8,
+    "relevance_label": "high",
+    "title_en": "Salesforce Outlines Anti-Hallucination Practices to Make AI a Reliable Business Partner",
+    "summary_ko": "Salesforce는 AI 환각(hallucination) 문제를 방지하여 AI를 신뢰할 수 있는 비즈니스 파트너로 만드는 실용적 전략을 제시했다. 특히 중소기업을 대상으로 AI 신뢰성을 높이기 위한 구체적인 안티-환각 실천법을 소개하고 있다. AI의 부정확한 출력이 비즈니스 의사결정에 미치는 위험을 줄이는 것이 핵심 목표다.",
+    "summary_en": "Salesforce has published practical anti-hallucination strategies aimed at making AI more reliable and trustworthy for business applications, with a focus on small businesses. The guidance addresses the risk of AI generating inaccurate outputs that could negatively impact business decisions and customer interactions. Establishing reliable AI behavior is positioned as a foundational requirement for effective agentic commerce deployments.",
+    "so_what_ko": "LG D2C가 고객 응대, 제품 추천, 마케팅 콘텐츠 생성 등에 AI를 활용할 때 환각 방지 전략을 적용하면 브랜드 신뢰도와 고객 경험을 보호할 수 있다.",
+    "so_what_en": "LG D2C should implement anti-hallucination practices across AI-driven customer interactions, product recommendations, and marketing content to protect brand trust and customer experience.",
+    "key_points": [
+      "AI 환각 방지가 비즈니스 AI 신뢰성의 핵심 과제로 부상",
+      "Salesforce가 중소기업 대상 실용적 안티-환각 전략을 구체적으로 제시",
+      "에이전틱 AI 커머스 환경에서 정확한 AI 출력이 고객 신뢰의 전제 조건"
+    ],
+    "tags": [
+      "ai-hallucination",
+      "ai-reliability",
+      "salesforce",
+      "agentic-commerce",
+      "trust"
+    ],
+    "confidence": 0.78,
+    "strategic_theme": "AI_COMMERCE",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Salesforce",
+      "Agentforce"
+    ],
+    "one_line_insight_ko": "AI 환각 방지는 에이전틱 커머스의 신뢰 기반을 구축하는 필수 전제 조건이다.",
+    "one_line_insight_en": "Anti-hallucination practices are not optional enhancements but foundational requirements for deploying trustworthy AI in agentic commerce environments.",
     "ai_processed": true
   }
 ]
