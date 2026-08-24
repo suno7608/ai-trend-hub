@@ -1,34 +1,220 @@
 [
   {
-    "title": "[AINews] 10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over",
-    "link": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
-    "date_published": "2026-08-22",
-    "description": "Did you think RSI stopped at model training?",
-    "source_id": "latent_space",
-    "source_name": "Latent Space (The AI Index)",
-    "source_url": "https://www.latent.space/feed",
+    "title": "OpenAI is sharpening its focus on enterprise advertisers",
+    "link": "https://digiday.com/marketing/openai-is-sharpening-its-focus-on-enterprise-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-08-24",
+    "description": "The company is hiring a dedicated marketing role aimed at positioning OpenAI as a 'premium advertising platform for the world’s marketers'.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
     "categories": [
-      "tech",
-      "strategy"
+      "ai_marketing",
+      "marketing"
     ],
-    "relevance_score": 0.4,
+    "relevance_score": 0.85,
     "relevance_label": "high",
-    "title_en": "Why AI Simulation Is Becoming 10% Worse, 100x Cheaper, and 10,000x Faster Than Real-World Training",
-    "summary_ko": "AI 시뮬레이션 기술이 실제 환경 대비 성능은 다소 낮지만, 비용은 100배 저렴하고 속도는 1만 배 빠른 대안으로 부상하고 있다. 이 트렌드는 모델 훈련을 넘어 재귀적 자기 개선(RSI) 영역으로도 확장되고 있다. 시뮬레이션 기반 AI 개발이 산업 전반에 걸쳐 빠르게 채택되고 있다.",
-    "summary_en": "AI simulation is emerging as a compelling alternative to real-world training, offering dramatically lower costs and faster iteration despite modest performance trade-offs. The trend extends beyond standard model training into recursive self-improvement (RSI) applications. Simulation-based AI development is accelerating adoption across multiple industries.",
-    "so_what_ko": "LG D2C 조직은 시뮬레이션 기반 AI 훈련을 활용해 실제 고객 데이터 없이도 마케팅 및 커머스 모델을 저비용으로 빠르게 검증하는 방안을 검토할 수 있다.",
-    "so_what_en": "LG D2C teams can explore simulation-based AI training to rapidly and cost-effectively prototype commerce and marketing models without requiring large volumes of real customer data.",
+    "title_en": "OpenAI Targets Enterprise Advertisers with Dedicated Marketing Hire for Premium Ad Platform",
+    "summary_ko": "OpenAI가 기업 광고주를 대상으로 한 전담 마케팅 역할을 채용하며 '세계 마케터를 위한 프리미엄 광고 플랫폼'으로 포지셔닝을 강화하고 있다. 이는 OpenAI가 AI 기술 제공을 넘어 광고 시장에 본격 진입하려는 전략적 전환을 시사한다. 엔터프라이즈 광고주를 핵심 타깃으로 삼아 기존 디지털 광고 플랫폼과의 경쟁 구도가 형성될 전망이다.",
+    "summary_en": "OpenAI is hiring a dedicated marketing role focused on positioning itself as a 'premium advertising platform for the world's marketers,' signaling a strategic push into the enterprise advertising space. This move suggests OpenAI is expanding beyond AI technology provision toward becoming a direct competitor in the digital advertising ecosystem. The focus on enterprise advertisers indicates a high-value, B2B-first approach to building its advertising business.",
+    "so_what_ko": "OpenAI가 프리미엄 광고 플랫폼으로 부상할 경우 LG D2C는 AI 기반 광고 채널 다변화 전략을 선제적으로 검토하고, 엔터프라이즈 광고주 대상 베타 프로그램 참여 기회를 모색해야 한다.",
+    "so_what_en": "LG D2C should proactively evaluate OpenAI's emerging ad platform as a potential premium channel and explore early-adopter opportunities to gain competitive advantage in AI-driven advertising.",
     "key_points": [
-      "시뮬레이션은 실제 환경 대비 비용 100배 절감, 속도 1만 배 향상 가능",
-      "RSI(재귀적 자기 개선)까지 시뮬레이션 적용 범위 확대",
-      "성능 손실(약 10%)을 감수하고도 경제성·속도 면에서 매력적인 대안"
+      "OpenAI는 전담 엔터프라이즈 마케팅 역할 채용을 통해 광고 시장 진입을 본격화",
+      "'세계 마케터를 위한 프리미엄 광고 플랫폼' 포지셔닝 전략 채택",
+      "기존 디지털 광고 플랫폼(Google, Meta 등)과의 직접 경쟁 구도 형성 가능성",
+      "엔터프라이즈 광고주 중심의 고가치 B2B 접근 방식 시사"
     ],
     "tags": [
-      "ai-simulation",
-      "model-training",
-      "cost-efficiency",
-      "rsi",
-      "engineering"
+      "openai",
+      "enterprise-advertising",
+      "ai-marketing",
+      "adtech",
+      "premium-platform"
+    ],
+    "confidence": 0.65,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "OpenAI",
+      "ChatGPT"
+    ],
+    "one_line_insight_ko": "OpenAI의 광고 플랫폼화는 D2C 브랜드에게 AI 네이티브 광고 채널이라는 새로운 기회를 열고 있다.",
+    "one_line_insight_en": "OpenAI's pivot to a premium ad platform signals a new AI-native advertising channel that D2C brands should monitor closely.",
+    "ai_processed": true
+  },
+  {
+    "title": "The new AI playbook: The rules brands are setting around customer-facing content",
+    "link": "https://digiday.com/marketing/the-new-ai-playbook-the-rules-brands-are-setting-around-customer-facing-content/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-08-24",
+    "description": "For some brands, AI platforms and services are proving to be game-changing for their ability to speed up creative processes, and save money.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "ai_marketing",
+      "marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.82,
+    "relevance_label": "high",
+    "title_en": "Brands Establish New AI Playbook Rules for Customer-Facing Content Creation",
+    "summary_ko": "일부 브랜드들이 AI 플랫폼을 활용해 크리에이티브 프로세스를 가속화하고 비용을 절감하는 방식으로 고객 대상 콘텐츠 제작의 게임 체인저로 활용하고 있다. 브랜드들은 AI 활용 범위와 한계를 정의하는 자체적인 AI 플레이북을 수립하며 거버넌스 체계를 구축하고 있다. 속도와 비용 효율성이 입증되면서 AI 기반 콘텐츠 제작은 마케팅 운영의 핵심 전략으로 자리잡고 있다.",
+    "summary_en": "Brands are leveraging AI platforms and services to dramatically speed up creative processes and reduce costs for customer-facing content. Companies are setting internal rules and frameworks—effectively new AI playbooks—to govern how AI is used in content creation. The proven benefits of speed and cost savings are making AI-driven content production a mainstream marketing strategy.",
+    "so_what_ko": "LG D2C는 고객 대면 콘텐츠에 대한 명확한 AI 활용 가이드라인과 거버넌스 체계를 선제적으로 수립하여 품질 일관성을 유지하면서 운영 효율성을 극대화해야 한다.",
+    "so_what_en": "LG D2C should establish clear internal AI governance and content guidelines now to balance creative quality with the operational efficiency gains AI content tools offer.",
+    "key_points": [
+      "브랜드들이 고객 대면 콘텐츠에 AI 활용 규칙과 플레이북을 자체 수립 중",
+      "AI 도입으로 크리에이티브 프로세스 속도 향상 및 비용 절감 효과 입증",
+      "AI 콘텐츠 거버넌스가 마케팅 조직 운영의 핵심 과제로 부상",
+      "브랜드별 차별화된 AI 활용 전략이 경쟁력의 새로운 요소로 작용"
+    ],
+    "tags": [
+      "ai-content",
+      "brand-governance",
+      "creative-automation",
+      "ai-marketing",
+      "content-strategy"
+    ],
+    "confidence": 0.65,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [],
+    "one_line_insight_ko": "AI 콘텐츠 거버넌스 플레이북 수립이 브랜드 마케팅 경쟁력의 새로운 차별화 요소가 되고 있다.",
+    "one_line_insight_en": "Establishing a clear AI content playbook is becoming a core differentiator for brands competing in the AI-accelerated marketing landscape.",
+    "ai_processed": true
+  },
+  {
+    "title": "The IAB is developing a framework to tackle AI advertising measurement",
+    "link": "https://digiday.com/media/the-iab-is-developing-a-framework-to-tackle-ai-advertising-measurement/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-08-24",
+    "description": "The IAB is developing a framework to solve a big challenge in advertising: how to measure and assign credit when ads influence AI agents.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "ai_marketing",
+      "agentic_commerce",
+      "commerce"
+    ],
+    "relevance_score": 0.95,
+    "relevance_label": "high",
+    "title_en": "IAB Develops Industry Framework to Measure Ad Attribution in AI Agent Interactions",
+    "summary_ko": "IAB(인터랙티브 광고 협회)가 AI 에이전트가 광고에 영향을 받는 경우 어떻게 측정하고 기여도를 부여할 것인지 해결하기 위한 표준 프레임워크를 개발 중이다. 이는 AI 에이전트가 소비자 구매 결정에 개입하는 에이전틱 커머스 환경에서 광고 측정의 근본적인 패러다임 전환이 필요함을 의미한다. 업계 표준 프레임워크의 부재가 AI 광고 투자 효율 측정의 핵심 장애물로 작용하고 있다.",
+    "summary_en": "The IAB is developing an industry-wide framework to address a critical challenge: how to measure and attribute ad credit when advertisements influence AI agents rather than directly influencing human consumers. This initiative reflects the fundamental disruption that agentic commerce poses to traditional digital advertising measurement models. The absence of standardized measurement is currently a major barrier to confident AI advertising investment.",
+    "so_what_ko": "LG D2C는 IAB 프레임워크 개발 과정에 주목하고, AI 에이전트 시대의 광고 기여도 측정 방식 변화에 대비한 데이터 인프라와 어트리뷰션 전략을 선제적으로 재설계해야 한다.",
+    "so_what_en": "LG D2C must anticipate the shift in ad attribution methodology driven by AI agents and begin redesigning its measurement infrastructure ahead of IAB framework adoption.",
+    "key_points": [
+      "IAB가 AI 에이전트 광고 영향력 측정을 위한 업계 표준 프레임워크 개발 착수",
+      "AI 에이전트 개입 시 기존 광고 어트리뷰션 모델의 근본적 한계 노출",
+      "에이전틱 커머스 환경에서 광고 ROI 측정 패러다임의 전환 불가피",
+      "업계 표준 부재가 AI 광고 채널 투자 의사결정의 주요 장애물로 작용"
+    ],
+    "tags": [
+      "iab",
+      "ad-measurement",
+      "ai-agents",
+      "attribution",
+      "agentic-commerce"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "GLOBAL",
+      "AMER"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "IAB"
+    ],
+    "one_line_insight_ko": "AI 에이전트 시대의 도래로 광고 어트리뷰션 체계가 근본적으로 재편되며, 업계 표준 선점이 마케팅 경쟁력을 좌우할 것이다.",
+    "one_line_insight_en": "The rise of agentic commerce is forcing a fundamental rethink of ad attribution, making early alignment with emerging IAB standards a strategic priority.",
+    "ai_processed": true
+  },
+  {
+    "title": "Hershey is using AI to strategize for s’mores season",
+    "link": "https://www.modernretail.co/marketing/hershey-starts-using-ai-to-strategize-for-smores-season/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-08-24",
+    "description": "The Hershey Company has started using new AI tools to maximize sales performance of s'mores ingredients in stores — including its own chocolates, as well as marshmallows and graham crackers.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
+    "categories": [
+      "ai_commerce",
+      "commerce",
+      "marketing"
+    ],
+    "relevance_score": 0.78,
+    "relevance_label": "high",
+    "title_en": "Hershey Deploys AI Tools to Optimize In-Store Sales Strategy for S'mores Season",
+    "summary_ko": "허쉬(Hershey Company)가 AI 도구를 활용해 스모어(s'mores) 시즌 매장 내 판매 성과를 극대화하는 전략 수립에 나섰다. 이 AI 도구는 허쉬 초콜릿뿐 아니라 마시멜로, 그레이엄 크래커 등 연관 제품군의 판매 전략 최적화에도 활용되고 있다. 계절적 마케팅 전략에 AI를 접목함으로써 재고 관리, 진열 최적화, 판촉 전략 등에서 데이터 기반 의사결정이 강화될 것으로 기대된다.",
+    "summary_en": "The Hershey Company has begun using new AI tools to maximize in-store sales performance for s'mores season, covering not only its own chocolates but also complementary products like marshmallows and graham crackers. This represents a concrete application of AI in retail strategy, moving beyond marketing into category-level sales optimization. The move demonstrates how AI can enhance seasonal demand planning and cross-category retail execution.",
+    "so_what_ko": "LG D2C는 허쉬의 사례를 벤치마킹하여 계절성과 연관 제품군을 고려한 AI 기반 판매 전략 최적화 도구 도입을 검토하고, 자사 제품 카테고리에 맞는 AI 활용 시나리오를 개발해야 한다.",
+    "so_what_en": "LG D2C should benchmark Hershey's AI-driven seasonal strategy and explore how similar AI tools could optimize category-level sales planning and in-store execution for LG's product lines.",
+    "key_points": [
+      "허쉬가 계절 판매 전략 수립에 AI 도구를 실제 비즈니스에 적용한 구체적 사례",
+      "자사 제품을 넘어 연관 카테고리 전반의 판매 최적화에 AI 활용",
+      "AI 기반 계절 수요 예측 및 매장 내 실행 전략 강화 가능성 시사",
+      "리테일 AI 적용이 마케팅을 넘어 카테고리 관리 영역으로 확장되는 추세 반영"
+    ],
+    "tags": [
+      "hershey",
+      "retail-ai",
+      "seasonal-strategy",
+      "in-store-optimization",
+      "category-management"
+    ],
+    "confidence": 0.72,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Hershey"
+    ],
+    "one_line_insight_ko": "허쉬의 AI 기반 시즌 전략은 AI가 마케팅 기획에서 카테고리 단위 판매 실행까지 확장되고 있음을 보여주는 실증 사례다.",
+    "one_line_insight_en": "Hershey's AI-powered seasonal strategy illustrates how AI is expanding from marketing planning into real-time retail execution and category optimization.",
+    "ai_processed": true
+  },
+  {
+    "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+    "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+    "date_published": "2026-08-23",
+    "description": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "categories": [
+      "tech"
+    ],
+    "relevance_score": 0.25,
+    "relevance_label": "high",
+    "title_en": "Mystery AI Model 'Ox Alpha' Sparks Speculation About Origins and Capabilities",
+    "summary_ko": "Ox Alpha라는 정체불명의 새로운 AI 모델이 온라인 커뮤니티에서 큰 화제를 모으며 개발 주체와 성능에 대한 활발한 추측을 불러일으키고 있다. 이 모델은 '스텔스 모델'로 불리며, 개발사나 배경에 대한 공식 정보가 공개되지 않은 상태다. 신비로운 등장 방식이 AI 업계에서 관심을 끌고 있으나 비즈니스적 연관성은 현재로서 불명확하다.",
+    "summary_en": "A mysterious new AI model called Ox Alpha has generated significant online speculation regarding its origins, developers, and capabilities, being dubbed a 'stealth model.' No official information about the model's creators or intended use cases has been publicly disclosed at this time. While the model has captured internet attention, its business relevance and technical specifications remain unconfirmed.",
+    "so_what_ko": "현재 공개된 정보가 제한적이어서 LG D2C 관점에서 즉각적인 전략적 시사점을 도출하기 어려우나, 신생 AI 모델의 등장 동향을 모니터링하는 차원에서 추가 정보 공개를 지속적으로 주시할 필요가 있다.",
+    "so_what_en": "Given the lack of verified information, LG D2C does not need immediate action, but should monitor further disclosures about Ox Alpha as part of ongoing AI landscape surveillance.",
+    "key_points": [
+      "Ox Alpha라는 정체불명의 AI 모델이 온라인에서 화제를 모으고 있음",
+      "개발사 및 기술적 사양에 대한 공식 정보 미공개 상태",
+      "현재 시점에서 비즈니스적 연관성 및 적용 가능성 불명확"
+    ],
+    "tags": [
+      "ox-alpha",
+      "stealth-ai",
+      "emerging-model",
+      "ai-startup",
+      "speculation"
     ],
     "confidence": 0.5,
     "strategic_theme": "EMERGING_TECH",
@@ -36,424 +222,191 @@
       "GLOBAL"
     ],
     "business_impact": "LOW",
-    "sentiment": "OPPORTUNITY",
+    "sentiment": "NEUTRAL",
     "key_entities": [
-      "Latent Space"
+      "Ox Alpha",
+      "TechCrunch"
     ],
-    "one_line_insight_ko": "AI 시뮬레이션은 비용과 속도 측면에서 실제 훈련을 대체할 강력한 패러다임으로 자리잡고 있다.",
-    "one_line_insight_en": "AI simulation is rapidly becoming a dominant paradigm by offering 100x cost reduction and 10,000x speed gains over real-world training.",
+    "one_line_insight_ko": "Ox Alpha는 현재 검증된 정보가 부족하여 LG D2C에 즉각적인 전략적 시사점을 제공하지 않는 관망 대상이다.",
+    "one_line_insight_en": "Ox Alpha remains a watch-and-wait topic for LG D2C until verified information about its origins and capabilities becomes available.",
     "ai_processed": true
   },
   {
-    "title": "The Evolution of the Agent Harness",
-    "link": "https://www.latent.space/p/attention-interface",
-    "date_published": "2026-08-22",
-    "description": "Models keep absorbing the harness into their weights — soon, it will be a harness for human attention rather than for the model.",
-    "source_id": "latent_space",
-    "source_name": "Latent Space (The AI Index)",
-    "source_url": "https://www.latent.space/feed",
-    "categories": [
-      "tech",
-      "agentic_commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.6,
-    "relevance_label": "high",
-    "title_en": "The Agent Harness Is Evolving: From Model Scaffolding to Human Attention Interface",
-    "summary_ko": "AI 에이전트 하네스(실행 프레임워크)는 점차 모델 가중치 안으로 흡수되며 진화하고 있다. 향후 하네스는 모델을 위한 구조물이 아니라 인간의 주의(Attention)를 관리하고 안내하는 인터페이스로 변모할 전망이다. 이 변화는 AI 에이전트와 인간 간 협업 방식의 근본적 재편을 의미한다.",
-    "summary_en": "The agent harness — the scaffolding that guides AI model behavior — is increasingly being absorbed into model weights as capabilities advance. The next evolution positions the harness not as a model controller, but as an interface for managing human attention. This shift signals a fundamental reimagining of how humans and AI agents collaborate.",
-    "so_what_ko": "LG D2C는 AI 에이전트 도입 시 단순한 자동화 도구를 넘어, 마케터와 커머스 담당자의 의사결정 주의를 최적화하는 '인간 주의 관리 인터페이스'로 설계하는 전략을 고려해야 한다.",
-    "so_what_en": "LG D2C should design AI agent deployments not merely as automation tools but as interfaces that optimize marketer and commerce team decision-making attention and focus.",
-    "key_points": [
-      "AI 에이전트 하네스가 모델 가중치로 내재화되는 추세",
-      "차세대 하네스는 인간의 주의(Attention)를 관리하는 인터페이스로 진화",
-      "인간-AI 협업 구조의 근본적 변화 예고"
-    ],
-    "tags": [
-      "ai-agent",
-      "agent-harness",
-      "human-ai-collaboration",
-      "attention-interface",
-      "engineering"
-    ],
-    "confidence": 0.5,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Latent Space"
-    ],
-    "one_line_insight_ko": "AI 에이전트 하네스는 모델 제어를 넘어 인간 주의를 조율하는 핵심 인터페이스로 진화하고 있다.",
-    "one_line_insight_en": "The agent harness is evolving from a model scaffold into a human-attention management interface, redefining human-AI collaboration.",
-    "ai_processed": true
-  },
-  {
-    "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-    "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-    "date_published": "2026-08-22",
-    "description": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+    "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+    "date_published": "2026-08-23",
+    "description": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
     "source_id": "techcrunch_ai",
     "source_name": "TechCrunch AI",
     "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
     "categories": [
       "commerce",
-      "ai_marketing",
-      "tech"
+      "ai_marketing"
     ],
     "relevance_score": 0.55,
     "relevance_label": "high",
-    "title_en": "Harvard's $699 HBS Foundry Bootcamp Introduces AI Instructor Avatars for Startup Training",
-    "summary_ko": "하버드 비즈니스 스쿨은 699달러짜리 스타트업 부트캠프 'HBS Foundry'에서 AI 강사 아바타를 도입했다. 이 AI 아바타는 수강생의 모의 피칭 및 이사회 회의 연습 시 실시간 피드백을 제공한다. 교육 AI의 상업화와 강사 페르소나 디지털화가 고등교육 기관에서도 본격화되고 있음을 보여주는 사례다.",
-    "summary_en": "Harvard Business School has launched HBS Foundry, a $699 startup bootcamp that features AI avatars modeled after its instructors. These AI avatars provide real-time feedback during practice pitch sessions and simulated board meetings. The initiative signals a growing commercialization of educational AI and the digitization of expert personas in higher education.",
-    "so_what_ko": "LG D2C는 AI 아바타 기반의 고객 교육 및 제품 컨설팅 서비스 개발에 참고할 수 있으며, 브랜드 전문가 페르소나를 디지털화해 개인화된 고객 경험을 제공하는 방안을 검토할 수 있다.",
-    "so_what_en": "LG D2C can draw inspiration from this model to develop AI avatar-based product consultation or customer education experiences, digitalizing brand expert personas for scalable personalized engagement.",
+    "title_en": "Linkdaze's Smart Calendar Aims to Manage the Entire Household Without a Paywall",
+    "summary_ko": "링크데이즈(Linkdaze)는 AI 식사 플래너 등 스마트 홈 관리 기능을 탑재한 디지털 캘린더를 출시했다. 경쟁 서비스와 달리 핵심 AI 기능을 유료 구독 없이 무료로 제공하는 것이 특징이다. 단순 일정 관리를 넘어 가정 전반을 운영하는 AI 도구로 포지셔닝하고 있다.",
+    "summary_en": "Linkdaze has launched a smart digital calendar designed to manage household tasks beyond simple schedule tracking. The product differentiates itself by offering AI-powered features, including a meal planner, without placing them behind a paywall. It positions itself as a comprehensive household management AI tool rather than a conventional calendar app.",
+    "so_what_ko": "가정용 AI 도구의 무료 접근성 전략은 D2C 고객 획득 비용을 낮추는 유효한 모델로, LG D2C도 스마트홈 기기 연동 AI 서비스의 진입 장벽을 낮추는 방향을 검토할 수 있다.",
+    "so_what_en": "The freemium-free approach for household AI tools is a compelling D2C acquisition strategy; LG should consider lowering barriers to AI-powered smart home service features to drive device engagement and ecosystem stickiness.",
     "key_points": [
-      "하버드 HBS Foundry 부트캠프에 AI 강사 아바타 도입 (수강료 $699)",
-      "AI 아바타가 모의 피칭·이사회 회의에서 실시간 피드백 제공",
-      "고등교육 기관에서 AI 페르소나 상업화 사례 등장"
+      "AI 식사 플래너 등 핵심 기능을 페이월 없이 무료 제공",
+      "단순 일정 추적을 넘어 가정 운영 전반을 지원하는 AI 캘린더로 포지셔닝",
+      "스마트홈 관리 영역에서 AI 도구 경쟁이 심화되고 있음"
     ],
     "tags": [
-      "ai-avatar",
-      "edtech",
-      "personalization",
-      "ai-persona",
-      "startup"
+      "smart-home",
+      "ai-assistant",
+      "household-management",
+      "freemium",
+      "d2c"
     ],
-    "confidence": 0.75,
-    "strategic_theme": "AI_PERSONALIZATION",
+    "confidence": 0.6,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
     "regions": [
+      "GLOBAL",
       "AMER"
     ],
-    "business_impact": "LOW",
+    "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Harvard Business School",
-      "HBS Foundry"
+      "Linkdaze"
     ],
-    "one_line_insight_ko": "AI 강사 아바타의 교육 상업화는 브랜드 전문가 페르소나 디지털화를 통한 D2C 고객 경험 혁신의 가능성을 시사한다.",
-    "one_line_insight_en": "Harvard's AI instructor avatars highlight the commercial potential of digitizing expert personas to deliver scalable, personalized customer experiences.",
+    "one_line_insight_ko": "가정 운영 AI 도구의 무료 제공 전략은 스마트홈 생태계 확장을 노리는 D2C 기업에게 유효한 고객 확보 모델을 제시한다.",
+    "one_line_insight_en": "Linkdaze's no-paywall AI household management strategy offers a compelling low-friction customer acquisition model for smart home ecosystem players like LG.",
     "ai_processed": true
   },
   {
-    "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-    "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-    "date_published": "2026-08-22",
-    "description": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+    "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+    "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+    "date_published": "2026-08-23",
+    "description": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
     "source_id": "techcrunch_ai",
     "source_name": "TechCrunch AI",
     "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
     "categories": [
       "tech",
-      "strategy",
-      "agentic_commerce"
-    ],
-    "relevance_score": 0.55,
-    "relevance_label": "high",
-    "title_en": "Inherent's Faraday AI Agent Outperforms Anthropic and OpenAI in Scientific Research Replication",
-    "summary_ko": "딥마인드 출신 연구자들이 설립한 영국 AI 스타트업 Inherent이 과학 논문 재현 능력에서 Anthropic·OpenAI를 능가하는 AI 에이전트 'Faraday'를 공개했다. Faraday는 과학 연구를 자율적으로 복제하고 검증할 수 있어 혁신 가속화의 발판이 될 것으로 기대된다. 이 기술은 연구·개발 영역에서 AI 에이전트의 실질적 역할 확대를 보여주는 중요한 이정표다.",
-    "summary_en": "British AI startup Inherent, founded by DeepMind alumni, has unveiled Faraday, an AI agent that reportedly outperforms models from Anthropic and OpenAI in replicating scientific research papers. Faraday demonstrates the ability to autonomously replicate and validate scientific findings, positioning it as a potential catalyst for accelerating innovation. The development marks a significant milestone in expanding the practical role of AI agents in research and development.",
-    "so_what_ko": "LG D2C는 Faraday와 같은 연구 자동화 AI 에이전트가 제품 개발·마케팅 인사이트 도출·경쟁 분석 등에 활용될 수 있는 가능성을 주목하고, AI 에이전트 도입 로드맵에 연구 자동화 영역을 포함시켜야 한다.",
-    "so_what_en": "LG D2C should monitor research-automation AI agents like Faraday for potential applications in product development intelligence, competitive analysis, and marketing insight generation.",
-    "key_points": [
-      "딥마인드 출신이 설립한 Inherent, AI 에이전트 'Faraday' 공개",
-      "과학 논문 재현 능력에서 Anthropic·OpenAI 모델 능가 주장",
-      "연구 자동화 AI 에이전트의 혁신 가속화 잠재력 부각"
-    ],
-    "tags": [
-      "ai-agent",
-      "research-automation",
-      "deepmind",
-      "faraday",
-      "ai-benchmarks"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "GLOBAL",
-      "EMEA"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Inherent",
-      "Faraday",
-      "DeepMind",
-      "Anthropic",
-      "OpenAI"
-    ],
-    "one_line_insight_ko": "Faraday의 연구 재현 능력은 AI 에이전트가 기업 R&D와 경쟁 인텔리전스를 자율적으로 수행하는 시대가 임박했음을 알린다.",
-    "one_line_insight_en": "Faraday's research replication capability signals the imminent arrival of AI agents capable of autonomously driving corporate R&D and competitive intelligence.",
-    "ai_processed": true
-  },
-  {
-    "title": "OpenAI says California should strengthen its AI safety bill",
-    "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-    "date_published": "2026-08-22",
-    "description": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "categories": [
-      "strategy",
-      "tech"
+      "strategy"
     ],
     "relevance_score": 0.5,
     "relevance_label": "high",
-    "title_en": "OpenAI Reverses Course, Now Urges California to Strengthen AI Safety Bill SB 53",
-    "summary_ko": "OpenAI가 이전에 반대했던 캘리포니아 AI 안전 법안 SB 53에 대해 입장을 바꿔 강화를 촉구하고 나섰다. 이는 AI 규제 환경이 급변하고 있으며, 주요 AI 기업들이 규제 형성에 적극 개입하고 있음을 보여준다. AI 안전 규제의 강화는 AI 기반 커머스 및 마케팅 솔루션 도입에 영향을 미칠 수 있는 중요한 정책 변수다.",
-    "summary_en": "OpenAI has reversed its earlier opposition to California's AI safety bill SB 53, now actively calling for the legislation to be strengthened. The shift highlights the rapidly evolving regulatory landscape around AI and the growing role of major AI companies in shaping policy. Tightening AI safety regulations could become a significant policy variable affecting the adoption of AI-driven commerce and marketing solutions.",
-    "so_what_ko": "LG D2C는 미국 AI 규제 동향을 면밀히 모니터링하고, AI 기반 마케팅·커머스 솔루션의 규제 준수 체계를 선제적으로 구축해야 한다.",
-    "so_what_en": "LG D2C must closely monitor U.S. AI regulatory developments and proactively build compliance frameworks for AI-driven marketing and commerce solutions to avoid operational disruptions.",
+    "title_en": "Training AI on Copyrighted Books: Legally Murky and Far From Resolved",
+    "summary_ko": "대부분의 출판 작가들은 자신도 모르는 사이에 AI 학습 데이터로 저작물이 활용되었으며, 이는 법적으로 논쟁 중인 사안이다. AI 기업들은 공정 이용(fair use) 원칙을 근거로 합법성을 주장하지만, 법원의 판단은 아직 확립되지 않았다. 저작권 문제는 AI 산업 전반의 지속 가능성과 규제 리스크에 직결되는 핵심 쟁점으로 부상하고 있다.",
+    "summary_en": "Most published authors have unknowingly had their works used to train AI models, raising significant legal and ethical questions. AI companies largely rely on the fair use doctrine to justify this practice, but court rulings on the matter remain unsettled. Copyright litigation is emerging as a defining regulatory risk for the AI industry at large.",
+    "so_what_ko": "AI 기반 마케팅 콘텐츠 생성 및 학습 데이터 활용 시 저작권 리스크를 사전에 점검하고, LG D2C는 법적 분쟁 노출을 최소화할 수 있는 라이선스 확보 또는 자체 데이터 전략을 강화해야 한다.",
+    "so_what_en": "LG D2C teams using AI for content generation must proactively audit copyright exposure in training data and content workflows, prioritizing licensed data sources to mitigate growing legal risk.",
     "key_points": [
-      "OpenAI, 이전 반대 입장 번복 후 캘리포니아 SB 53 강화 촉구",
-      "AI 주요 기업들이 규제 형성에 적극 개입하는 추세 확인",
-      "AI 안전 규제 강화가 AI 커머스·마케팅 솔루션 도입에 영향 가능"
+      "대다수 작가들의 저작물이 무단으로 AI 학습에 사용된 것으로 알려짐",
+      "AI 기업들의 공정 이용 주장에 대한 법원 판결이 아직 확립되지 않음",
+      "AI 학습 데이터 저작권 문제는 업계 전반의 규제 리스크로 확대 중",
+      "콘텐츠 생성 AI를 활용하는 기업들도 간접적 법적 위험에 노출될 수 있음"
     ],
     "tags": [
+      "copyright",
       "ai-regulation",
-      "ai-safety",
-      "openai",
-      "california",
-      "policy"
+      "fair-use",
+      "legal-risk",
+      "generative-ai"
     ],
-    "confidence": 0.8,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "OpenAI",
-      "SB 53",
-      "California"
-    ],
-    "one_line_insight_ko": "OpenAI의 AI 안전 규제 지지 선회는 글로벌 AI 기업들이 규제를 경쟁 전략의 일부로 활용하는 시대가 왔음을 시사한다.",
-    "one_line_insight_en": "OpenAI's reversal on SB 53 signals that major AI players are now leveraging regulatory advocacy as a core competitive strategy.",
-    "ai_processed": true
-  },
-  {
-    "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-    "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-    "date_published": "2026-08-22",
-    "description": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "categories": [
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.4,
-    "relevance_label": "high",
-    "title_en": "Frontier AI Labs Lack Public Plans for Containing Rogue AI Models, Study Finds",
-    "summary_ko": "새로운 연구에 따르면, 주요 AI 연구소들은 AI 모델이 예상치 못한 위험한 행동을 보일 경우 이를 통제할 공개적인 계획을 거의 갖추지 못한 것으로 나타났다. AI 시스템이 점점 더 예측 불가능한 행동을 보이는 가운데, 이에 대한 업계의 대비 수준에 대한 우려가 커지고 있다. 이는 AI 안전성과 거버넌스에 대한 공개적인 투명성이 여전히 부족하다는 점을 시사한다.",
-    "summary_en": "A new study reveals that leading AI labs have few publicly documented contingency plans for controlling rogue AI models. This raises serious concerns about industry preparedness as AI systems increasingly exhibit unexpected and potentially dangerous behaviors. The findings highlight a significant transparency gap in AI safety governance across frontier labs.",
-    "so_what_ko": "AI 기반 D2C 비즈니스를 운영하는 LG 입장에서, 파트너 AI 공급업체의 안전성 및 거버넌스 체계를 사전에 검토하고, 리스크 관리 프레임워크를 내부적으로 수립하는 것이 중요하다.",
-    "so_what_en": "LG D2C teams should proactively assess the safety and governance frameworks of AI vendors and establish internal risk protocols to manage potential exposure from unpredictable AI behavior.",
-    "key_points": [
-      "주요 AI 연구소들이 '로그 모델' 통제를 위한 공개 문서화된 계획이 부재함",
-      "AI 시스템의 예측 불가능한 행동이 점점 증가하면서 안전성 우려 고조",
-      "AI 거버넌스 투명성 부족이 산업 전반의 신뢰도 문제로 이어질 가능성"
-    ],
-    "tags": [
-      "ai-safety",
-      "ai-governance",
-      "frontier-ai",
-      "risk-management"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "EMERGING_TECH",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "TechCrunch",
-      "Frontier AI Labs"
-    ],
-    "one_line_insight_ko": "주요 AI 연구소들의 안전 통제 계획 부재는 AI 기술 도입 기업들에게 공급업체 리스크 관리의 중요성을 상기시킨다.",
-    "one_line_insight_en": "The absence of documented rogue model containment plans at top AI labs underscores the urgent need for AI adopters to rigorously vet vendor safety practices.",
-    "ai_processed": true
-  },
-  {
-    "title": "How to Make AI Your Creative Superpower with Native Foreign&#8217;s Nik Kleverov",
-    "link": "https://www.adweek.com/brand-marketing/how-to-make-ai-your-creative-superpower-with-native-foreigns-nik-kleverov/",
-    "date_published": "2026-08-21",
-    "description": "Turning impossible ideas into brand stories that resonate.",
-    "source_id": "adweek",
-    "source_name": "Adweek",
-    "source_url": "https://www.adweek.com/feed",
-    "categories": [
-      "marketing",
-      "ai_marketing"
-    ],
-    "relevance_score": 0.75,
-    "relevance_label": "high",
-    "title_en": "Native Foreign's Nik Kleverov on Using AI as a Creative Superpower in Brand Storytelling",
-    "summary_ko": "Native Foreign의 크리에이티브 디렉터 Nik Kleverov는 AI를 브랜드 스토리텔링의 창의적 도구로 활용해 불가능해 보이는 아이디어를 실현하는 방법을 소개했다. AI는 크리에이티브 팀이 더 빠르고 대담한 콘텐츠를 제작할 수 있도록 지원하는 역할을 하고 있다. 이 접근 방식은 브랜드가 소비자와 공감할 수 있는 스토리를 더욱 효과적으로 구성하는 데 기여하고 있다.",
-    "summary_en": "Native Foreign's Nik Kleverov discusses how AI can serve as a creative superpower for brand marketers, enabling teams to turn ambitious, previously impossible ideas into compelling brand narratives. AI tools are accelerating the creative process and empowering teams to produce bolder, more resonant content. This approach positions AI not as a replacement for human creativity, but as an amplifier of it.",
-    "so_what_ko": "LG D2C 마케팅팀은 AI를 크리에이티브 제작 도구로 적극 도입하여 브랜드 스토리텔링의 속도와 품질을 동시에 향상시킬 수 있다.",
-    "so_what_en": "LG D2C marketing teams should explore AI-powered creative tools to accelerate campaign production and craft more resonant brand stories without proportionally increasing creative headcount.",
-    "key_points": [
-      "AI를 활용해 기존에 불가능했던 크리에이티브 아이디어를 브랜드 스토리로 구현 가능",
-      "AI는 인간 창의성을 대체하는 것이 아니라 증폭시키는 역할",
-      "브랜드 마케터들이 AI를 통해 콘텐츠 제작 속도와 대담성을 모두 높이고 있음"
-    ],
-    "tags": [
-      "ai-creativity",
-      "brand-storytelling",
-      "ai-marketing",
-      "creative-ai"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "AI_MARKETING",
+    "confidence": 0.7,
+    "strategic_theme": "DATA_STRATEGY",
     "regions": [
       "GLOBAL",
       "AMER"
     ],
     "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Native Foreign",
-      "Nik Kleverov",
-      "Adweek"
-    ],
-    "one_line_insight_ko": "AI는 브랜드 크리에이티브의 가능성을 확장하는 '슈퍼파워'로, D2C 마케터들이 더 빠르고 대담한 스토리텔링을 구현할 수 있게 한다.",
-    "one_line_insight_en": "AI is emerging as a creative superpower for brand marketers, enabling D2C teams to execute bolder storytelling ideas faster and more efficiently than ever before.",
+    "sentiment": "THREAT",
+    "key_entities": [],
+    "one_line_insight_ko": "AI 학습 데이터 저작권 분쟁이 확산됨에 따라, AI 콘텐츠 도구를 활용하는 D2C 기업도 법적 리스크 관리 체계를 조속히 갖춰야 한다.",
+    "one_line_insight_en": "As AI copyright litigation intensifies, D2C brands leveraging generative AI for content must urgently establish legal safeguards around training data and content provenance.",
     "ai_processed": true
   },
   {
-    "title": "Week of Aug 10 Evening News Ratings: WNT Regains First in Demo",
-    "link": "https://www.adweek.com/tvnewser/week-of-aug-10-2026-evening-news-ratings/",
-    "date_published": "2026-08-21",
-    "description": "WNT was the only broadcast up in total viewers and the demo.",
-    "source_id": "adweek",
-    "source_name": "Adweek",
-    "source_url": "https://www.adweek.com/feed",
-    "categories": [
-      "marketing"
-    ],
-    "relevance_score": 0.05,
-    "relevance_label": "high",
-    "title_en": "ABC's World News Tonight Reclaims Top Spot in Demo During Aug 10 Ratings Week",
-    "summary_ko": "2026년 8월 10일 주간 저녁 뉴스 시청률 집계에서 ABC의 World News Tonight(WNT)가 데모 시청률 1위를 탈환했다. WNT는 총 시청자 수와 데모 시청률 모두에서 상승세를 보인 유일한 방송으로 기록됐다. 이번 결과는 전통적인 TV 뉴스 경쟁 구도에서 ABC의 입지를 다시 한번 확인시켜 준다.",
-    "summary_en": "ABC's World News Tonight reclaimed first place in the key demographic during the week of August 10, 2026 evening news ratings. It was the only major broadcast to see gains in both total viewers and the demo. The result reinforces ABC's competitive position in the traditional TV news landscape.",
-    "so_what_ko": "이 기사는 AI 커머스 또는 D2C 마케팅과 직접적인 연관성이 낮아, LG D2C 전략 수립에 즉각적인 시사점을 제공하지 않는다.",
-    "so_what_en": "This article has minimal relevance to AI commerce or D2C marketing strategy and offers no direct actionable insight for LG's D2C organization.",
-    "key_points": [
-      "ABC WNT가 8월 10일 주간 데모 시청률 1위 탈환",
-      "총 시청자 수와 데모 모두 상승한 유일한 방송",
-      "전통 TV 뉴스 경쟁에서 ABC의 강세 재확인"
-    ],
-    "tags": [
-      "tv-ratings",
-      "broadcast-news",
-      "media"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "ABC",
-      "World News Tonight",
-      "Adweek"
-    ],
-    "one_line_insight_ko": "이 기사는 TV 뉴스 시청률에 관한 내용으로, AI 커머스 및 D2C 전략과 관련성이 거의 없다.",
-    "one_line_insight_en": "This article covers TV news ratings and holds negligible relevance for AI commerce or LG's D2C strategy.",
-    "ai_processed": true
-  },
-  {
-    "title": "Simulation: the new Scaling Law — Joon Sung Park, Simile AI",
-    "link": "https://www.latent.space/p/simile",
-    "date_published": "2026-08-21",
-    "description": "Simile’s CEO about his journey from the viral Generative Agents to creating 8 Billion Digital Twins of every living human... and why it’s gone from fun exploration to very serious business.",
-    "source_id": "latent_space",
-    "source_name": "Latent Space (The AI Index)",
-    "source_url": "https://www.latent.space/feed",
+    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+    "link": "https://openai.com/index/stampli",
+    "date_published": "2026-08-20",
+    "description": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
     "categories": [
       "tech",
       "strategy",
       "ai_marketing"
     ],
-    "relevance_score": 0.7,
+    "relevance_score": 0.72,
     "relevance_label": "high",
-    "title_en": "Simile AI CEO Joon Sung Park on How Simulation Is Becoming the New Scaling Law",
-    "summary_ko": "Simile AI의 CEO Joon Sung Park은 '시뮬레이션'이 AI의 새로운 스케일링 법칙이 될 수 있다고 주장하며, 생성형 에이전트 연구에서 출발해 80억 명의 디지털 트윈 생성이라는 비전을 제시했다. 이 기술은 인간의 행동과 의사결정을 디지털 환경에서 정교하게 모방하는 것을 목표로 하며, 이미 학문적 탐구를 넘어 실질적인 비즈니스 가치를 창출하는 단계에 진입하고 있다. 디지털 트윈 기술이 소비자 행동 예측, 마케팅 시뮬레이션 등 다양한 상업적 응용으로 확장될 가능성이 주목된다.",
-    "summary_en": "Simile AI CEO Joon Sung Park outlines his vision for simulation as the next major AI scaling paradigm, building on his foundational work with Generative Agents to create digital twins of all 8 billion living humans. The technology aims to model human behavior and decision-making with high fidelity in digital environments. What began as academic exploration has rapidly evolved into a serious commercial venture with broad potential applications.",
-    "so_what_ko": "디지털 트윈 기반의 소비자 시뮬레이션 기술은 LG D2C 조직이 마케팅 캠페인 효과를 사전 검증하거나 소비자 행동을 예측하는 데 활용할 수 있는 차세대 도구로 주목해야 한다.",
-    "so_what_en": "LG D2C teams should monitor digital twin simulation technology as a potential next-generation tool for pre-validating marketing campaigns, predicting consumer behavior, and personalizing customer journeys at scale.",
+    "title_en": "Stampli Cuts Product Launch Hours by 68% Using ChatGPT and Codex",
+    "summary_ko": "B2B 결제 자동화 기업 Stampli는 ChatGPT Work와 Codex를 활용해 제품 출시에 필요한 제작 시간을 68% 단축했다. 디자인 리소스가 다른 프로젝트에 투입된 상황에서 AI 도구를 통해 수 주간의 작업을 며칠로 압축하는 데 성공했다. 이 사례는 고정 마감 기한이 있는 프로젝트에서 생성형 AI가 실질적인 운영 효율을 창출할 수 있음을 입증한다.",
+    "summary_en": "B2B accounts payable platform Stampli used OpenAI's ChatGPT Work and Codex to reduce product launch production hours by 68%. With design resources committed to other projects and a fixed deadline, the team compressed weeks of work into just a few days. The case demonstrates that generative AI can deliver measurable operational efficiency for time-constrained product launches.",
+    "so_what_ko": "LG D2C의 제품 출시 및 캠페인 제작 워크플로우에 ChatGPT Work·Codex 같은 AI 코딩·콘텐츠 도구를 도입하면 리소스 제약 상황에서도 출시 속도를 대폭 개선할 수 있다.",
+    "so_what_en": "LG D2C product and campaign teams should pilot ChatGPT Work and Codex-style AI tools to compress launch timelines and reduce dependency on scarce design and engineering resources.",
     "key_points": [
-      "시뮬레이션이 AI의 새로운 스케일링 패러다임으로 부상",
-      "80억 명의 디지털 트윈 생성을 통한 인간 행동 모델링 비전 제시",
-      "학문적 연구에서 실질적 비즈니스 가치 창출 단계로 전환",
-      "소비자 행동 예측 및 마케팅 시뮬레이션 등 상업적 응용 가능성 확대"
+      "ChatGPT Work와 Codex 활용으로 출시 제작 시간 68% 감소",
+      "디자인 리소스 부재 상황에서 수 주 분량의 작업을 수 일로 단축",
+      "고정 마감 기한 환경에서 생성형 AI의 실질적 운영 가치 입증",
+      "OpenAI의 B2B 업무 생산성 도구로서의 포지셔닝 강화"
     ],
     "tags": [
-      "digital-twin",
-      "simulation",
-      "ai-scaling",
-      "consumer-behavior",
-      "generative-agents"
+      "generative-ai",
+      "productivity",
+      "chatgpt",
+      "product-launch",
+      "workflow-automation"
     ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_PERSONALIZATION",
+    "confidence": 0.82,
+    "strategic_theme": "AI_COMMERCE",
     "regions": [
-      "GLOBAL"
+      "GLOBAL",
+      "AMER"
     ],
-    "business_impact": "MEDIUM",
+    "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Simile AI",
-      "Joon Sung Park",
-      "Generative Agents",
-      "Latent Space"
+      "Stampli",
+      "OpenAI",
+      "ChatGPT",
+      "Codex"
     ],
-    "one_line_insight_ko": "80억 디지털 트윈 시뮬레이션 기술은 소비자 행동 예측과 개인화 마케팅의 패러다임을 근본적으로 바꿀 수 있는 차세대 AI 기반이다.",
-    "one_line_insight_en": "Digital twin simulation of all human behavior at scale represents a paradigm shift that could fundamentally transform consumer prediction and hyper-personalized D2C marketing.",
+    "one_line_insight_ko": "Stampli의 68% 출시 시간 단축 사례는 생성형 AI가 D2C 제품 출시 속도와 리소스 효율을 동시에 혁신할 수 있음을 실증한다.",
+    "one_line_insight_en": "Stampli's 68% reduction in launch hours proves that generative AI tools can simultaneously accelerate D2C product releases and alleviate resource constraints.",
     "ai_processed": true
   },
   {
-    "title": "[AINews] Poolside gets $12B reverse-execuhire to NVIDIA; founders stay for $1B, employees go for $6B, Infraco scaling to 7GW neocloud",
-    "link": "https://www.latent.space/p/ainews-poolside-gets-12b-reverse",
-    "date_published": "2026-08-21",
-    "description": "Yes, we’re confused too.",
-    "source_id": "latent_space",
-    "source_name": "Latent Space (The AI Index)",
-    "source_url": "https://www.latent.space/feed",
+    "title": "Meta AI Now Available as a Desktop App for Mac",
+    "link": "https://aibusiness.com/generative-ai/meta-ai-now-available-as-desktop-app-mac",
+    "date_published": "2026-08-20",
+    "description": "The release is part of the company’s strengthened emphasis on AI and appealing to businesses.",
+    "source_id": "ai_business",
+    "source_name": "AI Business",
+    "source_url": "https://aibusiness.com/rss.xml",
     "categories": [
       "tech",
+      "ai_marketing",
       "strategy"
     ],
-    "relevance_score": 0.45,
+    "relevance_score": 0.65,
     "relevance_label": "high",
-    "title_en": "Poolside Acquired by NVIDIA in $12B Deal as Infraco Scales to 7GW Neocloud",
-    "summary_ko": "AI 코딩 스타트업 Poolside가 NVIDIA에 약 120억 달러 규모의 '역방향 채용' 형태로 인수되었으며, 창업자들은 10억 달러, 직원들은 60억 달러를 수령하는 구조로 알려졌다. 이와 함께 Infraco가 7기가와트 규모의 네오클라우드로 확장하는 계획이 공개되며 AI 인프라 경쟁이 더욱 가열되고 있다. 이번 딜은 NVIDIA가 AI 소프트웨어 및 인프라 역량을 강화하려는 전략적 행보의 일환으로 해석된다.",
-    "summary_en": "AI coding startup Poolside has been acquired by NVIDIA in a $12 billion reverse-execuhire deal, with founders reportedly retaining $1 billion and employees receiving $6 billion. Alongside this, Infraco is scaling its neocloud infrastructure to 7 gigawatts, signaling intensifying competition in AI infrastructure. The deal reflects NVIDIA's continued strategy to deepen its presence across both AI hardware and software layers.",
-    "so_what_ko": "NVIDIA의 Poolside 인수는 AI 소프트웨어-하드웨어 통합 가속화를 의미하며, LG D2C 조직이 활용하는 AI 플랫폼 및 공급업체 생태계의 지각 변동에 대비해야 함을 시사한다.",
-    "so_what_en": "NVIDIA's acquisition of Poolside signals accelerating consolidation in the AI stack, and LG D2C should monitor how shifts in the AI vendor ecosystem may affect the tools, platforms, and costs underpinning their AI-driven operations.",
+    "title_en": "Meta AI Launches Desktop App for Mac, Targeting Business Users",
+    "summary_ko": "메타(Meta)는 자사 AI 어시스턴트를 맥(Mac) 데스크톱 앱으로 출시하며 비즈니스 사용자 공략을 강화했다. 이번 출시는 메타가 AI 역량을 소셜 미디어 플랫폼을 넘어 업무 생산성 영역으로 확장하는 전략의 일환이다. 경쟁이 치열한 AI 어시스턴트 시장에서 메타는 기업 고객을 겨냥한 접근성 확대에 주력하고 있다.",
+    "summary_en": "Meta has launched a desktop application for Mac, bringing its AI assistant to a new platform with a focus on appealing to business users. The release reflects Meta's broader strategy to expand its AI capabilities beyond social media into workplace productivity. The move positions Meta more directly in competition with other AI desktop tools targeting enterprise and professional users.",
+    "so_what_ko": "Meta AI의 데스크톱 앱 출시는 AI 어시스턴트 경쟁이 업무 환경으로 확장되고 있음을 의미하며, LG D2C 마케팅·운영팀은 다양한 AI 도구 생태계를 비교 평가해 업무 효율화 기회를 모색해야 한다.",
+    "so_what_en": "Meta AI's desktop expansion signals an increasingly crowded AI assistant market; LG D2C teams should benchmark competing tools to identify the best fit for marketing and operational workflows.",
     "key_points": [
-      "NVIDIA가 AI 코딩 스타트업 Poolside를 120억 달러에 인수",
-      "창업자 10억 달러, 직원 60억 달러 수령 구조의 이례적인 딜",
-      "Infraco의 7기가와트 네오클라우드 확장으로 AI 인프라 경쟁 심화",
-      "NVIDIA의 AI 소프트웨어-하드웨어 수직 통합 전략 가속화"
+      "Meta AI가 맥 데스크톱 앱으로 출시되며 비즈니스 사용자 접근성 강화",
+      "소셜 미디어를 넘어 업무 생산성 영역으로 AI 전략 확장",
+      "ChatGPT, Copilot 등 기존 AI 데스크톱 도구와의 경쟁 심화",
+      "기업 고객 공략을 위한 Meta의 AI 플랫폼 포지셔닝 변화"
     ],
     "tags": [
-      "nvidia",
-      "ai-acquisition",
-      "ai-infrastructure",
-      "neocloud",
-      "ai-coding"
+      "meta-ai",
+      "desktop-app",
+      "ai-assistant",
+      "enterprise-ai",
+      "platform-expansion"
     ],
-    "confidence": 0.65,
+    "confidence": 0.75,
     "strategic_theme": "PLATFORM_ECOSYSTEM",
     "regions": [
       "GLOBAL",
@@ -462,252 +415,175 @@
     "business_impact": "MEDIUM",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "NVIDIA",
-      "Poolside",
-      "Infraco",
-      "Latent Space"
+      "Meta",
+      "Meta AI"
     ],
-    "one_line_insight_ko": "NVIDIA의 Poolside 인수는 AI 소프트웨어-인프라 통합이 가속화되고 있음을 보여주며, AI 공급업체 생태계의 급격한 재편을 예고한다.",
-    "one_line_insight_en": "NVIDIA's $12B acquisition of Poolside signals accelerating vertical integration of AI software and infrastructure, reshaping the vendor landscape that D2C organizations rely on.",
+    "one_line_insight_ko": "Meta AI의 맥 데스크톱 진출은 AI 어시스턴트 경쟁이 소비자에서 기업 업무 환경으로 본격 이동하고 있음을 알리는 신호다.",
+    "one_line_insight_en": "Meta AI's Mac desktop launch signals that the AI assistant battleground is shifting decisively from consumer apps to enterprise productivity environments.",
     "ai_processed": true
   },
   {
-    "title": "SOP-Bench: A new benchmark for evaluating AI agents on real business procedures",
-    "link": "https://www.amazon.science/blog/sop-bench-a-new-benchmark-for-evaluating-ai-agents-on-real-business-procedures",
-    "date_published": "2026-08-21",
-    "description": "Extendable framework enables testing agents on the full set of capabilities required to successfully complete a procedure, not isolated proxy tasks.",
-    "source_id": "amazon_science",
-    "source_name": "Amazon Science",
-    "source_url": "https://www.amazon.science/index.rss",
-    "categories": [
-      "agentic_commerce",
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.78,
-    "relevance_label": "high",
-    "title_en": "Amazon Launches SOP-Bench to Evaluate AI Agents on Real Business Procedures",
-    "summary_ko": "아마존은 AI 에이전트가 실제 비즈니스 표준운영절차(SOP)를 얼마나 잘 수행하는지 평가하는 새로운 벤치마크 'SOP-Bench'를 공개했다. 이 프레임워크는 단편적인 프록시 과제가 아닌, 절차 완수에 필요한 전체 역량을 테스트할 수 있도록 설계되었다. 확장 가능한 구조로 다양한 비즈니스 환경에 적용 가능하다.",
-    "summary_en": "Amazon has introduced SOP-Bench, a new benchmark designed to evaluate AI agents on real-world business standard operating procedures. Unlike traditional benchmarks that test isolated proxy tasks, SOP-Bench assesses the full range of capabilities required to complete an end-to-end procedure. The extendable framework is intended to support testing across diverse enterprise environments.",
-    "so_what_ko": "LG D2C 조직은 SOP-Bench를 참고해 자사 AI 에이전트가 실제 커머스·마케팅 운영 절차를 얼마나 정확히 수행하는지 체계적으로 평가하고, 도입 전 리스크를 사전에 검증하는 기준으로 활용할 수 있다.",
-    "so_what_en": "LG D2C teams can leverage SOP-Bench as a reference framework to systematically evaluate AI agent readiness against real commerce and marketing workflows before full-scale deployment.",
-    "key_points": [
-      "SOP-Bench evaluates AI agents on complete business procedures, not isolated subtasks",
-      "The framework is extendable, enabling testing across varied enterprise use cases",
-      "Developed by Amazon Science, signaling major platform vendors are formalizing agent evaluation standards",
-      "Addresses a critical gap in enterprise AI deployment: reliable procedure-level performance measurement"
-    ],
-    "tags": [
-      "ai-agent",
-      "benchmark",
-      "enterprise-ai",
-      "sop",
-      "agentic-commerce"
-    ],
-    "confidence": 0.75,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Amazon",
-      "SOP-Bench",
-      "Amazon Science"
-    ],
-    "one_line_insight_ko": "아마존의 SOP-Bench는 AI 에이전트의 실무 절차 수행 능력을 검증하는 업계 표준화의 시작점이 될 수 있다.",
-    "one_line_insight_en": "Amazon's SOP-Bench could become an industry reference point for validating AI agents against real enterprise workflows, raising the bar for deployment readiness.",
-    "ai_processed": true
-  },
-  {
-    "title": "Prompt: Agentic AI Is Outpacing Enterprise Readiness",
-    "link": "https://aibusiness.com/agentic-ai/prompt-agentic-ai-outpacing-enterprise-readiness",
-    "date_published": "2026-08-21",
-    "description": "As agent deployments accelerate, many enterprises are still struggling with the processes, data, costs and controls needed to support them at scale.",
+    "title": "Nvidia’s SONIC Teaches Humanoids to Move",
+    "link": "https://aibusiness.com/robotics/nvidia-s-sonic-teaches-humanoids-move",
+    "date_published": "2026-08-20",
+    "description": "Nvidia’s model uses real-time human demonstrations and training data to give operators a one-stop shop for humanoid motion.",
     "source_id": "ai_business",
     "source_name": "AI Business",
     "source_url": "https://aibusiness.com/rss.xml",
     "categories": [
-      "agentic_commerce",
-      "strategy",
       "tech"
-    ],
-    "relevance_score": 0.85,
-    "relevance_label": "high",
-    "title_en": "Agentic AI Deployments Accelerate While Enterprise Readiness Lags Behind",
-    "summary_ko": "에이전트형 AI의 기업 도입 속도가 빠르게 증가하고 있지만, 많은 기업들이 이를 안정적으로 운영하기 위한 프로세스, 데이터 인프라, 비용 관리, 통제 체계를 아직 갖추지 못하고 있다. 에이전트 배포와 기업 준비도 사이의 간극이 커지고 있으며, 이는 실질적인 운영 리스크로 이어질 수 있다. 기업들이 규모 있는 에이전트 운영을 지원하기 위한 내부 역량 구축이 시급한 과제로 부상하고 있다.",
-    "summary_en": "Agentic AI deployments are accelerating rapidly, but many enterprises lack the foundational processes, data infrastructure, cost controls, and governance mechanisms needed to support them at scale. The growing gap between agent deployment pace and enterprise readiness poses significant operational risks. Building internal capabilities to manage and control AI agents is emerging as a critical priority for organizations.",
-    "so_what_ko": "LG D2C는 AI 에이전트 도입 시 기술 구현보다 데이터 거버넌스, 비용 통제, 운영 프로세스 정비를 선행 과제로 설정해 준비도 격차를 최소화해야 한다.",
-    "so_what_en": "LG D2C should prioritize data governance, cost controls, and operational process design before scaling agent deployments to avoid the readiness gaps plaguing many enterprises.",
-    "key_points": [
-      "Enterprise AI agent deployments are outpacing internal readiness across processes, data, and controls",
-      "Key gaps include cost management, governance frameworks, and scalable operational processes",
-      "The readiness gap increases risk of failed or uncontrolled agent deployments",
-      "Organizations must invest in foundational infrastructure alongside agent technology adoption"
-    ],
-    "tags": [
-      "agentic-ai",
-      "enterprise-readiness",
-      "ai-governance",
-      "ai-agent",
-      "risk-management"
-    ],
-    "confidence": 0.78,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "AI Business"
-    ],
-    "one_line_insight_ko": "에이전트 AI 도입 속도가 기업 준비도를 앞지르고 있어, 거버넌스와 운영 역량 구축이 기술 도입보다 더 시급한 과제다.",
-    "one_line_insight_en": "The widening gap between agentic AI deployment speed and enterprise readiness makes governance and operational capability-building more urgent than the technology adoption itself.",
-    "ai_processed": true
-  },
-  {
-    "title": "Debates over AI consciousness are a trap",
-    "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-    "date_published": "2026-08-20",
-    "description": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizations…",
-    "source_id": "mit_tech_review_ai",
-    "source_name": "MIT Technology Review (AI)",
-    "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-    "categories": [
-      "tech",
-      "strategy"
     ],
     "relevance_score": 0.42,
     "relevance_label": "high",
-    "title_en": "AI Consciousness Debates Are a Distraction from Real Policy Challenges, Experts Warn",
-    "summary_ko": "MIT 테크놀로지 리뷰는 AI의 '의식', '자율성', '반란' 등의 수사가 실질적인 AI 정책 논의를 왜곡시키는 함정이 될 수 있다고 경고한다. 데미스 하사비스, 다리오 아모데이, 샘 알트만 등 주요 테크 리더들은 '초인적' AI 시스템 규제를 촉구하는 반면, 정책 단체 일각에서는 다른 시각을 제시하고 있다. AI 에이전트를 의인화하는 담론이 실제 운영 및 규제 논의를 흐릴 수 있다는 우려가 커지고 있다.",
-    "summary_en": "MIT Technology Review argues that debates over AI consciousness, rogue agents, and autonomous actors risk becoming a rhetorical trap that distracts from substantive AI policy discussions. Prominent tech leaders including Demis Hassabis, Dario Amodei, and Sam Altman advocate for regulation of seemingly superhuman AI systems, while separate policy factions offer contrasting views. The anthropomorphization of AI agents in public discourse may obscure more practical governance and operational challenges.",
-    "so_what_ko": "LG D2C는 AI 에이전트 관련 과장된 담론에 휩쓸리지 않고, 실제 운영 역량과 데이터 기반 의사결정 체계 구축에 집중하는 실용적 접근이 필요하다.",
-    "so_what_en": "LG D2C should focus on practical AI operational capabilities and evidence-based governance rather than being distracted by sensationalized narratives around AI autonomy or consciousness.",
+    "title_en": "Nvidia's SONIC Model Enables Real-Time Humanoid Robot Motion via Human Demonstrations",
+    "summary_ko": "엔비디아(Nvidia)는 실시간 인간 동작 시연과 학습 데이터를 결합해 휴머노이드 로봇의 동작을 훈련시키는 'SONIC' 모델을 공개했다. 이 모델은 로봇 운영자가 단일 플랫폼에서 휴머노이드 모션을 통합 제어할 수 있는 환경을 제공한다. 엔비디아의 로보틱스 AI 역량 강화는 물리적 자동화 기술의 상용화를 앞당길 것으로 기대된다.",
+    "summary_en": "Nvidia has unveiled SONIC, an AI model that trains humanoid robots to move using real-time human demonstrations combined with existing training data. The model provides robot operators with a unified platform for humanoid motion control, simplifying the development process. The advancement signals Nvidia's deepening commitment to physical AI and accelerating the commercialization of humanoid robotics.",
+    "so_what_ko": "휴머노이드 로봇 기술의 발전은 장기적으로 LG의 스마트 가전 및 물류·제조 자동화와 연계될 수 있으며, D2C 운영에서 물리적 AI 자동화의 적용 가능성을 선제적으로 검토할 필요가 있다.",
+    "so_what_en": "Nvidia's SONIC advances humanoid robotics toward commercial viability, prompting LG D2C to proactively assess how physical AI automation could enhance smart appliance ecosystems, logistics, and after-sales service operations.",
     "key_points": [
-      "Rhetoric around AI consciousness and 'rogue agents' may distort practical policy and governance discussions",
-      "Key tech leaders (Hassabis, Amodei, Altman) are pushing for regulation of 'superhuman' AI systems",
-      "Anthropomorphizing AI agents risks misallocating attention away from real operational risks",
-      "The debate reflects a broader tension between AI safety advocates and policy pragmatists"
+      "실시간 인간 시연 데이터를 활용해 휴머노이드 로봇 동작 학습 가능",
+      "운영자를 위한 통합 휴머노이드 모션 제어 플랫폼 제공",
+      "엔비디아의 물리적 AI(Physical AI) 로보틱스 분야 역량 강화",
+      "휴머노이드 로봇 상용화 가속화 가능성"
     ],
     "tags": [
-      "ai-policy",
-      "ai-consciousness",
-      "ai-governance",
-      "ai-agent",
-      "regulation"
+      "humanoid-robotics",
+      "nvidia",
+      "physical-ai",
+      "motion-learning",
+      "automation"
     ],
-    "confidence": 0.72,
-    "strategic_theme": "AI_AGENT",
+    "confidence": 0.7,
+    "strategic_theme": "EMERGING_TECH",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "LOW",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "MIT Technology Review",
-      "Demis Hassabis",
-      "Dario Amodei",
-      "Sam Altman"
+      "Nvidia",
+      "SONIC"
     ],
-    "one_line_insight_ko": "AI 의식 논쟁은 기업이 실질적인 AI 운영 리스크와 거버넌스 구축에 집중하는 것을 방해하는 담론적 함정이 될 수 있다.",
-    "one_line_insight_en": "The AI consciousness debate is a rhetorical distraction that may divert enterprise attention from the practical governance and operational risks that actually matter.",
+    "one_line_insight_ko": "Nvidia SONIC은 휴머노이드 로봇의 동작 학습을 대중화하는 기술로, 장기적으로 스마트홈·제조 자동화 생태계에 파급 효과를 미칠 수 있다.",
+    "one_line_insight_en": "Nvidia's SONIC democratizes humanoid motion training, laying groundwork that could eventually reshape smart home and manufacturing automation ecosystems relevant to LG.",
     "ai_processed": true
   },
   {
-    "title": "Unlocking hidden revenue streams with market models",
-    "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-    "date_published": "2026-08-20",
-    "description": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name…",
-    "source_id": "mit_tech_review_ai",
-    "source_name": "MIT Technology Review (AI)",
-    "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+    "title": "Amazon’s Prime Air is taking off in nearly 500 US cities",
+    "link": "https://techcrunch.com/2026/08/19/amazons-prime-air-is-taking-off-in-nearly-500-u-s-cities/",
+    "date_published": "2026-08-19",
+    "description": "Amazon is significantly expanding its Prime Air drone delivery service, with plans to reach nearly 500 U.S. cities by the end of 2026.",
+    "source_id": "techcrunch_commerce",
+    "source_name": "TechCrunch Commerce",
+    "source_url": "https://techcrunch.com/category/commerce/feed",
     "categories": [
-      "commerce",
-      "ai_marketing",
-      "strategy"
+      "ai_commerce",
+      "startup"
     ],
-    "relevance_score": 0.72,
+    "relevance_score": 0,
     "relevance_label": "high",
-    "title_en": "Market Models Help Businesses Unlock Hidden Revenue Through Dynamic AI-Driven Pricing",
-    "summary_ko": "MIT 테크놀로지 리뷰는 항공사 사례를 통해 AI 기반 시장 모델이 수요, 계절, 경쟁사 활동 등 수백 가지 변수를 분석해 숨겨진 수익 기회를 발굴하는 방식을 조명했다. 다수의 환승 연결이 필요한 복잡한 여정에서도 최적의 가격 책정이 가능해져 수익 최적화 효과가 크다. 이러한 AI 기반 시장 모델은 항공 외 다양한 산업의 동적 가격 전략에도 적용 가능하다.",
-    "summary_en": "MIT Technology Review highlights how AI-powered market models enable businesses like airlines to unlock hidden revenue by analyzing hundreds of variables including demand, seasonality, competitor activity, and global market conditions. These models are particularly effective for complex multi-connection journey pricing, where traditional approaches fall short. The approach has broad applicability beyond aviation, offering dynamic pricing and revenue optimization across industries.",
-    "so_what_ko": "LG D2C는 AI 기반 시장 모델을 활용해 제품별·지역별·시즌별 동적 가격 전략을 고도화하고, 숨겨진 수익 기회를 체계적으로 발굴하는 데 적용할 수 있다.",
-    "so_what_en": "LG D2C can apply AI-driven market modeling to develop dynamic pricing strategies across product lines, regions, and seasons, systematically surfacing hidden revenue opportunities.",
-    "key_points": [
-      "AI market models analyze hundreds of variables (demand, season, competitors) to optimize pricing",
-      "Particularly valuable for complex, multi-variable pricing scenarios traditional models cannot handle",
-      "Applicable across industries beyond aviation for revenue stream discovery",
-      "Signals growing role of AI in real-time commercial decision-making"
-    ],
-    "tags": [
-      "dynamic-pricing",
-      "market-models",
-      "revenue-optimization",
-      "ai-commerce",
-      "pricing-strategy"
-    ],
-    "confidence": 0.74,
-    "strategic_theme": "AI_COMMERCE",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "MIT Technology Review"
-    ],
-    "one_line_insight_ko": "AI 시장 모델은 수백 가지 변수를 실시간으로 분석해 기존 방식으로는 포착하기 어려운 숨겨진 수익 기회를 발굴할 수 있다.",
-    "one_line_insight_en": "AI market models can surface hidden revenue streams by dynamically processing hundreds of variables that traditional pricing approaches simply cannot handle.",
-    "ai_processed": true
+    "summary_ko": "",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0,
+    "ai_processed": false,
+    "ai_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeM8ptQFnVcBxPbxzuVHT\"}"
   },
   {
-    "title": "Introducing AI Futures",
-    "link": "https://openai.com/index/introducing-ai-futures",
-    "date_published": "2026-08-20",
-    "description": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+    "title": "Offering Zero Data Retention for frontier models",
+    "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "date_published": "2026-08-19",
+    "description": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
     "source_id": "openai_blog",
     "source_name": "OpenAI Blog",
     "source_url": "https://openai.com/news/rss.xml",
     "categories": [
-      "tech",
-      "strategy"
+      "ai_general"
     ],
-    "relevance_score": 0.45,
+    "relevance_score": 0,
     "relevance_label": "high",
-    "title_en": "OpenAI Launches 'AI Futures' Blog to Explore AI's Impact on Power, Governance, and the Economy",
-    "summary_ko": "OpenAI는 변혁적 AI가 권력, 거버넌스, 경제, 개인의 자유를 어떻게 재편할지 탐구하는 새로운 블로그 'AI Futures'를 공개했다. 이 블로그는 AI의 장기적·사회적 영향에 대한 OpenAI의 공개적 담론 참여를 강화하는 채널로 기능할 것으로 보인다. OpenAI가 기술 개발을 넘어 사회적 의제 설정자로서의 역할을 확장하고 있음을 시사한다.",
-    "summary_en": "OpenAI has launched 'AI Futures,' a new blog dedicated to exploring how transformative AI could reshape power structures, governance, the economy, and individual freedom. The initiative signals OpenAI's intent to expand its public role beyond technology development into shaping broader societal discourse around AI's long-term implications. The blog represents a strategic communications move as AI regulation and policy debates intensify globally.",
-    "so_what_ko": "OpenAI가 AI의 사회적·경제적 영향력 담론을 선점하려는 움직임은 LG D2C가 AI 전략 수립 시 기술 파트너의 장기적 정책 방향성과 의도를 함께 고려해야 함을 시사한다.",
-    "so_what_en": "OpenAI's move to shape AI's societal narrative signals that LG D2C must consider key technology partners' long-term policy positioning when formulating AI strategy and vendor relationships.",
-    "key_points": [
-      "OpenAI launches 'AI Futures' blog focused on AI's impact on power, governance, economy, and freedom",
-      "Signals OpenAI's strategic expansion from tech developer to societal discourse shaper",
-      "Move comes amid intensifying global AI regulation and policy debates",
-      "Reflects broader trend of AI labs seeking to influence the regulatory and public narrative"
+    "summary_ko": "",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0,
+    "ai_processed": false,
+    "ai_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeM8ptQFnVcBxPbxzuVHT\"}"
+  },
+  {
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "link": "https://openai.com/index/replit",
+    "date_published": "2026-08-19",
+    "description": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "categories": [
+      "ai_general"
     ],
-    "tags": [
-      "openai",
-      "ai-policy",
-      "ai-governance",
-      "ai-futures",
-      "regulation"
+    "relevance_score": 0,
+    "relevance_label": "high",
+    "summary_ko": "",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0,
+    "ai_processed": false,
+    "ai_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeM8ptQFnVcBxPbxzuVHT\"}"
+  },
+  {
+    "title": "OpenAI Scales Back AI Development, but it Could be Too Late",
+    "link": "https://aibusiness.com/generative-ai/openai-scales-down-ai-development-could-be-too-late",
+    "date_published": "2026-08-19",
+    "description": "The move is a response to the Hugging Face hacking incident and other cybersecurity concerns about AI models. However, enterprises need to ramp up security protections regardless of the models they use.",
+    "source_id": "ai_business",
+    "source_name": "AI Business",
+    "source_url": "https://aibusiness.com/rss.xml",
+    "categories": [
+      "ai_marketing",
+      "ai_general"
     ],
-    "confidence": 0.7,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "GLOBAL"
+    "relevance_score": 0,
+    "relevance_label": "high",
+    "summary_ko": "",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0,
+    "ai_processed": false,
+    "ai_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeM8ptQFnVcBxPbxzuVHT\"}"
+  },
+  {
+    "title": "Pony.AI Has Plans For 4,000 Robotaxis Outside China",
+    "link": "https://aibusiness.com/generative-ai/pony-ai-plans-4-000-robotaxis-outside-china",
+    "date_published": "2026-08-19",
+    "description": "Self-driving taxi service is advancing around the world.",
+    "source_id": "ai_business",
+    "source_name": "AI Business",
+    "source_url": "https://aibusiness.com/rss.xml",
+    "categories": [
+      "ai_marketing",
+      "ai_general"
     ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "OpenAI",
-      "AI Futures"
-    ],
-    "one_line_insight_ko": "OpenAI의 'AI Futures' 블로그 출범은 AI 규제 담론을 선점하려는 전략적 포지셔닝으로, 기업들의 AI 파트너 선택에도 장기적 영향을 미칠 수 있다.",
-    "one_line_insight_en": "OpenAI's 'AI Futures' blog is a strategic play to shape AI regulatory narratives, a dynamic that enterprise AI adopters like LG D2C must monitor when evaluating long-term technology partnerships.",
-    "ai_processed": true
+    "relevance_score": 0,
+    "relevance_label": "high",
+    "summary_ko": "",
+    "summary_en": "",
+    "so_what_ko": "",
+    "so_what_en": "",
+    "key_points": [],
+    "tags": [],
+    "confidence": 0,
+    "ai_processed": false,
+    "ai_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeM8ptQFnVcBxPbxzuVHT\"}"
   }
 ]
