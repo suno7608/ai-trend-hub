@@ -1,56 +1,59 @@
 [
   {
-    "title": "OpenAI is sharpening its focus on enterprise advertisers",
-    "link": "https://digiday.com/marketing/openai-is-sharpening-its-focus-on-enterprise-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-08-24",
-    "description": "The company is hiring a dedicated marketing role aimed at positioning OpenAI as a 'premium advertising platform for the world’s marketers'.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
+    "title": "AI Marketing Strategies: From experimentation to execution with Samsung, Bayer, David’s Bridal and Dolce&Gabbana Beauty",
+    "link": "https://www.modernretail.co/announcement/ai-marketing-strategies-from-experimentation-to-execution-with-samsung-bayer-davids-bridal-and-dolcegabbana-beauty/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-08-25",
+    "description": "On Sept. 24 in New York City, Digiday, Glossy and Modern Retail will host the second iteration of AI Marketing Strategies, bringing together brand leaders, agency executives, analysts and technology providers to explore what’s actually working as AI reshapes modern marketing.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
     "categories": [
       "ai_marketing",
       "marketing"
     ],
-    "relevance_score": 0.85,
+    "relevance_score": 0.65,
     "relevance_label": "high",
-    "title_en": "OpenAI Targets Enterprise Advertisers with Dedicated Marketing Hire for Premium Ad Platform",
-    "summary_ko": "OpenAI가 기업 광고주를 대상으로 한 전담 마케팅 역할을 채용하며 '세계 마케터를 위한 프리미엄 광고 플랫폼'으로 포지셔닝을 강화하고 있다. 이는 OpenAI가 AI 기술 제공을 넘어 광고 시장에 본격 진입하려는 전략적 전환을 시사한다. 엔터프라이즈 광고주를 핵심 타깃으로 삼아 기존 디지털 광고 플랫폼과의 경쟁 구도가 형성될 전망이다.",
-    "summary_en": "OpenAI is hiring a dedicated marketing role focused on positioning itself as a 'premium advertising platform for the world's marketers,' signaling a strategic push into the enterprise advertising space. This move suggests OpenAI is expanding beyond AI technology provision toward becoming a direct competitor in the digital advertising ecosystem. The focus on enterprise advertisers indicates a high-value, B2B-first approach to building its advertising business.",
-    "so_what_ko": "OpenAI가 프리미엄 광고 플랫폼으로 부상할 경우 LG D2C는 AI 기반 광고 채널 다변화 전략을 선제적으로 검토하고, 엔터프라이즈 광고주 대상 베타 프로그램 참여 기회를 모색해야 한다.",
-    "so_what_en": "LG D2C should proactively evaluate OpenAI's emerging ad platform as a potential premium channel and explore early-adopter opportunities to gain competitive advantage in AI-driven advertising.",
+    "title_en": "AI Marketing Strategies Summit: Samsung, Bayer, David's Bridal and Dolce&Gabbana Beauty Share What's Working",
+    "summary_ko": "2026년 9월 24일 뉴욕에서 Digiday, Glossy, Modern Retail이 공동 주최하는 'AI Marketing Strategies' 컨퍼런스가 열린다. 삼성, Bayer, David's Bridal, Dolce&Gabbana Beauty 등 주요 브랜드 리더들이 참여해 AI가 마케팅을 재편하는 현장을 공유할 예정이다. 이 행사는 AI 마케팅의 실험 단계를 넘어 실제 실행 단계에서 효과적인 전략을 탐색하는 자리다.",
+    "summary_en": "Digiday, Glossy, and Modern Retail will co-host the second AI Marketing Strategies conference on September 24, 2026, in New York City. The event will bring together brand leaders from Samsung, Bayer, David's Bridal, and Dolce&Gabbana Beauty, along with agency executives, analysts, and technology providers. The focus is on what is actually working as AI reshapes modern marketing, moving beyond experimentation to execution.",
+    "so_what_ko": "삼성 등 선도 브랜드의 AI 마케팅 실행 사례를 직접 벤치마킹할 수 있는 기회로, LG D2C 조직은 이 행사를 통해 경쟁사 전략과 업계 표준을 파악하고 자사 AI 마케팅 로드맵 수립에 활용해야 한다.",
+    "so_what_en": "LG D2C teams should monitor insights from this event to benchmark AI marketing execution strategies from peers like Samsung and luxury brands, informing their own AI marketing roadmap.",
     "key_points": [
-      "OpenAI는 전담 엔터프라이즈 마케팅 역할 채용을 통해 광고 시장 진입을 본격화",
-      "'세계 마케터를 위한 프리미엄 광고 플랫폼' 포지셔닝 전략 채택",
-      "기존 디지털 광고 플랫폼(Google, Meta 등)과의 직접 경쟁 구도 형성 가능성",
-      "엔터프라이즈 광고주 중심의 고가치 B2B 접근 방식 시사"
+      "삼성, Bayer, David's Bridal, Dolce&Gabbana Beauty 등 다양한 산업의 브랜드 리더 참여",
+      "AI 마케팅의 '실험'에서 '실행'으로의 전환이 핵심 주제",
+      "Digiday, Glossy, Modern Retail 3개 미디어사 공동 주최로 업계 영향력 높음"
     ],
     "tags": [
-      "openai",
-      "enterprise-advertising",
       "ai-marketing",
-      "adtech",
-      "premium-platform"
+      "brand-strategy",
+      "marketing-conference",
+      "samsung",
+      "execution"
     ],
-    "confidence": 0.65,
+    "confidence": 0.6,
     "strategic_theme": "AI_MARKETING",
     "regions": [
+      "AMER",
       "GLOBAL"
     ],
-    "business_impact": "HIGH",
+    "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "OpenAI",
-      "ChatGPT"
+      "Samsung",
+      "Bayer",
+      "David's Bridal",
+      "Dolce&Gabbana Beauty",
+      "Digiday"
     ],
-    "one_line_insight_ko": "OpenAI의 광고 플랫폼화는 D2C 브랜드에게 AI 네이티브 광고 채널이라는 새로운 기회를 열고 있다.",
-    "one_line_insight_en": "OpenAI's pivot to a premium ad platform signals a new AI-native advertising channel that D2C brands should monitor closely.",
+    "one_line_insight_ko": "AI 마케팅이 실험 단계를 지나 실행 단계로 진입하면서, 선도 브랜드들의 구체적인 성공 사례 공유가 업계 표준을 빠르게 형성하고 있다.",
+    "one_line_insight_en": "As AI marketing moves from experimentation to execution, leading brands sharing real-world successes are rapidly defining industry standards.",
     "ai_processed": true
   },
   {
-    "title": "The new AI playbook: The rules brands are setting around customer-facing content",
-    "link": "https://digiday.com/marketing/the-new-ai-playbook-the-rules-brands-are-setting-around-customer-facing-content/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-08-24",
-    "description": "For some brands, AI platforms and services are proving to be game-changing for their ability to speed up creative processes, and save money.",
+    "title": "Ad Tech Briefing: AI advertising’s measurement problem is really a governance problem",
+    "link": "https://digiday.com/media-buying/ad-tech-briefing-ai-advertisings-measurement-problem-is-really-a-governance-problem/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-08-25",
+    "description": "As OpenAI accelerates its ad ambitions, efforts to establish common measurement standards  become more urgent.",
     "source_id": "digiday",
     "source_name": "Digiday",
     "source_url": "https://digiday.com/feed",
@@ -61,118 +64,203 @@
     ],
     "relevance_score": 0.82,
     "relevance_label": "high",
-    "title_en": "Brands Establish New AI Playbook Rules for Customer-Facing Content Creation",
-    "summary_ko": "일부 브랜드들이 AI 플랫폼을 활용해 크리에이티브 프로세스를 가속화하고 비용을 절감하는 방식으로 고객 대상 콘텐츠 제작의 게임 체인저로 활용하고 있다. 브랜드들은 AI 활용 범위와 한계를 정의하는 자체적인 AI 플레이북을 수립하며 거버넌스 체계를 구축하고 있다. 속도와 비용 효율성이 입증되면서 AI 기반 콘텐츠 제작은 마케팅 운영의 핵심 전략으로 자리잡고 있다.",
-    "summary_en": "Brands are leveraging AI platforms and services to dramatically speed up creative processes and reduce costs for customer-facing content. Companies are setting internal rules and frameworks—effectively new AI playbooks—to govern how AI is used in content creation. The proven benefits of speed and cost savings are making AI-driven content production a mainstream marketing strategy.",
-    "so_what_ko": "LG D2C는 고객 대면 콘텐츠에 대한 명확한 AI 활용 가이드라인과 거버넌스 체계를 선제적으로 수립하여 품질 일관성을 유지하면서 운영 효율성을 극대화해야 한다.",
-    "so_what_en": "LG D2C should establish clear internal AI governance and content guidelines now to balance creative quality with the operational efficiency gains AI content tools offer.",
+    "title_en": "AI Advertising's Measurement Crisis Is Fundamentally a Governance Problem, Not a Technology Problem",
+    "summary_ko": "OpenAI가 광고 사업을 가속화하면서 AI 광고의 효과 측정을 위한 공통 표준 마련이 시급해지고 있다. AI 광고의 측정 문제는 단순한 기술적 과제가 아니라 거버넌스의 문제라는 시각이 제기된다. 업계 전반에서 AI 광고 성과를 일관되게 평가할 수 있는 공통 프레임워크 수립이 핵심 과제로 부상하고 있다.",
+    "summary_en": "As OpenAI accelerates its advertising ambitions, the need to establish common measurement standards for AI advertising has become increasingly urgent. Industry experts argue that the core challenge is not a technological limitation but a governance problem requiring coordinated standards. Without unified frameworks, advertisers risk operating with inconsistent and unreliable performance metrics.",
+    "so_what_ko": "LG D2C 조직은 AI 광고 집행 시 성과 측정 기준의 불일치 리스크를 인지하고, 내부 광고 거버넌스 체계와 측정 표준을 선제적으로 정립해 투자 효율성을 확보해야 한다.",
+    "so_what_en": "LG D2C teams must proactively establish internal AI advertising governance frameworks and measurement standards to ensure consistent ROI evaluation as the industry lacks unified benchmarks.",
     "key_points": [
-      "브랜드들이 고객 대면 콘텐츠에 AI 활용 규칙과 플레이북을 자체 수립 중",
-      "AI 도입으로 크리에이티브 프로세스 속도 향상 및 비용 절감 효과 입증",
-      "AI 콘텐츠 거버넌스가 마케팅 조직 운영의 핵심 과제로 부상",
-      "브랜드별 차별화된 AI 활용 전략이 경쟁력의 새로운 요소로 작용"
+      "OpenAI의 광고 시장 진입 가속화로 AI 광고 측정 표준 수립의 시급성 증가",
+      "AI 광고의 측정 문제는 기술이 아닌 거버넌스 문제로 재정의됨",
+      "공통 측정 프레임워크 부재 시 광고 효율 평가의 신뢰성 저하 위험"
     ],
     "tags": [
-      "ai-content",
-      "brand-governance",
-      "creative-automation",
-      "ai-marketing",
-      "content-strategy"
+      "ai-advertising",
+      "measurement",
+      "governance",
+      "adtech",
+      "openai"
     ],
-    "confidence": 0.65,
+    "confidence": 0.7,
     "strategic_theme": "AI_MARKETING",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [],
-    "one_line_insight_ko": "AI 콘텐츠 거버넌스 플레이북 수립이 브랜드 마케팅 경쟁력의 새로운 차별화 요소가 되고 있다.",
-    "one_line_insight_en": "Establishing a clear AI content playbook is becoming a core differentiator for brands competing in the AI-accelerated marketing landscape.",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "OpenAI"
+    ],
+    "one_line_insight_ko": "AI 광고의 진짜 위기는 측정 기술의 부재가 아닌 업계 공통 거버넌스 표준의 부재로, 이는 광고주의 예산 효율성 판단을 근본적으로 흔들고 있다.",
+    "one_line_insight_en": "The real crisis in AI advertising is not a technology gap but a governance vacuum, fundamentally undermining advertisers' ability to assess campaign effectiveness.",
     "ai_processed": true
   },
   {
-    "title": "The IAB is developing a framework to tackle AI advertising measurement",
-    "link": "https://digiday.com/media/the-iab-is-developing-a-framework-to-tackle-ai-advertising-measurement/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-08-24",
-    "description": "The IAB is developing a framework to solve a big challenge in advertising: how to measure and assign credit when ads influence AI agents.",
+    "title": "In Graphic Detail: How AI search has impacted the web traffic of over 50 advertisers",
+    "link": "https://digiday.com/marketing/in-graphic-detail-how-ai-search-has-impacted-the-web-traffic-of-over-50-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-08-25",
+    "description": "Data spanning one agency’s entire client roster shows the true impact of AI search on web traffic and conversions.",
     "source_id": "digiday",
     "source_name": "Digiday",
     "source_url": "https://digiday.com/feed",
     "categories": [
       "ai_marketing",
-      "agentic_commerce",
-      "commerce"
+      "commerce",
+      "strategy"
     ],
-    "relevance_score": 0.95,
+    "relevance_score": 0.88,
     "relevance_label": "high",
-    "title_en": "IAB Develops Industry Framework to Measure Ad Attribution in AI Agent Interactions",
-    "summary_ko": "IAB(인터랙티브 광고 협회)가 AI 에이전트가 광고에 영향을 받는 경우 어떻게 측정하고 기여도를 부여할 것인지 해결하기 위한 표준 프레임워크를 개발 중이다. 이는 AI 에이전트가 소비자 구매 결정에 개입하는 에이전틱 커머스 환경에서 광고 측정의 근본적인 패러다임 전환이 필요함을 의미한다. 업계 표준 프레임워크의 부재가 AI 광고 투자 효율 측정의 핵심 장애물로 작용하고 있다.",
-    "summary_en": "The IAB is developing an industry-wide framework to address a critical challenge: how to measure and attribute ad credit when advertisements influence AI agents rather than directly influencing human consumers. This initiative reflects the fundamental disruption that agentic commerce poses to traditional digital advertising measurement models. The absence of standardized measurement is currently a major barrier to confident AI advertising investment.",
-    "so_what_ko": "LG D2C는 IAB 프레임워크 개발 과정에 주목하고, AI 에이전트 시대의 광고 기여도 측정 방식 변화에 대비한 데이터 인프라와 어트리뷰션 전략을 선제적으로 재설계해야 한다.",
-    "so_what_en": "LG D2C must anticipate the shift in ad attribution methodology driven by AI agents and begin redesigning its measurement infrastructure ahead of IAB framework adoption.",
+    "title_en": "Data Shows AI Search Has Measurably Impacted Web Traffic and Conversions Across 50+ Advertisers",
+    "summary_ko": "한 광고 에이전시의 전체 클라이언트 데이터를 분석한 결과, AI 검색이 50개 이상의 광고주 웹 트래픽과 전환율에 실질적인 영향을 미친 것으로 나타났다. 이 데이터는 AI 검색의 확산이 브랜드 사이트로의 유입 패턴을 변화시키고 있음을 그래프로 상세히 보여준다. AI 검색 환경에서의 가시성 확보가 브랜드 디지털 마케팅의 새로운 핵심 과제로 부상하고 있다.",
+    "summary_en": "Data from one agency's entire client roster reveals the measurable impact of AI search on web traffic and conversion rates across more than 50 advertisers. The analysis, presented in graphic detail, illustrates how the rise of AI-powered search is reshaping how users discover and navigate to brand websites. Maintaining brand visibility within AI search environments is emerging as a critical new challenge for digital marketers.",
+    "so_what_ko": "LG D2C는 AI 검색 환경에서의 브랜드 노출과 트래픽 유입 전략을 재검토하고, 기존 SEO 중심 접근법을 AI 검색 최적화(AIO) 방향으로 전환하는 로드맵을 수립해야 한다.",
+    "so_what_en": "LG D2C must reassess its digital traffic acquisition strategy to account for AI search disruption, pivoting from traditional SEO toward AI search optimization (AIO) to protect conversion flows.",
     "key_points": [
-      "IAB가 AI 에이전트 광고 영향력 측정을 위한 업계 표준 프레임워크 개발 착수",
-      "AI 에이전트 개입 시 기존 광고 어트리뷰션 모델의 근본적 한계 노출",
-      "에이전틱 커머스 환경에서 광고 ROI 측정 패러다임의 전환 불가피",
-      "업계 표준 부재가 AI 광고 채널 투자 의사결정의 주요 장애물로 작용"
+      "50개 이상 광고주 데이터 기반의 AI 검색 영향력 정량 분석 제시",
+      "AI 검색 확산이 웹 트래픽 유입 경로와 전환율에 직접적 영향",
+      "AI 검색 가시성 확보가 디지털 마케팅의 신규 핵심 KPI로 부상"
     ],
     "tags": [
-      "iab",
-      "ad-measurement",
-      "ai-agents",
-      "attribution",
-      "agentic-commerce"
+      "ai-search",
+      "web-traffic",
+      "conversion",
+      "seo",
+      "digital-marketing"
     ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_AGENT",
+    "confidence": 0.75,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
     "regions": [
-      "GLOBAL",
-      "AMER"
+      "GLOBAL"
     ],
     "business_impact": "HIGH",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "IAB"
-    ],
-    "one_line_insight_ko": "AI 에이전트 시대의 도래로 광고 어트리뷰션 체계가 근본적으로 재편되며, 업계 표준 선점이 마케팅 경쟁력을 좌우할 것이다.",
-    "one_line_insight_en": "The rise of agentic commerce is forcing a fundamental rethink of ad attribution, making early alignment with emerging IAB standards a strategic priority.",
+    "sentiment": "THREAT",
+    "key_entities": [],
+    "one_line_insight_ko": "AI 검색의 부상이 50개 이상 브랜드의 웹 트래픽과 전환율을 실질적으로 변화시키며, 디지털 마케팅의 트래픽 획득 패러다임 전환이 불가피해졌다.",
+    "one_line_insight_en": "AI search is measurably reshaping web traffic and conversions across 50+ brands, making a paradigm shift in digital traffic acquisition strategies unavoidable.",
     "ai_processed": true
   },
   {
-    "title": "Hershey is using AI to strategize for s’mores season",
-    "link": "https://www.modernretail.co/marketing/hershey-starts-using-ai-to-strategize-for-smores-season/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-08-24",
-    "description": "The Hershey Company has started using new AI tools to maximize sales performance of s'mores ingredients in stores — including its own chocolates, as well as marshmallows and graham crackers.",
+    "title": "Topgolf hasn’t done much retail media, licensing. Its new CEO wants to change that",
+    "link": "https://www.modernretail.co/marketing/topgolf-hasnt-done-much-retail-media-licensing-its-new-ceo-wants-to-change-that/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-08-25",
+    "description": "The new CEO of Topgolf believes the brand has significant opportunities to grow revenue both within its entertainment venues and at outside retailers.",
     "source_id": "modern_retail",
     "source_name": "Modern Retail",
     "source_url": "https://www.modernretail.co/feed/",
     "categories": [
-      "ai_commerce",
       "commerce",
+      "strategy",
       "marketing"
     ],
-    "relevance_score": 0.78,
+    "relevance_score": 0.45,
     "relevance_label": "high",
-    "title_en": "Hershey Deploys AI Tools to Optimize In-Store Sales Strategy for S'mores Season",
-    "summary_ko": "허쉬(Hershey Company)가 AI 도구를 활용해 스모어(s'mores) 시즌 매장 내 판매 성과를 극대화하는 전략 수립에 나섰다. 이 AI 도구는 허쉬 초콜릿뿐 아니라 마시멜로, 그레이엄 크래커 등 연관 제품군의 판매 전략 최적화에도 활용되고 있다. 계절적 마케팅 전략에 AI를 접목함으로써 재고 관리, 진열 최적화, 판촉 전략 등에서 데이터 기반 의사결정이 강화될 것으로 기대된다.",
-    "summary_en": "The Hershey Company has begun using new AI tools to maximize in-store sales performance for s'mores season, covering not only its own chocolates but also complementary products like marshmallows and graham crackers. This represents a concrete application of AI in retail strategy, moving beyond marketing into category-level sales optimization. The move demonstrates how AI can enhance seasonal demand planning and cross-category retail execution.",
-    "so_what_ko": "LG D2C는 허쉬의 사례를 벤치마킹하여 계절성과 연관 제품군을 고려한 AI 기반 판매 전략 최적화 도구 도입을 검토하고, 자사 제품 카테고리에 맞는 AI 활용 시나리오를 개발해야 한다.",
-    "so_what_en": "LG D2C should benchmark Hershey's AI-driven seasonal strategy and explore how similar AI tools could optimize category-level sales planning and in-store execution for LG's product lines.",
+    "title_en": "Topgolf's New CEO Targets Retail Media and Licensing as Untapped Revenue Frontiers",
+    "summary_ko": "Topgolf의 신임 CEO는 그동안 거의 활용하지 않았던 리테일 미디어와 라이선싱 사업을 새로운 수익원으로 적극 개발하겠다는 의지를 밝혔다. 엔터테인먼트 시설 내부뿐 아니라 외부 리테일러와의 협력을 통해 브랜드 수익화 기회를 확대할 계획이다. 이는 Topgolf가 순수 엔터테인먼트 기업에서 미디어 및 커머스 수익을 갖춘 복합 브랜드로 전환하려는 전략적 방향성을 보여준다.",
+    "summary_en": "Topgolf's new CEO has expressed a clear intention to aggressively develop retail media and licensing as significant new revenue streams. The strategy involves expanding monetization opportunities both within Topgolf's entertainment venues and through partnerships with external retailers. This signals a strategic shift for Topgolf from a pure entertainment company toward a multi-revenue brand combining media and commerce.",
+    "so_what_ko": "리테일 미디어 네트워크와 라이선싱이 엔터테인먼트 브랜드에서도 핵심 수익원으로 부상하는 트렌드는, LG가 자사 브랜드 자산과 플랫폼을 활용한 미디어 수익화 가능성을 검토하는 데 시사점을 제공한다.",
+    "so_what_en": "The trend of entertainment brands building retail media and licensing revenue streams suggests LG should evaluate its own brand equity and platform assets as potential media monetization opportunities.",
     "key_points": [
-      "허쉬가 계절 판매 전략 수립에 AI 도구를 실제 비즈니스에 적용한 구체적 사례",
-      "자사 제품을 넘어 연관 카테고리 전반의 판매 최적화에 AI 활용",
-      "AI 기반 계절 수요 예측 및 매장 내 실행 전략 강화 가능성 시사",
-      "리테일 AI 적용이 마케팅을 넘어 카테고리 관리 영역으로 확장되는 추세 반영"
+      "Topgolf 신임 CEO의 리테일 미디어 및 라이선싱 사업 본격화 선언",
+      "엔터테인먼트 시설 내외부를 아우르는 복합 수익화 전략 추진",
+      "순수 엔터테인먼트에서 미디어·커머스 복합 브랜드로의 전략적 전환"
     ],
     "tags": [
-      "hershey",
-      "retail-ai",
-      "seasonal-strategy",
-      "in-store-optimization",
-      "category-management"
+      "retail-media",
+      "licensing",
+      "brand-monetization",
+      "entertainment",
+      "d2c"
     ],
-    "confidence": 0.72,
+    "confidence": 0.7,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Topgolf"
+    ],
+    "one_line_insight_ko": "엔터테인먼트 브랜드도 리테일 미디어와 라이선싱을 핵심 수익원으로 전환하며, 브랜드 자산의 미디어화가 새로운 성장 공식으로 자리잡고 있다.",
+    "one_line_insight_en": "Entertainment brands are pivoting to retail media and licensing as core revenue drivers, establishing brand asset monetization as a new growth formula.",
+    "ai_processed": true
+  },
+  {
+    "title": "Brands face death by a ‘thousand cuts’ as supply chain pressures and material costs eat into profit margins",
+    "link": "https://www.modernretail.co/operations/brands-face-death-by-a-thousand-cuts-as-supply-chain-pressures-and-material-costs-eat-into-profit-margins/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-08-25",
+    "description": "One of the common themes of Modern Retail's recent Leaders Dinner was just how much retail today is a battle of inches. Margins are being eroded little by little by third-party fees, tariffs, increased operations costs and a thousand other small things.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.42,
+    "relevance_label": "high",
+    "title_en": "Brands Face Profit Margin Erosion from Compounding Supply Chain Pressures and Rising Material Costs",
+    "summary_ko": "리테일 업계는 서드파티 수수료, 관세, 운영 비용 증가 등 복합적인 요인으로 인해 수익 마진이 점진적으로 잠식되는 '천 번의 상처'에 직면해 있다. Modern Retail의 Leaders Dinner에서 참가자들은 오늘날의 리테일이 인치 단위의 싸움이 됐다고 공통적으로 언급했다. 원가 압박과 공급망 불안정이 동시에 작용하며 브랜드의 수익성 방어가 점점 어려워지고 있다.",
+    "summary_en": "Retail brands are facing a slow but compounding erosion of profit margins driven by third-party fees, tariffs, increased operational costs, and numerous other small pressures. Participants at Modern Retail's Leaders Dinner collectively noted that retail today has become a battle of inches, with margins shrinking incrementally. The simultaneous pressure from rising material costs and supply chain instability is making profitability defense increasingly difficult for brands.",
+    "so_what_ko": "LG D2C 조직은 마진 잠식 요인을 체계적으로 추적하고, AI 기반 공급망 최적화 및 운영 자동화를 통해 비용 효율화 레버를 선제적으로 확보해야 한다.",
+    "so_what_en": "LG D2C must systematically track margin erosion factors and proactively leverage AI-driven supply chain optimization and operational automation to defend profitability.",
+    "key_points": [
+      "서드파티 수수료, 관세, 운영 비용 등 복합적 요인의 누적으로 마진 잠식 심화",
+      "업계 리더들이 공통적으로 '인치 단위 싸움'으로 현 리테일 환경을 규정",
+      "공급망 압박과 원자재 비용 상승이 동시 작용하며 수익성 방어 난도 증가"
+    ],
+    "tags": [
+      "supply-chain",
+      "profit-margins",
+      "retail-operations",
+      "tariffs",
+      "cost-pressure"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "regions": [
+      "GLOBAL",
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "Modern Retail"
+    ],
+    "one_line_insight_ko": "복합적 비용 압박으로 리테일 마진이 인치 단위로 잠식되는 환경에서, 운영 효율화와 비용 구조 혁신이 브랜드 생존의 핵심 전략이 됐다.",
+    "one_line_insight_en": "With retail margins being eroded inch by inch from compounding cost pressures, operational efficiency and cost structure innovation have become essential survival strategies for brands.",
+    "ai_processed": true
+  },
+  {
+    "title": "Walmart expands 30-minutes-or-less delivery as speed woos shoppers",
+    "link": "https://www.retaildive.com/news/walmart-expands-30-minutes-or-less-delivery/828570/",
+    "date_published": "2026-08-24",
+    "description": "Despite added charges for faster fulfillment, customers are flocking to the retailer's roster of quick delivery options, executives said.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "commerce"
+    ],
+    "relevance_score": 0.55,
+    "relevance_label": "high",
+    "title_en": "Walmart Expands 30-Minute-or-Less Delivery as Speed Wins Over Shoppers",
+    "summary_ko": "월마트가 30분 이내 배송 서비스를 확대하며 빠른 배송에 대한 소비자 수요를 공략하고 있다. 빠른 이행에 추가 요금이 부과됨에도 불구하고 고객들이 해당 옵션으로 몰리고 있다고 임원들이 밝혔다. 이는 초고속 배송이 D2C 경쟁에서 핵심 차별화 요소로 부상하고 있음을 보여준다.",
+    "summary_en": "Walmart is expanding its 30-minutes-or-less delivery service to capture growing consumer demand for ultra-fast fulfillment. Despite additional charges for faster delivery options, customers are increasingly choosing these services, according to company executives. This signals that speed of delivery is becoming a critical differentiator in retail competition.",
+    "so_what_ko": "초고속 배송은 추가 비용을 감수하더라도 소비자가 선택하는 핵심 가치로 자리잡고 있어, LG D2C도 빠른 배송 인프라 및 라스트마일 전략 강화를 검토해야 한다.",
+    "so_what_en": "Ultra-fast delivery is emerging as a value consumers willingly pay a premium for, signaling that LG D2C should evaluate investments in last-mile logistics and rapid fulfillment capabilities.",
+    "key_points": [
+      "월마트가 30분 이내 배송 옵션을 확대 중",
+      "추가 요금 부과에도 불구하고 소비자 수요 증가",
+      "빠른 배송이 소매업 경쟁의 핵심 차별화 요소로 부상"
+    ],
+    "tags": [
+      "quick-commerce",
+      "last-mile-delivery",
+      "retail-fulfillment",
+      "walmart"
+    ],
+    "confidence": 0.7,
     "strategic_theme": "RETAIL_TRANSFORMATION",
     "regions": [
       "AMER"
@@ -180,410 +268,427 @@
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Hershey"
+      "Walmart"
     ],
-    "one_line_insight_ko": "허쉬의 AI 기반 시즌 전략은 AI가 마케팅 기획에서 카테고리 단위 판매 실행까지 확장되고 있음을 보여주는 실증 사례다.",
-    "one_line_insight_en": "Hershey's AI-powered seasonal strategy illustrates how AI is expanding from marketing planning into real-time retail execution and category optimization.",
+    "one_line_insight_ko": "소비자는 초고속 배송에 프리미엄을 지불할 의향이 있어, 배송 속도가 D2C 경쟁력의 새로운 기준이 되고 있다.",
+    "one_line_insight_en": "Consumers' willingness to pay a premium for sub-30-minute delivery signals that fulfillment speed is becoming the new baseline for D2C competitiveness.",
     "ai_processed": true
   },
   {
-    "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-    "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-    "date_published": "2026-08-23",
-    "description": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "title": "Gap Inc. taps Walmart alum in ‘fashiontainment’ push",
+    "link": "https://www.retaildive.com/news/gap-inc-entertainment-executive-hire-walmart-alum/828598/",
+    "date_published": "2026-08-24",
+    "description": "Justin Breton is joining the retailer as vice president of development and will report to entertainment chief Pam Kaufman.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
     "categories": [
-      "tech"
+      "marketing",
+      "commerce"
     ],
-    "relevance_score": 0.25,
+    "relevance_score": 0.45,
     "relevance_label": "high",
-    "title_en": "Mystery AI Model 'Ox Alpha' Sparks Speculation About Origins and Capabilities",
-    "summary_ko": "Ox Alpha라는 정체불명의 새로운 AI 모델이 온라인 커뮤니티에서 큰 화제를 모으며 개발 주체와 성능에 대한 활발한 추측을 불러일으키고 있다. 이 모델은 '스텔스 모델'로 불리며, 개발사나 배경에 대한 공식 정보가 공개되지 않은 상태다. 신비로운 등장 방식이 AI 업계에서 관심을 끌고 있으나 비즈니스적 연관성은 현재로서 불명확하다.",
-    "summary_en": "A mysterious new AI model called Ox Alpha has generated significant online speculation regarding its origins, developers, and capabilities, being dubbed a 'stealth model.' No official information about the model's creators or intended use cases has been publicly disclosed at this time. While the model has captured internet attention, its business relevance and technical specifications remain unconfirmed.",
-    "so_what_ko": "현재 공개된 정보가 제한적이어서 LG D2C 관점에서 즉각적인 전략적 시사점을 도출하기 어려우나, 신생 AI 모델의 등장 동향을 모니터링하는 차원에서 추가 정보 공개를 지속적으로 주시할 필요가 있다.",
-    "so_what_en": "Given the lack of verified information, LG D2C does not need immediate action, but should monitor further disclosures about Ox Alpha as part of ongoing AI landscape surveillance.",
+    "title_en": "Gap Inc. Hires Walmart Alum to Lead 'Fashiontainment' Entertainment Push",
+    "summary_ko": "갭(Gap Inc.)이 월마트 출신 저스틴 브레턴(Justin Breton)을 부사장으로 영입하며 '패션테인먼트(fashiontainment)' 전략을 본격화하고 있다. 브레턴은 엔터테인먼트 최고책임자 팸 코프먼에게 보고하는 개발 부문 부사장직을 맡게 된다. 이는 패션 브랜드들이 엔터테인먼트와의 융합을 통해 소비자 참여를 높이려는 트렌드를 반영한다.",
+    "summary_en": "Gap Inc. is hiring Justin Breton, a Walmart alumnus, as vice president of development to advance its 'fashiontainment' strategy. Breton will report to entertainment chief Pam Kaufman as the brand blends fashion and entertainment experiences. This move reflects a broader retail trend of merging content and commerce to deepen consumer engagement.",
+    "so_what_ko": "패션과 엔터테인먼트를 결합한 '패션테인먼트' 전략은 브랜드 충성도와 소비자 몰입도를 높이는 수단으로 부상하고 있어, LG D2C도 제품 경험을 콘텐츠화하는 전략을 고려할 필요가 있다.",
+    "so_what_en": "The 'fashiontainment' approach highlights the growing importance of content-commerce fusion for brand loyalty, suggesting LG D2C should explore how to turn product experiences into compelling entertainment content.",
     "key_points": [
-      "Ox Alpha라는 정체불명의 AI 모델이 온라인에서 화제를 모으고 있음",
-      "개발사 및 기술적 사양에 대한 공식 정보 미공개 상태",
-      "현재 시점에서 비즈니스적 연관성 및 적용 가능성 불명확"
+      "갭이 월마트 출신 임원을 영입해 패션테인먼트 전략 강화",
+      "엔터테인먼트와 패션의 융합이 소비자 참여 확대 전략으로 부상",
+      "콘텐츠와 커머스의 경계가 허물어지는 리테일 트렌드 반영"
     ],
     "tags": [
-      "ox-alpha",
-      "stealth-ai",
-      "emerging-model",
-      "ai-startup",
-      "speculation"
+      "fashiontainment",
+      "content-commerce",
+      "brand-strategy",
+      "entertainment-retail"
     ],
-    "confidence": 0.5,
-    "strategic_theme": "EMERGING_TECH",
+    "confidence": 0.65,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
     "regions": [
-      "GLOBAL"
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Gap Inc.",
+      "Justin Breton",
+      "Pam Kaufman",
+      "Walmart"
+    ],
+    "one_line_insight_ko": "패션과 엔터테인먼트의 융합은 브랜드 경험을 콘텐츠로 전환해 소비자 충성도를 높이는 새로운 D2C 전략으로 주목받고 있다.",
+    "one_line_insight_en": "The 'fashiontainment' trend illustrates how brands are transforming product experiences into content to build deeper consumer loyalty in D2C environments.",
+    "ai_processed": true
+  },
+  {
+    "title": "Walmart communications chief to depart after 3 years",
+    "link": "https://www.retaildive.com/news/walmart-communications-chief-allyson-park-departure-after-3-years/828576/",
+    "date_published": "2026-08-24",
+    "description": "Allyson Park’s tenure was marked by intense change at the retail giant, including the departure of longtime CEO Doug McMillon.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "strategy"
+    ],
+    "relevance_score": 0.2,
+    "relevance_label": "high",
+    "title_en": "Walmart Communications Chief Allyson Park to Depart After Three-Year Tenure",
+    "summary_ko": "월마트의 커뮤니케이션 최고책임자 앨리슨 파크(Allyson Park)가 3년간의 재임 후 회사를 떠날 예정이다. 그녀의 재임 기간은 오랜 CEO 더그 맥밀런의 퇴임을 포함한 월마트의 대규모 변화로 점철되었다. 이번 인사 변화는 월마트 내 지속적인 조직 재편을 보여준다.",
+    "summary_en": "Walmart's chief communications officer Allyson Park is set to depart the company after a three-year tenure. Her time at the retail giant was marked by significant organizational change, including the departure of longtime CEO Doug McMillon. The move signals continued leadership transitions at one of the world's largest retailers.",
+    "so_what_ko": "대형 리테일러의 커뮤니케이션 리더십 변화는 LG D2C의 직접적인 전략적 시사점은 낮으나, 월마트의 조직 재편 방향을 모니터링할 필요가 있다.",
+    "so_what_en": "While this leadership change has limited direct strategic relevance for LG D2C, monitoring Walmart's organizational evolution can provide insights into how large retailers are restructuring for future challenges.",
+    "key_points": [
+      "월마트 커뮤니케이션 최고책임자 앨리슨 파크가 3년 만에 퇴임",
+      "재임 기간 중 CEO 교체 등 대규모 조직 변화 경험",
+      "월마트 내 지속적인 리더십 재편 흐름 반영"
+    ],
+    "tags": [
+      "walmart",
+      "leadership-change",
+      "corporate-communications",
+      "retail-executive"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "regions": [
+      "AMER"
     ],
     "business_impact": "LOW",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "Ox Alpha",
-      "TechCrunch"
+      "Walmart",
+      "Allyson Park",
+      "Doug McMillon"
     ],
-    "one_line_insight_ko": "Ox Alpha는 현재 검증된 정보가 부족하여 LG D2C에 즉각적인 전략적 시사점을 제공하지 않는 관망 대상이다.",
-    "one_line_insight_en": "Ox Alpha remains a watch-and-wait topic for LG D2C until verified information about its origins and capabilities becomes available.",
+    "one_line_insight_ko": "월마트의 잇따른 리더십 교체는 대형 리테일러의 조직 재편 가속화를 시사하며, 경쟁 환경 변화를 주시해야 한다.",
+    "one_line_insight_en": "Walmart's ongoing leadership transitions signal accelerating organizational restructuring among major retailers, warranting close competitive monitoring.",
     "ai_processed": true
   },
   {
-    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-    "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-    "date_published": "2026-08-23",
-    "description": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "title": "Fragrance drives beauty sales as consumers seek ‘emotional and functional value’",
+    "link": "https://www.retaildive.com/news/fragrance-beauty-sales-growth-first-half-2026/828479/",
+    "date_published": "2026-08-24",
+    "description": "Prestige and mass beauty retail sales were up in the U.S. in the first half of the year, underscoring the resilience of the category, according to Circana.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "commerce",
+      "marketing"
+    ],
+    "relevance_score": 0.35,
+    "relevance_label": "high",
+    "title_en": "Fragrance Drives Beauty Sales Growth as Consumers Seek Emotional and Functional Value",
+    "summary_ko": "2026년 상반기 미국 프리스티지 및 매스 뷰티 리테일 매출이 증가하며 카테고리의 견고한 성장세를 보였다고 시장조사업체 서컨나(Circana)가 발표했다. 특히 향수(fragrance)가 뷰티 매출 성장을 견인하며 소비자들이 감성적·기능적 가치를 추구하고 있음이 드러났다. 이는 경제적 불확실성 속에서도 뷰티 카테고리가 소비자 지출 우선순위에서 높은 위치를 유지하고 있음을 보여준다.",
+    "summary_en": "U.S. prestige and mass beauty retail sales grew in the first half of 2026, underscoring the category's resilience, according to market research firm Circana. Fragrance emerged as the primary driver of beauty sales growth, reflecting consumers' demand for both emotional and functional value in their purchases. The trend highlights that the beauty category continues to command strong consumer spending even amid broader economic uncertainty.",
+    "so_what_ko": "감성적·기능적 가치를 동시에 충족하는 제품 카테고리가 소비자 지출을 견인하고 있어, LG D2C도 제품의 감성 가치 소구 전략을 마케팅에 접목할 수 있다.",
+    "so_what_en": "Categories delivering both emotional and functional value are capturing disproportionate consumer spending, suggesting LG D2C marketing should more explicitly communicate the sensory and lifestyle dimensions of its products.",
+    "key_points": [
+      "2026년 상반기 미국 뷰티 리테일 매출 성장세 확인 (Circana 데이터)",
+      "향수가 뷰티 카테고리 성장을 주도",
+      "소비자들이 감성적·기능적 가치를 동시에 추구하는 경향 강화"
+    ],
+    "tags": [
+      "beauty-retail",
+      "consumer-trends",
+      "fragrance",
+      "emotional-value"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Circana"
+    ],
+    "one_line_insight_ko": "감성과 기능을 동시에 충족하는 제품이 소비자 지갑을 열게 하므로, D2C 마케팅도 제품의 경험적 가치를 전면에 내세워야 한다.",
+    "one_line_insight_en": "Products that deliver both emotional resonance and functional utility are proving most resilient to spending pullbacks, offering a template for how D2C brands should position their value proposition.",
+    "ai_processed": true
+  },
+  {
+    "title": "Ann Taylor eyes comeback with Substack, fall fashion blitz",
+    "link": "https://www.retaildive.com/news/ann-taylor-stages-a-brand-comeback-with-substack-fall-fashion-blitz/828475/",
+    "date_published": "2026-08-24",
+    "description": "The brand’s first major integrated campaign in nearly a decade follows initiatives focused on fan community, such as an editorial newsletter.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "marketing",
+      "commerce"
+    ],
+    "relevance_score": 0.5,
+    "relevance_label": "high",
+    "title_en": "Ann Taylor Stages Brand Comeback with Substack Newsletter and Fall Fashion Campaign",
+    "summary_ko": "앤 테일러(Ann Taylor)가 거의 10년 만에 처음으로 대규모 통합 브랜드 캠페인을 전개하며 브랜드 부활을 꾀하고 있다. 이번 캠페인은 서브스택(Substack) 에디토리얼 뉴스레터 등 팬 커뮤니티 구축 이니셔티브를 바탕으로 한 가을 패션 공세로 구성된다. 전통적인 광고 채널 대신 커뮤니티 중심의 디지털 플랫폼을 활용해 브랜드 재건을 시도한다는 점이 주목된다.",
+    "summary_en": "Ann Taylor is staging a brand comeback with its first major integrated campaign in nearly a decade, built around a fall fashion blitz. The campaign follows community-building initiatives including an editorial newsletter on Substack, reflecting a shift toward fan-first engagement strategies. The brand's approach highlights how legacy retailers are turning to community platforms and direct storytelling to rebuild relevance with consumers.",
+    "so_what_ko": "서브스택과 같은 커뮤니티 플랫폼을 활용한 에디토리얼 뉴스레터 전략은 브랜드 충성도를 높이는 저비용 고효율 D2C 마케팅 채널로 부상하고 있어, LG D2C도 팬 커뮤니티 기반의 콘텐츠 마케팅 강화를 검토할 만하다.",
+    "so_what_en": "Ann Taylor's use of Substack for community-driven editorial content demonstrates that owned media and fan-first storytelling can be cost-effective pathways to brand revival, a model LG D2C should consider for building direct consumer relationships.",
+    "key_points": [
+      "앤 테일러가 약 10년 만에 첫 대규모 통합 브랜드 캠페인 전개",
+      "서브스택 에디토리얼 뉴스레터 등 팬 커뮤니티 구축 전략 기반",
+      "레거시 브랜드의 디지털 커뮤니티 플랫폼을 통한 브랜드 재건 사례"
+    ],
+    "tags": [
+      "brand-revival",
+      "substack",
+      "community-marketing",
+      "owned-media",
+      "d2c-marketing"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Ann Taylor",
+      "Substack"
+    ],
+    "one_line_insight_ko": "서브스택 기반 에디토리얼 커뮤니티 전략은 레거시 브랜드도 D2C 방식으로 소비자와 직접 연결할 수 있음을 증명한다.",
+    "one_line_insight_en": "Ann Taylor's Substack-led community strategy proves that even legacy brands can rebuild direct consumer relationships through owned editorial channels, bypassing traditional advertising.",
+    "ai_processed": true
+  },
+  {
+    "title": "Filter AI Mode Prompts in Search Console",
+    "link": "https://www.practicalecommerce.com/filter-ai-mode-prompts-in-search-console",
+    "date_published": "2026-08-24",
+    "description": "Google's John Mueller confirms that Search Console lists AI Mode prompts as queries. \nThe post Filter AI Mode Prompts in Search Console appeared first on Practical Ecommerce.",
+    "source_id": "practical_ecommerce",
+    "source_name": "Practical Ecommerce",
+    "source_url": "https://www.practicalecommerce.com/feed",
     "categories": [
       "commerce",
       "ai_marketing"
     ],
-    "relevance_score": 0.55,
-    "relevance_label": "high",
-    "title_en": "Linkdaze's Smart Calendar Aims to Manage the Entire Household Without a Paywall",
-    "summary_ko": "링크데이즈(Linkdaze)는 AI 식사 플래너 등 스마트 홈 관리 기능을 탑재한 디지털 캘린더를 출시했다. 경쟁 서비스와 달리 핵심 AI 기능을 유료 구독 없이 무료로 제공하는 것이 특징이다. 단순 일정 관리를 넘어 가정 전반을 운영하는 AI 도구로 포지셔닝하고 있다.",
-    "summary_en": "Linkdaze has launched a smart digital calendar designed to manage household tasks beyond simple schedule tracking. The product differentiates itself by offering AI-powered features, including a meal planner, without placing them behind a paywall. It positions itself as a comprehensive household management AI tool rather than a conventional calendar app.",
-    "so_what_ko": "가정용 AI 도구의 무료 접근성 전략은 D2C 고객 획득 비용을 낮추는 유효한 모델로, LG D2C도 스마트홈 기기 연동 AI 서비스의 진입 장벽을 낮추는 방향을 검토할 수 있다.",
-    "so_what_en": "The freemium-free approach for household AI tools is a compelling D2C acquisition strategy; LG should consider lowering barriers to AI-powered smart home service features to drive device engagement and ecosystem stickiness.",
-    "key_points": [
-      "AI 식사 플래너 등 핵심 기능을 페이월 없이 무료 제공",
-      "단순 일정 추적을 넘어 가정 운영 전반을 지원하는 AI 캘린더로 포지셔닝",
-      "스마트홈 관리 영역에서 AI 도구 경쟁이 심화되고 있음"
-    ],
-    "tags": [
-      "smart-home",
-      "ai-assistant",
-      "household-management",
-      "freemium",
-      "d2c"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "GLOBAL",
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Linkdaze"
-    ],
-    "one_line_insight_ko": "가정 운영 AI 도구의 무료 제공 전략은 스마트홈 생태계 확장을 노리는 D2C 기업에게 유효한 고객 확보 모델을 제시한다.",
-    "one_line_insight_en": "Linkdaze's no-paywall AI household management strategy offers a compelling low-friction customer acquisition model for smart home ecosystem players like LG.",
-    "ai_processed": true
-  },
-  {
-    "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-    "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-    "date_published": "2026-08-23",
-    "description": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "categories": [
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.5,
-    "relevance_label": "high",
-    "title_en": "Training AI on Copyrighted Books: Legally Murky and Far From Resolved",
-    "summary_ko": "대부분의 출판 작가들은 자신도 모르는 사이에 AI 학습 데이터로 저작물이 활용되었으며, 이는 법적으로 논쟁 중인 사안이다. AI 기업들은 공정 이용(fair use) 원칙을 근거로 합법성을 주장하지만, 법원의 판단은 아직 확립되지 않았다. 저작권 문제는 AI 산업 전반의 지속 가능성과 규제 리스크에 직결되는 핵심 쟁점으로 부상하고 있다.",
-    "summary_en": "Most published authors have unknowingly had their works used to train AI models, raising significant legal and ethical questions. AI companies largely rely on the fair use doctrine to justify this practice, but court rulings on the matter remain unsettled. Copyright litigation is emerging as a defining regulatory risk for the AI industry at large.",
-    "so_what_ko": "AI 기반 마케팅 콘텐츠 생성 및 학습 데이터 활용 시 저작권 리스크를 사전에 점검하고, LG D2C는 법적 분쟁 노출을 최소화할 수 있는 라이선스 확보 또는 자체 데이터 전략을 강화해야 한다.",
-    "so_what_en": "LG D2C teams using AI for content generation must proactively audit copyright exposure in training data and content workflows, prioritizing licensed data sources to mitigate growing legal risk.",
-    "key_points": [
-      "대다수 작가들의 저작물이 무단으로 AI 학습에 사용된 것으로 알려짐",
-      "AI 기업들의 공정 이용 주장에 대한 법원 판결이 아직 확립되지 않음",
-      "AI 학습 데이터 저작권 문제는 업계 전반의 규제 리스크로 확대 중",
-      "콘텐츠 생성 AI를 활용하는 기업들도 간접적 법적 위험에 노출될 수 있음"
-    ],
-    "tags": [
-      "copyright",
-      "ai-regulation",
-      "fair-use",
-      "legal-risk",
-      "generative-ai"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "DATA_STRATEGY",
-    "regions": [
-      "GLOBAL",
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "THREAT",
-    "key_entities": [],
-    "one_line_insight_ko": "AI 학습 데이터 저작권 분쟁이 확산됨에 따라, AI 콘텐츠 도구를 활용하는 D2C 기업도 법적 리스크 관리 체계를 조속히 갖춰야 한다.",
-    "one_line_insight_en": "As AI copyright litigation intensifies, D2C brands leveraging generative AI for content must urgently establish legal safeguards around training data and content provenance.",
-    "ai_processed": true
-  },
-  {
-    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-    "link": "https://openai.com/index/stampli",
-    "date_published": "2026-08-20",
-    "description": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
-    "source_id": "openai_blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
-    "categories": [
-      "tech",
-      "strategy",
-      "ai_marketing"
-    ],
     "relevance_score": 0.72,
     "relevance_label": "high",
-    "title_en": "Stampli Cuts Product Launch Hours by 68% Using ChatGPT and Codex",
-    "summary_ko": "B2B 결제 자동화 기업 Stampli는 ChatGPT Work와 Codex를 활용해 제품 출시에 필요한 제작 시간을 68% 단축했다. 디자인 리소스가 다른 프로젝트에 투입된 상황에서 AI 도구를 통해 수 주간의 작업을 며칠로 압축하는 데 성공했다. 이 사례는 고정 마감 기한이 있는 프로젝트에서 생성형 AI가 실질적인 운영 효율을 창출할 수 있음을 입증한다.",
-    "summary_en": "B2B accounts payable platform Stampli used OpenAI's ChatGPT Work and Codex to reduce product launch production hours by 68%. With design resources committed to other projects and a fixed deadline, the team compressed weeks of work into just a few days. The case demonstrates that generative AI can deliver measurable operational efficiency for time-constrained product launches.",
-    "so_what_ko": "LG D2C의 제품 출시 및 캠페인 제작 워크플로우에 ChatGPT Work·Codex 같은 AI 코딩·콘텐츠 도구를 도입하면 리소스 제약 상황에서도 출시 속도를 대폭 개선할 수 있다.",
-    "so_what_en": "LG D2C product and campaign teams should pilot ChatGPT Work and Codex-style AI tools to compress launch timelines and reduce dependency on scarce design and engineering resources.",
+    "title_en": "Google Search Console Now Lists AI Mode Prompts as Filterable Queries",
+    "summary_ko": "구글의 존 뮬러가 Search Console에서 AI 모드 프롬프트가 일반 검색어와 동일하게 쿼리로 표시된다고 공식 확인했다. 이는 마케터와 이커머스 운영자가 AI 모드를 통해 유입되는 검색 패턴을 분석할 수 있음을 의미한다. AI 기반 검색이 확대됨에 따라 Search Console 데이터 활용 전략의 중요성이 높아지고 있다.",
+    "summary_en": "Google's John Mueller has confirmed that AI Mode prompts appear as queries within Search Console, making them filterable and analyzable. This development allows ecommerce operators and marketers to identify and study AI-driven search behavior separately. As AI-powered search expands, understanding these query patterns becomes increasingly critical for SEO and content strategy.",
+    "so_what_ko": "LG D2C는 Search Console에서 AI 모드 쿼리를 필터링하여 소비자가 AI 검색을 통해 어떤 질문으로 제품을 탐색하는지 파악하고, 이를 콘텐츠 및 SEO 전략에 반영해야 한다.",
+    "so_what_en": "LG D2C teams should actively filter and analyze AI Mode queries in Search Console to understand how consumers discover products via AI search, then optimize content and SEO strategies accordingly.",
     "key_points": [
-      "ChatGPT Work와 Codex 활용으로 출시 제작 시간 68% 감소",
-      "디자인 리소스 부재 상황에서 수 주 분량의 작업을 수 일로 단축",
-      "고정 마감 기한 환경에서 생성형 AI의 실질적 운영 가치 입증",
-      "OpenAI의 B2B 업무 생산성 도구로서의 포지셔닝 강화"
+      "Google의 존 뮬러가 Search Console에서 AI 모드 프롬프트가 쿼리로 표시됨을 공식 확인",
+      "마케터는 AI 모드 유입 쿼리를 일반 검색어와 구분하여 분석 가능",
+      "AI 검색 확대에 따른 Search Console 데이터 기반 SEO 전략 재정비 필요"
     ],
     "tags": [
-      "generative-ai",
-      "productivity",
-      "chatgpt",
-      "product-launch",
-      "workflow-automation"
+      "ai-search",
+      "search-console",
+      "seo",
+      "google-ai-mode",
+      "ecommerce"
     ],
-    "confidence": 0.82,
+    "confidence": 0.65,
     "strategic_theme": "AI_COMMERCE",
     "regions": [
-      "GLOBAL",
-      "AMER"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Stampli",
-      "OpenAI",
-      "ChatGPT",
-      "Codex"
-    ],
-    "one_line_insight_ko": "Stampli의 68% 출시 시간 단축 사례는 생성형 AI가 D2C 제품 출시 속도와 리소스 효율을 동시에 혁신할 수 있음을 실증한다.",
-    "one_line_insight_en": "Stampli's 68% reduction in launch hours proves that generative AI tools can simultaneously accelerate D2C product releases and alleviate resource constraints.",
-    "ai_processed": true
-  },
-  {
-    "title": "Meta AI Now Available as a Desktop App for Mac",
-    "link": "https://aibusiness.com/generative-ai/meta-ai-now-available-as-desktop-app-mac",
-    "date_published": "2026-08-20",
-    "description": "The release is part of the company’s strengthened emphasis on AI and appealing to businesses.",
-    "source_id": "ai_business",
-    "source_name": "AI Business",
-    "source_url": "https://aibusiness.com/rss.xml",
-    "categories": [
-      "tech",
-      "ai_marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.65,
-    "relevance_label": "high",
-    "title_en": "Meta AI Launches Desktop App for Mac, Targeting Business Users",
-    "summary_ko": "메타(Meta)는 자사 AI 어시스턴트를 맥(Mac) 데스크톱 앱으로 출시하며 비즈니스 사용자 공략을 강화했다. 이번 출시는 메타가 AI 역량을 소셜 미디어 플랫폼을 넘어 업무 생산성 영역으로 확장하는 전략의 일환이다. 경쟁이 치열한 AI 어시스턴트 시장에서 메타는 기업 고객을 겨냥한 접근성 확대에 주력하고 있다.",
-    "summary_en": "Meta has launched a desktop application for Mac, bringing its AI assistant to a new platform with a focus on appealing to business users. The release reflects Meta's broader strategy to expand its AI capabilities beyond social media into workplace productivity. The move positions Meta more directly in competition with other AI desktop tools targeting enterprise and professional users.",
-    "so_what_ko": "Meta AI의 데스크톱 앱 출시는 AI 어시스턴트 경쟁이 업무 환경으로 확장되고 있음을 의미하며, LG D2C 마케팅·운영팀은 다양한 AI 도구 생태계를 비교 평가해 업무 효율화 기회를 모색해야 한다.",
-    "so_what_en": "Meta AI's desktop expansion signals an increasingly crowded AI assistant market; LG D2C teams should benchmark competing tools to identify the best fit for marketing and operational workflows.",
-    "key_points": [
-      "Meta AI가 맥 데스크톱 앱으로 출시되며 비즈니스 사용자 접근성 강화",
-      "소셜 미디어를 넘어 업무 생산성 영역으로 AI 전략 확장",
-      "ChatGPT, Copilot 등 기존 AI 데스크톱 도구와의 경쟁 심화",
-      "기업 고객 공략을 위한 Meta의 AI 플랫폼 포지셔닝 변화"
-    ],
-    "tags": [
-      "meta-ai",
-      "desktop-app",
-      "ai-assistant",
-      "enterprise-ai",
-      "platform-expansion"
-    ],
-    "confidence": 0.75,
-    "strategic_theme": "PLATFORM_ECOSYSTEM",
-    "regions": [
-      "GLOBAL",
-      "AMER"
+      "GLOBAL"
     ],
     "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
+    "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Meta",
-      "Meta AI"
+      "Google",
+      "Search Console",
+      "John Mueller",
+      "AI Mode"
     ],
-    "one_line_insight_ko": "Meta AI의 맥 데스크톱 진출은 AI 어시스턴트 경쟁이 소비자에서 기업 업무 환경으로 본격 이동하고 있음을 알리는 신호다.",
-    "one_line_insight_en": "Meta AI's Mac desktop launch signals that the AI assistant battleground is shifting decisively from consumer apps to enterprise productivity environments.",
+    "one_line_insight_ko": "AI 검색 시대에 Search Console의 AI 모드 쿼리 분석은 D2C 기업의 새로운 SEO 경쟁력 원천이 된다.",
+    "one_line_insight_en": "Filtering AI Mode prompts in Search Console gives D2C brands a new edge in understanding and optimizing for AI-driven consumer search behavior.",
     "ai_processed": true
   },
   {
-    "title": "Nvidia’s SONIC Teaches Humanoids to Move",
-    "link": "https://aibusiness.com/robotics/nvidia-s-sonic-teaches-humanoids-move",
-    "date_published": "2026-08-20",
-    "description": "Nvidia’s model uses real-time human demonstrations and training data to give operators a one-stop shop for humanoid motion.",
-    "source_id": "ai_business",
-    "source_name": "AI Business",
-    "source_url": "https://aibusiness.com/rss.xml",
+    "title": "Deere grows sales, revenue in Q3, benefiting from tariff refunds",
+    "link": "https://www.digitalcommerce360.com/2026/08/24/deere-sales-revenue-q3-fy26/",
+    "date_published": "2026-08-24",
+    "description": "Deere & Company grew net sales and revenue during its fiscal Q3 2026 despite inflationary pressures. Christopher Seibert, director of investor relations, characterized the inflationary environment as dynamic. “You think about oil prices, how they move and what that means,” Seibert said. “And also from a tariff perspective, suppliers experiencing tariffs too, they pass that on […]\nThe post Deere grows sales, revenue in Q3, benefiting from tariff refunds appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
     "categories": [
-      "tech"
+      "commerce",
+      "strategy"
     ],
-    "relevance_score": 0.42,
+    "relevance_score": 0.2,
     "relevance_label": "high",
-    "title_en": "Nvidia's SONIC Model Enables Real-Time Humanoid Robot Motion via Human Demonstrations",
-    "summary_ko": "엔비디아(Nvidia)는 실시간 인간 동작 시연과 학습 데이터를 결합해 휴머노이드 로봇의 동작을 훈련시키는 'SONIC' 모델을 공개했다. 이 모델은 로봇 운영자가 단일 플랫폼에서 휴머노이드 모션을 통합 제어할 수 있는 환경을 제공한다. 엔비디아의 로보틱스 AI 역량 강화는 물리적 자동화 기술의 상용화를 앞당길 것으로 기대된다.",
-    "summary_en": "Nvidia has unveiled SONIC, an AI model that trains humanoid robots to move using real-time human demonstrations combined with existing training data. The model provides robot operators with a unified platform for humanoid motion control, simplifying the development process. The advancement signals Nvidia's deepening commitment to physical AI and accelerating the commercialization of humanoid robotics.",
-    "so_what_ko": "휴머노이드 로봇 기술의 발전은 장기적으로 LG의 스마트 가전 및 물류·제조 자동화와 연계될 수 있으며, D2C 운영에서 물리적 AI 자동화의 적용 가능성을 선제적으로 검토할 필요가 있다.",
-    "so_what_en": "Nvidia's SONIC advances humanoid robotics toward commercial viability, prompting LG D2C to proactively assess how physical AI automation could enhance smart appliance ecosystems, logistics, and after-sales service operations.",
+    "title_en": "Deere & Company Posts Q3 FY2026 Sales Growth, Aided by Tariff Refunds Amid Inflationary Pressures",
+    "summary_ko": "디어 앤 컴퍼니(John Deere)는 인플레이션 압박에도 불구하고 2026 회계연도 3분기에 순매출 및 매출이 성장했다. 투자자 관계 담당 이사 크리스토퍼 자이버트는 유가 변동과 공급업체 관세 전가 등 복합적인 인플레이션 환경을 언급했다. 관세 환급이 실적 개선의 주요 요인 중 하나로 작용한 것으로 분석된다.",
+    "summary_en": "Deere & Company reported growth in net sales and revenue for its fiscal Q3 2026 despite a dynamic inflationary environment. Director of investor relations Christopher Seibert highlighted challenges including oil price volatility and tariff costs being passed on by suppliers. Tariff refunds were cited as a meaningful contributor to the quarter's improved financial performance.",
+    "so_what_ko": "이 기사는 AI 커머스나 D2C 마케팅과의 직접적 연관성이 낮으나, 관세 및 인플레이션 환경이 공급망 비용에 미치는 영향은 LG D2C의 글로벌 가격 전략 수립 시 참고할 수 있다.",
+    "so_what_en": "While not directly AI-related, Deere's experience with tariff refunds and inflationary cost pressures offers a macro reference point for LG D2C's global pricing and supply chain strategy.",
     "key_points": [
-      "실시간 인간 시연 데이터를 활용해 휴머노이드 로봇 동작 학습 가능",
-      "운영자를 위한 통합 휴머노이드 모션 제어 플랫폼 제공",
-      "엔비디아의 물리적 AI(Physical AI) 로보틱스 분야 역량 강화",
-      "휴머노이드 로봇 상용화 가속화 가능성"
+      "디어 앤 컴퍼니, 인플레이션에도 FY2026 Q3 순매출·매출 성장 달성",
+      "유가 변동 및 공급업체 관세 전가가 주요 비용 압박 요인으로 작용",
+      "관세 환급이 분기 실적 개선에 기여한 핵심 요인으로 확인됨"
     ],
     "tags": [
-      "humanoid-robotics",
-      "nvidia",
-      "physical-ai",
-      "motion-learning",
-      "automation"
+      "tariffs",
+      "supply-chain",
+      "revenue-growth",
+      "inflation",
+      "b2b-commerce"
     ],
-    "confidence": 0.7,
-    "strategic_theme": "EMERGING_TECH",
+    "confidence": 0.6,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
     "regions": [
-      "GLOBAL"
+      "GLOBAL",
+      "AMER"
     ],
     "business_impact": "LOW",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "Nvidia",
-      "SONIC"
+      "Deere & Company",
+      "Christopher Seibert"
     ],
-    "one_line_insight_ko": "Nvidia SONIC은 휴머노이드 로봇의 동작 학습을 대중화하는 기술로, 장기적으로 스마트홈·제조 자동화 생태계에 파급 효과를 미칠 수 있다.",
-    "one_line_insight_en": "Nvidia's SONIC democratizes humanoid motion training, laying groundwork that could eventually reshape smart home and manufacturing automation ecosystems relevant to LG.",
+    "one_line_insight_ko": "관세 환급과 같은 외부 정책 변수가 글로벌 제조·유통 기업의 실적에 직접적 영향을 미치고 있어 D2C 가격 전략 수립 시 거시 환경 모니터링이 필수적이다.",
+    "one_line_insight_en": "Tariff refunds and macroeconomic volatility are increasingly material to revenue outcomes, underscoring the need for D2C organizations to embed macro monitoring into pricing strategy.",
     "ai_processed": true
   },
   {
-    "title": "Amazon’s Prime Air is taking off in nearly 500 US cities",
-    "link": "https://techcrunch.com/2026/08/19/amazons-prime-air-is-taking-off-in-nearly-500-u-s-cities/",
-    "date_published": "2026-08-19",
-    "description": "Amazon is significantly expanding its Prime Air drone delivery service, with plans to reach nearly 500 U.S. cities by the end of 2026.",
-    "source_id": "techcrunch_commerce",
-    "source_name": "TechCrunch Commerce",
-    "source_url": "https://techcrunch.com/category/commerce/feed",
+    "title": "Wendy’s hires ex-McDonald’s CMO as chief marketing, customer growth officer",
+    "link": "https://www.marketingdive.com/news/wendys-hires-ex-mcdonalds-cmo-as-chief-marketing-customer-growth-officer/828580/",
+    "date_published": "2026-08-24",
+    "description": "Tariq Hassan will succeed Lindsay Radkoski, U.S. CMO since 2023, as the chain continues to execute a turnaround plan.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
     "categories": [
-      "ai_commerce",
-      "startup"
+      "marketing",
+      "strategy"
     ],
-    "relevance_score": 0,
+    "relevance_score": 0.3,
     "relevance_label": "high",
-    "summary_ko": "",
-    "summary_en": "",
-    "so_what_ko": "",
-    "so_what_en": "",
-    "key_points": [],
-    "tags": [],
-    "confidence": 0,
-    "ai_processed": false,
-    "ai_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeM8ptQFnVcBxPbxzuVHT\"}"
+    "title_en": "Wendy's Appoints Ex-McDonald's CMO Tariq Hassan as Chief Marketing and Customer Growth Officer",
+    "summary_ko": "웬디스(Wendy's)가 맥도날드 전 CMO 출신인 타리크 하산을 최고 마케팅 및 고객 성장 책임자로 영입했다. 하산은 2023년부터 미국 CMO를 역임한 린지 래드코스키의 뒤를 잇게 된다. 이번 인사는 웬디스가 추진 중인 브랜드 턴어라운드 전략의 일환으로 해석된다.",
+    "summary_en": "Wendy's has hired Tariq Hassan, a former McDonald's CMO, as its new Chief Marketing and Customer Growth Officer. Hassan will succeed Lindsay Radkoski, who has served as U.S. CMO since 2023. The appointment is part of Wendy's ongoing turnaround strategy aimed at revitalizing brand performance and customer engagement.",
+    "so_what_ko": "경쟁사 고위 마케팅 인재를 영입하여 고객 성장을 가속화하는 전략은 LG D2C가 마케팅 리더십 구성 및 고객 중심 성장 전략을 검토할 때 벤치마킹할 수 있는 사례다.",
+    "so_what_en": "Wendy's cross-brand CMO recruitment signals how aggressive talent moves can accelerate customer growth strategies—a playbook LG D2C can consider when building marketing leadership for D2C expansion.",
+    "key_points": [
+      "웬디스, 맥도날드 전 CMO 타리크 하산을 최고 마케팅·고객 성장 책임자로 영입",
+      "린지 래드코스키 미국 CMO 후임 인사로 브랜드 리더십 교체",
+      "브랜드 턴어라운드 계획의 일환으로 고객 성장 중심의 마케팅 전략 강화 예고"
+    ],
+    "tags": [
+      "cmo-hire",
+      "brand-turnaround",
+      "customer-growth",
+      "qsr-marketing",
+      "leadership"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Wendy's",
+      "Tariq Hassan",
+      "McDonald's",
+      "Lindsay Radkoski"
+    ],
+    "one_line_insight_ko": "경쟁사 출신 CMO 영입을 통한 고객 성장 가속화 전략은 브랜드 혁신과 D2C 고객 확보 전략에서 참고할 수 있는 리더십 모델이다.",
+    "one_line_insight_en": "Poaching a rival brand's CMO to drive customer growth reflects a bold leadership strategy that D2C organizations can study when prioritizing marketing transformation.",
+    "ai_processed": true
   },
   {
-    "title": "Offering Zero Data Retention for frontier models",
-    "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-    "date_published": "2026-08-19",
-    "description": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-    "source_id": "openai_blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
+    "title": "How Fanta’s new Haunted Universe helps turn Halloween into a platform",
+    "link": "https://www.marketingdive.com/news/how-fantas-haunted-universe-helps-turn-halloween-into-a-platform/828481/",
+    "date_published": "2026-08-24",
+    "description": "The Coca-Cola brand’s 2025 Halloween campaign delivered 10 billion impressions with significant engagement and impact on sales.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
     "categories": [
-      "ai_general"
+      "marketing",
+      "strategy"
     ],
-    "relevance_score": 0,
+    "relevance_score": 0.45,
     "relevance_label": "high",
-    "summary_ko": "",
-    "summary_en": "",
-    "so_what_ko": "",
-    "so_what_en": "",
-    "key_points": [],
-    "tags": [],
-    "confidence": 0,
-    "ai_processed": false,
-    "ai_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeM8ptQFnVcBxPbxzuVHT\"}"
+    "title_en": "Fanta's 'Haunted Universe' Halloween Platform Generated 10 Billion Impressions and Drove Sales Impact",
+    "summary_ko": "코카콜라 브랜드 판타(Fanta)는 2025년 핼러윈 캠페인 '오싹한 세계(Haunted Universe)'를 통해 100억 임프레션을 달성하며 판매에도 유의미한 영향을 미쳤다. 이 캠페인은 핼러윈을 단발성 이벤트가 아닌 지속적인 브랜드 플랫폼으로 전환하는 전략을 구사했다. 시즌 마케팅을 플랫폼화하는 접근법이 브랜드 참여도와 매출 전환에 효과적임을 입증했다.",
+    "summary_en": "Fanta's 2025 Halloween campaign, 'Haunted Universe,' achieved 10 billion impressions and delivered a significant impact on sales for the Coca-Cola brand. The campaign was designed to transform Halloween from a one-off seasonal moment into an ongoing brand platform. This platform-based approach to seasonal marketing proved effective in driving both brand engagement and sales conversion.",
+    "so_what_ko": "LG D2C는 판타의 사례를 참고해 주요 시즌(블랙프라이데이, 추석 등)을 단발 프로모션이 아닌 반복 가능한 브랜드 경험 플랫폼으로 설계함으로써 고객 참여도와 매출을 동시에 높일 수 있다.",
+    "so_what_en": "LG D2C should consider transforming key seasonal moments (e.g., Black Friday, major holidays) into repeatable brand experience platforms rather than one-off campaigns, as Fanta demonstrated with measurable sales impact.",
+    "key_points": [
+      "판타 '오싹한 세계' 캠페인, 2025년 핼러윈 시즌 100억 임프레션 달성",
+      "핼러윈을 단순 시즌 이벤트가 아닌 지속적 브랜드 플랫폼으로 전환하는 전략 구사",
+      "시즌 마케팅의 플랫폼화가 참여도와 매출 전환 모두에서 유의미한 성과 창출"
+    ],
+    "tags": [
+      "seasonal-marketing",
+      "brand-platform",
+      "campaign-strategy",
+      "consumer-engagement",
+      "coca-cola"
+    ],
+    "confidence": 0.65,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Fanta",
+      "Coca-Cola",
+      "Haunted Universe"
+    ],
+    "one_line_insight_ko": "시즌 마케팅을 반복 가능한 브랜드 플랫폼으로 설계하면 단발 캠페인 대비 압도적인 임프레션과 매출 효과를 창출할 수 있다.",
+    "one_line_insight_en": "Transforming seasonal campaigns into repeatable brand platforms—as Fanta did with Haunted Universe—dramatically amplifies both reach and sales impact compared to one-off promotions.",
+    "ai_processed": true
   },
   {
-    "title": "Replit expands access to software creation with GPT-5.6 Luna",
-    "link": "https://openai.com/index/replit",
-    "date_published": "2026-08-19",
-    "description": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
-    "source_id": "openai_blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
+    "title": "Why smarter DOOH campaigns start with the audience",
+    "link": "https://www.marketingdive.com/spons/why-smarter-dooh-campaigns-start-with-the-audience/828064/",
+    "date_published": "2026-08-24",
+    "description": "High-traffic screens are only part of the story. Audience data shows which screens matter most.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
     "categories": [
-      "ai_general"
+      "marketing",
+      "strategy"
     ],
-    "relevance_score": 0,
+    "relevance_score": 0.4,
     "relevance_label": "high",
-    "summary_ko": "",
-    "summary_en": "",
-    "so_what_ko": "",
-    "so_what_en": "",
-    "key_points": [],
-    "tags": [],
-    "confidence": 0,
-    "ai_processed": false,
-    "ai_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeM8ptQFnVcBxPbxzuVHT\"}"
-  },
-  {
-    "title": "OpenAI Scales Back AI Development, but it Could be Too Late",
-    "link": "https://aibusiness.com/generative-ai/openai-scales-down-ai-development-could-be-too-late",
-    "date_published": "2026-08-19",
-    "description": "The move is a response to the Hugging Face hacking incident and other cybersecurity concerns about AI models. However, enterprises need to ramp up security protections regardless of the models they use.",
-    "source_id": "ai_business",
-    "source_name": "AI Business",
-    "source_url": "https://aibusiness.com/rss.xml",
-    "categories": [
-      "ai_marketing",
-      "ai_general"
+    "title_en": "Smarter DOOH Campaigns Require Audience-First Strategy, Not Just High-Traffic Screens",
+    "summary_ko": "디지털 옥외광고(DOOH) 캠페인의 효과는 단순히 유동인구가 많은 스크린 위치보다 정교한 오디언스 데이터 활용에 달려 있다는 주장이 제기됐다. 어떤 스크린이 실제로 타깃 오디언스에 노출되는지를 파악하는 것이 DOOH 투자 효율성을 높이는 핵심이다. 오디언스 중심의 접근법이 스마트한 DOOH 캠페인 기획의 출발점이 되어야 한다는 시사점을 제공한다.",
+    "summary_en": "Effective DOOH (Digital Out-of-Home) advertising campaigns depend more on precise audience data than simply securing high-traffic screen placements. Understanding which screens actually reach the intended target audience is the key to maximizing DOOH investment efficiency. The article argues that an audience-first approach should be the foundation of any smart DOOH campaign strategy.",
+    "so_what_ko": "LG D2C가 옥외 디지털 광고를 집행할 때 단순 유동인구 기반이 아닌 오디언스 데이터 기반으로 스크린을 선정해야 광고 예산 효율과 전환율을 동시에 개선할 수 있다.",
+    "so_what_en": "LG D2C should prioritize audience data-driven screen selection over traffic volume alone when planning DOOH campaigns, ensuring ad spend efficiency and higher conversion rates.",
+    "key_points": [
+      "DOOH 캠페인 효과는 고트래픽 위치보다 오디언스 데이터 정밀도에 좌우됨",
+      "타깃 오디언스에게 실제 노출되는 스크린을 식별하는 것이 DOOH 투자 효율의 핵심",
+      "오디언스 퍼스트 접근법이 스마트 DOOH 전략의 기본 전제로 부상"
     ],
-    "relevance_score": 0,
-    "relevance_label": "high",
-    "summary_ko": "",
-    "summary_en": "",
-    "so_what_ko": "",
-    "so_what_en": "",
-    "key_points": [],
-    "tags": [],
-    "confidence": 0,
-    "ai_processed": false,
-    "ai_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeM8ptQFnVcBxPbxzuVHT\"}"
-  },
-  {
-    "title": "Pony.AI Has Plans For 4,000 Robotaxis Outside China",
-    "link": "https://aibusiness.com/generative-ai/pony-ai-plans-4-000-robotaxis-outside-china",
-    "date_published": "2026-08-19",
-    "description": "Self-driving taxi service is advancing around the world.",
-    "source_id": "ai_business",
-    "source_name": "AI Business",
-    "source_url": "https://aibusiness.com/rss.xml",
-    "categories": [
-      "ai_marketing",
-      "ai_general"
+    "tags": [
+      "dooh",
+      "audience-data",
+      "out-of-home-advertising",
+      "media-planning",
+      "programmatic"
     ],
-    "relevance_score": 0,
-    "relevance_label": "high",
-    "summary_ko": "",
-    "summary_en": "",
-    "so_what_ko": "",
-    "so_what_en": "",
-    "key_points": [],
-    "tags": [],
-    "confidence": 0,
-    "ai_processed": false,
-    "ai_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeM8ptQFnVcBxPbxzuVHT\"}"
+    "confidence": 0.6,
+    "strategic_theme": "DATA_STRATEGY",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "DOOH"
+    ],
+    "one_line_insight_ko": "DOOH 광고의 진정한 경쟁력은 스크린 위치가 아닌 오디언스 데이터 기반의 정밀 타기팅에서 나온다.",
+    "one_line_insight_en": "The real competitive advantage in DOOH advertising lies not in screen location but in precision audience data that ensures the right message reaches the right people.",
+    "ai_processed": true
   }
 ]
