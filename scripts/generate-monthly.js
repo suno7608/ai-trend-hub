@@ -114,7 +114,11 @@ async function generateSimple(articles, weeklyDigests, monthStr) {
 
   const response = await client.messages.create({
     model: MODEL,
-    max_tokens: 8192,
+    // 16384: this single call asks for the whole report in Korean AND English
+    // (reports_ko + reports_en + action items + regional notes). At 8192 the
+    // JSON was cut off mid-array, so the fallback died the same way the v2.0
+    // pipeline did and the run produced nothing at all.
+    max_tokens: 16384,
     system: `You are the editor of "LG AI Trend Hub", producing a Monthly Deep Dive report for LG's Global D2C organization. Return ONLY valid JSON.`,
     messages: [{ role: 'user', content: `Generate Monthly Deep Dive for ${year}년 ${monthNameKo[parseInt(month)]}.
 
@@ -141,13 +145,27 @@ ${weeklySummary || '(none)'}
 Return ONLY valid JSON.` }]
   });
 
-  const text = response.content[0].text.trim();
+  // Guard against truncated responses (would yield invalid JSON).
+  if (response.stop_reason === 'max_tokens') {
+    throw new Error(`Claude response truncated at max_tokens (${response.usage?.output_tokens} tokens). Increase max_tokens.`);
+  }
+
+  let text = response.content[0].text.trim();
+  // Strip markdown code fences if the model wrapped the JSON.
+  if (text.startsWith('```')) {
+    text = text.replace(/^```(?:json)?\s*/i, '').replace(/\s*```$/i, '').trim();
+  }
+
   try {
     return JSON.parse(text);
-  } catch {
+  } catch (err) {
     const match = text.match(/\{[\s\S]*\}/);
-    if (match) return JSON.parse(match[0]);
-    throw new Error('Could not parse simple generation JSON');
+    if (match) {
+      try {
+        return JSON.parse(match[0]);
+      } catch { /* fall through */ }
+    }
+    throw new Error(`Could not parse simple generation JSON (len=${text.length}): ${err.message}`);
   }
 }
 

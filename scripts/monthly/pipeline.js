@@ -16,37 +16,71 @@ const prompts = require('./prompts');
 const MODEL = process.env.CLAUDE_MODEL || 'claude-sonnet-4-6';
 const MAX_RETRIES = 3;
 
+// Every stage asks for bilingual (KO+EN) JSON, and Korean is token-heavy, so the
+// old 6000/8000 budgets were routinely exceeded: the JSON came back cut off mid
+// array and JSON.parse threw `Expected ',' or ']' after array element`. That is
+// what killed the 2026-07 and 2026-08 monthly runs. claude-sonnet-4-6 supports
+// far larger outputs; 16k keeps these non-streaming calls under the SDK's HTTP
+// timeout while leaving ample headroom.
+const MAX_OUTPUT_TOKENS = 16000;
+
+class TruncatedResponseError extends Error {}
+
 // ── Retry-aware Claude call ───────────────────────────────
-async function callClaude(client, systemPrompt, userPrompt, maxTokens = 8000, stageName = '') {
+async function callClaude(client, systemPrompt, userPrompt, maxTokens = MAX_OUTPUT_TOKENS, stageName = '') {
+  let budget = Math.min(maxTokens, MAX_OUTPUT_TOKENS);
+
   for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
     try {
       const response = await client.messages.create({
         model: MODEL,
-        max_tokens: maxTokens,
+        max_tokens: budget,
         system: systemPrompt,
         messages: [{ role: 'user', content: userPrompt }]
       });
-      const text = response.content[0].text.trim();
-      const json = parseJSON(text);
-      return json;
+
+      // Guard first: a truncated response is invalid JSON, and the parser error
+      // it produces says nothing about the real cause.
+      if (response.stop_reason === 'max_tokens') {
+        throw new TruncatedResponseError(
+          `Claude response truncated at max_tokens (budget ${budget}, produced ${response.usage?.output_tokens} tokens)`
+        );
+      }
+
+      return parseJSON(response.content[0].text.trim());
     } catch (err) {
       console.warn(`  ⚠️  ${stageName} attempt ${attempt}/${MAX_RETRIES} failed: ${err.message}`);
-      if (attempt < MAX_RETRIES) {
-        await sleep(attempt * 2000); // exponential backoff: 2s, 4s
-      } else {
-        throw err;
+      if (attempt >= MAX_RETRIES) throw err;
+
+      // Retrying a truncation with the same budget just truncates again — that
+      // is how the July/August runs burned all three attempts. Give it more room.
+      if (err instanceof TruncatedResponseError) {
+        if (budget >= MAX_OUTPUT_TOKENS) throw err;
+        budget = Math.min(budget * 2, MAX_OUTPUT_TOKENS);
+        console.warn(`     ↳ retrying ${stageName} with max_tokens=${budget}`);
       }
+
+      await sleep(attempt * 2000); // exponential backoff: 2s, 4s
     }
   }
 }
 
 function parseJSON(text) {
+  // Strip markdown code fences if the model wrapped the JSON.
+  if (text.startsWith('```')) {
+    text = text.replace(/^```(?:json)?\s*/i, '').replace(/\s*```$/i, '').trim();
+  }
+
   try {
     return JSON.parse(text);
-  } catch {
+  } catch (err) {
     const match = text.match(/\{[\s\S]*\}/);
-    if (match) return JSON.parse(match[0]);
-    throw new Error('Could not parse JSON from Claude response');
+    if (match) {
+      try {
+        return JSON.parse(match[0]);
+      } catch { /* fall through to the reported error below */ }
+    }
+    throw new Error(`Could not parse JSON from Claude response (len=${text.length}): ${err.message}`);
   }
 }
 
@@ -105,7 +139,7 @@ async function runStage2(client, enrichedArticles, monthStr) {
     client,
     prompts.STAGE2_SYSTEM,
     prompts.stage2User(enrichedArticles, monthStr),
-    6000,
+    12000,
     'Stage2'
   );
   const themes = result.macro_themes || [];
@@ -130,7 +164,7 @@ async function runStage3(client, themes, enrichedArticles, allArticles) {
       client,
       prompts.STAGE3_SYSTEM,
       prompts.stage3User(theme, themeArticles, allArticles),
-      8000,
+      16000,
       `Stage3-${theme.theme_id}`
     );
     analyses.push({ ...analysis, theme_id: theme.theme_id });
@@ -147,7 +181,7 @@ async function runStage4(client, themes, themeAnalyses, monthStr) {
     client,
     prompts.STAGE4_SYSTEM,
     prompts.stage4User(themes, themeAnalyses, monthStr),
-    6000,
+    12000,
     'Stage4'
   );
   console.log('  ✅ Stage 4 complete');
@@ -161,7 +195,7 @@ async function runStage5(client, themes, synthesis, themeAnalyses) {
     client,
     prompts.STAGE5_SYSTEM,
     prompts.stage5User(themes, synthesis, themeAnalyses),
-    8000,
+    16000,
     'Stage5'
   );
   console.log('  ✅ Stage 5 complete');
@@ -175,7 +209,7 @@ async function runStage6(client, themes, synthesis, frameworks, monthStr, articl
     client,
     prompts.STAGE6_SYSTEM,
     prompts.stage6User(themes, synthesis, frameworks, monthStr, articleCount),
-    4000,
+    8000,
     'Stage6'
   );
   console.log('  ✅ Stage 6 complete');
@@ -345,4 +379,4 @@ async function runPipeline(articles, weeklyDigests, monthStr) {
   }
 }
 
-module.exports = { runPipeline };
+module.exports = { runPipeline, callClaude };
