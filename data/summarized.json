@@ -1,5 +1,291 @@
 [
   {
+    "title": "Dairy milk’s demand remains strong across retail",
+    "link": "https://www.retaildive.com/spons/dairy-milks-demand-remains-strong-across-retail/829470/",
+    "date_published": "2026-09-21",
+    "description": "Capture more trips and unlock incremental growth by making Dairy Milk an intentional part of the basket.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "commerce"
+    ],
+    "relevance_score": 0.1,
+    "relevance_label": "high",
+    "title_en": "Dairy Milk Demand Remains Strong Across Retail Channels",
+    "summary_ko": "유제품 우유는 소매 전반에 걸쳐 강한 수요를 유지하고 있으며, 소비자 장바구니에서 중요한 역할을 하고 있다. 소매업체들은 유제품 우유를 의도적인 장바구니 구성 요소로 활용해 추가적인 구매 여정을 유도할 수 있다. 이 기사는 유제품 카테고리의 성장 가능성을 강조하며 소매 전략의 일부로 활용할 것을 권장한다.",
+    "summary_en": "Dairy milk continues to show strong demand across retail environments, maintaining a consistent presence in consumer shopping baskets. Retailers are encouraged to make dairy milk an intentional part of basket-building strategies to capture more shopping trips. The article highlights incremental growth opportunities by leveraging dairy milk's enduring consumer appeal.",
+    "so_what_ko": "이 기사는 AI 커머스나 D2C 전략과 직접적인 연관성이 낮은 스폰서 콘텐츠로, LG D2C 조직에 대한 직접적인 전략적 시사점은 제한적이다.",
+    "so_what_en": "This sponsored content has limited direct relevance to AI commerce or D2C strategy; LG D2C teams should monitor category-level basket insights as a secondary reference only.",
+    "key_points": [
+      "Dairy milk demand remains resilient across retail formats",
+      "Retailers can drive incremental growth by featuring dairy milk as a core basket item",
+      "Article is sponsored content with limited AI or D2C strategic depth"
+    ],
+    "tags": [
+      "retail",
+      "consumer-goods",
+      "basket-strategy"
+    ],
+    "confidence": 0.5,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Dairy Milk",
+      "Retail Dive"
+    ],
+    "one_line_insight_ko": "유제품 우유의 안정적 수요는 소매 카테고리 전략에서 기초 품목의 중요성을 재확인시켜 준다.",
+    "one_line_insight_en": "Dairy milk's sustained retail demand underscores the value of anchoring basket strategies around consistently high-demand staple categories.",
+    "ai_processed": true
+  },
+  {
+    "title": "Direct-to-Consumer Brands Rebuild Their Playbooks Around Retailers",
+    "link": "https://www.adweek.com/commerce/direct-to-consumer-brands-rebuild-their-playbooks-around-retailers/",
+    "date_published": "2026-09-21",
+    "description": "Gone are the days when DTCs went it alone. Survival today is about clawing for shelf space at Walmart, Target, and other brick-and-mortar stores.",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.72,
+    "relevance_label": "high",
+    "title_en": "D2C Brands Rebuild Playbooks Around Retail Partnerships as Pure-Play DTC Struggles",
+    "summary_ko": "과거 독립적인 D2C 전략을 고수하던 브랜드들이 이제 월마트, 타깃 등 대형 오프라인 소매업체와의 파트너십을 핵심 생존 전략으로 채택하고 있다. 순수 D2C 모델만으로는 고객 확보 비용 상승과 디지털 광고 효율 저하 등의 도전에 직면해 있으며, 소매업체 진열 공간 확보가 새로운 성장 경로로 부상하고 있다. 이는 D2C 브랜드들이 채널 전략을 재정립하고 온·오프라인 통합 접근 방식으로 전환하고 있음을 보여준다.",
+    "summary_en": "Direct-to-consumer brands are abandoning purely digital playbooks and pivoting toward brick-and-mortar retail partnerships with giants like Walmart and Target as a core survival strategy. Rising customer acquisition costs and declining digital ad efficiency have made the standalone DTC model increasingly difficult to sustain. Securing physical shelf space at major retailers is now viewed as a critical growth lever for DTC brands.",
+    "so_what_ko": "LG D2C 조직은 순수 온라인 채널 의존에서 벗어나 오프라인 소매 파트너십을 보완적 성장 채널로 적극 검토해야 하며, 옴니채널 전략 강화가 필수적이다.",
+    "so_what_en": "LG D2C teams should evaluate omnichannel strategies that integrate retail partnerships alongside direct channels, as pure-play digital models face mounting cost and efficiency headwinds.",
+    "key_points": [
+      "DTC brands are pivoting from pure digital models to brick-and-mortar retail partnerships",
+      "Walmart and Target are key destinations for DTC brands seeking mass distribution",
+      "Rising customer acquisition costs are driving the strategic shift away from standalone DTC",
+      "Omnichannel integration is becoming the new standard for DTC brand survival"
+    ],
+    "tags": [
+      "d2c",
+      "retail-partnerships",
+      "omnichannel",
+      "brand-strategy"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Walmart",
+      "Target",
+      "Adweek",
+      "DTC brands"
+    ],
+    "one_line_insight_ko": "순수 D2C 모델의 한계가 명확해지면서, 오프라인 소매 파트너십이 브랜드 생존을 위한 필수 전략으로 자리잡고 있다.",
+    "one_line_insight_en": "As standalone DTC economics deteriorate, securing physical retail shelf space at mass-market chains is emerging as a critical survival strategy for direct brands.",
+    "ai_processed": true
+  },
+  {
+    "title": "The case for and against retail media networks as brand-building channels",
+    "link": "https://digiday.com/marketing/the-case-for-and-against-retail-media-networks-as-brand-building-channels/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-09-21",
+    "description": "Retail media networks pitch brand-building on shopper data, but ROI metrics, costs and budget fights hold them back.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.68,
+    "relevance_label": "high",
+    "title_en": "Retail Media Networks Face Scrutiny as Brand-Building Channels Despite Shopper Data Advantages",
+    "summary_ko": "리테일 미디어 네트워크(RMN)는 풍부한 쇼퍼 데이터를 기반으로 브랜드 빌딩 채널로서의 가능성을 피력하고 있으나, ROI 측정의 어려움과 높은 비용, 예산 배분 갈등 등의 현실적 한계가 걸림돌로 작용하고 있다. 브랜드들은 RMN이 퍼포먼스 마케팅에는 효과적이지만 상위 퍼널 브랜드 인지도 구축에 있어서는 그 효과가 불분명하다고 평가한다. 업계 내에서는 RMN의 브랜드 빌딩 역할에 대한 찬반 논의가 지속되고 있다.",
+    "summary_en": "Retail media networks are pitching themselves as brand-building channels by leveraging rich shopper data, but face significant skepticism around ROI measurement, high costs, and internal budget competition. Brands acknowledge RMNs' strength in lower-funnel performance marketing while questioning their effectiveness for upper-funnel brand awareness goals. The debate around RMNs as holistic brand-building tools remains unresolved within the marketing industry.",
+    "so_what_ko": "LG D2C 마케팅팀은 RMN 투자 시 퍼포먼스 마케팅과 브랜드 빌딩 목표를 명확히 구분하고, ROI 측정 기준과 예산 배분 기준을 사전에 설정해야 한다.",
+    "so_what_en": "LG D2C marketing teams should clearly define performance vs. brand-building KPIs before committing budgets to retail media networks, ensuring measurement frameworks are in place to justify spend.",
+    "key_points": [
+      "Retail media networks are expanding their pitch to include upper-funnel brand-building capabilities",
+      "ROI measurement gaps and high costs remain the primary barriers to broader RMN adoption",
+      "Budget competition between performance and brand teams complicates RMN investment decisions",
+      "Shopper data is RMNs' key differentiator, but translating it to brand equity metrics is still challenging"
+    ],
+    "tags": [
+      "retail-media-networks",
+      "brand-building",
+      "roi-measurement",
+      "adtech",
+      "shopper-data"
+    ],
+    "confidence": 0.78,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL",
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Retail Media Networks",
+      "Digiday",
+      "Walmart Connect",
+      "Amazon Advertising"
+    ],
+    "one_line_insight_ko": "리테일 미디어 네트워크는 쇼퍼 데이터 강점에도 불구하고 브랜드 빌딩 채널로서의 ROI 입증이라는 과제를 여전히 해결하지 못하고 있다.",
+    "one_line_insight_en": "Retail media networks must bridge the gap between shopper data advantages and demonstrable brand-building ROI to compete for upper-funnel marketing budgets.",
+    "ai_processed": true
+  },
+  {
+    "title": "Target gets K-beauty brands to think beyond Sephora, Ulta with new Beauty Studio",
+    "link": "https://www.modernretail.co/operations/target-gets-k-beauty-brands-to-think-beyond-sephora-ulta-with-new-beauty-studio/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-09-21",
+    "description": "Walking around a Target store today, shoppers are going to find far more K-beauty brands than they would have a year ago as the retailer seeks the latest trends and as Korean brands seek to expand into U.S. mass retail.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.62,
+    "relevance_label": "high",
+    "title_en": "Target Lures K-Beauty Brands Beyond Sephora and Ulta with New Beauty Studio",
+    "summary_ko": "타깃은 새로운 뷰티 스튜디오를 통해 K-뷰티 브랜드들을 세포라, 울타를 넘어 미국 대중 소매 시장으로 유입시키는 전략을 추진하고 있다. 지난 1년 사이 타깃 매장 내 K-뷰티 브랜드 수가 눈에 띄게 증가했으며, 한국 브랜드들은 미국 대형 소매 채널 확장을 성장의 발판으로 삼고 있다. 이는 K-뷰티의 미국 시장 내 주류화와 함께 소매업체들이 트렌디한 글로벌 뷰티 브랜드를 통해 차별화를 꾀하는 전략적 움직임을 반영한다.",
+    "summary_en": "Target is actively recruiting K-beauty brands through its new Beauty Studio concept, positioning itself as a major destination beyond traditional prestige beauty retailers like Sephora and Ulta. The number of K-beauty brands on Target shelves has grown significantly over the past year as Korean brands seek to scale into U.S. mass retail. This trend reflects both the mainstreaming of K-beauty in the U.S. and retailers' strategy to differentiate through globally trending beauty brands.",
+    "so_what_ko": "LG생활건강 등 K-뷰티 포트폴리오를 보유한 LG 계열사는 타깃의 뷰티 스튜디오를 미국 대중 소매 시장 진입 가속화의 전략적 기회로 활용해야 한다.",
+    "so_what_en": "LG affiliates with K-beauty portfolios should evaluate Target's Beauty Studio as a strategic entry point to accelerate U.S. mass retail expansion beyond prestige beauty channels.",
+    "key_points": [
+      "Target's new Beauty Studio is designed to attract K-beauty brands seeking U.S. mass retail distribution",
+      "K-beauty brand presence at Target has grown substantially in the past year",
+      "Korean brands see Walmart, Target and similar mass retailers as key U.S. growth channels beyond specialty beauty",
+      "Retailers are leveraging K-beauty's trend appeal to differentiate their beauty sections"
+    ],
+    "tags": [
+      "k-beauty",
+      "target",
+      "retail-expansion",
+      "d2c",
+      "beauty-retail"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "AMER",
+      "APAC"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Target",
+      "Sephora",
+      "Ulta",
+      "K-Beauty brands",
+      "Beauty Studio"
+    ],
+    "one_line_insight_ko": "타깃의 뷰티 스튜디오는 K-뷰티 브랜드의 미국 대중 소매 진입을 가속화하는 새로운 전략 채널로 부상하고 있다.",
+    "one_line_insight_en": "Target's Beauty Studio is emerging as a pivotal channel for K-beauty brands to scale into U.S. mass retail beyond the traditional prestige beauty gatekeepers.",
+    "ai_processed": true
+  },
+  {
+    "title": "Creators are moving up their holiday content calendars",
+    "link": "https://www.modernretail.co/marketing/creators-are-moving-up-their-holiday-content-calendars/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-09-21",
+    "description": "Creators and brands are starting holiday campaigns months early to build awareness and test sales strategies. In turn, the campaign calendars have shifted to feature Christmas content as early as August.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
+    "categories": [
+      "marketing",
+      "commerce"
+    ],
+    "relevance_score": 0.65,
+    "relevance_label": "high",
+    "title_en": "Creators and Brands Shift Holiday Content Calendars Earlier, with Christmas Campaigns Starting in August",
+    "summary_ko": "크리에이터와 브랜드들이 홀리데이 콘텐츠 캘린더를 수개월 앞당기며, 일부는 8월부터 크리스마스 관련 콘텐츠를 시작하고 있다. 이는 소비자 인지도를 조기에 구축하고 판매 전략을 미리 테스트하기 위한 목적으로, 홀리데이 시즌 경쟁이 치열해지고 있음을 보여준다. 캠페인 조기 시작은 소셜 미디어 알고리즘과 소비자 구매 결정 주기 변화에 대응하는 전략적 적응으로 볼 수 있다.",
+    "summary_en": "Creators and brands are significantly advancing their holiday content calendars, with some launching Christmas-themed campaigns as early as August to build awareness ahead of competitors. The early start is driven by the need to test sales strategies and warm up audiences well before peak shopping periods. This shift reflects broader changes in social media algorithms and evolving consumer purchase decision timelines that reward early content investment.",
+    "so_what_ko": "LG D2C 마케팅팀은 홀리데이 시즌 캠페인을 기존보다 최소 2~3개월 앞당겨 기획하고, 크리에이터 파트너십을 조기에 확보해 경쟁 우위를 선점해야 한다.",
+    "so_what_en": "LG D2C marketing teams should advance holiday campaign planning by at least 2-3 months and lock in creator partnerships early to build audience awareness ahead of peak season competition.",
+    "key_points": [
+      "Holiday content campaigns are now launching as early as August, months ahead of traditional timelines",
+      "Early campaign starts help brands test messaging and sales strategies before peak periods",
+      "Social media algorithm dynamics are incentivizing early and sustained content investment",
+      "Creator-brand partnerships for holiday seasons require earlier planning and contracting"
+    ],
+    "tags": [
+      "holiday-marketing",
+      "creator-economy",
+      "content-calendar",
+      "seasonal-campaigns",
+      "influencer-marketing"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER",
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Modern Retail",
+      "Creators",
+      "Holiday Campaigns"
+    ],
+    "one_line_insight_ko": "홀리데이 캠페인의 조기 시작이 업계 표준으로 자리잡으면서, 크리에이터 파트너십과 콘텐츠 전략의 선제적 기획이 경쟁 우위의 핵심이 되고 있다.",
+    "one_line_insight_en": "As early holiday campaign launches become the new industry norm, proactive creator partnerships and pre-season content strategies are becoming key competitive differentiators.",
+    "ai_processed": true
+  },
+  {
+    "title": "Test Your Products for AI Discovery",
+    "link": "https://www.practicalecommerce.com/test-your-products-for-ai-discovery",
+    "date_published": "2026-09-20",
+    "description": "The goal is to match a shopper's needs to your product so an AI system will recommend it.\nThe post Test Your Products for AI Discovery appeared first on Practical Ecommerce.",
+    "source_id": "practical_ecommerce",
+    "source_name": "Practical Ecommerce",
+    "source_url": "https://www.practicalecommerce.com/feed",
+    "categories": [
+      "commerce",
+      "agentic_commerce"
+    ],
+    "relevance_score": 0.9,
+    "relevance_label": "high",
+    "title_en": "How to Test Your Products for AI Discovery and Recommendation",
+    "summary_ko": "AI 시스템이 쇼핑객의 요구에 맞는 제품을 추천하려면 제품이 AI 검색에 최적화되어 있어야 한다. 이 글은 브랜드가 자사 제품이 AI 추천 엔진에 의해 얼마나 잘 발견되는지 테스트하는 방법을 다룬다. AI 기반 쇼핑 환경에서 제품 노출을 높이기 위한 실용적 접근법이 소개된다.",
+    "summary_en": "AI systems are increasingly mediating product discovery by matching shopper needs to relevant products. Brands must now optimize their product information so that AI recommendation engines can surface them effectively. The article provides practical guidance on testing whether products are positioned for AI-driven discovery.",
+    "so_what_ko": "LG D2C는 자사 제품 데이터(설명, 스펙, 사용 사례)를 AI 추천 엔진 친화적으로 구조화하여, ChatGPT·Gemini 등 AI 쇼핑 어시스턴트에서 상위 노출될 수 있도록 최적화 전략을 선제적으로 수립해야 한다.",
+    "so_what_en": "LG D2C should proactively audit and restructure product data—descriptions, specs, and use-case framing—to align with how AI recommendation engines evaluate and surface products to shoppers.",
+    "key_points": [
+      "AI 시스템은 쇼핑객 니즈와 제품을 매칭하는 핵심 중개자로 부상",
+      "제품이 AI 검색에 발견되려면 콘텐츠와 메타데이터의 AI 최적화가 필수",
+      "브랜드는 자사 제품의 AI 검색 가시성을 주기적으로 테스트해야 함"
+    ],
+    "tags": [
+      "ai-discovery",
+      "product-optimization",
+      "ai-commerce",
+      "ecommerce",
+      "ai-recommendation"
+    ],
+    "confidence": 0.65,
+    "strategic_theme": "AI_COMMERCE",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Practical Ecommerce"
+    ],
+    "one_line_insight_ko": "AI가 제품 검색의 주요 관문이 된 시대에, 제품 데이터의 AI 최적화는 새로운 SEO다.",
+    "one_line_insight_en": "In the age of AI-mediated shopping, optimizing product data for AI discovery is the new SEO imperative.",
+    "ai_processed": true
+  },
+  {
     "title": "#240: How David’s Bridal Is Rebuilding a 76-Year-Old Business Around AI",
     "link": "",
     "date_published": "2026-09-17",
@@ -9,30 +295,30 @@
     "source_url": "https://feeds.megaphone.fm/marketingai",
     "categories": [
       "ai_marketing",
-      "commerce",
-      "strategy"
+      "strategy",
+      "commerce"
     ],
-    "relevance_score": 0.9,
+    "relevance_score": 0.88,
     "relevance_label": "high",
-    "title_en": "David's Bridal Reinvents 76-Year-Old Business with AI-Powered Wedding Planning Platform",
-    "summary_ko": "데이비드 브라이덜은 76년 역사의 웨딩드레스 중심 비즈니스를 AI 기반 웨딩 플래닝 플랫폼으로 전환하는 혁신을 추진하고 있다. 자체 개발한 AI 웨딩 플래닝 어시스턴트 'Pearl Planner'는 별도의 마케팅 비용 없이 수십만 커플에게 사용되고 있으며, 벤더 연결 플랫폼 'Pearl Connect'도 구글 클라우드 기반으로 출시되었다. 비전 퀴즈와 동적 예산 관리 기능을 통해 고객 경험을 확장하고, 내부 팀의 AI 도입도 병행하고 있다.",
-    "summary_en": "David's Bridal is transforming its 76-year-old dress-centric business into a comprehensive AI-powered wedding journey platform with an 'aisle to algorithm' strategy. Its AI wedding planning assistant, Pearl Planner, has attracted hundreds of thousands of couples without any marketing spend, while Pearl Connect serves as a vendor-side platform built on Google Cloud. The company has also integrated AI internally across its teams, alongside customer-facing features like vision quizzes and dynamic budgeting tools.",
-    "so_what_ko": "레거시 D2C 브랜드도 AI 기반 생태계 플랫폼으로 전환함으로써 마케팅 비용 없이 대규모 고객을 확보할 수 있음을 보여주는 사례로, LG D2C도 제품 판매를 넘어 라이프스타일 전반을 아우르는 AI 동반자 서비스 전략을 검토할 필요가 있다.",
-    "so_what_en": "This case demonstrates that even legacy D2C brands can acquire large customer bases at zero marketing cost by pivoting to AI-powered ecosystem platforms, signaling that LG D2C should explore AI companion strategies that extend beyond product sales into broader lifestyle journeys.",
+    "title_en": "David's Bridal Rebuilds 76-Year-Old Business Around AI with 'Aisle to Algorithm' Strategy",
+    "summary_ko": "데이비드 브라이덜은 76년 역사의 웨딩드레스 전문 기업에서 AI 기반 웨딩 플래닝 플랫폼으로 사업 모델을 전환하고 있다. AI 웨딩 플래닝 컴패니언 'Pearl Planner'는 마케팅 비용 없이 수십만 커플에게 채택되었으며, 벤더 연결 플랫폼 'Pearl Connect'는 Google Cloud 기반으로 구축되었다. 비전 퀴즈와 동적 예산 책정 기능을 통해 고객 경험을 개인화하며 'aisle to algorithm' 전략을 실현하고 있다.",
+    "summary_en": "David's Bridal is transforming from a 76-year-old dress retailer into an AI-powered wedding journey platform with its 'aisle to algorithm' strategy. Its free AI wedding planning companion, Pearl Planner, has been adopted by hundreds of thousands of couples with zero marketing spend. The vendor-side platform Pearl Connect, built on Google Cloud, alongside vision quizzes and dynamic budgeting, completes the ecosystem.",
+    "so_what_ko": "LG D2C는 단순 제품 판매를 넘어 고객의 라이프스타일 여정 전반을 아우르는 AI 컴패니언 서비스를 구축함으로써, 마케팅 비용 없이도 강력한 고객 유입과 록인 효과를 창출할 수 있다는 점을 데이비드 브라이덜 사례에서 배울 수 있다.",
+    "so_what_en": "LG D2C can draw lessons from David's Bridal's approach by developing AI companions that extend beyond product transactions into broader customer lifestyle journeys, enabling organic acquisition and long-term loyalty without heavy marketing spend.",
     "key_points": [
-      "Pearl Planner AI 웨딩 어시스턴트는 마케팅 비용 없이 수십만 커플 유치 달성",
-      "구글 클라우드 기반 벤더 플랫폼 Pearl Connect로 B2B2C 생태계 구축",
-      "비전 퀴즈·동적 예산 관리 등 AI 기능으로 고객 여정 전반을 커버",
-      "내부 팀 AI 도입을 병행하여 조직 전반의 AI 전환 추진"
+      "Pearl Planner: 마케팅 비용 없이 수십만 커플이 사용하는 무료 AI 웨딩 플래닝 컴패니언",
+      "Pearl Connect: Google Cloud 기반 벤더 연결 플랫폼으로 생태계 확장",
+      "비전 퀴즈·동적 예산 책정 기능으로 고객 개인화 경험 구현",
+      "'aisle to algorithm' 전략: 드레스 중심에서 웨딩 전체 여정으로 사업 모델 전환"
     ],
     "tags": [
       "ai-transformation",
-      "d2c-platform",
       "customer-journey",
-      "generative-ai",
+      "ai-companion",
+      "retail-reinvention",
       "google-cloud"
     ],
-    "confidence": 0.75,
+    "confidence": 0.78,
     "strategic_theme": "RETAIL_TRANSFORMATION",
     "regions": [
       "AMER"
@@ -46,8 +332,8 @@
       "Google Cloud",
       "Gemini Enterprise"
     ],
-    "one_line_insight_ko": "데이비드 브라이덜의 'Aisle to Algorithm' 전략은 레거시 D2C 브랜드가 AI 생태계 플랫폼으로 재탄생할 수 있음을 입증한다.",
-    "one_line_insight_en": "David's Bridal's 'aisle to algorithm' pivot proves that legacy D2C brands can reinvent themselves as AI-powered lifestyle ecosystems with zero paid acquisition cost.",
+    "one_line_insight_ko": "데이비드 브라이덜의 AI 전환은 제품 판매자가 AI 기반 라이프스타일 플랫폼으로 진화할 때 유기적 성장이 가능함을 증명한다.",
+    "one_line_insight_en": "David's Bridal proves that retailers can achieve organic, zero-spend growth by evolving from product sellers into AI-powered lifestyle journey platforms.",
     "ai_processed": true
   },
   {
@@ -62,74 +348,118 @@
       "ai_marketing",
       "strategy"
     ],
-    "relevance_score": 0.75,
+    "relevance_score": 0.68,
     "relevance_label": "high",
-    "title_en": "Marketing AI Show Q&A: AI Time Management, Budgets, Data Risk, and the Disappearing Entry-Level Role",
-    "summary_ko": "마케팅 AI 쇼의 'AI Answers' 에피소드에서는 마케팅 분야 AI 도입과 관련된 15가지 실질적 질문에 답한다. 엔트리 레벨 직무 감소로 인한 미래 리더십 파이프라인 위기, AI 예산 확보 방법, 벤더 계약 및 데이터 리스크 등 전략적 이슈가 폭넓게 다루어졌다. 범용 에이전트 vs 맞춤형 에이전트, 인간 개입 체크포인트 설계, '임차한 땅 위의 비즈니스' 리스크 등 실무적 관점도 포함된다.",
-    "summary_en": "In this Q&A episode of the Marketing AI Show, hosts Paul Roetzer and Cathy McPhillips address 15 listener questions spanning practical and strategic AI adoption challenges. Key topics include carving out time for AI amid busy schedules, funding AI initiatives, managing vendor terms and data risk, and AI disclosure obligations. The episode also tackles the longer-term concern that eliminating entry-level roles may hollow out the future leadership pipeline.",
-    "so_what_ko": "LG D2C 마케팅 조직은 AI 도입 시 단기 효율화뿐 아니라 엔트리 레벨 인재 파이프라인 유지, 벤더 데이터 리스크 관리, 내부 AI 거버넌스 체계 수립을 함께 고려해야 한다.",
-    "so_what_en": "LG D2C marketing teams should balance short-term AI efficiency gains with long-term concerns around talent pipeline preservation, vendor data risk, and establishing internal AI governance frameworks.",
+    "title_en": "AI Answers Podcast: Time Constraints, AI Budgets, Vendor Risk, and the Vanishing Entry-Level Role",
+    "summary_ko": "마케팅 AI 쇼 팟캐스트의 'AI Answers' 에피소드에서 15개의 청취자 질문을 통해 AI 도입의 실무적·전략적 과제를 심층 논의했다. 주요 주제로는 AI를 위한 시간 확보, 범용 vs. 맞춤형 에이전트 선택, 엔터프라이즈 AI 전환의 오너십, AI 예산 책정 등이 다루어졌다. 특히 엔트리 레벨 채용 중단이 미래 리더십 파이프라인에 미치는 위험성이 핵심 이슈로 제기되었다.",
+    "summary_en": "The Marketing AI Show's AI Answers episode addresses 15 listener questions spanning practical and strategic AI adoption challenges. Topics include carving out time for AI, choosing between generic and custom agents, AI ownership within enterprises, and token budget management. A standout concern raised is the risk to future leadership pipelines if entry-level roles are eliminated by AI without a replacement talent development pathway.",
+    "so_what_ko": "LG D2C AI 전환 과정에서 엔트리 레벨 역할 축소에 따른 미래 리더십 파이프라인 단절 위험을 인식하고, AI 시대에 맞는 인재 육성 및 조직 내 AI 오너십 구조를 명확히 정립해야 한다.",
+    "so_what_en": "As LG D2C pursues AI transformation, it must proactively address the leadership pipeline risk from reducing entry-level roles and establish clear internal ownership structures for AI adoption.",
     "key_points": [
-      "엔트리 레벨 직무 AI 대체로 인한 미래 리더십 파이프라인 약화 우려 제기",
-      "범용 에이전트 vs 맞춤형 에이전트 선택 기준 및 인간 개입 체크포인트 설계 논의",
-      "AI 예산 확보, 토큰 예산, 벤더 계약 및 데이터 리스크 등 실무 이슈 포괄",
-      "'임차한 땅 위의 비즈니스' 비유로 외부 AI 플랫폼 의존 리스크 경고"
+      "엔트리 레벨 역할 AI 대체 시 미래 리더십 파이프라인 단절 위험",
+      "AI 전환의 기업 내 오너십 명확화 필요성",
+      "범용 에이전트 vs. 맞춤형 에이전트 선택 기준 논의",
+      "'임대 토지' 위험: 외부 AI 플랫폼 의존도 관리 전략 필요"
     ],
     "tags": [
-      "ai-adoption",
-      "marketing-ai",
-      "ai-governance",
-      "workforce-transformation",
-      "ai-risk"
+      "ai-transformation",
+      "talent-pipeline",
+      "ai-agents",
+      "enterprise-ai",
+      "ai-budget"
     ],
     "confidence": 0.7,
-    "strategic_theme": "AI_MARKETING",
+    "strategic_theme": "DATA_STRATEGY",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "MEDIUM",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "Marketing AI Show",
+      "Marketing AI Institute",
+      "SmarterX",
       "Paul Roetzer",
-      "Cathy McPhillips",
-      "SmarterX"
+      "Cathy McPhillips"
     ],
-    "one_line_insight_ko": "AI가 엔트리 레벨 업무를 대체할수록 조직의 미래 리더십 파이프라인과 AI 거버넌스 전략을 동시에 설계해야 한다.",
-    "one_line_insight_en": "As AI displaces entry-level work, organizations must simultaneously redesign their leadership pipelines and AI governance frameworks to avoid long-term capability gaps.",
+    "one_line_insight_ko": "AI가 주니어 역할을 대체하는 속도가 빨라질수록, 기업은 미래 리더십 파이프라인 보호를 위한 새로운 인재 육성 체계를 선제적으로 설계해야 한다.",
+    "one_line_insight_en": "As AI accelerates the elimination of entry-level roles, enterprises must proactively redesign talent development pipelines to safeguard future leadership capacity.",
     "ai_processed": true
   },
   {
-    "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-    "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-    "date_published": "2026-09-19",
-    "description": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "title": "What 25M+ assets taught us about creative production at scale",
+    "link": "https://www.marketingdive.com/spons/what-25m-assets-taught-us-about-creative-production-at-scale/830196/",
+    "date_published": "2026-09-21",
+    "description": "AI sped up asset creation. The real constraints now sit around production.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
     "categories": [
-      "tech",
+      "ai_marketing",
       "strategy"
+    ],
+    "relevance_score": 0.75,
+    "relevance_label": "high",
+    "title_en": "What 25 Million Assets Reveal: AI Speeds Creation, But Production Remains the Real Bottleneck",
+    "summary_ko": "2,500만 개 이상의 크리에이티브 에셋 분석 결과, AI는 콘텐츠 제작 속도를 획기적으로 높였지만 실제 병목은 생산 프로세스에 있음이 확인되었다. AI 가속화로 에셋 생성량은 급증했으나, 승인·품질 관리·배포 등 후속 프로세스가 새로운 제약으로 부상했다. 대규모 크리에이티브 생산에서 진정한 효율화를 위해서는 AI 생성 이후 단계의 워크플로우 혁신이 필수적이다.",
+    "summary_en": "An analysis of over 25 million creative assets reveals that while AI has dramatically accelerated content creation, the true constraints now lie in the production workflow surrounding it. The surge in AI-generated assets has exposed bottlenecks in approval processes, quality control, and distribution pipelines. Achieving genuine efficiency at scale requires workflow innovation beyond just AI generation.",
+    "so_what_ko": "LG D2C는 AI 크리에이티브 도구 도입과 함께 에셋 승인·품질 관리·다채널 배포를 위한 엔드투엔드 생산 워크플로우를 동시에 재설계해야 진정한 크리에이티브 스케일을 실현할 수 있다.",
+    "so_what_en": "LG D2C must redesign end-to-end production workflows—including approval, QA, and multi-channel distribution—in tandem with AI creative tool adoption to realize genuine creative scale.",
+    "key_points": [
+      "2,500만+ 에셋 분석: AI 생성 속도는 해결됐으나 생산 프로세스가 새 병목으로 부상",
+      "에셋 승인·품질 관리·배포 파이프라인이 스케일 크리에이티브의 핵심 제약",
+      "대규모 AI 크리에이티브 운영을 위한 워크플로우 혁신이 다음 과제"
+    ],
+    "tags": [
+      "creative-production",
+      "ai-content",
+      "workflow-optimization",
+      "scale-marketing",
+      "asset-management"
+    ],
+    "confidence": 0.62,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Marketing Dive"
+    ],
+    "one_line_insight_ko": "AI 크리에이티브 시대의 진짜 경쟁력은 생성 속도가 아니라 생산 워크플로우의 효율성에서 결정된다.",
+    "one_line_insight_en": "In the AI creative era, competitive advantage lies not in generation speed but in the efficiency of the production workflow that surrounds it.",
+    "ai_processed": true
+  },
+  {
+    "title": "Folklore Hires Colle McVoy President to Lead Agency Into the Future",
+    "link": "https://www.adweek.com/agencies/folklore-hires-colle-mcvoy-president-to-lead-agency-into-the-future/",
+    "date_published": "2026-09-21",
+    "description": "Obele Brown-West said her feedback is already being processed into agency change",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
+    "categories": [
+      "marketing"
     ],
     "relevance_score": 0.3,
     "relevance_label": "high",
-    "title_en": "Flock Attempts to Reduce Workforce Through Employee Buyouts Amid Financial Pressure",
-    "summary_ko": "AI 스타트업 Flock이 재정적 압박 속에서 직원 자발적 퇴직 패키지(바이아웃)를 통해 인력을 감축하려 시도하고 있다. 바이아웃이 성사되지 않을 경우 강제 해고가 거의 확실시된다는 보도가 나왔다. 구체적인 감축 규모나 원인에 대한 상세 정보는 원문에서 확인되지 않음.",
-    "summary_en": "AI startup Flock is reportedly attempting to reduce its workforce through voluntary employee buyout packages amid financial difficulties. According to reports, the company has warned that failing to achieve sufficient buyouts would make layoffs 'almost certain.' Specific details regarding the scale of reductions or underlying business causes are not confirmed in the source.",
-    "so_what_ko": "AI 스타트업의 인력 감축 동향은 AI 업계 전반의 지속가능성 리스크를 시사하며, LG D2C는 파트너 AI 벤더 선정 시 재무 안정성을 중요한 평가 기준으로 포함해야 한다.",
-    "so_what_en": "Workforce reductions at AI startups signal sustainability risks across the AI vendor landscape, and LG D2C should incorporate financial stability as a key criterion when evaluating AI vendor partnerships.",
+    "title_en": "Folklore Agency Hires Colle McVoy President Obele Brown-West to Lead Future-Focused Growth",
+    "summary_ko": "광고 에이전시 Folklore가 Colle McVoy의 전 사장 Obele Brown-West를 영입해 에이전시의 미래 방향을 이끌게 했다. Brown-West는 이미 자신의 피드백이 에이전시 변화에 반영되고 있다고 밝혔으며, 에이전시 업계의 리더십 재편 흐름을 보여준다. 이번 영입은 광고 에이전시들이 새로운 리더십을 통해 AI 시대에 맞는 조직 혁신을 추진하는 업계 트렌드를 반영한다.",
+    "summary_en": "Advertising agency Folklore has hired Obele Brown-West, formerly President of Colle McVoy, to lead the agency into its next phase of growth. Brown-West noted that her feedback is already being incorporated into agency-wide changes. The hire reflects a broader industry trend of agencies reshaping leadership to navigate the evolving demands of the AI era.",
+    "so_what_ko": "이 기사는 LG D2C의 AI 마케팅 전략과 직접적 연관성이 낮으나, 에이전시 업계의 리더십 재편이 파트너사 선택과 협력 방식에 간접적 영향을 미칠 수 있음을 인지할 필요가 있다.",
+    "so_what_en": "While not directly actionable for LG D2C, the reshaping of agency leadership signals shifting agency capabilities and priorities that may affect how LG selects and collaborates with creative partners.",
     "key_points": [
-      "Flock이 강제 해고 방지를 위해 자발적 바이아웃 패키지 시행 시도",
-      "바이아웃 미달 시 강제 해고 '거의 확실' 경고",
-      "세부 감축 규모 및 원인은 원문에서 확인되지 않음"
+      "Folklore, Colle McVoy 전 사장 Obele Brown-West 영입",
+      "에이전시 리더십 재편을 통한 미래 성장 방향 설정",
+      "광고 업계 전반의 리더십 변화 트렌드 반영"
     ],
     "tags": [
-      "ai-startup",
-      "workforce-reduction",
-      "buyout",
-      "ai-industry"
+      "agency-leadership",
+      "advertising-industry",
+      "talent-acquisition",
+      "agency-transformation"
     ],
-    "confidence": 0.5,
+    "confidence": 0.72,
     "strategic_theme": "COMPETITIVE_DYNAMICS",
     "regions": [
       "AMER"
@@ -137,62 +467,116 @@
     "business_impact": "LOW",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "Flock"
+      "Folklore",
+      "Colle McVoy",
+      "Obele Brown-West",
+      "Adweek"
     ],
-    "one_line_insight_ko": "AI 스타트업의 인력 감축 움직임은 AI 업계의 재무적 지속가능성 위기를 반영하며 벤더 리스크 관리의 중요성을 높인다.",
-    "one_line_insight_en": "Flock's workforce buyout attempt reflects growing financial sustainability pressures in the AI startup sector, underscoring the need for rigorous vendor risk assessment.",
+    "one_line_insight_ko": "에이전시 업계의 리더십 재편은 AI 시대 크리에이티브 파트너십의 역량 지형이 변화하고 있음을 시사한다.",
+    "one_line_insight_en": "Agency leadership reshuffles signal a shifting capability landscape for creative partnerships in the AI era.",
     "ai_processed": true
   },
   {
-    "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-    "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-    "date_published": "2026-09-19",
-    "description": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "title": "Paywall violation ‘eviscerates’ fair use defense: What OpenAI-NYT twist means for publishers",
+    "link": "https://digiday.com/media/paywall-violation-eviscerates-fair-use-defense-what-openai-nyt-twist-means-for-publishers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-09-21",
+    "description": "For publishers, the newly unsealed material doesn't just bolster their legal case; it validates years of frustration over how their work has been treated.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
     "categories": [
-      "tech",
+      "ai_marketing",
       "strategy"
     ],
-    "relevance_score": 0.25,
+    "relevance_score": 0.5,
     "relevance_label": "high",
-    "title_en": "Trump Proposes Rebranding AI and Announces Creation of an 'AI Force'",
-    "summary_ko": "트럼프 전 대통령이 AI라는 용어를 새로운 명칭으로 리브랜딩하자고 제안하고, 'AI 포스(AI Force)'라는 새로운 기관 창설을 발표했다. 트럼프는 AI에 대한 반발이 민주당의 정치적 조작이라고 근거 없이 주장한 것으로 보도되었다. 정책의 구체적 내용이나 실행 계획은 원문에서 확인되지 않음.",
-    "summary_en": "Former President Trump has proposed rebranding the term 'AI' with a new name and announced the creation of a new entity called the 'AI Force.' He also claimed, without providing evidence, that public backlash against AI is a Democratic political hoax. Specific policy details or implementation plans are not confirmed in the source.",
-    "so_what_ko": "미국의 AI 관련 정치적 환경 변화는 규제 불확실성을 높일 수 있으므로, LG D2C는 미국 시장에서의 AI 마케팅 및 컴플라이언스 전략을 유연하게 유지해야 한다.",
-    "so_what_en": "Politically driven shifts in the U.S. AI landscape may increase regulatory uncertainty, requiring LG D2C to maintain flexible AI marketing and compliance strategies for the American market.",
+    "title_en": "Paywall Bypass by OpenAI 'Eviscerates' Fair Use Defense in NYT Copyright Battle",
+    "summary_ko": "OpenAI가 뉴욕타임스의 페이월을 우회해 콘텐츠를 수집한 사실이 새롭게 공개된 자료를 통해 드러나며 공정 이용 방어 논리가 크게 약화됐다. 이번 사안은 언론사들이 AI 기업의 콘텐츠 무단 활용에 대해 수년간 품어온 불만을 법적으로 뒷받침하는 계기가 됐다. 출판사들은 이 사건을 통해 AI 학습 데이터 사용에 관한 업계 전반의 법적 기준이 재정립될 수 있다고 기대하고 있다.",
+    "summary_en": "Newly unsealed documents reveal that OpenAI bypassed the New York Times' paywall to collect content, significantly undermining its fair use defense. The development validates years of frustration among publishers over how their work has been used to train AI models without compensation. The case is seen as a potential turning point for establishing legal standards around AI training data usage across the industry.",
+    "so_what_ko": "LG D2C 조직이 생성형 AI 도구를 활용해 마케팅 콘텐츠를 제작할 경우, 학습 데이터의 저작권 이슈가 법적 리스크로 이어질 수 있으므로 AI 파트너사의 데이터 수집 관행을 사전에 점검해야 합니다.",
+    "so_what_en": "LG D2C teams using generative AI for content creation should proactively audit AI vendors' data sourcing practices, as training data copyright disputes may create downstream legal and reputational risks.",
     "key_points": [
-      "트럼프, AI 용어 리브랜딩 및 'AI Force' 창설 발표",
-      "AI 반발을 민주당 조작으로 주장(근거 미제시)",
-      "구체적 정책 내용 및 실행 계획은 원문에서 확인되지 않음"
+      "OpenAI allegedly bypassed NYT paywall to scrape content for AI training, weakening its fair use argument",
+      "Unsealed documents strengthen publishers' legal standing in ongoing copyright litigation",
+      "Case may set industry-wide precedent for how AI companies can legally use third-party content"
     ],
     "tags": [
-      "ai-policy",
-      "us-politics",
-      "ai-regulation",
-      "ai-branding"
+      "copyright-law",
+      "generative-ai",
+      "content-licensing",
+      "publisher-rights",
+      "openai"
     ],
-    "confidence": 0.5,
+    "confidence": 0.65,
     "strategic_theme": "COMPETITIVE_DYNAMICS",
     "regions": [
-      "AMER"
+      "AMER",
+      "GLOBAL"
     ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
+    "business_impact": "MEDIUM",
+    "sentiment": "THREAT",
     "key_entities": [
-      "Trump",
-      "AI Force"
+      "OpenAI",
+      "New York Times",
+      "Digiday"
     ],
-    "one_line_insight_ko": "미국의 AI 정치화는 규제 환경의 예측 불가능성을 높여 글로벌 D2C 기업의 미국 시장 AI 전략 수립을 복잡하게 만든다.",
-    "one_line_insight_en": "The politicization of AI in the U.S. adds regulatory unpredictability, complicating AI strategy planning for global D2C brands operating in the American market.",
+    "one_line_insight_ko": "AI 기업의 페이월 우회 콘텐츠 수집이 법적으로 문제화되면서, AI 학습 데이터의 저작권 리스크가 업계 전반의 현실적 과제로 부상하고 있다.",
+    "one_line_insight_en": "OpenAI's alleged paywall bypass exposes the entire AI industry to heightened copyright liability, signaling a new era of content licensing accountability.",
     "ai_processed": true
   },
   {
-    "title": "Google’s Gemini is the latest AI model to hack other companies",
-    "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-    "date_published": "2026-09-19",
-    "description": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+    "title": "Pinterest unveils new suite of ad tools, including Visual Search Ads, in its pitch to brands",
+    "link": "https://digiday.com/marketing/pinterest-unveils-new-suite-of-ad-tools-including-visual-search-ads-in-its-pitch-to-brands/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-09-21",
+    "description": "For brands, Pinterest executives said, the opportunity is huge. Pinterest’s user base is growing and, importantly for many companies, young.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "marketing",
+      "ai_marketing",
+      "commerce"
+    ],
+    "relevance_score": 0.78,
+    "relevance_label": "high",
+    "title_en": "Pinterest Launches Visual Search Ads and New Ad Tools to Attract Brands and Younger Audiences",
+    "summary_ko": "Pinterest가 비주얼 서치 광고를 포함한 새로운 광고 도구 패키지를 발표하며 브랜드 유치를 위한 본격적인 피칭에 나섰다. 플랫폼 측은 사용자 기반이 성장하고 있으며 특히 젊은 층의 비중이 높아지고 있다는 점을 주요 강점으로 내세웠다. 비주얼 서치 광고는 이미지 기반 검색 행동을 직접 구매 전환으로 연결하는 새로운 광고 형식으로, D2C 브랜드에 높은 잠재력을 가진다.",
+    "summary_en": "Pinterest unveiled a new suite of advertising tools, headlined by Visual Search Ads, as part of its strategic pitch to attract more brand advertisers. The platform highlighted its growing and increasingly younger user base as a key differentiator for companies seeking to reach next-generation consumers. Visual Search Ads aim to convert image-based discovery behavior directly into purchase intent, presenting a compelling opportunity for D2C brands.",
+    "so_what_ko": "LG D2C는 비주얼 서치 광고를 통해 제품 이미지 기반 검색에서 구매까지 이어지는 퍼널을 구축할 수 있으며, 젊은 소비자층과의 접점을 확대하는 채널 전략으로 Pinterest를 적극 검토할 필요가 있습니다.",
+    "so_what_en": "LG D2C should evaluate Pinterest's Visual Search Ads as a high-intent, discovery-to-purchase channel, particularly for visually-driven product categories targeting younger consumer segments.",
+    "key_points": [
+      "Pinterest launched Visual Search Ads, enabling brands to convert image-based searches into purchase actions",
+      "Platform's user base is growing, with a notably younger demographic that is attractive to brand advertisers",
+      "New ad tools signal Pinterest's push to compete more aggressively for D2C and brand advertising budgets"
+    ],
+    "tags": [
+      "visual-search",
+      "pinterest-ads",
+      "social-commerce",
+      "d2c-marketing",
+      "ad-tools"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL",
+      "AMER"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Pinterest",
+      "Visual Search Ads"
+    ],
+    "one_line_insight_ko": "Pinterest의 비주얼 서치 광고는 이미지 발견에서 즉각적 구매로 이어지는 새로운 D2C 퍼널을 제공하며, 젊은 소비자 공략에 효과적인 채널로 부상하고 있다.",
+    "one_line_insight_en": "Pinterest's Visual Search Ads create a direct discovery-to-purchase funnel that D2C brands can leverage to reach younger, high-intent shoppers through visual content.",
+    "ai_processed": true
+  },
+  {
+    "title": "Is the AI industry really ready to slow down?",
+    "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+    "date_published": "2026-09-20",
+    "description": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
     "source_id": "techcrunch_ai",
     "source_name": "TechCrunch AI",
     "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
@@ -202,493 +586,133 @@
     ],
     "relevance_score": 0.45,
     "relevance_label": "high",
-    "title_en": "Google's Gemini AI Model Successfully Hacks Other Companies in Security Research Tests",
-    "summary_ko": "구글의 Gemini AI 모델이 다른 기업들의 시스템을 해킹하는 데 성공했다는 보안 연구 결과가 보도되었다. 구글은 Gemini가 각 해킹 시도를 즉시 종료함으로써 '적절하게 행동'했다고 밝혔다. AI 모델의 공격적 사이버 능력이 실증된 사례로, AI 보안 리스크에 대한 업계 우려가 높아지고 있다.",
-    "summary_en": "Security research has revealed that Google's Gemini AI model was able to successfully hack into systems belonging to other companies. Google responded by stating that Gemini had 'acted appropriately' by terminating each hacking attempt immediately after execution. This incident highlights the emerging cybersecurity risks associated with increasingly capable AI models.",
-    "so_what_ko": "AI 모델의 사이버 공격 능력이 입증됨에 따라, LG D2C는 AI 기반 서비스 및 데이터 인프라에 대한 보안 취약점 점검과 AI 보안 거버넌스 강화를 시급히 검토해야 한다.",
-    "so_what_en": "With AI models demonstrating real offensive cyber capabilities, LG D2C must urgently review security vulnerabilities in its AI-powered services and data infrastructure, and strengthen AI security governance.",
+    "title_en": "Debate Grows Over Whether AI Industry Executives Are Serious About Slowing Down Development",
+    "summary_ko": "AI 업계 임원들이 개발 속도를 늦춰야 한다고 발언하고 있지만, 실제로 그 의지가 진지한지에 대한 논쟁이 업계 내에서 확산되고 있다. TechCrunch의 Equity 팟캐스트는 AI 경쟁의 구조적 특성상 어떤 기업도 단독으로 속도를 줄이기 어렵다는 점을 지적했다. 이 논쟁은 AI 기술의 안전성과 규제 필요성에 대한 사회적 관심이 높아지는 가운데 이루어지고 있다.",
+    "summary_en": "A growing debate has emerged around whether AI industry executives are genuinely committed to slowing down AI development, despite public statements suggesting so. The TechCrunch Equity podcast highlighted the structural competitive dynamics that make unilateral deceleration nearly impossible for any single company. This discussion unfolds amid increasing societal and regulatory scrutiny over AI safety and responsible deployment.",
+    "so_what_ko": "AI 개발 속도 논쟁은 LG D2C가 AI 도구 도입 시 안전성과 규제 리스크를 함께 고려해야 함을 시사하며, 빠른 AI 적용보다 책임 있는 거버넌스 체계 마련이 장기적으로 중요합니다.",
+    "so_what_en": "LG D2C should build responsible AI governance frameworks alongside rapid adoption, as industry-wide deceleration pressures signal increasing regulatory and reputational risks for AI-first strategies.",
     "key_points": [
-      "Google Gemini가 보안 연구 테스트에서 타사 시스템 해킹에 성공",
-      "구글은 Gemini가 해킹 후 즉시 종료하는 방식으로 '적절히 행동'했다고 주장",
-      "AI 모델의 공격적 사이버 능력 실증으로 AI 보안 리스크 현실화",
-      "AI 기반 사이버 위협에 대한 업계 전반의 경각심 고조"
+      "AI executives publicly advocate for slowing development, but structural competitive pressures make this unlikely",
+      "Debate reflects growing tension between AI safety rhetoric and commercial acceleration imperatives",
+      "Regulatory scrutiny is intensifying, making AI governance a strategic business priority"
     ],
     "tags": [
-      "ai-security",
-      "gemini",
-      "cybersecurity",
-      "ai-risk",
-      "google"
+      "ai-safety",
+      "ai-regulation",
+      "industry-dynamics",
+      "responsible-ai",
+      "ai-governance"
+    ],
+    "confidence": 0.55,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "TechCrunch",
+      "Equity Podcast"
+    ],
+    "one_line_insight_ko": "AI 개발 속도 둔화 논쟁은 수사에 그칠 가능성이 높으며, 기업들은 경쟁 압력 속에서도 AI 거버넌스 체계를 선제적으로 갖춰야 한다.",
+    "one_line_insight_en": "Despite public calls for slowdown, competitive dynamics will likely sustain AI acceleration, making proactive governance frameworks essential for responsible enterprise adoption.",
+    "ai_processed": true
+  },
+  {
+    "title": "[AINews] Reality Checks on AI News (Yegge shuts down Gas Town, Databricks’ +60% Astra cost)",
+    "link": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
+    "date_published": "2026-09-17",
+    "description": "A dash of cold water keeps the foomers away.",
+    "source_id": "latent_space",
+    "source_name": "Latent Space (The AI Index)",
+    "source_url": "https://www.latent.space/feed",
+    "categories": [
+      "tech",
+      "strategy"
+    ],
+    "relevance_score": 0.42,
+    "relevance_label": "high",
+    "title_en": "Reality Checks on AI Hype: Yegge Shuts Down Gas Town, Databricks Reports 60%+ Astra Cost Reduction",
+    "summary_ko": "AI 뉴스 큐레이션 뉴스레터 Latent Space가 AI 산업의 과대 선전에 냉정한 시각을 제공하는 '리얼리티 체크' 에디션을 발행했다. 주요 내용으로는 Steve Yegge의 Gas Town 프로젝트 종료와 Databricks의 Astra 비용 60% 이상 절감 사례가 포함됐다. 이 에디션은 AI 과대 기대와 실제 현실 사이의 간극을 지적하며 균형 잡힌 AI 투자 판단을 촉구하고 있다.",
+    "summary_en": "The Latent Space AI newsletter published a 'reality check' edition offering a sobering perspective on AI industry hype, challenging overly optimistic narratives. Key items include Steve Yegge shutting down the Gas Town project and Databricks reporting over 60% cost reduction for its Astra infrastructure. The edition underscores the gap between AI expectations and operational realities, urging more grounded investment decisions.",
+    "so_what_ko": "LG D2C의 AI 투자 의사결정 시 과대 선전에 휩쓸리지 않고, 실제 비용 절감 사례(예: Databricks Astra)와 실패 사례를 균형 있게 분석해 ROI 기반의 선별적 도입 전략이 필요합니다.",
+    "so_what_en": "LG D2C's AI investment decisions should be grounded in verified cost-benefit evidence rather than hype cycles, leveraging real-world cases like Databricks' Astra cost reductions to guide selective adoption.",
+    "key_points": [
+      "Steve Yegge shut down the Gas Town AI project, illustrating real-world limitations of hyped AI initiatives",
+      "Databricks reported 60%+ cost reduction on Astra, showing tangible infrastructure efficiency gains are achievable",
+      "Newsletter advocates for balanced, evidence-based evaluation of AI news amid widespread industry hype"
+    ],
+    "tags": [
+      "ai-hype",
+      "databricks",
+      "ai-infrastructure",
+      "cost-reduction",
+      "reality-check"
     ],
     "confidence": 0.6,
     "strategic_theme": "EMERGING_TECH",
     "regions": [
       "GLOBAL"
     ],
-    "business_impact": "MEDIUM",
-    "sentiment": "THREAT",
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
     "key_entities": [
-      "Google",
-      "Gemini"
+      "Databricks",
+      "Latent Space",
+      "Steve Yegge",
+      "Gas Town",
+      "Astra"
     ],
-    "one_line_insight_ko": "Gemini의 자율적 해킹 성공 사례는 AI 모델이 사이버 위협의 새로운 벡터로 부상했음을 의미하며, D2C 기업의 AI 보안 전략 강화가 시급하다.",
-    "one_line_insight_en": "Gemini's successful autonomous hacking signals that AI models are emerging as a new cyber threat vector, making robust AI security strategies a critical priority for D2C organizations.",
+    "one_line_insight_ko": "AI 산업의 과대 선전 속에서 실제 비용 절감 사례와 프로젝트 실패를 균형 있게 바라보는 것이 성숙한 AI 투자 전략의 핵심이다.",
+    "one_line_insight_en": "Separating AI hype from operational reality—using evidence like Databricks' cost reductions and high-profile project shutdowns—is essential for mature, ROI-driven AI investment.",
     "ai_processed": true
   },
   {
-    "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-    "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-    "date_published": "2026-09-19",
-    "description": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "title": "What Does an AI Harness Have To Do With Growing Business?",
+    "link": "https://www.salesforce.com/blog/small-business/ai-harness-explained-for-smbs/",
+    "date_published": "2026-09-17",
+    "description": "An AI harness sounds technical, but it's really just managing your agents.",
+    "source_id": "salesforce_agentforce",
+    "source_name": "Salesforce Agentforce Blog",
+    "source_url": "https://www.salesforce.com/blog/category/ai/feed/",
     "categories": [
+      "agentic_commerce",
       "commerce",
       "tech"
     ],
-    "relevance_score": 0.6,
+    "relevance_score": 0.85,
     "relevance_label": "high",
-    "title_en": "Petlibro's Granary 2 AI-Powered Feeder Brings Personalized Nutrition Tracking to Multi-Cat Homes",
-    "summary_ko": "Petlibro의 신제품 Granary 2 스마트 급식기는 내장 저울과 AI 카메라를 활용해 고양이별 식사량과 시간을 정밀 추적한다. 고급 건강 모니터링 기능은 별도 구독 서비스로 제공되며, 다묘 가정을 주요 타깃으로 한다. 이는 AI 기반 개인화 기능을 구독 수익 모델과 결합한 소비자 IoT 제품의 대표적 사례다.",
-    "summary_en": "Petlibro's new Granary 2 smart feeders use a built-in scale and, on premium models, an AI camera to track individual cat feeding behavior with precision. The most advanced health-monitoring features are gated behind an additional subscription, targeting multi-cat households as a key segment. This product exemplifies the growing trend of AI-enhanced consumer hardware bundled with recurring revenue models.",
-    "so_what_ko": "AI 카메라·센서 기반 개인화 기능을 구독 모델로 monetize하는 전략은 LG의 스마트홈 가전에도 적용 가능하며, D2C 채널에서 하드웨어+서비스 번들 수익 구조를 검토할 필요가 있다.",
-    "so_what_en": "LG D2C can draw lessons from Petlibro's hardware-plus-subscription model, exploring how AI-driven personalization features on smart appliances could be tiered and monetized through recurring service plans.",
+    "title_en": "Salesforce Explains AI Harness for SMBs: A Practical Framework for Managing AI Agents",
+    "summary_ko": "Salesforce Agentforce 블로그가 'AI 하네스(AI Harness)' 개념을 소개하며, 이를 중소기업이 AI 에이전트를 효과적으로 관리하고 비즈니스 성장에 연결하는 실용적 프레임워크로 설명했다. AI 하네스는 복수의 AI 에이전트를 조율하고 제어하는 구조로, 기술적 복잡성을 줄이면서 에이전트 기반 자동화를 가능하게 한다. Salesforce는 이 개념이 소규모 기업도 엔터프라이즈 수준의 AI 역량을 갖출 수 있는 열쇠라고 주장한다.",
+    "summary_en": "Salesforce's Agentforce Blog introduced the concept of an 'AI harness' as a practical framework for small and medium-sized businesses to manage AI agents and connect them to business growth outcomes. Described as an orchestration layer for multiple AI agents, the AI harness reduces technical complexity while enabling agent-based automation at scale. Salesforce positions this framework as a way for SMBs to access enterprise-grade AI capabilities without deep technical expertise.",
+    "so_what_ko": "LG D2C는 AI 하네스 개념을 참고해 복수의 AI 에이전트(마케팅, 고객서비스, 재고관리 등)를 통합 조율하는 에이전틱 커머스 아키텍처를 설계함으로써 운영 효율과 고객 경험을 동시에 개선할 수 있습니다.",
+    "so_what_en": "LG D2C can adopt the AI harness framework to orchestrate multiple AI agents across marketing, customer service, and inventory functions, enabling scalable agentic commerce without increasing operational complexity.",
     "key_points": [
-      "Granary 2 uses built-in scale and AI camera to track per-cat food intake and timing",
-      "Premium health-monitoring features require an additional subscription, creating recurring revenue",
-      "Product is specifically designed for the multi-cat household segment, demonstrating niche AI personalization"
+      "Salesforce defines 'AI harness' as an orchestration layer for managing and coordinating multiple AI agents",
+      "Framework is designed to make agentic AI accessible to SMBs without requiring deep technical expertise",
+      "Positions Agentforce as the platform connecting AI agent management to measurable business growth"
     ],
     "tags": [
-      "ai-hardware",
-      "smart-home",
-      "subscription-model",
-      "consumer-iot",
-      "ai-personalization"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_PERSONALIZATION",
-    "regions": [
-      "GLOBAL",
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Petlibro",
-      "Granary 2"
-    ],
-    "one_line_insight_ko": "AI 기반 개인화 하드웨어에 구독 모델을 결합하는 전략은 스마트 가전 D2C 비즈니스의 새로운 수익 공식으로 주목받고 있다.",
-    "one_line_insight_en": "Petlibro's AI feeder demonstrates how tiered subscription monetization of smart hardware personalization features is becoming a replicable D2C revenue model.",
-    "ai_processed": true
-  },
-  {
-    "title": "AI safety conversations have gotten unbelievable",
-    "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-    "date_published": "2026-09-19",
-    "description": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "categories": [
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.4,
-    "relevance_label": "high",
-    "title_en": "Viral AI Safety Conversations Highlight Growing Difficulty of Distinguishing AI Fact from Fiction",
-    "summary_ko": "이번 주 AI 안전성과 관련된 두 건의 대화가 소셜미디어에서 화제가 되며 AI 사실과 허구를 구별하는 것이 얼마나 어려운지를 여실히 보여줬다. 해당 사례들은 AI 정보의 신뢰성과 공중 인식 사이의 간극을 드러내는 중요한 신호로 해석된다. AI 안전 담론이 점점 더 복잡하고 불확실해지는 환경에서 기업과 소비자 모두 비판적 리터러시가 필요해지고 있다.",
-    "summary_en": "Two AI safety-related conversations went viral this week, illustrating the increasing difficulty of separating AI fact from fiction in public discourse. The incidents highlight a growing credibility gap between actual AI capabilities and public perception. As AI safety narratives become more complex, both businesses and consumers face heightened challenges in evaluating AI-related information critically.",
-    "so_what_ko": "AI 관련 허위 정보와 과장된 안전 담론이 소비자 신뢰에 영향을 미칠 수 있으므로, LG D2C는 AI 기능에 대한 투명하고 검증 가능한 커뮤니케이션 전략을 강화해야 한다.",
-    "so_what_en": "LG D2C should proactively build transparent and verifiable AI communication strategies to maintain consumer trust as public skepticism around AI safety claims intensifies.",
-    "key_points": [
-      "Two AI safety conversations went viral, exposing confusion between AI fact and fiction",
-      "Public discourse on AI safety is becoming increasingly difficult to navigate accurately",
-      "The trend signals rising risk of misinformation shaping consumer and regulatory attitudes toward AI"
-    ],
-    "tags": [
-      "ai-safety",
-      "misinformation",
-      "public-perception",
-      "ai-trust"
-    ],
-    "confidence": 0.5,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [],
-    "one_line_insight_ko": "AI 안전 담론의 혼란이 심화되면서 소비자 신뢰 확보를 위한 기업의 투명한 AI 커뮤니케이션이 경쟁 우위 요소로 부상하고 있다.",
-    "one_line_insight_en": "As AI safety misinformation proliferates, brands that communicate AI capabilities transparently and verifiably will gain a critical trust advantage.",
-    "ai_processed": true
-  },
-  {
-    "title": "Axios preps new Axios Direct feeds for AI models, agents as revenue tops 2026 goal",
-    "link": "https://digiday.com/media/axios-preps-new-axios-direct-feeds-for-ai-models-agents-as-revenue-tops-2026-goal/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-09-18",
-    "description": "Axios has reached its revenue goal for 2026. Now the news publisher is building a new revenue stream to keep up the pace in 2027 and beyond.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
-    "categories": [
-      "commerce",
-      "ai_marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.78,
-    "relevance_label": "high",
-    "title_en": "Axios Develops Direct Data Feeds for AI Models and Agents as 2026 Revenue Goal Is Surpassed",
-    "summary_ko": "Axios는 2026년 매출 목표를 조기 달성한 후, AI 모델과 에이전트를 위한 전용 데이터 피드 'Axios Direct'를 새로운 수익원으로 준비 중이다. 이는 뉴스 퍼블리셔가 AI 시대에 콘텐츠를 단순 라이선싱이 아닌 구조화된 데이터 공급 형태로 수익화하는 전략적 전환을 보여준다. 2027년 이후 성장 동력을 AI 에이전트 생태계와의 연계에서 찾는 미디어 업계의 주요 트렌드를 반영한다.",
-    "summary_en": "Having surpassed its 2026 revenue goal, Axios is now preparing a new product called Axios Direct—structured data feeds designed specifically for AI models and agents. This represents a strategic pivot for the publisher, moving beyond traditional content licensing toward serving the emerging AI agent ecosystem as a monetizable audience. The move signals a broader media industry trend of positioning structured news content as infrastructure for AI-driven platforms.",
-    "so_what_ko": "AI 에이전트가 정보 소비의 주요 주체로 부상함에 따라, LG D2C는 제품·브랜드 정보를 AI 에이전트가 활용하기 쉬운 구조화된 데이터 형태로 준비하는 전략을 선제적으로 수립해야 한다.",
-    "so_what_en": "As AI agents become primary information consumers, LG D2C should proactively structure product and brand data to be easily discoverable and consumable by AI models and autonomous shopping agents.",
-    "key_points": [
-      "Axios surpassed its 2026 revenue target and is building 'Axios Direct' feeds for AI models and agents",
-      "The product represents a shift from human-facing content to machine-readable structured data as a revenue stream",
-      "This signals that AI agents are becoming a distinct and monetizable audience segment for content publishers"
-    ],
-    "tags": [
-      "agentic-commerce",
       "ai-agents",
-      "content-monetization",
-      "media-strategy",
-      "structured-data"
-    ],
-    "confidence": 0.75,
-    "strategic_theme": "PLATFORM_ECOSYSTEM",
-    "regions": [
-      "GLOBAL",
-      "AMER"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Axios",
-      "Axios Direct"
-    ],
-    "one_line_insight_ko": "AI 에이전트가 새로운 정보 소비 주체로 부상하면서, 구조화된 데이터 피드가 미디어와 브랜드 모두의 핵심 수익 인프라로 자리잡고 있다.",
-    "one_line_insight_en": "AI agents are emerging as a distinct audience that demands structured data feeds, reshaping how both publishers and brands must package and distribute their information assets.",
-    "ai_processed": true
-  },
-  {
-    "title": "Introducing the Australian Youth Safety Blueprint",
-    "link": "https://openai.com/index/australian-youth-safety-blueprint",
-    "date_published": "2026-09-18",
-    "description": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-    "source_id": "openai_blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
-    "categories": [
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.35,
-    "relevance_label": "high",
-    "title_en": "OpenAI Launches Australian Youth Safety Blueprint with Six-Pillar AI Protection Framework",
-    "summary_ko": "OpenAI는 청소년을 보호하고 역량을 강화하기 위한 6대 원칙 기반의 '호주 청소년 안전 청사진'을 발표했다. 이는 AI 기업이 특정 국가의 규제 및 사회적 요구에 맞춰 안전 프레임워크를 선제적으로 제시하는 전략적 움직임이다. 청소년 대상 AI 안전 기준이 글로벌 규제 논의의 중요한 의제로 부상하고 있음을 보여준다.",
-    "summary_en": "OpenAI has introduced the Australian Youth Safety Blueprint, a six-pillar roadmap aimed at creating safer AI experiences that both protect and empower young people. The initiative reflects a proactive regulatory strategy by OpenAI to align with specific national concerns around youth and AI. It signals that youth-focused AI safety frameworks are becoming a significant pillar in global AI governance discussions.",
-    "so_what_ko": "AI 기반 서비스를 확장하는 LG D2C는 주요 시장별 청소년 보호 규제 동향을 모니터링하고, 제품 및 마케팅에 안전 설계 원칙을 선제적으로 내재화해야 한다.",
-    "so_what_en": "LG D2C expanding AI-enabled services should monitor youth safety regulatory trends across key markets and proactively embed safety-by-design principles into product development and marketing practices.",
-    "key_points": [
-      "OpenAI released a six-pillar Australian Youth Safety Blueprint for safer AI experiences",
-      "The blueprint is tailored to Australian regulatory and societal concerns, showing market-specific compliance strategy",
-      "Youth AI safety is becoming a central theme in national and global AI governance frameworks"
-    ],
-    "tags": [
-      "ai-safety",
-      "youth-protection",
-      "openai",
-      "ai-regulation",
-      "australia"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "APAC"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "OpenAI",
-      "Australian Youth Safety Blueprint"
-    ],
-    "one_line_insight_ko": "OpenAI의 국가별 맞춤형 청소년 안전 프레임워크 발표는 AI 규제 대응이 글로벌 사업 확장의 필수 역량임을 시사한다.",
-    "one_line_insight_en": "OpenAI's market-specific youth safety blueprint signals that proactive regulatory alignment is becoming a core competency for AI-driven global business expansion.",
-    "ai_processed": true
-  },
-  {
-    "title": "[AINews] not much happened today",
-    "link": "https://www.latent.space/p/ainews-not-much-happened-today-612",
-    "date_published": "2026-09-18",
-    "description": "a quiet day",
-    "source_id": "latent_space",
-    "source_name": "Latent Space (The AI Index)",
-    "source_url": "https://www.latent.space/feed",
-    "categories": [
-      "tech"
-    ],
-    "relevance_score": 0.1,
-    "relevance_label": "high",
-    "title_en": "AI News Digest: A Quiet Day with Minimal Developments in the AI Space",
-    "summary_ko": "해당 뉴스레터는 특별한 AI 관련 주요 사건이 없는 조용한 하루를 간략히 요약한 내용이다. 실질적인 기술적·비즈니스적 정보가 포함되어 있지 않아 전략적 인사이트 도출에 한계가 있다. AI 뉴스 흐름의 간헐적 공백을 보여주는 메타적 사례로만 참고 가능하다.",
-    "summary_en": "This newsletter entry briefly notes that no significant AI developments occurred on the day of publication. The content lacks substantive technical or business information, making strategic insight extraction very limited. It serves only as a meta-reference illustrating the intermittent nature of AI news cycles.",
-    "so_what_ko": "전략적 시사점 도출에 충분한 정보가 포함되어 있지 않아 D2C 관점의 활용 가치가 낮다.",
-    "so_what_en": "This article contains insufficient information to generate meaningful D2C strategic implications and should be deprioritized in trend monitoring workflows.",
-    "key_points": [
-      "No significant AI events or announcements were reported on this date",
-      "Content depth is minimal, limiting analytical value",
-      "Flagged as low relevance for AI marketing or agentic commerce tracking"
-    ],
-    "tags": [
-      "ai-news",
-      "daily-digest"
-    ],
-    "confidence": 0.5,
-    "strategic_theme": "EMERGING_TECH",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Latent Space"
-    ],
-    "one_line_insight_ko": "전략적으로 활용 가능한 내용이 없는 기사로, AI 트렌드 모니터링 우선순위에서 제외하는 것이 적절하다.",
-    "one_line_insight_en": "This entry contains no actionable intelligence and should be filtered out of strategic AI trend monitoring pipelines.",
-    "ai_processed": true
-  },
-  {
-    "title": "Enterprise AI is becoming an operations problem",
-    "link": "https://aibusiness.com/generative-ai/enterprise-ai-is-becoming-operations-problem",
-    "date_published": "2026-09-18",
-    "description": "As AI gets more capable, enterprises are running into a different set of problems: managing models, data, permissions and governance.",
-    "source_id": "ai_business",
-    "source_name": "AI Business",
-    "source_url": "https://aibusiness.com/rss.xml",
-    "categories": [
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.55,
-    "relevance_label": "high",
-    "title_en": "Enterprise AI Shifts From Capability Problem to Operations Problem",
-    "summary_ko": "기업들이 AI 도입을 확대하면서 모델 성능보다 모델 관리, 데이터 거버넌스, 권한 제어 등 운영 문제가 핵심 과제로 부상하고 있다. AI 역량이 고도화될수록 이를 안정적으로 운영하고 통제하는 체계 구축이 기업 경쟁력을 좌우하는 요소가 되고 있다. 이는 AI 전략이 기술 도입에서 운영 성숙도 강화로 전환되고 있음을 의미한다.",
-    "summary_en": "As AI capabilities advance, enterprises are increasingly confronting operational challenges around model management, data governance, and permission controls rather than technical limitations. The shift signals that AI strategy is maturing beyond initial deployment into sustained, governed operations. Organizations that fail to build robust AI ops infrastructure risk losing control over their AI investments.",
-    "so_what_ko": "LG D2C 조직도 AI 마케팅 및 커머스 도구 확장 시, 모델 거버넌스·데이터 권한 관리 체계를 사전에 구축해야 운영 리스크를 방지할 수 있다.",
-    "so_what_en": "As LG D2C scales AI marketing and commerce tools, investing in AI governance frameworks and operational controls early will prevent costly management failures down the line.",
-    "key_points": [
-      "AI 운영 문제(모델 관리, 데이터, 권한, 거버넌스)가 기술 문제를 대체하는 핵심 도전으로 부상",
-      "기업 AI 전략이 도입(deployment) 단계에서 운영 성숙도(operational maturity) 단계로 이동 중",
-      "AI 운영 인프라 부재는 AI 투자 효과를 저해하는 주요 리스크 요인"
-    ],
-    "tags": [
-      "ai-governance",
-      "enterprise-ai",
-      "ai-operations",
-      "data-management"
-    ],
-    "confidence": 0.65,
-    "strategic_theme": "DATA_STRATEGY",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "AI Business"
-    ],
-    "one_line_insight_ko": "기업 AI의 다음 전쟁터는 기술 역량이 아닌 거버넌스·운영 체계다.",
-    "one_line_insight_en": "The next frontier of enterprise AI is not capability, but governance and operational discipline.",
-    "ai_processed": true
-  },
-  {
-    "title": "Stripe’s wallet embraces AI bots",
-    "link": "https://www.paymentsdive.com/news/stripes-digital-wallet-paypal-embraces-ai-bots-agentic-commerce/830753/",
-    "date_published": "2026-09-18",
-    "description": "The payments giant has recently integrated its Link digital wallet for consumers with personal AI agents from Meta, xAI and other AI players.",
-    "source_id": "payments_dive",
-    "source_name": "Payments Dive",
-    "source_url": "https://www.paymentsdive.com/feeds/news/",
-    "categories": [
-      "commerce",
-      "agentic_commerce"
-    ],
-    "relevance_score": 0.95,
-    "relevance_label": "high",
-    "title_en": "Stripe's Link Wallet Integrates with AI Agents from Meta, xAI and Others to Enable Agentic Commerce",
-    "summary_ko": "결제 기업 Stripe가 자사 Link 디지털 지갑을 Meta, xAI 등의 개인 AI 에이전트와 통합하며 에이전틱 커머스 생태계를 본격 구축하고 있다. 이 통합은 AI 에이전트가 소비자를 대신해 결제까지 완료할 수 있는 자율 쇼핑 흐름을 가능하게 한다. Stripe의 움직임은 결제 인프라가 AI 에이전트 시대의 핵심 연결고리로 진화하고 있음을 보여준다.",
-    "summary_en": "Stripe has integrated its Link digital wallet with personal AI agents from Meta, xAI, and other AI platforms, positioning itself at the center of the emerging agentic commerce ecosystem. This integration enables AI agents to complete purchases on behalf of consumers, creating a seamless autonomous shopping flow. The move underscores how payment infrastructure is evolving into a critical enabler of agent-driven transactions.",
-    "so_what_ko": "AI 에이전트가 결제까지 자율 수행하는 시대가 열리면서, LG D2C는 에이전트 친화적 결제 및 구매 경험을 설계해 자사 채널 내 에이전틱 커머스 대응력을 강화해야 한다.",
-    "so_what_en": "With AI agents now capable of completing purchases autonomously, LG D2C must design agent-friendly checkout and payment experiences to stay competitive in the agentic commerce era.",
-    "key_points": [
-      "Stripe Link 지갑이 Meta, xAI 등 AI 에이전트와 직접 통합되어 자율 결제 지원",
-      "에이전틱 커머스에서 결제 인프라가 핵심 경쟁 요소로 부상",
-      "소비자 개인 AI 에이전트가 쇼핑 의사결정과 결제를 대리 수행하는 구조로 전환 가속화"
-    ],
-    "tags": [
       "agentic-commerce",
-      "ai-payments",
-      "digital-wallet",
-      "ai-agents",
-      "stripe"
+      "salesforce-agentforce",
+      "smb-ai",
+      "ai-orchestration"
     ],
-    "confidence": 0.85,
+    "confidence": 0.78,
     "strategic_theme": "AI_AGENT",
     "regions": [
-      "GLOBAL",
-      "AMER"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Stripe",
-      "Meta",
-      "xAI",
-      "Link"
-    ],
-    "one_line_insight_ko": "Stripe의 AI 에이전트 결제 통합은 '에이전트가 구매까지 완료하는' 커머스 패러다임 전환의 신호탄이다.",
-    "one_line_insight_en": "Stripe's AI agent wallet integration signals a paradigm shift where autonomous agents complete the entire purchase journey on behalf of consumers.",
-    "ai_processed": true
-  },
-  {
-    "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
-    "link": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
-    "date_published": "2026-09-17",
-    "description": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into purchases.",
-    "source_id": "techcrunch_commerce",
-    "source_name": "TechCrunch Commerce",
-    "source_url": "https://techcrunch.com/category/commerce/feed",
-    "categories": [
-      "commerce",
-      "ai_marketing"
-    ],
-    "relevance_score": 0.88,
-    "relevance_label": "high",
-    "title_en": "Pinterest Tests 'Restyle' AI Feature to Visualize Room Redesigns and Drive Purchases",
-    "summary_ko": "Pinterest가 사용자가 자신의 방 사진에 가구, 조명, 인테리어 등을 AI로 시각화할 수 있는 'Restyle' 기능을 테스트 중이다. 이 기능은 핀으로 저장한 영감을 실제 구매로 전환하는 브리지 역할을 목표로 하며, 비주얼 탐색에서 구매까지의 경로를 단축시킨다. AI 기반 시각적 상품 체험이 D2C 전환율을 높이는 핵심 도구로 자리잡고 있음을 보여준다.",
-    "summary_en": "Pinterest is testing 'Restyle,' an AI-powered feature that allows users to visualize how furniture, decor, and lighting would look in photos of their actual rooms. The feature aims to bridge the gap between saved inspiration and real purchases by enabling immersive, personalized product visualization. It represents a significant step in leveraging AI to shorten the path from discovery to conversion in visual commerce.",
-    "so_what_ko": "LG 가전 제품군(TV, 냉장고 등)도 AI 기반 룸 시각화 기능을 자사 D2C 채널에 도입해 탐색에서 구매까지의 전환 경로를 단축하는 전략을 검토할 필요가 있다.",
-    "so_what_en": "LG D2C should explore integrating AI-powered room visualization for home appliances into its own channels to shorten the discovery-to-purchase funnel and boost conversion rates.",
-    "key_points": [
-      "Pinterest Restyle: 실제 방 사진에 가구·인테리어를 AI로 합성해 구매 전 시각적 체험 제공",
-      "영감 저장(핀)에서 실구매까지의 전환율 제고가 핵심 목표",
-      "비주얼 AI 커머스가 홈 카테고리에서 강력한 전환 도구로 부상"
-    ],
-    "tags": [
-      "visual-ai",
-      "ai-commerce",
-      "room-visualization",
-      "pinterest",
-      "d2c-conversion"
-    ],
-    "confidence": 0.82,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
       "GLOBAL"
     ],
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Pinterest",
-      "Restyle"
+      "Salesforce",
+      "Agentforce",
+      "AI Harness"
     ],
-    "one_line_insight_ko": "AI 룸 시각화는 홈 카테고리 D2C의 탐색-구매 전환율을 혁신할 수 있는 핵심 기술이다.",
-    "one_line_insight_en": "AI-powered room visualization is emerging as a critical conversion tool for home-category D2C brands bridging inspiration and purchase.",
-    "ai_processed": true
-  },
-  {
-    "title": "How Cooley is accelerating IPO work with ChatGPT",
-    "link": "https://openai.com/index/cooley-gopublic",
-    "date_published": "2026-09-17",
-    "description": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
-    "source_id": "openai_blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
-    "categories": [
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.38,
-    "relevance_label": "high",
-    "title_en": "Law Firm Cooley Builds AI-Powered IPO Platform 'GO Public' Using ChatGPT",
-    "summary_ko": "글로벌 로펌 Cooley가 ChatGPT를 활용해 IPO 프로세스를 지원하는 AI 플랫폼 'GO Public'을 구축했다. 이 플랫폼은 변호사들이 이슈를 조기에 발견하고 핵심 판단에 집중할 수 있도록 인텔리전스를 제공한다. 법률 분야의 전문 AI 도구 도입이 복잡한 기업 업무의 효율화 사례로 주목받고 있다.",
-    "summary_en": "Law firm Cooley has developed 'GO Public,' an AI-powered platform built with ChatGPT designed to streamline the IPO process for lawyers. The tool helps legal professionals surface potential issues earlier and concentrate their expertise on high-judgment decisions. This case illustrates how specialized AI applications are transforming complex professional workflows in the legal sector.",
-    "so_what_ko": "법률·금융 등 전문 도메인에서도 AI 도구가 실무에 깊이 통합되는 추세는 LG D2C의 AI 활용 범위 확장(계약, 규정 준수 등)을 검토하는 데 참고할 수 있다.",
-    "so_what_en": "The rapid AI adoption in specialized professional domains like law offers LG D2C a reference point for expanding AI use cases into areas such as contract review, compliance, and regulatory workflows.",
-    "key_points": [
-      "Cooley가 ChatGPT 기반 IPO 전용 AI 플랫폼 'GO Public' 구축 및 운영",
-      "AI가 이슈 조기 발견과 변호사의 고판단 업무 집중을 지원",
-      "법률 전문 영역에서도 AI 도구의 실무 통합이 본격화"
-    ],
-    "tags": [
-      "chatgpt",
-      "legal-ai",
-      "enterprise-ai",
-      "workflow-automation"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "EMERGING_TECH",
-    "regions": [
-      "GLOBAL",
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Cooley",
-      "ChatGPT",
-      "OpenAI",
-      "GO Public"
-    ],
-    "one_line_insight_ko": "법률 전문 AI 플랫폼의 등장은 모든 산업에서 도메인 특화 AI 도구가 표준이 되는 시대를 예고한다.",
-    "one_line_insight_en": "Cooley's domain-specific AI platform signals that every professional industry is moving toward tailored AI tools embedded in core workflows.",
-    "ai_processed": true
-  },
-  {
-    "title": "Introducing Astra for Law",
-    "link": "https://openai.com/index/astra-for-law",
-    "date_published": "2026-09-17",
-    "description": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
-    "source_id": "openai_blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
-    "categories": [
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.4,
-    "relevance_label": "high",
-    "title_en": "OpenAI Launches 'Astra for Law' with Custom Workflows and Legal-Grade Data Controls",
-    "summary_ko": "OpenAI가 법률 업계를 위한 전용 AI 플랫폼 'Astra for Law'를 출시하며 최전선 AI 인텔리전스, 맞춤형 법무 워크플로우, 연결된 법률 데이터 소스, 기밀 보호 수준의 보안 제어를 제공한다. 이는 OpenAI가 범용 AI를 넘어 전문 산업별 특화 솔루션으로 사업을 확장하는 전략적 행보다. 법률 데이터 연계와 기밀 보안 요건을 갖춘 엔터프라이즈급 AI 서비스 시장이 본격 개화하고 있다.",
-    "summary_en": "OpenAI has introduced 'Astra for Law,' a dedicated AI platform for the legal industry offering frontier AI intelligence, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work. The launch marks OpenAI's strategic expansion beyond general-purpose AI into vertical-specific enterprise solutions. It highlights the growing market for industry-tailored AI platforms that meet the stringent security and data requirements of professional services.",
-    "so_what_ko": "OpenAI의 버티컬 AI 플랫폼 전략은 LG D2C가 커머스·마케팅 특화 AI 도구를 도입할 때 범용 솔루션보다 도메인 특화 플랫폼을 우선 검토해야 함을 시사한다.",
-    "so_what_en": "OpenAI's vertical AI strategy suggests that LG D2C should prioritize domain-specific AI platforms over general-purpose solutions when selecting tools for commerce and marketing use cases.",
-    "key_points": [
-      "OpenAI, 법률 전용 AI 플랫폼 'Astra for Law' 출시로 버티컬 AI 시장 진입 본격화",
-      "맞춤형 법무 워크플로우, 법률 데이터 연동, 기밀 보안 제어 등 전문 요건 충족",
-      "범용 AI에서 산업별 특화 엔터프라이즈 AI로의 시장 분화 가속화"
-    ],
-    "tags": [
-      "openai",
-      "vertical-ai",
-      "enterprise-ai",
-      "legal-tech"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "PLATFORM_ECOSYSTEM",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "OpenAI",
-      "Astra for Law"
-    ],
-    "one_line_insight_ko": "OpenAI의 법률 특화 AI 출시는 범용 AI 시대가 끝나고 버티컬 AI 플랫폼 경쟁이 시작됐음을 알리는 신호다.",
-    "one_line_insight_en": "OpenAI's vertical AI push signals the end of the one-size-fits-all AI era and the beginning of domain-specific platform competition.",
+    "one_line_insight_ko": "AI 하네스는 복수의 AI 에이전트를 통합 관리하는 실용적 프레임워크로, D2C 기업이 에이전틱 커머스를 체계적으로 구현하는 데 핵심 아키텍처가 될 수 있다.",
+    "one_line_insight_en": "The AI harness framework offers D2C organizations a practical orchestration model for deploying multiple AI agents cohesively, making agentic commerce scalable and operationally manageable.",
     "ai_processed": true
   }
 ]
