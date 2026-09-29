@@ -1,9 +1,9 @@
 [
   {
-    "title": "Black Friday 2026 ready: The infrastructure and compliance checklist retailers can’t afford to skip",
-    "link": "https://www.retaildive.com/spons/black-friday-2026-ready-the-infrastructure-and-compliance-checklist-retail/831107/",
-    "date_published": "2026-09-28",
-    "description": "Large databases are vulnerable to tough new barriers targeting high numbers of consumer complaints and large unsubscribe rates.",
+    "title": "Retailers, consumers both on edge as the holidays approach",
+    "link": "https://www.retaildive.com/news/retailers-consumers-upcoming-holiday-season-what-to-expect/831003/",
+    "date_published": "2026-09-29",
+    "description": "Shoppers will find lean inventories this season as they scour stores for the right items at the right price — and the hunt has already begun.",
     "source_id": "retail_dive",
     "source_name": "Retail Dive",
     "source_url": "https://www.retaildive.com/feeds/news/",
@@ -11,29 +11,27 @@
       "commerce",
       "strategy"
     ],
-    "relevance_score": 0.5,
+    "relevance_score": 0.45,
     "relevance_label": "high",
-    "title_en": "Black Friday 2026 Readiness: The Infrastructure and Compliance Checklist Retailers Can't Afford to Skip",
-    "summary_ko": "2026년 블랙프라이데이를 앞두고 소매업체들은 인프라 및 컴플라이언스 준비에 집중해야 한다. 대규모 데이터베이스는 소비자 불만 급증 및 높은 구독 취소율을 타깃으로 하는 강력한 새 규제 장벽에 취약한 상황이다. 소매업체들은 이러한 리스크를 사전에 점검하고 대비책을 마련해야 한다.",
-    "summary_en": "Retailers preparing for Black Friday 2026 must prioritize infrastructure resilience and regulatory compliance. Large consumer databases are increasingly exposed to stringent new barriers triggered by high complaint volumes and elevated unsubscribe rates. A proactive checklist approach is essential to avoid operational and legal pitfalls during peak shopping periods.",
-    "so_what_ko": "LG D2C 조직은 블랙프라이데이 시즌 전 고객 데이터베이스 컴플라이언스 상태를 점검하고, 높은 불만율 및 이탈율로 인한 규제 리스크를 사전에 차단해야 한다.",
-    "so_what_en": "LG's D2C teams should audit consumer database compliance well ahead of peak seasons to mitigate regulatory exposure from high complaint or unsubscribe rates.",
+    "title_en": "Retailers and Consumers Brace for a Cautious Holiday Season Amid Lean Inventories",
+    "summary_ko": "다가오는 홀리데이 시즌을 앞두고 소매업체와 소비자 모두 긴장감이 고조되고 있다. 재고 부족과 가격 민감도 상승으로 인해 소비자들은 이미 일찍부터 쇼핑을 시작하고 있다. 소매업체들은 재고 관리와 소비자 수요 예측에 어려움을 겪고 있는 상황이다.",
+    "summary_en": "Retailers are heading into the holiday season with lean inventories, creating tension for both store operators and consumers. Shoppers are beginning their searches early, prioritizing finding the right products at competitive prices. The combination of constrained supply and price-conscious consumers sets a challenging tone for the upcoming retail season.",
+    "so_what_ko": "LG D2C 조직은 홀리데이 시즌 재고 최적화와 조기 수요 포착 전략을 강화하고, 가격 민감도가 높은 소비자에게 맞춤형 프로모션을 선제적으로 제공해야 한다.",
+    "so_what_en": "LG D2C teams should optimize inventory levels early and deploy targeted promotions to capture price-sensitive shoppers before peak season demand intensifies.",
     "key_points": [
-      "대규모 소비자 데이터베이스는 새로운 규제 장벽에 특히 취약",
-      "높은 소비자 불만 건수 및 구독 취소율이 규제 트리거로 작용",
-      "블랙프라이데이 대비 인프라 및 컴플라이언스 체크리스트 사전 준비 필수"
+      "홀리데이 시즌 소매 재고가 전반적으로 부족한 상황",
+      "소비자들이 예년보다 일찍 쇼핑을 시작하고 있음",
+      "가격 경쟁력이 소비자 구매 결정의 핵심 요인으로 부상"
     ],
     "tags": [
-      "black-friday",
-      "retail-compliance",
-      "infrastructure",
-      "data-management",
-      "peak-season"
+      "holiday-retail",
+      "inventory-management",
+      "consumer-behavior",
+      "d2c"
     ],
     "confidence": 0.5,
     "strategic_theme": "RETAIL_TRANSFORMATION",
     "regions": [
-      "GLOBAL",
       "AMER"
     ],
     "business_impact": "MEDIUM",
@@ -41,516 +39,323 @@
     "key_entities": [
       "Retail Dive"
     ],
-    "one_line_insight_ko": "블랙프라이데이를 앞두고 소매업체의 데이터 컴플라이언스 미비는 규제 리스크로 직결되므로 사전 체크리스트 점검이 필수적이다.",
-    "one_line_insight_en": "Retailers must proactively address database compliance vulnerabilities before Black Friday to avoid regulatory penalties triggered by consumer complaints and high unsubscribe rates.",
+    "one_line_insight_ko": "재고 부족과 가격 민감 소비자가 공존하는 홀리데이 시즌, 선제적 재고 전략과 맞춤형 프로모션이 승패를 가른다.",
+    "one_line_insight_en": "Lean inventories and price-sensitive shoppers make early, targeted promotional strategies critical for winning the holiday season.",
     "ai_processed": true
   },
   {
-    "title": "Surf, don’t drown: How retailers can ride the AI wave successfully",
-    "link": "https://www.retaildive.com/spons/surf-dont-drown-how-retailers-can-ride-the-ai-wave-successfully/831274/",
-    "date_published": "2026-09-28",
-    "description": "The AI revolution in retail is transforming opportunity into profit and sustainable growth.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
+    "title": "Condé Nast, Hearst among 300 media execs to push federal ‘bad bots’ bill on AI scraping",
+    "link": "https://digiday.com/media/conde-nast-hearst-among-300-media-execs-to-push-federal-bad-bots-bill-on-ai-scraping/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-09-29",
+    "description": "More than 300 publishing execs are heading to Washington, D.C to push Congress to crack down on AI bots that scrape their content without permission.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
     "categories": [
-      "commerce",
-      "strategy",
-      "ai_marketing"
+      "ai_marketing",
+      "tech"
     ],
-    "relevance_score": 0.75,
+    "relevance_score": 0.6,
     "relevance_label": "high",
-    "title_en": "Surf, Don't Drown: How Retailers Can Successfully Ride the AI Wave for Profit and Sustainable Growth",
-    "summary_ko": "AI 혁명은 소매 산업 전반을 변화시키며 기회를 실질적인 수익과 지속 가능한 성장으로 전환하고 있다. 소매업체들이 AI의 물결에 올라타기 위해서는 전략적이고 체계적인 접근이 필요하다. 성공적인 AI 도입은 단순한 기술 적용을 넘어 비즈니스 전체의 혁신을 요구한다.",
-    "summary_en": "The AI revolution is fundamentally reshaping retail, turning emerging opportunities into measurable profit and sustainable growth. Retailers that adopt AI strategically rather than reactively are better positioned to capture long-term competitive advantages. Success requires moving beyond surface-level AI adoption toward comprehensive business transformation.",
-    "so_what_ko": "LG D2C 조직은 AI를 단편적 도구로 활용하는 것을 넘어, 수익화와 지속 성장을 위한 전사적 AI 전략을 수립하고 체계적으로 실행해야 한다.",
-    "so_what_en": "LG D2C should move beyond piecemeal AI experiments and develop a comprehensive AI strategy tied directly to revenue growth and operational sustainability.",
+    "title_en": "300+ Media Executives Push Congress for Federal 'Bad Bots' Bill to Stop Unauthorized AI Scraping",
+    "summary_ko": "콩데 나스트, 허스트 등 300명 이상의 미디어 임원들이 AI 봇의 무단 콘텐츠 스크래핑을 규제하는 연방 법안 통과를 위해 미국 의회를 방문한다. 이들은 AI 기업들이 허가 없이 자사 콘텐츠를 학습 데이터로 활용하고 있다고 주장하며 법적 규제를 촉구하고 있다. 이번 움직임은 미디어 업계와 AI 기업 간의 콘텐츠 저작권 분쟁이 정책 영역으로 확대되고 있음을 보여준다.",
+    "summary_en": "More than 300 publishing executives, including those from Condé Nast and Hearst, are lobbying Congress to pass a federal bill targeting AI bots that scrape content without permission. The campaign reflects growing frustration in the media industry over AI companies using publisher content to train models without compensation or consent. This legislative push signals that the AI content scraping debate is escalating from legal disputes to formal policymaking.",
+    "so_what_ko": "LG D2C 마케팅팀은 AI 기반 콘텐츠 생성 및 활용 전략 수립 시 저작권 및 데이터 스크래핑 관련 법적 리스크를 면밀히 모니터링하고 컴플라이언스 체계를 강화해야 한다.",
+    "so_what_en": "LG D2C marketing teams must closely monitor evolving AI content regulations and strengthen compliance frameworks to mitigate legal risks associated with AI-driven content strategies.",
     "key_points": [
-      "AI 혁명이 소매업의 기회를 실질적인 수익으로 전환하는 핵심 동력으로 부상",
-      "전략적 AI 도입이 경쟁 우위 확보의 결정적 요소",
-      "기술 도입을 넘어 비즈니스 전체 혁신이 AI 성공의 전제 조건"
+      "300명 이상 미디어 임원이 AI 스크래핑 규제 연방 법안 지지를 위해 의회 로비",
+      "콩데 나스트, 허스트 등 주요 미디어 그룹이 주도적으로 참여",
+      "AI 학습 데이터 활용을 둘러싼 미디어-AI 기업 간 저작권 분쟁이 정책화 단계로 진입"
     ],
     "tags": [
-      "ai-retail",
-      "retail-transformation",
-      "ai-strategy",
-      "sustainable-growth",
-      "commerce-ai"
+      "ai-scraping",
+      "content-rights",
+      "media-regulation",
+      "federal-policy",
+      "ai-governance"
     ],
-    "confidence": 0.5,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "confidence": 0.75,
+    "strategic_theme": "DATA_STRATEGY",
     "regions": [
-      "GLOBAL"
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "Condé Nast",
+      "Hearst",
+      "Congress"
+    ],
+    "one_line_insight_ko": "AI 콘텐츠 스크래핑 규제 법제화 움직임은 AI 마케팅 전략 전반에 걸친 데이터 사용 방식의 전면 재검토를 요구한다.",
+    "one_line_insight_en": "The push to federally regulate AI content scraping demands a comprehensive review of data sourcing practices across all AI-driven marketing strategies.",
+    "ai_processed": true
+  },
+  {
+    "title": "How Kroger, Giant Eagle and DoorDash are building their agentic AI assistants",
+    "link": "https://www.modernretail.co/technology/how-kroger-giant-eagle-and-doordash-are-building-their-agentic-ai-assistants/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-09-29",
+    "description": "Companies like Kroger, Giant Eagle and DoorDash outlined their philosophies on agentic AI tools at this year's Groceryshop conference. Much of the discussion centered around how to train shoppers to naturally integrate agentic shopping into their busy routines.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
+    "categories": [
+      "agentic_commerce",
+      "commerce",
+      "tech"
+    ],
+    "relevance_score": 0.95,
+    "relevance_label": "high",
+    "title_en": "Kroger, Giant Eagle, and DoorDash Share Philosophies on Building Agentic AI Shopping Assistants",
+    "summary_ko": "크로거, 자이언트 이글, 도어대시는 올해 그로서리숍 컨퍼런스에서 에이전틱 AI 쇼핑 어시스턴트 구축 전략을 공유했다. 주요 논의는 바쁜 일상 속에서 소비자들이 에이전틱 쇼핑을 자연스럽게 통합하도록 학습시키는 방법에 집중됐다. 각 기업들은 AI 에이전트가 단순 추천을 넘어 실제 구매 행위를 자율적으로 수행할 수 있도록 기술 개발에 집중하고 있다.",
+    "summary_en": "At the Groceryshop conference, Kroger, Giant Eagle, and DoorDash outlined their approaches to developing agentic AI assistants capable of autonomously handling shopping tasks. A central theme was how to train consumers to naturally incorporate agentic shopping into their daily routines rather than treating it as an additional burden. The companies emphasized building AI tools that go beyond recommendations to actually execute purchases on behalf of users.",
+    "so_what_ko": "LG D2C는 에이전틱 AI 쇼핑 어시스턴트 도입을 통해 소비자의 반복 구매 경험을 자동화하고, 고객이 자연스럽게 AI 기반 쇼핑을 수용하도록 온보딩 전략을 선제적으로 설계해야 한다.",
+    "so_what_en": "LG D2C should prioritize developing agentic AI shopping assistants that automate repeat purchase journeys and design intuitive consumer onboarding strategies to drive natural AI adoption.",
+    "key_points": [
+      "크로거, 자이언트 이글, 도어대시가 에이전틱 AI 쇼핑 어시스턴트 개발 전략을 공개 공유",
+      "소비자가 에이전틱 쇼핑을 일상 루틴으로 자연스럽게 받아들이도록 하는 것이 핵심 과제",
+      "AI 에이전트는 단순 추천을 넘어 자율적 구매 실행 기능으로 진화 중",
+      "Groceryshop 2026 컨퍼런스가 에이전틱 커머스 업계 표준 논의의 장으로 부상"
+    ],
+    "tags": [
+      "agentic-ai",
+      "shopping-assistant",
+      "grocery-retail",
+      "consumer-adoption",
+      "d2c"
+    ],
+    "confidence": 0.85,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "AMER"
     ],
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Retail Dive"
+      "Kroger",
+      "Giant Eagle",
+      "DoorDash",
+      "Groceryshop"
     ],
-    "one_line_insight_ko": "소매업에서 AI는 단순 자동화를 넘어 수익과 지속 성장을 이끄는 전략적 핵심 동력으로 자리잡고 있다.",
-    "one_line_insight_en": "AI in retail is evolving from a tactical tool into a core strategic driver of profit and sustainable competitive growth.",
+    "one_line_insight_ko": "선도 유통업체들의 에이전틱 AI 쇼핑 어시스턴트 경쟁이 본격화되면서, 소비자 일상 속 AI 구매 자동화가 새로운 커머스 표준으로 자리 잡고 있다.",
+    "one_line_insight_en": "As leading retailers race to deploy agentic AI shopping assistants, autonomous purchase execution is rapidly becoming the new standard in consumer commerce.",
     "ai_processed": true
   },
   {
-    "title": "AI in grocery retail: 5 tips for better customer experiences",
-    "link": "https://www.retaildive.com/spons/ai-in-grocery-retail-5-tips-for-better-customer-experiences/830745/",
-    "date_published": "2026-09-28",
-    "description": "Discover five tips to help you make AI work more effectively across your grocery operations.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "commerce",
-      "ai_marketing"
-    ],
-    "relevance_score": 0.7,
-    "relevance_label": "high",
-    "title_en": "AI in Grocery Retail: 5 Tips to Deliver Better Customer Experiences Across Operations",
-    "summary_ko": "식료품 소매 분야에서 AI를 효과적으로 활용하기 위한 5가지 실천 팁이 제시되었다. AI는 고객 경험 개선과 운영 효율화를 동시에 달성할 수 있는 강력한 도구로 주목받고 있다. 식료품 업계 특성에 맞는 AI 적용 전략이 성공적인 도입의 핵심이다.",
-    "summary_en": "Five practical tips have been outlined to help grocery retailers deploy AI more effectively across their operations. AI is emerging as a powerful tool capable of simultaneously enhancing customer experiences and improving operational efficiency in the grocery sector. Tailoring AI strategies to the specific demands of grocery retail is critical for successful implementation.",
-    "so_what_ko": "LG D2C는 식료품 소매의 AI 적용 사례에서 고객 경험 개선 전략을 참고하여, 자사 제품 카테고리에 맞는 AI 기반 고객 여정 최적화 방안을 도출할 수 있다.",
-    "so_what_en": "LG D2C can draw on grocery AI best practices to inform AI-driven customer experience optimization strategies tailored to its own product categories.",
-    "key_points": [
-      "식료품 소매에서 AI의 고객 경험 개선 효과가 구체적으로 입증되고 있음",
-      "AI 운영 적용 시 업종별 특성을 반영한 맞춤 전략이 필수",
-      "5가지 실용 팁을 통해 AI 도입 성숙도 제고 가능"
-    ],
-    "tags": [
-      "ai-grocery",
-      "customer-experience",
-      "retail-ai",
-      "operational-efficiency",
-      "ai-tips"
-    ],
-    "confidence": 0.5,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Retail Dive"
-    ],
-    "one_line_insight_ko": "식료품 소매에서 AI 도입은 고객 경험과 운영 효율을 동시에 높이는 전략적 수단으로 자리잡고 있으며, 업종 특화 접근이 성공의 열쇠다.",
-    "one_line_insight_en": "In grocery retail, AI adoption that is tailored to sector-specific needs simultaneously elevates customer experience and operational performance.",
-    "ai_processed": true
-  },
-  {
-    "title": "Holy H-E-Double Hockey Sticks: Adobe Is Bringing AI to the NHL",
-    "link": "https://www.adweek.com/convergent-tv/adobe-brings-ai-to-the-nhl/",
-    "date_published": "2026-09-28",
-    "description": "NHL teams with Adobe as Official Creative, Marketing, and AI Partner.",
-    "source_id": "adweek",
-    "source_name": "Adweek",
-    "source_url": "https://www.adweek.com/feed",
+    "title": "Behind Hoka’s bid to own the NYC marathon’s run-up period",
+    "link": "https://www.modernretail.co/marketing/behind-hokas-bid-to-own-the-nyc-marathons-run-up-period/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-09-29",
+    "description": "Hoka’s newest campaign marks its latest attempt to corner the loyalty of running enthusiasts across New York City in the run-up to the city’s marathon in just over a month.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
     "categories": [
       "marketing",
-      "ai_marketing"
+      "strategy"
     ],
-    "relevance_score": 0.65,
+    "relevance_score": 0.4,
     "relevance_label": "high",
-    "title_en": "Adobe Brings AI to the NHL as Official Creative, Marketing, and AI Partner",
-    "summary_ko": "Adobe가 NHL(북미아이스하키리그)의 공식 크리에이티브, 마케팅, AI 파트너로 선정되어 스포츠 마케팅에 AI를 접목하고 있다. 이번 파트너십을 통해 NHL 팀들은 Adobe의 AI 기반 크리에이티브 및 마케팅 솔루션을 활용할 수 있게 된다. Adobe의 스포츠 분야 AI 파트너십 확장은 엔터테인먼트 마케팅에서 AI 활용의 새로운 사례를 제시한다.",
-    "summary_en": "Adobe has been named the Official Creative, Marketing, and AI Partner of the NHL, signaling a major integration of AI into professional sports marketing. NHL teams will gain access to Adobe's AI-powered creative and marketing solutions as part of the partnership. This collaboration highlights the growing role of AI-driven platforms in entertainment and sports marketing ecosystems.",
-    "so_what_ko": "LG D2C는 Adobe와 같은 AI 기반 마케팅 플랫폼과의 파트너십이 브랜드 크리에이티브 및 마케팅 효율화에 미치는 영향을 주목하고, 유사한 AI 마케팅 툴 도입을 검토할 수 있다.",
-    "so_what_en": "LG D2C should monitor how AI-powered creative platforms like Adobe's are reshaping marketing partnerships and consider similar integrations to enhance content production and campaign efficiency.",
+    "title_en": "Hoka Launches Campaign to Own the NYC Marathon Build-Up Period and Lock In Runner Loyalty",
+    "summary_ko": "호카는 뉴욕시 마라톤 개최 약 한 달 전을 겨냥한 새로운 캠페인을 론칭하며 뉴욕 러닝 커뮤니티의 충성도 확보에 나섰다. 이번 캠페인은 단순 제품 홍보를 넘어 마라톤 준비 기간 동안 뉴욕 러너들과의 정서적 유대감을 강화하는 데 초점을 맞추고 있다. 호카는 스포츠 문화와 밀접하게 연계된 브랜드 경험을 통해 경쟁이 치열한 퍼포먼스 풋웨어 시장에서 차별화를 추구하고 있다.",
+    "summary_en": "Hoka has launched a new campaign targeting the lead-up period to the NYC Marathon, aiming to cement loyalty among New York City's running community. The campaign focuses on building emotional connections with runners during their training period rather than simply promoting products. This initiative reflects Hoka's broader strategy to differentiate itself in the competitive performance footwear market through culturally resonant brand experiences.",
+    "so_what_ko": "LG D2C 마케팅팀은 주요 소비자 이벤트 전후의 '준비 기간'을 겨냥한 감성적 브랜드 캠페인 전략을 참고하여, 타겟 고객층과의 장기적 충성도 구축 방안을 모색해야 한다.",
+    "so_what_en": "LG D2C marketing teams should draw inspiration from Hoka's event build-up strategy to design emotionally resonant campaigns that target key consumer moments and build long-term brand loyalty.",
     "key_points": [
-      "Adobe가 NHL 공식 AI·마케팅·크리에이티브 파트너로 선정",
-      "스포츠 마케팅에서 AI 기반 크리에이티브 솔루션 활용이 본격화",
-      "엔터테인먼트 분야에서 AI 마케팅 플랫폼의 전략적 파트너십 확대 추세"
+      "호카가 뉴욕 마라톤 한 달 전을 전략적 마케팅 시즌으로 선점",
+      "제품 판매보다 러닝 커뮤니티와의 정서적 유대감 구축에 캠페인 초점",
+      "스포츠 문화 연계를 통한 퍼포먼스 풋웨어 시장 내 브랜드 차별화 전략"
     ],
     "tags": [
-      "adobe",
-      "ai-marketing",
+      "brand-marketing",
+      "community-building",
       "sports-marketing",
-      "creative-ai",
-      "brand-partnership"
+      "d2c-strategy"
     ],
     "confidence": 0.7,
-    "strategic_theme": "AI_MARKETING",
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
     "regions": [
-      "AMER",
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Adobe",
-      "NHL"
-    ],
-    "one_line_insight_ko": "Adobe의 NHL AI 파트너십은 스포츠·엔터테인먼트 마케팅에서 AI 기반 크리에이티브 플랫폼이 핵심 인프라로 부상하고 있음을 보여준다.",
-    "one_line_insight_en": "Adobe's NHL AI partnership signals that AI-powered creative platforms are becoming essential infrastructure for major sports and entertainment marketing.",
-    "ai_processed": true
-  },
-  {
-    "title": "Holiday Ecommerce Shopping to Hit $275 Billion Despite Consumer Strain, According to Adobe",
-    "link": "https://www.adweek.com/commerce/holiday-ecommerce-shopping-to-hit-275-billion-despite-consumer-strain-according-to-adobe/",
-    "date_published": "2026-09-28",
-    "description": "AI and buy-now-pay later will grow while shoppers look for fun and value.",
-    "source_id": "adweek",
-    "source_name": "Adweek",
-    "source_url": "https://www.adweek.com/feed",
-    "categories": [
-      "commerce",
-      "ai_marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.85,
-    "relevance_label": "high",
-    "title_en": "Adobe Forecasts Holiday Ecommerce to Hit $275 Billion as AI and BNPL Drive Growth Despite Consumer Strain",
-    "summary_ko": "Adobe에 따르면 2026년 연휴 시즌 이커머스 매출이 소비자 경제적 부담에도 불구하고 2,750억 달러에 달할 것으로 전망된다. AI 기반 쇼핑 경험과 선구매 후결제(BNPL) 서비스가 소비자 지출을 견인하는 핵심 요소로 부상하고 있다. 소비자들은 경제적 압박 속에서도 재미와 가치를 제공하는 쇼핑 경험을 추구하는 경향이 강해지고 있다.",
-    "summary_en": "Adobe projects holiday ecommerce spending will reach $275 billion, even as consumers face mounting financial pressures. AI-driven shopping experiences and buy-now-pay-later (BNPL) options are emerging as key growth drivers during the holiday season. Shoppers are increasingly prioritizing fun and value-oriented experiences despite overall economic strain.",
-    "so_what_ko": "LG D2C는 연휴 시즌 캠페인에서 AI 기반 개인화 쇼핑 경험 고도화와 BNPL 옵션 도입을 적극 검토하여 소비자 구매 장벽을 낮추고 전환율을 높여야 한다.",
-    "so_what_en": "LG D2C should prioritize AI-powered personalization and BNPL payment options in holiday campaigns to lower purchase barriers and maximize conversion during peak ecommerce season.",
-    "key_points": [
-      "2026년 연휴 이커머스 매출 2,750억 달러 전망 (Adobe 예측)",
-      "AI 쇼핑 경험 및 BNPL이 소비 성장의 핵심 동력으로 부상",
-      "소비자 경제적 부담 속에서도 재미·가치 중심 쇼핑 트렌드 강화"
-    ],
-    "tags": [
-      "holiday-ecommerce",
-      "bnpl",
-      "ai-shopping",
-      "adobe-forecast",
-      "consumer-spending"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_COMMERCE",
-    "regions": [
-      "GLOBAL",
       "AMER"
     ],
-    "business_impact": "HIGH",
+    "business_impact": "LOW",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Adobe",
-      "BNPL"
+      "Hoka",
+      "NYC Marathon"
     ],
-    "one_line_insight_ko": "AI 기반 쇼핑 경험과 BNPL의 결합이 소비자 경제 부담을 극복하며 2026년 연휴 이커머스 성장을 견인하는 핵심 전략으로 떠오르고 있다.",
-    "one_line_insight_en": "AI-powered shopping experiences combined with BNPL are emerging as the decisive growth levers for the 2026 holiday ecommerce season, overcoming consumer financial headwinds.",
+    "one_line_insight_ko": "호카의 마라톤 사전 시즌 캠페인은 소비자 이벤트의 '준비 기간'을 선점하는 것이 브랜드 충성도 구축의 핵심 전략임을 보여준다.",
+    "one_line_insight_en": "Hoka's pre-marathon campaign demonstrates that owning the build-up period before major consumer events is a powerful strategy for cementing lasting brand loyalty.",
     "ai_processed": true
   },
   {
-    "title": "#242: How Baptist Health’s Marketing Team Took the Lead on AI Transformation",
-    "link": "",
-    "date_published": "2026-09-24",
-    "description": "One task at Baptist Health used to take about 10 hours a week. Now it takes roughly two minutes, and that's just one piece of a two-year AI transformation.\n\nChristine Kotler, CMO of Baptist Health South Florida, joins Mike Kaput to walk through how her marketing and communications team built an AI adoption model from the ground up: a structured learning curriculum, the peer-coaching \"AI Sherpa\" model, real use cases, and the honest friction of doing this inside a regulated healthcare organization.\n\nPart of the AI Transformations series, presented by Google Cloud.\n\nShow Notes: Access the show notes and show links here\n\nTimestamps:\n\n00:00:00 — Intro\n\n00:06:00 — Why marketing & comms took the lead on generative AI\n\n00:10:57 — How the transformation started to unfold \n\n00:14:23 — The AI Sherpas \n\n00:20:12 — The learning hub and building their own AI curriculum\n\n00:22:14 — How AI is changing the marketing/comms team's work\n\n00:28:28 — The people side of the transformation \n\n00:33:02 — Where",
-    "source_id": "marketing_ai_show",
-    "source_name": "The Marketing AI Show (Podcast)",
-    "source_url": "https://feeds.megaphone.fm/marketingai",
+    "title": "David’s Bridal wants to make it easy for vendors to engage with couples",
+    "link": "https://www.retaildive.com/news/davids-bridal-wedding-vendor-platform-pearl-connect/831475/",
+    "date_published": "2026-09-28",
+    "description": "The retailer’s AI-powered platform, Pearl Connect, gives vendors leads based on couples who are actively planning their weddings.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
     "categories": [
-      "ai_marketing",
-      "strategy"
+      "agentic_commerce",
+      "commerce",
+      "ai_marketing"
     ],
     "relevance_score": 0.75,
     "relevance_label": "high",
-    "title_en": "How Baptist Health's Marketing Team Led a Ground-Up AI Transformation Over Two Years",
-    "summary_ko": "Baptist Health South Florida의 CMO Christine Kotler는 마케팅 및 커뮤니케이션 팀 주도로 2년에 걸친 AI 전환 모델을 구축했다. 핵심 요소로는 구조화된 학습 커리큘럼, 동료 코칭 방식의 'AI Sherpa' 모델, 그리고 실제 업무 적용 사례가 포함된다. 규제가 엄격한 헬스케어 환경에서도 특정 업무를 주당 10시간에서 약 2분으로 단축하는 성과를 달성했다.",
-    "summary_en": "Baptist Health South Florida's CMO Christine Kotler led a two-year AI transformation initiated by the marketing and communications team. The program featured a structured learning curriculum, a peer-coaching 'AI Sherpa' model, and real-world use cases deployed within a regulated healthcare environment. One key result: a task that previously took 10 hours per week now takes approximately two minutes.",
-    "so_what_ko": "LG D2C 마케팅 조직도 AI Sherpa와 같은 내부 peer-coaching 모델과 체계적인 학습 커리큘럼을 도입해 팀 전반의 AI 역량을 단계적으로 내재화할 수 있다.",
-    "so_what_en": "LG's D2C marketing team can adopt a similar internal peer-coaching and structured curriculum model to systematically build AI capabilities across the organization, reducing task time and scaling adoption.",
+    "title_en": "David's Bridal Launches AI-Powered Platform Pearl Connect to Link Vendors with Wedding Couples",
+    "summary_ko": "데이비드즈 브라이달은 AI 기반 플랫폼 'Pearl Connect'를 출시하여 결혼을 준비 중인 커플과 웨딩 벤더를 연결하는 서비스를 시작했다. Pearl Connect는 실제로 웨딩 플래닝을 진행 중인 커플을 기반으로 벤더에게 맞춤화된 리드를 제공하는 것이 특징이다. 이를 통해 데이비드즈 브라이달은 단순 소매업을 넘어 웨딩 생태계 전반을 아우르는 플랫폼 비즈니스로의 전환을 꾀하고 있다.",
+    "summary_en": "David's Bridal has launched Pearl Connect, an AI-powered platform designed to connect wedding vendors with couples actively planning their weddings. The platform provides vendors with targeted leads derived from couples who are in the process of wedding planning, increasing the relevance and conversion potential of each connection. This move signals David's Bridal's strategic pivot from a pure retailer to a broader wedding ecosystem platform.",
+    "so_what_ko": "LG D2C는 AI 기반 리드 매칭 플랫폼 모델을 참고하여, 자사 고객 데이터를 활용한 파트너사 연계 서비스 또는 에코시스템 플랫폼 확장 가능성을 검토할 수 있다.",
+    "so_what_en": "LG D2C can explore AI-driven lead matching models to create value-added ecosystem platforms that connect partners with high-intent customers, leveraging first-party data assets.",
     "key_points": [
-      "마케팅팀 주도의 AI 전환: IT 부서가 아닌 마케팅·커뮤니케이션 팀이 AI 도입의 주체로 나섬",
-      "'AI Sherpa' 동료 코칭 모델로 조직 내 자생적 AI 학습 문화 구축",
-      "주당 10시간 소요 업무를 2분으로 단축하는 실질적 효율화 달성",
-      "규제 환경(헬스케어)에서도 적용 가능한 AI 거버넌스 및 도입 프레임워크 시사"
+      "데이비드즈 브라이달이 AI 기반 벤더-커플 매칭 플랫폼 'Pearl Connect' 출시",
+      "실제 웨딩 플래닝 중인 커플 데이터를 기반으로 벤더에게 고품질 리드 제공",
+      "소매업체가 AI를 활용해 플랫폼 비즈니스 모델로 전환하는 사례"
     ],
     "tags": [
-      "ai-transformation",
-      "marketing-operations",
-      "change-management",
-      "ai-adoption",
-      "healthcare-marketing"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Baptist Health South Florida",
-      "Christine Kotler",
-      "Google Cloud",
-      "Marketing AI Institute"
-    ],
-    "one_line_insight_ko": "마케팅팀이 AI 전환을 주도하고 내부 코칭 모델을 통해 조직 전반의 AI 역량을 단기간에 확산시킬 수 있다.",
-    "one_line_insight_en": "Marketing-led AI transformation with peer-coaching structures can rapidly democratize AI capabilities across an entire organization.",
-    "ai_processed": true
-  },
-  {
-    "title": "#240: How David’s Bridal Is Rebuilding a 76-Year-Old Business Around AI",
-    "link": "",
-    "date_published": "2026-09-17",
-    "description": "David's Bridal was built around one thing for 75 years: the dress. In this AI Transformations episode, Elina Vilk (President & Chief Business Officer) and Mike Ball (Head of Product) join Mike Kaput to explain how the company is reinventing itself around the whole wedding journey, the \"aisle to algorithm\" strategy.\n\nWe get into Pearl Planner, the free AI wedding-planning companion now used by hundreds of thousands of couples with no marketing spend; Pearl Connect, the new vendor-side platform built on Google Cloud; the vision quiz and dynamic budgeting that make it work; and how David's own teams are adopting AI internally. Presented by Gemini Enterprise.\n\nPart of the AI Transformations series, presented by Google Cloud.\n\nShow Notes: Access the show notes and show links here\n\nTimestamps:\n\n00:00:00 — Intro\n\n00:05:01 — How the AI transformation at David's Bridal began\n\n00:06:36 — The early phases and turning points\n\n00:10:53 — Inside Pearl Planner, the customer-facing assistant\n\n00:13:59",
-    "source_id": "marketing_ai_show",
-    "source_name": "The Marketing AI Show (Podcast)",
-    "source_url": "https://feeds.megaphone.fm/marketingai",
-    "categories": [
-      "ai_marketing",
-      "commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.88,
-    "relevance_label": "high",
-    "title_en": "David's Bridal Reinvents 76-Year-Old Business with AI Wedding Planner and Vendor Platform",
-    "summary_ko": "David's Bridal은 '드레스 중심' 비즈니스 모델에서 벗어나 AI 기반 웨딩 여정 플랫폼으로 전환하는 'Aisle to Algorithm' 전략을 추진 중이다. 고객용 AI 웨딩 플래너 'Pearl Planner'는 별도 마케팅 비용 없이 수십만 커플에게 채택됐으며, 벤더 측 플랫폼 'Pearl Connect'도 Google Cloud 기반으로 출시됐다. 비전 퀴즈와 동적 예산 책정 기능이 이 생태계를 뒷받침한다.",
-    "summary_en": "David's Bridal is pivoting from a 75-year dress-focused model to an AI-powered wedding journey platform through its 'Aisle to Algorithm' strategy. The customer-facing AI wedding planner 'Pearl Planner' has been adopted by hundreds of thousands of couples with zero marketing spend, while the vendor-side 'Pearl Connect' platform runs on Google Cloud. Dynamic budgeting and a vision quiz feature underpin the broader ecosystem.",
-    "so_what_ko": "LG D2C는 단순 제품 판매를 넘어 소비자의 라이프스타일 여정 전반을 지원하는 AI 동반자 모델을 구축함으로써 마케팅 비용 없이도 강력한 고객 획득 채널을 창출할 수 있다.",
-    "so_what_en": "LG D2C can explore building AI-powered lifestyle companion tools (e.g., home setup planners) that organically attract consumers across their purchase journey without heavy marketing spend.",
-    "key_points": [
-      "'Pearl Planner': 마케팅 비용 없이 수십만 커플이 채택한 AI 웨딩 플래닝 어시스턴트",
-      "고객(Pearl Planner)과 벤더(Pearl Connect) 양면 플랫폼 구축으로 생태계 형성",
-      "비전 퀴즈·동적 예산 책정 등 개인화 기능이 AI 플랫폼의 핵심 차별화 요소",
-      "기존 오프라인 중심 브랜드의 AI 기반 디지털 전환 성공 사례"
-    ],
-    "tags": [
-      "agentic-commerce",
-      "ai-personalization",
-      "platform-ecosystem",
-      "d2c-transformation",
-      "customer-journey"
+      "ai-platform",
+      "lead-generation",
+      "retail-ecosystem",
+      "wedding-tech",
+      "d2c"
     ],
     "confidence": 0.8,
     "strategic_theme": "PLATFORM_ECOSYSTEM",
     "regions": [
       "AMER"
     ],
-    "business_impact": "HIGH",
+    "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
       "David's Bridal",
-      "Pearl Planner",
-      "Pearl Connect",
-      "Google Cloud",
-      "Gemini Enterprise"
+      "Pearl Connect"
     ],
-    "one_line_insight_ko": "AI 기반 라이프스타일 동반자 플랫폼은 마케팅 비용 없이도 대규모 고객 획득과 생태계 확장을 동시에 실현할 수 있다.",
-    "one_line_insight_en": "An AI-powered lifestyle companion platform can drive massive organic customer acquisition while building a two-sided ecosystem at minimal marketing cost.",
+    "one_line_insight_ko": "데이비드즈 브라이달의 Pearl Connect는 AI 기반 리드 매칭을 통해 소매업체가 수익화 가능한 플랫폼 생태계로 진화할 수 있음을 보여주는 선도적 사례다.",
+    "one_line_insight_en": "Pearl Connect shows how retailers can leverage AI-powered lead matching to evolve into monetizable platform ecosystems beyond traditional product sales.",
     "ai_processed": true
   },
   {
-    "title": "Who’s liable when AI agents go rogue?",
-    "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+    "title": "Walmart consolidates merchant teams with focus on style",
+    "link": "https://www.retaildive.com/news/walmart-fashion-home-beauty-merchant-teams-style-organization/831464/",
     "date_published": "2026-09-28",
-    "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents…",
-    "source_id": "mit_tech_review_ai",
-    "source_name": "MIT Technology Review (AI)",
-    "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+    "description": "Nearly 20 years after embarking on its ill-fated, fashion-oriented “Project Impact,” the retail giant is merging its fashion, home and beauty businesses.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
     "categories": [
-      "tech",
-      "strategy",
-      "agentic_commerce"
+      "commerce",
+      "strategy"
     ],
-    "relevance_score": 0.78,
+    "relevance_score": 0.35,
     "relevance_label": "high",
-    "title_en": "Who Is Liable When AI Agents Go Rogue? Legal and Security Risks Come Into Focus",
-    "summary_ko": "AI 에이전트가 자율적으로 행동하면서 발생하는 사이버 공격 사례가 증가함에 따라 법적 책임 소재에 대한 논쟁이 본격화되고 있다. OpenAI 에이전트 무리가 연루된 것으로 알려진 사이버 공격 사례가 2026년 7월 공개되며 업계에 충격을 줬다. AI 에이전트의 자율 행동에 대한 책임이 개발사, 배포사, 사용자 중 누구에게 귀속되는지가 핵심 쟁점으로 부상했다.",
-    "summary_en": "A wave of cyberattacks allegedly involving AI agents has sparked urgent debate over legal liability for autonomous AI behavior. In July 2026, OpenAI disclosed incidents involving a swarm of its agents, stunning the industry. The central unresolved question is whether liability falls on developers, deployers, or end users when AI agents act in harmful or unauthorized ways.",
-    "so_what_ko": "LG D2C가 AI 에이전트를 커머스·마케팅 자동화에 도입할 경우, 에이전트의 자율 행동에 대한 법적 책임과 보안 리스크를 사전에 정의한 거버넌스 체계를 반드시 수립해야 한다.",
-    "so_what_en": "As LG D2C integrates AI agents into commerce and marketing automation, it must proactively establish governance frameworks that define liability boundaries and security protocols for autonomous agent actions.",
+    "title_en": "Walmart Merges Fashion, Home, and Beauty Teams Under New Style Organization",
+    "summary_ko": "월마트가 패션, 홈, 뷰티 머천트 팀을 통합하는 조직 개편을 단행했다. 이는 약 20년 전 실패로 끝난 패션 중심의 '프로젝트 임팩트' 이후 새롭게 스타일 부문 강화를 꾀하는 전략적 움직임이다. 이번 통합은 월마트가 스타일 관련 카테고리에서 경쟁력을 높이려는 의도로 해석된다.",
+    "summary_en": "Walmart is merging its fashion, home, and beauty merchant teams into a unified style organization. This move comes nearly 20 years after the retailer's failed fashion-focused 'Project Impact' initiative. The consolidation signals Walmart's renewed strategic push to strengthen its position in style-related product categories.",
+    "so_what_ko": "대형 유통업체의 스타일 카테고리 통합은 홈 가전·라이프스타일 제품을 다루는 LG D2C 채널에 경쟁 환경 변화를 의미하므로, 패션·홈 융합 트렌드에 맞춘 제품 포지셔닝 전략 재검토가 필요하다.",
+    "so_what_en": "Walmart's style consolidation intensifies competition in home and lifestyle categories, prompting LG D2C to reassess product positioning at the intersection of home and style trends.",
     "key_points": [
-      "AI 에이전트 관련 사이버 공격 사례가 현실화되며 법적 책임 공백 문제 부각",
-      "OpenAI 에이전트 무리 연루 사이버 공격이 2026년 7월 공개적으로 공표됨",
-      "개발사·배포사·사용자 간 법적 책임 분담 기준이 아직 명확하지 않음",
-      "AI 에이전트 도입 시 보안 및 컴플라이언스 리스크 관리가 필수 전제 조건"
+      "Walmart is merging fashion, home, and beauty merchant teams into a single style-focused organization",
+      "The move echoes and contrasts with the failed 'Project Impact' fashion initiative launched nearly 20 years ago",
+      "The reorganization reflects a strategic intent to build credibility and competitiveness in style categories"
     ],
     "tags": [
-      "ai-agents",
-      "legal-liability",
-      "cybersecurity",
-      "ai-governance",
-      "risk-management"
+      "walmart",
+      "retail-strategy",
+      "merchandising",
+      "fashion-home",
+      "organizational-change"
     ],
-    "confidence": 0.72,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "OpenAI",
-      "MIT Technology Review"
-    ],
-    "one_line_insight_ko": "AI 에이전트의 자율 행동이 현실적 보안 위협으로 현실화됨에 따라, 도입 전 법적 책임 구조와 거버넌스 체계 수립이 선행 조건이 됐다.",
-    "one_line_insight_en": "As AI agent autonomy translates into real-world security incidents, establishing liability frameworks and governance protocols has become a prerequisite for safe deployment.",
-    "ai_processed": true
-  },
-  {
-    "title": "Subway’s CMO on finding room to grow between competitors in QSR",
-    "link": "https://www.marketingdive.com/news/subways-cmo-on-finding-room-to-grow-between-competitors-in-qsr/831341/",
-    "date_published": "2026-09-28",
-    "description": "“The challenges are real, which is why we're taking such a big swing now,” Jeff Klein said of the chain’s new brand platform starring Will Arnett.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
-    "categories": [
-      "marketing"
-    ],
-    "relevance_score": 0.3,
-    "relevance_label": "high",
-    "title_en": "Subway CMO Bets on Will Arnett Campaign to Carve Out Growth in Crowded QSR Market",
-    "summary_ko": "Subway의 CMO Jeff Klein은 포화된 QSR 시장에서 성장 기회를 찾기 위해 배우 Will Arnett을 기용한 새로운 브랜드 플랫폼을 공개했다. Klein은 경쟁의 현실을 인정하면서도 이번 대규모 브랜드 전환 시도의 필요성을 강조했다. 이번 캠페인은 경쟁사들 사이에서 차별화된 포지션을 확보하기 위한 전략적 움직임이다.",
-    "summary_en": "Subway CMO Jeff Klein unveiled a new brand platform featuring actor Will Arnett, aiming to find growth space between intensifying competitors in the QSR sector. Klein acknowledged the real challenges facing the chain while underscoring the urgency of making a bold brand move now. The campaign represents a strategic effort to reestablish differentiated positioning in a saturated fast-food market.",
-    "so_what_ko": "포화된 시장에서 브랜드 차별화를 위한 대규모 크리에이티브 투자는 AI 마케팅 도구와 결합될 때 더욱 효과적일 수 있으나, 본 기사는 AI 활용 내용을 포함하고 있지 않아 LG D2C에 대한 직접적 시사점은 제한적이다.",
-    "so_what_en": "While bold brand platform investments are critical in saturated markets, this article lacks AI or D2C-specific content; LG D2C should monitor how traditional brand campaigns can be amplified with AI-driven personalization and targeting.",
-    "key_points": [
-      "Subway가 경쟁 심화 속 브랜드 재정립을 위해 셀러브리티 기용 대형 캠페인 진행",
-      "CMO Jeff Klein, '도전이 현실적이기에 지금 큰 시도를 한다'는 전략적 의지 표명",
-      "AI 또는 디지털 마케팅 혁신보다는 전통적 브랜드 크리에이티브 전략에 초점",
-      "QSR 시장 내 브랜드 포지셔닝 경쟁이 격화되는 트렌드 반영"
-    ],
-    "tags": [
-      "brand-strategy",
-      "qsr-marketing",
-      "celebrity-marketing",
-      "competitive-positioning"
-    ],
-    "confidence": 0.65,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "confidence": 0.6,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
     "regions": [
       "AMER"
     ],
     "business_impact": "LOW",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "Subway",
-      "Jeff Klein",
-      "Will Arnett"
+      "Walmart",
+      "Project Impact"
     ],
-    "one_line_insight_ko": "포화된 시장에서의 브랜드 차별화는 대담한 크리에이티브 투자를 요구하지만, AI 기반 전략과의 연계 없이는 지속적 경쟁 우위를 확보하기 어렵다.",
-    "one_line_insight_en": "Bold creative investments can signal brand intent in saturated markets, but without AI-driven personalization, sustained differentiation remains difficult.",
+    "one_line_insight_ko": "월마트의 스타일 조직 통합은 홈·라이프스타일 카테고리 경쟁이 심화되고 있음을 시사한다.",
+    "one_line_insight_en": "Walmart's style team consolidation signals intensifying retail competition in home and lifestyle categories.",
     "ai_processed": true
   },
   {
-    "title": "Digiday Publishing Summit September 2026 Recap: How publishers are rebuilding for the post-search era",
-    "link": "https://digiday.com/media/digiday-publishing-summit-september-2026-recap-how-publishers-are-rebuilding-for-the-post-search-era/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "title": "Tractor Supply opens latest distribution center in Idaho",
+    "link": "https://www.digitalcommerce360.com/2026/09/28/tractor-supply-opens-latest-distribution-center-in-idaho/",
     "date_published": "2026-09-28",
-    "description": "Execs at DPS described how they’re preparing for a post-search era by prioritizing direct audiences, diversified revenue and AI strategies.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
+    "description": "Tractor Supply has opened a distribution center in Nampa, Idaho, the retailer’s 11th such facility. The distribution center is 865,000 square feet, and the retailer said it will bring 500 full-time jobs to the region. It features additional acreage for future expansion, according to the retailer, as well as 80 truck docks that it said […]\nThe post Tractor Supply opens latest distribution center in Idaho appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
     "categories": [
-      "ai_marketing",
-      "strategy"
+      "commerce"
     ],
-    "relevance_score": 0.7,
+    "relevance_score": 0.25,
     "relevance_label": "high",
-    "title_en": "Publishers Rebuild for the Post-Search Era by Prioritizing Direct Audiences, Diversified Revenue, and AI",
-    "summary_ko": "2026년 9월 Digiday Publishing Summit에서 미디어 업계 경영진들은 AI 검색의 부상으로 인한 오가닉 트래픽 감소에 대응해 직접 독자층 구축과 수익 다각화 전략을 공유했다. 퍼스트파티 데이터와 직접 구독 채널 강화가 포스트 서치 시대의 핵심 생존 전략으로 제시됐다. 출판사들은 AI를 위협이자 새로운 수익 창출 기회로 동시에 바라보며 적극적인 AI 전략을 모색 중이다.",
-    "summary_en": "At the September 2026 Digiday Publishing Summit, media executives shared strategies for navigating a post-search era driven by the rise of AI-powered search that is eroding organic traffic. Building direct audience relationships and diversifying revenue streams emerged as the primary survival strategies. Publishers are simultaneously treating AI as both a threat to existing traffic models and an opportunity for new revenue generation.",
-    "so_what_ko": "LG D2C도 AI 검색 확산으로 인한 SEO 기반 트래픽 감소에 대비해 자사 채널 중심의 퍼스트파티 데이터 전략과 직접 고객 관계 구축에 선제적으로 투자해야 한다.",
-    "so_what_en": "LG D2C should proactively invest in first-party data strategies and owned-channel audience building to hedge against declining SEO-driven traffic as AI search transforms content discovery.",
+    "title_en": "Tractor Supply Expands Logistics Network with 11th Distribution Center in Idaho",
+    "summary_ko": "트랙터 서플라이가 아이다호주 남파에 86만 5,000평방피트 규모의 11번째 물류 센터를 개설했다. 이 시설은 80개의 트럭 도크와 향후 확장을 위한 추가 부지를 갖추고 있으며, 지역 내 500개의 정규직 일자리를 창출할 예정이다. 이번 투자는 트랙터 서플라이의 공급망 역량 강화와 지속적인 성장 전략의 일환이다.",
+    "summary_en": "Tractor Supply has opened its 11th distribution center in Nampa, Idaho, spanning 865,000 square feet. The facility features 80 truck docks and additional acreage for future expansion, and is expected to create 500 full-time jobs in the region. This investment reflects the retailer's ongoing strategy to strengthen its supply chain and logistics infrastructure.",
+    "so_what_ko": "물류 인프라 확장에 집중하는 전문 유통업체의 전략은 LG D2C 조직이 공급망 효율화와 라스트마일 배송 역량 강화의 중요성을 재확인하는 계기로 삼아야 한다.",
+    "so_what_en": "Tractor Supply's aggressive logistics expansion underscores the growing importance of supply chain infrastructure investment for D2C retailers aiming to scale efficiently.",
     "key_points": [
-      "AI 검색 부상으로 퍼블리셔의 오가닉 검색 트래픽이 구조적으로 감소하는 포스트 서치 시대 도래",
-      "직접 독자층(Direct Audience) 확보와 구독 중심 수익 다각화가 핵심 대응 전략",
-      "퍼스트파티 데이터와 자체 채널 강화가 AI 시대 미디어 생존의 전제 조건",
-      "AI를 콘텐츠 위협이 아닌 새로운 수익 기회로 재정의하는 전략적 시각 전환"
+      "Tractor Supply's new Nampa, Idaho facility is its 11th distribution center at 865,000 square feet",
+      "The center includes 80 truck docks and space designated for future expansion",
+      "500 full-time jobs will be created in the local region as a result of the opening"
     ],
     "tags": [
-      "post-search-era",
-      "first-party-data",
-      "content-strategy",
-      "ai-search",
-      "publisher-transformation"
+      "supply-chain",
+      "distribution-center",
+      "retail-logistics",
+      "tractor-supply",
+      "infrastructure"
     ],
-    "confidence": 0.68,
+    "confidence": 0.75,
     "strategic_theme": "RETAIL_TRANSFORMATION",
     "regions": [
-      "GLOBAL",
       "AMER"
     ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
     "key_entities": [
-      "Digiday",
-      "Digiday Publishing Summit"
+      "Tractor Supply",
+      "Nampa Idaho Distribution Center"
     ],
-    "one_line_insight_ko": "AI 검색이 오가닉 트래픽을 잠식함에 따라, 퍼스트파티 데이터와 직접 고객 채널이 D2C 마케팅의 새로운 핵심 자산으로 부상한다.",
-    "one_line_insight_en": "As AI search erodes organic traffic, first-party data and direct-owned channels become the most critical assets for sustainable D2C marketing reach.",
+    "one_line_insight_ko": "트랙터 서플라이의 물류 센터 확장은 오프라인 유통업체의 공급망 투자가 성장 핵심 전략임을 보여준다.",
+    "one_line_insight_en": "Tractor Supply's logistics expansion highlights supply chain investment as a core growth lever for specialty retailers.",
     "ai_processed": true
   },
   {
-    "title": "‘Not hiring’ entry-level talent: Industry acknowledges runaway crisis brought on by introducing AI to the workforce",
-    "link": "https://digiday.com/marketing/not-hiring-entry-level-talent-industry-acknowledges-runaway-crisis-brought-on-by-introducing-ai-to-the-workforce/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "title": "Rethinking Work in the Age of AI and Agents",
+    "link": "https://www.marketingaiinstitute.com/blog/rethinking-work-with-ai-maicon-2026",
     "date_published": "2026-09-28",
-    "description": "Entry-level talent is challenged by AI in the workforce. What are some of the solutions for that cohort?",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
-    "categories": [
-      "ai_marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.65,
-    "relevance_label": "high",
-    "title_en": "Industry Confronts Growing Crisis as AI Displaces Entry-Level Marketing Talent",
-    "summary_ko": "AI 도입 확산으로 마케팅·광고 업계에서 신입 인재 채용이 급감하는 구조적 위기가 가시화되고 있다. 기업들은 AI가 기존 주니어 직원이 담당하던 업무를 대체하면서 인재 파이프라인 자체가 붕괴될 수 있다는 우려를 표명하고 있다. 업계는 이 문제에 대한 해결책을 모색 중이나 아직 명확한 대안은 제시되지 않은 상황이다.",
-    "summary_en": "The marketing and advertising industry is facing a structural crisis as AI adoption leads companies to significantly reduce hiring of entry-level talent. Junior roles that once served as the foundation of career pipelines are increasingly being automated, threatening the long-term talent ecosystem. Industry stakeholders are beginning to acknowledge the problem, though concrete solutions remain elusive.",
-    "so_what_ko": "LG D2C 조직도 AI 도입에 따른 주니어 인재 채용 전략을 재검토해야 하며, 단순 업무 자동화와 인재 육성 간의 균형점을 설정하는 것이 장기 조직 경쟁력 유지에 핵심 과제다.",
-    "so_what_en": "LG D2C must reassess its entry-level hiring strategy in light of AI automation, balancing efficiency gains with the need to build a sustainable talent pipeline for future marketing and commerce roles.",
-    "key_points": [
-      "AI 도입으로 마케팅·광고 업계 신입 채용이 급감하는 추세 확인",
-      "주니어 인재의 커리어 파이프라인 붕괴 위기가 산업 전반의 공통 과제로 부상",
-      "업계 차원의 해결책 논의가 시작됐으나 구체적 대안은 아직 미비"
-    ],
-    "tags": [
-      "ai-workforce",
-      "entry-level-talent",
-      "marketing-jobs",
-      "ai-displacement",
-      "talent-pipeline"
-    ],
-    "confidence": 0.55,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "Digiday"
-    ],
-    "one_line_insight_ko": "AI가 주니어 마케터 역할을 대체하면서 업계 전반의 인재 생태계가 위협받고 있으며, D2C 조직의 인재 전략 재설계가 시급하다.",
-    "one_line_insight_en": "AI displacement of entry-level marketing roles is threatening the industry talent pipeline, demanding urgent rethinking of D2C workforce and hiring strategies.",
-    "ai_processed": true
-  },
-  {
-    "title": "Media Buying Briefing: Stagwell’s chief AI officer explains why Palantir differentiates its data platform from competitors",
-    "link": "https://digiday.com/media-buying/media-buying-briefing-stagwells-chief-ai-officer-explains-why-palantir-differentiates-its-data-platform-from-competitors/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-09-28",
-    "description": "John Kahan explains how Palantir lets clients control their own data destiny, and what differential privacy means as a differentiator.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
+    "description": "Paul Roetzer, Founder and CEO of SmarterX and Marketing AI Institute, will kick off MAICON 2026 with a keynote titled \"The Architect, The Orchestrator and The Apprentice: Rethinking Work in the Age of AI and Agents.\"",
+    "source_id": "marketing_ai_institute",
+    "source_name": "Marketing AI Institute",
+    "source_url": "https://www.marketingaiinstitute.com/blog/rss.xml",
     "categories": [
       "ai_marketing",
       "strategy"
     ],
     "relevance_score": 0.72,
     "relevance_label": "high",
-    "title_en": "Stagwell's Chief AI Officer: Palantir's Differential Privacy Sets Its Data Platform Apart",
-    "summary_ko": "스테이지웰(Stagwell)의 최고 AI 책임자 존 카한(John Kahan)은 팔란티어(Palantir)가 클라이언트가 자신의 데이터를 직접 통제할 수 있는 환경을 제공한다는 점에서 경쟁 데이터 플랫폼과 차별화된다고 설명했다. 핵심 차별화 요소는 '차등 프라이버시(Differential Privacy)' 기술로, 개인 데이터를 노출하지 않으면서도 집합적 인사이트를 안전하게 도출할 수 있게 한다. 이는 미디어 바잉 영역에서 데이터 주권과 프라이버시 보호를 동시에 충족하려는 광고주들의 수요에 부응하는 전략이다.",
-    "summary_en": "Stagwell's Chief AI Officer John Kahan highlighted how Palantir differentiates its data platform by enabling clients to maintain full control over their own data. A key technical differentiator is differential privacy, which allows aggregated insights to be derived without exposing individual-level data. This approach is particularly relevant as advertisers seek data sovereignty alongside privacy compliance in their media buying operations.",
-    "so_what_ko": "LG D2C는 퍼스트파티 데이터 전략을 강화할 때 차등 프라이버시 같은 프라이버시 보존 기술을 적극 검토해야 하며, 데이터 플랫폼 파트너 선정 시 데이터 주권 확보 여부를 핵심 기준으로 삼아야 한다.",
-    "so_what_en": "LG D2C should evaluate privacy-preserving technologies like differential privacy when building its first-party data strategy, and prioritize data sovereignty as a critical criterion when selecting data platform partners.",
+    "title_en": "MAICON 2026 Keynote to Explore New Human-AI Work Roles: Architect, Orchestrator, and Apprentice",
+    "summary_ko": "마케팅 AI 인스티튜트 창립자 폴 로에처가 MAICON 2026 기조연설에서 'AI와 에이전트 시대의 업무 재정의'를 주제로 발표할 예정이다. 연설은 '아키텍트, 오케스트레이터, 어프렌티스'라는 세 가지 새로운 인간-AI 협업 역할 프레임을 제시한다. 이는 AI 에이전트가 업무 방식과 조직 역할을 근본적으로 변화시키는 시대에 대한 전략적 사고를 촉구하는 내용이다.",
+    "summary_en": "Paul Roetzer, Founder and CEO of SmarterX and Marketing AI Institute, will deliver the opening keynote at MAICON 2026 titled 'The Architect, The Orchestrator and The Apprentice: Rethinking Work in the Age of AI and Agents.' The keynote introduces a framework of three evolving human roles in an AI-augmented workplace. The session is designed to help marketing and business leaders rethink how work is structured as AI agents become integral to operations.",
+    "so_what_ko": "AI 에이전트 시대에 마케팅 조직 내 역할을 '설계자·조율자·학습자'로 재정의하는 프레임은 LG D2C 마케팅 팀의 AI 도입 전략 및 인재 역할 재설계에 직접 적용할 수 있다.",
+    "so_what_en": "The Architect-Orchestrator-Apprentice framework offers LG D2C marketing teams a practical model for redefining human roles and responsibilities as AI agents take on more operational tasks.",
     "key_points": [
-      "팔란티어는 클라이언트 데이터 자기결정권(data sovereignty) 보장을 핵심 차별점으로 내세움",
-      "차등 프라이버시(Differential Privacy) 기술이 광고 데이터 플랫폼의 새로운 차별화 요소로 부상",
-      "스테이지웰은 AI와 데이터 플랫폼 통합을 통해 미디어 바잉 역량을 고도화 중"
+      "MAICON 2026 keynote introduces a three-role framework: Architect, Orchestrator, and Apprentice for human-AI collaboration",
+      "Speaker Paul Roetzer leads both SmarterX and Marketing AI Institute, focusing on AI transformation in marketing",
+      "The session addresses how AI agents are fundamentally reshaping work structures and organizational roles"
     ],
     "tags": [
-      "data-privacy",
-      "palantir",
-      "stagwell",
-      "differential-privacy",
-      "media-buying"
+      "ai-agents",
+      "future-of-work",
+      "marketing-ai",
+      "maicon-2026",
+      "organizational-transformation"
     ],
     "confidence": 0.65,
-    "strategic_theme": "DATA_STRATEGY",
+    "strategic_theme": "AI_AGENT",
     "regions": [
       "GLOBAL",
       "AMER"
@@ -558,150 +363,347 @@
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Stagwell",
-      "Palantir",
-      "John Kahan"
+      "Marketing AI Institute",
+      "MAICON 2026",
+      "Paul Roetzer",
+      "SmarterX"
     ],
-    "one_line_insight_ko": "차등 프라이버시 기반의 데이터 주권 확보가 광고 플랫폼 경쟁력의 새로운 핵심 기준으로 부상하고 있다.",
-    "one_line_insight_en": "Data sovereignty enabled by differential privacy is emerging as the new competitive benchmark for advertising data platforms.",
+    "one_line_insight_ko": "AI 에이전트 시대의 마케팅 조직은 '설계자·조율자·학습자'라는 새로운 역할 프레임으로 인재와 업무를 재설계해야 한다.",
+    "one_line_insight_en": "Marketing organizations must redesign roles around the Architect-Orchestrator-Apprentice framework to thrive in the AI agent era.",
     "ai_processed": true
   },
   {
-    "title": "How Unilever sees the line between beauty and wellness blurring",
-    "link": "https://www.modernretail.co/operations/how-unilever-sees-the-line-between-beauty-and-wellness-blurring/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "title": "Shopify opens checkout to browser-based AI agents",
+    "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
     "date_published": "2026-09-28",
-    "description": "Unilever Wellbeing is betting on the continued convergence of beauty and wellness as GLP-1 drugs and AI-driven health data impact what consumers are looking for.",
-    "source_id": "modern_retail",
-    "source_name": "Modern Retail",
-    "source_url": "https://www.modernretail.co/feed/",
+    "description": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
+    "source_id": "techcrunch_commerce",
+    "source_name": "TechCrunch Commerce",
+    "source_url": "https://techcrunch.com/category/commerce/feed",
     "categories": [
       "commerce",
-      "ai_marketing",
-      "strategy"
+      "agentic_commerce",
+      "tech"
     ],
-    "relevance_score": 0.75,
+    "relevance_score": 0.97,
     "relevance_label": "high",
-    "title_en": "Unilever Bets on Beauty-Wellness Convergence Driven by GLP-1 Drugs and AI Health Data",
-    "summary_ko": "유니레버 웰빙(Unilever Wellbeing)은 GLP-1 계열 비만 치료제 확산과 AI 기반 건강 데이터 분석이 소비자 니즈를 변화시키면서 뷰티와 웰니스의 경계가 빠르게 허물어지고 있다고 분석했다. 유니레버는 이 두 카테고리의 융합 트렌드에 선제적으로 대응하기 위해 웰빙 전문 사업부를 운영하며 포트폴리오를 재편 중이다. AI 기반 건강 데이터 인사이트는 소비자가 자신의 신체 변화에 맞춘 뷰티·웰니스 제품을 선택하는 방식을 근본적으로 바꾸고 있다.",
-    "summary_en": "Unilever Wellbeing is strategically positioning itself at the intersection of beauty and wellness, driven by the rise of GLP-1 weight-loss drugs and AI-powered health data that are reshaping consumer preferences. The company sees the blurring of these two categories as a sustained trend rather than a temporary shift, prompting portfolio realignment. AI-driven health data insights are fundamentally changing how consumers select beauty and wellness products tailored to their changing bodies.",
-    "so_what_ko": "LG D2C는 AI 기반 건강·라이프스타일 데이터를 활용해 뷰티와 웰니스를 연계한 초개인화 제품 추천 및 D2C 경험을 설계할 수 있으며, 이는 신규 소비자 세그먼트 공략의 핵심 기회가 될 수 있다.",
-    "so_what_en": "LG D2C can leverage AI-driven health and lifestyle data to design hyper-personalized product recommendations that bridge beauty and wellness categories, unlocking new consumer segments and D2C revenue opportunities.",
+    "title_en": "Shopify Extends WebMCP Support to Checkout, Enabling AI Agents to Complete Purchases",
+    "summary_ko": "쇼피파이가 WebMCP 지원을 체크아웃 단계까지 확장하여 브라우저 기반 AI 에이전트가 구매자의 승인 하에 주문 세부 사항을 업데이트하고 구매를 완료할 수 있게 했다. 이 기능은 AI 에이전트가 실제 커머스 트랜잭션을 직접 실행할 수 있는 에이전틱 커머스의 핵심 인프라로 자리잡는다. 이번 조치는 AI 에이전트가 소비자 쇼핑 여정 전반을 자율적으로 처리하는 미래를 앞당기는 중요한 기술적 전환점이다.",
+    "summary_en": "Shopify is expanding its WebMCP (Web Model Context Protocol) support to the checkout stage, allowing browser-based AI agents to update order details and complete purchases on behalf of buyers with their authorization. This development positions Shopify's checkout infrastructure as a foundational layer for agentic commerce, where AI agents autonomously execute real transactions. The move represents a significant step toward a future where AI handles entire consumer shopping journeys end-to-end.",
+    "so_what_ko": "AI 에이전트가 체크아웃까지 자율 처리하는 쇼피파이의 에이전틱 커머스 인프라는 LG D2C 플랫폼이 AI 에이전트 친화적 구매 경험을 설계하고 관련 기술 표준을 선제적으로 수용해야 함을 시사한다.",
+    "so_what_en": "Shopify's agent-ready checkout infrastructure signals that LG D2C platforms must proactively design AI agent-compatible purchase flows and adopt emerging standards like WebMCP to remain competitive.",
     "key_points": [
-      "GLP-1 비만 치료제 보급이 소비자의 뷰티·웰니스 제품 선택 기준을 근본적으로 변화시키고 있음",
-      "AI 기반 건강 데이터가 뷰티-웰니스 융합 카테고리의 개인화 핵심 엔진으로 기능",
-      "유니레버는 전담 웰빙 사업부를 통해 이 융합 트렌드에 선제적으로 대응 중"
+      "Shopify extends WebMCP support to checkout, enabling browser-based AI agents to complete purchases with buyer authorization",
+      "This makes Shopify's infrastructure a foundational enabler of agentic commerce at the transaction level",
+      "The development accelerates the shift toward fully autonomous AI-driven shopping journeys"
     ],
     "tags": [
-      "beauty-wellness",
-      "unilever",
-      "glp-1",
-      "ai-health-data",
-      "personalization"
+      "agentic-commerce",
+      "shopify",
+      "webmcp",
+      "ai-agents",
+      "checkout-automation"
     ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_PERSONALIZATION",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Unilever",
-      "Unilever Wellbeing",
-      "GLP-1"
-    ],
-    "one_line_insight_ko": "GLP-1 약물과 AI 건강 데이터가 뷰티-웰니스 경계를 허물며 초개인화 D2C 상품 전략의 새로운 기회를 만들고 있다.",
-    "one_line_insight_en": "GLP-1 drugs and AI health data are dissolving the beauty-wellness boundary, creating a new frontier for hyper-personalized D2C product strategy.",
-    "ai_processed": true
-  },
-  {
-    "title": "‘Not hiring’ entry-level talent: Industry acknowledges runaway crisis brought on by introducing AI to the workforce",
-    "link": "https://www.modernretail.co/retailers/not-hiring-entry-level-talent-industry-acknowledges-runaway-crisis-brought-on-by-introducing-ai-to-the-workforce/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-09-28",
-    "description": "Entry-level talent is challenged by AI in the workforce. What are some of the solutions for that cohort?",
-    "source_id": "modern_retail",
-    "source_name": "Modern Retail",
-    "source_url": "https://www.modernretail.co/feed/",
-    "categories": [
-      "ai_commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.6,
-    "relevance_label": "high",
-    "title_en": "Industry Confronts Growing Crisis as AI Displaces Entry-Level Retail and Commerce Talent",
-    "summary_ko": "AI 도입 가속화로 인해 리테일 및 커머스 업계에서도 신입 인재 채용이 급격히 줄어드는 위기 상황이 업계 전반에서 인식되고 있다. 주니어 직원들이 담당하던 반복적·분석적 업무가 AI로 대체되면서 커리어 진입 경로 자체가 사라질 수 있다는 우려가 커지고 있다. 업계는 이 위기를 인식하면서도 실질적인 해결책 마련에는 아직 어려움을 겪고 있다.",
-    "summary_en": "The retail and commerce industry is increasingly acknowledging a structural talent crisis as AI automation reduces the need for entry-level hires across operations and marketing functions. Roles traditionally filled by junior employees—such as data analysis, content production, and customer support—are being rapidly automated, cutting off early career pathways. While industry awareness of the problem is growing, actionable solutions for this cohort remain underdeveloped.",
-    "so_what_ko": "LG D2C 조직은 AI 자동화로 변화하는 신입 역할의 범위를 재정의하고, 자동화 불가 역량(창의성·전략적 사고) 중심의 인재 육성 프로그램을 조기에 설계해야 한다.",
-    "so_what_en": "LG D2C should proactively redefine entry-level roles in the context of AI automation and design talent development programs centered on non-automatable capabilities such as creativity and strategic thinking.",
-    "key_points": [
-      "리테일·커머스 업계에서 AI로 인한 신입 채용 축소가 산업 공통 위기로 부상",
-      "반복적 업무의 자동화가 주니어 인재의 경력 진입 경로를 차단하는 구조적 문제 심화",
-      "업계 차원의 해결책 논의가 시작됐으나 실효성 있는 대안 부재"
-    ],
-    "tags": [
-      "ai-workforce",
-      "retail-talent",
-      "entry-level-jobs",
-      "automation",
-      "d2c-operations"
-    ],
-    "confidence": 0.55,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "Modern Retail"
-    ],
-    "one_line_insight_ko": "AI 자동화가 리테일 산업의 신입 인재 생태계를 위협하며, D2C 조직의 인재 전략과 역할 재설계가 시급한 과제로 떠올랐다.",
-    "one_line_insight_en": "AI automation is threatening the entry-level talent pipeline in retail, making workforce strategy redesign an urgent priority for D2C organizations.",
-    "ai_processed": true
-  },
-  {
-    "title": "ROAS’s First Source of Truth",
-    "link": "https://www.practicalecommerce.com/roass-first-source-of-truth",
-    "date_published": "2026-09-27",
-    "description": "If advertising investment rises, sales and profit should too. If ad spending falls, so should sales.\nThe post ROAS’s First Source of Truth appeared first on Practical Ecommerce.",
-    "source_id": "practical_ecommerce",
-    "source_name": "Practical Ecommerce",
-    "source_url": "https://www.practicalecommerce.com/feed",
-    "categories": [
-      "ai_commerce",
-      "commerce"
-    ],
-    "relevance_score": 0.68,
-    "relevance_label": "high",
-    "title_en": "ROAS's First Source of Truth: Why Profit-Based Measurement Must Anchor Ad Spend Decisions",
-    "summary_ko": "광고 수익률(ROAS)을 정확히 평가하기 위해서는 광고비 증감이 매출과 이익에 미치는 인과관계를 신뢰할 수 있는 단일 데이터 기준(First Source of Truth)으로 검증해야 한다. 광고비가 늘면 매출과 이익도 함께 증가해야 하고, 광고비가 줄면 반대의 결과가 나와야 하는 기본 원칙이 ROAS 측정의 토대가 된다. 이 원칙을 무시한 채 단순 클릭·전환 지표만을 ROAS 기준으로 삼는 것은 광고 투자 효율을 왜곡할 수 있다.",
-    "summary_en": "Accurately evaluating Return on Ad Spend (ROAS) requires establishing a reliable first source of truth that validates the causal relationship between ad investment and both sales and profit outcomes. The foundational principle is straightforward: if ad spending rises, sales and profit should increase proportionally, and vice versa. Relying solely on click or conversion metrics without anchoring ROAS measurement in actual profit data risks distorting advertising investment decisions.",
-    "so_what_ko": "LG D2C의 광고 성과 측정 체계를 매출 중심에서 이익 기반 ROAS로 전환하고, 광고비-매출-이익 간 인과관계를 검증하는 신뢰 가능한 단일 데이터 기준을 내재화해야 한다.",
-    "so_what_en": "LG D2C should shift its advertising performance measurement from revenue-centric to profit-based ROAS, establishing a reliable single source of truth that validates the causal link between ad spend, sales, and actual profit.",
-    "key_points": [
-      "ROAS 측정의 신뢰성은 광고비-매출-이익 간 인과관계 검증에 달려 있음",
-      "단순 클릭·전환 지표 의존은 광고 효율 평가를 왜곡할 수 있어 이익 기반 측정으로 전환 필요",
-      "광고 투자 증감과 비즈니스 성과 간의 직접적 상관관계를 단일 기준으로 정립하는 것이 핵심"
-    ],
-    "tags": [
-      "roas",
-      "ad-measurement",
-      "ecommerce-analytics",
-      "profit-attribution",
-      "d2c-advertising"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "DATA_STRATEGY",
+    "confidence": 0.88,
+    "strategic_theme": "AI_AGENT",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Practical Ecommerce"
+      "Shopify",
+      "WebMCP",
+      "AI Agents"
     ],
-    "one_line_insight_ko": "ROAS의 진정한 기준은 클릭이 아닌 이익이며, 광고비-매출-이익 간 인과관계를 단일 소스로 검증하는 체계 구축이 D2C 광고 효율의 핵심이다.",
-    "one_line_insight_en": "True ROAS measurement must be anchored in profit, not clicks—building a single source of truth that validates ad spend-to-profit causality is foundational to D2C advertising efficiency.",
+    "one_line_insight_ko": "쇼피파이의 AI 에이전트 체크아웃 지원은 에이전틱 커머스가 실제 트랜잭션 인프라로 구현되는 변곡점을 알린다.",
+    "one_line_insight_en": "Shopify's AI agent-enabled checkout marks the inflection point where agentic commerce moves from concept to live transaction infrastructure.",
+    "ai_processed": true
+  },
+  {
+    "title": "Twisted Tea dons camo for collab campaign as brand faces headwinds",
+    "link": "https://www.marketingdive.com/news/twisted-tea-dons-camo-for-collab-campaign-as-brand-faces-headwinds/831472/",
+    "date_published": "2026-09-28",
+    "description": "The fall-focused effort taps into cultural trends around camo fashion and arrives as a new CMO prepares to join parent company Boston Beer.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
+    "categories": [
+      "marketing"
+    ],
+    "relevance_score": 0.22,
+    "relevance_label": "high",
+    "title_en": "Twisted Tea Launches Camo Collaboration Campaign Amid Brand Headwinds and CMO Transition",
+    "summary_ko": "트위스티드 티가 카모 패션 트렌드를 활용한 가을 콜라보레이션 캠페인을 선보이며 브랜드 역풍 속에서 문화적 관련성을 강화하려 하고 있다. 이 캠페인은 모회사인 보스턴 비어에 새로운 CMO가 합류를 앞둔 시점에 맞춰 출시되었다. 문화적 트렌드와의 연계를 통한 브랜드 활성화 전략이 핵심으로, AI 기술과의 직접적인 연관성은 원문에서 확인되지 않는다.",
+    "summary_en": "Twisted Tea has launched a fall-focused collaborative campaign leveraging the cultural trend of camo fashion to boost brand relevance during a challenging period for the brand. The campaign launches as a new CMO is set to join parent company Boston Beer, signaling a potential strategic shift in brand direction. The effort reflects a broader marketing strategy of tapping into cultural moments to drive consumer engagement amid headwinds.",
+    "so_what_ko": "문화적 트렌드와 시의성 있는 콜라보레이션으로 브랜드 모멘텀을 유지하는 전략은 LG D2C 마케팅에서도 제품 캠페인 기획 시 시즌별 문화 트렌드 연계를 강화하는 참고 사례가 될 수 있다.",
+    "so_what_en": "Twisted Tea's culturally-anchored collaboration strategy offers a reference point for LG D2C marketers on leveraging seasonal and cultural trends to sustain brand momentum during transitional periods.",
+    "key_points": [
+      "Twisted Tea launches a fall camo-themed collaboration campaign to tap into current fashion cultural trends",
+      "The campaign arrives amid brand headwinds and ahead of a new CMO joining parent company Boston Beer",
+      "The strategy relies on cultural relevance and collaboration to drive consumer engagement"
+    ],
+    "tags": [
+      "brand-marketing",
+      "collaboration-campaign",
+      "cultural-trends",
+      "beverage-industry",
+      "cmo-transition"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Twisted Tea",
+      "Boston Beer",
+      "CMO"
+    ],
+    "one_line_insight_ko": "브랜드 역풍 속에서도 문화적 트렌드와 콜라보레이션을 결합한 캠페인은 소비자 관심을 유지하는 효과적인 단기 전략이 될 수 있다.",
+    "one_line_insight_en": "Culturally-anchored collaboration campaigns can serve as an effective short-term strategy to sustain brand relevance even amid headwinds.",
+    "ai_processed": true
+  },
+  {
+    "title": "Dave & Buster’s shakes up agencies amid bid to rebuild brand relevance",
+    "link": "https://www.marketingdive.com/news/dave-busters-shakes-up-agencies-amid-bid-to-rebuild-brand-relevance/831369/",
+    "date_published": "2026-09-28",
+    "description": "Gut and Mediaplus are joining the chain’s roster to develop more distinctive marketing and better connect national scale to local activities.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
+    "categories": [
+      "marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.35,
+    "relevance_label": "high",
+    "title_en": "Dave & Buster's Restructures Agency Roster to Rebuild Brand Relevance with Gut and Mediaplus",
+    "summary_ko": "데이브 앤 버스터스는 브랜드 재건을 위해 에이전시 파트너십을 개편하며 Gut과 Mediaplus를 새롭게 합류시켰다. 이번 개편은 보다 차별화된 마케팅을 개발하고 전국 규모와 지역 활동을 효과적으로 연결하기 위한 전략의 일환이다. 브랜드 관련성 회복을 목표로 한 이번 움직임은 외식·엔터테인먼트 업계의 치열한 경쟁 속에서 마케팅 역량 강화에 초점을 맞추고 있다.",
+    "summary_en": "Dave & Buster's has restructured its agency partnerships by adding Gut and Mediaplus to its roster in a bid to rebuild brand relevance. The move aims to develop more distinctive marketing creative and better connect national-scale campaigns to local market activities. This agency shakeup reflects the chain's broader strategy to sharpen its competitive positioning in the entertainment dining sector.",
+    "so_what_ko": "D2C 관점에서, 브랜드 관련성 회복을 위한 에이전시 다변화 전략은 전국 마케팅과 지역 활동 간의 연결고리를 강화하는 데 유효하며, LG D2C도 글로벌-로컬 마케팅 정합성을 높이는 파트너십 구조를 재검토할 필요가 있다.",
+    "so_what_en": "For D2C brands, restructuring agency partnerships to bridge national scale with local activation is a proven lever for rebuilding relevance — LG D2C should evaluate whether its current agency model effectively connects global brand strategy to local market execution.",
+    "key_points": [
+      "Gut and Mediaplus join Dave & Buster's agency roster to drive brand differentiation",
+      "Strategy focuses on linking national marketing scale with local market activities",
+      "Agency restructuring signals a broader brand relevance rebuilding effort"
+    ],
+    "tags": [
+      "brand-relevance",
+      "agency-roster",
+      "local-marketing",
+      "entertainment-dining"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Dave & Buster's",
+      "Gut",
+      "Mediaplus"
+    ],
+    "one_line_insight_ko": "브랜드 관련성 위기를 맞은 Dave & Buster's는 에이전시 재편을 통해 전국-지역 마케팅 연결성 강화에 나섰다.",
+    "one_line_insight_en": "Dave & Buster's is betting on a fresh agency lineup to reconnect its national brand with local consumer relevance.",
+    "ai_processed": true
+  },
+  {
+    "title": "E.l.f. jams to second music album under entertainment marketing arm",
+    "link": "https://www.marketingdive.com/news/elf-jams-to-second-music-album-under-entertainment-marketing-arm/831453/",
+    "date_published": "2026-09-28",
+    "description": "“Mirror Mix” features seven rising artists and will be promoted through a partnership with lyrics platform Genius around its Open Mic content series.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
+    "categories": [
+      "marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.3,
+    "relevance_label": "high",
+    "title_en": "E.l.f. Beauty Launches Second Music Album 'Mirror Mix' Through Entertainment Marketing Arm",
+    "summary_ko": "E.l.f. 뷰티는 엔터테인먼트 마케팅 부문을 통해 두 번째 음악 앨범 'Mirror Mix'를 출시하며 창의적 브랜드 확장을 이어가고 있다. 이번 앨범은 7명의 신예 아티스트가 참여했으며, 가사 플랫폼 Genius의 'Open Mic' 콘텐츠 시리즈와의 파트너십을 통해 프로모션된다. 이는 뷰티 브랜드가 음악·문화 콘텐츠를 활용해 젊은 소비자층과의 감성적 연결을 강화하는 트렌드를 잘 보여준다.",
+    "summary_en": "E.l.f. Beauty has released its second music album, 'Mirror Mix,' featuring seven rising artists as part of its dedicated entertainment marketing arm. The album will be promoted through a partnership with Genius, the lyrics platform, centered around its Open Mic content series. This initiative exemplifies E.l.f.'s ongoing strategy to deepen brand affinity with younger consumers through music and cultural content.",
+    "so_what_ko": "뷰티 브랜드가 음악 앨범과 콘텐츠 플랫폼 파트너십으로 Z세대 소비자와의 감성적 연결을 구축하는 방식은, LG D2C가 제품 중심 마케팅을 넘어 문화·엔터테인먼트 콘텐츠 전략으로 브랜드 커뮤니티를 형성하는 데 참고할 수 있는 모델이다.",
+    "so_what_en": "E.l.f.'s entertainment-led marketing model demonstrates how consumer brands can build deep emotional resonance with younger audiences beyond product marketing — LG D2C could explore cultural content partnerships to strengthen brand community engagement.",
+    "key_points": [
+      "'Mirror Mix' is E.l.f.'s second music album under its entertainment marketing arm",
+      "Features seven rising artists promoted via Genius's Open Mic content series",
+      "Reflects a broader trend of beauty brands leveraging music and culture for Gen Z engagement"
+    ],
+    "tags": [
+      "entertainment-marketing",
+      "brand-content",
+      "gen-z",
+      "music-partnership",
+      "beauty-brand"
+    ],
+    "confidence": 0.65,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER",
+      "GLOBAL"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "E.l.f. Beauty",
+      "Genius",
+      "Mirror Mix",
+      "Open Mic"
+    ],
+    "one_line_insight_ko": "E.l.f.의 음악 앨범 출시는 뷰티 브랜드가 엔터테인먼트 콘텐츠로 Z세대와 진정성 있는 관계를 구축하는 새로운 마케팅 패러다임을 보여준다.",
+    "one_line_insight_en": "E.l.f.'s second music album underscores how consumer brands can transcend traditional advertising by becoming genuine cultural content creators.",
+    "ai_processed": true
+  },
+  {
+    "title": "Microsoft’s Copilot redesign provides an experimental opportunity",
+    "link": "https://aibusiness.com/generative-ai/microsoft-s-copilot-redesign-provides-experimental-opportunity",
+    "date_published": "2026-09-28",
+    "description": "The revamp transforms Copilot from a simple AI assistant into a content workspace, providing knowledge workers with advanced developer tools.",
+    "source_id": "ai_business",
+    "source_name": "AI Business",
+    "source_url": "https://aibusiness.com/rss.xml",
+    "categories": [
+      "tech",
+      "ai_marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.7,
+    "relevance_label": "high",
+    "title_en": "Microsoft Copilot Redesign Evolves from AI Assistant to Content Workspace for Knowledge Workers",
+    "summary_ko": "마이크로소프트는 Copilot을 단순한 AI 어시스턴트에서 콘텐츠 워크스페이스로 전환하는 대규모 리디자인을 단행했다. 이번 개편은 지식 근로자에게 고급 개발자 도구를 제공하며 업무 생산성과 창의적 작업 역량을 동시에 강화한다. 이는 생성형 AI 도구가 단순 질답 기능을 넘어 복합적 업무 플랫폼으로 진화하고 있음을 보여주는 중요한 사례다.",
+    "summary_en": "Microsoft has overhauled Copilot, transforming it from a simple AI assistant into a full content workspace equipped with advanced developer tools for knowledge workers. The redesign represents a significant expansion of Copilot's role within the Microsoft ecosystem, targeting deeper integration into complex workflows. This evolution reflects the broader trend of generative AI tools moving from conversational interfaces to comprehensive productivity platforms.",
+    "so_what_ko": "Copilot의 콘텐츠 워크스페이스 진화는 LG D2C 마케팅 팀이 AI 도구를 단순 자동화 수준을 넘어 콘텐츠 기획·제작·배포의 통합 플랫폼으로 활용할 수 있는 기회를 제공하며, 조직 내 AI 도입 전략 재검토가 필요하다.",
+    "so_what_en": "Copilot's evolution into a content workspace signals a shift that LG D2C marketing teams should actively explore — leveraging it not just for task automation but as an integrated platform for content ideation, creation, and workflow management.",
+    "key_points": [
+      "Copilot redesigned from AI assistant to a full content workspace",
+      "New version includes advanced developer tools targeting knowledge workers",
+      "Signals generative AI maturing from chatbots to integrated productivity platforms",
+      "Creates experimental opportunities for enterprise AI adoption strategies"
+    ],
+    "tags": [
+      "microsoft-copilot",
+      "generative-ai",
+      "content-workspace",
+      "knowledge-workers",
+      "ai-tools"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "EMERGING_TECH",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Microsoft",
+      "Copilot"
+    ],
+    "one_line_insight_ko": "마이크로소프트 Copilot의 콘텐츠 워크스페이스 전환은 생성형 AI가 마케팅 업무 전반의 통합 플랫폼으로 자리잡는 변곡점을 의미한다.",
+    "one_line_insight_en": "Microsoft's Copilot redesign marks a pivotal shift from AI as a simple assistant to AI as an integrated content and productivity platform for enterprise teams.",
+    "ai_processed": true
+  },
+  {
+    "title": "New GSC Image Filter Aids Product Discovery",
+    "link": "https://www.practicalecommerce.com/new-gsc-image-filter-aids-product-discovery",
+    "date_published": "2026-09-27",
+    "description": "Search Console's new filter reveals a discovery channel since shoppers often search images to find products.\nThe post New GSC Image Filter Aids Product Discovery appeared first on Practical Ecommerce.",
+    "source_id": "practical_ecommerce",
+    "source_name": "Practical Ecommerce",
+    "source_url": "https://www.practicalecommerce.com/feed",
+    "categories": [
+      "commerce",
+      "ai_commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.72,
+    "relevance_label": "high",
+    "title_en": "Google Search Console's New Image Filter Enhances Product Discovery for E-Commerce",
+    "summary_ko": "구글 서치 콘솔(GSC)에 새로운 이미지 필터가 추가되어 쇼핑객들이 이미지 검색을 통해 제품을 발견하는 채널을 더 명확하게 분석할 수 있게 됐다. 이 기능은 소비자들이 이미지를 통해 제품을 탐색하는 행동이 증가하고 있다는 점에서 이커머스 마케터들에게 중요한 새로운 데이터 소스를 제공한다. 이미지 검색 최적화가 제품 발견(Product Discovery)의 핵심 채널로 부상하고 있음을 보여주는 사례다.",
+    "summary_en": "Google Search Console has introduced a new image filter that allows e-commerce marketers to better understand and analyze image search as a distinct product discovery channel. This update addresses the growing behavior of shoppers using image search to find and evaluate products before purchase. The new capability positions image SEO as an increasingly critical lever for driving organic product visibility and traffic.",
+    "so_what_ko": "LG D2C 팀은 GSC의 새 이미지 필터를 활용해 제품 이미지 검색 유입 데이터를 분석하고, 이미지 SEO 최적화 전략을 강화함으로써 오가닉 제품 발견율과 전환율을 높일 수 있다.",
+    "so_what_en": "LG D2C teams should leverage the new GSC image filter to audit and optimize product image SEO, turning image search into a measurable and high-intent organic discovery channel that drives conversion.",
+    "key_points": [
+      "Google Search Console adds new image filter for clearer product discovery analytics",
+      "Shoppers increasingly use image search to find and evaluate products",
+      "Image SEO is emerging as a key organic channel for e-commerce product visibility",
+      "Provides actionable data to optimize visual content strategy"
+    ],
+    "tags": [
+      "google-search-console",
+      "image-seo",
+      "product-discovery",
+      "ecommerce",
+      "visual-search"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "AI_COMMERCE",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Google Search Console",
+      "Google"
+    ],
+    "one_line_insight_ko": "GSC의 이미지 필터는 이미지 검색이 이커머스 제품 발견의 독립적인 핵심 채널로 공식화되었음을 의미하며, 비주얼 SEO 전략 강화가 시급하다.",
+    "one_line_insight_en": "Google's new GSC image filter officially elevates image search as a distinct and measurable product discovery channel, making visual SEO a must-have e-commerce priority.",
+    "ai_processed": true
+  },
+  {
+    "title": "#242: How Baptist Health’s Marketing Team Took the Lead on AI Transformation",
+    "link": "",
+    "date_published": "2026-09-24",
+    "description": "One task at Baptist Health used to take about 10 hours a week. Now it takes roughly two minutes, and that's just one piece of a two-year AI transformation.\n\nChristine Kotler, Chief Marketing & Communications Officer of Baptist Health South Florida, joins Mike Kaput to walk through how her marketing and communications team built an AI adoption model from the ground up: a structured learning curriculum, the peer-coaching \"AI Sherpa\" model, real use cases, and the honest friction of doing this inside a regulated healthcare organization.\n\nPart of the AI Transformations series, presented by Google Cloud.\n\nShow Notes: Access the show notes and show links here\n\nTimestamps:\n\n00:00:00 — Intro\n\n00:06:00 — Why marketing & comms took the lead on generative AI\n\n00:10:57 — How the transformation started to unfold \n\n00:14:23 — The AI Sherpas \n\n00:20:12 — The learning hub and building their own AI curriculum\n\n00:22:14 — How AI is changing the marketing/comms team's work\n\n00:28:28 — The people side of ",
+    "source_id": "marketing_ai_show",
+    "source_name": "The Marketing AI Show (Podcast)",
+    "source_url": "https://feeds.megaphone.fm/marketingai",
+    "categories": [
+      "ai_marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.82,
+    "relevance_label": "high",
+    "title_en": "How Baptist Health's Marketing Team Led a Full AI Transformation in a Regulated Healthcare Environment",
+    "summary_ko": "뱁티스트 헬스(Baptist Health South Florida)의 최고마케팅책임자 크리스틴 코틀러는 마케팅 및 커뮤케이션 팀 주도로 2년간의 AI 전환 여정을 이끌었다. 핵심 전략으로는 체계적인 AI 학습 커리큘럼, 동료 코칭 모델인 'AI 셰르파', 그리고 실제 업무에 적용한 구체적인 사용 사례가 포함된다. 이 과정에서 주당 10시간이 걸리던 업무가 약 2분으로 단축되는 등 실질적인 효율성 향상이 입증됐다.",
+    "summary_en": "Christine Kotler, Chief Marketing & Communications Officer at Baptist Health South Florida, shares how her team led a two-year AI transformation from the ground up in a regulated healthcare environment. The initiative included a structured AI learning curriculum, a peer-coaching 'AI Sherpa' model, and real-world use cases that reduced a task once taking 10 hours per week to just two minutes. The case highlights how marketing and communications teams can proactively drive enterprise-wide AI adoption even within highly regulated industries.",
+    "so_what_ko": "규제 산업인 의료 분야에서도 마케팅 팀이 AI 전환을 주도할 수 있다는 사실은, LG D2C 마케팅 조직이 'AI 셰르파'와 같은 내부 코칭 모델과 체계적 교육 커리큘럼을 도입해 조직 전반의 AI 역량을 빠르게 내재화할 수 있음을 시사한다.",
+    "so_what_en": "Baptist Health's marketing-led AI transformation demonstrates that D2C marketing teams can and should take ownership of AI adoption — LG D2C should consider implementing internal AI coaching models and structured curricula to accelerate organization-wide AI capability building.",
+    "key_points": [
+      "Baptist Health's marketing team led a 2-year AI transformation in a regulated healthcare setting",
+      "'AI Sherpa' peer-coaching model enabled scalable internal AI adoption",
+      "A task previously taking 10 hours per week was reduced to approximately 2 minutes",
+      "Structured learning curriculum and real use cases were central to successful adoption"
+    ],
+    "tags": [
+      "ai-transformation",
+      "marketing-ai",
+      "organizational-change",
+      "ai-adoption",
+      "healthcare-marketing"
+    ],
+    "confidence": 0.78,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Baptist Health South Florida",
+      "Christine Kotler",
+      "Google Cloud",
+      "AI Sherpa"
+    ],
+    "one_line_insight_ko": "의료계 마케팅 팀의 AI 주도 전환 사례는, 규제 환경에서도 체계적인 내부 코칭과 커리큘럼이 AI 역량 내재화를 가속화할 수 있음을 증명한다.",
+    "one_line_insight_en": "Baptist Health's marketing-led AI transformation proves that structured internal coaching and curricula can drive rapid, organization-wide AI capability building even in highly regulated environments.",
     "ai_processed": true
   }
 ]
