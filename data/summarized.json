@@ -1,234 +1,5 @@
 [
   {
-    "title": "The Weekly Closeout: Revolve debuts magazine and Cato closes 120 stores",
-    "link": "https://www.retaildive.com/news/revolve-debuts-magazine-cato-closes-120-stores/831914/",
-    "date_published": "2026-10-02",
-    "description": "The fashion retailer wants to connect more deeply with shoppers through a print publication. Meanwhile, the specialty apparel brand is accelerating closures.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.3,
-    "relevance_label": "high",
-    "title_en": "Revolve Launches Print Magazine to Deepen Shopper Connections as Cato Accelerates Store Closures",
-    "summary_ko": "패션 리테일러 Revolve는 고객과의 깊은 연결을 위해 인쇄 매거진을 출시했다. 한편, 전문 의류 브랜드 Cato는 120개 매장 폐쇄를 가속화하고 있다. 두 브랜드의 상반된 전략은 현재 패션 리테일 시장의 다양한 도전과 대응 방식을 보여준다.",
-    "summary_en": "Fashion retailer Revolve has debuted a print magazine as a strategy to connect more deeply with its shoppers. Meanwhile, specialty apparel brand Cato is accelerating store closures, shutting down 120 locations. The contrasting approaches highlight diverging strategies in the current fashion retail landscape.",
-    "so_what_ko": "D2C 브랜드는 디지털 채널 외에도 인쇄물과 같은 오프라인 콘텐츠 전략으로 고객 충성도를 높이는 방안을 검토할 수 있으며, 동시에 비효율 채널의 과감한 정리도 고려해야 한다.",
-    "so_what_en": "D2C brands should explore offline content strategies like print publications to deepen customer loyalty beyond digital channels, while also being willing to rationalize underperforming retail footprints.",
-    "key_points": [
-      "Revolve is launching a print magazine to foster stronger emotional connections with shoppers",
-      "Cato is closing 120 stores, signaling ongoing physical retail contraction in specialty apparel",
-      "The two strategies represent opposite ends of the retail adaptation spectrum"
-    ],
-    "tags": [
-      "retail-strategy",
-      "d2c-brand",
-      "print-media",
-      "store-closures",
-      "fashion-retail"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Revolve",
-      "Cato"
-    ],
-    "one_line_insight_ko": "Revolve의 인쇄 매거진 출시는 디지털 포화 시대에 오프라인 콘텐츠가 브랜드 차별화 수단으로 재부상하고 있음을 시사한다.",
-    "one_line_insight_en": "Revolve's print magazine launch signals a revival of offline content as a brand differentiation tool in an era of digital saturation.",
-    "ai_processed": true
-  },
-  {
-    "title": "TinyHealth.com Sells Gut Tests by Mail",
-    "link": "https://www.practicalecommerce.com/tinyhealth-com-sells-gut-tests-by-mail",
-    "date_published": "2026-10-02",
-    "description": "Founder Cheryl Sew Hoy explains why gut health matters and her company's simple process for collecting and analyzing stool samples.\nThe post TinyHealth.com Sells Gut Tests by Mail appeared first on Practical Ecommerce.",
-    "source_id": "practical_ecommerce",
-    "source_name": "Practical Ecommerce",
-    "source_url": "https://www.practicalecommerce.com/feed",
-    "categories": [
-      "commerce"
-    ],
-    "relevance_score": 0.3,
-    "relevance_label": "high",
-    "title_en": "TinyHealth Sells Mail-In Gut Health Tests Direct to Consumers",
-    "summary_ko": "TinyHealth.com은 우편으로 장 건강 검사 키트를 판매하는 D2C 헬스테크 기업으로, 창업자 Cheryl Sew Hoy가 직접 사업 모델을 설명했다. 소비자는 간단한 절차로 대변 샘플을 수집하고 분석 결과를 받을 수 있다. 장 건강에 대한 소비자 관심 증가가 이 사업의 성장 배경으로 작용하고 있다.",
-    "summary_en": "TinyHealth.com is a D2C health-tech company that sells gut health test kits by mail, with founder Cheryl Sew Hoy explaining the business model. Consumers can collect stool samples through a simple process and receive analysis results. Growing consumer interest in gut health is driving the company's expansion.",
-    "so_what_ko": "D2C 헬스케어 모델은 간편한 자가 검사 키트와 데이터 기반 개인화 서비스를 결합하여 고객 생애 가치를 높일 수 있는 유망한 비즈니스 구조를 제시한다.",
-    "so_what_en": "The D2C healthcare model combining easy self-test kits with data-driven personalized insights offers a compelling structure for increasing customer lifetime value in health-adjacent categories.",
-    "key_points": [
-      "TinyHealth operates a D2C mail-in gut health testing service",
-      "Founder emphasizes simple sample collection process as a key UX differentiator",
-      "Growing consumer awareness around gut health is fueling D2C health-tech demand"
-    ],
-    "tags": [
-      "d2c-health",
-      "mail-in-testing",
-      "gut-health",
-      "ecommerce",
-      "health-tech"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "TinyHealth",
-      "Cheryl Sew Hoy"
-    ],
-    "one_line_insight_ko": "TinyHealth의 우편 기반 장 건강 검사 모델은 D2C 헬스케어에서 간편성과 데이터 개인화가 핵심 경쟁력임을 보여준다.",
-    "one_line_insight_en": "TinyHealth's mail-in gut health model demonstrates that simplicity and data-driven personalization are the core competitive advantages in D2C healthcare.",
-    "ai_processed": true
-  },
-  {
-    "title": "Ikea to shutter 3 small-format plan and order stores",
-    "link": "https://www.retaildive.com/news/ikea-shutters-three-small-format-plan-and-order-stores/832021/",
-    "date_published": "2026-10-02",
-    "description": "The retailer is closing locations in Washington, D.C., Virginia and Maryland, including one that opened less than a year ago, as it reevaluates its footprint.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.3,
-    "relevance_label": "high",
-    "title_en": "Ikea Closes Three Small-Format Plan and Order Stores as It Reevaluates Retail Footprint",
-    "summary_ko": "이케아가 워싱턴 D.C., 버지니아, 메릴랜드에 위치한 소규모 계획·주문 매장 3곳을 폐쇄한다고 발표했다. 그 중 한 매장은 개점한 지 1년도 채 되지 않아 문을 닫게 된다. 이는 이케아가 소형 포맷 매장 전략을 재평가하고 있음을 나타낸다.",
-    "summary_en": "Ikea announced the closure of three small-format plan and order stores located in Washington D.C., Virginia, and Maryland. One of the locations being closed opened less than a year ago, underscoring a rapid strategic pivot. The move indicates Ikea is actively reevaluating the viability of its small-format retail footprint.",
-    "so_what_ko": "소형 포맷 매장 실험의 빠른 철수는 오프라인 채널 전략이 단순한 확장보다 효율성과 고객 경험 최적화에 집중해야 함을 D2C 기업들에게 시사한다.",
-    "so_what_en": "Ikea's rapid retreat from small-format stores signals that D2C and retail brands must prioritize channel efficiency and customer experience optimization over simple footprint expansion.",
-    "key_points": [
-      "Ikea is closing three small-format plan and order stores in the D.C. metro area",
-      "One store closing opened less than a year ago, indicating a fast strategic reversal",
-      "Ikea is actively reevaluating its overall retail footprint strategy"
-    ],
-    "tags": [
-      "ikea",
-      "retail-footprint",
-      "store-closures",
-      "small-format-retail",
-      "omnichannel"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Ikea"
-    ],
-    "one_line_insight_ko": "이케아의 소형 매장 조기 폐쇄는 오프라인 채널 실험이 신중한 검증 없이 확장될 때의 리스크를 보여주는 사례다.",
-    "one_line_insight_en": "Ikea's early closure of small-format stores is a cautionary example of the risks of scaling offline channel experiments without sufficient validation.",
-    "ai_processed": true
-  },
-  {
-    "title": "Ikea, Kodiak prepare to launch driverless freight service in Texas",
-    "link": "https://www.digitalcommerce360.com/2026/10/02/ikea-kodiak-prepare-to-launch-driverless-freight-service-in-texas/",
-    "date_published": "2026-10-02",
-    "description": "After four years of testing autonomous freight with a safety driver behind the wheel, Ikea is preparing to go fully driverless in Texas using Kodiak’s autonomous driving technology. Later this year, the Sweden-based home furnishings retailer plans to launch driverless service with Kodiak on a roughly 220-mile stretch connecting the Houston and Dallas metro areas. […]\nThe post Ikea, Kodiak prepare to launch driverless freight service in Texas appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
-    "categories": [
-      "commerce",
-      "tech"
-    ],
-    "relevance_score": 0.5,
-    "relevance_label": "high",
-    "title_en": "Ikea and Kodiak Robotics Prepare to Launch Fully Driverless Freight Service in Texas",
-    "summary_ko": "이케아와 자율주행 기술 기업 Kodiak Robotics는 텍사스주 휴스턴과 달라스 메트로 지역을 잇는 약 220마일 구간에서 완전 무인 화물 운송 서비스를 출시할 준비를 하고 있다. 4년간의 안전 운전자 동승 테스트를 거쳐 올해 말 완전 자율주행 서비스를 시작할 예정이다. 이는 리테일 공급망에 자율주행 기술이 본격 적용되는 중요한 이정표가 된다.",
-    "summary_en": "Ikea and autonomous driving company Kodiak Robotics are preparing to launch a fully driverless freight service in Texas, covering a roughly 220-mile route connecting the Houston and Dallas metro areas. After four years of testing with a safety driver, Ikea plans to go fully driverless later this year. This marks a significant milestone in the application of autonomous vehicle technology to retail supply chains.",
-    "so_what_ko": "자율주행 화물 운송의 상용화는 리테일 공급망의 비용 구조와 운영 효율을 근본적으로 변화시킬 수 있으며, LG D2C도 물류 자동화 기술 동향을 전략적으로 모니터링할 필요가 있다.",
-    "so_what_en": "The commercialization of autonomous freight could fundamentally reshape retail supply chain cost structures, making it strategically important for LG D2C to monitor logistics automation trends closely.",
-    "key_points": [
-      "Ikea and Kodiak are launching a fully driverless freight service on a ~220-mile Texas route",
-      "The initiative follows four years of testing with a safety driver behind the wheel",
-      "This represents a major step toward autonomous vehicle adoption in commercial retail logistics"
-    ],
-    "tags": [
-      "autonomous-vehicles",
-      "supply-chain",
-      "driverless-freight",
-      "ikea",
-      "logistics-tech"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "EMERGING_TECH",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Ikea",
-      "Kodiak Robotics"
-    ],
-    "one_line_insight_ko": "이케아와 Kodiak의 완전 무인 화물 서비스 출시는 자율주행 기술이 리테일 물류의 실질적 인프라로 전환되는 변곡점을 나타낸다.",
-    "one_line_insight_en": "Ikea and Kodiak's fully driverless freight launch marks an inflection point where autonomous technology transitions from experiment to real retail logistics infrastructure.",
-    "ai_processed": true
-  },
-  {
-    "title": "Walmart+ Is Growing Faster Than Ever as the Retailer Loads on More Perks",
-    "link": "https://www.adweek.com/commerce/walmart-is-growing-faster-than-ever-as-the-retailer-loads-on-more-perks/",
-    "date_published": "2026-10-02",
-    "description": "Walmart has kept the annual price at $98 since launching in 2020.",
-    "source_id": "adweek",
-    "source_name": "Adweek",
-    "source_url": "https://www.adweek.com/feed",
-    "categories": [
-      "commerce",
-      "marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.7,
-    "relevance_label": "high",
-    "title_en": "Walmart+ Membership Grows Faster Than Ever as Retailer Adds More Perks While Holding $98 Price",
-    "summary_ko": "Walmart+는 2020년 출시 이후 연회비를 98달러로 유지하면서도 역대 가장 빠른 성장세를 기록하고 있다. 월마트는 다양한 혜택을 지속적으로 추가하며 멤버십 프로그램의 가치를 높이고 있다. 이는 가격 인상 없이 혜택 확대를 통한 멤버십 성장 전략의 효과를 입증하는 사례다.",
-    "summary_en": "Walmart+ is growing at its fastest pace ever while Walmart has maintained the annual membership price at $98 since its 2020 launch. The retailer has been consistently adding more perks to increase the program's perceived value. This demonstrates the effectiveness of a membership growth strategy based on benefit expansion rather than price increases.",
-    "so_what_ko": "멤버십 가격을 동결하면서 혜택을 지속 확대하는 전략은 D2C 브랜드가 가격 저항 없이 고객 충성도를 높이는 유효한 방법론으로, LG D2C 멤버십 프로그램 설계에 참고할 수 있다.",
-    "so_what_en": "Walmart+'s strategy of expanding perks without raising prices is a proven playbook for building customer loyalty without price resistance, offering a valuable reference model for LG D2C membership program design.",
-    "key_points": [
-      "Walmart+ is experiencing its fastest membership growth since its 2020 launch",
-      "Annual membership price has been held steady at $98 since launch",
-      "Growth is being driven by continuous addition of new member perks and benefits"
-    ],
-    "tags": [
-      "walmart-plus",
-      "membership-program",
-      "customer-loyalty",
-      "retail-perks",
-      "subscription-commerce"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Walmart",
-      "Walmart+"
-    ],
-    "one_line_insight_ko": "Walmart+의 가격 동결·혜택 확대 전략은 멤버십 성장의 핵심이 가격 경쟁이 아닌 지속적인 가치 제공에 있음을 증명한다.",
-    "one_line_insight_en": "Walmart+'s freeze-price, expand-perks strategy proves that sustainable membership growth is driven by continuous value delivery, not price competition.",
-    "ai_processed": true
-  },
-  {
     "title": "#242: How Baptist Health’s Marketing Team Took the Lead on AI Transformation",
     "link": "",
     "date_published": "2026-09-24",
@@ -242,23 +13,23 @@
     ],
     "relevance_score": 0.78,
     "relevance_label": "high",
-    "title_en": "Baptist Health's Marketing Team Leads Company-Wide AI Transformation with 'AI Sherpa' Model",
-    "summary_ko": "배플티스트 헬스의 최고마케팅책임자 크리스틴 코틀러는 마케팅·커뮤니케이션 팀이 주도하는 AI 도입 모델을 2년에 걸쳐 구축했다. 핵심은 구조화된 학습 커리큘럼과 동료 코칭 방식의 'AI 셰르파' 프로그램으로, 기존에 주 10시간이 걸리던 업무가 약 2분으로 단축되는 성과를 거뒀다. 규제 환경이 까다로운 의료 산업 내에서 이루어진 이 변혁 사례는 마케팅 조직이 기업 전체 AI 전환을 선도할 수 있음을 보여준다.",
-    "summary_en": "Baptist Health South Florida's Chief Marketing & Communications Officer Christine Kotler shares how her team led a two-year AI transformation, building a structured learning curriculum and a peer-coaching 'AI Sherpa' model from the ground up. One task that previously consumed 10 hours per week now takes approximately two minutes, illustrating tangible operational gains. The initiative demonstrates that marketing and communications teams can serve as internal AI adoption leaders, even within heavily regulated industries like healthcare.",
-    "so_what_ko": "LG D2C 마케팅 조직도 'AI 셰르파'와 같은 내부 코치 제도와 체계적 커리큘럼을 도입해 AI 역량을 조직 전반으로 확산시키는 bottom-up 전환 전략을 검토할 필요가 있다.",
-    "so_what_en": "LG D2C marketing teams should consider implementing structured peer-coaching models like 'AI Sherpas' and internal learning hubs to systematically scale AI adoption across the organization rather than relying solely on top-down mandates.",
+    "title_en": "How Baptist Health's Marketing Team Led a Two-Year AI Transformation",
+    "summary_ko": "Baptist Health South Florida의 CMO Christine Kotler는 마케팅·커뮤니케이션 팀이 주도한 2년간의 AI 전환 과정을 공유했다. 핵심 요소는 구조화된 학습 커리큘럼과 동료 코칭 기반의 'AI Sherpa' 모델이었으며, 주 10시간 소요되던 업무가 약 2분으로 단축되는 성과를 거뒀다. 규제된 의료 환경 내에서 AI를 도입하는 현실적인 마찰과 조직 변화 관리 방법도 함께 소개됐다.",
+    "summary_en": "Baptist Health South Florida's CMO Christine Kotler shared how her marketing and communications team drove a two-year AI transformation from the ground up. The initiative featured a structured AI learning curriculum and a peer-coaching 'AI Sherpa' model, resulting in one task being reduced from 10 hours per week to roughly two minutes. The episode also addressed the real-world friction of implementing AI within a regulated healthcare organization.",
+    "so_what_ko": "LG D2C 마케팅팀도 'AI Sherpa' 방식의 내부 동료 코칭 모델과 체계적 학습 커리큘럼을 도입해 AI 전환의 속도와 현장 수용성을 동시에 높일 수 있다.",
+    "so_what_en": "LG D2C marketing teams can adopt a peer-coaching AI Sherpa model and structured learning curriculum to accelerate AI adoption while improving grassroots buy-in across the organization.",
     "key_points": [
-      "마케팅 팀이 기업 전체 AI 전환을 주도—주 10시간 업무를 2분으로 단축하는 구체적 성과 달성",
-      "'AI 셰르파' 동료 코칭 모델과 자체 학습 허브 구축으로 조직 내 AI 역량 내재화",
-      "규제 산업(의료)에서의 AI 도입 마찰과 해결 과정을 솔직하게 공유—타 산업 적용 가능성 시사",
-      "Google Cloud와의 협력을 통해 엔터프라이즈 AI 전환 가속화"
+      "마케팅·커뮤니케이션 팀이 기업 전체 AI 전환을 주도하는 선도 부서 역할 수행",
+      "'AI Sherpa' 동료 코칭 모델로 조직 내 AI 역량 자생적 확산",
+      "특정 업무 소요 시간 주 10시간 → 약 2분으로 획기적 단축",
+      "규제 산업 내 AI 도입 시 발생하는 현실적 마찰과 변화 관리 사례 제시"
     ],
     "tags": [
+      "ai-transformation",
+      "marketing-ai",
+      "change-management",
       "ai-adoption",
-      "marketing-transformation",
-      "peer-coaching",
-      "healthcare-ai",
-      "google-cloud"
+      "healthcare-marketing"
     ],
     "confidence": 0.7,
     "strategic_theme": "AI_MARKETING",
@@ -273,8 +44,8 @@
       "Google Cloud",
       "AI Sherpa"
     ],
-    "one_line_insight_ko": "마케팅 팀이 AI 전환의 선봉에 서서 내부 코칭 모델로 조직 전체의 역량을 끌어올릴 수 있다.",
-    "one_line_insight_en": "Marketing teams can drive enterprise-wide AI transformation by building structured internal coaching programs that scale adoption organically.",
+    "one_line_insight_ko": "마케팅팀이 AI 전환의 선도 부서가 될 때 조직 전반의 AI 수용 속도가 극적으로 빨라질 수 있다.",
+    "one_line_insight_en": "When the marketing team leads AI transformation, enterprise-wide adoption accelerates dramatically through peer-driven learning models.",
     "ai_processed": true
   },
   {
@@ -288,28 +59,27 @@
     "categories": [
       "ai_marketing",
       "commerce",
-      "strategy",
-      "agentic_commerce"
+      "strategy"
     ],
-    "relevance_score": 0.92,
+    "relevance_score": 0.88,
     "relevance_label": "high",
-    "title_en": "David's Bridal Reinvents 76-Year-Old Brand Around AI Wedding Planner 'Pearl' with 'Aisle to Algorithm' Strategy",
-    "summary_ko": "76년 역사의 웨딩 드레스 전문 브랜드 데이비드 브라이달이 'Pearl Planner'라는 AI 웨딩 플래닝 컴패니언을 출시하며 단순 드레스 판매에서 결혼 전 여정 전체를 아우르는 플랫폼으로 사업 모델을 전환하고 있다. Pearl Planner는 별도 마케팅 비용 없이 수십만 쌍의 커플이 사용할 만큼 빠르게 성장했으며, 비전 퀴즈와 동적 예산 책정 기능을 갖추고 있다. 공급업체 측 플랫폼 Pearl Connect까지 구축하며 Google Cloud 기반의 양면 시장(플랫폼) 전략을 구체화하고 있다.",
-    "summary_en": "David's Bridal is reinventing its 76-year-old business around an 'aisle to algorithm' strategy, pivoting from a dress-focused retailer to a full wedding-journey platform powered by AI. Its free AI companion Pearl Planner has attracted hundreds of thousands of couples without any marketing spend, featuring tools like a vision quiz and dynamic budgeting. The company is further expanding with Pearl Connect, a vendor-side platform built on Google Cloud, creating a two-sided marketplace ecosystem.",
-    "so_what_ko": "LG D2C도 제품 판매 중심에서 벗어나, AI 기반 라이프스타일 컴패니언(예: 가전 구매 여정 전체를 안내하는 어시스턴트)으로 고객 접점을 확장하는 플랫폼 전략을 고려해야 한다.",
-    "so_what_en": "LG D2C should explore transforming from a product-centric seller into an AI-powered lifestyle platform that guides customers across the entire purchase and ownership journey, mirroring David's Bridal's 'aisle to algorithm' pivot.",
+    "title_en": "David's Bridal Reinvents 76-Year-Old Business with AI Wedding Planning Platform",
+    "summary_ko": "David's Bridal은 드레스 판매 중심의 76년 전통 비즈니스를 AI 기반 웨딩 여정 플랫폼으로 재편하는 '아일 투 알고리즘' 전략을 추진 중이다. 마케팅 비용 없이도 수십만 커플이 사용하는 무료 AI 웨딩 플래너 'Pearl Planner'와 공급업체 대상 플랫폼 'Pearl Connect'를 Google Cloud 기반으로 구축했다. 비전 퀴즈와 동적 예산 책정 기능을 통해 개인화된 고객 경험을 제공하며 비즈니스 모델 자체를 전환하고 있다.",
+    "summary_en": "David's Bridal is reinventing its 76-year-old business around the entire wedding journey through an 'aisle to algorithm' AI strategy, moving beyond its core dress-selling model. The company launched Pearl Planner, a free AI wedding-planning companion used by hundreds of thousands of couples with no marketing spend, alongside Pearl Connect, a vendor-side platform built on Google Cloud. Features like a vision quiz and dynamic budgeting deliver personalized customer experiences while fundamentally reshaping the business model.",
+    "so_what_ko": "LG D2C도 단순 제품 판매를 넘어 고객의 라이프스타일 여정 전반을 아우르는 AI 기반 컴패니언 서비스를 구축함으로써 마케팅 비용 없이도 대규모 고객 접점을 확보하는 전략을 검토할 수 있다.",
+    "so_what_en": "LG D2C should explore building AI-powered lifestyle companion services that extend beyond product sales to cover the full customer journey, enabling large-scale engagement with minimal marketing spend.",
     "key_points": [
-      "AI 웨딩 플래닝 컴패니언 Pearl Planner가 마케팅 비용 0원으로 수십만 사용자 확보—유기적 성장의 AI 제품 사례",
-      "드레스 단품 판매에서 결혼 여정 전체 플랫폼으로의 사업 모델 전환—'aisle to algorithm' 전략",
-      "공급업체 연결 플랫폼 Pearl Connect로 양면 시장 구조 형성, Google Cloud 인프라 활용",
-      "내부 팀의 AI 도입도 병행 추진하며 조직 전반의 AI 역량 강화"
+      "'아일 투 알고리즘' 전략으로 드레스 판매 중심에서 웨딩 여정 전체로 비즈니스 모델 확장",
+      "Pearl Planner: 마케팅 비용 없이 수십만 명 사용자를 확보한 무료 AI 컴패니언 앱",
+      "Pearl Connect로 공급업체 생태계까지 포함한 양면 플랫폼 구축",
+      "Google Cloud / Gemini Enterprise 기반의 개인화 기능(비전 퀴즈, 동적 예산) 적용"
     ],
     "tags": [
-      "ai-companion",
+      "agentic-commerce",
+      "ai-personalization",
       "d2c-transformation",
-      "platform-strategy",
-      "google-cloud",
-      "agentic-commerce"
+      "platform-ecosystem",
+      "customer-experience"
     ],
     "confidence": 0.75,
     "strategic_theme": "RETAIL_TRANSFORMATION",
@@ -325,224 +95,184 @@
       "Google Cloud",
       "Gemini Enterprise"
     ],
-    "one_line_insight_ko": "데이비드 브라이달의 AI 컴패니언 전략은 제품 판매를 넘어 고객 여정 전체를 플랫폼화하는 D2C 미래 모델을 제시한다.",
-    "one_line_insight_en": "David's Bridal's AI companion pivot shows how legacy retailers can redefine their value proposition by owning the entire customer journey rather than just the transaction.",
+    "one_line_insight_ko": "레거시 리테일러가 AI 컴패니언 서비스로 고객 여정 전체를 장악하는 플랫폼으로 진화하고 있다.",
+    "one_line_insight_en": "Legacy retailers are evolving into AI-powered journey platforms by owning the entire customer lifecycle, not just the transaction.",
     "ai_processed": true
   },
   {
-    "title": "[AINews] not much happened today",
-    "link": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
-    "date_published": "2026-10-03",
-    "description": "a quiet day.",
-    "source_id": "latent_space",
-    "source_name": "Latent Space (The AI Index)",
-    "source_url": "https://www.latent.space/feed",
+    "title": "5 Content Marketing Ideas for November 2026",
+    "link": "https://www.practicalecommerce.com/5-content-marketing-ideas-for-november",
+    "date_published": "2026-10-04",
+    "description": "November ideas include Route 66, the science behind products, 1976, television history, and rethinking the holiday gift guide.\nThe post 5 Content Marketing Ideas for November 2026 appeared first on Practical Ecommerce.",
+    "source_id": "practical_ecommerce",
+    "source_name": "Practical Ecommerce",
+    "source_url": "https://www.practicalecommerce.com/feed",
     "categories": [
-      "tech"
+      "marketing",
+      "commerce"
     ],
-    "relevance_score": 0.1,
+    "relevance_score": 0.2,
     "relevance_label": "high",
-    "title_en": "Latent Space AI News Roundup: A Quiet Day with No Major Developments",
-    "summary_ko": "AI 뉴스 뉴스레터 Latent Space의 이날 호는 특별한 주요 사건이 없었던 조용한 하루를 간략히 보고하는 내용으로, 실질적인 정보가 거의 포함되어 있지 않다. 원문에서 구체적인 AI 기술, 기업, 또는 시장 동향에 관한 내용은 확인되지 않는다. 전략적 인사이트 도출이 어려운 저정보 콘텐츠다.",
-    "summary_en": "This edition of the Latent Space AI newsletter covers a notably quiet day in the AI industry with no significant events or announcements reported. The excerpt provides minimal substantive information, offering no specific details on AI technologies, companies, or market trends. As a result, this article yields very limited strategic or analytical value.",
-    "so_what_ko": "이 기사는 D2C 전략 관점에서 실질적인 시사점을 도출하기 어려우며, 모니터링 우선순위에서 제외하거나 낮은 등급으로 분류하는 것이 적절하다.",
-    "so_what_en": "This article offers no actionable insights for LG D2C teams and should be deprioritized in strategic intelligence monitoring.",
+    "title_en": "5 Content Marketing Ideas for November 2026",
+    "summary_ko": "Practical Ecommerce가 2026년 11월을 위한 5가지 콘텐츠 마케팅 아이디어를 제안했다. Route 66, 제품의 과학적 배경, 1976년, TV 역사, 그리고 홀리데이 선물 가이드 재구성 등의 테마가 포함됐다. 구체적인 실행 방법이나 AI 활용 방안에 대한 상세 내용은 원문에서 확인되지 않음.",
+    "summary_en": "Practical Ecommerce proposed five content marketing ideas for November 2026, centered on thematic concepts such as Route 66, the science behind products, 1976, television history, and rethinking the holiday gift guide. The article is a brief editorial suggestion piece aimed at ecommerce content teams. Detailed execution guidance or AI-related insights are not confirmed in the source excerpt.",
+    "so_what_ko": "일반적인 콘텐츠 캘린더 아이디어 수준으로, LG D2C 전략에 직접적인 AI 또는 커머스 혁신 시사점은 제한적이다.",
+    "so_what_en": "This article offers generic content calendar inspiration with limited direct relevance to AI-driven D2C strategy or commerce innovation.",
     "key_points": [
-      "원문에서 확인되지 않음: 구체적인 AI 뉴스나 사건 없음",
-      "Latent Space 뉴스레터의 저활동 일일 요약본으로 전략적 가치 낮음",
-      "관련성 점수 낮음—정기 AI 인텔리전스 피드에서 필터링 권장"
+      "11월 콘텐츠 마케팅을 위한 5가지 테마 제안 (Route 66, 제품 과학, 1976년, TV 역사, 선물 가이드)",
+      "홀리데이 시즌 콘텐츠 기획을 위한 일반적인 편집 아이디어 제공",
+      "AI 활용이나 기술적 혁신 내용은 원문에서 확인되지 않음"
     ],
     "tags": [
-      "ai-news",
-      "daily-roundup",
-      "low-signal"
+      "content-marketing",
+      "ecommerce",
+      "holiday-season",
+      "editorial-calendar"
     ],
-    "confidence": 0.5,
-    "strategic_theme": "EMERGING_TECH",
+    "confidence": 0.6,
+    "strategic_theme": "AI_MARKETING",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "LOW",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "Latent Space"
+      "Practical Ecommerce"
     ],
-    "one_line_insight_ko": "내용이 거의 없는 저정보 뉴스레터로, 전략적 모니터링 대상에서 제외하는 것이 적절하다.",
-    "one_line_insight_en": "This low-signal newsletter entry contains no actionable intelligence and should be filtered from strategic AI monitoring feeds.",
+    "one_line_insight_ko": "11월 콘텐츠 기획을 위한 일반적 아이디어 모음으로, D2C AI 전략과의 직접적 연관성은 낮다.",
+    "one_line_insight_en": "A generic editorial calendar piece with minimal strategic relevance to AI-driven D2C or commerce transformation.",
     "ai_processed": true
   },
   {
-    "title": "Redefining enterprise intelligence with autonomous AI",
-    "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-    "date_published": "2026-10-02",
-    "description": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has…",
-    "source_id": "mit_tech_review_ai",
-    "source_name": "MIT Technology Review (AI)",
-    "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-    "categories": [
-      "tech",
-      "strategy",
-      "agentic_commerce"
-    ],
-    "relevance_score": 0.82,
-    "relevance_label": "high",
-    "title_en": "MIT Technology Review: Autonomous AI Redefines Enterprise Intelligence as Global AI Investment Hits $2.5 Trillion in 2026",
-    "summary_ko": "2026년 글로벌 AI 투자 규모가 전년 대비 44% 증가한 2조 5,000억 달러에 달할 전망이며, 엔터프라이즈 AI는 이제 미래의 과제가 아니라 현재 진행형 현실이 되었다. 모델 성능은 대부분의 기업이 흡수할 수 있는 속도보다 빠르게 발전하고 있으며, 동시에 성능 대비 비용은 지속적으로 하락하고 있다. 자율적 AI 시스템이 기업 인텔리전스를 재정의하면서, 조직의 AI 수용 속도와 전략적 통합 역량이 핵심 경쟁 변수로 부상하고 있다.",
-    "summary_en": "Enterprise AI has moved from future ambition to full operational reality, with global AI investment projected to reach $2.5 trillion in 2026—a 44% year-over-year increase. Model capabilities are advancing faster than most organizations can absorb, even as the cost of AI performance continues to decline. Autonomous AI systems are redefining enterprise intelligence, making an organization's ability to integrate and scale AI a critical competitive differentiator.",
-    "so_what_ko": "AI 투자 급증과 자율 AI 시스템의 부상은 LG D2C 조직이 AI 통합 속도를 높이지 않으면 경쟁에서 뒤처질 수 있음을 경고하며, 전략적 AI 로드맵 수립과 실행 가속화가 시급하다.",
-    "so_what_en": "With AI investment surging 44% and autonomous systems becoming operational, LG D2C must accelerate its AI integration roadmap or risk falling behind competitors who are embedding AI into core business operations at scale.",
-    "key_points": [
-      "2026년 글로벌 AI 투자 2조 5,000억 달러 예상—전년 대비 44% 급증으로 기업 AI 전환 압박 가중",
-      "모델 성능 향상 속도가 기업의 흡수 속도를 초과—AI 수용 격차(adoption gap) 심화",
-      "성능 대비 비용 지속 하락으로 AI 도입 장벽 낮아지는 반면, 전략적 통합 역량이 새로운 차별화 요소로 부상",
-      "자율 AI 시스템이 엔터프라이즈 인텔리전스 전반을 재정의 중"
-    ],
-    "tags": [
-      "autonomous-ai",
-      "enterprise-ai",
-      "ai-investment",
-      "ai-strategy",
-      "digital-transformation"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "MIT Technology Review"
-    ],
-    "one_line_insight_ko": "2026년 AI 투자가 2.5조 달러를 돌파하면서, 자율 AI 통합 속도가 기업의 핵심 경쟁력이 되고 있다.",
-    "one_line_insight_en": "As global AI investment hits $2.5 trillion in 2026, the speed of autonomous AI integration has become the defining competitive variable for enterprises.",
-    "ai_processed": true
-  },
-  {
-    "title": "CMOs in a ‘pressure cooker’ as tenure shrinks, demands multiply: study",
-    "link": "https://www.marketingdive.com/news/cmos-in-a-pressure-cooker-as-tenure-shrinks-demands-multiply-study/831775/",
-    "date_published": "2026-10-02",
-    "description": "Over a quarter of marketers hired this year have AI-ready skill sets versus 9% of CMOs who have been in the role for over four years.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
-    "categories": [
-      "ai_marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.8,
-    "relevance_label": "high",
-    "title_en": "CMOs Face 'Pressure Cooker' as Tenure Shrinks and AI Skill Gap Widens Among Marketing Leaders",
-    "summary_ko": "최근 연구에 따르면 CMO의 재임 기간이 단축되고 업무 요구는 급증하는 등 최고마케팅책임자들이 극심한 압박에 놓여 있다. 올해 채용된 마케터의 27% 이상이 AI 준비 역량을 갖춘 반면, 4년 이상 재임한 CMO 중 AI 역량을 보유한 비율은 9%에 불과해 세대 간 AI 역량 격차가 심각하다. 이는 마케팅 리더십 교체 압력과 함께 AI 역량이 CMO 선발의 핵심 기준으로 부상하고 있음을 시사한다.",
-    "summary_en": "A new study reveals that CMOs are under intense pressure as their average tenure shrinks while demands and responsibilities multiply. Over 27% of marketers hired this year possess AI-ready skill sets, compared to only 9% of CMOs who have held their roles for more than four years, highlighting a significant generational AI skills gap. This dynamic is accelerating leadership turnover and positioning AI competency as a central criterion for future marketing leadership selection.",
-    "so_what_ko": "LG D2C의 마케팅 리더십 평가 및 인재 채용 전략에서 AI 역량을 핵심 기준으로 포함해야 하며, 기존 CMO 및 시니어 마케터의 AI 업스킬링 프로그램을 시급히 도입해야 한다.",
-    "so_what_en": "LG D2C should embed AI competency as a core criterion in marketing leadership evaluation and hiring, while urgently investing in AI upskilling programs for existing senior marketers to close the growing skills gap.",
-    "key_points": [
-      "2026년 신규 채용 마케터의 27%가 AI 준비 역량 보유 vs. 4년 이상 재임 CMO는 9%—세대 간 AI 역량 격차 심각",
-      "CMO 평균 재임 기간 단축 추세와 업무 복잡성 증가가 동시에 진행되며 리더십 압박 가중",
-      "AI 역량이 차세대 마케팅 리더십 선발의 핵심 기준으로 부상",
-      "기존 마케팅 리더의 AI 업스킬링 없이는 조직 내 AI 전환 실행력 확보가 어려울 것"
-    ],
-    "tags": [
-      "cmo-tenure",
-      "ai-skills-gap",
-      "marketing-leadership",
-      "ai-upskilling",
-      "workforce-transformation"
-    ],
-    "confidence": 0.82,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "Marketing Dive"
-    ],
-    "one_line_insight_ko": "신규 마케터의 27%가 AI 역량을 보유한 반면 베테랑 CMO는 9%에 불과해, AI 역량이 마케팅 리더십의 생존 조건이 되고 있다.",
-    "one_line_insight_en": "With AI-ready skills found in 27% of new marketers but only 9% of veteran CMOs, AI competency is rapidly becoming the defining condition for marketing leadership survival.",
-    "ai_processed": true
-  },
-  {
-    "title": "A model guide for the GPT-6 family",
-    "link": "https://openai.com/index/practical-guide-building-gpt-6",
-    "date_published": "2026-10-02",
-    "description": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-    "source_id": "openai_blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
+    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+    "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+    "date_published": "2026-10-03",
+    "description": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
     "categories": [
       "tech",
       "strategy"
     ],
-    "relevance_score": 0.6,
+    "relevance_score": 0.35,
     "relevance_label": "high",
-    "title_en": "A Practical Model Guide for the GPT-6 Family: Helping Startups Build for Production",
-    "summary_ko": "OpenAI가 스타트업을 위한 GPT-6 패밀리 실용 가이드를 공개했다. 모델 선택, 추론 최적화, 프롬프트 개선, 툴 조율, 프로덕션 워크플로우 준비 등 주요 주제를 다룬다. 이는 개발자와 기업이 GPT-6를 실제 서비스에 적용할 수 있도록 돕는 실무 중심의 문서다.",
-    "summary_en": "OpenAI published a practical guide for startups on how to leverage the GPT-6 model family effectively. The guide covers model selection, tuning reasoning effort, prompt improvement, tool coordination, and production workflow preparation. It is designed to help developers and businesses move GPT-6 deployments from experimentation to production-ready systems.",
-    "so_what_ko": "LG D2C 조직은 GPT-6 가이드를 활용해 커머스 자동화 및 AI 에이전트 워크플로우 설계에 적용 가능한 모범 사례를 빠르게 습득할 수 있다.",
-    "so_what_en": "LG D2C teams can leverage this guide to accelerate the adoption of GPT-6 in commerce automation pipelines and AI agent workflow design with production-ready best practices.",
+    "title_en": "Amazon Web Services CEO Pushes Back Against Data Center Backlash, Drops NDA Policy",
+    "summary_ko": "AWS CEO가 데이터센터 확장에 대한 광범위한 사회적 반발에 대응하며 공개적으로 입장을 표명했다. Amazon은 더 이상 데이터센터 관련 계약에 NDA(비밀유지계약)를 사용하지 않는다고 밝혔다. 구체적인 반발 내용이나 정책 변경의 세부 사항은 원문에서 확인되지 않음.",
+    "summary_en": "The CEO of Amazon Web Services publicly addressed widespread backlash against data center expansion, attempting to counter growing public suspicion. Amazon announced it no longer uses non-disclosure agreements (NDAs) in data center-related dealings. Specific details of the backlash or the full scope of the policy change are not confirmed in the source excerpt.",
+    "so_what_ko": "클라우드 인프라 확장에 대한 사회적 투명성 요구가 높아지는 추세로, LG D2C의 AI 인프라 파트너십 선택 시 공급업체의 ESG·투명성 정책을 중요한 기준으로 고려해야 한다.",
+    "so_what_en": "As public scrutiny of cloud infrastructure grows, LG D2C should factor in AI infrastructure partners' transparency and ESG policies when evaluating vendors like AWS.",
     "key_points": [
-      "GPT-6 패밀리 모델 선택 및 추론 최적화 방법론 제공",
-      "툴 조율과 프로덕션 워크플로우 준비에 대한 실무 지침 포함",
-      "스타트업 및 개발팀의 AI 서비스 전환 가속화를 지원하는 공식 문서"
+      "AWS CEO가 데이터센터 확장에 대한 사회적 반발에 공개 대응",
+      "Amazon, 데이터센터 관련 NDA 사용 중단 선언으로 투명성 제고 시도",
+      "AI 인프라 확장에 따른 지역 사회 및 규제 리스크가 빅테크의 주요 이슈로 부상",
+      "세부 정책 내용 및 반발의 구체적 배경은 원문에서 확인되지 않음"
     ],
     "tags": [
-      "gpt-6",
+      "aws",
+      "data-center",
+      "cloud-infrastructure",
+      "transparency",
+      "ai-infrastructure"
+    ],
+    "confidence": 0.55,
+    "strategic_theme": "PLATFORM_ECOSYSTEM",
+    "regions": [
+      "GLOBAL",
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Amazon",
+      "AWS"
+    ],
+    "one_line_insight_ko": "AI 인프라 확장에 대한 사회적 반발이 커지면서 클라우드 기업들이 투명성 정책을 강화하는 흐름이 나타나고 있다.",
+    "one_line_insight_en": "Growing public backlash against AI infrastructure expansion is forcing cloud providers to adopt greater transparency, signaling new reputational risks for the sector.",
+    "ai_processed": true
+  },
+  {
+    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+    "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+    "date_published": "2026-10-03",
+    "description": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "categories": [
+      "tech",
+      "strategy"
+    ],
+    "relevance_score": 0.42,
+    "relevance_label": "high",
+    "title_en": "OpenAI Safety Employee Resigns, Warns Company's 'Culture Is Broken'",
+    "summary_ko": "OpenAI의 안전 담당 직원 David Robinson이 사임하며 회사의 '문화가 망가졌다'고 공개적으로 경고했다. 그는 스스로 선도적 AI 기업에서 퇴사하며 경고를 남기는 '진부한 사례'임을 인정하면서도 내부 문제를 공론화했다. 구체적인 문화적 문제의 내용이나 안전 관련 세부 사항은 원문에서 확인되지 않음.",
+    "summary_en": "OpenAI safety employee David Robinson resigned and publicly warned that the company's 'culture is broken,' acknowledging he fits the pattern of employees at leading AI firms who issue dire warnings upon departure. The resignation adds to a growing list of public concerns raised by former OpenAI staff regarding internal culture and safety priorities. Specific details of the cultural issues or safety concerns are not confirmed in the source excerpt.",
+    "so_what_ko": "OpenAI의 반복적인 안전 인력 이탈은 AI 파트너 및 기술 선택 시 거버넌스와 안전 문화를 중요한 평가 기준으로 삼아야 함을 시사하며, LG D2C는 AI 공급업체 리스크 관리 체계를 강화할 필요가 있다.",
+    "so_what_en": "Repeated safety staff departures from OpenAI highlight the importance of evaluating AI vendor governance and safety culture, urging LG D2C to strengthen its AI supplier risk management framework.",
+    "key_points": [
+      "OpenAI 안전 담당 직원 David Robinson, '문화가 망가졌다'는 경고와 함께 사임",
+      "선도적 AI 기업 내부의 안전 우선순위와 조직 문화에 대한 공개적 우려 지속",
+      "OpenAI 전·현직 직원들의 안전 관련 공개 발언이 반복되며 기업 신뢰도 리스크 증가",
+      "구체적인 내부 문제 내용은 원문에서 확인되지 않음"
+    ],
+    "tags": [
       "openai",
-      "llm-guide",
-      "production-ai",
-      "prompt-engineering"
+      "ai-safety",
+      "corporate-culture",
+      "ai-governance",
+      "risk-management"
     ],
-    "confidence": 0.65,
-    "strategic_theme": "AI_AGENT",
+    "confidence": 0.6,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
     "regions": [
-      "GLOBAL"
+      "GLOBAL",
+      "AMER"
     ],
     "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
+    "sentiment": "THREAT",
     "key_entities": [
       "OpenAI",
-      "GPT-6"
+      "David Robinson"
     ],
-    "one_line_insight_ko": "GPT-6 실용 가이드는 AI 에이전트 기반 D2C 워크플로우 구축을 가속화할 핵심 참고자료다.",
-    "one_line_insight_en": "OpenAI's GPT-6 practical guide provides a critical reference for D2C teams looking to accelerate AI agent-driven workflow automation.",
+    "one_line_insight_ko": "OpenAI의 반복적인 안전 인력 이탈은 AI 거버넌스 리스크가 기술 도입 의사결정의 핵심 변수로 부상하고 있음을 경고한다.",
+    "one_line_insight_en": "Repeated safety staff exits from OpenAI signal that AI governance risk is becoming a critical variable in enterprise technology adoption decisions.",
     "ai_processed": true
   },
   {
-    "title": "Chatham scales its capital markets expertise with OpenAI",
-    "link": "https://openai.com/index/chatham-financial",
-    "date_published": "2026-10-02",
-    "description": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-    "source_id": "openai_blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
+    "title": "All the AI agents that can live in your text messages",
+    "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "date_published": "2026-10-03",
+    "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
     "categories": [
-      "strategy",
+      "agentic_commerce",
+      "commerce",
       "tech"
     ],
-    "relevance_score": 0.62,
+    "relevance_score": 0.72,
     "relevance_label": "high",
-    "title_en": "Chatham Financial Cuts Trade Validation from 30 Minutes to Under 4 Using OpenAI Codex and GPT-5.6",
-    "summary_ko": "금융 서비스 기업 Chatham Financial이 OpenAI의 Codex와 GPT-5.6을 활용해 내부 기술 역량과 워크플로우를 재설계했다. 특히 트레이드 검증 프로세스를 기존 30분에서 4분 미만으로 단축하는 성과를 거뒀다. 이 사례는 AI가 전문 지식 기반 금융 업무의 자동화와 효율화에 실질적으로 기여할 수 있음을 보여준다.",
-    "summary_en": "Chatham Financial, a capital markets advisory firm, used OpenAI's Codex and GPT-5.6 to rebuild internal technology and redesign key workflows. Most notably, trade validation time was reduced from 30 minutes to under 4 minutes. This case demonstrates AI's tangible impact on automating and accelerating expert-driven financial processes.",
-    "so_what_ko": "LG D2C는 AI 기반 워크플로우 재설계를 통해 주문 처리, 고객 응대, 재고 검증 등의 반복적 업무 시간을 대폭 단축하는 전략을 검토할 수 있다.",
-    "so_what_en": "LG D2C can explore AI-driven workflow redesign to dramatically reduce time spent on repetitive tasks such as order processing, customer validation, and inventory verification.",
+    "title_en": "A Guide to the Most Notable AI Agents Living Inside Your Text Messages",
+    "summary_ko": "TechCrunch가 문자 메시지 내에서 작동하는 주요 AI 에이전트 목록을 정리했으며, 일반 비서부터 가족·여행·업무 특화 에이전트까지 다양한 유형이 포함된다. 이러한 SMS 기반 AI 에이전트는 앱 설치 없이 문자만으로 AI 서비스에 접근할 수 있는 새로운 채널을 제시한다. 이는 소비자와 브랜드 간의 접점을 문자 메시지로 확장하는 에이전틱 커머스의 초기 형태로 볼 수 있다.",
+    "summary_en": "TechCrunch compiled a list of notable AI agents that operate directly within text messaging platforms, spanning general assistants to specialized agents for families, travel, and work. These SMS-based agents offer a frictionless entry point to AI services without requiring app downloads or new platform adoption. This trend signals a broader shift toward ambient, conversational AI commerce accessible through everyday communication channels.",
+    "so_what_ko": "LG D2C 조직은 SMS 기반 AI 에이전트를 고객 접점 채널로 검토하여, 앱 없이도 제품 추천·A/S 접수·주문 상태 확인 등의 서비스를 제공하는 방안을 모색해야 한다.",
+    "so_what_en": "LG D2C teams should evaluate SMS-native AI agents as a low-friction customer touchpoint for product recommendations, service requests, and order tracking without requiring app adoption.",
     "key_points": [
-      "Codex와 GPT-5.6 결합으로 트레이드 검증 시간 30분→4분 미만으로 단축",
-      "전문 지식 집약적 금융 업무에서 AI 자동화의 실질적 효과 입증",
-      "기술 재구축과 워크플로우 재설계를 동시에 추진한 전사적 AI 전환 사례"
+      "SMS 채널을 통해 앱 설치 없이 AI 에이전트 서비스 접근 가능",
+      "일반 비서부터 가족·여행·업무 등 특화 에이전트까지 다양한 유형 존재",
+      "소비자 일상 커뮤니케이션 채널로의 AI 침투가 에이전틱 커머스 확산을 가속화"
     ],
     "tags": [
-      "openai-codex",
-      "workflow-automation",
-      "gpt-5",
-      "fintech",
-      "ai-efficiency"
+      "sms-ai-agents",
+      "conversational-commerce",
+      "agentic-commerce",
+      "messaging-channel",
+      "ai-assistant"
     ],
-    "confidence": 0.72,
-    "strategic_theme": "AI_COMMERCE",
+    "confidence": 0.55,
+    "strategic_theme": "AI_AGENT",
     "regions": [
       "GLOBAL",
       "AMER"
@@ -550,93 +280,42 @@
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Chatham Financial",
-      "OpenAI",
-      "Codex",
-      "GPT-5.6"
+      "TechCrunch"
     ],
-    "one_line_insight_ko": "AI 기반 워크플로우 재설계는 전문 업무 처리 시간을 87% 이상 단축할 수 있는 실질적 혁신 도구다.",
-    "one_line_insight_en": "AI-driven workflow redesign can cut expert-level task processing time by over 87%, offering a compelling model for D2C operational transformation.",
+    "one_line_insight_ko": "SMS 기반 AI 에이전트는 앱 없이도 소비자와 브랜드를 연결하는 새로운 에이전틱 커머스 채널로 부상하고 있다.",
+    "one_line_insight_en": "SMS-native AI agents are emerging as a zero-friction agentic commerce channel that connects consumers and brands without requiring app installation.",
     "ai_processed": true
   },
   {
-    "title": "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
-    "link": "https://www.latent.space/p/airbnb",
+    "title": "Sean Parker is rebuilding Stability AI around music",
+    "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
     "date_published": "2026-10-02",
-    "description": "After leading Meta’s Llama models, Ahmad Al-Dahle is now transforming Airbnb with AI — from how its teams develop products to how it serves guests.",
-    "source_id": "latent_space",
-    "source_name": "Latent Space (The AI Index)",
-    "source_url": "https://www.latent.space/feed",
+    "description": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
     "categories": [
-      "strategy",
-      "ai_marketing",
-      "commerce"
-    ],
-    "relevance_score": 0.78,
-    "relevance_label": "high",
-    "title_en": "Airbnb Is Rebuilding Its Platform and Guest Experience from the Inside Out with AI",
-    "summary_ko": "Meta의 Llama 모델을 이끌었던 Ahmad Al-Dahle가 Airbnb로 합류해 내부 제품 개발 방식부터 게스트 경험 전반을 AI로 혁신하고 있다. Airbnb는 AI를 단순 기능 추가가 아닌 플랫폼 전체 재설계의 핵심 원칙으로 삼고 있다. 이는 주요 플랫폼 기업들이 AI를 통해 고객 경험을 근본적으로 재구성하는 흐름을 잘 보여주는 사례다.",
-    "summary_en": "Ahmad Al-Dahle, who previously led Meta's Llama model development, has joined Airbnb to drive AI transformation across both internal product development and the guest experience. Airbnb is treating AI not as an add-on feature but as a foundational principle for platform-wide redesign. This case illustrates how leading platform companies are fundamentally reimagining customer experiences through AI.",
-    "so_what_ko": "LG D2C는 Airbnb의 사례처럼 AI를 기능 단위 추가가 아닌 고객 여정 전체를 재설계하는 전략적 원칙으로 채택하는 접근 방식을 벤치마킹할 수 있다.",
-    "so_what_en": "LG D2C should benchmark Airbnb's approach of treating AI as a foundational redesign principle—not a feature layer—to reimagine the entire D2C customer journey end-to-end.",
-    "key_points": [
-      "Meta Llama 출신 AI 리더십 영입으로 Airbnb의 전사적 AI 전환 가속화",
-      "게스트 경험과 내부 제품 개발 모두를 AI로 동시에 재설계하는 통합적 접근",
-      "플랫폼 기업의 AI 내재화 전략이 고객 경험 혁신의 핵심 경쟁력으로 부상"
-    ],
-    "tags": [
-      "airbnb",
-      "customer-experience",
-      "platform-ai",
-      "ai-transformation",
-      "product-redesign"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Airbnb",
-      "Ahmad Al-Dahle",
-      "Meta",
-      "Llama"
-    ],
-    "one_line_insight_ko": "Airbnb의 AI 내재화 전략은 D2C 플랫폼이 고객 경험 전체를 AI로 재설계해야 하는 시대가 도래했음을 시사한다.",
-    "one_line_insight_en": "Airbnb's inside-out AI transformation signals that D2C platforms must now redesign the entire customer experience around AI—not just bolt it on.",
-    "ai_processed": true
-  },
-  {
-    "title": "[AINews] Pi 1.0, Pi Durable, and AIE NYC",
-    "link": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
-    "date_published": "2026-10-02",
-    "description": "the minimalist harness goes stable... and TypeScript!",
-    "source_id": "latent_space",
-    "source_name": "Latent Space (The AI Index)",
-    "source_url": "https://www.latent.space/feed",
-    "categories": [
-      "tech"
+      "tech",
+      "ai_marketing"
     ],
     "relevance_score": 0.38,
     "relevance_label": "high",
-    "title_en": "Pi 1.0 and Pi Durable Launch as AI Engineering Ecosystem Matures",
-    "summary_ko": "Latent Space의 AINews가 Pi 1.0과 Pi Durable의 안정화 출시, 그리고 AI Engineering NYC 행사 소식을 전했다. Pi는 미니멀리스트 AI 하네스 프레임워크로, TypeScript 지원이 추가되며 개발자 생태계 확장을 꾀하고 있다. 이는 AI 엔지니어링 툴체인이 점차 성숙해지며 프로덕션 환경에서의 표준화가 진행되고 있음을 보여준다.",
-    "summary_en": "Latent Space's AINews reports on the stable release of Pi 1.0 and Pi Durable, a minimalist AI harness framework, along with the AI Engineering NYC event. The addition of TypeScript support marks a significant step toward broader developer adoption. This signals the ongoing maturation of AI engineering toolchains and standardization for production environments.",
-    "so_what_ko": "LG D2C 기술팀은 Pi와 같은 경량 AI 프레임워크의 성숙화를 모니터링하며 내부 AI 개발 표준화에 참고할 수 있다.",
-    "so_what_en": "LG D2C engineering teams should monitor the maturation of lightweight AI frameworks like Pi to inform internal AI development standardization and toolchain decisions.",
+    "title_en": "Sean Parker Pivots Stability AI Toward Music with Major Label Backing",
+    "summary_ko": "숀 파커가 Stability AI를 음악 중심으로 재편하고 있으며, 과거 Napster로 음악 산업과 갈등을 빚었던 그가 이번에는 주요 음반사들의 지지와 투자를 받아 복귀했다. 이는 생성형 AI 기업이 단일 모달리티에서 음악이라는 특정 버티컬로 전략적 피벗을 시도하는 사례다. 음악 산업과의 협력 구조는 AI 콘텐츠 생성에서 저작권 문제를 해결하는 라이선싱 기반 모델의 가능성을 보여준다.",
+    "summary_en": "Sean Parker is restructuring Stability AI with a focus on music, this time operating with the support and funding of major music labels rather than against them. The move represents a strategic vertical pivot for a generative AI company that had previously been broadly focused on image and general content generation. The label-backed approach suggests a licensing-first model for AI-generated music that could serve as a template for rights-compliant creative AI.",
+    "so_what_ko": "AI 생성 콘텐츠의 저작권 해결을 위한 라이선싱 기반 협력 모델은 LG D2C의 마케팅 콘텐츠 제작 시 음악·이미지 등 크리에이티브 에셋 활용 전략에 참고할 수 있다.",
+    "so_what_en": "The licensing-first model for AI-generated creative content offers a reference framework for LG D2C marketing teams seeking rights-compliant use of music and other creative assets in campaigns.",
     "key_points": [
-      "Pi 1.0 및 Pi Durable 안정 버전 출시로 미니멀리스트 AI 프레임워크 성숙화",
-      "TypeScript 지원 추가로 개발자 접근성 및 생태계 확장 가속",
-      "AI 엔지니어링 툴체인의 프로덕션 표준화 흐름이 뚜렷해지는 시점"
+      "숀 파커가 Stability AI를 음악 특화 AI 기업으로 전략적 재편 중",
+      "주요 음반사들의 자금 지원 및 승인 하에 진행되어 저작권 분쟁 리스크 최소화",
+      "생성형 AI와 콘텐츠 산업 간 라이선싱 협력 모델의 실질적 사례 제시"
     ],
     "tags": [
-      "ai-framework",
-      "pi-framework",
-      "typescript",
-      "ai-engineering",
-      "developer-tools"
+      "generative-ai",
+      "music-ai",
+      "stability-ai",
+      "content-licensing",
+      "creative-ai"
     ],
     "confidence": 0.55,
     "strategic_theme": "EMERGING_TECH",
@@ -647,58 +326,384 @@
     "business_impact": "LOW",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "Pi 1.0",
-      "Pi Durable",
-      "Latent Space",
-      "TypeScript"
+      "Stability AI",
+      "Sean Parker"
     ],
-    "one_line_insight_ko": "AI 엔지니어링 프레임워크의 성숙화는 기업 내부 AI 개발 표준화를 가속화하는 기반이 되고 있다.",
-    "one_line_insight_en": "The stabilization of lightweight AI frameworks like Pi signals an accelerating push toward standardized, production-ready AI engineering across organizations.",
+    "one_line_insight_ko": "AI 음악 생성 분야에서 음반사와의 라이선싱 협력 모델이 저작권 문제를 해결하는 새로운 업계 표준으로 자리잡을 수 있다.",
+    "one_line_insight_en": "A label-backed licensing model for AI music generation may set a new industry standard for resolving copyright challenges in generative AI content.",
     "ai_processed": true
   },
   {
-    "title": "Prompt: AI is removing rungs from the corporate career ladder",
-    "link": "https://aibusiness.com/generative-ai/prompt-ai-removing-rungs-from-corporate-career-ladder",
+    "title": "How stablecoins speed int’l payments",
+    "link": "https://www.paymentsdive.com/news/how-stablecoins-speed-intl-payments-crypto-cross-border-emerging-markets/831935/",
     "date_published": "2026-10-02",
-    "description": "AI is doing more junior-level work, forcing organizations to rethink how employees gain the experience and judgment they need to move into senior roles.",
+    "description": "Startup Latitude Global pitches faster, cheaper cross-border payments by sending them on modern stablecoin rails.",
+    "source_id": "payments_dive",
+    "source_name": "Payments Dive",
+    "source_url": "https://www.paymentsdive.com/feeds/news/",
+    "categories": [
+      "commerce",
+      "tech"
+    ],
+    "relevance_score": 0.45,
+    "relevance_label": "high",
+    "title_en": "Stablecoins Offer Faster, Cheaper Cross-Border Payments for Emerging Markets",
+    "summary_ko": "스타트업 Latitude Global은 스테이블코인 레일을 활용해 신흥 시장을 중심으로 국제 송금을 더 빠르고 저렴하게 처리하는 솔루션을 제시하고 있다. 기존 국제 송금 시스템의 높은 수수료와 느린 처리 속도를 대체할 수 있는 대안으로 스테이블코인이 주목받고 있다. 이는 글로벌 D2C 결제 인프라에서 블록체인 기반 금융 레일의 실용적 적용 가능성을 보여주는 사례다.",
+    "summary_en": "Startup Latitude Global is pitching stablecoin rails as a solution for faster and cheaper international payments, particularly targeting emerging markets underserved by traditional financial infrastructure. The approach aims to address the high fees and slow settlement times associated with conventional cross-border payment systems. This represents a practical application of blockchain-based financial infrastructure in the global payments landscape.",
+    "so_what_ko": "LG D2C가 신흥 시장에서 글로벌 결제 인프라를 확장할 때, 스테이블코인 기반 결제 레일을 통한 비용 절감 및 결제 속도 개선 가능성을 검토할 필요가 있다.",
+    "so_what_en": "As LG D2C expands into emerging markets, stablecoin-based payment rails could offer a meaningful reduction in cross-border transaction costs and settlement times worth evaluating.",
+    "key_points": [
+      "Latitude Global이 스테이블코인 레일 기반 국제 송금 솔루션 제시",
+      "신흥 시장의 기존 결제 인프라 한계를 블록체인으로 대체하는 접근법",
+      "글로벌 D2C 사업 확장 시 결제 비용 절감 및 속도 향상 가능성"
+    ],
+    "tags": [
+      "stablecoin",
+      "cross-border-payments",
+      "fintech",
+      "emerging-markets",
+      "payment-infrastructure"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "GLOBAL",
+      "APAC",
+      "EMEA"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Latitude Global"
+    ],
+    "one_line_insight_ko": "스테이블코인 기반 결제 레일은 신흥 시장에서 글로벌 D2C의 결제 비용과 속도 문제를 동시에 해결할 수 있는 현실적 대안으로 부상하고 있다.",
+    "one_line_insight_en": "Stablecoin payment rails are emerging as a practical solution for global D2C businesses to simultaneously reduce costs and accelerate settlement in emerging markets.",
+    "ai_processed": true
+  },
+  {
+    "title": "Nvidia agent safety push raises questions about who governs AI autonomy",
+    "link": "https://aibusiness.com/responsible-ai/nvidia-agent-safety-push-raises-questions",
+    "date_published": "2026-10-02",
+    "description": "The AI chipmaker’s new safety platform adds controls around AI agents, while enterprises remain responsible for defining their authority and setting boundaries.",
     "source_id": "ai_business",
     "source_name": "AI Business",
     "source_url": "https://aibusiness.com/rss.xml",
     "categories": [
-      "strategy",
-      "ai_marketing"
+      "agentic_commerce",
+      "tech",
+      "strategy"
     ],
-    "relevance_score": 0.55,
+    "relevance_score": 0.78,
     "relevance_label": "high",
-    "title_en": "AI Is Eliminating Junior-Level Roles, Threatening How Organizations Develop Future Leaders",
-    "summary_ko": "AI가 기업 내 주니어 레벨 업무를 대체하면서 직원들이 경험과 판단력을 쌓아 시니어로 성장하는 전통적 경력 사다리가 흔들리고 있다. 조직들은 AI가 대체한 역할에서 어떻게 인재를 육성하고 역량을 개발할지에 대한 근본적 재설계를 요구받고 있다. 이는 AI 도입의 효율성 이면에 있는 인재 파이프라인 리스크를 부각시키는 중요한 구조적 문제다.",
-    "summary_en": "AI is increasingly taking over junior-level work within organizations, disrupting the traditional career ladder through which employees gain the experience and judgment needed to advance to senior roles. Organizations are now forced to fundamentally rethink how they develop talent and build institutional knowledge in an AI-augmented environment. This highlights a critical structural risk hidden beneath AI's efficiency gains: a threatened leadership pipeline.",
-    "so_what_ko": "LG D2C는 AI 도입 시 주니어 인력의 역할 재정의와 체계적 역량 개발 프로그램을 병행해 미래 리더십 파이프라인이 손상되지 않도록 선제적으로 대응해야 한다.",
-    "so_what_en": "LG D2C must proactively redesign talent development pathways alongside AI adoption to ensure junior employees still gain the hands-on experience and judgment needed to grow into future leaders.",
+    "title_en": "Nvidia's Agent Safety Platform Sparks Debate Over Who Should Govern AI Autonomy",
+    "summary_ko": "Nvidia가 AI 에이전트에 대한 안전 통제 기능을 갖춘 새로운 플랫폼을 출시했으나, 에이전트의 권한 범위와 경계 설정의 책임은 여전히 기업에 귀속된다는 점에서 논란이 일고 있다. 이 플랫폼은 AI 에이전트의 자율성을 제어하는 거버넌스 레이어를 추가하지만, 누가 AI 자율성을 최종적으로 규정해야 하는지에 대한 근본적인 질문은 해결되지 않고 있다. AI 에이전트 도입을 고려하는 기업들은 기술적 안전 장치 외에도 내부 거버넌스 체계 구축이 필수적임을 시사한다.",
+    "summary_en": "Nvidia has launched a new safety platform that adds governance controls around AI agents, but responsibility for defining agent authority and setting boundaries remains with enterprises rather than the chipmaker. The platform introduces a technical safety layer for agentic AI deployments, yet leaves unresolved the fundamental question of who should govern AI autonomy at a systemic level. For enterprises deploying AI agents, this underscores the need for robust internal governance frameworks alongside technical safeguards.",
+    "so_what_ko": "LG D2C가 AI 에이전트를 마케팅·커머스 워크플로우에 도입할 경우, Nvidia 안전 플랫폼 같은 기술적 통제 도구 도입과 함께 에이전트 권한 범위를 정의하는 내부 AI 거버넌스 정책을 선제적으로 수립해야 한다.",
+    "so_what_en": "As LG D2C integrates AI agents into marketing and commerce workflows, it must proactively establish internal AI governance policies defining agent authority, not just rely on vendor-provided safety tools like Nvidia's platform.",
     "key_points": [
-      "AI의 주니어 업무 대체로 전통적 경력 성장 경로(사다리)가 붕괴 위기에 직면",
-      "조직이 AI 환경에서 인재 육성 방식을 근본적으로 재설계해야 하는 압력 증가",
-      "AI 효율화의 이면에서 인재 파이프라인 약화라는 장기적 조직 리스크 부상"
+      "Nvidia가 AI 에이전트 자율성 통제를 위한 안전 플랫폼 출시",
+      "에이전트 권한 정의 및 경계 설정의 최종 책임은 기업(엔터프라이즈)에 있음",
+      "AI 에이전트 거버넌스의 주체와 기준에 대한 업계 차원의 논쟁 심화",
+      "기술적 안전 장치와 함께 내부 AI 거버넌스 체계 구축의 필요성 부각"
     ],
     "tags": [
-      "ai-workforce",
-      "talent-development",
-      "career-ladder",
-      "organizational-change",
-      "future-of-work"
+      "ai-governance",
+      "agent-safety",
+      "nvidia",
+      "ai-autonomy",
+      "enterprise-ai"
+    ],
+    "confidence": 0.65,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Nvidia"
+    ],
+    "one_line_insight_ko": "AI 에이전트 확산 시대에 기술적 안전 장치만으로는 부족하며, 기업 스스로 에이전트 권한과 경계를 정의하는 내부 거버넌스 체계 구축이 핵심 경쟁력이 된다.",
+    "one_line_insight_en": "In the age of agentic AI, technical safety tools alone are insufficient — enterprises that proactively define agent authority through internal governance frameworks will hold a critical competitive advantage.",
+    "ai_processed": true
+  },
+  {
+    "title": "Meta debuts AI agent for small businesses",
+    "link": "https://www.retaildive.com/news/meta-debuts-ai-agent-muse-small-businesses/831890/",
+    "date_published": "2026-10-01",
+    "description": "After introducing Muse for personal users, the tech giant is offering its AI agent to small businesses seeking help with everyday tasks.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "agentic_commerce",
+      "ai_marketing",
+      "commerce"
+    ],
+    "relevance_score": 0.88,
+    "relevance_label": "high",
+    "title_en": "Meta Launches Muse AI Agent for Small Businesses to Automate Everyday Tasks",
+    "summary_ko": "Meta가 개인 사용자용으로 먼저 출시한 AI 에이전트 Muse를 소규모 비즈니스용으로 확장하여, 일상적인 업무 자동화를 지원하는 서비스를 새롭게 선보였다. Muse는 소상공인들이 Meta 플랫폼 내에서 고객 응대, 콘텐츠 관리 등 반복 업무를 AI로 처리할 수 있도록 지원한다. 이는 Meta가 광고 플랫폼을 넘어 비즈니스 운영 도구로서의 역할을 강화하며 소상공인 생태계 내 AI 에이전트 채택을 가속화하려는 전략으로 해석된다.",
+    "summary_en": "Meta has expanded its AI agent Muse, previously introduced for personal users, to small businesses seeking assistance with everyday operational tasks. Muse enables small business owners to automate repetitive activities such as customer interactions and content management within Meta's platform ecosystem. This move signals Meta's strategic intent to deepen its role beyond advertising into AI-powered business operations, accelerating AI agent adoption among SMBs.",
+    "so_what_ko": "Meta의 Muse 확산은 소상공인 및 D2C 브랜드 대상 AI 에이전트 경쟁이 본격화됨을 의미하며, LG D2C는 Meta 플랫폼 기반 AI 에이전트 도구를 활용한 소비자 접점 자동화 전략을 조기에 검토해야 한다.",
+    "so_what_en": "Meta's Muse expansion signals intensifying competition in AI agent tools for D2C brands; LG D2C should evaluate early adoption of Meta's AI agent capabilities to automate consumer touchpoints and stay ahead of SMB competitors.",
+    "key_points": [
+      "Meta가 AI 에이전트 Muse를 개인 사용자에서 소규모 비즈니스로 확장",
+      "소상공인의 고객 응대·콘텐츠 관리 등 일상 업무 자동화 지원",
+      "Meta가 광고 플랫폼을 넘어 비즈니스 운영 AI 도구로 생태계 확장 중",
+      "D2C 브랜드 대상 AI 에이전트 경쟁이 주요 플랫폼 중심으로 가속화"
+    ],
+    "tags": [
+      "meta-muse",
+      "ai-agent",
+      "small-business",
+      "retail-automation",
+      "conversational-ai"
     ],
     "confidence": 0.75,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "GLOBAL",
+      "AMER"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Meta",
+      "Muse"
+    ],
+    "one_line_insight_ko": "Meta의 Muse 비즈니스 확장은 AI 에이전트가 소상공인 운영의 기본 인프라로 편입되는 전환점을 나타내며, D2C 브랜드의 플랫폼 의존도를 심화시킬 수 있다.",
+    "one_line_insight_en": "Meta's Muse expansion for small businesses marks an inflection point where AI agents become core operational infrastructure for SMBs, potentially deepening D2C brand dependence on Meta's platform ecosystem.",
+    "ai_processed": true
+  },
+  {
+    "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+    "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+    "date_published": "2026-10-01",
+    "description": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
+    "source_id": "techcrunch_commerce",
+    "source_name": "TechCrunch Commerce",
+    "source_url": "https://techcrunch.com/category/commerce/feed",
+    "categories": [
+      "commerce",
+      "agentic_commerce"
+    ],
+    "relevance_score": 0.92,
+    "relevance_label": "high",
+    "title_en": "Shopify Debuts Canvas: Build Online Stores by Chatting with AI Agent Sidekick",
+    "summary_ko": "Shopify가 AI 에이전트 'Sidekick'과의 대화를 통해 온라인 스토어를 생성·커스터마이징할 수 있는 새로운 사이트 빌더 'Canvas'를 출시했다. 판매자는 실시간으로 변경 사항을 확인하면서 채팅만으로 스토어를 구축할 수 있어 기술적 전문 지식 없이도 운영이 가능하다. 이는 이커머스 구축 과정을 대화형 AI로 완전히 전환하려는 Shopify의 전략적 움직임을 보여준다.",
+    "summary_en": "Shopify has launched Canvas, a new AI-powered site builder that allows merchants to create and customize their online stores through natural conversation with its AI agent Sidekick. Changes are reflected in real time as merchants chat, eliminating the need for technical expertise in store setup. This move signals Shopify's strategic pivot toward conversational AI as the primary interface for e-commerce store management.",
+    "so_what_ko": "LG D2C 조직은 AI 대화형 인터페이스가 이커머스 구축의 새로운 표준이 되고 있음을 인식하고, 자사 D2C 플랫폼에도 유사한 AI 기반 스토어 관리 기능 도입을 검토해야 한다.",
+    "so_what_en": "LG's D2C organization should evaluate integrating conversational AI interfaces into its own storefront management tools, as AI-driven store building is rapidly becoming the industry standard.",
+    "key_points": [
+      "Shopify Canvas allows merchants to build and customize stores via chat with AI agent Sidekick",
+      "Real-time preview of changes lowers the technical barrier for non-developer merchants",
+      "Represents a broader industry shift toward agentic, conversational e-commerce tooling"
+    ],
+    "tags": [
+      "shopify",
+      "ai-store-builder",
+      "conversational-ai",
+      "agentic-commerce",
+      "d2c-platform"
+    ],
+    "confidence": 0.85,
+    "strategic_theme": "AI_COMMERCE",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Shopify",
+      "Canvas",
+      "Sidekick"
+    ],
+    "one_line_insight_ko": "Shopify의 AI 대화형 스토어 빌더 Canvas는 이커머스 구축의 진입 장벽을 허물며 D2C 플랫폼 경쟁 구도를 재편하고 있다.",
+    "one_line_insight_en": "Shopify's conversational AI store builder Canvas is dismantling technical barriers to e-commerce, setting a new benchmark for D2C platform capabilities.",
+    "ai_processed": true
+  },
+  {
+    "title": "The eternal complement",
+    "link": "https://openai.com/index/the-eternal-complement",
+    "date_published": "2026-10-01",
+    "description": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "categories": [
+      "strategy",
+      "tech"
+    ],
+    "relevance_score": 0.62,
+    "relevance_label": "high",
+    "title_en": "OpenAI Argues Advanced AI Will Transform Routine Execution, Not Just Breakthrough Ideas",
+    "summary_ko": "OpenAI 블로그는 고급 AI의 가장 큰 영향이 혁신적 아이디어보다 그 뒤를 받치는 일상적 실행 업무에서 발생할 수 있다고 주장한다. AI가 실행 역량을 혁신함으로써 다음 경제 구조와 기술 진보의 속도를 결정짓는 핵심 요소가 될 수 있다는 시각을 제시한다. 이는 AI를 단순 도구가 아닌 조직의 실행 인프라로 바라보는 전략적 관점의 전환을 시사한다.",
+    "summary_en": "OpenAI's blog post argues that advanced AI may have its greatest impact not on generating breakthrough ideas, but on the routine execution work that underlies them. By transforming how execution is performed, AI could shape the structure of the next economy and accelerate the pace of progress. The piece frames AI as a foundational layer of organizational execution infrastructure rather than a mere productivity tool.",
+    "so_what_ko": "LG D2C 조직은 AI를 아이디어 발굴 도구로만 볼 것이 아니라, 마케팅·운영·고객 서비스 등 반복적 실행 업무의 핵심 인프라로 내재화하는 전략을 수립해야 한다.",
+    "so_what_en": "LG D2C teams should prioritize embedding AI into routine operational and marketing execution workflows, recognizing that competitive advantage will come from execution speed and scale, not just ideation.",
+    "key_points": [
+      "Advanced AI's greatest value may lie in automating and enhancing routine execution tasks",
+      "Execution capability driven by AI could define the pace of economic and technological progress",
+      "Organizations that treat AI as execution infrastructure rather than a tool will gain structural advantages"
+    ],
+    "tags": [
+      "ai-strategy",
+      "execution-economy",
+      "openai",
+      "future-of-work",
+      "organizational-ai"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "DATA_STRATEGY",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "MEDIUM",
-    "sentiment": "THREAT",
+    "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "AI Business"
+      "OpenAI"
     ],
-    "one_line_insight_ko": "AI가 주니어 업무를 흡수하면서 기업의 미래 리더십 양성 구조 자체가 위협받고 있어 선제적 인재 전략 재설계가 시급하다.",
-    "one_line_insight_en": "As AI absorbs junior-level work, organizations face an urgent need to redesign talent development frameworks to protect their future leadership pipeline.",
+    "one_line_insight_ko": "AI의 진정한 경쟁 우위는 혁신적 아이디어가 아닌 일상적 실행의 속도와 품질을 높이는 데서 창출된다.",
+    "one_line_insight_en": "The next competitive frontier is not AI-generated ideas but AI-powered execution—organizations that automate routine work at scale will lead the next economy.",
+    "ai_processed": true
+  },
+  {
+    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+    "link": "https://openai.com/index/the-den-family-social",
+    "date_published": "2026-10-01",
+    "description": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "categories": [
+      "ai_marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.58,
+    "relevance_label": "high",
+    "title_en": "Social Club The Den Saves Days of Work Weekly Using ChatGPT for Business Operations",
+    "summary_ko": "소셜 클럽 'The Den'은 ChatGPT Work를 활용해 주당 10~15시간의 업무 시간을 절감하고 있다. 보조금 신청서 작성은 기존 3일에서 2시간으로, 주류 면허 관련 자료 준비는 4일에서 3시간으로 단축되었다. 신규 지점 오픈을 앞두고 AI 도구가 소규모 비즈니스의 행정 업무 부담을 크게 줄이는 실질적 사례를 보여준다.",
+    "summary_en": "Social club The Den uses ChatGPT Work to free up 10–15 hours per week, enabling staff to focus on growth as the business opens a new location. Grant application preparation has been reduced from 3 days to 2 hours, and liquor-license materials from 4 days to 3 hours. The case illustrates how AI tools can dramatically reduce administrative burden for small and mid-sized businesses.",
+    "so_what_ko": "LG D2C 팀은 ChatGPT와 같은 AI 업무 도구를 통해 콘텐츠 제작, 규제 문서, 캠페인 준비 등 반복적 행정 업무를 자동화함으로써 전략적 업무에 집중하는 시간을 확보할 수 있다.",
+    "so_what_en": "LG D2C teams can adopt AI work tools like ChatGPT to automate repetitive administrative tasks—such as content drafting, compliance documentation, and campaign preparation—freeing capacity for higher-value strategic work.",
+    "key_points": [
+      "The Den saves 10–15 hours per week using ChatGPT Work across administrative tasks",
+      "Grant applications cut from 3 days to 2 hours; liquor-license materials from 4 days to 3 hours",
+      "Demonstrates tangible ROI of AI work tools for small businesses scaling operations"
+    ],
+    "tags": [
+      "chatgpt",
+      "ai-productivity",
+      "business-automation",
+      "openai",
+      "small-business"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "The Den",
+      "ChatGPT",
+      "OpenAI"
+    ],
+    "one_line_insight_ko": "ChatGPT 업무 도구는 소규모 비즈니스의 행정 처리 시간을 90% 이상 단축시키며 AI 생산성 혁신의 실질적 증거를 제공한다.",
+    "one_line_insight_en": "ChatGPT Work's ability to compress multi-day administrative tasks into hours proves AI productivity tools deliver measurable, immediate ROI for businesses of all sizes.",
+    "ai_processed": true
+  },
+  {
+    "title": "[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output",
+    "link": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
+    "date_published": "2026-10-01",
+    "description": "... but you can’t try it yet unless you are “government users and trusted cyber defenders in the Fairwind Program”",
+    "source_id": "latent_space",
+    "source_name": "Latent Space (The AI Index)",
+    "source_url": "https://www.latent.space/feed",
+    "categories": [
+      "tech"
+    ],
+    "relevance_score": 0.42,
+    "relevance_label": "high",
+    "title_en": "Google DeepMind Launches Gemini 4 Argon with 1M Token Output, Restricted to Trusted Government Users",
+    "summary_ko": "Google DeepMind가 Gemini 4 Argon를 공개했으며, 이는 Astra/Fable에 대응하는 모델로 100만 토큰 출력 기능을 갖추고 있다. 현재 일반 사용자는 접근할 수 없으며, 'Fairwind Program'의 정부 사용자 및 신뢰할 수 있는 사이버 보안 담당자에게만 제공된다. 이 모델의 등장은 초대형 컨텍스트 윈도우를 갖춘 AI 모델 경쟁이 엔터프라이즈 및 정부 영역에서 본격화되고 있음을 시사한다.",
+    "summary_en": "Google DeepMind has announced Gemini 4 Argon, positioning it as a competitor to Astra/Fable with a remarkable 1 million token output capacity. Access is currently restricted to government users and trusted cyber defenders within the Fairwind Program, making it unavailable to general or commercial users. The release signals an intensifying race for ultra-large context window AI models in enterprise and government sectors.",
+    "so_what_ko": "Gemini 4 Argon은 현재 일반 상업적 접근이 불가하나, 초대형 컨텍스트 모델의 발전 방향을 주시하며 LG D2C의 향후 AI 인프라 전략에 반영할 필요가 있다.",
+    "so_what_en": "While not yet commercially accessible, LG D2C should monitor the development trajectory of ultra-large context AI models like Gemini 4 Argon as they will eventually reshape enterprise AI infrastructure and marketing analytics capabilities.",
+    "key_points": [
+      "Gemini 4 Argon features 1 million token output, targeting Astra/Fable-level capabilities",
+      "Currently restricted to Fairwind Program government and cyber defender users only",
+      "Signals accelerating competition in large-context AI models for enterprise and government use"
+    ],
+    "tags": [
+      "google-deepmind",
+      "gemini",
+      "large-language-model",
+      "enterprise-ai",
+      "context-window"
+    ],
+    "confidence": 0.65,
+    "strategic_theme": "EMERGING_TECH",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Google DeepMind",
+      "Gemini 4 Argon",
+      "Fairwind Program"
+    ],
+    "one_line_insight_ko": "Gemini 4 Argon의 100만 토큰 출력 모델은 정부·보안 영역에서 시작해 향후 기업용 AI 경쟁의 새로운 기준점이 될 것이다.",
+    "one_line_insight_en": "Gemini 4 Argon's 1M-token output capability, currently limited to government use, previews the next frontier of enterprise AI where context scale becomes a decisive competitive differentiator.",
+    "ai_processed": true
+  },
+  {
+    "title": "Graph-centric agentic intelligence",
+    "link": "https://www.amazon.science/blog/graph-centric-agentic-intelligence",
+    "date_published": "2026-10-01",
+    "description": "Augmenting a network graph with agentic AI produces a “digital twin” that can help isolate network failures.",
+    "source_id": "amazon_science",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science/index.rss",
+    "categories": [
+      "tech"
+    ],
+    "relevance_score": 0.32,
+    "relevance_label": "high",
+    "title_en": "Amazon Science Explores Graph-Centric Agentic AI for Network Digital Twins",
+    "summary_ko": "Amazon Science는 네트워크 그래프에 에이전틱 AI를 결합해 네트워크 장애를 격리하고 진단할 수 있는 '디지털 트윈'을 구현하는 연구를 발표했다. 그래프 중심의 에이전틱 AI는 복잡한 네트워크 구조를 이해하고 자율적으로 문제를 해결하는 능력을 강화한다. 이 기술은 주로 네트워크 인프라 운영 최적화에 초점이 맞춰져 있어 D2C 마케팅·커머스와의 직접적 연관성은 낮다.",
+    "summary_en": "Amazon Science has published research on augmenting network graphs with agentic AI to create 'digital twins' capable of isolating and diagnosing network failures autonomously. The graph-centric approach enhances the AI agent's ability to understand complex network topologies and resolve issues without human intervention. The research is primarily focused on network infrastructure optimization and has limited direct relevance to commerce or marketing applications.",
+    "so_what_ko": "이 기술의 직접적인 D2C 적용은 제한적이나, 에이전틱 AI가 복잡한 시스템 운영에 활용되는 방식은 향후 LG의 공급망·물류 네트워크 최적화에 참고할 수 있다.",
+    "so_what_en": "While direct D2C applicability is limited, the graph-centric agentic AI approach offers a reference point for how LG could apply similar techniques to optimize complex supply chain or logistics network operations in the future.",
+    "key_points": [
+      "Amazon researchers combine network graphs with agentic AI to build diagnostic digital twins",
+      "The system can autonomously isolate network failures without human intervention",
+      "Primarily an infrastructure research application with limited near-term D2C marketing relevance"
+    ],
+    "tags": [
+      "amazon",
+      "agentic-ai",
+      "digital-twin",
+      "network-graph",
+      "infrastructure-ai"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Amazon Science",
+      "Amazon"
+    ],
+    "one_line_insight_ko": "그래프 기반 에이전틱 AI의 디지털 트윈 기술은 네트워크 운영을 자율화하며, 장기적으로 복잡한 공급망 최적화에도 응용 가능한 잠재력을 지닌다.",
+    "one_line_insight_en": "Graph-centric agentic AI digital twins autonomize network operations today, but their pattern-recognition approach may eventually extend to complex supply chain and logistics optimization for retail organizations.",
     "ai_processed": true
   }
 ]
