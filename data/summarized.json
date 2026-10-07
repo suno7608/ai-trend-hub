@@ -1,106 +1,201 @@
 [
   {
-    "title": "AEO for SEO: How to maintain search visibility as buyers move to answer engines",
-    "link": "https://blog.hubspot.com/marketing/aeo-guide-for-seo",
-    "date_published": "2026-10-06",
-    "description": "Search engine optimization (SEO) teams have long used rankings, organic traffic, and conversions to understand how people find and engage with content. Those signals still matter, but they don’t show whether a brand appears in AI-generated answers.",
-    "source_id": "hubspot_marketing",
-    "source_name": "HubSpot Marketing Blog",
-    "source_url": "https://blog.hubspot.com/marketing/rss.xml",
-    "categories": [
-      "ai_marketing",
-      "marketing"
-    ],
-    "relevance_score": 0.88,
-    "relevance_label": "high",
-    "title_en": "AEO for SEO: How to Maintain Search Visibility as Buyers Move to Answer Engines",
-    "summary_ko": "검색엔진 최적화(SEO) 팀들은 그동안 순위, 오가닉 트래픽, 전환율을 핵심 지표로 활용해 왔으나, AI 생성 답변에서 브랜드 노출 여부는 이러한 지표로 파악하기 어렵다. 소비자들이 전통적인 검색 대신 AI 답변 엔진으로 이동함에 따라, 기존 SEO 전략만으로는 가시성 유지가 불충분해지고 있다. 이에 따라 AEO(Answer Engine Optimization)라는 새로운 접근법이 SEO를 보완하는 필수 전략으로 부상하고 있다.",
-    "summary_en": "Traditional SEO metrics such as rankings, organic traffic, and conversions no longer capture whether a brand appears in AI-generated answers. As buyers increasingly shift to answer engines for information, brands face a visibility gap that conventional SEO strategies cannot address alone. Answer Engine Optimization (AEO) is emerging as a critical complement to SEO for maintaining brand discovery in an AI-driven search landscape.",
-    "so_what_ko": "LG D2C는 기존 SEO 전략을 넘어 AEO를 도입하여 AI 답변 엔진에서 브랜드와 제품이 노출될 수 있도록 콘텐츠 구조와 메타데이터를 재설계해야 한다.",
-    "so_what_en": "LG D2C teams should begin auditing content for AEO readiness, ensuring product and brand information is structured to surface in AI-generated answers and not just traditional search results.",
-    "key_points": [
-      "Traditional SEO signals (rankings, traffic, conversions) do not capture AI answer engine visibility",
-      "Consumer search behavior is shifting toward AI-powered answer engines, creating a new discovery layer",
-      "AEO is emerging as a necessary discipline alongside SEO to maintain brand presence",
-      "Brands must rethink content strategy to be cited and referenced by AI answer systems"
-    ],
-    "tags": [
-      "aeo",
-      "seo",
-      "answer-engine-optimization",
-      "ai-search",
-      "content-strategy"
-    ],
-    "confidence": 0.72,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "HubSpot",
-      "Google",
-      "AEO",
-      "SEO"
-    ],
-    "one_line_insight_ko": "AI 답변 엔진 시대에 브랜드 가시성을 유지하려면 SEO를 넘어 AEO 전략이 필수적이다.",
-    "one_line_insight_en": "As AI answer engines reshape discovery, AEO has become an essential complement to SEO for sustained brand visibility.",
-    "ai_processed": true
-  },
-  {
-    "title": "Guardrails for Google Ads AI",
-    "link": "https://www.practicalecommerce.com/guardrails-for-google-ads-ai",
-    "date_published": "2026-10-06",
-    "description": "What we tell AI to exclude is as important as what to target.\nThe post Guardrails for Google Ads AI appeared first on Practical Ecommerce.",
+    "title": "New Ecommerce Tools: October 7, 2026",
+    "link": "https://www.practicalecommerce.com/new-ecommerce-tools-october-7-2026",
+    "date_published": "2026-10-07",
+    "description": "New services this week include website builders, no-box returns, AI-powered ad campaigns, same-day deliveries, discovery tools, multichannel product listings, live commerce, and more.\nThe post New Ecommerce Tools: October 7, 2026 appeared first on Practical Ecommerce.",
     "source_id": "practical_ecommerce",
     "source_name": "Practical Ecommerce",
     "source_url": "https://www.practicalecommerce.com/feed",
     "categories": [
+      "commerce",
+      "ai_marketing"
+    ],
+    "relevance_score": 0.65,
+    "relevance_label": "high",
+    "title_en": "New Ecommerce Tools Roundup: Website Builders, AI Ad Campaigns, Live Commerce & More (Oct 7, 2026)",
+    "summary_ko": "2026년 10월 첫째 주 신규 이커머스 도구들이 공개되었으며, 웹사이트 빌더, AI 기반 광고 캠페인, 당일 배송, 라이브 커머스, 멀티채널 상품 등록 등 다양한 서비스가 포함되었다. AI 광고 캠페인 도구와 반품 간소화 솔루션 등은 D2C 운영 효율화에 직접적으로 기여할 수 있는 기능이다. 이커머스 생태계에서 AI 기반 툴의 출시 속도가 가속화되고 있음을 보여준다.",
+    "summary_en": "A new batch of ecommerce tools was released the week of October 7, 2026, spanning website builders, AI-powered ad campaigns, no-box returns, same-day deliveries, live commerce, and multichannel product listing solutions. The breadth of offerings highlights the rapid pace of innovation across the ecommerce stack. AI-driven advertising and fulfillment tools are increasingly becoming standard components of modern D2C infrastructure.",
+    "so_what_ko": "LG D2C 조직은 AI 기반 광고 캠페인 및 라이브 커머스 툴의 도입을 검토하여 운영 효율성과 고객 도달률을 동시에 높일 수 있다.",
+    "so_what_en": "LG D2C teams should evaluate newly emerging AI ad campaign and live commerce tools to improve operational efficiency and expand customer reach.",
+    "key_points": [
+      "AI-powered ad campaign tools are part of the latest ecommerce tooling wave",
+      "Live commerce and multichannel listing tools signal continued retail media diversification",
+      "No-box returns and same-day delivery solutions address key D2C logistics pain points"
+    ],
+    "tags": [
+      "ecommerce-tools",
+      "ai-advertising",
+      "live-commerce",
+      "d2c-operations",
+      "retail-tech"
+    ],
+    "confidence": 0.55,
+    "strategic_theme": "AI_COMMERCE",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Practical Ecommerce"
+    ],
+    "one_line_insight_ko": "AI 광고·라이브 커머스·당일 배송 등 이커머스 핵심 기능들이 빠르게 툴화되며 D2C 진입 장벽을 낮추고 있다.",
+    "one_line_insight_en": "AI-powered ad, live commerce, and same-day delivery tools are rapidly commoditizing core D2C capabilities, lowering barriers to competitive operations.",
+    "ai_processed": true
+  },
+  {
+    "title": "Brands Briefing: Why Crocs, David’s Bridal and StockX are embracing episodic content",
+    "link": "https://www.modernretail.co/marketing/brands-briefing-why-crocs-davids-bridal-and-stockx-are-embracing-episodic-content/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-10-06",
+    "description": "More brands are pouring marketing dollars into bite-sized episodic content and blurring the line between retail and entertainment. Here's why the format has become so popular.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
+    "categories": [
+      "marketing",
+      "ai_marketing"
+    ],
+    "relevance_score": 0.6,
+    "relevance_label": "high",
+    "title_en": "Crocs, David's Bridal, and StockX Bet on Episodic Content to Blur Retail and Entertainment",
+    "summary_ko": "크록스, 데이비드 브라이들, 스탁엑스 등 주요 브랜드들이 짧고 연속적인 에피소드 형식의 콘텐츠에 마케팅 예산을 집중 투입하고 있다. 이 포맷은 리테일과 엔터테인먼트의 경계를 허물며 브랜드 충성도와 반복 방문을 유도하는 전략으로 주목받고 있다. 소비자의 콘텐츠 소비 패턴 변화에 대응해 브랜드 스토리텔링의 새로운 방식으로 에피소드형 콘텐츠가 부상하고 있다.",
+    "summary_en": "Brands like Crocs, David's Bridal, and StockX are investing in bite-sized episodic content to merge retail experiences with entertainment, a format gaining significant traction in brand marketing. The episodic structure encourages repeat audience engagement and deepens brand affinity over time. This trend reflects a broader shift in consumer behavior toward serialized, entertainment-driven brand storytelling.",
+    "so_what_ko": "LG D2C는 제품 경험이나 라이프스타일을 중심으로 한 에피소드형 콘텐츠 시리즈를 제작해 고객의 반복 방문과 브랜드 몰입도를 높이는 전략을 고려해야 한다.",
+    "so_what_en": "LG D2C should explore episodic content series centered on product experiences or lifestyle themes to drive repeat engagement and deepen brand affinity.",
+    "key_points": [
+      "Crocs, David's Bridal, and StockX are among brands leading the episodic content trend",
+      "Episodic format blurs the line between retail and entertainment, driving repeat engagement",
+      "Brands are reallocating marketing budgets toward serialized short-form content"
+    ],
+    "tags": [
+      "episodic-content",
+      "brand-storytelling",
+      "retail-entertainment",
+      "d2c-marketing",
+      "content-strategy"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Crocs",
+      "David's Bridal",
+      "StockX",
+      "Modern Retail"
+    ],
+    "one_line_insight_ko": "에피소드형 콘텐츠는 단순 광고를 넘어 브랜드를 엔터테인먼트화함으로써 고객의 지속적 관심을 유도하는 차세대 D2C 마케팅 포맷으로 부상 중이다.",
+    "one_line_insight_en": "Episodic content is emerging as a next-generation D2C marketing format that transforms brands into entertainment properties, sustaining ongoing customer attention beyond traditional advertising.",
+    "ai_processed": true
+  },
+  {
+    "title": "Why Advertising Will Be Key to Shaping Our AI-Powered Future",
+    "link": "https://www.adweek.com/brand-marketing/why-advertising-will-be-key-to-shaping-our-ai-powered-future/",
+    "date_published": "2026-10-07",
+    "description": "Read an exclusive excerpt from Joe Marchese’s Human Dot AI.",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
+    "categories": [
+      "marketing",
+      "ai_marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.62,
+    "relevance_label": "high",
+    "title_en": "Advertising Is Central to Shaping an AI-Powered Future, Argues New Book 'Human Dot AI'",
+    "summary_ko": "조 마르케세(Joe Marchese)의 신작 'Human Dot AI'에서는 광고가 AI 기반 미래를 형성하는 핵심 요소임을 주장하는 내용이 발췌 소개되었다. AI 시대에 광고의 역할이 단순한 메시지 전달을 넘어 AI 생태계의 방향성을 결정짓는 구조적 힘으로 작용할 수 있다는 관점을 제시한다. 구체적인 데이터나 전략적 세부 내용은 원문 발췌만으로는 확인이 제한적이다.",
+    "summary_en": "An exclusive excerpt from Joe Marchese's book 'Human Dot AI' argues that advertising will play a pivotal role in defining how AI-powered systems and ecosystems evolve. The piece positions advertising not merely as a commercial vehicle but as a structural force shaping AI's trajectory. Specific data points or detailed strategic arguments are not fully available from the excerpt alone.",
+    "so_what_ko": "LG D2C는 AI 생태계에서 광고가 단순 집행 수단이 아닌 브랜드 포지셔닝과 AI 알고리즘 영향력 확보의 전략적 도구임을 인식하고 광고 전략을 재정립해야 한다.",
+    "so_what_en": "LG D2C should recognize advertising in the AI era as a strategic lever for brand positioning and algorithmic influence, not merely a distribution mechanism.",
+    "key_points": [
+      "Advertising is framed as a key force in shaping AI-powered futures, per Joe Marchese's 'Human Dot AI'",
+      "The excerpt suggests a structural, not just commercial, role for advertising in AI ecosystems",
+      "Full strategic depth is limited given only an excerpt was published"
+    ],
+    "tags": [
+      "ai-advertising",
+      "brand-strategy",
+      "ai-ecosystem",
+      "thought-leadership",
+      "ai-future"
+    ],
+    "confidence": 0.5,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Joe Marchese",
+      "Human Dot AI",
+      "Adweek"
+    ],
+    "one_line_insight_ko": "AI 시대에 광고는 단순 매체 집행을 넘어 AI 생태계의 방향과 브랜드 영향력을 결정짓는 전략적 인프라로 재정의되고 있다.",
+    "one_line_insight_en": "In the AI era, advertising is being redefined as strategic infrastructure that shapes AI ecosystems and brand influence, far beyond traditional media placement.",
+    "ai_processed": true
+  },
+  {
+    "title": "‘Defensible to the CFO’: Prime Day catalyzes Amazon video and DSP spend growth",
+    "link": "https://digiday.com/media-buying/defensible-to-the-cfo-prime-day-catalyzes-amazon-video-and-dsp-spend-growth/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-10-07",
+    "description": "Advertisers are wary of discounting away their profit margins, but find it hard to argue against increasing ad spend with e-commerce titan.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "marketing",
       "ai_marketing",
       "commerce"
     ],
-    "relevance_score": 0.82,
+    "relevance_score": 0.72,
     "relevance_label": "high",
-    "title_en": "Setting Guardrails for Google Ads AI: Why Exclusions Matter as Much as Targeting",
-    "summary_ko": "Google Ads의 AI 자동화가 고도화되면서, 광고주가 AI에게 무엇을 제외하도록 설정하는지가 타겟팅 설정만큼 중요해지고 있다. AI는 효율적으로 작동하지만, 브랜드 안전성이나 비즈니스 목표에 맞지 않는 방향으로 예산을 집행할 위험이 있다. 따라서 명확한 가드레일 설정이 AI 기반 광고 캠페인의 성과와 브랜드 보호를 위한 핵심 과제로 떠오르고 있다.",
-    "summary_en": "As Google Ads AI automation becomes more sophisticated, what advertisers instruct the AI to exclude is proving just as critical as what they target. Without proper guardrails, AI systems risk misallocating budgets in ways that conflict with brand safety or business objectives. Establishing clear exclusion parameters is emerging as a foundational practice for effective and brand-safe AI-driven advertising.",
-    "so_what_ko": "LG D2C는 Google Ads AI 운영 시 타겟팅 설정뿐 아니라 브랜드 안전성과 예산 보호를 위한 명확한 제외 규칙(가드레일)을 함께 수립해야 한다.",
-    "so_what_en": "LG D2C should establish explicit exclusion guardrails alongside targeting parameters when deploying Google Ads AI to protect brand integrity and ensure budget efficiency.",
+    "title_en": "Prime Day Drives Surge in Amazon Video and DSP Ad Spend as Brands Seek CFO-Defensible ROI",
+    "summary_ko": "아마존 프라임 데이가 비디오 광고 및 DSP(수요측 플랫폼) 지출 증가의 촉매제 역할을 하고 있으며, 광고주들은 이커머스 거인과의 광고 확대를 CFO에게도 정당화할 수 있는 투자로 인식하고 있다. 광고주들은 할인 중심 프로모션이 수익 마진을 해칠 수 있다는 우려를 가지면서도 아마존 광고 생태계에 예산을 늘리는 추세다. 아마존의 리테일 미디어 네트워크가 브랜드의 상업적 의사결정에서 중심축으로 자리잡고 있음을 보여준다.",
+    "summary_en": "Amazon's Prime Day is catalyzing increased advertiser investment in Amazon Video and DSP (Demand-Side Platform) channels, with brands finding it easy to justify the spend to finance leadership. Advertisers remain cautious about deep discounting that erodes profit margins, yet continue to grow their Amazon ad budgets due to its strong performance correlation. This signals Amazon's retail media network becoming a default, CFO-approved component of brand marketing strategies.",
+    "so_what_ko": "LG D2C는 아마존 DSP 및 비디오 광고 채널을 프라임 데이 등 주요 이벤트 시즌과 연계하여 전략적으로 활용하고, 할인보다 광고 효율 중심의 ROI 프레임을 구축해야 한다.",
+    "so_what_en": "LG D2C should strategically leverage Amazon DSP and video ad channels around major shopping events like Prime Day, building an ROI framework centered on ad efficiency rather than deep discounting.",
     "key_points": [
-      "Exclusion settings in Google Ads AI are as strategically important as targeting configurations",
-      "AI automation without guardrails can lead to brand safety risks and budget misallocation",
-      "Advertisers must actively define what AI should avoid, not just what it should pursue",
-      "Effective guardrail frameworks are becoming a core competency for AI-driven ad management"
+      "Prime Day is a key trigger for increased Amazon Video and DSP ad spend among brands",
+      "Advertisers see Amazon ad investment as more CFO-defensible than aggressive discounting",
+      "Tension exists between protecting profit margins via discounts and growing ad budgets on Amazon",
+      "Amazon's retail media ecosystem is consolidating its role as a primary brand marketing channel"
     ],
     "tags": [
-      "google-ads",
-      "ai-advertising",
-      "brand-safety",
-      "guardrails",
-      "paid-media"
+      "amazon-dsp",
+      "retail-media",
+      "prime-day",
+      "video-advertising",
+      "roi-marketing"
     ],
-    "confidence": 0.68,
+    "confidence": 0.7,
     "strategic_theme": "AI_MARKETING",
     "regions": [
+      "AMER",
       "GLOBAL"
     ],
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Google Ads",
-      "Google",
-      "Practical Ecommerce"
+      "Amazon",
+      "Prime Day",
+      "DSP",
+      "Digiday"
     ],
-    "one_line_insight_ko": "Google Ads AI의 효과적 활용을 위해서는 타겟팅 설정만큼 제외 규칙(가드레일) 수립이 중요하다.",
-    "one_line_insight_en": "Effective Google Ads AI management requires equally rigorous attention to exclusion guardrails as to targeting parameters.",
+    "one_line_insight_ko": "프라임 데이를 계기로 아마존 DSP·비디오 광고가 CFO도 납득하는 필수 마케팅 채널로 자리매김하며 브랜드의 리테일 미디어 의존도가 심화되고 있다.",
+    "one_line_insight_en": "Prime Day is cementing Amazon's DSP and video ad channels as CFO-endorsed essentials, deepening brand dependence on Amazon's retail media ecosystem.",
     "ai_processed": true
   },
   {
-    "title": "Target’s turnaround has seen early success. Now comes the holidays.",
-    "link": "https://www.retaildive.com/news/target-retail-holiday-season-performance/831858/",
+    "title": "Top retail conferences in 2027",
+    "link": "https://www.retaildive.com/news/top-retail-conferences-in-2027/832294/",
     "date_published": "2026-10-06",
-    "description": "The mass retailer’s performance in recent quarters pleased analysts. But can it deliver the gift of consistency and value to consumers in Q4?",
+    "description": "These events feature C-suite speakers who will discuss AI-driven solutions, understanding consumer behavior and leveraging technology, among other subjects.",
     "source_id": "retail_dive",
     "source_name": "Retail Dive",
     "source_url": "https://www.retaildive.com/feeds/news/",
@@ -108,377 +203,387 @@
       "commerce",
       "strategy"
     ],
-    "relevance_score": 0.42,
+    "relevance_score": 0.45,
     "relevance_label": "high",
-    "title_en": "Target's Turnaround Shows Early Promise, But Holiday Season Is the Real Test",
-    "summary_ko": "Target은 최근 몇 분기 동안 실적 회복세를 보이며 애널리스트들의 긍정적인 평가를 받고 있다. 그러나 연간 최대 성수기인 4분기(홀리데이 시즌)에서 일관성과 가격 경쟁력을 소비자에게 입증해야 하는 진짜 도전이 남아 있다. 이번 홀리데이 시즌은 Target의 회복세가 지속 가능한지를 가늠하는 결정적 시험대가 될 전망이다.",
-    "summary_en": "Target has shown encouraging signs of a turnaround in recent quarters, earning positive assessments from analysts. However, the critical test lies ahead in Q4, where the mass retailer must demonstrate consistent performance and value delivery during the all-important holiday season. The upcoming holiday period will be a defining moment in determining whether Target's recovery is durable.",
-    "so_what_ko": "Target의 홀리데이 시즌 전략은 대형 리테일러가 가격 경쟁력과 소비자 신뢰 회복을 어떻게 동시에 추구하는지를 보여주는 벤치마크 사례로 LG D2C 전략 수립에 참고할 수 있다.",
-    "so_what_en": "Target's holiday strategy offers a retail benchmark for how large brands balance value perception and consistency, providing LG D2C with reference points for seasonal campaign and pricing decisions.",
+    "title_en": "Top Retail Conferences to Attend in 2027: AI, Consumer Behavior, and Tech in Focus",
+    "summary_ko": "2027년 주요 리테일 컨퍼런스 목록이 공개되었으며, AI 기반 솔루션, 소비자 행동 이해, 기술 활용 등이 주요 주제로 다뤄질 예정이다. 이들 행사에는 C레벨 경영진 연사들이 참여해 리테일 산업의 전략적 방향성을 논의할 것으로 보인다. 구체적인 행사 목록과 세부 의제는 원문에서 충분히 확인되지 않는다.",
+    "summary_en": "A curated list of top retail conferences for 2027 has been published, with key themes including AI-driven solutions, consumer behavior insights, and technology leverage. The events are expected to feature C-suite speakers addressing the strategic direction of the retail industry. Specific conference names and detailed agendas are not fully available from the article excerpt provided.",
+    "so_what_ko": "LG D2C 전략팀은 2027년 주요 리테일 컨퍼런스에 참가하여 AI 리테일 혁신 트렌드와 경쟁사 전략 동향을 선제적으로 파악할 기회로 활용해야 한다.",
+    "so_what_en": "LG D2C strategy teams should prioritize attendance at key 2027 retail conferences to gain early intelligence on AI retail innovation trends and competitor strategies.",
     "key_points": [
-      "Target's multi-quarter turnaround has generated positive analyst sentiment",
-      "Q4 holiday performance will determine whether the recovery trajectory is sustainable",
-      "Consumer expectations around consistency and value are central to Target's challenge",
-      "The holiday season represents the highest-stakes test for any mass retail turnaround"
+      "2027 retail conferences will center on AI-driven solutions and consumer behavior",
+      "C-suite participation signals these events as high-level strategic forums",
+      "Specific event details and agendas are not fully confirmed from the excerpt"
     ],
     "tags": [
-      "target",
-      "retail-turnaround",
-      "holiday-season",
-      "mass-retail",
-      "q4-performance"
+      "retail-conferences",
+      "ai-retail",
+      "industry-events",
+      "consumer-behavior",
+      "retail-strategy"
     ],
-    "confidence": 0.7,
+    "confidence": 0.5,
     "strategic_theme": "RETAIL_TRANSFORMATION",
     "regions": [
-      "AMER"
+      "GLOBAL"
     ],
     "business_impact": "LOW",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "Target",
       "Retail Dive"
     ],
-    "one_line_insight_ko": "Target의 회복세는 홀리데이 시즌 성과에 따라 지속 가능성이 판가름 날 것이다.",
-    "one_line_insight_en": "Target's turnaround credibility hinges on delivering consistent value and performance through the make-or-break holiday quarter.",
+    "one_line_insight_ko": "2027년 리테일 컨퍼런스들은 AI와 소비자 행동을 핵심 의제로 삼아 리테일 리더들의 전략 수립을 위한 중요한 플랫폼이 될 전망이다.",
+    "one_line_insight_en": "2027 retail conferences are shaping up as critical strategic forums for retail leaders, with AI solutions and consumer behavior analysis as central agenda items.",
     "ai_processed": true
   },
   {
-    "title": "AI agents for digital marketing: How to scale campaign execution without scaling headcount",
-    "link": "https://blog.hubspot.com/marketing/ai-agent-guide-for-digital-marketing",
+    "title": "Walmart defends pricing practices, again",
+    "link": "https://www.retaildive.com/news/walmart-defends-dynamic-pricing-practices-again/832248/",
     "date_published": "2026-10-06",
-    "description": "Digital marketing is one of the most process-intensive functions in marketing, and AI agents for digital marketing are changing how teams handle that load. Every campaign involves the same chain of tasks. Building audiences, setting up nurture sequences, writing follow-ups, and monitoring performance all have to happen every time, across every channel.",
-    "source_id": "hubspot_marketing",
-    "source_name": "HubSpot Marketing Blog",
-    "source_url": "https://blog.hubspot.com/marketing/rss.xml",
+    "description": "The retailer says it won't renew a key patent that could leverage scan-and-go tech to personalize prices. It's one of several that has drawn the attention of activists.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
     "categories": [
-      "ai_marketing",
-      "agentic_commerce"
-    ],
-    "relevance_score": 0.93,
-    "relevance_label": "high",
-    "title_en": "AI Agents for Digital Marketing: Scaling Campaign Execution Without Growing Headcount",
-    "summary_ko": "디지털 마케팅은 오디언스 구축, 너처 시퀀스 설정, 팔로업 작성, 성과 모니터링 등 반복적이고 프로세스 집약적인 작업이 많아, AI 에이전트 도입으로 이러한 부담을 획기적으로 줄일 수 있다. AI 에이전트는 팀 규모를 늘리지 않고도 다채널 캠페인 실행의 전 과정을 자동화하여 마케팅 팀의 운영 효율성을 높인다. 이로 인해 마케터들은 반복 작업 대신 전략과 창의적 업무에 집중할 수 있는 환경이 조성되고 있다.",
-    "summary_en": "Digital marketing involves highly repetitive, process-intensive tasks—including audience building, nurture sequencing, follow-up writing, and performance monitoring—that AI agents are now capable of automating at scale. By handling these recurring workflows across every channel and campaign, AI agents enable marketing teams to dramatically increase output without expanding headcount. This shift is freeing marketers to focus on strategic and creative work rather than operational execution.",
-    "so_what_ko": "LG D2C 마케팅 팀은 AI 에이전트를 캠페인 실행의 반복 업무에 도입하여 인력 증가 없이 운영 효율을 높이고, 전략·크리에이티브 역량 강화에 집중할 수 있다.",
-    "so_what_en": "LG D2C marketing teams should evaluate AI agent deployment for repetitive campaign tasks—such as audience segmentation and nurture flows—to scale execution capacity without proportional headcount growth.",
-    "key_points": [
-      "AI agents can automate the full chain of repetitive digital marketing tasks across channels",
-      "Teams can scale campaign execution volume without increasing marketing headcount",
-      "Automation frees marketers to focus on strategy and creativity rather than operational work",
-      "AI agents are applicable across audience building, nurture sequences, follow-ups, and performance monitoring"
-    ],
-    "tags": [
-      "ai-agents",
-      "marketing-automation",
-      "campaign-execution",
-      "digital-marketing",
-      "scalability"
-    ],
-    "confidence": 0.75,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "HubSpot",
-      "AI Agents"
-    ],
-    "one_line_insight_ko": "AI 에이전트는 마케팅 팀이 인력 확대 없이 캠페인 실행 규모를 극적으로 늘릴 수 있는 핵심 도구로 자리잡고 있다.",
-    "one_line_insight_en": "AI agents are enabling marketing teams to exponentially scale campaign execution without expanding headcount, fundamentally changing the economics of digital marketing.",
-    "ai_processed": true
-  },
-  {
-    "title": "AEO for outreach: How to earn citations and placements that build AI visibility",
-    "link": "https://blog.hubspot.com/marketing/aeo-guide-for-outreach",
-    "date_published": "2026-10-06",
-    "description": "Link-building and content outreach were built for search engines. Domain authority, anchor text, and referring domains were the signals that moved search rankings, and they translated directly into an SEO playbook you could run at scale. Answer engines don’t work the same way.",
-    "source_id": "hubspot_marketing",
-    "source_name": "HubSpot Marketing Blog",
-    "source_url": "https://blog.hubspot.com/marketing/rss.xml",
-    "categories": [
-      "ai_marketing",
-      "marketing"
-    ],
-    "relevance_score": 0.87,
-    "relevance_label": "high",
-    "title_en": "AEO for Outreach: How to Earn Citations and Placements That Build AI Visibility",
-    "summary_ko": "기존 링크빌딩과 콘텐츠 아웃리치는 도메인 권위, 앵커 텍스트, 참조 도메인 등 검색엔진 중심의 신호에 최적화되어 있었으나, AI 답변 엔진은 이러한 신호를 다르게 해석한다. AI 가시성을 높이기 위해서는 검색엔진 순위 향상이 아닌 AI 답변에서의 인용(citation)과 배치(placement)를 목표로 한 새로운 아웃리치 전략이 필요하다. AEO 기반 아웃리치는 AI 시스템이 신뢰할 수 있는 정보 출처로 브랜드를 인식하게 만드는 데 초점을 맞춘다.",
-    "summary_en": "Traditional link-building and content outreach strategies were designed around search engine signals such as domain authority, anchor text, and referring domains, but AI answer engines evaluate and surface content differently. Earning visibility in AI-generated answers requires a new outreach approach focused on securing citations and placements rather than simply improving search rankings. AEO-driven outreach aims to position a brand as a trusted, citable source that AI systems reliably reference in their responses.",
-    "so_what_ko": "LG D2C는 AI 답변 엔진에서 제품 및 브랜드 정보가 인용되도록, 기존 SEO 링크빌딩을 넘어 AI 친화적 콘텐츠 배포 및 인용 획득 전략으로 아웃리치 접근법을 전환해야 한다.",
-    "so_what_en": "LG D2C should evolve its outreach strategy beyond traditional link-building to focus on earning citations in AI-generated answers, establishing the brand as a credible reference source for answer engines.",
-    "key_points": [
-      "Traditional SEO outreach signals (domain authority, anchor text) do not translate directly to AI answer engine visibility",
-      "AEO outreach focuses on earning citations and placements within AI-generated responses",
-      "Brands must be recognized as trustworthy, citable sources by AI systems to gain answer engine presence",
-      "A new outreach playbook is needed that is purpose-built for AI answer engine optimization"
-    ],
-    "tags": [
-      "aeo",
-      "ai-visibility",
-      "content-outreach",
-      "citations",
-      "answer-engine"
-    ],
-    "confidence": 0.72,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "HubSpot",
-      "AEO",
-      "SEO"
-    ],
-    "one_line_insight_ko": "AI 답변 엔진 시대의 아웃리치는 링크 획득이 아닌 AI 인용(citation) 확보를 목표로 재설계되어야 한다.",
-    "one_line_insight_en": "In the age of AI answer engines, outreach success is measured not by links earned but by citations secured within AI-generated responses.",
-    "ai_processed": true
-  },
-  {
-    "title": "AEO for content marketers: How to capture awareness and drive revenue with content",
-    "link": "https://blog.hubspot.com/marketing/aeo-guide-for-content-marketers",
-    "date_published": "2026-10-06",
-    "description": "Content marketers are used to publishing consistently, earning trust, and measuring how content contributes to demand. But now, buyers also do their research in AI assistants and answer engines, sometimes without clicking through to a website.",
-    "source_id": "hubspot_marketing",
-    "source_name": "HubSpot Marketing Blog",
-    "source_url": "https://blog.hubspot.com/marketing/rss.xml",
-    "categories": [
-      "ai_marketing",
-      "marketing"
-    ],
-    "relevance_score": 0.88,
-    "relevance_label": "high",
-    "title_en": "AEO for Content Marketers: How to Capture Awareness and Drive Revenue When AI Answers First",
-    "summary_ko": "AI 어시스턴트와 답변 엔진이 소비자 리서치의 새로운 채널로 부상하면서, 콘텐츠 마케터들은 웹사이트 클릭 없이도 AI 결과에 노출되는 AEO(Answer Engine Optimization) 전략이 필요해졌다. 기존 SEO 중심의 콘텐츠 퍼블리싱 방식만으로는 AI 검색 환경에서 브랜드 인지도와 매출을 동시에 확보하기 어렵다. HubSpot은 콘텐츠 마케터들이 AI 답변 엔진에서도 신뢰받는 소스로 포지셔닝할 수 있는 실전 가이드를 제시한다.",
-    "summary_en": "As buyers increasingly conduct research through AI assistants and answer engines without clicking through to websites, content marketers must adapt their strategies to remain visible in AI-generated results. Traditional SEO-focused publishing approaches are no longer sufficient to capture brand awareness and drive revenue in an AI-first discovery landscape. HubSpot's guide introduces Answer Engine Optimization (AEO) as a critical discipline for content marketers seeking to maintain influence across new discovery channels.",
-    "so_what_ko": "LG D2C 조직은 AEO 전략을 도입하여 AI 검색 환경에서도 제품 정보와 브랜드 스토리가 정확하게 노출될 수 있도록 콘텐츠 구조와 메타데이터를 최적화해야 한다.",
-    "so_what_en": "LG D2C teams should adopt AEO practices to ensure product information and brand narratives are accurately surfaced in AI-generated answers, reducing dependency on click-through traffic alone.",
-    "key_points": [
-      "AI 어시스턴트와 답변 엔진이 소비자 구매 리서치의 핵심 채널로 부상",
-      "웹사이트 클릭 없이 AI 결과에서 브랜드 인지도 확보가 새로운 마케팅 과제",
-      "AEO(Answer Engine Optimization)는 기존 SEO를 보완하는 필수 콘텐츠 전략으로 자리잡는 중"
-    ],
-    "tags": [
-      "aeo",
-      "answer-engine-optimization",
-      "ai-search",
-      "content-marketing",
-      "seo"
-    ],
-    "confidence": 0.72,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "HubSpot",
-      "AEO",
-      "Answer Engine Optimization"
-    ],
-    "one_line_insight_ko": "AI 답변 엔진이 소비자 구매 여정을 바꾸면서, AEO는 D2C 브랜드의 신규 필수 마케팅 역량이 되고 있다.",
-    "one_line_insight_en": "As AI answer engines reshape the buyer journey, AEO is becoming an essential capability for D2C brands to maintain discoverability and revenue impact.",
-    "ai_processed": true
-  },
-  {
-    "title": "AEO for brand marketing: How to ensure your brand narrative shows up accurately in AI results",
-    "link": "https://blog.hubspot.com/marketing/aeo-guide-for-brand-marketing",
-    "date_published": "2026-10-06",
-    "description": "Brand marketing has always been about controlling the narrative, so that the story your company tells about itself is the one the market hears. That job has gotten harder.",
-    "source_id": "hubspot_marketing",
-    "source_name": "HubSpot Marketing Blog",
-    "source_url": "https://blog.hubspot.com/marketing/rss.xml",
-    "categories": [
-      "ai_marketing",
-      "marketing"
-    ],
-    "relevance_score": 0.87,
-    "relevance_label": "high",
-    "title_en": "AEO for Brand Marketers: Ensuring Your Brand Narrative Appears Accurately in AI Results",
-    "summary_ko": "AI 검색 결과가 브랜드 내러티브의 새로운 전장이 되면서, 기업이 직접 통제할 수 없는 AI 요약·답변에서 자사 브랜드가 어떻게 묘사되는지가 핵심 리스크로 떠오르고 있다. 브랜드 마케터들은 AI 엔진이 학습하는 소스를 전략적으로 관리하고, 브랜드 메시지를 구조화된 방식으로 제공해야 한다. HubSpot은 브랜드 마케터를 위한 AEO 가이드를 통해 AI 시대의 브랜드 내러티브 관리 방법론을 제시한다.",
-    "summary_en": "Brand marketers now face a new challenge: ensuring their brand narrative is accurately represented in AI-generated results that they cannot directly control. As AI assistants synthesize brand information from multiple sources, companies must strategically manage the inputs these engines learn from. HubSpot's AEO guide for brand marketers outlines how to structure and distribute brand messaging so it surfaces accurately across AI-powered discovery channels.",
-    "so_what_ko": "LG는 AI 답변 엔진에서 브랜드 정보가 왜곡·누락되지 않도록 구조화된 브랜드 콘텐츠를 전략적으로 배포하고, AI 결과 모니터링 체계를 갖추어야 한다.",
-    "so_what_en": "LG D2C should proactively structure and distribute authoritative brand content to control how AI engines represent the brand, while establishing monitoring processes to detect and correct AI-generated misrepresentations.",
-    "key_points": [
-      "AI 답변 엔진이 브랜드 내러티브를 임의로 요약·왜곡할 수 있는 리스크 증가",
-      "브랜드 마케터는 AI가 학습하는 소스 콘텐츠를 전략적으로 설계·관리해야 함",
-      "AEO는 브랜드 보호와 정확한 시장 포지셔닝을 위한 새로운 필수 역량"
-    ],
-    "tags": [
-      "aeo",
-      "brand-marketing",
-      "ai-search",
-      "brand-narrative",
-      "answer-engine-optimization"
-    ],
-    "confidence": 0.72,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "HubSpot",
-      "AEO",
-      "Answer Engine Optimization"
-    ],
-    "one_line_insight_ko": "AI가 브랜드 스토리를 대신 서술하는 시대, 브랜드 마케터의 새로운 임무는 AI 결과 내 자사 내러티브의 정확성을 관리하는 것이다.",
-    "one_line_insight_en": "In an era where AI narrates brand stories on behalf of companies, brand marketers must treat AI result accuracy as a core reputation management priority.",
-    "ai_processed": true
-  },
-  {
-    "title": "Noom’s Latest Ad Stokes Fears of GLP-1 Weight Rebound",
-    "link": "https://www.adweek.com/brand-marketing/nooms-latest-ad-stokes-fears-of-glp-1-weight-rebound/",
-    "date_published": "2026-10-06",
-    "description": "While earlier installments of Noom’s “Lose for Keeps” campaign featured Rebel Wilson goofing around in pastel workout wear, the company’s newest spot trades Wilson’s relatable brand of star power for […]",
-    "source_id": "adweek",
-    "source_name": "Adweek",
-    "source_url": "https://www.adweek.com/feed",
-    "categories": [
-      "marketing"
-    ],
-    "relevance_score": 0.35,
-    "relevance_label": "high",
-    "title_en": "Noom's New Ad Capitalizes on GLP-1 Weight Rebound Fears to Reclaim Market Position",
-    "summary_ko": "Noom은 최신 'Lose for Keeps' 캠페인에서 GLP-1 약물(비만 치료제) 복용 중단 후 체중이 다시 증가할 수 있다는 소비자 불안감을 마케팅 메시지로 활용하는 새로운 광고를 공개했다. 기존 캠페인의 Rebel Wilson을 활용한 친근한 스타 마케팅 방식에서 벗어나 감정적 공포 소구 전략으로 전환한 것이 특징이다. 이는 GLP-1 시장의 성장으로 위협받는 행동 기반 체중 관리 앱 시장에서 Noom이 차별화된 포지션을 강화하려는 시도로 해석된다.",
-    "summary_en": "Noom's latest installment of its 'Lose for Keeps' campaign shifts away from celebrity spokesperson Rebel Wilson toward messaging that taps into consumer fears about weight rebound after stopping GLP-1 medications. The new ad represents a tonal and strategic pivot, moving from relatable star power to emotionally charged fear-based appeals. This approach reflects Noom's effort to differentiate its behavioral weight management platform against the rising dominance of GLP-1 pharmaceutical treatments.",
-    "so_what_ko": "경쟁 환경 변화에 대응한 감정적 소구 기반의 마케팅 피벗 사례로, D2C 브랜드가 신기술·신제품 트렌드로 인한 시장 위협에 어떻게 포지셔닝을 재정립할 수 있는지 참고할 수 있다.",
-    "so_what_en": "This case illustrates how D2C brands can strategically reframe their value proposition through targeted emotional messaging when facing disruption from competing market trends or technologies.",
-    "key_points": [
-      "Noom이 GLP-1 약물 부작용(요요) 불안을 마케팅 소구점으로 전환",
-      "스타 마케팅에서 감정적 공포 소구 전략으로 캠페인 톤 변화",
-      "GLP-1 시장 성장에 따른 행동 기반 체중 관리 앱의 차별화 경쟁 심화"
-    ],
-    "tags": [
-      "brand-marketing",
-      "fear-appeal",
-      "glp-1",
-      "campaign-strategy",
-      "competitive-positioning"
-    ],
-    "confidence": 0.65,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Noom",
-      "Rebel Wilson",
-      "GLP-1"
-    ],
-    "one_line_insight_ko": "Noom의 GLP-1 요요 공포 소구 광고는 시장 파괴적 트렌드에 직면한 D2C 브랜드의 포지셔닝 재정립 전략을 보여주는 사례다.",
-    "one_line_insight_en": "Noom's fear-based GLP-1 rebound campaign demonstrates how D2C brands can reframe competitive threats as opportunities to reinforce their unique value proposition.",
-    "ai_processed": true
-  },
-  {
-    "title": "Inside Starbucks&#8217; Marketing Machine with Global Chief Brand Officer Tressie Lieberman",
-    "link": "https://www.adweek.com/brand-marketing/inside-starbucks-marketing-machine-with-global-chief-brand-officer-tressie-lieberman/",
-    "date_published": "2026-10-06",
-    "description": "How the cafe chain works with agencies, a PSL for every season, and more insights.",
-    "source_id": "adweek",
-    "source_name": "Adweek",
-    "source_url": "https://www.adweek.com/feed",
-    "categories": [
-      "marketing",
+      "commerce",
+      "ai_commerce",
       "strategy"
     ],
-    "relevance_score": 0.32,
+    "relevance_score": 0.65,
     "relevance_label": "high",
-    "title_en": "Inside Starbucks' Marketing Machine: Global Chief Brand Officer Tressie Lieberman on Agency Partnerships and Brand Strategy",
-    "summary_ko": "Starbucks의 글로벌 최고 브랜드 책임자(CBO) Tressie Lieberman이 Adweek과의 인터뷰에서 대형 브랜드의 에이전시 협업 방식, 시즌 마케팅 전략, 그리고 브랜드 일관성 유지 방법론을 공유했다. 계절 한정 제품(PSL 등)을 중심으로 한 문화적 마케팅 접근법이 Starbucks 브랜드 전략의 핵심으로 소개된다. 글로벌 브랜드가 에이전시 생태계를 어떻게 구조화하고 운영하는지에 대한 내부 시각을 제공한다.",
-    "summary_en": "Starbucks Global Chief Brand Officer Tressie Lieberman shares insights into how the coffee giant structures its agency relationships, executes seasonal marketing campaigns like the Pumpkin Spice Latte, and maintains brand consistency at scale. The interview reveals the internal mechanics of Starbucks' marketing organization and its approach to cultural relevance. It offers a rare behind-the-scenes look at how a global D2C-adjacent brand manages its marketing machine across markets.",
-    "so_what_ko": "글로벌 브랜드의 에이전시 운영 구조와 시즌 마케팅 전략은 LG D2C 조직이 글로벌 브랜드 일관성과 지역 마케팅 유연성을 동시에 확보하는 방식을 벤치마킹하는 데 참고할 수 있다.",
-    "so_what_en": "LG D2C can benchmark Starbucks' agency partnership model and seasonal marketing approach to better balance global brand consistency with localized campaign execution.",
+    "title_en": "Walmart Defends Pricing Practices, Pledges Not to Renew Scan-and-Go Dynamic Pricing Patent",
+    "summary_ko": "월마트는 스캔앤고 기술을 활용해 개인화 가격을 책정할 수 있는 핵심 특허를 갱신하지 않겠다고 밝혔다. 이 특허는 소비자 활동가들의 주목을 받아온 여러 특허 중 하나다. 월마트는 자사의 가격 정책이 소비자에게 불이익을 주지 않는다고 재차 강조했다.",
+    "summary_en": "Walmart has announced it will not renew a key patent that could leverage scan-and-go technology to personalize prices at the individual customer level. The patent is among several that have attracted scrutiny from consumer activists concerned about dynamic pricing practices. Walmart reiterated its defense of its current pricing practices amid ongoing public pressure.",
+    "so_what_ko": "개인화 동적 가격 책정은 기술적으로 가능하지만 소비자 신뢰와 규제 리스크를 수반하므로, LG D2C는 가격 개인화 전략 도입 시 투명성 확보와 소비자 커뮤니케이션을 선제적으로 설계해야 한다.",
+    "so_what_en": "LG D2C should proactively design transparency measures and consumer communication strategies before deploying personalized dynamic pricing, as even technically feasible approaches can trigger significant reputational and regulatory risks.",
     "key_points": [
-      "Starbucks CBO Tressie Lieberman이 에이전시 협업 구조와 브랜드 전략 공개",
-      "시즌 한정 제품(PSL)을 활용한 문화적 마케팅이 브랜드 관여도의 핵심 동력",
-      "글로벌 브랜드의 마케팅 조직 운영 방식에 대한 내부 시각 제공"
+      "월마트, 스캔앤고 기반 개인화 가격 특허 갱신 포기 선언",
+      "소비자 활동가들의 동적 가격 책정 관행에 대한 감시 강화",
+      "가격 개인화 기술의 상업적 가능성과 공중 반발 사이의 긴장 고조",
+      "소매업체의 AI 기반 가격 전략에 대한 투명성 요구 증대"
     ],
     "tags": [
-      "brand-strategy",
-      "agency-partnerships",
-      "seasonal-marketing",
-      "global-brand",
-      "brand-management"
+      "dynamic-pricing",
+      "personalization",
+      "retail-ethics",
+      "consumer-trust",
+      "walmart"
     ],
-    "confidence": 0.6,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "confidence": 0.72,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
     "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Starbucks",
-      "Tressie Lieberman",
-      "Adweek",
-      "PSL"
-    ],
-    "one_line_insight_ko": "Starbucks의 시즌 마케팅과 에이전시 협업 모델은 글로벌 D2C 브랜드가 문화적 관련성과 브랜드 일관성을 동시에 유지하는 방법을 보여준다.",
-    "one_line_insight_en": "Starbucks' seasonal marketing and agency collaboration model offer a blueprint for global D2C brands seeking to maintain cultural relevance while ensuring brand consistency at scale.",
-    "ai_processed": true
-  },
-  {
-    "title": "Ad Tech Briefing: AppLovin and Unity’s dual explained",
-    "link": "https://digiday.com/media-buying/applovin/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-10-06",
-    "description": "The mobile advertising duo’s legal dual exposes a bigger question about who owns the data generated inside mobile ad auctions.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
-    "categories": [
-      "ai_marketing",
-      "tech"
-    ],
-    "relevance_score": 0.58,
-    "relevance_label": "high",
-    "title_en": "AppLovin vs. Unity Legal Battle Exposes Who Owns Data Generated in Mobile Ad Auctions",
-    "summary_ko": "AppLovin과 Unity 간의 법적 분쟁이 모바일 광고 경매 과정에서 생성되는 데이터의 소유권 문제를 수면 위로 끌어올리며 애드테크 업계의 구조적 갈등을 드러내고 있다. 두 회사의 듀얼(dual)은 단순한 기업 간 경쟁을 넘어, 모바일 광고 생태계 내 데이터 권리와 플랫폼 지배력을 둘러싼 더 큰 논쟁의 축소판이다. 이 분쟁은 광고주와 미디어 바이어들에게 데이터 주권과 플랫폼 의존도에 대한 전략적 재검토를 촉구하고 있다.",
-    "summary_en": "The legal dispute between AppLovin and Unity has surfaced a fundamental question in ad tech: who owns the data generated inside mobile ad auctions. The conflict goes beyond corporate rivalry, exposing deeper tensions around data rights and platform power within the mobile advertising ecosystem. For advertisers and media buyers, this case underscores the strategic risks of platform dependency and the importance of data ownership clarity.",
-    "so_what_ko": "LG D2C 마케팅 조직은 모바일 광고 플랫폼에 대한 데이터 의존도를 점검하고, 경매 데이터 소유권 이슈가 미디어 전략과 광고 효율성에 미치는 영향을 선제적으로 평가해야 한다.",
-    "so_what_en": "LG D2C should audit its dependency on mobile ad platforms like AppLovin and Unity, and proactively assess how ad auction data ownership disputes could affect media strategy and campaign performance.",
-    "key_points": [
-      "AppLovin-Unity 법적 분쟁이 모바일 광고 경매 데이터 소유권 논쟁 촉발",
-      "데이터 권리와 플랫폼 지배력을 둘러싼 애드테크 생태계의 구조적 갈등 심화",
-      "광고주와 미디어 바이어의 플랫폼 의존도 리스크 재평가 필요성 대두"
-    ],
-    "tags": [
-      "adtech",
-      "data-ownership",
-      "mobile-advertising",
-      "platform-competition",
-      "applovin"
-    ],
-    "confidence": 0.68,
-    "strategic_theme": "DATA_STRATEGY",
-    "regions": [
-      "GLOBAL",
       "AMER"
     ],
     "business_impact": "MEDIUM",
     "sentiment": "THREAT",
     "key_entities": [
-      "AppLovin",
-      "Unity",
-      "Digiday"
+      "Walmart",
+      "scan-and-go technology"
     ],
-    "one_line_insight_ko": "AppLovin-Unity 분쟁은 모바일 광고 데이터 소유권이 애드테크 플랫폼 권력 구도를 결정하는 핵심 변수임을 보여준다.",
-    "one_line_insight_en": "The AppLovin-Unity dispute reveals that data ownership within mobile ad auctions is becoming the defining battleground for platform dominance in ad tech.",
+    "one_line_insight_ko": "동적 개인화 가격 책정은 소비자 반발과 규제 리스크로 인해 기술 도입보다 신뢰 관리가 선행되어야 한다.",
+    "one_line_insight_en": "Dynamic personalized pricing demands trust-building and transparency strategies before technical deployment, as public backlash can outweigh commercial gains.",
     "ai_processed": true
   },
   {
-    "title": "Brian Monahan exits Albertsons Media Collective amid leadership shake-up",
-    "link": "https://www.modernretail.co/marketing/brian-monahan-exits-albertsons-media-collective-amid-leadership-shake-up/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "title": "Albertsons expands OpenAI work, adding enterprise ChatGPT use",
+    "link": "https://www.digitalcommerce360.com/2026/10/06/albertsons-expands-openai-work-adding-enterprise-chatgpt-use/",
     "date_published": "2026-10-06",
-    "description": "Brian Monahan, brought on to head up Albertsons Media Collective retail media business late last July, has left the company. Business partners were informed Friday of the move.",
+    "description": "Albertsons Companies continues to explore how artificial intelligence (AI) best fits into its operations and ecommerce strategy, which now includes an expanded enterprise partnership with OpenAI and a ChatGPT plugin for the Safeway banner. OpenAI detailed the companies’ latest work in a blog post on Oct. 1, noting that Albertsons’ teams were using ChatGPT to […]\nThe post Albertsons expands OpenAI work, adding enterprise ChatGPT use appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
+    "categories": [
+      "commerce",
+      "ai_commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.88,
+    "relevance_label": "high",
+    "title_en": "Albertsons Expands OpenAI Partnership, Deploys Enterprise ChatGPT and Safeway Plugin",
+    "summary_ko": "앨버트슨스는 OpenAI와의 기업용 파트너십을 확대하며 내부 팀에 ChatGPT를 도입하고 Safeway 배너에 ChatGPT 플러그인을 추가했다. OpenAI는 2026년 10월 1일 블로그 포스트를 통해 양사의 최신 협력 내용을 공개했다. 앨버트슨스는 AI를 운영 효율화 및 이커머스 전략 전반에 통합하는 방안을 지속적으로 탐색하고 있다.",
+    "summary_en": "Albertsons Companies has expanded its enterprise partnership with OpenAI, deploying ChatGPT across internal teams and adding a ChatGPT plugin for its Safeway banner. OpenAI detailed the collaboration in a blog post published on October 1, 2026. Albertsons continues to explore how AI can best be integrated into its operations and ecommerce strategy.",
+    "so_what_ko": "대형 리테일러들이 ChatGPT를 운영 및 이커머스 전반에 통합하는 속도가 빨라지고 있어, LG D2C도 내부 업무 자동화와 고객 접점 AI 도구 도입을 구체적인 로드맵으로 가속화해야 한다.",
+    "so_what_en": "As major retailers rapidly integrate enterprise AI tools like ChatGPT into operations and ecommerce, LG D2C should accelerate its own roadmap for deploying AI across internal workflows and customer-facing touchpoints.",
+    "key_points": [
+      "앨버트슨스, OpenAI와 기업용 ChatGPT 파트너십 확대 발표",
+      "Safeway 배너에 ChatGPT 플러그인 도입으로 고객 경험 강화",
+      "내부 팀의 생산성 향상을 위한 엔터프라이즈 ChatGPT 활용",
+      "식료품 대형 리테일러의 AI 이커머스 전략 통합이 업계 표준으로 자리잡는 추세"
+    ],
+    "tags": [
+      "chatgpt",
+      "enterprise-ai",
+      "ecommerce",
+      "openai",
+      "retail-ai"
+    ],
+    "confidence": 0.82,
+    "strategic_theme": "AI_COMMERCE",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Albertsons",
+      "OpenAI",
+      "ChatGPT",
+      "Safeway"
+    ],
+    "one_line_insight_ko": "앨버트슨스의 OpenAI 파트너십 확대는 엔터프라이즈 AI가 이커머스 운영의 핵심 인프라로 전환되고 있음을 보여주는 명확한 신호다.",
+    "one_line_insight_en": "Albertsons' expanded OpenAI partnership signals that enterprise AI is rapidly becoming core infrastructure for retail ecommerce operations, not just an experimental tool.",
+    "ai_processed": true
+  },
+  {
+    "title": "Nutella heads to Super Bowl, part of Ferrero’s $50M marketing bet in 2027",
+    "link": "https://www.marketingdive.com/news/nutella-heads-to-super-bowl-part-of-ferreros-50m-marketing-bet-in-2027/832311/",
+    "date_published": "2026-10-06",
+    "description": "The marketer of sweet snacks will air two commercials during next year’s game following a successful 2026 debut for its Kinder Bueno brand.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
+    "categories": [
+      "marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.38,
+    "relevance_label": "high",
+    "title_en": "Nutella to Make Super Bowl Debut as Ferrero Bets $50M on 2027 Marketing Push",
+    "summary_ko": "페레로는 2027년 슈퍼볼에 누텔라 광고 2편을 방영하는 등 5000만 달러 규모의 마케팅 투자를 발표했다. 이는 2026년 킨더 부에노 브랜드의 슈퍼볼 데뷔가 성공을 거둔 데 따른 후속 전략이다. 페레로는 스위트 스낵 카테고리에서의 브랜드 인지도를 미국 시장에서 더욱 확대할 계획이다.",
+    "summary_en": "Ferrero has announced a $50 million marketing investment for 2027, headlined by Nutella's Super Bowl debut with two commercials during the game. The move follows the successful Super Bowl appearance of its Kinder Bueno brand in 2026. Ferrero aims to significantly expand brand awareness for its sweet snacks portfolio in the U.S. market.",
+    "so_what_ko": "대규모 전통 광고 투자와 AI 마케팅 도구를 병행하는 하이브리드 전략이 브랜드 인지도 확장에 효과적임을 시사하며, LG D2C도 플래그십 제품 론칭 시 대형 미디어 이벤트와 디지털 개인화를 결합하는 전략을 검토할 필요가 있다.",
+    "so_what_en": "Ferrero's heavy investment in flagship media events like the Super Bowl underscores the continued value of mass awareness campaigns alongside digital personalization; LG D2C should consider combining large-scale media moments with targeted digital follow-through for key product launches.",
+    "key_points": [
+      "페레로, 2027년 슈퍼볼에 누텔라 광고 2편 방영 계획",
+      "2026년 킨더 부에노 슈퍼볼 데뷔 성공이 투자 확대의 배경",
+      "5000만 달러 규모의 마케팅 예산으로 미국 시장 브랜드 인지도 강화",
+      "스위트 스낵 카테고리에서의 경쟁 심화에 대응하는 공격적 브랜딩 전략"
+    ],
+    "tags": [
+      "super-bowl",
+      "brand-awareness",
+      "traditional-advertising",
+      "ferrero",
+      "fmcg-marketing"
+    ],
+    "confidence": 0.78,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Ferrero",
+      "Nutella",
+      "Kinder Bueno",
+      "Super Bowl"
+    ],
+    "one_line_insight_ko": "페레로의 슈퍼볼 대규모 투자는 디지털 전환 시대에도 매스 미디어 이벤트가 브랜드 인지도 구축의 핵심 레버로 남아 있음을 보여준다.",
+    "one_line_insight_en": "Ferrero's Super Bowl bet demonstrates that mass media tentpole events remain a powerful lever for brand-building even in an increasingly digital and personalized marketing landscape.",
+    "ai_processed": true
+  },
+  {
+    "title": "How brands’ deeper creator deals are unlocking cost efficiencies, results",
+    "link": "https://www.marketingdive.com/news/how-brands-deeper-creator-deals-are-unlocking-cost-efficiencies-results/832205/",
+    "date_published": "2026-10-06",
+    "description": "Marketers at Chili’s, Disney and Alaska Airlines spoke about how far the creator canvas has broadened at Advertising Week.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
+    "categories": [
+      "marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.55,
+    "relevance_label": "high",
+    "title_en": "Brands at Advertising Week Reveal How Deeper Creator Partnerships Drive Cost Efficiency and Results",
+    "summary_ko": "칠리스, 디즈니, 알래스카 항공 등 주요 브랜드 마케터들이 애드버타이징 위크에서 크리에이터와의 심층 파트너십이 비용 효율성과 마케팅 성과를 동시에 향상시킨다고 밝혔다. 크리에이터 마케팅의 영역이 단순 인플루언서 포스팅을 넘어 캠페인 전략, 콘텐츠 제작 등 다양한 영역으로 확대되고 있다. 브랜드들은 다수의 크리에이터와 단기 계약보다 소수 크리에이터와의 장기적 파트너십이 더 큰 효과를 낸다고 평가했다.",
+    "summary_en": "Marketers from Chili's, Disney, and Alaska Airlines shared at Advertising Week how deeper, longer-term creator partnerships are unlocking both cost efficiencies and stronger marketing results. The creator canvas has broadened significantly beyond simple influencer posts to encompass campaign strategy and content production. Brands are finding that fewer, deeper creator relationships outperform large networks of short-term influencer deals.",
+    "so_what_ko": "LG D2C는 단발성 인플루언서 협업 대신 핵심 크리에이터와의 장기적 파트너십을 구축해 브랜드 일관성과 콘텐츠 비용 효율성을 동시에 확보하는 전략으로 전환해야 한다.",
+    "so_what_en": "LG D2C should shift from transactional influencer campaigns toward long-term creator partnerships that deliver brand consistency, richer content, and improved cost efficiency across D2C channels.",
+    "key_points": [
+      "칠리스, 디즈니, 알래스카 항공 등이 크리에이터 장기 파트너십의 효과를 공개적으로 입증",
+      "크리에이터 협업 범위가 단순 게시물에서 캠페인 전략·제작으로 확장",
+      "소수 크리에이터와의 심층 관계가 비용 효율성과 성과 면에서 우위",
+      "애드버타이징 위크에서 크리에이터 마케팅이 주요 업계 트렌드로 부각"
+    ],
+    "tags": [
+      "creator-marketing",
+      "influencer-partnerships",
+      "cost-efficiency",
+      "content-strategy",
+      "advertising-week"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER",
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Chili's",
+      "Disney",
+      "Alaska Airlines",
+      "Advertising Week"
+    ],
+    "one_line_insight_ko": "크리에이터 마케팅은 단순 노출 채널을 넘어 캠페인 전략과 콘텐츠 제작까지 아우르는 핵심 파트너십으로 진화하고 있다.",
+    "one_line_insight_en": "Creator marketing is evolving from a paid exposure channel into a strategic partnership model that drives campaign creativity, content production, and measurable cost efficiencies.",
+    "ai_processed": true
+  },
+  {
+    "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+    "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+    "date_published": "2026-10-06",
+    "description": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "categories": [
+      "marketing",
+      "ai_marketing",
+      "tech"
+    ],
+    "relevance_score": 0.78,
+    "relevance_label": "high",
+    "title_en": "Ex-Ramp Engineers Raise $20M for AI Creative Platform Melius After Pivoting from Ad Spend Optimization",
+    "summary_ko": "전 Ramp 엔지니어들이 설립한 스타트업 Melius가 2000만 달러 투자 유치에 성공했다. 초기에는 광고비 관리·최적화 도구를 개발했으나 방향을 전환해 현재는 광고 크리에이티브 에셋과 캠페인을 자동 생성하는 AI 플랫폼을 구축 중이다. 광고 지출 최적화보다 크리에이티브 생성 자동화에 더 큰 시장 기회가 있다고 판단한 것이 피벗의 배경이다.",
+    "summary_en": "Melius, a startup founded by former Ramp engineers, has raised $20 million after pivoting away from ad spend management tools to focus on building an AI platform that generates creative assets and campaigns for marketers. The founding team scrapped their initial product and redirected their efforts toward AI-powered creative generation. The pivot reflects growing demand for tools that automate the creative production process rather than just optimize budget allocation.",
+    "so_what_ko": "AI 기반 크리에이티브 자동화 플랫폼에 대한 투자가 급증하고 있어, LG D2C는 광고 크리에이티브 제작 효율화를 위한 AI 도구 도입을 조기에 검토하고 파일럿 프로그램을 통해 경쟁 우위를 선점해야 한다.",
+    "so_what_en": "As investment floods into AI creative automation platforms, LG D2C should evaluate and pilot AI-powered creative generation tools early to gain a competitive edge in producing high-quality, scalable campaign assets at lower cost.",
+    "key_points": [
+      "Melius, 광고비 최적화에서 AI 크리에이티브 생성 플랫폼으로 성공적 피벗",
+      "전 Ramp 엔지니어 창업팀, 2000만 달러 시리즈 투자 유치",
+      "마케터 대상 크리에이티브 에셋·캠페인 자동 생성 기능에 집중",
+      "크리에이티브 생성 자동화 시장의 성장 잠재력이 광고비 관리 도구를 상회한다는 투자자 판단"
+    ],
+    "tags": [
+      "ai-creative",
+      "generative-ai",
+      "adtech",
+      "startup-funding",
+      "marketing-automation"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER",
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Melius",
+      "Ramp",
+      "AI creative platform"
+    ],
+    "one_line_insight_ko": "AI 크리에이티브 자동화 플랫폼이 광고비 최적화보다 더 큰 시장 기회로 부상하며 마케팅 제작 생태계를 재편하고 있다.",
+    "one_line_insight_en": "AI-powered creative generation is emerging as a larger market opportunity than ad spend optimization, signaling a fundamental shift in how marketing assets will be produced and scaled.",
+    "ai_processed": true
+  },
+  {
+    "title": "How AI decision models could change content moderation",
+    "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+    "date_published": "2026-10-06",
+    "description": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "categories": [
+      "tech",
+      "ai_marketing"
+    ],
+    "relevance_score": 0.4,
+    "relevance_label": "high",
+    "title_en": "Musubi Launches PolicyLM-1.7B: Lightweight AI Decision Model for Real-Time Content Moderation",
+    "summary_ko": "Musubi는 실시간 콘텐츠 모더레이션을 위한 경량 AI 의사결정 모델 PolicyLM-1.7B를 오픈 웨이트로 공개했다. 이 모델은 기존 대형 AI 모델 대비 낮은 연산 비용으로 실시간 정책 집행이 가능하도록 설계되었다. AI 기반 의사결정 모델이 콘텐츠 모더레이션 방식을 근본적으로 변화시킬 수 있다는 점에서 업계의 주목을 받고 있다.",
+    "summary_en": "Musubi announced PolicyLM-1.7B, a lightweight AI decision model designed for real-time content moderation, released with open weights. The model is built to enforce policies at scale with lower computational overhead compared to larger AI systems. Industry observers note that such AI decision models could fundamentally reshape how platforms approach content moderation.",
+    "so_what_ko": "LG D2C 플랫폼은 오픈 웨이트 경량 모더레이션 모델을 활용해 UGC(사용자 생성 콘텐츠) 및 리뷰 관리의 자동화 비용을 절감하고 실시간 정책 집행 역량을 강화할 수 있다.",
+    "so_what_en": "LG D2C platforms could leverage lightweight open-weight moderation models to automate UGC and review management at lower cost while improving real-time policy enforcement.",
+    "key_points": [
+      "Musubi의 PolicyLM-1.7B는 실시간 모더레이션에 특화된 경량 AI 의사결정 모델",
+      "오픈 웨이트로 공개되어 다양한 플랫폼에서 자유롭게 활용 가능",
+      "AI 기반 콘텐츠 모더레이션이 기존 규칙 기반 시스템을 대체할 가능성 제기"
+    ],
+    "tags": [
+      "content-moderation",
+      "ai-decision-model",
+      "open-weights",
+      "lightweight-ai"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "EMERGING_TECH",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Musubi",
+      "PolicyLM-1.7B"
+    ],
+    "one_line_insight_ko": "경량 오픈 웨이트 AI 모더레이션 모델의 등장으로 콘텐츠 정책 집행의 진입 장벽이 낮아지고 있다.",
+    "one_line_insight_en": "Lightweight open-weight AI moderation models are lowering the barrier for real-time content policy enforcement across platforms.",
+    "ai_processed": true
+  },
+  {
+    "title": "Turn TikTok Scrolls into Sales: Inside Our New Agentic Commerce Partnership",
+    "link": "https://www.salesforce.com/blog/commerce-cloud-tiktok-integration/",
+    "date_published": "2026-10-05",
+    "description": "In the past three months, 27% of consumers have reported making a purchase on a social shopping platform. This is led by 48% of Gen Z consumers and 37% of Millennial consumers, according…",
+    "source_id": "salesforce_agentforce",
+    "source_name": "Salesforce Agentforce Blog",
+    "source_url": "https://www.salesforce.com/blog/category/ai/feed/",
+    "categories": [
+      "commerce",
+      "agentic_commerce",
+      "ai_marketing"
+    ],
+    "relevance_score": 0.97,
+    "relevance_label": "high",
+    "title_en": "Salesforce and TikTok Partner to Enable Agentic Commerce Directly Within Social Feeds",
+    "summary_ko": "Salesforce는 TikTok과의 에이전틱 커머스 파트너십을 통해 소셜 미디어 스크롤을 직접 구매로 전환하는 통합 기능을 발표했다. 최근 3개월간 소비자의 27%가 소셜 쇼핑 플랫폼에서 구매를 경험했으며, Gen Z(48%)와 밀레니얼(37%)이 주도하고 있다. 이번 통합은 AI 에이전트가 TikTok 내에서 상품 발견부터 결제까지 완전한 구매 여정을 지원하는 방향으로 설계되었다.",
+    "summary_en": "Salesforce announced an agentic commerce partnership with TikTok aimed at converting social media scrolling into direct sales within the platform. According to the article, 27% of consumers have made a purchase on a social shopping platform in the past three months, led by Gen Z (48%) and Millennials (37%). The integration is designed to enable AI agents to support the full purchase journey—from product discovery to checkout—directly within TikTok.",
+    "so_what_ko": "LG D2C 조직은 Salesforce-TikTok 에이전틱 커머스 통합을 적극 검토하여 Gen Z·밀레니얼 타깃 제품의 소셜 내 구매 전환율을 높이고, AI 에이전트 기반 소셜 커머스 전략을 조기에 구축해야 한다.",
+    "so_what_en": "LG D2C should actively evaluate the Salesforce-TikTok agentic commerce integration to drive in-platform conversion for Gen Z and Millennial-targeted products and build an early advantage in AI-driven social commerce.",
+    "key_points": [
+      "소비자 27%가 최근 3개월 내 소셜 쇼핑 플랫폼에서 구매 경험 (Gen Z 48%, 밀레니얼 37%)",
+      "Salesforce Agentforce와 TikTok 통합으로 소셜 피드 내 완전한 구매 여정 지원",
+      "에이전틱 커머스가 소셜 미디어를 핵심 D2C 판매 채널로 전환시키는 촉매 역할",
+      "AI 에이전트가 상품 추천부터 결제까지 자동화하여 마찰 없는 구매 경험 제공"
+    ],
+    "tags": [
+      "agentic-commerce",
+      "social-commerce",
+      "tiktok",
+      "salesforce",
+      "gen-z"
+    ],
+    "confidence": 0.85,
+    "strategic_theme": "AI_COMMERCE",
+    "regions": [
+      "GLOBAL",
+      "AMER"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Salesforce",
+      "TikTok",
+      "Agentforce",
+      "Gen Z"
+    ],
+    "one_line_insight_ko": "Salesforce-TikTok 에이전틱 커머스 통합은 소셜 피드를 AI 자동화 판매 채널로 전환하는 D2C 패러다임 변화를 예고한다.",
+    "one_line_insight_en": "The Salesforce-TikTok agentic commerce partnership signals a paradigm shift where AI-powered social feeds become fully automated D2C sales channels.",
+    "ai_processed": true
+  },
+  {
+    "title": "Pricing tactics come under scrutiny in the age of AI",
+    "link": "https://www.modernretail.co/operations/pricing-tactics-come-under-scrutiny-in-the-age-of-ai/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-10-05",
+    "description": "Everything from the rise of digital shelf labels to screenshots of pricing algorithms is fueling concerns among consumers that retailers are increasingly using customer data to engage in dynamic pricing, and it is putting more retailers like Walmart and McDonald's on the defensive.",
     "source_id": "modern_retail",
     "source_name": "Modern Retail",
     "source_url": "https://www.modernretail.co/feed/",
@@ -486,215 +591,120 @@
       "commerce",
       "strategy"
     ],
-    "relevance_score": 0.4,
+    "relevance_score": 0.82,
     "relevance_label": "high",
-    "title_en": "Brian Monahan Exits Albertsons Media Collective Amid Leadership Shake-Up",
-    "summary_ko": "Albertsons Media Collective의 수장으로 지난해 7월 영입된 Brian Monahan이 회사를 떠났다. 이 사실은 금요일 비즈니스 파트너들에게 공지되었다. 구체적인 퇴사 이유나 후임자에 대한 정보는 원문에서 확인되지 않음.",
-    "summary_en": "Brian Monahan, who was brought on to lead Albertsons Media Collective's retail media business in late July of the prior year, has departed the company. Business partners were notified of the change on Friday. Further details regarding the reasons for his exit or successor are not confirmed in the source.",
-    "so_what_ko": "리테일 미디어 네트워크(RMN)의 리더십 불안정은 해당 채널을 활용하는 D2C 브랜드의 미디어 전략 연속성에 영향을 줄 수 있으므로, 파트너십 리스크를 모니터링해야 한다.",
-    "so_what_en": "Leadership instability at a major retail media network signals potential disruption for D2C brands relying on Albertsons as a media partner, warranting close monitoring of partnership continuity.",
+    "title_en": "AI-Driven Dynamic Pricing Faces Growing Consumer Backlash, Putting Retailers on the Defensive",
+    "summary_ko": "디지털 선반 라벨과 가격 알고리즘의 확산으로 소비자들 사이에서 AI 기반 동적 가격 책정에 대한 우려가 커지고 있다. Walmart, McDonald's 등 주요 소매업체들이 개인화 가격 책정 관행에 대한 해명에 나서야 하는 상황에 처해 있다. AI가 고객 데이터를 활용해 개인별 차별화 가격을 제시한다는 인식이 확산되며 소비자 신뢰 위기가 대두되고 있다.",
+    "summary_en": "The rise of digital shelf labels and visible pricing algorithms is fueling growing consumer concerns that retailers are using customer data for AI-driven dynamic pricing. Major retailers including Walmart and McDonald's are being put on the defensive over their pricing practices. The trend signals a potential consumer trust crisis as AI-personalized pricing becomes more visible and scrutinized.",
+    "so_what_ko": "LG D2C는 AI 동적 가격 책정 도입 시 소비자에게 가격 결정 원칙을 투명하게 공개하고, 개인화 가격이 차별이 아닌 혜택으로 인식될 수 있도록 커뮤니케이션 전략을 선제적으로 수립해야 한다.",
+    "so_what_en": "LG D2C must proactively establish transparent pricing communication strategies to ensure AI-driven dynamic pricing is perceived as a consumer benefit rather than discriminatory practice.",
     "key_points": [
-      "Brian Monahan has exited Albertsons Media Collective after roughly one year in the role",
-      "Business partners were formally notified of the leadership change",
-      "No successor or reason for departure is confirmed in the source"
+      "디지털 선반 라벨과 가격 알고리즘 스크린샷이 소비자 불신의 직접적 원인으로 부상",
+      "Walmart, McDonald's 등 대형 소매업체들이 AI 가격 책정 관행 해명 압박에 직면",
+      "AI 기반 동적 가격 책정의 확산이 규제 당국의 관심을 끌 가능성 증가",
+      "소비자 신뢰 유지를 위한 가격 투명성 및 윤리적 AI 활용 정책 필요성 대두"
     ],
     "tags": [
-      "retail-media",
-      "leadership-change",
-      "albertsons",
+      "dynamic-pricing",
+      "ai-ethics",
+      "consumer-trust",
+      "retail-ai",
       "d2c"
     ],
-    "confidence": 0.6,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "confidence": 0.8,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "GLOBAL",
+      "AMER"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "Walmart",
+      "McDonald's"
+    ],
+    "one_line_insight_ko": "AI 동적 가격 책정에 대한 소비자 반발이 커지면서, 가격 투명성이 D2C 브랜드의 핵심 신뢰 자산으로 부상하고 있다.",
+    "one_line_insight_en": "As consumer backlash against AI dynamic pricing grows, pricing transparency is emerging as a critical trust asset for D2C brands.",
+    "ai_processed": true
+  },
+  {
+    "title": "Toast adds fuel payments",
+    "link": "https://www.paymentsdive.com/news/toast-adds-fuel-payments-to-its-platform/832057/",
+    "date_published": "2026-10-05",
+    "description": "Toast Fuel allows customers to run gas payments inside the store and at the pump alongside foodservice and general retail sales.",
+    "source_id": "payments_dive",
+    "source_name": "Payments Dive",
+    "source_url": "https://www.paymentsdive.com/feeds/news/",
+    "categories": [
+      "commerce"
+    ],
+    "relevance_score": 0.25,
+    "relevance_label": "high",
+    "title_en": "Toast Expands Platform to Include Fuel Payments at Gas Stations",
+    "summary_ko": "Toast는 기존 푸드서비스 및 일반 소매 결제 플랫폼에 연료 결제 기능을 추가한 'Toast Fuel'을 출시했다. 이 기능은 매장 내부와 주유기 현장 모두에서 가스 결제를 처리할 수 있도록 설계되었다. Toast의 결제 플랫폼이 편의점·주유소 복합 업종으로 확장되며 옴니채널 결제 커버리지를 강화하고 있다.",
+    "summary_en": "Toast launched 'Toast Fuel,' a new feature enabling gas payment processing both inside the store and at the pump, alongside its existing foodservice and general retail capabilities. The expansion broadens Toast's payment platform coverage into the fuel and convenience store segment. This move signals Toast's strategy to become a comprehensive omnichannel payment solution across multiple retail verticals.",
+    "so_what_ko": "이 기사는 LG D2C의 핵심 비즈니스 영역과 직접적 연관성이 낮으나, 결제 플랫폼의 수직 통합 트렌드는 LG 가전 구독 및 서비스 결제 생태계 설계 시 참고할 수 있다.",
+    "so_what_en": "While not directly relevant to LG D2C's core business, Toast's vertical payment integration trend offers a reference point for designing LG's appliance subscription and service payment ecosystems.",
+    "key_points": [
+      "Toast Fuel은 매장 내부 및 주유기에서 가스 결제를 처리하는 신규 기능",
+      "기존 푸드서비스·일반 소매 결제와 연료 결제를 단일 플랫폼에서 통합 처리",
+      "Toast가 편의점·주유소 복합 업종으로 결제 플랫폼 적용 범위 확대"
+    ],
+    "tags": [
+      "payments",
+      "toast",
+      "fuel-payments",
+      "retail-tech"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "PLATFORM_ECOSYSTEM",
     "regions": [
       "AMER"
     ],
     "business_impact": "LOW",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "Albertsons Media Collective",
-      "Brian Monahan"
+      "Toast",
+      "Toast Fuel"
     ],
-    "one_line_insight_ko": "Albertsons 리테일 미디어 수장의 갑작스러운 이탈은 RMN 채널 파트너십 안정성에 대한 재검토를 요구한다.",
-    "one_line_insight_en": "The abrupt exit of Albertsons Media Collective's leader highlights the fragility of retail media network partnerships for D2C brands.",
+    "one_line_insight_ko": "Toast의 연료 결제 확장은 단일 결제 플랫폼이 다양한 소매 업종을 통합하는 수직 확장 전략의 전형을 보여준다.",
+    "one_line_insight_en": "Toast's fuel payment expansion exemplifies a vertical growth strategy where a single payment platform consolidates multiple retail verticals under one ecosystem.",
     "ai_processed": true
   },
   {
-    "title": "Target’s digital holiday catalog features toys — and a way to incorporate handwritten wish lists",
-    "link": "https://www.retaildive.com/news/target-digital-holiday-catalog-toys-wish-lists/832099/",
-    "date_published": "2026-10-05",
-    "description": "The retailer’s kids catalog is focused on interactive experiences, including demonstrations and video reviews.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
+    "title": "From influencers to AI, here’s what Gen Alpha thinks about your brand",
+    "link": "https://digiday.com/marketing/from-influencers-to-ai-heres-what-gen-alpha-thinks-about-your-brand/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-10-07",
+    "description": "The Gen Alpha cohort now influences nearly half of total U.S. household spending in families with children ages 8-14.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
     "categories": [
-      "commerce",
-      "marketing"
-    ],
-    "relevance_score": 0.6,
-    "relevance_label": "high",
-    "title_en": "Target's Digital Holiday Catalog Blends Toys with Interactive Wish List Features",
-    "summary_ko": "Target은 장난감 중심의 디지털 홀리데이 카탈로그를 선보이며, 인터랙티브 경험과 비디오 리뷰를 포함한 기능을 강화했다. 특히 어린이 고객이 손으로 쓴 위시리스트를 디지털로 통합할 수 있는 방식을 도입한 것이 특징이다. 이는 전통적인 인쇄 카탈로그 경험을 디지털로 재해석한 혁신적 접근이다.",
-    "summary_en": "Target has launched a digital holiday catalog centered on toys, featuring interactive experiences such as product demonstrations and video reviews. A standout feature allows children to incorporate handwritten wish lists into the digital shopping experience. This initiative represents Target's effort to reimagine the traditional printed catalog for a digital-first audience.",
-    "so_what_ko": "디지털 카탈로그와 인터랙티브 경험의 결합은 LG D2C가 홀리데이 시즌 제품 발견 경험을 강화하는 데 참고할 수 있는 모범 사례이다.",
-    "so_what_en": "Target's interactive digital catalog approach offers a blueprint for LG D2C to enhance product discovery and engagement during high-stakes holiday shopping seasons.",
-    "key_points": [
-      "Target launched a digital holiday catalog focused on children's toys",
-      "The catalog includes interactive demos, video reviews, and wish list integration",
-      "Handwritten wish list digitization bridges offline sentiment with online commerce"
-    ],
-    "tags": [
-      "digital-catalog",
-      "holiday-retail",
-      "interactive-commerce",
-      "target",
-      "customer-experience"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Target"
-    ],
-    "one_line_insight_ko": "Target의 인터랙티브 디지털 카탈로그는 홀리데이 시즌 제품 발견과 감성적 연결을 동시에 강화하는 새로운 D2C 모델을 제시한다.",
-    "one_line_insight_en": "Target's interactive digital holiday catalog redefines seasonal product discovery by blending emotional wish-list nostalgia with modern digital commerce.",
-    "ai_processed": true
-  },
-  {
-    "title": "Gap unveils AI-assisted shopping, three decades after its first website",
-    "link": "https://www.retaildive.com/news/gap-ai-assisted-shopping-three-decades-after-website/832070/",
-    "date_published": "2026-10-05",
-    "description": "Starting Monday, customers can get recommendations from the Alta Daily and Daydream platforms. Banana Republic and Old Navy are also launching conversational shopping agents.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "commerce",
+      "marketing",
       "ai_marketing",
-      "agentic_commerce"
-    ],
-    "relevance_score": 0.9,
-    "relevance_label": "high",
-    "title_en": "Gap Launches AI-Assisted Shopping via Alta Daily and Daydream Platforms",
-    "summary_ko": "Gap은 AI 기반 쇼핑 경험을 도입하며, Alta Daily와 Daydream 플랫폼을 통해 고객에게 개인화된 추천을 제공하기 시작했다. Banana Republic과 Old Navy도 대화형 쇼핑 에이전트를 함께 론칭했다. 이는 Gap이 자사 첫 웹사이트 개설 30년 만에 AI로 디지털 커머스를 혁신하는 중요한 전환점이다.",
-    "summary_en": "Gap has introduced AI-assisted shopping experiences, enabling customers to receive personalized recommendations through the Alta Daily and Daydream platforms starting Monday. Sister brands Banana Republic and Old Navy are simultaneously launching conversational shopping agents. This marks a significant digital transformation milestone for Gap, coming three decades after it launched its first website.",
-    "so_what_ko": "Gap의 멀티브랜드 대화형 AI 쇼핑 에이전트 도입은 LG D2C가 가전 제품 추천 및 구매 여정에 유사한 AI 컨시어지 경험을 설계할 때 벤치마킹할 수 있는 핵심 사례다.",
-    "so_what_en": "Gap's simultaneous rollout of conversational AI agents across multiple brands is a key benchmark for LG D2C in designing AI-driven concierge experiences for appliance and electronics purchase journeys.",
-    "key_points": [
-      "Gap launched AI-assisted shopping through Alta Daily and Daydream platforms",
-      "Banana Republic and Old Navy are also deploying conversational shopping agents",
-      "The move marks a major digital evolution for Gap, 30 years after its first website"
-    ],
-    "tags": [
-      "conversational-ai",
-      "agentic-commerce",
-      "ai-shopping",
-      "gap",
-      "personalization"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_COMMERCE",
-    "regions": [
-      "AMER",
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Gap",
-      "Alta Daily",
-      "Daydream",
-      "Banana Republic",
-      "Old Navy"
-    ],
-    "one_line_insight_ko": "Gap의 AI 쇼핑 에이전트 론칭은 패션을 넘어 전 산업에서 대화형 AI가 D2C 구매 여정의 핵심 접점이 되고 있음을 확인시켜 준다.",
-    "one_line_insight_en": "Gap's launch of conversational AI shopping agents across its brand portfolio signals that agentic commerce is rapidly becoming a baseline expectation in D2C retail.",
-    "ai_processed": true
-  },
-  {
-    "title": "Revelyst brands focus on discovery, understanding AI traffic",
-    "link": "https://www.digitalcommerce360.com/2026/10/05/revelyst-brands-ai-traffic-discovery/",
-    "date_published": "2026-10-05",
-    "description": "Revelyst, which operates more than a dozen brands for outdoor recreation and related gear, has seen a rise in artificial intelligence-driven product discovery in 2026 — and it’s working to uncover what consumers are using AI platforms to understand about its products. Consumers are learning more about Revelyst’s products outside of its brand sites, according […]\nThe post Revelyst brands focus on discovery, understanding AI traffic appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
-    "categories": [
-      "commerce",
-      "strategy",
-      "ai_marketing"
+      "strategy"
     ],
     "relevance_score": 0.85,
     "relevance_label": "high",
-    "title_en": "Revelyst Tracks Rising AI-Driven Product Discovery Across Its Outdoor Brands",
-    "summary_ko": "아웃도어 레크리에이션 브랜드를 12개 이상 운영하는 Revelyst는 2026년 들어 AI 기반 제품 발견이 증가하는 추세를 확인하고, 소비자들이 AI 플랫폼을 통해 자사 제품에 대해 어떤 정보를 얻고 있는지 분석하고 있다. 소비자들이 브랜드 공식 사이트 외부에서 AI를 통해 제품을 탐색하는 사례가 늘고 있다. 이는 브랜드가 자사 채널 밖에서의 AI 트래픽을 새로운 전략 변수로 관리해야 함을 시사한다.",
-    "summary_en": "Revelyst, which manages over a dozen outdoor recreation brands, has observed a significant rise in AI-driven product discovery in 2026 and is actively working to understand what consumers are learning about its products through AI platforms. The company notes that consumers are increasingly discovering its products outside of its own brand websites. This trend underscores the growing importance of managing AI-generated traffic as a distinct strategic channel.",
-    "so_what_ko": "LG D2C는 자사 웹사이트 외부의 AI 플랫폼에서 제품이 어떻게 발견되고 설명되는지를 추적하고, AI 검색 최적화(AIO) 전략을 수립해야 한다.",
-    "so_what_en": "LG D2C must proactively monitor how its products are being discovered and described on AI platforms beyond its own sites, and develop an AI search optimization (AIO) strategy accordingly.",
+    "title_en": "Gen Alpha Now Influences Nearly Half of U.S. Household Spending—Brands Must Adapt to Their AI-Native Mindset",
+    "summary_ko": "8~14세 자녀를 둔 가정에서 Gen Alpha가 미국 가계 지출의 거의 절반에 영향을 미치고 있다는 조사 결과가 나왔다. Gen Alpha는 인플루언서와 AI를 통해 브랜드를 인식하고 구매 결정에 영향을 미치는 디지털 네이티브 세대로, 기존 마케팅 접근법과의 근본적 차이를 보인다. 브랜드들은 Gen Alpha의 미디어 소비 방식과 AI 활용 패턴을 반영한 새로운 마케팅 전략 수립이 시급한 상황이다.",
+    "summary_en": "Research indicates that Gen Alpha (ages 8-14) now influences nearly half of total U.S. household spending in families with children. This cohort is distinctly AI-native and engages with brands primarily through influencers and AI-driven experiences, setting them apart from previous generations. Brands are urged to rethink their marketing strategies to align with Gen Alpha's unique digital consumption habits and AI-centric worldview.",
+    "so_what_ko": "LG D2C는 Gen Alpha의 영향력을 반영하여 가족 단위 소비재 마케팅에서 AI 기반 콘텐츠 및 인플루언서 채널을 우선 강화하고, 미래 주요 소비자인 이 세대와의 브랜드 관계 형성에 조기 투자해야 한다.",
+    "so_what_en": "LG D2C should prioritize AI-driven content and influencer channels in family-oriented product marketing to capture Gen Alpha's household spending influence, and invest early in building brand relationships with this future primary consumer cohort.",
     "key_points": [
-      "Revelyst reports a measurable rise in AI-driven product discovery across its brand portfolio in 2026",
-      "Consumers are learning about products through AI platforms outside of brand-owned sites",
-      "The company is actively analyzing what AI platforms are communicating about its products"
+      "Gen Alpha(8~14세)가 자녀 있는 미국 가정 지출의 약 50%에 영향력 행사",
+      "인플루언서와 AI가 Gen Alpha의 브랜드 인식 및 구매 결정의 핵심 채널로 부상",
+      "AI 네이티브 세대인 Gen Alpha는 기존 광고·마케팅 방식에 낮은 반응성 보임",
+      "브랜드는 Gen Alpha의 디지털·AI 중심 미디어 소비 패턴에 맞춘 전략 재설계 필요"
     ],
     "tags": [
-      "ai-discovery",
-      "ai-traffic",
-      "product-discovery",
-      "seo-aio",
-      "outdoor-retail"
+      "gen-alpha",
+      "ai-marketing",
+      "influencer-marketing",
+      "consumer-behavior",
+      "d2c"
     ],
-    "confidence": 0.75,
-    "strategic_theme": "DATA_STRATEGY",
-    "regions": [
-      "AMER",
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Revelyst"
-    ],
-    "one_line_insight_ko": "AI 플랫폼이 브랜드 사이트를 우회하는 새로운 제품 발견 채널로 부상하면서, AI 트래픽 관리가 D2C의 필수 전략 과제가 되고 있다.",
-    "one_line_insight_en": "As AI platforms bypass brand websites to become primary product discovery channels, managing AI-driven traffic is now a critical D2C strategic imperative.",
-    "ai_processed": true
-  },
-  {
-    "title": "TikTok broadens agentic AI play, brings global ad network to US",
-    "link": "https://www.marketingdive.com/news/tiktok-broadens-agentic-ai-play-brings-global-ad-network-to-us/832007/",
-    "date_published": "2026-10-05",
-    "description": "New products timed to Advertising Week see the video-sharing app boasting of its economic might ahead of the busy holiday season.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
-    "categories": [
-      "ai_marketing",
-      "agentic_commerce",
-      "commerce"
-    ],
-    "relevance_score": 0.9,
-    "relevance_label": "high",
-    "title_en": "TikTok Expands Agentic AI Capabilities and Brings Global Ad Network to U.S. Market",
-    "summary_ko": "TikTok은 Advertising Week에 맞춰 에이전틱 AI 기반 광고 상품을 확대하고, 글로벌 광고 네트워크를 미국 시장에 도입하는 신제품을 발표했다. 홀리데이 시즌을 앞두고 자사의 경제적 영향력을 강조하며 광고주 유치에 나서고 있다. 이는 TikTok이 단순 동영상 플랫폼을 넘어 AI 기반 광고 및 커머스 생태계로 진화하고 있음을 보여준다.",
-    "summary_en": "TikTok unveiled a suite of new products at Advertising Week, expanding its agentic AI advertising capabilities and bringing its global ad network to the U.S. market. The announcements are timed strategically ahead of the busy holiday shopping season, with TikTok highlighting its significant economic influence. This signals TikTok's evolution from a video-sharing platform into a comprehensive AI-powered advertising and commerce ecosystem.",
-    "so_what_ko": "TikTok의 에이전틱 AI 광고 네트워크 확장은 LG D2C가 홀리데이 시즌 캠페인에서 TikTok을 단순 인지도 채널이 아닌 AI 기반 퍼포먼스 커머스 채널로 재정의할 기회를 제공한다.",
-    "so_what_en": "TikTok's agentic AI ad expansion presents LG D2C with an opportunity to leverage the platform not just for brand awareness but as a performance-driven AI commerce channel during the holiday season.",
-    "key_points": [
-      "TikTok expanded its agentic AI advertising products at Advertising Week",
-      "The global ad network is being introduced to the U.S. market for the first time",
-      "Launch timing is strategically designed to capture holiday season advertising budgets"
-    ],
-    "tags": [
-      "tiktok",
-      "agentic-ai",
-      "ad-network",
-      "holiday-marketing",
-      "social-commerce"
-    ],
-    "confidence": 0.8,
+    "confidence": 0.78,
     "strategic_theme": "AI_MARKETING",
     "regions": [
       "AMER",
@@ -703,10 +713,11 @@
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "TikTok"
+      "Gen Alpha",
+      "Digiday"
     ],
-    "one_line_insight_ko": "TikTok의 에이전틱 AI 광고 생태계 확장은 소셜 미디어가 AI 기반 퍼포먼스 커머스 플랫폼으로 급속히 진화하고 있음을 보여주는 결정적 신호다.",
-    "one_line_insight_en": "TikTok's agentic AI ad network expansion marks a decisive shift from social entertainment to AI-powered performance commerce, demanding a strategic rethink from D2C marketers.",
+    "one_line_insight_ko": "가계 지출의 절반을 좌우하는 Gen Alpha는 AI와 인플루언서 중심의 브랜드 경험을 요구하며 D2C 마케팅 전략의 전면 재편을 촉구하고 있다.",
+    "one_line_insight_en": "Gen Alpha's outsized influence on household spending demands a fundamental rethink of D2C marketing strategies centered on AI-native experiences and influencer-driven brand discovery.",
     "ai_processed": true
   }
 ]
