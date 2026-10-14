@@ -1,195 +1,104 @@
 [
   {
-    "title": "How Lowe’s is building — and measuring — a full-funnel media network",
-    "link": "https://www.marketingdive.com/news/how-lowes-is-building-and-measuring-a-full-funnel-media-network/832747/",
-    "date_published": "2026-10-13",
-    "description": "The home improvement retailer is expanding its advertising business to new platforms and rolling out tools around incrementality and AI optimization.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
-    "categories": [
-      "marketing",
-      "ai_marketing",
-      "commerce"
-    ],
-    "relevance_score": 0.75,
-    "relevance_label": "high",
-    "title_en": "Lowe's Builds Full-Funnel Retail Media Network with AI Optimization and Incrementality Tools",
-    "summary_ko": "로우스(Lowe's)는 자사의 광고 비즈니스를 새로운 플랫폼으로 확장하며 증분성(incrementality) 측정 및 AI 최적화 도구를 도입하고 있다. 홈 인테리어 전문 소매업체인 로우스는 풀펀넬 미디어 네트워크를 구축해 브랜드 광고주들에게 더욱 정밀한 성과 측정 역량을 제공하고자 한다. 이는 리테일 미디어 네트워크(RMN) 시장에서 경쟁력을 강화하기 위한 전략적 행보다.",
-    "summary_en": "Lowe's is expanding its retail media network to new platforms while introducing AI optimization and incrementality measurement tools for advertisers. The home improvement retailer is building a full-funnel media approach to provide brand partners with more precise performance insights. This move reflects a broader strategic push to compete in the rapidly growing retail media network market.",
-    "so_what_ko": "LG D2C 조직은 자체 리테일 미디어 역량을 구축하거나 로우스와 같은 RMN 파트너십을 활용해 AI 기반 광고 최적화와 증분성 측정으로 마케팅 ROI를 높일 수 있다.",
-    "so_what_en": "LG D2C should explore partnerships with or learnings from retailer media networks like Lowe's to leverage AI-driven ad optimization and incrementality measurement for improving marketing ROI.",
-    "key_points": [
-      "Lowe's is expanding its retail media network beyond existing platforms to reach broader audiences",
-      "AI optimization tools are being integrated into the media network to improve campaign performance",
-      "Incrementality measurement capabilities are being rolled out to help advertisers understand true lift"
-    ],
-    "tags": [
-      "retail-media-network",
-      "ai-optimization",
-      "incrementality",
-      "full-funnel",
-      "advertising"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Lowe's"
-    ],
-    "one_line_insight_ko": "로우스의 AI 기반 풀펀넬 RMN 확장은 리테일 미디어가 단순 광고를 넘어 정밀 측정 플랫폼으로 진화하고 있음을 보여준다.",
-    "one_line_insight_en": "Lowe's AI-powered full-funnel retail media expansion signals that RMNs are evolving from ad channels into precision measurement platforms.",
-    "ai_processed": true
-  },
-  {
-    "title": "Reporter’s notebook: Inside Scheels’ sporting goods wonderland",
-    "link": "https://www.retaildive.com/news/scheels-store-experience-retail-best-kept-secret/831211/",
-    "date_published": "2026-10-13",
-    "description": "Come for the sporting goods, stay for the animatronic Abe Lincoln. And whatever you do, don’t expect your average retail experience.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.4,
-    "relevance_label": "high",
-    "title_en": "Inside Scheels: How the Sporting Goods Retailer Creates an Unforgettable In-Store Experience",
-    "summary_ko": "쉴스(Scheels)는 애니메트로닉 에이브 링컨과 같은 독특한 엔터테인먼트 요소를 결합한 이색적인 오프라인 매장 경험으로 차별화를 꾀하고 있다. 일반적인 소매 경험과 전혀 다른 '원더랜드' 콘셉트로 고객 방문 동기를 스포츠 용품 구매를 넘어선 경험 자체로 확장한다. 이 전략은 온라인 쇼핑과의 차별화를 위해 오프라인 리테일이 얼마나 극적인 경험을 제공해야 하는지를 잘 보여주는 사례다.",
-    "summary_en": "Scheels sporting goods stores differentiate themselves through a highly immersive in-store experience, featuring unique entertainment elements such as animatronic figures. The retailer positions its physical locations as destinations worth visiting beyond the transactional purpose of buying sporting goods. This approach illustrates how brick-and-mortar retailers are doubling down on experiential retail to compete against e-commerce.",
-    "so_what_ko": "LG D2C는 오프라인 쇼룸 및 체험 공간 전략을 재검토하여, 제품 구매 이상의 몰입형 브랜드 경험을 설계함으로써 디지털 경쟁과 차별화할 수 있다.",
-    "so_what_en": "LG D2C can draw inspiration from Scheels' experiential model to reimagine physical showrooms as immersive brand destinations that go beyond product transactions.",
-    "key_points": [
-      "Scheels creates an entertainment-driven in-store experience that goes far beyond traditional retail",
-      "Unique attractions like animatronic displays serve as powerful footfall drivers",
-      "The experiential retail model is a key differentiator against e-commerce competition"
-    ],
-    "tags": [
-      "experiential-retail",
-      "in-store-experience",
-      "brick-and-mortar",
-      "retail-differentiation"
-    ],
-    "confidence": 0.65,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Scheels"
-    ],
-    "one_line_insight_ko": "쉴스의 엔터테인먼트 중심 오프라인 매장 전략은 e커머스 시대에 물리적 리테일이 생존하는 방식을 보여주는 강력한 사례다.",
-    "one_line_insight_en": "Scheels' entertainment-driven store model demonstrates how physical retail survives the e-commerce era by becoming an experience destination rather than just a store.",
-    "ai_processed": true
-  },
-  {
-    "title": "Gen Z, Gen Alpha and the AI-ificiation of retail this holiday season",
-    "link": "https://www.retaildive.com/news/gen-z-gen-alpha-holiday-shopping-retail-trends/831838/",
-    "date_published": "2026-10-13",
-    "description": "AI is “rewiring” the brains of today’s youth, at the same time that they’re craving physical experiences. Can retailers strike the right balance?",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
+    "title": "New Ecommerce Tools: October 14, 2026",
+    "link": "https://www.practicalecommerce.com/new-ecommerce-tools-october-14-2026",
+    "date_published": "2026-10-14",
+    "description": "This week: agentic checkouts, AI-powered marketing, same-day deliveries, brand intelligence, cross-border commerce, multi-carrier shipping, and more.\nThe post New Ecommerce Tools: October 14, 2026 appeared first on Practical Ecommerce.",
+    "source_id": "practical_ecommerce",
+    "source_name": "Practical Ecommerce",
+    "source_url": "https://www.practicalecommerce.com/feed",
     "categories": [
       "commerce",
       "ai_marketing",
-      "strategy"
+      "agentic_commerce"
     ],
-    "relevance_score": 0.72,
+    "relevance_score": 0.85,
     "relevance_label": "high",
-    "title_en": "Gen Z and Gen Alpha Are Reshaping Holiday Retail with AI Habits and a Hunger for Physical Experiences",
-    "summary_ko": "Z세대와 알파세대는 AI가 쇼핑 방식을 '재배선(rewiring)'하는 동시에 물리적 경험에 대한 강한 욕구를 보이며, 리테일러들에게 복합적인 과제를 던지고 있다. 이번 홀리데이 시즌을 앞두고 젊은 소비자층의 AI 활용 쇼핑 행동이 두드러지며 디지털과 오프라인 채널 간 균형을 어떻게 맞출지가 핵심 과제로 부상하고 있다. 리테일러들은 AI 네이티브 소비자의 디지털 쇼핑 습관과 경험 중심 오프라인 선호 모두를 충족시키는 옴니채널 전략이 필요하다.",
-    "summary_en": "Gen Z and Gen Alpha consumers are increasingly using AI tools in their shopping journeys while simultaneously craving meaningful in-store physical experiences, creating a dual challenge for retailers heading into the holiday season. AI is described as actively 'rewiring' the shopping behaviors and expectations of younger generations. Retailers must strike the right balance between AI-powered digital convenience and experiential physical retail to capture these demographics.",
-    "so_what_ko": "LG D2C는 젊은 소비자층을 겨냥해 AI 기반 개인화 쇼핑 경험과 오프라인 체험 공간을 결합한 홀리데이 시즌 전략을 수립해야 한다.",
-    "so_what_en": "LG D2C should develop holiday season strategies that blend AI-powered personalization with compelling physical experiences to engage Gen Z and Gen Alpha shoppers effectively.",
+    "title_en": "New Ecommerce Tools Roundup: Agentic Checkouts, AI Marketing, Same-Day Delivery & More (Oct 14, 2026)",
+    "summary_ko": "2026년 10월 14일 기준 이커머스 최신 툴 동향으로 에이전틱 체크아웃, AI 기반 마케팅, 당일 배송, 브랜드 인텔리전스, 크로스보더 커머스 등 다양한 솔루션이 소개되었다. 에이전틱 체크아웃은 AI 에이전트가 구매 결정 및 결제 과정을 자동화하는 방향으로 발전하고 있다. 멀티캐리어 배송 및 크로스보더 커머스 툴의 등장은 글로벌 D2C 사업자들의 운영 효율화를 지원한다.",
+    "summary_en": "The October 14, 2026 ecommerce tools roundup highlights emerging solutions across agentic checkouts, AI-powered marketing, same-day deliveries, brand intelligence, and cross-border commerce. Agentic checkout technology represents a shift toward AI-driven automation of purchase decisions and payment flows. Multi-carrier shipping and cross-border commerce tools signal growing infrastructure support for global D2C operators.",
+    "so_what_ko": "LG D2C 조직은 에이전틱 체크아웃 및 AI 마케팅 툴의 도입을 적극 검토하여 구매 전환율 향상과 운영 자동화를 추진해야 한다.",
+    "so_what_en": "LG D2C teams should evaluate agentic checkout and AI marketing tools to drive conversion improvements and operational automation at scale.",
     "key_points": [
-      "Gen Z and Gen Alpha are AI-native shoppers who are 'rewiring' traditional retail behavior",
-      "Despite digital fluency, younger consumers strongly desire physical in-store experiences",
-      "Retailers face the challenge of balancing AI-driven digital convenience with experiential offline engagement this holiday season"
+      "에이전틱 체크아웃 기술이 이커머스 자동화의 핵심 트렌드로 부상",
+      "AI 기반 마케팅 툴과 브랜드 인텔리전스 솔루션의 동시 확산",
+      "크로스보더 커머스 및 당일 배송 인프라 강화로 글로벌 D2C 확장 지원",
+      "멀티캐리어 배송 솔루션으로 물류 유연성 증대 가능"
     ],
     "tags": [
-      "gen-z",
-      "gen-alpha",
-      "holiday-shopping",
-      "ai-shopping",
-      "experiential-retail"
+      "agentic-checkout",
+      "ai-ecommerce",
+      "same-day-delivery",
+      "cross-border-commerce",
+      "ai-marketing"
     ],
-    "confidence": 0.7,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "confidence": 0.6,
+    "strategic_theme": "AI_COMMERCE",
     "regions": [
       "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Gen Z",
-      "Gen Alpha"
-    ],
-    "one_line_insight_ko": "AI 쇼핑에 익숙한 Z·알파세대는 동시에 물리적 경험을 갈망해, 리테일러의 옴니채널 전략 재정립을 요구하고 있다.",
-    "one_line_insight_en": "AI-native Gen Z and Gen Alpha shoppers also crave physical experiences, forcing retailers to rethink omnichannel strategies for the next generation of consumers.",
-    "ai_processed": true
-  },
-  {
-    "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-    "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-    "date_published": "2026-10-13",
-    "description": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
-    "source_id": "techcrunch_commerce",
-    "source_name": "TechCrunch Commerce",
-    "source_url": "https://techcrunch.com/category/commerce/feed",
-    "categories": [
-      "commerce",
-      "agentic_commerce",
-      "tech"
-    ],
-    "relevance_score": 0.95,
-    "relevance_label": "high",
-    "title_en": "American Express Introduces Framework to Prevent AI Agents from Making Unauthorized Purchases",
-    "summary_ko": "아메리칸 익스프레스(Amex)가 AI 에이전트가 사용자의 명시적 승인 없이 구매를 실행하지 못하도록 방지하는 새로운 프레임워크를 도입했다. 이 프레임워크는 AI 기반 쇼핑이 성장함에 따라 발생할 수 있는 비용 오류와 분쟁을 사전에 방지하기 위해 설계되었다. AI 에이전트의 자율 구매 행동에 대한 신뢰와 안전을 확보하는 것이 에이전틱 커머스 성장의 핵심 과제임을 보여주는 사례다.",
-    "summary_en": "American Express has introduced a new framework designed to ensure AI agents only execute purchases that have been explicitly authorized by users, addressing growing concerns around AI-powered shopping errors and disputes. As AI agents increasingly act on behalf of consumers in commerce, the risk of unauthorized or mistaken transactions is becoming a critical issue for the financial services industry. The Amex framework represents an early industry effort to establish guardrails for agentic commerce at the payment infrastructure level.",
-    "so_what_ko": "LG D2C는 AI 에이전트 기반 쇼핑 기능을 도입할 때, Amex와 같은 결제 인프라 수준의 승인 프레임워크와 연동해 소비자 신뢰와 거래 안전성을 동시에 확보해야 한다.",
-    "so_what_en": "As LG D2C explores agentic commerce capabilities, integrating with payment-level authorization frameworks like Amex's will be essential to building consumer trust and preventing costly transaction disputes.",
-    "key_points": [
-      "American Express is launching a framework to ensure AI agents only make user-authorized purchases",
-      "The initiative directly addresses unauthorized transaction risks as AI-powered shopping scales",
-      "This signals that financial infrastructure is beginning to build safety rails for agentic commerce",
-      "Trust and authorization mechanisms will be critical for widespread adoption of AI shopping agents"
-    ],
-    "tags": [
-      "ai-agents",
-      "agentic-commerce",
-      "payment-security",
-      "authorization",
-      "american-express"
-    ],
-    "confidence": 0.85,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "GLOBAL",
-      "AMER"
     ],
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "American Express",
-      "Amex"
+      "Practical Ecommerce"
     ],
-    "one_line_insight_ko": "Amex의 AI 에이전트 구매 승인 프레임워크는 에이전틱 커머스의 신뢰 인프라 구축이 본격화됐음을 알리는 신호탄이다.",
-    "one_line_insight_en": "Amex's AI agent authorization framework marks the beginning of trust infrastructure for agentic commerce at the payment layer.",
+    "one_line_insight_ko": "에이전틱 체크아웃과 AI 마케팅 툴의 확산은 D2C 사업자의 구매 자동화 및 전환율 혁신을 가속화하고 있다.",
+    "one_line_insight_en": "The proliferation of agentic checkout and AI marketing tools is accelerating purchase automation and conversion innovation for D2C brands.",
     "ai_processed": true
   },
   {
-    "title": "Flo and Motorway’s Playbook for Getting Cited by AI",
-    "link": "https://www.adweek.com/media/flo-and-motorways-playbook-for-getting-cited-by-ai/",
-    "date_published": "2026-10-13",
-    "description": "At Semrush Spotlight, Flo described a dedicated AI discovery role and Motorway said its content gets cited within 24 hours on LLMs",
+    "title": "Distribution Solutions Group to acquire GradeEight, gaining Winzer and FastServ Supply operations",
+    "link": "https://www.digitalcommerce360.com/2026/10/13/distribution-solutions-group-to-acquire-gradeeight-gaining-winzer-and-fastserv-supply-operations/",
+    "date_published": "2026-10-14",
+    "description": "Distribution Solutions Group Inc. plans to expand its sales reach — both online and in physical stores — with the acquisition of GradeEight Holdings LLC. GradeEight, which distributes maintenance, repair and operations (MRO) distribution products through Winzer Corporation FastServ Supply, works with 270 franchisees across the U.S., according to the companies’ announcement. The acquisition comes […]\nThe post Distribution Solutions Group to acquire GradeEight, gaining Winzer and FastServ Supply operations appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.35,
+    "relevance_label": "high",
+    "title_en": "Distribution Solutions Group Acquires GradeEight to Expand Online and In-Store MRO Distribution",
+    "summary_ko": "Distribution Solutions Group(DSG)이 GradeEight Holdings를 인수하며 Winzer Corporation과 FastServ Supply의 MRO 유통 네트워크를 확보했다. GradeEight는 미국 전역 270개 프랜차이즈를 통해 유지·보수·운영(MRO) 제품을 유통하는 기업이다. 이번 인수를 통해 DSG는 온라인 및 오프라인 판매 채널을 동시에 확장할 계획이다.",
+    "summary_en": "Distribution Solutions Group (DSG) announced its acquisition of GradeEight Holdings LLC, gaining access to MRO distribution brands Winzer Corporation and FastServ Supply. GradeEight operates through 270 franchisees across the United States, providing maintenance, repair, and operations products. The deal is intended to expand DSG's sales reach across both online and physical store channels.",
+    "so_what_ko": "이번 인수는 산업재 D2C 유통 시장에서 온오프라인 통합 전략의 중요성을 보여주며, LG는 B2B 및 MRO 분야 디지털 채널 전략을 재점검할 필요가 있다.",
+    "so_what_en": "This acquisition underscores the importance of omnichannel integration in industrial D2C distribution, prompting LG to review its digital channel strategy in B2B and MRO-adjacent segments.",
+    "key_points": [
+      "DSG가 GradeEight 인수를 통해 MRO 유통 네트워크 및 프랜차이즈 역량 확보",
+      "온라인과 오프라인 채널을 동시에 강화하는 통합 유통 전략 추진",
+      "미국 내 270개 프랜차이즈 기반의 광범위한 물리적 유통망 확보"
+    ],
+    "tags": [
+      "mro-distribution",
+      "acquisition",
+      "omnichannel",
+      "b2b-commerce",
+      "franchising"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Distribution Solutions Group",
+      "GradeEight Holdings",
+      "Winzer Corporation",
+      "FastServ Supply"
+    ],
+    "one_line_insight_ko": "MRO 유통 시장에서 온오프라인 통합 인수 전략이 가속화되고 있어 산업재 D2C 채널 경쟁 구도가 변화하고 있다.",
+    "one_line_insight_en": "Omnichannel consolidation in MRO distribution signals intensifying competition in industrial D2C channels.",
+    "ai_processed": true
+  },
+  {
+    "title": "Stagwell Wins ServiceNow in the Largest Multi-Agency Deal in Its History",
+    "link": "https://www.adweek.com/agencies/stagwell-wins-servicenow-in-the-largest-multi-agency-deal-in-its-history/",
+    "date_published": "2026-10-14",
+    "description": "The joint venture aims to streamline AI-powered marketing workflows.",
     "source_id": "adweek",
     "source_name": "Adweek",
     "source_url": "https://www.adweek.com/feed",
@@ -198,27 +107,315 @@
       "ai_marketing",
       "strategy"
     ],
-    "relevance_score": 0.88,
+    "relevance_score": 0.75,
     "relevance_label": "high",
-    "title_en": "How Flo and Motorway Are Getting Their Content Cited by AI with Dedicated Discovery Strategies",
-    "summary_ko": "Flo와 Motorway는 LLM(대형 언어 모델)에서 자사 콘텐츠가 인용되도록 하기 위한 전용 AI 검색 전략을 개발하고 있다. Flo는 AI 검색 노출을 담당하는 전담 'AI 디스커버리' 역할을 신설했으며, Motorway는 콘텐츠가 LLM에서 24시간 이내에 인용된다고 밝혔다. 이는 AI 검색이 기존 SEO를 대체하거나 보완하는 새로운 마케팅 전쟁터로 부상하고 있음을 보여준다.",
-    "summary_en": "Flo and Motorway shared their strategies for getting brand content cited by AI language models, at the Semrush Spotlight event. Flo has created a dedicated 'AI discovery' role to manage and optimize visibility within LLM outputs, while Motorway claims its content is being cited by LLMs within 24 hours of publication. These approaches signal the emergence of a new discipline in content marketing focused on AI citation and discoverability.",
-    "so_what_ko": "LG D2C는 기존 SEO 전략 외에 LLM 인용 최적화를 위한 전담 역할 또는 프로세스를 수립하여, AI 검색 시대에도 브랜드 콘텐츠의 가시성을 유지해야 한다.",
-    "so_what_en": "LG D2C should establish dedicated AI discovery capabilities alongside traditional SEO to ensure brand content remains visible and cited as consumers increasingly rely on LLMs for product research and recommendations.",
+    "title_en": "Stagwell Wins Largest Multi-Agency Deal in Its History with ServiceNow to Streamline AI Marketing Workflows",
+    "summary_ko": "Stagwell이 ServiceNow와의 대규모 멀티에이전시 계약을 수주하며 자사 역사상 최대 규모의 딜을 성사시켰다. 이번 합작은 AI 기반 마케팅 워크플로우 간소화를 핵심 목표로 한다. ServiceNow의 워크플로우 플랫폼과 Stagwell의 마케팅 역량이 결합해 엔터프라이즈 AI 마케팅 운영 효율화를 추진할 예정이다.",
+    "summary_en": "Stagwell secured a landmark multi-agency deal with ServiceNow, marking the largest single contract in the agency group's history. The joint venture is focused on streamlining AI-powered marketing workflows for enterprise clients. The partnership combines ServiceNow's workflow automation platform with Stagwell's marketing capabilities to drive operational efficiency.",
+    "so_what_ko": "LG D2C 마케팅 조직은 AI 워크플로우 자동화 파트너십 모델을 참고하여 내부 마케팅 운영의 AI 전환 속도를 높여야 한다.",
+    "so_what_en": "LG D2C marketing teams should benchmark this AI workflow partnership model to accelerate the internal AI transformation of marketing operations.",
     "key_points": [
-      "Flo has created a dedicated 'AI discovery' role to optimize brand visibility in LLM outputs",
-      "Motorway reports its content is being cited by LLMs within 24 hours of publication",
-      "AI citation optimization is emerging as a distinct and critical new discipline within content marketing",
-      "Traditional SEO strategies alone are insufficient as AI-driven search becomes dominant"
+      "Stagwell 역사상 최대 규모의 멀티에이전시 계약 체결",
+      "AI 기반 마케팅 워크플로우 자동화가 대형 계약의 핵심 가치 제안으로 부상",
+      "ServiceNow와 마케팅 에이전시 간 협업으로 엔터프라이즈 AI 마케팅 시장 공략"
+    ],
+    "tags": [
+      "ai-marketing",
+      "agency-partnership",
+      "workflow-automation",
+      "servicenow",
+      "stagwell"
+    ],
+    "confidence": 0.65,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Stagwell",
+      "ServiceNow"
+    ],
+    "one_line_insight_ko": "AI 마케팅 워크플로우 자동화가 대형 에이전시 계약의 핵심 경쟁력이 되면서 마케팅 운영 패러다임이 빠르게 전환되고 있다.",
+    "one_line_insight_en": "AI-powered marketing workflow automation is becoming the central competitive differentiator in major agency contracts, signaling a paradigm shift in marketing operations.",
+    "ai_processed": true
+  },
+  {
+    "title": "Brands turn to content series and Jimi Hendrix to improve AI search performance",
+    "link": "https://digiday.com/marketing/brands-turn-to-content-series-and-jimi-hendrix-to-improve-ai-search-performance/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-10-14",
+    "description": "Guitar brand Fender and amp-maker Marshall both recently launched content series aimed, in part, at improving their visibility in AI search answers. It’s part of a greater pattern.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "marketing",
+      "ai_marketing"
+    ],
+    "relevance_score": 0.9,
+    "relevance_label": "high",
+    "title_en": "Brands Like Fender and Marshall Launch Content Series to Boost Visibility in AI Search Results",
+    "summary_ko": "기타 브랜드 Fender와 앰프 제조사 Marshall이 AI 검색 답변에서의 브랜드 노출을 높이기 위해 콘텐츠 시리즈를 출시했다. AI 검색 최적화를 위한 콘텐츠 전략은 기존 SEO와 달리 AI 응답 생성 로직에 맞춰 심층적이고 맥락 풍부한 콘텐츠를 요구한다. 브랜드들이 지미 헨드릭스 같은 문화적 아이콘과 연계한 콘텐츠를 활용하는 것은 AI 검색에서의 연관성과 신뢰도를 높이기 위한 전략적 접근이다.",
+    "summary_en": "Guitar brand Fender and amplifier maker Marshall have launched dedicated content series specifically designed to improve their visibility within AI-generated search answers. This approach reflects a broader industry pattern of brands adapting their content strategy to align with the logic of AI search engines rather than traditional SEO. The use of culturally resonant figures like Jimi Hendrix is part of a strategy to build contextual relevance and authority signals recognized by AI systems.",
+    "so_what_ko": "LG는 AI 검색 최적화를 위한 브랜드 콘텐츠 전략을 재설계하여, 제품 카테고리와 연관된 심층 콘텐츠 시리즈를 통해 AI 검색 답변 내 브랜드 노출을 확대해야 한다.",
+    "so_what_en": "LG should redesign its brand content strategy for AI search optimization by developing in-depth content series tied to product categories to secure visibility within AI-generated search answers.",
+    "key_points": [
+      "Fender와 Marshall이 AI 검색 최적화를 목적으로 한 콘텐츠 시리즈를 전략적으로 론칭",
+      "AI 검색 최적화는 기존 SEO를 넘어 맥락적 연관성과 권위 있는 콘텐츠 구축을 요구",
+      "문화적 아이콘(지미 헨드릭스)과의 연계를 통한 AI 응답 내 브랜드 연상 강화 전략",
+      "브랜드의 AI 검색 대응 콘텐츠 전략이 업계 전반에 확산되는 추세"
     ],
     "tags": [
       "ai-search",
-      "llm-citation",
-      "content-marketing",
-      "ai-discovery",
-      "seo"
+      "content-strategy",
+      "brand-visibility",
+      "seo-evolution",
+      "generative-ai"
+    ],
+    "confidence": 0.78,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Fender",
+      "Marshall",
+      "Jimi Hendrix"
+    ],
+    "one_line_insight_ko": "AI 검색 시대에는 브랜드가 키워드 최적화를 넘어 AI가 신뢰할 수 있는 맥락 풍부한 콘텐츠 시리즈 구축에 집중해야 한다.",
+    "one_line_insight_en": "In the AI search era, brands must move beyond keyword optimization and invest in contextually rich content series that AI systems recognize as authoritative.",
+    "ai_processed": true
+  },
+  {
+    "title": "Publicis calls AI marketing opportunity a ‘2-speed boat’ as agentic booms",
+    "link": "https://www.marketingdive.com/news/publicis-calls-ai-marketing-opportunity-a-2-speed-boat-as-agentic-booms/832836/",
+    "date_published": "2026-10-13",
+    "description": "The firm’s Sapient arm exemplifies AI’s dynamics as it struggles with growth but is instrumental to winning new business without a pitch.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
+    "categories": [
+      "marketing",
+      "ai_marketing",
+      "agentic_commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.92,
+    "relevance_label": "high",
+    "title_en": "Publicis Describes AI Marketing as a '2-Speed Boat' as Agentic Capabilities Drive New Business Wins",
+    "summary_ko": "Publicis는 AI 마케팅 기회를 '2속도 보트'로 비유하며, 에이전틱 AI 역량이 폭발적으로 성장하는 한편 기존 사업 부문은 성장 압박을 받고 있다고 설명했다. Publicis의 Sapient 부문은 자체 성장에는 어려움을 겪고 있지만, 피치 없이 신규 비즈니스를 수주하는 데 핵심적인 역할을 하고 있다. 이는 에이전틱 AI가 마케팅 업계의 비즈니스 수주 방식과 운영 모델을 근본적으로 변화시키고 있음을 시사한다.",
+    "summary_en": "Publicis characterized the AI marketing landscape as a '2-speed boat,' with agentic AI capabilities experiencing explosive growth while some traditional business units face growth headwinds. The firm's Sapient arm is struggling with its own growth metrics but has become instrumental in winning new business accounts without the need for traditional pitches. This dynamic illustrates how agentic AI is fundamentally reshaping business development and operating models within the marketing industry.",
+    "so_what_ko": "LG D2C는 에이전틱 AI 역량이 마케팅 파트너 선정의 핵심 기준이 되는 시대에 대비하여, 내부 에이전틱 AI 도입 로드맵을 조속히 수립하고 외부 파트너 역량을 평가하는 기준을 재정립해야 한다.",
+    "so_what_en": "LG D2C should urgently establish an internal agentic AI adoption roadmap and redefine criteria for evaluating marketing partners as agentic capabilities become the key differentiator in the industry.",
+    "key_points": [
+      "Publicis가 AI 마케팅을 '2속도 보트'로 묘사 — 에이전틱 AI 고성장과 전통 사업 정체의 양극화",
+      "Sapient 부문이 피치 없이 신규 비즈니스를 수주하는 데 에이전틱 AI가 결정적 역할",
+      "에이전틱 AI가 마케팅 에이전시의 비즈니스 개발 및 운영 모델을 근본적으로 재편",
+      "AI 역량 보유 여부가 대형 마케팅 계약 수주의 핵심 경쟁 변수로 부상"
+    ],
+    "tags": [
+      "agentic-ai",
+      "publicis",
+      "ai-marketing",
+      "agency-transformation",
+      "business-development"
     ],
     "confidence": 0.8,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Publicis",
+      "Sapient"
+    ],
+    "one_line_insight_ko": "에이전틱 AI 역량이 마케팅 업계의 신규 비즈니스 수주를 좌우하는 핵심 무기로 자리잡으면서, AI 전환 속도가 기업 경쟁력을 결정하는 시대가 열렸다.",
+    "one_line_insight_en": "Agentic AI capabilities are becoming the decisive weapon for winning new marketing business, making the speed of AI transformation a primary determinant of competitive advantage.",
+    "ai_processed": true
+  },
+  {
+    "title": "Brands Briefing: As AI reshapes retail, brands are investing even more in stores",
+    "link": "https://www.modernretail.co/operations/brands-briefing-as-ai-reshapes-retail-brands-are-investing-even-more-in-stores/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-10-13",
+    "description": "Executives at Rhone, Anthropologie, Kohl's, Brunt and Crocs weigh in on why brick-and-mortar is still standing strong heading into 2027.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.65,
+    "relevance_label": "high",
+    "title_en": "Brands Double Down on Physical Stores Even as AI Reshapes Retail Landscape",
+    "summary_ko": "Rhone, Anthropologie, Kohl's, Brunt, Crocs 등 주요 브랜드 임원들은 AI가 리테일을 재편하는 가운데도 2027년을 앞두고 오프라인 매장에 대한 투자를 강화하고 있다고 밝혔다. AI 도입이 가속화되는 상황에서도 물리적 매장은 브랜드 경험과 고객 접점으로서 여전히 핵심적인 역할을 유지하고 있다. 브랜드들은 디지털과 오프라인의 통합 전략을 통해 AI 기술을 매장 운영에 접목하는 방식을 모색 중이다.",
+    "summary_en": "Executives from Rhone, Anthropologie, Kohl's, Brunt, and Crocs are doubling down on brick-and-mortar investment heading into 2027, even as AI continues to reshape the retail industry. Physical stores remain a critical channel for brand experience and customer engagement despite accelerating AI adoption. These brands are exploring ways to integrate AI technologies into store operations while maintaining a strong offline presence.",
+    "so_what_ko": "LG D2C 조직은 AI 기술 투자와 동시에 오프라인 매장을 브랜드 경험의 핵심 거점으로 강화하는 옴니채널 전략을 병행해야 하며, 매장 내 AI 활용(개인화 추천, 재고 최적화 등)으로 차별화를 꾀할 수 있다.",
+    "so_what_en": "LG D2C should pursue an omnichannel strategy that strengthens physical stores as brand experience hubs while integrating AI capabilities such as personalized recommendations and inventory optimization to differentiate from pure-play digital competitors.",
+    "key_points": [
+      "주요 브랜드들이 AI 시대에도 오프라인 매장 투자를 지속 확대 중",
+      "물리적 매장은 브랜드 경험과 고객 신뢰 구축의 핵심 채널로 유지",
+      "AI와 오프라인 매장의 통합이 2027년 리테일의 핵심 전략으로 부상",
+      "Rhone, Crocs 등 D2C 브랜드들이 옴니채널 접근법을 강화"
+    ],
+    "tags": [
+      "brick-and-mortar",
+      "omnichannel",
+      "d2c",
+      "retail-strategy",
+      "ai-commerce"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Rhone",
+      "Anthropologie",
+      "Kohl's",
+      "Brunt",
+      "Crocs"
+    ],
+    "one_line_insight_ko": "AI 리테일 시대에도 오프라인 매장은 브랜드 경험의 핵심 거점으로 건재하며, AI와의 통합이 새로운 경쟁력의 원천이 되고 있다.",
+    "one_line_insight_en": "Even in the AI-driven retail era, physical stores remain essential brand experience hubs, and integrating AI into them is becoming a key competitive differentiator.",
+    "ai_processed": true
+  },
+  {
+    "title": "The EU’s next chapter in AI is agentic",
+    "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "date_published": "2026-10-14",
+    "description": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "categories": [
+      "agentic_commerce",
+      "strategy",
+      "tech"
+    ],
+    "relevance_score": 0.82,
+    "relevance_label": "high",
+    "title_en": "OpenAI Analysis Reveals Growing Agentic AI Adoption Across EU Enterprises and SMBs",
+    "summary_ko": "OpenAI의 새로운 분석에 따르면 EU 전역의 대기업과 중소기업 사이에서 에이전틱 AI 도입이 빠르게 증가하고 있으며, 더 깊은 활용을 통해 추가적인 가치를 창출할 수 있는 잠재력이 있다. EU의 AI 다음 장은 자율적으로 작업을 수행하고 복잡한 워크플로를 처리할 수 있는 에이전틱 AI가 주도할 것으로 전망된다. 특히 중소기업 분야에서 에이전틱 AI의 채택이 업무 자동화와 생산성 향상에 기여하는 것으로 나타났다.",
+    "summary_en": "New analysis from OpenAI shows that agentic AI adoption is growing rapidly across both enterprises and small businesses in the EU, with significant untapped potential for deeper integration and value creation. The next chapter of AI in Europe is expected to be defined by agentic systems capable of autonomously executing tasks and handling complex workflows. SMBs in particular are beginning to leverage agentic AI for task automation and productivity gains.",
+    "so_what_ko": "LG D2C는 EU 시장에서 에이전틱 AI를 고객 서비스 자동화, 개인화 마케팅, 주문 처리 워크플로 등에 조기 도입하여 경쟁 우위를 확보하고, 유럽 규제 환경에 맞는 AI 거버넌스 체계를 선제적으로 구축해야 한다.",
+    "so_what_en": "LG D2C should proactively adopt agentic AI for customer service automation, personalized marketing, and order fulfillment workflows in EU markets, while building AI governance frameworks aligned with European regulatory requirements.",
+    "key_points": [
+      "EU 대기업 및 중소기업 전반에서 에이전틱 AI 도입 증가 추세 확인",
+      "에이전틱 AI의 더 깊은 활용을 통한 추가 가치 창출 가능성 존재",
+      "OpenAI가 EU 시장에서의 에이전틱 AI 성장을 공식 분석 자료로 발표",
+      "EU 규제 환경 내에서 에이전틱 AI 확산이 새로운 비즈니스 기회로 부상"
+    ],
+    "tags": [
+      "agentic-ai",
+      "eu-market",
+      "enterprise-ai",
+      "openai",
+      "ai-adoption"
+    ],
+    "confidence": 0.72,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "EMEA"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "OpenAI"
+    ],
+    "one_line_insight_ko": "EU 기업들 사이에서 에이전틱 AI 도입이 가속화되고 있어, 유럽 D2C 시장에서 에이전틱 AI를 선제 도입한 브랜드가 운영 효율성과 고객 경험에서 차별화된 경쟁 우위를 확보할 수 있다.",
+    "one_line_insight_en": "As agentic AI adoption accelerates among EU businesses, brands that deploy agentic systems early in European D2C markets will gain a decisive edge in operational efficiency and customer experience.",
+    "ai_processed": true
+  },
+  {
+    "title": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
+    "link": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
+    "date_published": "2026-10-14",
+    "description": "Gemini 4 Argon went GA today, but we already gave it title story 2 weeks ago and most benchmarks, like CursorBench, simply independently confirm their claims.",
+    "source_id": "latent_space",
+    "source_name": "Latent Space (The AI Index)",
+    "source_url": "https://www.latent.space/feed",
+    "categories": [
+      "tech"
+    ],
+    "relevance_score": 0.42,
+    "relevance_label": "high",
+    "title_en": "Gemini 4 Argon Reaches General Availability, Independent Benchmarks Confirm Performance Claims",
+    "summary_ko": "Google의 Gemini 4 Argon이 정식 출시(GA)되었으며, CursorBench를 포함한 독립적인 벤치마크들이 Google의 성능 주장을 대체로 확인해 주고 있다. Vals AI 벤치마크 등 다양한 평가 도구들이 AI 엔지니어링 커뮤니티에서 모델 성능 비교의 기준으로 활용되고 있다. AI Engineer NYC 행사에서 최신 AI 모델 및 엔지니어링 동향이 논의되었으며, 에이전틱 AI와 코딩 어시스턴트 분야의 발전이 주목을 받았다.",
+    "summary_en": "Google's Gemini 4 Argon has reached general availability, with independent benchmarks including CursorBench largely confirming the company's performance claims. Various evaluation tools such as Vals AI benchmarks are being used by the AI engineering community to compare model capabilities. At the AI Engineer NYC event, the latest AI model developments and engineering trends were discussed, with notable attention on agentic AI and coding assistants.",
+    "so_what_ko": "LG D2C 기술팀은 Gemini 4 Argon의 정식 출시를 계기로 멀티모달 AI 기능을 제품 추천, 콘텐츠 생성, 고객 지원 자동화 등 D2C 워크플로에 통합하는 파일럿을 검토할 수 있다.",
+    "so_what_en": "LG D2C tech teams should evaluate piloting Gemini 4 Argon's multimodal capabilities for D2C workflows such as product recommendations, content generation, and customer support automation following its general availability.",
+    "key_points": [
+      "Gemini 4 Argon이 정식 출시(GA)되며 독립 벤치마크에서 성능 주장 확인",
+      "CursorBench, Vals AI 등 독립적인 AI 벤치마크 도구들이 모델 평가의 표준으로 자리잡는 추세",
+      "AI Engineer NYC에서 에이전틱 AI 및 코딩 어시스턴트 관련 최신 동향 논의"
+    ],
+    "tags": [
+      "gemini",
+      "llm-benchmarks",
+      "google-ai",
+      "ai-engineering",
+      "foundation-models"
+    ],
+    "confidence": 0.65,
+    "strategic_theme": "EMERGING_TECH",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Google",
+      "Gemini 4 Argon",
+      "Vals AI",
+      "CursorBench"
+    ],
+    "one_line_insight_ko": "Gemini 4 Argon의 정식 출시로 고성능 멀티모달 LLM 접근성이 높아졌으며, D2C 비즈니스의 AI 기반 고객 경험 고도화에 활용 가능한 기반이 마련되었다.",
+    "one_line_insight_en": "Gemini 4 Argon's general availability expands access to high-performance multimodal LLMs, providing a new foundation for AI-enhanced customer experiences in D2C businesses.",
+    "ai_processed": true
+  },
+  {
+    "title": "Ikea’s CMO sees LLMs as the newest place a brand has to hold its line",
+    "link": "https://digiday.com/marketing/ikeas-cmo-sees-llms-as-the-newest-place-a-brand-has-to-hold-its-line/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-10-14",
+    "description": "LLMs have widened the brand. Ikea’s CMO thinks the basics still hold.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "ai_marketing",
+      "strategy",
+      "marketing"
+    ],
+    "relevance_score": 0.88,
+    "relevance_label": "high",
+    "title_en": "IKEA's CMO: LLMs Are the Newest Frontier for Brand Integrity and Consistency",
+    "summary_ko": "IKEA의 CMO는 대형 언어 모델(LLM)이 브랜드가 반드시 지켜야 할 새로운 전선이 되었다고 강조하며, AI 시대에도 브랜드의 기본 원칙이 여전히 유효하다고 밝혔다. LLM의 확산으로 브랜드 정체성과 메시지가 AI 생성 콘텐츠를 통해 더 넓게 전파되는 동시에, 브랜드 일관성 유지라는 새로운 과제가 대두되고 있다. IKEA는 LLM 환경에서 브랜드 아이덴티티를 보호하고 강화하기 위한 전략적 접근법을 모색하고 있다.",
+    "summary_en": "IKEA's CMO has identified LLMs as the newest critical frontier where brands must defend their identity and consistency, emphasizing that fundamental brand principles remain relevant in the AI era. The proliferation of LLMs has both widened brand reach through AI-generated content and introduced new challenges around maintaining brand coherence. IKEA is actively developing strategic approaches to protect and reinforce its brand identity within LLM ecosystems.",
+    "so_what_ko": "LG D2C는 ChatGPT, Gemini 등 주요 LLM에서 LG 브랜드가 어떻게 표현되고 있는지 체계적으로 모니터링하고, AI 생성 콘텐츠에서도 브랜드 일관성과 정확성을 유지하기 위한 LLM 브랜드 가이드라인 및 데이터 전략을 수립해야 한다.",
+    "so_what_en": "LG D2C must systematically monitor how the LG brand is represented across major LLMs like ChatGPT and Gemini, and develop LLM-specific brand guidelines and data strategies to ensure brand consistency and accuracy in AI-generated content.",
+    "key_points": [
+      "IKEA CMO가 LLM을 브랜드가 수호해야 할 새로운 핵심 전선으로 규정",
+      "LLM 확산으로 브랜드 도달 범위가 넓어진 동시에 브랜드 일관성 유지 과제 대두",
+      "AI 시대에도 브랜드 기본 원칙의 중요성은 유효하며, LLM 환경 맞춤 전략 필요",
+      "글로벌 선도 브랜드들이 LLM 내 브랜드 정체성 관리를 마케팅 핵심 과제로 인식"
+    ],
+    "tags": [
+      "brand-strategy",
+      "llm-marketing",
+      "brand-integrity",
+      "ikea",
+      "ai-marketing"
+    ],
+    "confidence": 0.75,
     "strategic_theme": "AI_MARKETING",
     "regions": [
       "GLOBAL",
@@ -227,481 +424,296 @@
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Flo",
-      "Motorway",
-      "Semrush"
+      "IKEA"
     ],
-    "one_line_insight_ko": "LLM 인용 최적화는 AI 검색 시대의 새로운 마케팅 필수 역량으로, 브랜드 전담 'AI 디스커버리' 기능 구축이 시급하다.",
-    "one_line_insight_en": "Optimizing for LLM citation is the new SEO, and brands that build dedicated AI discovery capabilities now will own visibility in the AI-search era.",
+    "one_line_insight_ko": "LLM이 브랜드의 새로운 접점이 된 시대에, LG는 AI 생성 환경에서 브랜드 정체성을 능동적으로 관리하는 'LLM 브랜드 전략'을 핵심 마케팅 과제로 설정해야 한다.",
+    "one_line_insight_en": "As LLMs become a critical brand touchpoint, LG must proactively develop an 'LLM brand strategy' to manage and protect its brand identity within AI-generated content ecosystems.",
     "ai_processed": true
   },
   {
-    "title": "Aura Wants to Be the Social Network for People You Love, Not Just a Gift for Grandma",
-    "link": "https://www.adweek.com/creativity/aura-wants-to-be-the-social-network-for-people-you-love-not-just-a-gift-for-grandma/",
+    "title": "Where has the aspirational luxury consumer gone?",
+    "link": "https://www.retaildive.com/news/where-has-aspirational-luxury-consumer-gone/832365/",
     "date_published": "2026-10-13",
-    "description": "With its largest-ever campaign, Aura wants to turn a popular gift into an everyday way to stay close.",
-    "source_id": "adweek",
-    "source_name": "Adweek",
-    "source_url": "https://www.adweek.com/feed",
-    "categories": [
-      "marketing",
-      "ai_marketing"
-    ],
-    "relevance_score": 0.45,
-    "relevance_label": "high",
-    "title_en": "Aura Frames Launches Biggest-Ever Campaign to Reposition as an Everyday Social Network for Loved Ones",
-    "summary_ko": "디지털 액자 브랜드 Aura는 역대 최대 규모의 마케팅 캠페인을 통해 제품 이미지를 단순한 선물용 기기에서 가족·지인과의 일상적 소통 플랫폼으로 전환하려 하고 있다. 이 캠페인은 Aura를 소셜 네트워크 개념으로 재정의하며 더 넓은 소비자층을 공략하는 것을 목표로 한다. 원문에서 구체적인 캠페인 채널이나 예산 수치는 확인되지 않는다.",
-    "summary_en": "Aura, a digital photo frame brand, is launching its largest-ever marketing campaign to reposition itself from a popular gift item into an everyday social network for close relationships. The campaign aims to broaden the product's appeal beyond the typical gifting occasion and establish habitual daily usage. Specific campaign channels and budget figures are not confirmed in the source.",
-    "so_what_ko": "D2C 브랜드는 제품 카테고리를 재정의하는 브랜드 스토리텔링을 통해 구매 빈도와 고객 생애 가치를 높일 수 있으며, LG도 가전 제품을 '연결된 일상 경험' 플랫폼으로 포지셔닝하는 전략을 검토할 수 있다.",
-    "so_what_en": "D2C brands can increase purchase frequency and lifetime value by reframing product narratives; LG could explore positioning its home appliances as platforms for connected everyday experiences rather than one-time purchases.",
-    "key_points": [
-      "Aura is repositioning from a gifting product to an everyday social connectivity platform",
-      "The brand is running its largest marketing campaign to date to drive this perception shift",
-      "The strategy targets habitual daily use rather than seasonal or occasion-based purchases"
-    ],
-    "tags": [
-      "brand-repositioning",
-      "d2c-marketing",
-      "social-network",
-      "digital-frames",
-      "campaign-strategy"
-    ],
-    "confidence": 0.55,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Aura"
-    ],
-    "one_line_insight_ko": "Aura의 브랜드 재포지셔닝 사례는 하드웨어 제품을 '지속적 관계 플랫폼'으로 전환하는 D2C 스토리텔링 전략의 가능성을 보여준다.",
-    "one_line_insight_en": "Aura's repositioning effort illustrates how hardware brands can extend lifetime value by reframing products as ongoing relationship platforms rather than one-time gifts.",
-    "ai_processed": true
-  },
-  {
-    "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-    "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-    "date_published": "2026-10-13",
-    "description": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "description": "High-end brands have raised their prices in the post-pandemic economy. They’re selling less in part because fewer consumers can afford them.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
     "categories": [
       "commerce",
-      "agentic_commerce",
       "strategy"
     ],
-    "relevance_score": 0.92,
+    "relevance_score": 0.48,
     "relevance_label": "high",
-    "title_en": "American Express Introduces Framework to Prevent Unauthorized Purchases by AI Agents",
-    "summary_ko": "아메리칸 익스프레스(Amex)는 AI 에이전트가 사용자의 명시적 승인 없이 구매를 실행하지 못하도록 방지하는 새로운 프레임워크를 도입한다고 발표했다. 이 프레임워크는 AI 기반 쇼핑이 확대되면서 발생할 수 있는 비용 손실 및 분쟁을 사전에 예방하기 위해 설계되었다. AI 에이전트 커머스의 보안과 신뢰 기반 구축이 업계 전반의 주요 과제로 떠오르고 있음을 보여주는 사례다.",
-    "summary_en": "American Express has announced a new framework designed to ensure AI agents only execute purchases that have been explicitly authorized by their human users. The initiative aims to prevent costly errors and disputes as AI-powered autonomous shopping becomes more prevalent. This move highlights the growing industry need to establish trust and governance standards within agentic commerce ecosystems.",
-    "so_what_ko": "LG D2C는 AI 에이전트 기반 쇼핑 채널을 도입할 때 결제 승인 프레임워크와 소비자 보호 메커니즘을 사전에 설계해야 하며, Amex와 같은 금융 파트너십을 통해 신뢰 기반의 에이전틱 커머스 경험을 구축할 수 있다.",
-    "so_what_en": "As LG D2C explores agentic commerce channels, it should proactively design purchase authorization safeguards and consider partnerships with financial infrastructure players like Amex to ensure consumer trust and reduce dispute risks.",
+    "title_en": "Aspirational Luxury Consumers Are Retreating as Post-Pandemic Price Hikes Erode Affordability",
+    "summary_ko": "팬데믹 이후 고가 브랜드들의 가격 인상이 잇따르면서 과거 명품을 갈망하던 '어스피레이셔널 소비자'들이 시장에서 이탈하고 있다. 고급 브랜드들은 가격 인상으로 인해 판매량이 감소하고 있으며, 이는 해당 소비자층의 구매력 약화와 직결되어 있다. 럭셔리 시장은 초부유층 소비자에게 더욱 집중되는 양극화 현상이 심화되고 있으며, 중간 가격대 프리미엄 브랜드들도 전략 재편을 고민해야 하는 상황이다.",
+    "summary_en": "Aspirational luxury consumers are retreating from the high-end market as major brands have raised prices significantly in the post-pandemic economy, making products less accessible to a key consumer segment. High-end brands are experiencing declining sales volumes partly because fewer consumers can afford their elevated price points. The luxury market is increasingly polarizing toward ultra-wealthy consumers, forcing mid-tier premium brands to reconsider their positioning strategies.",
+    "so_what_ko": "LG D2C는 프리미엄 제품 포지셔닝 시 가격 접근성과 브랜드 가치 사이의 균형을 재점검하고, 가격 민감도가 높아진 어스피레이셔널 소비자층을 위한 유연한 가격 전략(구독, 할부, 번들 등)을 검토해야 한다.",
+    "so_what_en": "LG D2C should reassess the balance between price accessibility and brand value in premium product positioning, and explore flexible pricing strategies such as subscriptions, installment plans, and bundling to retain aspirational consumers with heightened price sensitivity.",
     "key_points": [
-      "Amex is building a governance framework specifically for AI agent-initiated transactions",
-      "The framework addresses the risk of unauthorized or erroneous purchases in agentic commerce scenarios",
-      "This signals that financial institutions are becoming active players in shaping agentic commerce standards",
-      "Trust and authorization infrastructure is emerging as a critical enabler for AI shopping adoption"
+      "팬데믹 이후 럭셔리 브랜드의 가격 인상으로 어스피레이셔널 소비자층 이탈 가속화",
+      "고가 브랜드들의 판매량 감소가 구매력 약화된 소비자층과 직접 연관",
+      "럭셔리 시장이 초부유층 중심으로 양극화되며 중간 프리미엄 브랜드 전략 재편 필요",
+      "가격 접근성과 프리미엄 포지셔닝의 균형이 브랜드 성장의 핵심 과제로 부상"
     ],
     "tags": [
-      "agentic-commerce",
-      "ai-agents",
-      "payment-security",
-      "american-express",
-      "authorization-framework"
+      "luxury-retail",
+      "consumer-behavior",
+      "pricing-strategy",
+      "premium-market",
+      "d2c"
     ],
-    "confidence": 0.85,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "GLOBAL",
-      "AMER"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "American Express",
-      "Amex"
-    ],
-    "one_line_insight_ko": "Amex의 AI 에이전트 구매 승인 프레임워크는 에이전틱 커머스 시대에 신뢰와 보안 인프라가 결제만큼 중요한 경쟁 요소가 됨을 시사한다.",
-    "one_line_insight_en": "Amex's AI agent authorization framework signals that trust and security infrastructure will be as critical as payment rails in the emerging agentic commerce era.",
-    "ai_processed": true
-  },
-  {
-    "title": "Ross opens 51 new stores",
-    "link": "https://www.retaildive.com/news/ross-opens-51-new-stores/832721/",
-    "date_published": "2026-10-12",
-    "description": "The off-price retailer completed its fiscal year 2026 store growth plan of opening 115 new locations, including its first in Massachusetts.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "commerce"
-    ],
-    "relevance_score": 0.25,
-    "relevance_label": "high",
-    "title_en": "Ross Stores Completes FY2026 Expansion Plan with 51 New Store Openings",
-    "summary_ko": "오프프라이스 유통업체 Ross Stores는 2026 회계연도 목표였던 115개 신규 매장 오픈 계획을 완료했으며, 이번에 51개 매장을 추가 개점했다. 이번 확장에는 매사추세츠주 첫 진출도 포함되어 있어 지리적 범위가 넓어졌다. 이는 오프프라이스 리테일 업태가 여전히 물리적 확장을 통한 성장 전략을 추구하고 있음을 보여준다.",
-    "summary_en": "Off-price retailer Ross Stores completed its fiscal year 2026 store growth plan by opening 51 new locations, reaching a total of 115 new stores for the year. The expansion includes the company's first store in Massachusetts, marking new geographic territory. This demonstrates that off-price retail continues to pursue aggressive physical store expansion as a primary growth strategy.",
-    "so_what_ko": "오프프라이스 리테일의 지속적인 물리적 확장은 D2C 온라인 채널에 대한 간접적 경쟁 압력을 시사하며, LG D2C는 가격 경쟁력과 온라인 전용 가치 제안을 강화해야 한다.",
-    "so_what_en": "The continued brick-and-mortar expansion of off-price retailers signals competitive pressure on D2C digital channels, reinforcing the need for LG D2C to sharpen its online-exclusive value propositions and pricing strategy.",
-    "key_points": [
-      "Ross completed its FY2026 target of 115 new store openings",
-      "51 new stores were opened in this latest batch, including Ross's first Massachusetts location",
-      "Off-price retail continues to show strong confidence in physical store expansion"
-    ],
-    "tags": [
-      "retail-expansion",
-      "off-price-retail",
-      "brick-and-mortar",
-      "ross-stores",
-      "store-growth"
-    ],
-    "confidence": 0.9,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Ross Stores"
-    ],
-    "one_line_insight_ko": "Ross의 공격적인 오프프라이스 매장 확장은 경기 불확실성 속에서도 가치 소비 채널에 대한 소비자 수요가 건재함을 보여준다.",
-    "one_line_insight_en": "Ross's aggressive off-price expansion underscores enduring consumer demand for value-oriented retail even amid economic uncertainty.",
-    "ai_processed": true
-  },
-  {
-    "title": "Spirit Halloween to transform dozens of locations to Spirit Christmas",
-    "link": "https://www.retaildive.com/news/spirit-halloween-store-openings-spirit-christmas-2026/832675/",
-    "date_published": "2026-10-12",
-    "description": "The spooky retailer will expand its Christmas concept, now in its third year, to 44 locations this season.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "commerce"
-    ],
-    "relevance_score": 0.2,
-    "relevance_label": "high",
-    "title_en": "Spirit Halloween Expands Spirit Christmas Concept to 44 Locations in Its Third Year",
-    "summary_ko": "Spirit Halloween은 계절 한정 팝업 리테일 모델을 확장해 3년째를 맞이하는 Spirit Christmas 콘셉트를 올 시즌 44개 매장에서 운영한다. 이는 할로윈 전문 시즌 리테일러가 크리스마스 시즌으로 사업 영역을 넓히는 전략적 다각화 사례다. 원문에서 구체적인 매장 위치나 매출 목표 수치는 확인되지 않는다.",
-    "summary_en": "Spirit Halloween is expanding its Spirit Christmas concept to 44 locations this season, marking the third year of the holiday retail initiative. The move represents a strategic diversification by the seasonal pop-up retailer to extend its business model beyond the Halloween period. Specific store locations and revenue targets are not confirmed in the source.",
-    "so_what_ko": "시즌 팝업 리테일의 카테고리 확장 전략은 D2C 브랜드에게 계절별 캠페인 기획과 한정 경험 마케팅의 중요성을 상기시키며, LG도 주요 시즌에 맞춘 한정 D2C 프로모션을 강화할 수 있다.",
-    "so_what_en": "The seasonal pop-up model's category extension highlights the value of time-limited experiential retail; LG D2C could leverage seasonal campaign windows with exclusive online promotions to drive urgency and engagement.",
-    "key_points": [
-      "Spirit Christmas is in its third year and expanding to 44 locations",
-      "The concept extends Spirit Halloween's seasonal pop-up model into the Christmas retail season",
-      "This reflects a broader trend of seasonal retailers diversifying to maximize physical footprint utilization"
-    ],
-    "tags": [
-      "seasonal-retail",
-      "pop-up-stores",
-      "retail-diversification",
-      "spirit-halloween",
-      "holiday-commerce"
-    ],
-    "confidence": 0.85,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Spirit Halloween",
-      "Spirit Christmas"
-    ],
-    "one_line_insight_ko": "Spirit Halloween의 크리스마스 시즌 확장은 계절 한정 리테일 모델이 다중 시즌 전략으로 진화하고 있음을 보여준다.",
-    "one_line_insight_en": "Spirit Halloween's Christmas expansion illustrates how seasonal retail models are evolving into multi-holiday strategies to maximize asset utilization.",
-    "ai_processed": true
-  },
-  {
-    "title": "Newegg adds Google UCP checkout integration",
-    "link": "https://www.digitalcommerce360.com/2026/10/12/newegg-adds-google-ucp-checkout-integration/",
-    "date_published": "2026-10-12",
-    "description": "Newegg Commerce Inc. expanded its participation in agentic commerce channels, announcing that it has integrated Google’s Universal Commerce Protocol (UCP) for online checkout. The consumer electronics retailer follows other big names, including Wayfair, Walmart, Macy’s and other merchants, that have supported UCP since Google formally launched it in January. The move means that Newegg-sold products […]\nThe post Newegg adds Google UCP checkout integration appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
-    "categories": [
-      "commerce",
-      "agentic_commerce",
-      "tech"
-    ],
-    "relevance_score": 0.95,
-    "relevance_label": "high",
-    "title_en": "Newegg Integrates Google's Universal Commerce Protocol to Join Growing Agentic Checkout Ecosystem",
-    "summary_ko": "소비자 전자제품 유통업체 Newegg가 Google의 UCP(Universal Commerce Protocol)를 온라인 결제에 통합하며 에이전틱 커머스 채널 참여를 공식화했다. Wayfair, Walmart, Macy's 등 대형 유통사들이 Google이 1월 공식 출시한 UCP를 이미 지원하고 있으며, Newegg는 이 흐름에 동참한 최신 사례다. UCP 채택이 주요 전자제품 리테일러로 확산되면서 AI 에이전트 기반 쇼핑 인프라가 빠르게 표준화되고 있다.",
-    "summary_en": "Consumer electronics retailer Newegg has integrated Google's Universal Commerce Protocol (UCP) for online checkout, formally expanding its presence in agentic commerce channels. Newegg joins major retailers including Wayfair, Walmart, and Macy's that have supported UCP since Google officially launched it in January. The growing adoption of UCP signals accelerating standardization of AI agent-driven shopping infrastructure across retail.",
-    "so_what_ko": "LG D2C는 Google UCP 채택을 적극 검토해야 하며, AI 에이전트가 LG 제품을 자동으로 탐색·구매할 수 있는 에이전틱 커머스 인프라 구축을 경쟁사 대비 선제적으로 진행해야 한다.",
-    "so_what_en": "LG D2C should urgently evaluate Google UCP integration to ensure LG products are discoverable and purchasable by AI shopping agents, as delayed adoption risks losing share in the rapidly standardizing agentic commerce channel.",
-    "key_points": [
-      "Newegg has integrated Google's Universal Commerce Protocol (UCP) for checkout",
-      "UCP adoption is expanding across major retailers including Walmart, Wayfair, and Macy's since its January 2026 launch",
-      "This signals UCP is becoming a de facto standard for agentic commerce checkout infrastructure",
-      "Consumer electronics is now a key vertical for agentic commerce channel expansion"
-    ],
-    "tags": [
-      "google-ucp",
-      "agentic-commerce",
-      "ai-shopping",
-      "checkout-integration",
-      "newegg"
-    ],
-    "confidence": 0.9,
-    "strategic_theme": "AI_COMMERCE",
-    "regions": [
-      "GLOBAL",
-      "AMER"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Newegg",
-      "Google",
-      "Universal Commerce Protocol",
-      "Wayfair",
-      "Walmart"
-    ],
-    "one_line_insight_ko": "Google UCP의 주요 전자제품 리테일러 확산은 에이전틱 커머스 결제 표준이 빠르게 자리잡고 있음을 의미하며, LG D2C의 조기 채택이 전략적 우선순위가 되어야 한다.",
-    "one_line_insight_en": "Google UCP's rapid adoption across major electronics and general retailers marks the emergence of an agentic commerce checkout standard that LG D2C must prioritize to remain competitive in AI-driven shopping channels.",
-    "ai_processed": true
-  },
-  {
-    "title": "Edible Brands drives engagement through refresh of loyalty program, app",
-    "link": "https://www.digitalcommerce360.com/2026/10/12/edible-brands-loyalty-program-mobile-app/",
-    "date_published": "2026-10-12",
-    "description": "Edible Brands relaunched its mobile app and loyalty program in late April, and the retailer has since seen meaningful results, according to chief digital officer Erica Randerson. The retailer redesigned its mobile app, which is available on iOS and Android, to “make gifting easier and more intuitive from discovery to checkout,” according to its announcement. […]\nThe post Edible Brands drives engagement through refresh of loyalty program, app appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
-    "categories": [
-      "commerce",
-      "ai_commerce"
-    ],
-    "relevance_score": 0.5,
-    "relevance_label": "high",
-    "title_en": "Edible Brands Boosts Engagement with Redesigned Loyalty Program and Mobile App",
-    "summary_ko": "Edible Brands는 2026년 4월 말 모바일 앱과 로열티 프로그램을 재출시하며 선물 구매 경험을 더 직관적으로 개선했다. 최고 디지털 책임자 Erica Randerson에 따르면 재출시 이후 의미 있는 성과를 거두고 있다. 앱은 iOS와 Android 모두 지원하며, 발견부터 결제까지 전 과정을 간소화하는 데 초점을 맞췄다.",
-    "summary_en": "Edible Brands relaunched its mobile app and loyalty program in late April 2026, redesigning the experience to make gifting easier and more intuitive from discovery to checkout. Chief Digital Officer Erica Randerson reported meaningful engagement results since the relaunch. The app is available on both iOS and Android platforms.",
-    "so_what_ko": "LG D2C 조직은 선물 구매 여정 전반에 걸친 모바일 앱 UX 최적화와 로열티 프로그램 연동이 고객 참여도 향상에 직결됨을 참고해, 자사 앱의 발견-구매-재구매 흐름을 재점검해야 한다.",
-    "so_what_en": "LG D2C should consider auditing its own mobile app and loyalty program UX to streamline the end-to-end gifting and repurchase journey, taking cues from Edible Brands' redesign approach.",
-    "key_points": [
-      "모바일 앱을 iOS·Android 양 플랫폼에서 전면 재설계하여 선물 구매 흐름 간소화",
-      "로열티 프로그램 개편을 앱 재출시와 동시에 진행해 참여도 제고",
-      "최고 디지털 책임자가 재출시 이후 '의미 있는 성과' 달성을 공식 확인"
-    ],
-    "tags": [
-      "loyalty-program",
-      "mobile-app",
-      "customer-engagement",
-      "d2c",
-      "gifting"
-    ],
-    "confidence": 0.6,
+    "confidence": 0.68,
     "strategic_theme": "CUSTOMER_EXPERIENCE",
     "regions": [
+      "GLOBAL",
       "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "THREAT",
+    "key_entities": [],
+    "one_line_insight_ko": "럭셔리 시장의 가격 양극화로 어스피레이셔널 소비자가 이탈하는 가운데, LG 프리미엄 D2C는 가격 접근성과 브랜드 가치를 동시에 충족하는 유연한 가격 모델 개발이 시급하다.",
+    "one_line_insight_en": "As aspirational consumers exit the luxury market due to pricing polarization, LG's premium D2C business urgently needs flexible pricing models that deliver brand value without sacrificing accessibility.",
+    "ai_processed": true
+  },
+  {
+    "title": "Higgsfield takes AI video from 1 minute to over 10",
+    "link": "https://openai.com/index/higgsfield-longer-videos-voice",
+    "date_published": "2026-10-13",
+    "description": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "categories": [
+      "marketing",
+      "tech"
+    ],
+    "relevance_score": 0.62,
+    "relevance_label": "high",
+    "title_en": "Higgsfield Extends AI Video Creation to 10+ Minutes Using GPT-6 Astra and GPT-Image-2.5",
+    "summary_ko": "Higgsfield는 GPT-6 Astra를 활용해 AI 영상 생성 길이를 기존 1분에서 10분 이상으로 확장했다. GPT-Image-2.5를 통해 정밀한 비주얼 제어가 가능해졌으며, GPT-Live를 통한 음성 기반 영상 제작 경로도 열렸다. 이는 크리에이터들이 더 긴 형식의 콘텐츠를 AI로 제작할 수 있는 가능성을 크게 넓힌 것이다.",
+    "summary_en": "Higgsfield has expanded AI video generation capabilities from 1 minute to over 10 minutes using GPT-6 Astra. The platform also integrates GPT-Image-2.5 for more precise visual control and GPT-Live to enable voice-driven filmmaking workflows. These advances significantly lower the barrier for creators to produce long-form AI-generated video content.",
+    "so_what_ko": "LG D2C 마케팅팀은 이 기술을 활용해 제품 시연, 브랜드 스토리텔링, 고객 교육용 장편 영상 콘텐츠를 낮은 비용으로 신속하게 제작할 수 있다.",
+    "so_what_en": "LG D2C marketing teams could leverage this technology to rapidly produce long-form product demos, brand storytelling, and customer education videos at significantly reduced production cost.",
+    "key_points": [
+      "AI 영상 생성 한계가 1분에서 10분 이상으로 확대",
+      "GPT-Image-2.5로 정밀한 비주얼 제어 가능",
+      "GPT-Live를 통해 음성 기반 영상 제작 워크플로우 지원"
+    ],
+    "tags": [
+      "ai-video",
+      "content-creation",
+      "generative-ai",
+      "gpt-6"
+    ],
+    "confidence": 0.65,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL"
     ],
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Edible Brands",
-      "Erica Randerson"
+      "Higgsfield",
+      "GPT-6 Astra",
+      "GPT-Image-2.5",
+      "GPT-Live",
+      "OpenAI"
     ],
-    "one_line_insight_ko": "선물 구매 여정에 최적화된 앱·로열티 프로그램 통합 재설계가 D2C 고객 참여도를 실질적으로 높일 수 있다.",
-    "one_line_insight_en": "Redesigning a mobile app and loyalty program around a specific use case like gifting can drive measurable D2C engagement gains.",
+    "one_line_insight_ko": "AI 영상 생성이 10분 이상으로 확장되며 브랜드 콘텐츠 제작의 비용·시간 장벽이 획기적으로 낮아지고 있다.",
+    "one_line_insight_en": "AI video generation breaching the 10-minute mark signals a new era of low-cost, scalable long-form brand content creation.",
     "ai_processed": true
   },
   {
-    "title": "Open models have real benefits. Do they outweigh the risks?",
-    "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+    "title": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics",
+    "link": "https://www.latent.space/p/dyna",
     "date_published": "2026-10-13",
-    "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. The report’s core concern is that the…",
-    "source_id": "mit_tech_review_ai",
-    "source_name": "MIT Technology Review (AI)",
-    "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+    "description": "Our first robotics pod with Dyna’s Chief Scientist on their big bet on World Action Models & the Next Frontier of Physical AI",
+    "source_id": "latent_space",
+    "source_name": "Latent Space (The AI Index)",
+    "source_url": "https://www.latent.space/feed",
     "categories": [
-      "tech",
-      "strategy"
+      "tech"
     ],
-    "relevance_score": 0.45,
+    "relevance_score": 0.35,
     "relevance_label": "high",
-    "title_en": "Open AI Models Offer Real Benefits But Raise Significant Security Risks",
-    "summary_ko": "Anthropic이 공개 AI 모델 GLM-5.3이 주요 사이버 공격 위험을 초래한다는 보고서를 발표하며 오픈 모델의 안전성 논쟁이 재점화됐다. 오픈 모델은 접근성과 혁신 가속이라는 실질적 이점을 제공하지만, 악용 가능성이라는 리스크도 함께 존재한다. MIT Technology Review는 이 복잡한 트레이드오프를 심층 분석하며 업계와 정책 입안자들의 판단을 돕고자 한다.",
-    "summary_en": "Anthropic released a report arguing that the open model GLM-5.3 poses a major cyberattack risk, reigniting debate over the safety of open AI models. Open models provide tangible benefits including accessibility and accelerated innovation, but also carry meaningful risks of misuse. MIT Technology Review examines this complex trade-off to help stakeholders navigate the evolving landscape.",
-    "so_what_ko": "LG D2C가 AI 마케팅·커머스 솔루션에 오픈 모델을 도입할 때는 보안 취약성과 규제 리스크를 사전에 평가하는 내부 거버넌스 체계 마련이 필수적이다.",
-    "so_what_en": "LG D2C teams adopting open AI models for marketing or commerce applications must establish internal governance frameworks to assess security vulnerabilities and regulatory risks before deployment.",
+    "title_en": "Dyna Robotics Unveils Dyna-2: A Physical AI Agent with Hour-Long Autonomous Operation",
+    "summary_ko": "Dyna Robotics는 최대 1시간 자율 작동이 가능한 범용 물리 AI 에이전트 'Dyna-2'를 공개했다. 이 시스템은 World Action Models를 핵심 기반으로 하며, 물리적 AI의 새로운 프론티어를 지향한다. Dyna의 수석 과학자는 이 접근법이 로보틱스 분야에서 범용 에이전트 구현을 위한 중요한 도박이라고 설명했다.",
+    "summary_en": "Dyna Robotics has unveiled Dyna-2, a general-purpose physical AI agent capable of operating autonomously for up to one hour. The system is built on World Action Models, which the company considers the next frontier of physical AI. Dyna's Chief Scientist described this approach as a significant bet on achieving general-purpose robotic agents.",
+    "so_what_ko": "장시간 자율 작동 로보틱스는 LG의 가전·스마트홈 제품 포트폴리오와 연계 가능성이 있으나, D2C 커머스의 직접적 영향은 중장기적 관점에서 모니터링이 필요하다.",
+    "so_what_en": "Long-duration autonomous robotics has potential synergy with LG's home appliance and smart home portfolio, though direct D2C commerce impact should be monitored over the medium to long term.",
     "key_points": [
-      "Anthropic 보고서: 오픈 모델 GLM-5.3이 심각한 사이버 공격 위험을 초래할 수 있다고 경고",
-      "오픈 모델의 이점(접근성, 혁신 속도)과 리스크(악용 가능성) 간 복잡한 트레이드오프 존재",
-      "AI 모델 공개 여부에 관한 업계 및 정책 차원의 논의가 본격화되고 있음"
+      "Dyna-2는 최대 1시간 자율 작동 가능한 범용 물리 AI 에이전트",
+      "World Action Models를 핵심 아키텍처로 채택",
+      "물리 AI의 범용화를 향한 로보틱스 업계 경쟁 가속화 신호"
     ],
     "tags": [
-      "open-source-ai",
-      "ai-safety",
-      "cybersecurity",
-      "ai-governance",
-      "llm"
+      "robotics",
+      "physical-ai",
+      "autonomous-agents",
+      "world-action-models"
     ],
     "confidence": 0.6,
     "strategic_theme": "EMERGING_TECH",
     "regions": [
       "GLOBAL"
     ],
-    "business_impact": "MEDIUM",
+    "business_impact": "LOW",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "Anthropic",
-      "GLM-5.3",
-      "MIT Technology Review"
+      "Dyna Robotics",
+      "Dyna-2",
+      "World Action Models"
     ],
-    "one_line_insight_ko": "오픈 AI 모델 도입의 비용 효율성 이면에 존재하는 사이버 보안 리스크는 기업의 AI 거버넌스 전략 수립을 더욱 시급하게 만든다.",
-    "one_line_insight_en": "The cybersecurity risks embedded in open AI models make robust internal AI governance a non-negotiable prerequisite for enterprise adoption.",
+    "one_line_insight_ko": "물리 AI 에이전트의 장시간 자율 작동 실현은 스마트홈·가전 연계 서비스의 미래 가능성을 예고한다.",
+    "one_line_insight_en": "Hour-long autonomous physical AI agents foreshadow future integration opportunities with smart home and appliance ecosystems.",
     "ai_processed": true
   },
   {
-    "title": "AI labs are buying data from dead startups to train their models",
-    "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+    "title": "[AINews] Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model",
+    "link": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
     "date_published": "2026-10-13",
-    "description": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pending amount (likely around…",
-    "source_id": "mit_tech_review_ai",
-    "source_name": "MIT Technology Review (AI)",
-    "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+    "description": "MSL’s emergence as a frontier lab is finally complete.",
+    "source_id": "latent_space",
+    "source_name": "Latent Space (The AI Index)",
+    "source_url": "https://www.latent.space/feed",
     "categories": [
       "tech",
       "strategy"
     ],
-    "relevance_score": 0.5,
+    "relevance_score": 0.55,
     "relevance_label": "high",
-    "title_en": "AI Labs Are Purchasing Data from Defunct Startups to Train Their Models",
-    "summary_ko": "AI 기업들이 폐업한 스타트업의 데이터를 매입해 모델 학습에 활용하는 새로운 데이터 조달 방식이 등장하고 있다. 한 크립토 스타트업 창업자는 익명 사용자 데이터와 코드베이스를 약 2만 5000달러에 판매하는 등 폐업 기업의 디지털 자산이 새로운 수익원이 되고 있다. 이 트렌드는 AI 학습 데이터 확보 경쟁이 심화되면서 기존 데이터 윤리·프라이버시 규범에 새로운 도전을 제기하고 있다.",
-    "summary_en": "AI labs are acquiring data archives from shutting-down startups to train their models, creating a nascent market for digital assets from defunct companies. One crypto startup founder netted approximately $25,000 by selling his company's codebase and data despite users being anonymous. This trend highlights the intensifying competition for AI training data and raises new questions around data ethics and privacy.",
-    "so_what_ko": "LG D2C는 자사의 고객 데이터와 디지털 자산이 파트너십 해소 또는 벤더 폐업 시 제3자 AI 학습에 무단 활용될 가능성에 대비한 계약 및 데이터 관리 정책을 강화해야 한다.",
-    "so_what_en": "LG D2C must strengthen contractual safeguards and data governance policies to prevent customer data or digital assets from being acquired and repurposed for third-party AI training in the event of vendor shutdowns or partnership dissolutions.",
+    "title_en": "Meta's MSL Reaches Frontier Lab Status with Claude 5.5-Tier Muse Wonder and Wonder Full Models",
+    "summary_ko": "Meta의 MSL(Meta Superintelligence Labs)이 Claude 5.5 수준의 프론티어 모델인 'Muse Wonder'와 'Wonder Full'을 발표하며 선도적 AI 연구소 반열에 올랐다. 이번 공개는 MSL이 OpenAI, Anthropic 등과 경쟁하는 완전한 프론티어 연구소로 자리매김했음을 의미한다. 세부 기술 사항은 원문에서 충분히 확인되지 않으나, 모델 성능 면에서 최고 수준의 경쟁력을 갖춘 것으로 평가된다.",
+    "summary_en": "Meta's MSL (Meta Superintelligence Labs) has announced frontier-tier models 'Muse Wonder' and 'Wonder Full', reportedly at par with Claude 5.5. This release marks MSL's emergence as a fully competitive frontier AI lab alongside OpenAI and Anthropic. Detailed technical specifications are not fully confirmed in the source, but the models are positioned at the highest competitive performance tier.",
+    "so_what_ko": "Meta가 프론티어 AI 모델 경쟁에 본격 참여함에 따라 LG D2C는 다양한 고성능 AI 모델 옵션을 활용해 마케팅·커머스 자동화 전략을 다변화할 기회를 갖게 된다.",
+    "so_what_en": "Meta's entry into the frontier AI model race expands the ecosystem of high-performance models available to LG D2C for marketing automation, personalization, and commerce intelligence.",
     "key_points": [
-      "폐업 스타트업의 코드베이스·사용자 데이터가 AI 학습용으로 거래되는 신규 데이터 시장 형성",
-      "익명 데이터도 AI 학습 목적으로 상당한 금전적 가치를 지닐 수 있음이 확인됨",
-      "AI 학습 데이터 확보 경쟁 심화로 데이터 프라이버시·윤리 이슈가 새로운 국면 진입"
+      "Meta MSL이 Claude 5.5 수준의 'Muse Wonder', 'Wonder Full' 모델 공개",
+      "MSL이 OpenAI, Anthropic에 필적하는 프론티어 AI 연구소로 공식 부상",
+      "AI 모델 경쟁 심화로 기업용 고성능 모델 접근성 향상 전망"
     ],
     "tags": [
-      "ai-training-data",
-      "data-privacy",
-      "ai-ethics",
-      "startup-ecosystem",
-      "data-governance"
+      "meta",
+      "frontier-ai",
+      "large-language-models",
+      "ai-competition"
     ],
-    "confidence": 0.65,
-    "strategic_theme": "DATA_STRATEGY",
+    "confidence": 0.6,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "MEDIUM",
-    "sentiment": "THREAT",
+    "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "MIT Technology Review",
-      "Keelan Miskell"
+      "Meta",
+      "MSL",
+      "Muse Wonder",
+      "Wonder Full",
+      "Anthropic"
     ],
-    "one_line_insight_ko": "폐업 스타트업의 데이터가 AI 학습 자산으로 거래되는 시대, 기업의 데이터 거버넌스 정책은 파트너 생태계 전반으로 확장되어야 한다.",
-    "one_line_insight_en": "As defunct startup data becomes a tradable AI training asset, enterprise data governance must now extend across the entire partner and vendor ecosystem.",
+    "one_line_insight_ko": "Meta MSL의 프론티어 모델 진입으로 AI 모델 경쟁이 심화되며 기업의 선택지와 협상력이 높아지고 있다.",
+    "one_line_insight_en": "Meta MSL's arrival as a frontier lab intensifies AI model competition, expanding enterprise options and bargaining power.",
     "ai_processed": true
   },
   {
-    "title": "Publicis is selling directly to AI-anxious CEOs as it steps away from traditional pitches",
-    "link": "https://digiday.com/media-buying/publicis-is-selling-directly-to-ai-anxious-ceos-as-it-steps-away-from-traditional-pitches/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "title": "Meta joins enterprise agent race with Muse Wonder, facing a trust gap",
+    "link": "https://aibusiness.com/agentic-ai/meta-joins-enterprise-agent-race-with-muse-wonder",
     "date_published": "2026-10-13",
-    "description": "Publicis boss Sadoun says agency group is skipping CMOs in more new business pitches, as Groupe notches up new business wins.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
+    "description": "The company’s new releases point to an AI market becoming more personal, with agents and models completing tasks, but enterprises still aren’t ready for this new phase of AI.",
+    "source_id": "ai_business",
+    "source_name": "AI Business",
+    "source_url": "https://aibusiness.com/rss.xml",
     "categories": [
-      "marketing",
-      "ai_marketing",
-      "strategy"
+      "agentic_commerce",
+      "strategy",
+      "commerce"
     ],
-    "relevance_score": 0.78,
+    "relevance_score": 0.82,
     "relevance_label": "high",
-    "title_en": "Publicis Bypasses CMOs to Pitch AI Solutions Directly to CEOs",
-    "summary_ko": "글로벌 광고 그룹 Publicis의 수장 Sadoun이 새로운 비즈니스 피칭 전략으로 CMO를 건너뛰고 AI에 불안감을 느끼는 CEO들을 직접 공략하고 있다. 이는 AI 전략이 마케팅 부서 차원을 넘어 C-레벨 경영 의제로 부상했음을 반영하는 움직임이다. Publicis는 이 접근법을 통해 신규 비즈니스 수주에서 성과를 거두고 있다고 밝혔다.",
-    "summary_en": "Publicis CEO Sadoun revealed that the agency group is increasingly bypassing CMOs and pitching directly to CEOs who are anxious about AI's impact on their businesses. This shift reflects the elevation of AI strategy from a marketing function to a C-suite boardroom agenda item. Publicis reports tangible new business wins through this direct-to-CEO approach.",
-    "so_what_ko": "LG D2C의 AI 마케팅 및 커머스 전략은 CMO 주도에서 벗어나 CEO 레벨의 의사결정 구조로 격상되어야 하며, AI 도입 논의 시 경영진 전체를 조기에 참여시키는 프로세스가 필요하다.",
-    "so_what_en": "LG D2C should elevate AI commerce and marketing strategy discussions to CEO and C-suite level, ensuring AI transformation is treated as a business-wide imperative rather than a functional marketing initiative.",
+    "title_en": "Meta Enters Enterprise AI Agent Market with Muse Wonder, but Trust Remains a Barrier",
+    "summary_ko": "Meta가 'Muse Wonder'를 앞세워 기업용 AI 에이전트 시장에 진출했으나, 기업들의 신뢰 부족이 여전히 핵심 장벽으로 지목된다. AI 시장은 에이전트와 모델이 실제 업무를 수행하는 보다 개인화된 방향으로 진화하고 있다. 그러나 기업들은 이 새로운 AI 단계를 수용할 준비가 아직 충분하지 않은 것으로 분석된다.",
+    "summary_en": "Meta has entered the enterprise AI agent market with Muse Wonder, but enterprises continue to face a significant trust gap around agentic AI adoption. The broader AI market is evolving toward more personalized agents and models capable of completing complex tasks autonomously. However, enterprises are assessed as not yet ready to fully embrace this new phase of AI deployment.",
+    "so_what_ko": "LG D2C는 AI 에이전트 도입 시 신뢰성·투명성 확보 전략을 선제적으로 구축해야 하며, 경쟁사보다 빠른 기업용 AI 에이전트 신뢰 체계 내재화가 차별화 포인트가 될 수 있다.",
+    "so_what_en": "LG D2C must proactively build trust and transparency frameworks around AI agent adoption, as early movers who address the enterprise trust gap will gain a meaningful competitive advantage.",
     "key_points": [
-      "Publicis가 전통적 CMO 대상 피칭을 축소하고 AI 불안감을 가진 CEO를 직접 공략하는 전략으로 전환",
-      "AI 전략이 마케팅 기능을 넘어 기업 전체의 경영 의제로 격상되는 트렌드를 반영",
-      "CEO 직접 영업 방식이 실제 신규 비즈니스 수주로 이어지는 성과 확인"
+      "Meta, Muse Wonder로 기업용 AI 에이전트 시장 공식 진입",
+      "기업의 AI 에이전트 신뢰 부족이 시장 확산의 핵심 장벽",
+      "AI 시장이 개인화된 에이전트 중심으로 급속히 재편 중",
+      "기업들의 에이전트 AI 수용 준비 수준이 기술 발전 속도에 미치지 못함"
     ],
     "tags": [
-      "publicis",
-      "ai-strategy",
-      "ceo-engagement",
-      "agency-transformation",
-      "ai-marketing"
+      "enterprise-ai",
+      "agentic-ai",
+      "meta",
+      "trust-gap",
+      "ai-agents"
     ],
-    "confidence": 0.7,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "confidence": 0.78,
+    "strategic_theme": "AI_AGENT",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Publicis",
-      "Sadoun"
+      "Meta",
+      "Muse Wonder",
+      "MSL"
     ],
-    "one_line_insight_ko": "AI 불안감을 가진 CEO를 직접 공략하는 Publicis의 전략은 AI 마케팅 파트너십의 의사결정 구조가 CMO에서 CEO로 이동하고 있음을 시사한다.",
-    "one_line_insight_en": "Publicis's CEO-direct pitch strategy signals that AI marketing partnerships are now a boardroom decision, not a CMO-level one.",
+    "one_line_insight_ko": "Meta의 기업용 AI 에이전트 진입은 시장 경쟁을 가속화하지만, 신뢰 격차 해소가 실질적 도입의 선결 조건이다.",
+    "one_line_insight_en": "Meta's enterprise agent push accelerates the market, but closing the trust gap is the critical prerequisite for real-world agentic AI adoption.",
     "ai_processed": true
   },
   {
-    "title": "Media buys and mega partnerships: How the creator economy is splitting in two",
-    "link": "https://digiday.com/podcasts/media-buys-and-mega-partnerships-how-the-creator-economy-is-splitting-in-two/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "title": "What’s New in Service Cloud: 10 Launches That Help Resolve Customer Service Cases Faster",
+    "link": "https://www.salesforce.com/blog/service-cloud-fall-2026-releases/",
     "date_published": "2026-10-13",
-    "description": "There’s a growing bifurcation in the creator economy. While the Alix Earle’s and Mr Beast’s of the world take on the role of agencies, nano and micro creators have become media buys. “Brands are increasingly approaching the space just like they would traditional channels with a media mix that reflects what they’ve done historically,” said […]",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
+    "description": "New capabilities across the contact center, Casey your help agent, Service Rep Assistant, and workforce engagement management help teams serve customers better and faster.",
+    "source_id": "salesforce_agentforce",
+    "source_name": "Salesforce Agentforce Blog",
+    "source_url": "https://www.salesforce.com/blog/category/ai/feed/",
     "categories": [
-      "marketing",
+      "agentic_commerce",
+      "commerce",
       "ai_marketing"
     ],
-    "relevance_score": 0.62,
+    "relevance_score": 0.85,
     "relevance_label": "high",
-    "title_en": "The Creator Economy Is Splitting Into Mega Partnerships and Media Buys",
-    "summary_ko": "크리에이터 이코노미가 두 갈래로 분화되고 있다. Alix Earle, MrBeast 같은 대형 크리에이터들은 에이전시 역할을 맡는 반면, 나노·마이크로 크리에이터들은 미디어 바잉 채널로 취급받고 있다. 브랜드들은 크리에이터 마케팅을 전통적인 미디어 믹스와 동일한 방식으로 접근하는 경향이 강해지고 있다.",
-    "summary_en": "The creator economy is bifurcating into two distinct tiers: mega creators like Alix Earle and MrBeast are taking on agency-like roles, while nano and micro creators are being treated as media buy channels. Brands are increasingly approaching creator marketing just as they would traditional media channels, applying historical media mix thinking. This structural split has significant implications for how brands allocate influencer marketing budgets.",
-    "so_what_ko": "LG D2C는 크리에이터 마케팅 예산을 전통 미디어 바잉 방식의 나노·마이크로 크리에이터 활용과 브랜드 전략 파트너로서의 대형 크리에이터 협업으로 이원화하여 효율성과 브랜드 파워를 동시에 추구해야 한다.",
-    "so_what_en": "LG D2C should adopt a bifurcated creator strategy: leveraging nano and micro creators as scalable media buys for reach and efficiency, while forming deeper, agency-style partnerships with mega creators for brand-building and strategic storytelling.",
+    "title_en": "Salesforce Service Cloud Fall 2026: 10 AI-Powered Launches to Accelerate Customer Service Resolution",
+    "summary_ko": "Salesforce는 Service Cloud의 2026년 가을 업데이트로 고객 서비스 케이스 해결 속도를 높이는 10가지 신규 기능을 출시했다. 주요 기능으로는 컨택 센터 강화, AI 헬프 에이전트 'Casey', Service Rep Assistant, 그리고 인력 관리(WEM) 기능이 포함된다. 이번 업데이트는 AI 에이전트가 고객 서비스 전반을 지원하는 Agentforce 생태계를 더욱 공고히 하는 것이 목적이다.",
+    "summary_en": "Salesforce has released 10 new capabilities for Service Cloud in its Fall 2026 update, all aimed at helping teams resolve customer service cases faster. Key launches include enhancements to the contact center, an AI help agent named Casey, a Service Rep Assistant, and workforce engagement management tools. These updates further cement Salesforce's Agentforce ecosystem as an AI-native customer service platform.",
+    "so_what_ko": "LG D2C 고객 서비스팀은 Salesforce Agentforce의 신규 AI 기능을 활용해 케이스 해결 속도 향상 및 상담사 생산성 개선을 즉시 검토해 볼 수 있다.",
+    "so_what_en": "LG D2C customer service teams should evaluate Salesforce Agentforce's new AI capabilities to accelerate case resolution times and boost service representative productivity.",
     "key_points": [
-      "크리에이터 이코노미가 '에이전시형 메가 크리에이터'와 '미디어 바잉형 나노·마이크로 크리에이터'로 양극화",
-      "브랜드들이 크리에이터 마케팅을 전통 미디어 믹스 관점에서 계획하는 경향 강화",
-      "Alix Earle, MrBeast 등 대형 크리에이터가 에이전시 기능을 수행하며 브랜드 전략에 깊이 관여"
+      "Salesforce, Service Cloud에 고객 서비스 가속화를 위한 10가지 AI 신기능 출시",
+      "AI 헬프 에이전트 'Casey' 및 Service Rep Assistant로 상담사 지원 강화",
+      "컨택 센터 및 인력 관리(WEM) 기능 통합으로 운영 효율화",
+      "Agentforce 생태계 내 AI 에이전트 기반 고객 서비스 플랫폼 확장"
     ],
     "tags": [
-      "creator-economy",
-      "influencer-marketing",
-      "media-buying",
-      "brand-partnerships",
-      "content-marketing"
+      "salesforce",
+      "agentforce",
+      "customer-service",
+      "ai-agents",
+      "contact-center"
     ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_MARKETING",
+    "confidence": 0.82,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
     "regions": [
-      "GLOBAL",
-      "AMER"
+      "GLOBAL"
     ],
-    "business_impact": "MEDIUM",
+    "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Alix Earle",
-      "MrBeast",
-      "Digiday"
+      "Salesforce",
+      "Service Cloud",
+      "Agentforce",
+      "Casey",
+      "Service Rep Assistant"
     ],
-    "one_line_insight_ko": "크리에이터 이코노미의 양극화는 LG D2C가 크리에이터를 단순 광고 채널이 아닌 전략적 파트너로 차별화 활용할 새로운 기회를 제공한다.",
-    "one_line_insight_en": "The bifurcation of the creator economy creates a strategic opportunity for LG D2C to differentiate by treating top-tier creators as brand-building partners rather than mere ad placements.",
+    "one_line_insight_ko": "Salesforce의 AI 에이전트 기반 고객 서비스 플랫폼 강화는 D2C 고객 경험 혁신의 즉각적인 실행 기회를 제공한다.",
+    "one_line_insight_en": "Salesforce's expanding AI-native customer service suite offers LG D2C an immediate, actionable path to transforming customer experience through agentic AI.",
     "ai_processed": true
   }
 ]
