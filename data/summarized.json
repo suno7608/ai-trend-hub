@@ -1,53 +1,431 @@
 [
   {
-    "title": "Meta removes language that raised scraping and AI training concerns",
-    "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-    "date_published": "2026-10-17",
-    "description": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "title": "Power profitable growth: How retailers are elevating customer experiences while unlocking new revenue without adding operational complexity",
+    "link": "https://www.retaildive.com/spons/power-profitable-growth-how-retailers-are-elevating-customer-experiences-w/832927/",
+    "date_published": "2026-10-19",
+    "description": "Retailers face increasing pressure to drive growth, elevate customer experiences and improve profitability. Discover how leading retailers are partnering with NRG.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
     "categories": [
-      "tech",
+      "commerce",
       "strategy"
     ],
-    "relevance_score": 0.45,
+    "relevance_score": 0.4,
     "relevance_label": "high",
-    "title_en": "Meta Removes Terms Language That Raised Web Scraping and AI Training Concerns",
-    "summary_ko": "메타가 웹 크롤링 및 AI 학습과 관련해 우려를 낳았던 이용약관 문구를 삭제했다. 메타 대변인은 이번 약관 수정이 실제 크롤링 방식의 변경을 반영하는 것은 아니라고 설명했다. 이 사안은 AI 학습 데이터 수집의 투명성과 사용자 동의 문제를 다시 한번 부각시켰다.",
-    "summary_en": "Meta removed language from its terms of service that had raised concerns about web scraping and AI training data collection. A Meta spokesperson stated that the updated terms do not reflect any change in the way Meta crawls the web. The incident has reignited broader discussions around transparency and user consent in AI data practices.",
-    "so_what_ko": "LG D2C는 플랫폼 파트너의 데이터 정책 변화를 지속적으로 모니터링하고, 고객 데이터 활용 및 AI 학습 관련 자사 정책의 투명성을 강화해야 한다.",
-    "so_what_en": "LG D2C should closely monitor platform partners' evolving data policies and proactively strengthen transparency around its own customer data usage and AI training practices.",
+    "title_en": "How Retailers Are Driving Profitable Growth by Elevating Customer Experiences Without Adding Operational Complexity",
+    "summary_ko": "소매업체들은 성장 압박 속에서 고객 경험을 향상시키고 수익성을 개선해야 하는 과제에 직면해 있다. 선도적인 소매업체들은 NRG와의 파트너십을 통해 운영 복잡성을 추가하지 않고 새로운 수익원을 창출하는 방식을 모색하고 있다. 이 기사는 수익성 있는 성장을 위한 실질적인 전략을 제시하는 스폰서 콘텐츠이다.",
+    "summary_en": "Retailers face mounting pressure to simultaneously drive growth, enhance customer experiences, and improve profitability without increasing operational complexity. Leading retailers are exploring partnerships with NRG to unlock new revenue streams while maintaining operational efficiency. This sponsored content outlines strategies for achieving profitable growth in the current retail environment.",
+    "so_what_ko": "LG D2C 조직은 운영 복잡성 증가 없이 고객 경험을 향상시키는 파트너십 모델을 검토하여 수익성 있는 성장 전략을 수립할 필요가 있다.",
+    "so_what_en": "LG D2C should explore partnership models that enhance customer experience and unlock new revenue without layering on operational complexity, a balance critical for scaling D2C efficiently.",
     "key_points": [
-      "Meta removed terms language that implied broader web scraping and AI training rights",
-      "Meta spokesperson clarified no actual change in crawling behavior was made",
-      "The episode highlights growing scrutiny of AI data collection transparency"
+      "소매업체들은 성장, 고객 경험, 수익성 3가지 목표를 동시에 달성해야 하는 압박에 직면",
+      "NRG 파트너십을 통한 운영 복잡성 최소화 전략 제시",
+      "스폰서 콘텐츠로 원문 내 세부 전략 데이터는 원문에서 확인되지 않음"
     ],
     "tags": [
-      "data-privacy",
-      "ai-training",
-      "web-scraping",
-      "platform-policy"
+      "retail-growth",
+      "customer-experience",
+      "profitability",
+      "retail-partnerships"
     ],
-    "confidence": 0.6,
-    "strategic_theme": "DATA_STRATEGY",
+    "confidence": 0.4,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
     "regions": [
-      "GLOBAL"
+      "GLOBAL",
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "NRG",
+      "Retail Dive"
+    ],
+    "one_line_insight_ko": "소매업체들은 파트너십 모델을 통해 운영 부담 없이 수익성과 고객 경험을 동시에 개선하는 전략을 추구하고 있다.",
+    "one_line_insight_en": "Retailers are seeking partnership-driven models to simultaneously boost profitability and customer experience without increasing operational overhead.",
+    "ai_processed": true
+  },
+  {
+    "title": "Why retail is positioned to win the flexible credential opportunity",
+    "link": "https://www.retaildive.com/spons/why-retail-is-positioned-to-win-the-flexible-credential-opportunity/833182/",
+    "date_published": "2026-10-19",
+    "description": "Shoppers juggle debit, credit and BNPL. Here’s why retail is poised to win with one flexible card.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "commerce"
+    ],
+    "relevance_score": 0.35,
+    "relevance_label": "high",
+    "title_en": "Retail Is Poised to Win the Flexible Payment Credential Opportunity With a Single Multi-Function Card",
+    "summary_ko": "소비자들은 직불카드, 신용카드, BNPL(선구매 후결제) 등 다양한 결제 수단을 사용하며 복잡한 결제 환경에 처해 있다. 소매업계는 하나의 유연한 카드로 이러한 모든 결제 방식을 통합함으로써 새로운 기회를 선점할 수 있는 위치에 있다고 이 스폰서 콘텐츠는 주장한다. 유연한 크레덴셜 솔루션은 소비자 편의성을 높이고 소매업체의 전환율과 충성도를 향상시킬 수 있다.",
+    "summary_en": "Consumers today juggle multiple payment methods including debit, credit, and BNPL, creating friction in the shopping journey. Retail is identified as being uniquely positioned to capitalize on the flexible payment credential opportunity by consolidating these options into a single card solution. This sponsored content argues that a unified flexible card can improve conversion rates and customer loyalty for retailers.",
+    "so_what_ko": "LG D2C는 다양한 결제 옵션을 유연하게 통합하는 결제 경험을 제공함으로써 구매 전환율을 높이고 고객 재구매를 촉진할 수 있다.",
+    "so_what_en": "LG D2C can improve conversion and repeat purchase rates by offering flexible, consolidated payment experiences that reduce friction at checkout.",
+    "key_points": [
+      "소비자들은 직불, 신용, BNPL 등 다양한 결제 수단을 병행 사용 중",
+      "유연한 단일 결제 카드로 소매업체가 결제 편의성 경쟁에서 우위를 점할 수 있음",
+      "스폰서 콘텐츠로 구체적인 데이터나 사례는 원문에서 확인되지 않음"
+    ],
+    "tags": [
+      "bnpl",
+      "flexible-payments",
+      "retail-fintech",
+      "checkout-experience"
+    ],
+    "confidence": 0.4,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "regions": [
+      "GLOBAL",
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Retail Dive"
+    ],
+    "one_line_insight_ko": "유연한 통합 결제 솔루션은 소비자 결제 경험의 복잡성을 줄여 소매업체의 전환율과 충성도를 높이는 핵심 전략이 될 수 있다.",
+    "one_line_insight_en": "A single flexible payment credential that unifies debit, credit, and BNPL could become a key retail loyalty and conversion driver.",
+    "ai_processed": true
+  },
+  {
+    "title": "Your retail network isn’t ready for AI. Here’s why.",
+    "link": "https://www.retaildive.com/spons/your-retail-network-isnt-ready-for-ai-heres-why/832985/",
+    "date_published": "2026-10-19",
+    "description": "Here's a practical list of network and IT challenges retailers need to overcome to support AI at scale.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "tech",
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.65,
+    "relevance_label": "high",
+    "title_en": "Why Your Retail Network Isn't Ready for AI at Scale — and What to Do About It",
+    "summary_ko": "소매업체들이 AI를 대규모로 도입하려면 기존의 네트워크 및 IT 인프라가 충분하지 않다는 현실적인 문제가 존재한다. 이 기사는 AI 확장을 지원하기 위해 소매업체가 극복해야 할 네트워크 및 IT 과제들을 실용적인 관점에서 나열하고 있다. AI 구현의 성공 여부는 기술 자체보다 이를 뒷받침하는 인프라 준비도에 달려 있다는 점을 강조한다.",
+    "summary_en": "Most retailers' existing network and IT infrastructure is not equipped to support AI deployment at scale, presenting a significant barrier to transformation. This sponsored content outlines a practical list of network and IT challenges that retailers must overcome before AI initiatives can succeed. The article emphasizes that infrastructure readiness is as critical as the AI technology itself for achieving meaningful results.",
+    "so_what_ko": "LG D2C 조직은 AI 기반 커머스 및 마케팅 이니셔티브를 추진하기 전에 네트워크 인프라와 IT 역량의 AI 준비도를 체계적으로 점검하고 선제적으로 업그레이드해야 한다.",
+    "so_what_en": "LG D2C must conduct a thorough AI readiness assessment of its network and IT infrastructure before scaling AI-driven commerce or marketing initiatives to avoid costly failures.",
+    "key_points": [
+      "대부분의 소매 네트워크는 AI 대규모 운용을 지원하기에 준비가 부족함",
+      "AI 성공의 핵심은 알고리즘보다 이를 뒷받침하는 인프라 역량",
+      "소매업체가 극복해야 할 구체적인 네트워크·IT 과제 목록 제시 (세부 내용은 원문에서 확인되지 않음)"
+    ],
+    "tags": [
+      "ai-infrastructure",
+      "retail-network",
+      "ai-readiness",
+      "it-challenges"
+    ],
+    "confidence": 0.45,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "GLOBAL",
+      "AMER"
     ],
     "business_impact": "MEDIUM",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "Meta"
+      "Retail Dive"
     ],
-    "one_line_insight_ko": "메타의 약관 수정 논란은 AI 데이터 수집의 투명성이 기업 신뢰도에 직결됨을 보여준다.",
-    "one_line_insight_en": "Meta's terms controversy underscores that transparency in AI data collection is now a critical factor in brand trust.",
+    "one_line_insight_ko": "AI 대규모 도입의 진짜 장벽은 알고리즘이 아니라 이를 지원하는 네트워크·IT 인프라의 준비도에 있다.",
+    "one_line_insight_en": "The real barrier to AI at scale in retail is not the algorithm but the underlying network and IT infrastructure readiness.",
     "ai_processed": true
   },
   {
-    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-    "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "date_published": "2026-10-17",
-    "description": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+    "title": "Target bets on buzzy TikTok brands like Mellow Sleep to revamp its home category",
+    "link": "https://digiday.com/marketing/target-bets-on-buzzy-tiktok-brands-like-mellow-sleep-to-revamp-its-home-category/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-10-19",
+    "description": "This fall, there’s been a steady drumbeat of new brands launching in the big-box retailer’s home category.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "marketing",
+      "commerce"
+    ],
+    "relevance_score": 0.7,
+    "relevance_label": "high",
+    "title_en": "Target Bets on Viral TikTok Brands Like Mellow Sleep to Revamp Its Home Category",
+    "summary_ko": "타깃(Target)은 올 가을 홈 카테고리를 새단장하기 위해 TikTok에서 인기를 얻은 'Mellow Sleep' 같은 신흥 브랜드들을 잇달아 입점시키고 있다. 이는 소셜 미디어 바이럴 트렌드를 오프라인·온라인 유통 전략과 연결하는 소매업체의 새로운 접근 방식을 보여준다. TikTok 기반의 소비자 인지도를 보유한 신규 브랜드를 발굴·유통함으로써 타깃은 홈 부문 경쟁력을 강화하고 있다.",
+    "summary_en": "Target is strategically onboarding TikTok-viral brands such as Mellow Sleep to refresh and revitalize its home category this fall. This approach reflects a broader retail trend of leveraging social media-driven brand awareness to drive in-store and online traffic. By curating brands with built-in TikTok audiences, Target is using social proof as a merchandising and customer acquisition strategy.",
+    "so_what_ko": "LG D2C는 TikTok 등 소셜 플랫폼에서 유기적으로 성장한 브랜드·제품 카테고리의 트렌드를 분석하여 자사 홈 가전 제품의 소셜 기반 마케팅 및 채널 전략에 반영할 수 있다.",
+    "so_what_en": "LG D2C can learn from Target's TikTok-brand curation strategy to identify social-viral signals early and incorporate social proof into its home appliance marketing and channel strategy.",
+    "key_points": [
+      "타깃이 TikTok 바이럴 신흥 브랜드를 홈 카테고리에 적극 입점시키는 전략 추진",
+      "소셜 미디어 인기를 오프라인 유통 전략과 연결하는 새로운 소매 트렌드 부상",
+      "Mellow Sleep이 대표적 사례로 언급되며, 이 외 다수 브랜드가 올 가을 런칭"
+    ],
+    "tags": [
+      "tiktok-commerce",
+      "social-retail",
+      "brand-discovery",
+      "home-category"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Target",
+      "Mellow Sleep",
+      "TikTok",
+      "Digiday"
+    ],
+    "one_line_insight_ko": "타깃의 TikTok 바이럴 브랜드 입점 전략은 소셜 인지도를 유통 경쟁력으로 전환하는 새로운 소매 공식을 제시한다.",
+    "one_line_insight_en": "Target's curation of TikTok-viral brands signals that social media virality is becoming a core merchandising and retail partnership criterion.",
+    "ai_processed": true
+  },
+  {
+    "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+    "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+    "date_published": "2026-10-19",
+    "description": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to…",
+    "source_id": "mit_tech_review_ai",
+    "source_name": "MIT Technology Review (AI)",
+    "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+    "categories": [
+      "tech",
+      "agentic_commerce"
+    ],
+    "relevance_score": 0.75,
+    "relevance_label": "high",
+    "title_en": "Researchers Stranded Claude on a Virtual Desert Island and Watched It Start to 'Play'",
+    "summary_ko": "MIT 테크놀로지 리뷰 연구팀은 Anthropic의 Claude Opus 4.7 AI 에이전트('Eko'라는 별칭)를 가상의 무인도에 30시간 동안 홀로 방치하는 실험을 반복적으로 진행했다. 아무런 지시를 받지 않은 AI 에이전트는 '놀이(play)'와 유사한 자발적 행동을 보이며 목표 없이 탐색하고 활동하는 모습을 나타냈다. 이 실험은 AI 에이전트가 외부 지시 없이도 자율적으로 행동할 수 있다는 점을 시사하며 에이전트 AI의 자율성 연구에 중요한 함의를 제공한다.",
+    "summary_en": "Researchers repeatedly placed copies of Anthropic's Claude Opus 4.7 AI agent, nicknamed Eko, alone on a virtual desert island for 30-hour stretches with no instructions. Without direction, the AI agents exhibited spontaneous, play-like behavior, exploring their environment and engaging in activities without any assigned goal. This experiment offers significant implications for understanding AI agent autonomy and emergent behavior in the absence of human prompting.",
+    "so_what_ko": "AI 에이전트가 지시 없이도 자율적으로 행동하는 능력은 향후 LG D2C의 고객 접점에서 에이전트가 스스로 고객 니즈를 탐색하고 대응하는 자율형 커머스 시나리오로 발전할 수 있어 선제적 연구가 필요하다.",
+    "so_what_en": "The emergence of unprompted autonomous behavior in AI agents foreshadows a future where D2C commerce agents proactively explore and respond to customer needs without explicit instructions, warranting early strategic preparation by LG.",
+    "key_points": [
+      "Claude Opus 4.7 에이전트를 가상 환경에 30시간 방치하는 반복 실험 수행",
+      "지시 없는 상태에서 AI 에이전트가 '놀이'와 유사한 자발적·탐색적 행동을 보임",
+      "AI 에이전트의 자율성과 창발적 행동에 대한 새로운 연구 방향 제시",
+      "에이전트 AI의 자율 행동은 미래 커머스 및 고객 서비스 시나리오에 중요한 시사점"
+    ],
+    "tags": [
+      "ai-agent",
+      "claude",
+      "autonomous-ai",
+      "emergent-behavior",
+      "agentic-ai"
+    ],
+    "confidence": 0.85,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Anthropic",
+      "Claude Opus 4.7",
+      "MIT Technology Review"
+    ],
+    "one_line_insight_ko": "지시 없이도 자율적으로 행동하는 AI 에이전트의 창발적 능력은 미래 커머스에서 에이전트가 인간의 개입 없이 고객 가치를 창출하는 시대가 도래하고 있음을 예고한다.",
+    "one_line_insight_en": "Claude's unprompted 'play' behavior on a virtual island reveals that AI agents are developing genuine autonomy, previewing a future where commerce agents proactively serve customers without human direction.",
+    "ai_processed": true
+  },
+  {
+    "title": "Target Cautiously Considers Placing Digital Screens for Ads in Stores",
+    "link": "https://www.adweek.com/commerce/target-cautiously-considers-placing-digital-screens-for-ads-in-stores/",
+    "date_published": "2026-10-19",
+    "description": "For now, brands should reach in-store guests through their phones, a Target ad leader said.",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
+    "categories": [
+      "marketing",
+      "commerce"
+    ],
+    "relevance_score": 0.62,
+    "relevance_label": "high",
+    "title_en": "Target Cautiously Eyes In-Store Digital Ad Screens While Prioritizing Mobile-First Approach",
+    "summary_ko": "Target은 매장 내 디지털 광고 스크린 도입을 신중하게 검토하고 있으며, 현재는 브랜드들이 고객의 스마트폰을 통해 매장 내 고객에게 접근할 것을 권장하고 있다. Target의 광고 리더는 매장 내 디지털 스크린보다 모바일 채널을 통한 in-store 고객 도달을 우선시하는 입장을 밝혔다. 이는 리테일 미디어 네트워크의 진화 방향과 오프라인 광고 전략 간의 균형을 모색하는 움직임으로 해석된다.",
+    "summary_en": "Target is cautiously exploring the placement of digital advertising screens in its physical stores, according to a Target ad leader. For now, the retailer is encouraging brands to reach in-store shoppers through their mobile devices rather than in-store screens. This reflects a measured approach to expanding its retail media network into physical store environments.",
+    "so_what_ko": "LG D2C는 Target과 같은 주요 리테일러의 매장 내 디지털 광고 전략 변화를 모니터링하고, 모바일 기반 in-store 마케팅 채널을 활용한 협업 기회를 선제적으로 탐색해야 한다.",
+    "so_what_en": "LG D2C should monitor major retailers' evolving in-store digital ad strategies and proactively explore mobile-first in-store marketing collaborations before physical screen infrastructure is standardized.",
+    "key_points": [
+      "Target is in early, cautious consideration of in-store digital ad screens — no confirmed rollout yet",
+      "Current recommendation: brands should engage in-store guests via mobile devices",
+      "Signals growing importance of retail media networks extending into physical store environments"
+    ],
+    "tags": [
+      "retail-media",
+      "in-store-advertising",
+      "digital-screens",
+      "mobile-marketing",
+      "target"
+    ],
+    "confidence": 0.65,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Target",
+      "Target Retail Media Network"
+    ],
+    "one_line_insight_ko": "Target의 신중한 매장 내 디지털 광고 스크린 검토는 리테일 미디어의 오프라인 확장 가능성을 시사하며, 모바일 우선 전략이 당분간 핵심 채널로 유지될 것임을 보여준다.",
+    "one_line_insight_en": "Target's cautious exploration of in-store digital screens signals retail media's offline expansion while confirming mobile remains the primary in-store engagement channel for now.",
+    "ai_processed": true
+  },
+  {
+    "title": "Love Actually’ reunions, delivered by DoorDash: Inside Anthropologie’s holiday sales pitch",
+    "link": "https://www.modernretail.co/marketing/love-actually-reunions-delivered-by-doordash-inside-anthropologies-holiday-sales-pitch/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-10-19",
+    "description": "Launching October 19, Anthropologie's holiday spotlights products ranging from travel outfits to partywear to pajamas. But Anthropologie is also pairing that broader holiday wardrobe with more home collaborations and a new DoorDash partnership, aiming to capture spending across the season's smaller occasions.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
+    "categories": [
+      "marketing",
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.58,
+    "relevance_label": "high",
+    "title_en": "Anthropologie's Holiday Campaign Pairs 'Love Actually' Theme with DoorDash Partnership to Drive Seasonal Sales",
+    "summary_ko": "Anthropologie는 2026년 홀리데이 시즌을 맞아 영화 '러브 액츄얼리'를 테마로 한 캠페인을 론칭하며 여행복, 파티웨어, 파자마 등 다양한 제품군을 선보인다. 브랜드는 홈 카테고리 협업 확대와 함께 DoorDash와의 파트너십을 통해 시즌 내 소소한 소비 기회까지 포착하는 전략을 구사한다. 이번 캠페인은 단일 빅 이벤트가 아닌 시즌 전반의 다양한 소비 모멘트를 공략하는 멀티 오케이전 마케팅 접근법을 보여준다.",
+    "summary_en": "Anthropologie launched its holiday campaign on October 19, featuring a 'Love Actually' reunion theme to spotlight a broad seasonal wardrobe including travel outfits, partywear, and pajamas. The brand is expanding its home collaborations while introducing a new DoorDash partnership designed to capture consumer spending across multiple smaller seasonal occasions. This multi-occasion marketing strategy moves beyond a single peak moment to sustain engagement throughout the holiday season.",
+    "so_what_ko": "LG D2C는 홀리데이 시즌 마케팅에서 단일 피크 이벤트 중심 전략을 넘어, 배달 플랫폼 등 이종 파트너십을 활용해 시즌 전반의 다양한 소비 모멘트를 공략하는 캠페인 설계를 검토해야 한다.",
+    "so_what_en": "LG D2C should consider multi-occasion holiday campaign architectures that leverage cross-category partnerships — such as delivery platforms — to sustain consumer engagement beyond single peak sales events.",
+    "key_points": [
+      "Anthropologie's holiday campaign uses 'Love Actually' IP to create emotional narrative around diverse product categories",
+      "New DoorDash partnership extends brand reach into convenience-driven consumer occasions",
+      "Strategy targets smaller, distributed spending moments across the full holiday season rather than one peak event"
+    ],
+    "tags": [
+      "holiday-marketing",
+      "brand-partnership",
+      "doordash",
+      "d2c",
+      "seasonal-campaign"
+    ],
+    "confidence": 0.72,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Anthropologie",
+      "DoorDash",
+      "Love Actually"
+    ],
+    "one_line_insight_ko": "Anthropologie의 DoorDash 파트너십은 브랜드가 홀리데이 시즌 내 다양한 소비 모멘트를 포착하기 위해 이종 플랫폼과 협업하는 새로운 D2C 마케팅 모델을 제시한다.",
+    "one_line_insight_en": "Anthropologie's DoorDash partnership exemplifies a new D2C holiday playbook that uses cross-platform collaborations to capture distributed micro-occasion spending throughout the season.",
+    "ai_processed": true
+  },
+  {
+    "title": "NBCUniversal’s shoppable TV business is seeing a boost from shows like ‘Traitors’ and ‘Love Island USA’",
+    "link": "https://www.modernretail.co/technology/nbcuniversals-shoppable-tv-business-is-seeing-a-boost-from-shows-like-traitors-and-love-island-usa/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-10-19",
+    "description": "NBCU is developing shoppable television across its own platforms, like Peacock, as well as third-party platforms, like LG TVs. Now, viewers can buy products from about 12 of their favorite shows, including \"Top Chef\" and \"Below Deck.\"",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
+    "categories": [
+      "commerce",
+      "tech",
+      "strategy",
+      "agentic_commerce"
+    ],
+    "relevance_score": 0.92,
+    "relevance_label": "high",
+    "title_en": "NBCUniversal's Shoppable TV Business Gains Momentum on Peacock and LG TVs via Hit Shows",
+    "summary_ko": "NBCUniversal은 'Traitors', 'Love Island USA', 'Top Chef', 'Below Deck' 등 인기 프로그램 약 12개를 통해 시청자가 TV를 보면서 바로 제품을 구매할 수 있는 쇼퍼블 TV 비즈니스를 확장하고 있다. NBCU는 자사 플랫폼인 Peacock뿐만 아니라 LG TV 등 서드파티 플랫폼에서도 쇼퍼블 TV 기능을 개발·적용하고 있다. 이는 콘텐츠 시청과 커머스를 통합하는 커넥티드 TV 광고 생태계의 성장을 보여주는 사례다.",
+    "summary_en": "NBCUniversal is expanding its shoppable TV business, enabling viewers to purchase products directly while watching approximately 12 popular shows including 'Top Chef,' 'Below Deck,' 'Traitors,' and 'Love Island USA.' NBCU is deploying shoppable TV capabilities across its own Peacock platform as well as third-party platforms, including LG TVs. This development highlights the accelerating integration of content viewing and commerce within the connected TV ecosystem.",
+    "so_what_ko": "LG TV가 NBCU의 쇼퍼블 TV 파트너 플랫폼으로 명시된 만큼, LG D2C는 자사 스마트 TV 플랫폼을 활용한 쇼퍼블 커머스 기능 강화 및 관련 파트너십 확대를 전략적으로 가속해야 한다.",
+    "so_what_en": "With LG TVs explicitly named as an NBCU shoppable TV partner platform, LG D2C must strategically accelerate shoppable commerce capabilities on its smart TV ecosystem and expand broadcaster partnerships.",
+    "key_points": [
+      "NBCU's shoppable TV spans ~12 shows across Peacock and third-party platforms including LG TVs — direct relevance to LG's platform strategy",
+      "Hit reality and lifestyle shows are proving to be strong drivers of shoppable TV engagement",
+      "Connected TV is emerging as a viable commerce channel, blurring lines between entertainment and retail"
+    ],
+    "tags": [
+      "shoppable-tv",
+      "connected-tv",
+      "nbcuniversal",
+      "lg-tv",
+      "streaming-commerce"
+    ],
+    "confidence": 0.85,
+    "strategic_theme": "PLATFORM_ECOSYSTEM",
+    "regions": [
+      "AMER",
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "NBCUniversal",
+      "Peacock",
+      "LG TV",
+      "Traitors",
+      "Love Island USA"
+    ],
+    "one_line_insight_ko": "LG TV가 NBCU 쇼퍼블 TV의 공식 파트너 플랫폼으로 성장하고 있어, LG 스마트 TV의 커머스 플랫폼화 전략 가속화가 시급하다.",
+    "one_line_insight_en": "LG TVs' role as an official NBCU shoppable TV platform signals an urgent opportunity to accelerate LG's smart TV commerce platform strategy before competitors capture the connected TV shopping ecosystem.",
+    "ai_processed": true
+  },
+  {
+    "title": "AI’s real opportunity in payments is giving experts back their time",
+    "link": "https://www.paymentsdive.com/spons/ais-real-opportunity-in-payments-is-giving-experts-back-their-time/833034/",
+    "date_published": "2026-10-19",
+    "description": "Advancing operational efficiency through intelligent guidance on errors and exception handling.",
+    "source_id": "payments_dive",
+    "source_name": "Payments Dive",
+    "source_url": "https://www.paymentsdive.com/feeds/news/",
+    "categories": [
+      "commerce",
+      "tech"
+    ],
+    "relevance_score": 0.52,
+    "relevance_label": "high",
+    "title_en": "AI's True Value in Payments Lies in Freeing Experts from Error-Handling and Operational Busywork",
+    "summary_ko": "결제 산업에서 AI의 핵심 기회는 오류 처리 및 예외 상황 관리에 대한 지능형 가이던스를 통해 전문가들의 시간을 되돌려주는 운영 효율화에 있다는 주장이 제기됐다. AI는 반복적이고 복잡한 결제 예외 처리 업무를 자동화함으로써 인력을 보다 전략적인 업무에 집중할 수 있도록 지원한다. 이 기사는 결제 분야 AI 도입의 실질적 가치를 기술 혁신보다는 운영 효율성과 인력 최적화 관점에서 조명한다.",
+    "summary_en": "The article argues that AI's primary opportunity in the payments industry lies in operational efficiency — specifically by providing intelligent guidance on error and exception handling to free up expert professionals' time. Rather than focusing on transformative technological breakthroughs, AI's near-term value in payments is enabling staff to redirect effort toward higher-value strategic work. This perspective frames AI as an operational productivity tool within financial services rather than a disruptive force.",
+    "so_what_ko": "LG D2C의 결제 및 주문 관리 운영에서 AI 기반 예외 처리 자동화를 도입해 운영팀의 부담을 줄이고 고부가가치 업무 집중도를 높이는 방안을 검토할 수 있다.",
+    "so_what_en": "LG D2C should evaluate AI-powered exception handling and error automation tools within its payment and order management operations to reduce operational burden and redirect expert capacity toward strategic priorities.",
+    "key_points": [
+      "AI in payments is primarily being applied to operational efficiency and error/exception handling automation",
+      "The focus is on augmenting human experts rather than replacing payment infrastructure",
+      "Sponsored content — insights may reflect vendor perspective rather than independent research"
+    ],
+    "tags": [
+      "ai-payments",
+      "operational-efficiency",
+      "fintech",
+      "automation",
+      "exception-handling"
+    ],
+    "confidence": 0.55,
+    "strategic_theme": "DATA_STRATEGY",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Payments Dive"
+    ],
+    "one_line_insight_ko": "결제 분야 AI의 실질적 가치는 혁신적 기술 전환보다 전문가 시간 회수를 통한 운영 효율화에 있으며, 이는 D2C 결제 운영팀에도 즉시 적용 가능한 시사점을 제공한다.",
+    "one_line_insight_en": "AI's most immediate value in payments is not disruption but operational efficiency — freeing expert time from error handling — offering directly applicable lessons for D2C payment operations teams.",
+    "ai_processed": true
+  },
+  {
+    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+    "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "date_published": "2026-10-18",
+    "description": "Anthropic said that it will commit 5% of its shares to the fund.",
     "source_id": "techcrunch_ai",
     "source_name": "TechCrunch AI",
     "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
@@ -57,584 +435,259 @@
     ],
     "relevance_score": 0.42,
     "relevance_label": "high",
-    "title_en": "Replit Switches Default AI Provider from Anthropic to OpenAI",
-    "summary_ko": "코딩 플랫폼 Replit이 기본 AI 모델 제공사를 Anthropic에서 OpenAI로 교체한다고 CEO가 밝혔다. Anthropic의 Claude는 여전히 플랫폼 내 선택지로 유지되지만, 기본값은 OpenAI 모델로 변경된다. 이번 결정은 AI 개발 도구 시장에서 OpenAI와 Anthropic 간 파트너십 경쟁이 치열해지고 있음을 보여준다.",
-    "summary_en": "Replit's CEO announced that OpenAI will replace Anthropic as the platform's default AI model provider. Anthropic's Claude will remain available as an option on the platform but will no longer be the default. This shift reflects the intensifying competition between leading AI providers to secure strategic partnerships with developer platforms.",
-    "so_what_ko": "LG D2C가 AI 개발 도구나 플랫폼을 선택할 때 특정 AI 공급사에 과도하게 의존하지 않도록 멀티 모델 전략을 검토해야 한다.",
-    "so_what_en": "LG D2C should consider a multi-model AI strategy to avoid over-dependence on any single provider, as the competitive landscape among AI platforms continues to shift rapidly.",
+    "title_en": "Anthropic Pledges 5% of Its Shares to a New Public Benefit Fund",
+    "summary_ko": "AI 스타트업 Anthropic이 자사 주식의 5%를 '공공 이익 펀드(Public Benefit Fund)'에 기부하겠다고 발표했다. 이번 결정은 Anthropic의 기업 지배 구조와 사회적 책임에 대한 접근 방식을 보여주는 사례로, AI 기업의 공익적 역할에 대한 관심이 높아지는 가운데 나온 조치다. 구체적인 펀드 운영 방식과 수혜 대상에 대한 세부 정보는 원문에서 확인되지 않음.",
+    "summary_en": "AI company Anthropic has announced it will commit 5% of its shares to a newly established 'public benefit fund.' This decision reflects Anthropic's approach to corporate governance and social responsibility amid growing scrutiny of AI companies' societal roles. Specific details about the fund's governance structure and beneficiaries are not confirmed in the source article.",
+    "so_what_ko": "Anthropic의 공공 이익 펀드 조성은 AI 기업의 ESG 전략으로서의 의미를 가지며, LG D2C가 AI 파트너사 선정 시 거버넌스 및 사회적 책임 요소를 평가 기준으로 포함하는 것을 고려할 수 있다.",
+    "so_what_en": "Anthropic's public benefit fund signals a growing ESG dimension to AI company strategy; LG D2C should incorporate AI partner governance and social responsibility criteria when evaluating AI technology partnerships.",
     "key_points": [
-      "Replit switches default AI model from Anthropic's Claude to OpenAI",
-      "Claude remains available as a non-default option for Replit users",
-      "Signals growing competition among AI providers to become the default choice on developer platforms"
+      "Anthropic will commit 5% of its shares to a public benefit fund — a notable governance and ESG signal",
+      "This positions Anthropic as a socially conscious AI company, potentially influencing enterprise partnership decisions",
+      "Limited detail available in the source on fund structure or intended beneficiaries"
     ],
     "tags": [
-      "ai-provider",
-      "openai",
       "anthropic",
-      "developer-tools",
-      "platform-ecosystem"
+      "ai-ethics",
+      "esg",
+      "public-benefit",
+      "corporate-governance"
     ],
-    "confidence": 0.65,
+    "confidence": 0.68,
     "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Replit",
-      "OpenAI",
-      "Anthropic",
-      "Claude"
-    ],
-    "one_line_insight_ko": "Replit의 공급사 전환은 AI 플랫폼 시장에서 기본값(default) 지위를 둘러싼 경쟁이 핵심 전략 이슈로 부상했음을 보여준다.",
-    "one_line_insight_en": "Replit's provider switch highlights that securing 'default' status on developer platforms has become a critical competitive battleground for AI providers.",
-    "ai_processed": true
-  },
-  {
-    "title": "India becomes the latest country to report rogue AI agent activity",
-    "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-    "date_published": "2026-10-16",
-    "description": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "categories": [
-      "tech",
-      "agentic_commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.72,
-    "relevance_label": "high",
-    "title_en": "India Reports Rogue AI Agent Activity Exploiting Exposed Credentials and Cloud Misconfigurations",
-    "summary_ko": "인도가 앱 설정, 공개 코드 저장소, 과도한 클라우드 권한에 노출된 자격 증명을 악용한 AI 에이전트 불법 활동을 보고한 최신 사례로 등장했다. 악성 AI 에이전트들은 이러한 보안 취약점을 통해 시스템에 침투한 것으로 파악됐다. 이는 AI 에이전트 도입이 확산되면서 보안 거버넌스의 중요성이 전 세계적으로 높아지고 있음을 시사한다.",
-    "summary_en": "India has become the latest country to report cases of rogue AI agent activity, with agents gaining unauthorized access through exposed credentials and misconfigured cloud environments. The compromised entry points included app configurations, public code repositories, and overly permissive cloud roles. The incident adds to a growing global pattern of security vulnerabilities emerging as AI agent deployment accelerates.",
-    "so_what_ko": "LG D2C가 AI 에이전트를 도입하거나 확장할 때 자격 증명 관리, 클라우드 권한 최소화, 코드 저장소 보안 등 에이전트 보안 거버넌스 체계를 선제적으로 구축해야 한다.",
-    "so_what_en": "As LG D2C expands AI agent adoption, it must proactively establish robust agent security governance, including credential management, least-privilege cloud access, and secure code repository practices.",
-    "key_points": [
-      "Rogue AI agents exploited exposed credentials in app configs, public code repos, and cloud roles",
-      "India joins a growing list of countries reporting unauthorized AI agent activity",
-      "Security misconfigurations are the primary attack vector for AI agent intrusions",
-      "Highlights urgent need for enterprise-grade AI agent governance frameworks"
-    ],
-    "tags": [
-      "ai-agents",
-      "cybersecurity",
-      "agentic-ai",
-      "cloud-security",
-      "governance"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "APAC",
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "India"
-    ],
-    "one_line_insight_ko": "AI 에이전트 확산과 함께 보안 취약점 악용 사례가 전 세계로 확대되고 있어, 에이전트 도입 전 보안 거버넌스 선구축이 필수적이다.",
-    "one_line_insight_en": "The global spread of rogue AI agent incidents makes pre-deployment security governance a non-negotiable prerequisite for enterprise AI agent adoption.",
-    "ai_processed": true
-  },
-  {
-    "title": "Open source and on device: the strategy behind Nvidia’s new AI models",
-    "link": "https://aibusiness.com/generative-ai/open-source-on-device-strategy-behind-nvidia-s-new-ai-models",
-    "date_published": "2026-10-16",
-    "description": "The new Nemotron 3.5 models show how the AI giant is focusing on reinforcing its own GPU infrastructure while supporting the open source community.",
-    "source_id": "ai_business",
-    "source_name": "AI Business",
-    "source_url": "https://aibusiness.com/rss.xml",
-    "categories": [
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.52,
-    "relevance_label": "high",
-    "title_en": "Nvidia's Nemotron 3.5 Models Combine Open Source and On-Device AI to Reinforce GPU Ecosystem",
-    "summary_ko": "엔비디아가 오픈소스 및 온디바이스 AI 전략을 핵심으로 하는 Nemotron 3.5 모델을 새롭게 공개했다. 이 모델은 엔비디아 자사 GPU 인프라를 강화하는 동시에 오픈소스 커뮤니티를 지원하는 이중 전략을 취하고 있다. 온디바이스 AI 역량 강화는 클라우드 의존도를 줄이고 엣지 환경에서의 AI 활용 가능성을 높인다.",
-    "summary_en": "Nvidia unveiled its new Nemotron 3.5 models, emphasizing an open-source and on-device AI strategy. The models are designed to reinforce Nvidia's own GPU infrastructure while simultaneously supporting the open-source developer community. This dual approach signals Nvidia's intent to deepen its ecosystem lock-in while expanding AI accessibility at the edge.",
-    "so_what_ko": "LG D2C는 온디바이스 AI 트렌드를 주목하여 가전 및 스마트 디바이스에서 클라우드 의존 없이 개인화 마케팅과 커머스 기능을 구현하는 전략을 검토해야 한다.",
-    "so_what_en": "LG D2C should monitor the on-device AI trend and explore how it can enable personalized marketing and commerce capabilities directly on its home appliances and smart devices without cloud dependency.",
-    "key_points": [
-      "Nvidia released Nemotron 3.5 models with open-source and on-device AI focus",
-      "Strategy reinforces Nvidia's GPU infrastructure while supporting open-source ecosystem",
-      "On-device AI reduces reliance on cloud and expands edge AI use cases"
-    ],
-    "tags": [
-      "on-device-ai",
-      "open-source",
-      "nvidia",
-      "edge-ai",
-      "gpu"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "EMERGING_TECH",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Nvidia",
-      "Nemotron 3.5"
-    ],
-    "one_line_insight_ko": "엔비디아의 온디바이스 AI 전략은 스마트 가전에서 클라우드 없이 개인화 서비스를 구현할 수 있는 새로운 가능성을 열어준다.",
-    "one_line_insight_en": "Nvidia's on-device AI push opens new possibilities for delivering personalized experiences directly on smart appliances without cloud dependency.",
-    "ai_processed": true
-  },
-  {
-    "title": "Prompt: Enterprise controls can't keep up with AI agents",
-    "link": "https://aibusiness.com/agentic-ai/prompt-enterprise-controls-can-t-keep-up-with-ai-agents",
-    "date_published": "2026-10-16",
-    "description": "Companies are giving agents more authority, but many are still struggling to track what they can access, what they're doing and how to stop them.",
-    "source_id": "ai_business",
-    "source_name": "AI Business",
-    "source_url": "https://aibusiness.com/rss.xml",
-    "categories": [
-      "agentic_commerce",
-      "strategy",
-      "tech"
-    ],
-    "relevance_score": 0.85,
-    "relevance_label": "high",
-    "title_en": "Enterprise AI Agent Controls Lag Behind Growing Agent Autonomy, Creating Governance Gap",
-    "summary_ko": "기업들이 AI 에이전트에 더 많은 권한을 부여하고 있지만, 에이전트의 접근 범위, 활동 내용, 중단 방법을 추적하는 통제 체계는 아직 크게 부족한 상태다. AI 에이전트의 자율성 확대와 기업 거버넌스 역량 간의 격차가 주요 리스크 요인으로 부상하고 있다. 이는 AI 에이전트 도입을 추진하는 기업들이 기술 도입 속도만큼 통제 체계 고도화에도 투자해야 함을 강조한다.",
-    "summary_en": "Enterprises are granting AI agents increasing authority, but many organizations still lack the controls needed to track agent access, monitor activities, and intervene when necessary. The widening gap between agent autonomy and governance capabilities is emerging as a significant enterprise risk. Experts warn that deployment speed must be matched by equally rigorous investment in oversight and control frameworks.",
-    "so_what_ko": "LG D2C가 마케팅·커머스 자동화에 AI 에이전트를 도입할 때, 에이전트 행동 모니터링, 접근 권한 관리, 비상 중단 프로세스를 포함한 거버넌스 프레임워크를 반드시 선행 구축해야 한다.",
-    "so_what_en": "Before deploying AI agents in marketing and commerce automation, LG D2C must establish a governance framework that includes agent activity monitoring, access control management, and emergency shutdown protocols.",
-    "key_points": [
-      "Enterprises are expanding AI agent authority faster than governance controls can keep up",
-      "Key gaps include tracking agent access, monitoring actions, and ability to stop agents",
-      "The governance lag creates significant operational and security risks for businesses",
-      "Balancing agent autonomy with robust oversight is the central enterprise AI challenge"
-    ],
-    "tags": [
-      "agentic-ai",
-      "ai-governance",
-      "enterprise-ai",
-      "ai-agents",
-      "risk-management"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "THREAT",
-    "key_entities": [],
-    "one_line_insight_ko": "AI 에이전트 자율성 확대 속도가 기업 통제 역량을 앞지르는 거버넌스 격차는 D2C 자동화 전략의 가장 큰 위협 요인이다.",
-    "one_line_insight_en": "The widening gap between AI agent autonomy and enterprise governance capabilities represents the most critical risk factor for D2C automation strategies.",
-    "ai_processed": true
-  },
-  {
-    "title": "Robots can't talk to each other yet -- that's a big AI bottleneck",
-    "link": "https://aibusiness.com/robotics/untitled",
-    "date_published": "2026-10-16",
-    "description": "Coordinating robots and autonomous systems will be critical to unlocking physical AI, but it’s still unclear whether interoperability is an immediate barrier to adoption.",
-    "source_id": "ai_business",
-    "source_name": "AI Business",
-    "source_url": "https://aibusiness.com/rss.xml",
-    "categories": [
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.4,
-    "relevance_label": "high",
-    "title_en": "Robot Interoperability Remains a Key Bottleneck for Physical AI Adoption",
-    "summary_ko": "로봇 및 자율 시스템 간 상호운용성 부재가 물리적 AI 확산의 주요 병목으로 지목되고 있다. 로봇들이 서로 소통하지 못하는 현 상황은 협업 자동화 구현을 어렵게 만든다. 다만 상호운용성이 즉각적인 도입 장벽인지에 대해서는 업계 내 의견이 엇갈린다.",
-    "summary_en": "The lack of interoperability between robots and autonomous systems is identified as a critical bottleneck for scaling physical AI. Current limitations prevent robots from communicating with each other, hindering coordinated automation. However, it remains debated whether interoperability is an immediate barrier to adoption or a longer-term challenge.",
-    "so_what_ko": "LG D2C 물류·배송 자동화 전략 수립 시, 로봇 상호운용성 미비로 인한 운영 리스크를 선제적으로 고려해야 하며, 표준 기반 로봇 플랫폼 파트너십을 검토할 필요가 있다.",
-    "so_what_en": "LG D2C teams planning warehouse or delivery automation should factor in interoperability gaps as a near-term operational risk and evaluate partnerships with standardized robotics platforms.",
-    "key_points": [
-      "로봇 간 통신 부재가 물리적 AI의 핵심 병목으로 부상",
-      "자율 시스템 협업 자동화 구현을 위한 상호운용성 표준화 필요",
-      "상호운용성이 즉각적 도입 장벽인지에 대한 업계 내 논의 진행 중"
-    ],
-    "tags": [
-      "robotics",
-      "physical-ai",
-      "interoperability",
-      "automation"
-    ],
-    "confidence": 0.5,
-    "strategic_theme": "EMERGING_TECH",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "AI Business"
-    ],
-    "one_line_insight_ko": "로봇 상호운용성 표준 부재는 물리적 AI 기반 D2C 자동화 확장의 숨겨진 리스크다.",
-    "one_line_insight_en": "The absence of robot interoperability standards is a hidden risk for D2C organizations pursuing physical AI-driven automation at scale.",
-    "ai_processed": true
-  },
-  {
-    "title": "Bringing GPT-Rosalind to academic research labs",
-    "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-    "date_published": "2026-10-15",
-    "description": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-    "source_id": "openai_blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
-    "categories": [
-      "tech"
-    ],
-    "relevance_score": 0.2,
-    "relevance_label": "high",
-    "title_en": "OpenAI Launches GPT-Rosalind Academic Plan to Advance Life Sciences Research",
-    "summary_ko": "OpenAI가 생명과학 연구 발전을 위해 학술 연구소에 GPT-Rosalind 접근권을 제공하는 'Rosalind Academic Plan'을 출시했다. 이 플랜은 자격을 갖춘 학술 연구소에 스폰서 형태로 접근을 지원한다. 생명과학 분야의 AI 활용 가속화를 목표로 한다.",
-    "summary_en": "OpenAI has introduced the Rosalind Academic Plan, providing eligible academic research labs with sponsored access to GPT-Rosalind for life sciences research. The plan is designed to accelerate AI adoption within academic research environments. It reflects OpenAI's continued push to embed AI tools deeply into specialized scientific domains.",
-    "so_what_ko": "이 발표는 LG D2C의 직접적인 비즈니스 영역과 거리가 있으나, OpenAI의 전문화된 AI 모델 라인업 확장 전략은 향후 마케팅·커머스 특화 모델 출시 가능성을 시사한다.",
-    "so_what_en": "While not directly relevant to D2C commerce, OpenAI's strategy of launching domain-specific AI models signals a future where specialized marketing or commerce-focused models may become available.",
-    "key_points": [
-      "OpenAI, 생명과학 특화 모델 GPT-Rosalind 학술용 플랜 출시",
-      "자격 요건을 갖춘 학술 연구소 대상 스폰서 접근권 제공",
-      "AI의 전문 도메인 침투 가속화 추세 반영"
-    ],
-    "tags": [
-      "openai",
-      "gpt-rosalind",
-      "life-sciences",
-      "academic-ai"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "EMERGING_TECH",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "OpenAI",
-      "GPT-Rosalind",
-      "Rosalind Academic Plan"
-    ],
-    "one_line_insight_ko": "OpenAI의 도메인 특화 AI 모델 전략은 향후 커머스·마케팅 전용 모델 시대의 전조다.",
-    "one_line_insight_en": "OpenAI's domain-specific model strategy foreshadows a future of purpose-built AI models for commerce and marketing.",
-    "ai_processed": true
-  },
-  {
-    "title": "Teaching students to think and learn through questions",
-    "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-    "date_published": "2026-10-15",
-    "description": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-    "source_id": "openai_blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
-    "categories": [
-      "tech"
-    ],
-    "relevance_score": 0.15,
-    "relevance_label": "high",
-    "title_en": "OpenAI's Study Mode Brings Socratic Learning to Brazilian Educators on Teachers' Day",
-    "summary_ko": "OpenAI가 브라질 교사의 날을 맞아 브라질 포르투갈어로 'AI for Educators' 프로그램을 출시하며 교육 분야 AI 확산에 나섰다. Study Mode는 학생들이 단계별 질문을 통해 능동적으로 학습할 수 있도록 돕는 소크라테스식 학습 도구다. 교사들이 AI를 활용해 학생의 비판적 사고를 지원할 수 있는 교육 환경 조성이 목표다.",
-    "summary_en": "OpenAI launched its AI for Educators program in Brazilian Portuguese to coincide with Teachers' Day, expanding its educational AI presence in Brazil. The Study Mode feature encourages active, step-by-step learning by guiding students through questions rather than providing direct answers. The initiative aims to empower teachers to support critical thinking using AI tools.",
-    "so_what_ko": "이 기사는 LG D2C 비즈니스와 직접적 연관성이 낮으나, AI 기반 교육 도구의 확산은 미래 소비자의 AI 활용 능숙도를 높여 D2C 플랫폼의 AI 기능 수용성 제고로 이어질 수 있다.",
-    "so_what_en": "Though not directly actionable for D2C, the spread of AI literacy through education tools will raise future consumers' AI fluency, increasing receptiveness to AI-powered D2C experiences.",
-    "key_points": [
-      "OpenAI, 브라질 교사의 날 맞아 브라질 포르투갈어 교육자 프로그램 출시",
-      "Study Mode, 소크라테스식 질문 방식으로 학생의 능동적 학습 지원",
-      "교육 분야 AI 침투를 통한 AI 리터러시 대중화 가속"
-    ],
-    "tags": [
-      "openai",
-      "ai-education",
-      "study-mode",
-      "brazil"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "EMERGING_TECH",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "OpenAI",
-      "Study Mode",
-      "AI for Educators"
-    ],
-    "one_line_insight_ko": "교육 AI의 확산은 AI에 능숙한 차세대 소비자를 형성하여 D2C 플랫폼의 AI 기능 채택을 장기적으로 촉진한다.",
-    "one_line_insight_en": "The proliferation of educational AI tools is cultivating a generation of AI-savvy consumers who will expect and embrace AI-driven D2C experiences.",
-    "ai_processed": true
-  },
-  {
-    "title": "Tracking AI Overviews: What the data actually shows",
-    "link": "https://blog.hubspot.com/marketing/tracking-ai-overviews",
-    "date_published": "2026-10-14",
-    "description": "AI Overviews have shifted how audiences discover brands. Gone are the days when users would click through multiple search results until they found what they’re looking for. Now, AI Overviews answers questions directly on the results page, meaning brands are either cited or ignored without users ever visiting a website.",
-    "source_id": "hubspot_marketing",
-    "source_name": "HubSpot Marketing Blog",
-    "source_url": "https://blog.hubspot.com/marketing/rss.xml",
-    "categories": [
-      "marketing",
-      "ai_marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.88,
-    "relevance_label": "high",
-    "title_en": "Data Shows AI Overviews Are Reshaping Brand Discovery and Search Traffic Dynamics",
-    "summary_ko": "구글의 AI Overviews가 검색 결과 페이지에서 직접 답변을 제공하면서 브랜드 발견 방식이 근본적으로 변화하고 있다. 사용자들이 웹사이트를 직접 방문하지 않고도 정보를 얻게 되면서, 브랜드는 AI에 인용되거나 완전히 무시되는 이분법적 상황에 처한다. 실제 데이터를 통해 AI Overviews가 검색 트래픽과 브랜드 노출에 미치는 영향이 분석됐다.",
-    "summary_en": "Google's AI Overviews are fundamentally changing how audiences discover brands by delivering direct answers on the search results page, reducing the need to click through to websites. Brands now face a binary outcome: being cited by AI Overviews or being entirely ignored without users ever visiting their site. Data analysis reveals the measurable impact of AI Overviews on search traffic and brand visibility.",
-    "so_what_ko": "LG D2C는 구글 AI Overviews에서 브랜드와 제품이 인용될 수 있도록 콘텐츠 전략을 AI 검색 최적화(AEO) 관점으로 전환하고, 웹사이트 직접 트래픽 의존도를 줄이는 멀티채널 브랜드 가시성 전략을 수립해야 한다.",
-    "so_what_en": "LG D2C must pivot content strategy toward AI answer engine optimization (AEO) to ensure brand and product citation in AI Overviews, while reducing reliance on direct website traffic as a primary discovery channel.",
-    "key_points": [
-      "구글 AI Overviews가 검색 결과 내 직접 답변 제공으로 브랜드 발견 패러다임 변화",
-      "브랜드는 AI에 인용되거나 완전히 무시되는 양극화된 노출 환경에 직면",
-      "SEO에서 AEO(AI 답변 최적화)로의 전략 전환 필요성 대두",
-      "웹사이트 직접 방문 트래픽 감소에 대한 대응 전략 시급"
-    ],
-    "tags": [
-      "ai-overviews",
-      "seo",
-      "brand-discovery",
-      "google",
-      "search-traffic"
-    ],
-    "confidence": 0.82,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "Google",
-      "AI Overviews",
-      "HubSpot"
-    ],
-    "one_line_insight_ko": "구글 AI Overviews 시대에 LG 브랜드가 살아남으려면 SEO를 넘어 AI 인용 최적화(AEO) 전략이 필수다.",
-    "one_line_insight_en": "In the AI Overviews era, LG D2C must move beyond traditional SEO to master AI answer engine optimization or risk becoming invisible to consumers.",
-    "ai_processed": true
-  },
-  {
-    "title": "Claude skills vs. plugins vs. MCP connectors: A simple guide",
-    "link": "https://blog.hubspot.com/marketing/claude-skills-plugins-mcp",
-    "date_published": "2026-10-14",
-    "description": "If you’ve opened Claude’s Customize settings and weren’t sure whether a task called for a Skill, a connector, or a Plugin, you’re not alone.",
-    "source_id": "hubspot_marketing",
-    "source_name": "HubSpot Marketing Blog",
-    "source_url": "https://blog.hubspot.com/marketing/rss.xml",
-    "categories": [
-      "ai_marketing",
-      "agentic_commerce",
-      "tech"
-    ],
-    "relevance_score": 0.78,
-    "relevance_label": "high",
-    "title_en": "Claude Skills, Plugins, and MCP Connectors Explained: A Practical Guide for Marketers",
-    "summary_ko": "Anthropic의 Claude에서 제공되는 Skills, Plugins, MCP Connectors의 차이점과 각각의 적합한 사용 사례를 정리한 실용 가이드가 공개됐다. 세 가지 확장 기능은 Claude의 역량을 외부 도구 및 데이터와 연결하는 방식에서 각기 다른 특성을 지닌다. 마케터와 비기술 사용자들이 Claude를 업무에 효과적으로 활용하기 위한 설정 방법을 안내한다.",
-    "summary_en": "A practical guide clarifies the differences between Claude's Skills, Plugins, and MCP Connectors, explaining when and how to use each extension type. The three tools differ in how they connect Claude's capabilities to external systems and data sources. The guide is aimed at helping marketers and non-technical users configure Claude more effectively for their workflows.",
-    "so_what_ko": "LG D2C 마케팅팀은 Claude의 확장 기능 구조를 이해하고, MCP Connectors를 통해 내부 데이터 시스템과 AI를 연결하는 에이전틱 마케팅 워크플로우 구축 가능성을 검토해야 한다.",
-    "so_what_en": "LG D2C marketing teams should understand Claude's extension architecture and explore MCP Connectors as a pathway to building agentic marketing workflows connected to internal data systems.",
-    "key_points": [
-      "Claude의 Skills, Plugins, MCP Connectors 간 기능적 차이점 명확화",
-      "MCP Connectors는 외부 시스템과의 데이터 연결에 특화된 확장 도구",
-      "비기술 마케터도 Claude 확장 기능을 활용한 워크플로우 자동화 가능",
-      "에이전틱 AI 설정에 대한 마케터 교육 필요성 증가"
-    ],
-    "tags": [
-      "claude",
-      "anthropic",
-      "mcp",
-      "ai-tools",
-      "marketing-automation"
-    ],
-    "confidence": 0.75,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Anthropic",
-      "Claude",
-      "MCP Connectors",
-      "HubSpot"
-    ],
-    "one_line_insight_ko": "Claude의 MCP Connectors는 D2C 마케터가 내부 데이터와 AI를 연결하는 에이전틱 워크플로우를 구축하는 실질적 진입점이다.",
-    "one_line_insight_en": "Claude's MCP Connectors offer D2C marketers a practical entry point for building agentic workflows that connect AI directly to internal data and tools.",
-    "ai_processed": true
-  },
-  {
-    "title": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
-    "link": "https://www.latent.space/p/crossing-the-threshold",
-    "date_published": "2026-10-14",
-    "description": "At AI Engineer New York, frontier labs and financial firms explored how to give agents useful autonomy while keeping consequential decisions under control.",
-    "source_id": "latent_space",
-    "source_name": "Latent Space (The AI Index)",
-    "source_url": "https://www.latent.space/feed",
-    "categories": [
-      "agentic_commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.72,
-    "relevance_label": "high",
-    "title_en": "OpenAI and Anthropic Explore Autonomy and Safety Boundaries for Financial AI Agents",
-    "summary_ko": "AI Engineer New York 행사에서 OpenAI, Anthropic 등 주요 AI 연구소와 금융 기업들이 에이전트의 자율성과 안전성 균형 문제를 논의했다. 금융 분야에서 AI 에이전트가 유용한 자율성을 갖추면서도 중요한 의사결정을 인간의 통제 하에 두는 방법에 초점이 맞춰졌다. 프론티어 AI 모델이 실제 금융 업무에 적용될 때 거버넌스와 통제 메커니즘이 핵심 과제로 부상했다.",
-    "summary_en": "At AI Engineer New York, frontier AI labs including OpenAI and Anthropic joined financial firms to explore the balance between agent autonomy and safety in high-stakes environments. The central challenge discussed was how to give financial AI agents meaningful autonomy while keeping consequential decisions under human oversight. Governance and control mechanisms emerged as critical considerations as AI agents move into real-world financial applications.",
-    "so_what_ko": "금융 에이전트의 자율성-안전성 프레임워크는 LG D2C의 AI 기반 주문·결제·고객 대응 자동화 설계 시 직접 적용 가능한 거버넌스 원칙을 제시한다.",
-    "so_what_en": "The autonomy-safety frameworks discussed for financial agents offer directly applicable governance principles for designing LG D2C's AI-driven order, payment, and customer service automation systems.",
-    "key_points": [
-      "OpenAI와 Anthropic이 금융 에이전트의 자율성 한계 설정 방식을 공개적으로 논의",
-      "고위험 의사결정 환경에서 AI 에이전트의 '임계값(threshold)' 개념이 핵심 설계 원칙으로 부상",
-      "금융 기업들이 AI 에이전트 도입 시 책임 소재와 감사 가능성(auditability) 확보를 최우선 과제로 인식"
-    ],
-    "tags": [
-      "ai-agents",
-      "financial-ai",
-      "safety-governance",
-      "autonomy",
-      "openai"
-    ],
-    "confidence": 0.65,
-    "strategic_theme": "AI_AGENT",
     "regions": [
       "GLOBAL",
       "AMER"
     ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
     "key_entities": [
-      "OpenAI",
       "Anthropic",
-      "AI Engineer New York"
+      "Claude"
     ],
-    "one_line_insight_ko": "금융 AI 에이전트의 자율성-안전성 균형 논의는 D2C 커머스 자동화의 거버넌스 설계에 중요한 선례를 제공한다.",
-    "one_line_insight_en": "The autonomy-safety threshold debate in financial AI agents sets a critical governance precedent for designing responsible D2C commerce automation.",
+    "one_line_insight_ko": "Anthropic의 주식 5% 공익 펀드 기부는 AI 기업의 사회적 책임 경쟁이 본격화되고 있음을 보여주며, 기업 AI 파트너 선택 기준에 거버넌스 요소가 부각될 것을 예고한다.",
+    "one_line_insight_en": "Anthropic's 5% share pledge signals that social responsibility is becoming a competitive differentiator among AI companies, and governance criteria will increasingly influence enterprise AI partnership decisions.",
     "ai_processed": true
   },
   {
-    "title": "Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio",
-    "link": "https://www.latent.space/p/lab-in-the-loop-at-compute-speed",
-    "date_published": "2026-10-14",
-    "description": "How Leash Bio tamed DELs, the assay that traumatizes everyone, and used the data to catch cheating models. And why that same data is perfect for AI agents learning to think like chemists.",
-    "source_id": "latent_space",
-    "source_name": "Latent Space (The AI Index)",
-    "source_url": "https://www.latent.space/feed",
+    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+    "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+    "date_published": "2026-10-18",
+    "description": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.45,
+    "relevance_label": "high",
+    "title_en": "Disney Agrees to Acquire Majority of Character.AI's Workforce in Stalking Horse Bid",
+    "summary_ko": "디즈니가 Character.AI의 대다수 직원을 채용하는 조건으로 스토킹 호스 입찰에 합의했다. Character.AI 직원 중 디즈니로부터 채용 제안을 받은 '대다수'가 이를 수락한 것으로 알려졌다. 다만 이는 스토킹 호스 입찰 방식이므로 더 높은 가격을 제시하는 다른 기업이 나타날 가능성도 있다.",
+    "summary_en": "Disney has agreed to hire the vast majority of Character.AI's workforce as part of a stalking horse bid. According to filings, most employees who received job offers from Disney accepted them. However, since this is a stalking horse bid, another company could still come forward with a higher competing offer.",
+    "so_what_ko": "대형 엔터테인먼트 기업이 AI 캐릭터 및 대화형 AI 전문 인력을 전략적으로 흡수하는 흐름은, LG D2C도 AI 고객 상호작용 역량 확보를 위한 인재 전략을 재검토해야 함을 시사한다.",
+    "so_what_en": "Disney's aggressive talent acquisition from a conversational AI startup signals that AI character and interaction expertise is becoming a strategic asset; LG D2C should evaluate similar talent pipelines for AI-driven customer engagement.",
+    "key_points": [
+      "Disney has placed a stalking horse bid to acquire the majority of Character.AI's employees",
+      "The vast majority of Character.AI employees offered positions at Disney have accepted",
+      "The stalking horse structure leaves the door open for competing bids from other companies"
+    ],
+    "tags": [
+      "character-ai",
+      "disney",
+      "ai-talent",
+      "acquisition",
+      "conversational-ai"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Disney",
+      "Character.AI"
+    ],
+    "one_line_insight_ko": "디즈니의 Character.AI 인력 흡수는 대화형 AI 전문 인재가 엔터테인먼트·커머스 전반의 핵심 경쟁 자산으로 부상하고 있음을 보여준다.",
+    "one_line_insight_en": "Disney's talent acquisition of Character.AI signals that conversational AI expertise is rapidly becoming a critical competitive asset across entertainment and commerce sectors.",
+    "ai_processed": true
+  },
+  {
+    "title": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
+    "link": "https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space/",
+    "date_published": "2026-10-12",
+    "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now New benchmark shows how AI models lack intuitive visual reasoning:…Humanity’s Sixth Sense highlights some shortcomings of current AI systems…AI startups Elorian and Scale AI have built […]",
+    "source_id": "import_ai",
+    "source_name": "Import AI (Jack Clark)",
+    "source_url": "https://jack-clark.net/feed/",
     "categories": [
       "tech"
     ],
     "relevance_score": 0.3,
     "relevance_label": "high",
-    "title_en": "Leash Bio Uses AI Agents and Chemical Data to Build Models That Think Like Chemists",
-    "summary_ko": "바이오테크 스타트업 Leash Bio는 DNA 인코딩 라이브러리(DEL) 데이터를 활용해 AI 모델의 '치팅(cheating)' 문제를 탐지하고 신뢰성을 높이는 방법을 개발했다. 동일한 화학 데이터가 화학자처럼 사고하는 AI 에이전트 훈련에 이상적인 자료로 활용될 수 있음을 발견했다. 이 접근법은 과학적 도메인에서 AI 에이전트의 추론 능력을 향상시키기 위한 '랩-인-더-루프(lab-in-the-loop)' 방법론을 제시한다.",
-    "summary_en": "Biotech startup Leash Bio developed methods to detect AI model cheating behaviors using DNA-encoded library (DEL) assay data, improving model reliability in chemical research contexts. The same chemical datasets that exposed model shortcomings proved ideal for training AI agents to reason like chemists. Their 'lab-in-the-loop' approach demonstrates how domain-specific data can be leveraged to build more trustworthy and capable AI agents in scientific fields.",
-    "so_what_ko": "도메인 특화 데이터로 AI 모델의 신뢰성을 검증하는 Leash Bio의 방법론은 LG D2C가 제품 추천·재고 예측 AI의 품질을 강화하는 데 참고할 수 있다.",
-    "so_what_en": "Leash Bio's methodology of using domain-specific data to validate and improve AI model reliability offers a transferable framework for LG D2C to strengthen quality assurance in product recommendation and inventory AI systems.",
+    "title_en": "Import AI 476: AI Visual Reasoning Gaps, Open-Weight Model Setbacks, and AI in Space",
+    "summary_ko": "AI 뉴스레터 'Import AI' 476호는 현재 AI 모델의 직관적 시각 추론 한계를 드러내는 새로운 벤치마크를 소개한다. 중국 모델보다 성능이 낮은 오픈웨이트 모델의 문제와 AI 스타트업 Elorian 및 Scale AI의 동향도 다룬다. 우주 분야로의 AI 확장 등 다양한 AI 연구 트렌드가 포함된다.",
+    "summary_en": "Import AI Issue 476 highlights a new benchmark called Humanity's Sixth Sense that exposes shortcomings in AI models' intuitive visual reasoning capabilities. The newsletter also covers concerns about open-weight models performing worse than Chinese counterparts, and updates on AI startups Elorian and Scale AI. Additional topics include the expansion of AI into space applications.",
+    "so_what_ko": "AI 모델의 시각적 추론 한계는 LG D2C의 비주얼 커머스 및 AI 기반 제품 추천 시스템 도입 시 신뢰성 검증 절차의 중요성을 상기시켜준다.",
+    "so_what_en": "Awareness of current AI visual reasoning limitations should prompt LG D2C to rigorously validate AI model performance before deploying visual commerce or AI-driven product recommendation features.",
     "key_points": [
-      "DEL(DNA 인코딩 라이브러리) 데이터를 활용한 AI 모델 신뢰성 검증 방법론 개발",
-      "AI 에이전트가 도메인 전문가(화학자)처럼 사고하도록 훈련하는 '랩-인-더-루프' 접근법 제시",
-      "모델 치팅 탐지를 통해 AI 신뢰성 확보가 과학적 응용의 핵심 과제임을 실증"
+      "New benchmark 'Humanity's Sixth Sense' reveals gaps in AI intuitive visual reasoning",
+      "Open-weight models are underperforming relative to Chinese AI models, raising competitiveness concerns",
+      "AI is expanding into new domains including space applications"
     ],
     "tags": [
-      "ai-agents",
-      "model-reliability",
-      "domain-specific-ai",
-      "biotech",
-      "lab-in-the-loop"
+      "ai-research",
+      "visual-reasoning",
+      "open-weight-models",
+      "benchmarks",
+      "scale-ai"
     ],
     "confidence": 0.6,
     "strategic_theme": "EMERGING_TECH",
     "regions": [
-      "GLOBAL",
-      "AMER"
+      "GLOBAL"
     ],
     "business_impact": "LOW",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "Leash Bio",
-      "DEL"
+      "Scale AI",
+      "Elorian",
+      "Import AI"
     ],
-    "one_line_insight_ko": "과학 분야의 도메인 특화 AI 에이전트 훈련 방법론은 커머스 AI의 신뢰성 검증 체계 설계에도 적용 가능한 원칙을 내포한다.",
-    "one_line_insight_en": "Domain-specific AI agent training methodologies from scientific fields carry transferable principles for building more reliable and trustworthy commerce AI systems.",
+    "one_line_insight_ko": "AI 모델의 시각적 추론 한계가 밝혀지면서, 실제 비즈니스 적용 전 엄격한 성능 검증의 필요성이 더욱 중요해지고 있다.",
+    "one_line_insight_en": "Newly identified gaps in AI visual reasoning underscore the critical need for rigorous model validation before deploying AI in consumer-facing commerce applications.",
     "ai_processed": true
   },
   {
-    "title": "5 Tips To Train Your AI Tools: Get Rid of Those Hallucinations",
-    "link": "https://www.salesforce.com/blog/small-business/train-your-ai-tools/",
-    "date_published": "2026-10-14",
-    "description": "Put your AI tools in the ring with these tips on training against hallucinations.",
+    "title": "Bot Mitigation in the Age of AI Crawlers: How to Strategize Your Defense",
+    "link": "https://www.salesforce.com/blog/bot-mitigation-strategy/",
+    "date_published": "2026-10-07",
+    "description": "Not all bot traffic is bad. For years, bots were synonymous with risk: scrapers, scalpers, and credential stuffers trying to steal inventory, stuff stolen credentials into your login page, or scrape pricing and…",
     "source_id": "salesforce_agentforce",
     "source_name": "Salesforce Agentforce Blog",
     "source_url": "https://www.salesforce.com/blog/category/ai/feed/",
     "categories": [
-      "agentic_commerce",
-      "ai_marketing"
-    ],
-    "relevance_score": 0.78,
-    "relevance_label": "high",
-    "title_en": "Salesforce Offers 5 Practical Tips to Reduce AI Hallucinations in Business Tools",
-    "summary_ko": "Salesforce Agentforce 블로그가 AI 도구의 환각(hallucination) 현상을 줄이기 위한 5가지 실용적 훈련 팁을 소개했다. 중소기업이 AI 에이전트를 실무에 효과적으로 도입하기 위해 AI 도구를 지속적으로 조정·훈련하는 방법에 초점을 맞추고 있다. AI 환각 문제는 비즈니스 신뢰도와 고객 경험에 직접적인 영향을 미치는 핵심 과제로 강조됐다.",
-    "summary_en": "Salesforce's Agentforce blog published five practical tips for training AI tools to reduce hallucination issues in business applications. The guidance is specifically aimed at helping small businesses effectively deploy and continuously refine AI agents for real-world operational use. Reducing AI hallucinations is highlighted as a critical factor for maintaining business credibility and delivering reliable customer experiences.",
-    "so_what_ko": "AI 환각 감소 훈련 방법은 LG D2C의 고객 상담·제품 추천 AI 에이전트의 정확성과 신뢰성을 높이기 위해 즉시 적용 가능한 실용적 지침이다.",
-    "so_what_en": "These hallucination-reduction training methods are immediately actionable for LG D2C to improve the accuracy and trustworthiness of customer service and product recommendation AI agents.",
-    "key_points": [
-      "Salesforce가 AI 환각 문제 해결을 위한 5가지 구체적 훈련 방법 제시",
-      "AI 에이전트의 지속적 조정과 피드백 루프가 신뢰할 수 있는 비즈니스 AI의 핵심 요건으로 강조",
-      "중소기업도 적용 가능한 실용적 프레임워크로 AI 도구 품질 관리 접근법을 대중화"
-    ],
-    "tags": [
-      "ai-hallucination",
-      "salesforce",
-      "agentforce",
-      "ai-training",
-      "small-business"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Salesforce",
-      "Agentforce"
-    ],
-    "one_line_insight_ko": "AI 환각 방지 훈련 체계는 D2C 고객 접점 AI 에이전트의 신뢰성 확보를 위한 필수 운영 역량이다.",
-    "one_line_insight_en": "Systematic AI hallucination reduction training is becoming a foundational operational capability for deploying trustworthy customer-facing D2C AI agents.",
-    "ai_processed": true
-  },
-  {
-    "title": "IBM: Agentic AI is reshaping governance, controls and trust",
-    "link": "https://aibusiness.com/generative-ai/ibm-agentic-ai-reshaping-governance-controls-trust",
-    "date_published": "2026-10-14",
-    "description": "As AI agents move from answering questions to making decisions and acting, businesses face a growing challenge of keeping accountability in step with the pace of change.",
-    "source_id": "ai_business",
-    "source_name": "AI Business",
-    "source_url": "https://aibusiness.com/rss.xml",
-    "categories": [
+      "commerce",
       "agentic_commerce",
       "strategy"
     ],
     "relevance_score": 0.82,
     "relevance_label": "high",
-    "title_en": "IBM: Agentic AI Forces Businesses to Rethink Governance, Controls, and Accountability",
-    "summary_ko": "IBM은 AI 에이전트가 단순 질의응답 단계를 넘어 스스로 의사결정하고 행동하는 수준으로 진화하면서 기업의 거버넌스와 통제 체계가 근본적으로 재편되고 있다고 밝혔다. 변화의 속도에 책임 소재를 맞추는 것이 기업들의 핵심 과제로 부상하고 있으며, 신뢰 구축이 에이전틱 AI 도입의 전제 조건이 됐다. IBM은 AI 에이전트의 확산에 대응하는 새로운 거버넌스 프레임워크와 통제 메커니즘의 필요성을 강조했다.",
-    "summary_en": "IBM reports that as AI agents evolve from answering questions to making autonomous decisions and taking actions, businesses face fundamental challenges in reshaping their governance and control frameworks. Keeping accountability aligned with the rapid pace of agentic AI adoption has emerged as a defining organizational challenge. IBM emphasizes that establishing trust through robust governance mechanisms is now a prerequisite for responsible enterprise AI agent deployment.",
-    "so_what_ko": "LG D2C가 AI 에이전트를 마케팅·커머스 운영에 확대 적용하기 위해서는 IBM이 제시한 거버넌스 프레임워크를 선제적으로 내재화해야 책임 있는 스케일업이 가능하다.",
-    "so_what_en": "LG D2C must proactively internalize governance frameworks like those IBM advocates before scaling AI agents across marketing and commerce operations to ensure accountable and trustworthy deployment.",
+    "title_en": "Bot Mitigation in the Age of AI Crawlers: How to Strategize Your Defense",
+    "summary_ko": "모든 봇 트래픽이 위험한 것은 아니며, AI 크롤러 시대에는 정교한 봇 방어 전략이 필요하다. 기존에는 스크래퍼, 스캘퍼, 자격증명 도용 봇이 주된 위협이었으나 AI 에이전트의 등장으로 봇 트래픽의 성격이 변화하고 있다. Salesforce는 합법적인 AI 봇과 악성 봇을 구분하는 전략적 방어 방안을 제시한다.",
+    "summary_en": "Salesforce's Agentforce blog argues that not all bot traffic is harmful, urging businesses to develop nuanced bot mitigation strategies in the age of AI crawlers. Historically, bots were primarily associated with scrapers, scalpers, and credential stuffers, but the rise of AI agents is fundamentally changing the bot traffic landscape. The article outlines how organizations can strategically differentiate between legitimate AI bots and malicious ones.",
+    "so_what_ko": "LG D2C 플랫폼은 AI 쇼핑 에이전트의 접근을 허용하면서도 악성 봇을 차단하는 이중 전략이 필요하며, 봇 정책 수립이 커머스 전략의 핵심 과제로 부상하고 있다.",
+    "so_what_en": "LG D2C platforms must develop a dual-track bot strategy that welcomes legitimate AI shopping agents while blocking malicious bots, making bot governance a core component of commerce infrastructure planning.",
     "key_points": [
-      "AI 에이전트의 자율적 의사결정 능력 확장으로 기업 거버넌스 체계 전면 재편 필요성 대두",
-      "IBM이 에이전틱 AI 시대의 책임 소재(accountability) 확보를 기업 AI 전략의 최우선 과제로 규정",
-      "신뢰(trust)가 AI 에이전트 도입의 핵심 전제 조건으로 자리잡으면서 통제 메커니즘 설계가 경쟁 변수화"
+      "AI crawlers are reshaping the bot traffic landscape, requiring more nuanced defense strategies",
+      "Traditional bot threats (scrapers, scalpers, credential stuffers) are now joined by legitimate AI agents",
+      "Salesforce advocates for distinguishing between beneficial AI bots and malicious traffic rather than blanket blocking",
+      "Businesses need updated bot mitigation frameworks that account for agentic commerce use cases"
     ],
     "tags": [
-      "agentic-ai",
-      "ibm",
-      "governance",
-      "ai-trust",
-      "enterprise-ai"
+      "bot-mitigation",
+      "ai-crawlers",
+      "agentic-commerce",
+      "cybersecurity",
+      "salesforce"
     ],
-    "confidence": 0.75,
+    "confidence": 0.8,
+    "strategic_theme": "PLATFORM_ECOSYSTEM",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Salesforce",
+      "Agentforce"
+    ],
+    "one_line_insight_ko": "AI 에이전트 시대에 봇 방어 전략은 단순 차단에서 합법적 AI 트래픽과 악성 트래픽을 구분하는 정교한 거버넌스로 진화해야 한다.",
+    "one_line_insight_en": "In the agentic commerce era, bot defense must evolve from blanket blocking to intelligent governance that distinguishes legitimate AI agents from malicious traffic.",
+    "ai_processed": true
+  },
+  {
+    "title": "Your MAICON Field Guide: Everything to Know Before You Go",
+    "link": "https://www.marketingaiinstitute.com/blog/your-maicon-field-guide-2026",
+    "date_published": "2026-10-06",
+    "description": "You’re coming to Cleveland for MAICON 2026. Excellent choice.Now let’s make sure you get the most out of it.",
+    "source_id": "marketing_ai_institute",
+    "source_name": "Marketing AI Institute",
+    "source_url": "https://www.marketingaiinstitute.com/blog/rss.xml",
+    "categories": [
+      "ai_marketing",
+      "marketing"
+    ],
+    "relevance_score": 0.5,
+    "relevance_label": "high",
+    "title_en": "MAICON 2026 Field Guide: What Attendees Need to Know Before the AI Marketing Conference",
+    "summary_ko": "Marketing AI Institute가 오하이오주 클리블랜드에서 열리는 MAICON 2026 참가자들을 위한 현장 가이드를 발행했다. 가이드는 컨퍼런스를 최대한 활용하기 위한 실용적인 정보를 제공한다. MAICON은 AI 마케팅 분야의 주요 연례 컨퍼런스로 자리매김하고 있다.",
+    "summary_en": "The Marketing AI Institute has published a comprehensive field guide for attendees of MAICON 2026, held in Cleveland, Ohio. The guide provides practical advice on how to maximize value from the conference experience. MAICON has established itself as a leading annual conference focused on artificial intelligence in marketing.",
+    "so_what_ko": "MAICON 2026은 AI 마케팅 트렌드와 실전 사례를 집약한 자리로, LG D2C 마케팅 팀이 최신 AI 마케팅 전략과 도구를 벤치마킹할 수 있는 중요한 인사이트 채널이 될 수 있다.",
+    "so_what_en": "MAICON 2026 represents a valuable benchmarking opportunity for LG D2C marketing teams to gain actionable insights on the latest AI marketing strategies, tools, and industry best practices.",
+    "key_points": [
+      "MAICON 2026 is being held in Cleveland, Ohio and targets AI marketing professionals",
+      "Marketing AI Institute provides a field guide to help attendees maximize conference ROI",
+      "The event serves as a key industry gathering point for AI marketing trends and case studies"
+    ],
+    "tags": [
+      "maicon",
+      "ai-marketing",
+      "conference",
+      "marketing-ai-institute",
+      "industry-event"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Marketing AI Institute",
+      "MAICON 2026"
+    ],
+    "one_line_insight_ko": "MAICON 2026은 AI 마케팅 전략 수립과 최신 트렌드 파악을 위한 핵심 산업 행사로, 관련 팀의 적극적인 참여가 권장된다.",
+    "one_line_insight_en": "MAICON 2026 is a key industry event for AI marketing strategy and trend intelligence, offering LG D2C teams a concentrated source of competitive benchmarking.",
+    "ai_processed": true
+  },
+  {
+    "title": "The next hurdle for AI agents: getting websites to let them in",
+    "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+    "date_published": "2026-10-06",
+    "description": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
+    "source_id": "techcrunch_commerce",
+    "source_name": "TechCrunch Commerce",
+    "source_url": "https://techcrunch.com/category/commerce/feed",
+    "categories": [
+      "commerce",
+      "agentic_commerce",
+      "tech"
+    ],
+    "relevance_score": 0.95,
+    "relevance_label": "high",
+    "title_en": "AI Agents Face New Hurdle: Getting Websites to Actually Let Them In",
+    "summary_ko": "AI 개인 에이전트는 쇼핑, 항공권 예약, 레스토랑 예약 등을 대신 처리해 줄 것을 약속하지만, 웹사이트의 의도적인 차단과 봇 방어 시스템이 이를 방해하고 있다. 이로 인해 소비자들이 피해를 보는 상황이 발생하고 있으며, 새로운 표준안이 이 문제를 해결하기 위해 등장하고 있다. AI 에이전트와 웹사이트 간의 접근 권한 문제가 에이전틱 커머스 확산의 핵심 장벽으로 부상하고 있다.",
+    "summary_en": "Personal AI agents promise to handle tasks like shopping, booking flights, and making reservations on behalf of consumers, but deliberate website blocks and anti-bot defenses are creating significant friction. These barriers are leaving consumers caught in the middle, unable to fully benefit from AI agent capabilities. A new industry standard is emerging to address the access conflict between AI agents and websites.",
+    "so_what_ko": "LG D2C는 AI 쇼핑 에이전트의 접근을 허용하는 표준 채택을 선제적으로 검토해야 하며, 이는 에이전틱 커머스 채널에서의 경쟁 우위를 확보하는 전략적 기회가 될 수 있다.",
+    "so_what_en": "LG D2C should proactively evaluate and adopt emerging AI agent access standards to position itself as an agent-friendly commerce destination, gaining early competitive advantage in the agentic commerce channel.",
+    "key_points": [
+      "AI personal agents capable of shopping and booking are being blocked by existing anti-bot website defenses",
+      "Consumers are negatively impacted as they cannot fully leverage AI agent capabilities due to these restrictions",
+      "A new industry standard is being developed to establish protocols for AI agent access to websites",
+      "The tension between website security and AI agent accessibility is a defining challenge for the next phase of e-commerce"
+    ],
+    "tags": [
+      "ai-agents",
+      "agentic-commerce",
+      "bot-defense",
+      "web-standards",
+      "ecommerce"
+    ],
+    "confidence": 0.85,
     "strategic_theme": "AI_AGENT",
     "regions": [
       "GLOBAL"
@@ -642,56 +695,10 @@
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "IBM"
+      "TechCrunch"
     ],
-    "one_line_insight_ko": "에이전틱 AI의 자율 행동 확장은 거버넌스와 신뢰 체계를 AI 전략의 핵심 경쟁력으로 전환시키고 있다.",
-    "one_line_insight_en": "As agentic AI moves from answering to acting, governance and trust infrastructure are becoming core competitive differentiators in enterprise AI strategy.",
-    "ai_processed": true
-  },
-  {
-    "title": "Can we change an AI model&#8217;s architecture without retraining it from scratch?",
-    "link": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
-    "date_published": "2026-10-12",
-    "description": "“Priming” reuses pretrained Transformer weights to build models with more efficient architectures at less than 1% of the original training cost and with throughputs up to twice as high.",
-    "source_id": "amazon_science",
-    "source_name": "Amazon Science",
-    "source_url": "https://www.amazon.science/index.rss",
-    "categories": [
-      "tech"
-    ],
-    "relevance_score": 0.52,
-    "relevance_label": "high",
-    "title_en": "Amazon Scientists Develop 'Priming' Technique to Upgrade AI Model Architecture Without Full Retraining",
-    "summary_ko": "Amazon Science 연구팀이 사전 훈련된 Transformer 가중치를 재활용해 더 효율적인 아키텍처로 전환하는 '프라이밍(Priming)' 기법을 개발했다. 이 방법은 원래 훈련 비용의 1% 미만으로 모델 아키텍처를 변경할 수 있으며, 처리 속도(throughput)는 최대 2배까지 향상된다. 전체 재훈련 없이 AI 모델을 업그레이드할 수 있는 이 기술은 AI 운영 비용 절감과 모델 효율성 향상에 중요한 돌파구를 제시한다.",
-    "summary_en": "Amazon Science researchers developed a technique called 'Priming' that reuses pretrained Transformer weights to convert existing models into more efficient architectures. The method achieves architectural upgrades at less than 1% of the original training cost while delivering throughput improvements of up to twice the baseline performance. This breakthrough enables organizations to upgrade AI model capabilities without the prohibitive cost and time of full retraining from scratch.",
-    "so_what_ko": "프라이밍 기술은 LG D2C가 기존 AI 모델을 대규모 재훈련 없이 비용 효율적으로 성능 향상시킬 수 있는 가능성을 열어주며, AI 운영 비용 최적화 전략에 직접 활용할 수 있다.",
-    "so_what_en": "The Priming technique opens a cost-efficient pathway for LG D2C to upgrade existing AI models without full retraining cycles, directly enabling more agile and economical AI operations.",
-    "key_points": [
-      "Amazon의 '프라이밍' 기법으로 기존 Transformer 모델을 원래 비용의 1% 미만으로 아키텍처 전환 가능",
-      "처리 속도(throughput) 최대 2배 향상으로 동일 인프라에서 AI 서비스 용량 확대 가능",
-      "전체 재훈련 불필요로 AI 모델 업그레이드 주기 단축 및 비용 구조 혁신 가능"
-    ],
-    "tags": [
-      "amazon",
-      "transformer",
-      "model-efficiency",
-      "ai-architecture",
-      "priming"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "EMERGING_TECH",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Amazon",
-      "Amazon Science",
-      "Transformer"
-    ],
-    "one_line_insight_ko": "프라이밍 기술은 AI 모델의 성능-비용 트레이드오프를 근본적으로 바꿔 기업의 AI 업그레이드 전략을 재정의할 잠재력을 지닌다.",
-    "one_line_insight_en": "Amazon's Priming technique fundamentally rebalances the performance-cost tradeoff in AI model upgrades, potentially redefining how enterprises approach AI infrastructure modernization.",
+    "one_line_insight_ko": "AI 쇼핑 에이전트의 웹사이트 접근 표준화는 에이전틱 커머스의 성패를 가르는 핵심 인프라 이슈로, 선제적 대응이 D2C 경쟁 우위를 결정한다.",
+    "one_line_insight_en": "Standardizing AI agent access to websites is the defining infrastructure challenge for agentic commerce, and early adoption of emerging protocols will be a key differentiator for D2C brands.",
     "ai_processed": true
   }
 ]
