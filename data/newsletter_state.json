@@ -2,9 +2,8 @@
   "last_sent_date": "2026-04-12",
   "last_sent_at_kst": "2026-04-12T16:22:20.398220+09:00",
   "last_recipient_count": 59,
-  "last_news_items": 5,
+  "last_news_items": 12,
   "recently_sent_content_dates": [
-    "2026-10-06",
     "2026-10-07",
     "2026-10-08",
     "2026-10-09",
@@ -17,15 +16,16 @@
     "2026-10-16",
     "2026-10-17",
     "2026-10-18",
-    "2026-10-19"
+    "2026-10-19",
+    "2026-10-20"
   ],
   "last_sent_content_date": "2026-04-12",
-  "last_sent_date_ko": "2026-10-19",
-  "last_sent_date_en": "2026-10-19",
-  "last_sent_content_date_en": "2026-10-19",
-  "last_sent_at_kst_en": "2026-10-19T21:06:30.900192+09:00",
+  "last_sent_date_ko": "2026-10-20",
+  "last_sent_date_en": "2026-10-20",
+  "last_sent_content_date_en": "2026-10-20",
+  "last_sent_at_kst_en": "2026-10-20T19:59:53.064360+09:00",
   "last_recipient_count_en": 2,
-  "last_sent_content_date_ko": "2026-10-19",
-  "last_sent_at_kst_ko": "2026-10-19T21:06:28.258596+09:00",
+  "last_sent_content_date_ko": "2026-10-20",
+  "last_sent_at_kst_ko": "2026-10-20T19:59:50.816010+09:00",
   "last_recipient_count_ko": 59
 }
