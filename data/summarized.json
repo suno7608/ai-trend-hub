@@ -1,267 +1,83 @@
 [
   {
-    "title": "Can Best Buy be the new gaming boss?",
-    "link": "https://www.retaildive.com/news/best-buy-gaming-boss-digital-hub-pilot/833471/",
-    "date_published": "2026-10-20",
-    "description": "The electronics retailer is piloting a gaming hub that brings together content, deals and preorders, and will also open a dedicated gaming hub inside a store in California.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.45,
-    "relevance_label": "high",
-    "title_en": "Best Buy Pilots Digital and In-Store Gaming Hub to Capture Gaming Market",
-    "summary_ko": "베스트바이는 게임 콘텐츠, 할인 혜택, 사전 주문을 통합한 디지털 게이밍 허브를 시범 운영하고 있다. 또한 캘리포니아 매장 내 전용 게이밍 허브 오픈도 계획 중이다. 이는 베스트바이가 게임 전문 소매 공간으로의 포지셔닝 강화를 시도하는 전략적 행보다.",
-    "summary_en": "Best Buy is piloting a gaming hub that integrates content, deals, and preorders in a unified digital experience. The retailer also plans to open a dedicated physical gaming hub inside a California store. This initiative signals Best Buy's strategic push to position itself as a leading destination for gaming consumers.",
-    "so_what_ko": "LG D2C 관점에서, 게이밍 전용 오프라인·온라인 허브 모델은 게이밍 모니터·TV 등 관련 제품 라인업의 체험형 전시 및 번들 판매 채널로 활용할 수 있는 파트너십 기회를 시사한다.",
-    "so_what_en": "For LG D2C, Best Buy's gaming hub model presents a potential partnership channel to showcase gaming monitors and TVs through experiential retail and bundled offers.",
-    "key_points": [
-      "Best Buy는 콘텐츠·딜·사전주문을 통합한 디지털 게이밍 허브 파일럿 운영 중",
-      "캘리포니아 매장 내 전용 게이밍 허브 물리적 공간 오픈 예정",
-      "게임 특화 소매 포지셔닝으로 경쟁력 강화 시도"
-    ],
-    "tags": [
-      "gaming-retail",
-      "experiential-retail",
-      "omnichannel",
-      "best-buy",
-      "d2c-partnership"
-    ],
-    "confidence": 0.65,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Best Buy",
-      "Gaming Hub"
-    ],
-    "one_line_insight_ko": "베스트바이의 게이밍 허브 전략은 가전 브랜드에게 게임 특화 체험 소매 채널 활용 기회를 제공한다.",
-    "one_line_insight_en": "Best Buy's gaming hub initiative creates a strategic retail channel opportunity for consumer electronics brands targeting gamers.",
-    "ai_processed": true
-  },
-  {
-    "title": "Courvoisier’s first global campaign in years embraces house party culture",
-    "link": "https://www.marketingdive.com/news/courvoisiers-first-global-campaign-in-years-embraces-house-party-culture/833481/",
-    "date_published": "2026-10-20",
-    "description": "The campaign, which will run across social, retail, TV and OOH channels, comes as the category continues to face pressure after COVID-era booms.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
-    "categories": [
-      "marketing"
-    ],
-    "relevance_score": 0.3,
-    "relevance_label": "high",
-    "title_en": "Courvoisier Launches First Global Campaign in Years to Tap Into House Party Culture",
-    "summary_ko": "꾸르부아지에는 수년 만에 첫 글로벌 캠페인을 론칭하며 하우스 파티 문화를 중심 테마로 내세웠다. 이 캠페인은 소셜, 리테일, TV, OOH 등 다양한 채널에서 동시에 집행된다. 코로나 이후 코냑 카테고리 전반이 압박을 받는 시점에서 브랜드 재활성화를 노리는 행보다.",
-    "summary_en": "Courvoisier has launched its first global marketing campaign in years, centering on house party culture as its core theme. The campaign spans social media, retail, TV, and out-of-home channels simultaneously. This brand revitalization effort comes as the cognac category faces ongoing pressure following post-COVID demand booms.",
-    "so_what_ko": "멀티채널 캠페인 전략과 문화적 코드를 결합한 브랜드 재활성화 접근법은 LG D2C 마케팅팀이 소비자 라이프스타일 트렌드와 제품을 연결하는 캠페인 기획 시 참고할 수 있는 사례다.",
-    "so_what_en": "Courvoisier's multichannel, culturally-driven brand revitalization approach offers LG D2C marketers a reference model for linking product campaigns to relevant consumer lifestyle trends.",
-    "key_points": [
-      "수년 만의 첫 글로벌 캠페인으로 브랜드 재활성화 시도",
-      "하우스 파티 문화 코드를 활용한 소비자 접점 확대",
-      "소셜·리테일·TV·OOH 통합 멀티채널 캠페인 집행"
-    ],
-    "tags": [
-      "brand-campaign",
-      "multichannel-marketing",
-      "lifestyle-marketing",
-      "brand-revitalization"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Courvoisier"
-    ],
-    "one_line_insight_ko": "문화적 트렌드와 멀티채널을 결합한 글로벌 캠페인은 카테고리 역풍 속 브랜드 존재감을 회복하는 핵심 전략이다.",
-    "one_line_insight_en": "Culturally-anchored multichannel campaigns can serve as a powerful brand revitalization tool even amid category-wide headwinds.",
-    "ai_processed": true
-  },
-  {
-    "title": "Target Ditches ‘Hot Santa’ for D’Arcy Carden in First Holiday Campaign Under New CEO",
-    "link": "https://www.adweek.com/commerce/target-ditches-hot-santa-for-darcy-carden-in-first-holiday-campaign-under-new-ceo/",
+    "title": "New Ecommerce Tools: October 21, 2026",
+    "link": "https://www.practicalecommerce.com/new-ecommerce-tools-october-21-2026",
     "date_published": "2026-10-21",
-    "description": "Plus, an in-depth look at Target's holiday strategy.",
-    "source_id": "adweek",
-    "source_name": "Adweek",
-    "source_url": "https://www.adweek.com/feed",
-    "categories": [
-      "marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.3,
-    "relevance_label": "high",
-    "title_en": "Target Unveils First Holiday Campaign Under New CEO, Featuring D'Arcy Carden",
-    "summary_ko": "타깃은 신임 CEO 체제 하에서 첫 번째 홀리데이 캠페인을 공개하며 배우 다아시 카든을 주인공으로 내세웠다. 이전 캠페인의 '핫 산타' 콘셉트에서 벗어나 새로운 브랜드 방향성을 제시한다. 해당 캠페인은 타깃의 홀리데이 시즌 전략을 심층적으로 반영한 것으로 평가된다.",
-    "summary_en": "Target has revealed its first holiday campaign under its new CEO, starring actress D'Arcy Carden as a departure from previous creative directions. The campaign moves away from the 'Hot Santa' concept used in prior years, signaling a brand repositioning under new leadership. The initiative offers an in-depth look at Target's evolving holiday retail strategy.",
-    "so_what_ko": "새 리더십 하에서 브랜드 크리에이티브 방향을 빠르게 전환한 타깃의 사례는 LG D2C 마케팅팀이 홀리데이 시즌 캠페인의 브랜드 일관성과 혁신 간 균형을 고려할 때 유용한 참조점이 된다.",
-    "so_what_en": "Target's swift creative pivot under new leadership is a useful reference for LG D2C teams balancing brand consistency with fresh messaging during key holiday campaign seasons.",
-    "key_points": [
-      "신임 CEO 취임 후 첫 홀리데이 캠페인으로 브랜드 크리에이티브 방향 전환",
-      "다아시 카든 기용으로 이전 '핫 산타' 콘셉트에서 탈피",
-      "타깃의 홀리데이 시즌 전략 심층 재편 신호"
-    ],
-    "tags": [
-      "holiday-campaign",
-      "brand-repositioning",
-      "retail-marketing",
-      "target"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Target",
-      "D'Arcy Carden"
-    ],
-    "one_line_insight_ko": "타깃의 홀리데이 캠페인 전환은 리더십 교체 시 브랜드 마케팅 방향을 신속히 재정립하는 것이 얼마나 중요한지를 보여준다.",
-    "one_line_insight_en": "Target's holiday campaign shift illustrates how new leadership can rapidly redefine brand creative direction to signal strategic change.",
-    "ai_processed": true
-  },
-  {
-    "title": "Shopify, Vercel Arm Stores for AI Agents",
-    "link": "https://www.practicalecommerce.com/shopify-vercel-arm-stores-for-ai-agents",
-    "date_published": "2026-10-20",
-    "description": "The collaboration allows humans and external AI agents alike to shop a store.  \nThe post Shopify, Vercel Arm Stores for AI Agents appeared first on Practical Ecommerce.",
+    "description": "New services this week include AI-powered marketing, agentic commerce, return platforms, dropshipping, cross-border commerce, sales tax management, and more.\nThe post New Ecommerce Tools: October 21, 2026 appeared first on Practical Ecommerce.",
     "source_id": "practical_ecommerce",
     "source_name": "Practical Ecommerce",
     "source_url": "https://www.practicalecommerce.com/feed",
     "categories": [
       "commerce",
-      "agentic_commerce",
-      "tech"
+      "ai_marketing",
+      "agentic_commerce"
     ],
-    "relevance_score": 0.95,
+    "relevance_score": 0.7,
     "relevance_label": "high",
-    "title_en": "Shopify and Vercel Collaborate to Enable AI Agent Shopping in E-Commerce Stores",
-    "summary_ko": "쇼피파이와 버셀이 협력하여 인간 소비자뿐 아니라 외부 AI 에이전트도 쇼핑할 수 있는 인프라를 구축했다. 이 통합을 통해 스토어 운영자는 AI 에이전트 기반 커머스에 즉시 대응할 수 있게 된다. 이는 에이전틱 커머스 시대의 본격적 도래를 알리는 중요한 기술적 이정표다.",
-    "summary_en": "Shopify and Vercel have partnered to build infrastructure that enables both human shoppers and external AI agents to browse and purchase from e-commerce stores. This collaboration equips store operators with the technical foundation needed to participate in the emerging agentic commerce ecosystem. The initiative marks a significant technological milestone signaling the mainstreaming of AI-driven autonomous shopping.",
-    "so_what_ko": "LG D2C 조직은 쇼피파이 기반 스토어의 AI 에이전트 쇼핑 지원 역량을 검토하고, 에이전틱 커머스 환경에서 LG 제품이 AI 에이전트의 추천·구매 대상이 될 수 있도록 데이터 및 API 전략을 선제적으로 준비해야 한다.",
-    "so_what_en": "LG D2C teams should proactively evaluate Shopify-based store compatibility with AI agent shopping and develop data and API strategies to ensure LG products are discoverable and purchasable by autonomous AI agents.",
+    "title_en": "New Ecommerce Tools Roundup: AI Marketing, Agentic Commerce, Returns & More (Oct 21, 2026)",
+    "summary_ko": "프랙티컬 이커머스가 2026년 10월 21일 기준 신규 이커머스 툴을 소개했다. 이번 주 주요 서비스에는 AI 기반 마케팅, 에이전틱 커머스, 반품 플랫폼, 드롭쉬핑, 크로스보더 커머스, 판매세 관리 등이 포함된다. 다양한 D2C 운영 영역을 커버하는 툴들이 동시에 출시되며 이커머스 기술 생태계의 빠른 확장세를 보여준다.",
+    "summary_en": "Practical Ecommerce published its weekly roundup of new ecommerce tools for October 21, 2026. The featured services span AI-powered marketing, agentic commerce, return platforms, dropshipping, cross-border commerce, and sales tax management. The breadth of new releases reflects the rapidly expanding technology ecosystem supporting D2C and retail operations.",
+    "so_what_ko": "LG D2C 조직은 AI 마케팅 및 에이전틱 커머스 분야에서 새롭게 등장하는 툴들을 지속적으로 모니터링하고 운영 효율화에 활용 가능한 솔루션을 조기에 검토해야 한다.",
+    "so_what_en": "LG's D2C team should actively track emerging tools in AI marketing and agentic commerce to identify early-adoption opportunities that can streamline operations and reduce costs.",
     "key_points": [
-      "쇼피파이·버셀 협력으로 AI 에이전트의 스토어 쇼핑 기능 지원 인프라 구축",
-      "인간 소비자와 AI 에이전트 모두를 지원하는 통합 커머스 환경 실현",
-      "에이전틱 커머스의 기술적 기반이 상용 플랫폼 수준에서 현실화"
+      "AI 기반 마케팅 및 에이전틱 커머스 툴이 동시 다발적으로 출시되고 있음",
+      "반품 플랫폼, 크로스보더 커머스, 판매세 관리 등 운영 전반을 지원하는 솔루션 확대",
+      "D2C 운영의 복잡성을 해소하는 전문화된 SaaS 툴 생태계가 성숙 단계에 진입 중"
     ],
     "tags": [
+      "ecommerce-tools",
       "agentic-commerce",
-      "ai-agents",
-      "shopify",
-      "ecommerce-infrastructure",
-      "vercel"
+      "ai-marketing",
+      "d2c-operations",
+      "saas"
     ],
-    "confidence": 0.85,
-    "strategic_theme": "AI_AGENT",
+    "confidence": 0.6,
+    "strategic_theme": "AI_COMMERCE",
     "regions": [
       "GLOBAL"
     ],
-    "business_impact": "HIGH",
+    "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Shopify",
-      "Vercel",
-      "AI Agents"
+      "Practical Ecommerce"
     ],
-    "one_line_insight_ko": "쇼피파이·버셀의 AI 에이전트 쇼핑 인프라는 에이전틱 커머스 시대를 앞당기며, D2C 브랜드의 AI 가시성 전략 수립이 시급해졌다.",
-    "one_line_insight_en": "Shopify and Vercel's AI agent shopping infrastructure accelerates the agentic commerce era, making AI visibility strategy an urgent priority for D2C brands.",
+    "one_line_insight_ko": "AI 마케팅과 에이전틱 커머스 툴의 동시 급증은 D2C 기술 스택 재편의 신호탄이다.",
+    "one_line_insight_en": "The simultaneous surge in AI marketing and agentic commerce tools signals a rapid reshaping of the D2C technology stack.",
     "ai_processed": true
   },
   {
-    "title": "Walmart enlists Sam’s Club in latest challenge to Amazon Prime",
-    "link": "https://www.retaildive.com/news/walmart-sams-club-membership-challenge-to-amazon-prime/833447/",
-    "date_published": "2026-10-20",
-    "description": "The retail giant has bundled its Walmart+ and Sam’s Club Plus memberships for a savings of nearly $100, which could appeal to stressed-out consumers.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
+    "title": "Modern Retail+ Research: Marketers express revenue optimism for the 2026 holiday season despite economic pressures",
+    "link": "https://www.modernretail.co/marketing/modern-retail-research-marketers-express-revenue-optimism-for-the-2026-holiday-season-despite-economic-pressures/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-10-22",
+    "description": "In Modern Retail+ Research’s holiday report last year, brands and retailers expressed conservative expectations for their 2025 holiday revenue. This year, however, marketers are more optimistic.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
     "categories": [
+      "marketing",
       "commerce",
       "strategy"
     ],
-    "relevance_score": 0.5,
+    "relevance_score": 0.65,
     "relevance_label": "high",
-    "title_en": "Walmart Bundles Walmart+ and Sam's Club Plus to Challenge Amazon Prime",
-    "summary_ko": "월마트는 자사 유료 멤버십 월마트+와 샘스클럽 플러스를 결합한 번들 상품을 출시하며 아마존 프라임에 정면 도전장을 내밀었다. 이 번들은 소비자에게 약 100달러의 절감 혜택을 제공하며 가격에 민감한 소비자를 공략한다. 이는 유통 대기업들 간 멤버십 경쟁이 심화되고 있음을 보여주는 사례다.",
-    "summary_en": "Walmart has bundled its Walmart+ and Sam's Club Plus memberships into a combined offering that saves consumers nearly $100, directly challenging Amazon Prime. The move targets cost-conscious consumers amid ongoing economic pressures. This development highlights the intensifying membership loyalty competition among major retail giants.",
-    "so_what_ko": "멤버십 번들링을 통한 소비자 락인 전략은 LG D2C 구독·멤버십 서비스 설계 시 참고할 수 있으며, 가격 민감 소비자를 위한 번들 가치 제안의 중요성을 재확인시켜 준다.",
-    "so_what_en": "Walmart's membership bundling strategy offers a reference model for LG D2C subscription and loyalty program design, reinforcing the value of bundled offerings for price-sensitive consumer segments.",
+    "title_en": "Marketers Show Revenue Optimism for 2026 Holiday Season Despite Economic Headwinds",
+    "summary_ko": "Modern Retail+의 리서치에 따르면 2026년 홀리데이 시즌을 앞두고 마케터들은 경제적 압박에도 불구하고 매출에 대해 낙관적인 전망을 보이고 있다. 이는 2025년 홀리데이 시즌 당시 브랜드와 리테일러들이 보수적인 기대치를 가졌던 것과 대조적인 양상이다. 경기 불확실성 속에서도 마케터들의 자신감이 높아진 배경과 전략적 시사점이 주목된다.",
+    "summary_en": "Modern Retail+ Research's latest holiday report reveals that marketers are more optimistic about 2026 holiday season revenue compared to their conservative outlook for 2025. This shift in sentiment comes despite ongoing economic pressures facing consumers and brands alike. The findings suggest marketers may be banking on improved strategies, AI tools, or pent-up consumer demand to drive stronger results.",
+    "so_what_ko": "LG D2C는 마케터들의 홀리데이 시즌 낙관론을 반영해 프로모션 예산과 캠페인 전략을 적극적으로 수립하고, 경쟁 브랜드 대비 선제적 포지셔닝을 강화해야 한다.",
+    "so_what_en": "LG D2C should align its holiday season investment and campaign strategy with the prevailing marketer optimism, ensuring competitive positioning ahead of a potentially strong demand period.",
     "key_points": [
-      "월마트+ 및 샘스클럽 플러스 멤버십 번들로 약 100달러 절감 혜택 제공",
-      "아마존 프라임 대항마로서 멤버십 경쟁력 강화",
-      "경기 압박 속 가격 민감 소비자 공략 전략"
+      "2026년 홀리데이 시즌에 대한 마케터 낙관론이 2025년 대비 뚜렷하게 상승",
+      "경제적 압박에도 불구하고 매출 기대치가 높아진 원인에 대한 분석 필요",
+      "브랜드와 리테일러의 전략적 자신감은 마케팅 투자 증가로 이어질 가능성 높음"
     ],
     "tags": [
-      "membership-loyalty",
-      "retail-competition",
-      "walmart",
-      "amazon-prime",
-      "subscription-bundling"
+      "holiday-season",
+      "retail-marketing",
+      "consumer-sentiment",
+      "d2c-strategy",
+      "revenue-forecast"
     ],
-    "confidence": 0.8,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Walmart",
-      "Sam's Club",
-      "Amazon Prime",
-      "Walmart+"
-    ],
-    "one_line_insight_ko": "월마트의 멤버십 번들 전략은 충성 고객 확보를 위한 가치 제안 경쟁이 구독 모델 중심으로 재편되고 있음을 보여준다.",
-    "one_line_insight_en": "Walmart's membership bundle signals that the battle for consumer loyalty is increasingly being fought through value-driven subscription bundling strategies.",
-    "ai_processed": true
-  },
-  {
-    "title": "UPS’ Happy Returns comes to TikTok Shop",
-    "link": "https://www.retaildive.com/news/ups-happy-returns-tiktok-shop/833322/",
-    "date_published": "2026-10-20",
-    "description": "Pacsun and Everlane are among the retailers tapping into the new integration ahead of the post-holiday returns rush.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "commerce",
-      "agentic_commerce"
-    ],
-    "relevance_score": 0.55,
-    "relevance_label": "high",
-    "title_en": "UPS Happy Returns Integrates with TikTok Shop Ahead of Post-Holiday Returns Rush",
-    "summary_ko": "UPS의 반품 서비스 'Happy Returns'가 TikTok Shop과 통합되어, TikTok Shop 판매자들이 간편한 반품 솔루션을 제공할 수 있게 됐다. Pacsun, Everlane 등의 소매업체들이 연휴 이후 반품 급증에 대비해 이 통합 서비스를 선제적으로 도입하고 있다. 이번 통합은 소셜 커머스 플랫폼에서의 구매 후 고객 경험 개선을 위한 물류 인프라 강화 움직임을 보여준다.",
-    "summary_en": "UPS's Happy Returns service has integrated with TikTok Shop, enabling sellers on the platform to offer streamlined return solutions. Retailers including Pacsun and Everlane are adopting the integration ahead of the expected post-holiday returns surge. This partnership reflects the growing need to strengthen post-purchase logistics infrastructure within social commerce platforms.",
-    "so_what_ko": "TikTok Shop을 통한 D2C 판매 시, 반품 경험은 재구매율과 브랜드 신뢰에 직결되므로 Happy Returns와 같은 통합 물류 솔루션 도입을 전략적으로 검토해야 한다.",
-    "so_what_en": "For LG D2C selling via TikTok Shop, integrating streamlined return solutions like Happy Returns is critical to building post-purchase trust and driving repeat purchase rates on social commerce channels.",
-    "key_points": [
-      "UPS Happy Returns가 TikTok Shop 플랫폼과 공식 통합 발표",
-      "Pacsun, Everlane 등 주요 소매업체들이 연휴 전 선제 도입",
-      "소셜 커머스에서 구매 후 반품 경험(CX)의 중요성 부각",
-      "연휴 시즌 반품 급증에 대응하는 물류 인프라 확장 트렌드"
-    ],
-    "tags": [
-      "social-commerce",
-      "returns-logistics",
-      "tiktok-shop",
-      "post-purchase-cx",
-      "ups"
-    ],
-    "confidence": 0.7,
+    "confidence": 0.65,
     "strategic_theme": "RETAIL_TRANSFORMATION",
     "regions": [
       "AMER",
@@ -270,49 +86,91 @@
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "UPS",
-      "Happy Returns",
-      "TikTok Shop",
-      "Pacsun",
-      "Everlane"
+      "Modern Retail"
     ],
-    "one_line_insight_ko": "소셜 커머스의 성장과 함께 반품 물류 통합이 D2C 브랜드의 핵심 경쟁력으로 부상하고 있다.",
-    "one_line_insight_en": "As social commerce scales, seamless return logistics integration is becoming a key competitive differentiator for D2C brands.",
+    "one_line_insight_ko": "경기 불확실성에도 마케터들의 홀리데이 낙관론이 높아진 만큼, D2C 브랜드의 공격적 캠페인 투자 타이밍이 도래했다.",
+    "one_line_insight_en": "Rising marketer optimism for the 2026 holiday season, despite economic headwinds, signals a prime window for D2C brands to invest aggressively in holiday campaigns.",
     "ai_processed": true
   },
   {
-    "title": "Anthropologie’s holiday marketing seeks to balance emotion, business impact",
-    "link": "https://www.retaildive.com/news/anthropologie-holiday-marketing-campaign/833440/",
-    "date_published": "2026-10-20",
-    "description": "Sentimental ads and a creator-led social series are complemented by offerings like a new DoorDash partnership, CMO Barbra Sainsurin said.",
+    "title": "AI boosts discovery but reviews still seal the deal, new research shows",
+    "link": "https://www.modernretail.co/ai-strategies/ai-boosts-discovery-but-reviews-still-seal-the-deal-new-research-shows/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-10-22",
+    "description": "Consumer surveys show that AI helps shoppers find gifts, but most still check reviews, compare prices and review retailers' policies before buying.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
+    "categories": [
+      "ai_marketing",
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.88,
+    "relevance_label": "high",
+    "title_en": "AI Drives Product Discovery, But Consumer Reviews Remain the Final Purchase Trigger",
+    "summary_ko": "최신 소비자 조사에 따르면 AI는 선물 탐색 단계에서 쇼핑객의 제품 발견을 돕는 역할을 하고 있지만, 대부분의 소비자는 최종 구매 결정 전 리뷰 확인, 가격 비교, 리테일러 정책 검토 등 전통적인 검증 단계를 거친다. AI가 탐색(discovery) 단계에서의 영향력을 확대하고 있으나, 구매 전환은 여전히 사용자 생성 콘텐츠(리뷰)에 크게 의존하는 구조다. 이는 AI와 소셜 증거(social proof)가 상호 보완적인 역할을 함을 시사한다.",
+    "summary_en": "New consumer research shows that AI tools are increasingly effective at helping shoppers discover products and gifts, but the majority of consumers still consult reviews, compare prices, and check retailer policies before making a purchase. This highlights a two-stage shopping behavior where AI excels at discovery while traditional trust signals like reviews drive conversion. The findings suggest that AI and social proof are complementary rather than competing forces in the purchase journey.",
+    "so_what_ko": "LG D2C는 AI 기반 제품 추천과 발견 기능을 강화하는 동시에, 구매 전환율을 높이기 위해 리뷰 관리 및 가격 투명성 전략을 병행 강화해야 한다.",
+    "so_what_en": "LG D2C should invest in AI-powered discovery features while simultaneously strengthening review management and price transparency to close the gap between discovery and conversion.",
+    "key_points": [
+      "AI는 제품 탐색(discovery) 단계에서 소비자 행동에 유의미한 영향을 미침",
+      "최종 구매 결정은 리뷰, 가격 비교, 리테일러 정책 등 전통적 신뢰 지표에 의존",
+      "AI와 소셜 증거(리뷰)는 구매 퍼널의 서로 다른 단계를 담당하는 보완적 관계",
+      "D2C 브랜드는 AI 탐색과 리뷰 전환 두 축을 동시에 최적화해야 함"
+    ],
+    "tags": [
+      "ai-discovery",
+      "consumer-reviews",
+      "purchase-journey",
+      "conversion-optimization",
+      "social-proof"
+    ],
+    "confidence": 0.78,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Modern Retail"
+    ],
+    "one_line_insight_ko": "AI는 발견을 주도하지만 구매를 결정하는 건 여전히 리뷰이므로, D2C는 두 채널을 동시에 최적화하는 이중 전략이 필수적이다.",
+    "one_line_insight_en": "AI leads discovery but reviews close the sale, making a dual-channel optimization strategy essential for D2C brands seeking to convert AI-driven traffic.",
+    "ai_processed": true
+  },
+  {
+    "title": "Target unwraps high-concept holiday ads focused on gift-giving academy",
+    "link": "https://www.retaildive.com/news/target-unwraps-high-concept-holiday-ads-gift-giving-academy/833596/",
+    "date_published": "2026-10-21",
+    "description": "Actor D’Arcy Carden serves as Chief Giftologist in a new campaign that will be supported by a bigger creator push around YouTube and TikTok.",
     "source_id": "retail_dive",
     "source_name": "Retail Dive",
     "source_url": "https://www.retaildive.com/feeds/news/",
     "categories": [
       "marketing",
-      "ai_marketing"
+      "strategy"
     ],
-    "relevance_score": 0.5,
+    "relevance_score": 0.58,
     "relevance_label": "high",
-    "title_en": "Anthropologie Balances Emotional Storytelling and Business Impact in Holiday Marketing Campaign",
-    "summary_ko": "Anthropologie은 감성적인 광고와 크리에이터 주도 소셜 시리즈를 결합한 연휴 마케팅 캠페인을 선보이며, 감성과 비즈니스 성과 사이의 균형을 추구하고 있다. CMO Barbra Sainsurin은 DoorDash와의 새로운 파트너십을 포함한 다양한 오퍼링으로 캠페인을 보완하고 있다고 밝혔다. 크리에이터 콘텐츠와 감성 마케팅을 연계한 이 전략은 연휴 시즌 소비자 감성을 자극하면서도 실질적인 전환을 유도하는 옴니채널 접근법을 보여준다.",
-    "summary_en": "Anthropologie has launched a holiday marketing campaign that blends sentimental advertising with a creator-led social series to balance emotional resonance with measurable business impact. CMO Barbra Sainsurin highlighted a new DoorDash partnership as one of several offerings complementing the campaign. The strategy reflects an omnichannel approach that leverages creator content and emotional storytelling to drive both brand affinity and conversions during the holiday season.",
-    "so_what_ko": "LG D2C도 연휴 시즌 캠페인에서 감성적 브랜드 스토리텔링과 크리에이터 협업, 배달 파트너십 등 실질적 편의 오퍼링을 결합하는 복합 전략을 벤치마킹할 수 있다.",
-    "so_what_en": "LG D2C can benchmark Anthropologie's approach of combining emotional brand storytelling with creator collaborations and practical convenience partnerships to drive holiday season engagement and conversions.",
+    "title_en": "Target Launches High-Concept Holiday Campaign Featuring 'Gift-Giving Academy' with Creator Push on YouTube and TikTok",
+    "summary_ko": "타겟(Target)은 배우 D'Arcy Carden을 'Chief Giftologist'로 내세운 '선물하기 아카데미' 콘셉트의 홀리데이 광고 캠페인을 공개했다. 이 캠페인은 YouTube와 TikTok을 중심으로 한 크리에이터 협업을 대폭 강화해 소셜 미디어 도달력을 극대화하는 전략을 취하고 있다. 스토리텔링 중심의 고개념(high-concept) 광고와 크리에이터 이코노미를 결합한 접근 방식이 주목된다.",
+    "summary_en": "Target has unveiled a high-concept holiday advertising campaign centered on a 'gift-giving academy' theme, featuring actor D'Arcy Carden as the Chief Giftologist. The campaign is backed by a significantly expanded creator strategy focused on YouTube and TikTok to amplify social media reach. The approach combines narrative-driven brand advertising with the scale of the creator economy for the 2026 holiday season.",
+    "so_what_ko": "LG D2C는 타겟의 크리에이터 중심 홀리데이 캠페인 전략을 참고해, YouTube·TikTok 등 숏폼 플랫폼에서의 크리에이터 협업을 통한 제품 스토리텔링 강화를 검토해야 한다.",
+    "so_what_en": "LG D2C should take note of Target's creator-led holiday strategy and explore similar collaborations on YouTube and TikTok to amplify product storytelling and reach younger consumer segments.",
     "key_points": [
-      "감성적 광고와 크리에이터 주도 소셜 콘텐츠 시리즈 결합 전략",
-      "DoorDash 파트너십을 통한 즉시 배달 등 실용적 오퍼링 추가",
-      "CMO 주도의 감성-비즈니스 임팩트 균형 마케팅 접근법",
-      "연휴 시즌 옴니채널 캠페인에서 크리에이터 이코노미 활용"
+      "타겟, 독창적 콘셉트('선물하기 아카데미')와 셀러브리티를 결합한 홀리데이 캠페인 전개",
+      "YouTube와 TikTok 크리에이터 협업을 대폭 확대하여 소셜 도달력 강화",
+      "고개념 브랜드 스토리텔링과 크리에이터 이코노미의 전략적 결합이 홀리데이 마케팅의 새 트렌드로 부상"
     ],
     "tags": [
-      "holiday-marketing",
-      "creator-economy",
-      "omnichannel",
-      "brand-storytelling",
-      "retail-partnerships"
+      "holiday-campaign",
+      "creator-marketing",
+      "tiktok",
+      "youtube",
+      "retail-branding"
     ],
-    "confidence": 0.65,
+    "confidence": 0.8,
     "strategic_theme": "AI_MARKETING",
     "regions": [
       "AMER"
@@ -320,67 +178,70 @@
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Anthropologie",
-      "DoorDash",
-      "Barbra Sainsurin"
+      "Target",
+      "D'Arcy Carden",
+      "YouTube",
+      "TikTok"
     ],
-    "one_line_insight_ko": "연휴 마케팅에서 감성 스토리텔링과 크리에이터 콘텐츠, 실용적 파트너십의 결합이 브랜드 전환율을 동시에 높이는 전략으로 주목받고 있다.",
-    "one_line_insight_en": "Combining emotional storytelling with creator content and practical delivery partnerships is emerging as a powerful formula for holiday marketing that drives both brand love and conversion.",
+    "one_line_insight_ko": "타겟의 크리에이터 중심 홀리데이 전략은 브랜드 스토리텔링과 소셜 도달력을 동시에 잡는 D2C 캠페인의 새로운 기준을 제시한다.",
+    "one_line_insight_en": "Target's creator-driven holiday campaign sets a new benchmark for D2C brands seeking to blend high-concept storytelling with social-scale reach on TikTok and YouTube.",
     "ai_processed": true
   },
   {
-    "title": "Walmart+ and Sam’s Club Plus memberships to come bundled in $120 subscription",
-    "link": "https://www.digitalcommerce360.com/2026/10/20/walmart-and-sams-club-plus-memberships-to-come-bundled-in-120-subscription/",
-    "date_published": "2026-10-20",
-    "description": "Walmart Inc. will bundle memberships for its Walmart+ and Sam’s Club Plus programs, making a bet that shoppers will subscribe to both when given the chance to save nearly $100. The paid membership programs for Walmart and its sibling chain of club locations both include free delivery options, as well as lineups of other perks […]\nThe post Walmart+ and Sam’s Club Plus memberships to come bundled in $120 subscription appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
+    "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+    "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+    "date_published": "2026-10-21",
+    "description": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+    "source_id": "techcrunch_commerce",
+    "source_name": "TechCrunch Commerce",
+    "source_url": "https://techcrunch.com/category/commerce/feed",
     "categories": [
+      "agentic_commerce",
       "commerce",
       "strategy"
     ],
-    "relevance_score": 0.6,
+    "relevance_score": 0.97,
     "relevance_label": "high",
-    "title_en": "Walmart Bundles Walmart+ and Sam's Club Plus into a Single $120 Subscription",
-    "summary_ko": "월마트가 Walmart+와 Sam's Club Plus 멤버십을 묶어 연간 $120의 번들 구독 상품을 출시한다고 발표했다. 이 번들은 기존 두 멤버십을 각각 구독할 때보다 약 $100를 절감할 수 있어, 구독자 유치와 락인(lock-in) 효과를 노린 전략으로 분석된다. 두 멤버십 모두 무료 배달 혜택을 포함하며, 다양한 부가 혜택을 통해 소비자 가치를 극대화하는 월마트의 구독 생태계 강화 전략을 반영한다.",
-    "summary_en": "Walmart Inc. announced it will bundle its Walmart+ and Sam's Club Plus membership programs into a single $120 annual subscription. The combined offering allows shoppers to save nearly $100 compared to subscribing to each program separately, aiming to increase subscriber acquisition and lock-in. Both memberships include free delivery and additional perks, reflecting Walmart's broader strategy to strengthen its subscription ecosystem.",
-    "so_what_ko": "월마트의 번들 구독 전략은 D2C 구독 모델에서 복합 혜택 설계와 가격 매력도가 구독자 확대의 핵심임을 보여주며, LG의 멤버십 또는 서비스 번들 전략에 시사점을 제공한다.",
-    "so_what_en": "Walmart's bundling strategy illustrates that compelling value stacking and pricing are central to subscription growth—a model LG D2C should consider when designing membership or service bundles to increase customer loyalty and lifetime value.",
+    "title_en": "Walmart Embraces AI Agents for Shopping While Amazon Blocks Them",
+    "summary_ko": "아마존이 AI 에이전트의 자사 사이트 내 쇼핑을 차단하는 동안, 월마트는 정반대의 전략을 취하며 AI 에이전트가 고객을 대신해 구매를 완료할 수 있는 새로운 기술을 도입했다. 월마트의 새 기술은 지출 한도 설정과 거래 승인 등 소비자 통제 기능을 함께 제공한다. 두 거대 리테일러의 상반된 전략은 에이전틱 커머스 시대의 플랫폼 생태계 경쟁 구도를 극명하게 보여준다.",
+    "summary_en": "While Amazon has moved to block AI agents from making purchases on its platform, Walmart is taking the opposite stance by introducing technology that allows AI agents to complete purchases on behalf of customers. Walmart's new system includes consumer safeguards such as spending controls and transaction approval mechanisms. The contrasting approaches of these two retail giants highlight diverging platform strategies as agentic commerce begins to reshape online retail.",
+    "so_what_ko": "LG D2C는 월마트의 AI 에이전트 개방 전략을 기회로 삼아 에이전틱 커머스 호환 구조를 선제적으로 구축하고, AI 에이전트가 LG 제품을 우선 추천·구매하도록 유도하는 기술적·파트너십 전략을 마련해야 한다.",
+    "so_what_en": "LG D2C should proactively build agentic commerce compatibility into its platforms and explore strategic partnerships with AI agent ecosystems—particularly via Walmart—to ensure LG products are discoverable and purchasable by AI agents.",
     "key_points": [
-      "Walmart+와 Sam's Club Plus를 연간 $120 단일 번들로 통합 출시",
-      "기존 별도 구독 대비 약 $100 절감 효과로 가입 장벽 낮춤",
-      "무료 배달 포함 다양한 멤버십 혜택으로 구독 생태계 강화",
-      "소매 구독 시장에서 번들링을 통한 경쟁력 확보 전략"
+      "월마트, AI 에이전트의 대리 구매를 허용하는 에이전틱 커머스 기술 공식 도입",
+      "아마존은 AI 에이전트 차단 전략을 택해 두 플랫폼의 에이전틱 커머스 접근법이 극명하게 갈림",
+      "월마트의 새 기술은 지출 한도·거래 승인 등 소비자 보호 기능을 내장해 신뢰성 확보",
+      "에이전틱 커머스 플랫폼 생태계에서의 조기 포지셔닝이 브랜드 경쟁력의 핵심 변수로 부상"
     ],
     "tags": [
-      "subscription-bundling",
-      "retail-membership",
-      "walmart-plus",
-      "customer-loyalty",
-      "d2c-strategy"
+      "agentic-commerce",
+      "ai-agents",
+      "walmart",
+      "amazon",
+      "platform-strategy"
     ],
-    "confidence": 0.8,
-    "strategic_theme": "PLATFORM_ECOSYSTEM",
+    "confidence": 0.88,
+    "strategic_theme": "AI_AGENT",
     "regions": [
-      "AMER"
+      "AMER",
+      "GLOBAL"
     ],
-    "business_impact": "MEDIUM",
+    "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
       "Walmart",
-      "Walmart+",
-      "Sam's Club Plus"
+      "Amazon",
+      "TechCrunch"
     ],
-    "one_line_insight_ko": "월마트의 멤버십 번들 전략은 구독 경제에서 가격 매력과 혜택 결합이 고객 락인의 가장 강력한 수단임을 입증한다.",
-    "one_line_insight_en": "Walmart's membership bundle strategy demonstrates that combining price value with stacked benefits is the most powerful mechanism for subscriber lock-in in the subscription economy.",
+    "one_line_insight_ko": "월마트의 AI 에이전트 구매 허용은 에이전틱 커머스 시대의 플랫폼 전쟁 서막으로, LG D2C는 지금 당장 에이전트 친화적 커머스 전략을 수립해야 한다.",
+    "one_line_insight_en": "Walmart's embrace of AI agent purchasing marks the opening salvo of the agentic commerce platform war, demanding that LG D2C establish an agent-friendly commerce strategy immediately.",
     "ai_processed": true
   },
   {
-    "title": "Dollar Shave Club markets ‘perfectly good’ razors as AI push continues",
-    "link": "https://www.marketingdive.com/news/dollar-shave-club-markets-perfectly-good-razors-as-ai-push-continues/833343/",
-    "date_published": "2026-10-20",
-    "description": "The brand looks to tie together its advertising efforts under an omnichannel campaign, explains Chief Brand and Innovation Officer Laura Higgins.",
+    "title": "Target unwraps high-concept holiday ads focused on gift-giving academy",
+    "link": "https://www.marketingdive.com/news/target-unwraps-high-concept-holiday-ads-focused-on-gift-giving-academy/833583/",
+    "date_published": "2026-10-21",
+    "description": "Actor D’Arcy Carden serves as Chief Giftologist in a new campaign that will be supported by a bigger creator push around YouTube and TikTok.",
     "source_id": "marketing_dive",
     "source_name": "Marketing Dive",
     "source_url": "https://www.marketingdive.com/feeds/news/",
@@ -388,265 +249,449 @@
       "marketing",
       "ai_marketing"
     ],
-    "relevance_score": 0.6,
+    "relevance_score": 0.45,
     "relevance_label": "high",
-    "title_en": "Dollar Shave Club Launches Omnichannel Campaign Positioning Razors as 'Perfectly Good' Amid AI Push",
-    "summary_ko": "Dollar Shave Club이 자사 면도기를 '완벽하게 좋은(perfectly good)' 제품으로 포지셔닝하는 옴니채널 광고 캠페인을 론칭하며, 브랜드 혁신을 이어가고 있다. Chief Brand and Innovation Officer Laura Higgins는 이번 캠페인이 AI 활용을 확대하는 흐름 속에서 브랜드의 광고 노력을 통합하는 역할을 한다고 설명했다. 이 캠페인은 AI 마케팅 트렌드가 심화되는 환경에서 D2C 브랜드가 차별화된 브랜드 아이덴티티와 인간적 메시지를 유지하는 전략을 보여준다.",
-    "summary_en": "Dollar Shave Club has launched an omnichannel campaign positioning its razors as 'perfectly good,' tying together the brand's advertising efforts under a unified creative direction. Chief Brand and Innovation Officer Laura Higgins explained the campaign integrates the brand's advertising push amid its continued AI adoption. The campaign reflects a D2C brand strategy of maintaining a distinct human brand identity and messaging even as AI-driven marketing tools proliferate.",
-    "so_what_ko": "AI 마케팅 도구 확산 속에서도 LG D2C는 차별화된 브랜드 메시지와 일관된 옴니채널 캠페인 전략을 병행해 브랜드 아이덴티티를 유지하는 것이 중요하다.",
-    "so_what_en": "Even as AI marketing tools proliferate, LG D2C should maintain a distinctive brand voice and unified omnichannel campaign strategy to protect and differentiate its brand identity in a crowded marketplace.",
+    "title_en": "Target Launches High-Concept Holiday Campaign Centered on 'Gift-Giving Academy'",
+    "summary_ko": "타겟(Target)은 배우 D'Arcy Carden을 '최고 선물학자(Chief Giftologist)'로 내세운 새로운 홀리데이 광고 캠페인을 선보였다. 이번 캠페인은 YouTube와 TikTok을 중심으로 크리에이터 협업을 확대하는 방식으로 지원될 예정이다. '선물 아카데미'라는 고개념(high-concept) 세계관을 활용해 소비자 참여를 유도하는 전략을 취하고 있다.",
+    "summary_en": "Target has launched a new holiday advertising campaign featuring actor D'Arcy Carden as the 'Chief Giftologist' within a fictional gift-giving academy concept. The campaign will be amplified through an expanded creator push across YouTube and TikTok. The high-concept creative approach aims to engage consumers around the gift-giving theme during the holiday season.",
+    "so_what_ko": "LG D2C도 홀리데이 시즌에 크리에이터 기반 콘텐츠와 고개념 브랜드 스토리텔링을 결합해 YouTube·TikTok 채널에서의 소비자 참여를 높이는 캠페인 전략을 검토할 수 있다.",
+    "so_what_en": "LG D2C should consider combining creator-led content with high-concept brand storytelling on YouTube and TikTok to drive consumer engagement during key seasonal moments.",
     "key_points": [
-      "'Perfectly Good' 메시지로 브랜드 차별화를 꾀하는 옴니채널 캠페인 전개",
-      "AI 마케팅 확산 속에서 인간적 브랜드 스토리텔링 전략 유지",
-      "Chief Brand & Innovation Officer 주도의 광고 통합 전략",
-      "D2C 브랜드의 AI 활용과 브랜드 정체성 균형 모색"
+      "배우 D'Arcy Carden이 '최고 선물학자(Chief Giftologist)' 역할로 캠페인 주도",
+      "YouTube·TikTok 크리에이터 협업 확대를 통한 캠페인 지원 전략",
+      "'선물 아카데미'라는 고개념 세계관으로 차별화된 홀리데이 광고 전개"
     ],
     "tags": [
-      "omnichannel-marketing",
-      "brand-identity",
-      "d2c-branding",
-      "ai-marketing",
-      "dollar-shave-club"
+      "holiday-campaign",
+      "creator-marketing",
+      "brand-storytelling",
+      "social-commerce",
+      "tiktok"
     ],
-    "confidence": 0.65,
+    "confidence": 0.7,
     "strategic_theme": "AI_MARKETING",
     "regions": [
       "AMER"
     ],
-    "business_impact": "MEDIUM",
+    "business_impact": "LOW",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Dollar Shave Club",
-      "Laura Higgins"
+      "Target",
+      "D'Arcy Carden",
+      "YouTube",
+      "TikTok"
     ],
-    "one_line_insight_ko": "AI 마케팅 시대에도 '인간적' 브랜드 메시지와 일관된 옴니채널 전략이 D2C 브랜드 경쟁력의 핵심이다.",
-    "one_line_insight_en": "In the age of AI marketing, a consistent human brand message delivered across omnichannel touchpoints remains the cornerstone of D2C brand differentiation.",
+    "one_line_insight_ko": "타겟의 고개념 크리에이터 캠페인은 홀리데이 시즌 브랜드 차별화를 위한 스토리텔링 마케팅의 중요성을 보여준다.",
+    "one_line_insight_en": "Target's high-concept creator campaign underscores the growing importance of narrative-driven storytelling to differentiate brands during the holiday season.",
     "ai_processed": true
   },
   {
-    "title": "Salesforce to Buy Braze for $5.66 Billion",
-    "link": "https://www.adweek.com/dealroom/salesforce-to-buy-braze-for-566-billion/",
-    "date_published": "2026-10-20",
-    "description": "Salesforce intends on using Braze’s AI to deliver customers real-time signals on customer behavior, deliver services across platforms, and utilize the company’s AI to help marketers to optimize content.",
+    "title": "Walmart Embraces AI Agents That Shop on Behalf of Customers",
+    "link": "https://www.adweek.com/commerce/walmart-embraces-ai-agents-that-shop-on-behalf-of-customers/",
+    "date_published": "2026-10-21",
+    "description": "The retailer is setting the rules AI shopping agents will have to follow.",
     "source_id": "adweek",
     "source_name": "Adweek",
     "source_url": "https://www.adweek.com/feed",
     "categories": [
-      "marketing",
-      "ai_marketing",
+      "commerce",
+      "agentic_commerce",
       "strategy"
     ],
-    "relevance_score": 0.92,
+    "relevance_score": 0.95,
     "relevance_label": "high",
-    "title_en": "Salesforce Acquires Braze for $5.66 Billion to Bolster AI-Driven Customer Engagement",
-    "summary_ko": "Salesforce가 고객 인게이지먼트 플랫폼 Braze를 56억 6천만 달러에 인수한다고 발표하며, AI 기반 마케팅 역량 강화에 대규모 베팅을 단행했다. Salesforce는 Braze의 AI를 활용해 고객 행동에 대한 실시간 신호를 제공하고, 멀티플랫폼에 걸쳐 서비스를 전달하며, 마케터들의 콘텐츠 최적화를 지원할 계획이다. 이번 인수는 마케팅 테크놀로지(MarTech) 시장에서 AI 기반 실시간 고객 인게이지먼트 역량이 핵심 경쟁 자산으로 부상하고 있음을 보여준다.",
-    "summary_en": "Salesforce announced the acquisition of customer engagement platform Braze for $5.66 billion, making a major bet on AI-powered marketing capabilities. Salesforce plans to leverage Braze's AI to deliver real-time customer behavior signals, serve customers across multiple platforms, and help marketers optimize content. The deal underscores the growing strategic importance of AI-driven real-time customer engagement capabilities in the competitive MarTech landscape.",
-    "so_what_ko": "Salesforce-Braze 통합은 AI 기반 실시간 고객 인사이트와 멀티채널 인게이지먼트가 MarTech의 새로운 표준이 되고 있음을 시사하며, LG D2C는 유사한 역량 확보를 위한 플랫폼 전략을 재검토해야 한다.",
-    "so_what_en": "The Salesforce-Braze merger signals that AI-powered real-time customer engagement and cross-platform data signals are becoming the new MarTech standard—LG D2C should evaluate its own marketing stack for similar integrated AI engagement capabilities.",
+    "title_en": "Walmart Sets Rules for AI Shopping Agents Acting on Behalf of Customers",
+    "summary_ko": "월마트(Walmart)는 고객을 대신해 쇼핑하는 AI 에이전트를 공식 도입하며, 이 에이전트들이 따라야 할 규칙을 직접 설정하고 있다. 이 이니셔티브는 AI 에이전트가 소비자 쇼핑 경험을 자동화하는 에이전틱 커머스(agentic commerce) 트렌드의 일환이다. 월마트는 AI 에이전트에 대해 개방적 접근 방식을 취하며 자사 플랫폼 내 AI 거래를 위한 프레임워크를 구축하고 있다.",
+    "summary_en": "Walmart is embracing AI agents that can shop on behalf of customers, establishing a formal set of rules these agents must follow within its platform. This move positions Walmart as a proactive adopter of agentic commerce, automating parts of the consumer shopping journey. By setting the rules for AI agent interactions, Walmart is shaping the framework for AI-driven transactions in retail.",
+    "so_what_ko": "LG D2C는 AI 에이전트가 고객을 대신해 제품을 탐색·구매하는 에이전틱 커머스 시대에 대비해, 자사 플랫폼에서 AI 에이전트와의 호환성 및 거래 규칙 수립을 선제적으로 검토해야 한다.",
+    "so_what_en": "LG D2C must proactively evaluate AI agent compatibility and establish transaction governance frameworks within its own platform as agentic commerce becomes mainstream.",
     "key_points": [
-      "Salesforce가 Braze를 56억 6천만 달러에 인수, MarTech 시장 판도 변화",
-      "Braze AI를 활용한 실시간 고객 행동 신호 및 콘텐츠 최적화 계획",
-      "멀티플랫폼 고객 서비스 제공 능력 강화가 인수의 핵심 목적",
-      "AI 기반 고객 인게이지먼트가 대형 MarTech 플랫폼의 핵심 경쟁 자산으로 부상"
+      "월마트가 고객 대신 쇼핑하는 AI 에이전트를 공식 도입",
+      "AI 에이전트가 플랫폼 내에서 따라야 할 규칙을 월마트가 직접 설정",
+      "에이전틱 커머스 분야에서 월마트가 선도적 포지션 확보"
     ],
     "tags": [
-      "martech-acquisition",
-      "ai-engagement",
-      "salesforce",
-      "braze",
-      "real-time-personalization"
+      "ai-agents",
+      "agentic-commerce",
+      "walmart",
+      "retail-automation",
+      "shopping-agent"
     ],
-    "confidence": 0.88,
-    "strategic_theme": "AI_MARKETING",
+    "confidence": 0.8,
+    "strategic_theme": "AI_AGENT",
     "regions": [
-      "GLOBAL",
-      "AMER"
+      "AMER",
+      "GLOBAL"
     ],
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Salesforce",
-      "Braze"
+      "Walmart"
     ],
-    "one_line_insight_ko": "Salesforce의 Braze 인수는 AI 기반 실시간 고객 인게이지먼트가 MarTech 경쟁의 최전선이 됐음을 선언하는 신호탄이다.",
-    "one_line_insight_en": "Salesforce's $5.66B acquisition of Braze signals that AI-powered real-time customer engagement has become the defining battleground in the MarTech industry.",
+    "one_line_insight_ko": "월마트의 AI 에이전트 쇼핑 도입은 에이전틱 커머스가 소매 산업의 새로운 표준으로 자리잡기 시작했음을 알리는 신호탄이다.",
+    "one_line_insight_en": "Walmart's formal embrace of AI shopping agents signals that agentic commerce is transitioning from concept to mainstream retail standard.",
     "ai_processed": true
   },
   {
-    "title": "Pitch Deck: Cuttable Raises $20M to Turn Brands’ Photos and Videos Into Meta Ads",
-    "link": "https://www.adweek.com/media/pitch-deck-cuttable-raises-20m-to-turn-brands-photos-and-videos-into-meta-ads/",
+    "title": "OpenAI models are coming to Google Cloud",
+    "link": "https://openai.com/index/openai-models-google-cloud",
     "date_published": "2026-10-21",
-    "description": "The Australian startup is betting that creative is the last part of ad buying left to automate.",
-    "source_id": "adweek",
-    "source_name": "Adweek",
-    "source_url": "https://www.adweek.com/feed",
-    "categories": [
-      "ai_marketing",
-      "marketing"
-    ],
-    "relevance_score": 0.85,
-    "relevance_label": "high",
-    "title_en": "Cuttable Raises $20M to Automate Creative Production of Meta Ads from Brand Assets",
-    "summary_ko": "호주 스타트업 Cuttable이 브랜드의 사진과 영상을 Meta 광고로 자동 변환하는 AI 기술로 2000만 달러를 조달했다. 이 회사는 광고 구매의 마지막 미자동화 영역인 크리에이티브 제작을 AI로 해결하겠다는 비전을 내세우고 있다. 이번 투자는 AI 기반 광고 크리에이티브 자동화 시장의 성장 가능성을 반영한다.",
-    "summary_en": "Australian startup Cuttable has raised $20M to automate the conversion of brands' existing photos and videos into Meta ads using AI. The company is positioning itself around the thesis that creative production is the last remaining manual step in the ad-buying process. This funding round signals growing investor confidence in AI-driven creative automation for performance marketing.",
-    "so_what_ko": "LG D2C 조직은 기존 제품 이미지와 영상 자산을 AI로 Meta 광고에 자동 전환하는 솔루션 도입을 검토하여 크리에이티브 제작 비용과 시간을 절감할 수 있다.",
-    "so_what_en": "LG D2C teams should evaluate AI creative automation tools like Cuttable to repurpose existing product photo and video assets into performance ads, reducing production costs and time-to-market.",
-    "key_points": [
-      "Cuttable raised $20M to automate Meta ad creative production from existing brand assets",
-      "The startup targets creative automation as the 'last frontier' of ad buying to be automated",
-      "Focus on Meta platform suggests strong alignment with social commerce and paid social strategies",
-      "Australian origin with likely global ambitions in the AI ad-tech space"
-    ],
-    "tags": [
-      "creative-automation",
-      "meta-ads",
-      "ai-advertising",
-      "ad-tech",
-      "generative-ai"
-    ],
-    "confidence": 0.75,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL",
-      "APAC"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Cuttable",
-      "Meta"
-    ],
-    "one_line_insight_ko": "AI가 광고 크리에이티브 제작을 자동화하면서, 기존 브랜드 자산의 전략적 가치가 새롭게 부각되고 있다.",
-    "one_line_insight_en": "AI-powered creative automation is unlocking the latent value of existing brand assets by turning them directly into performance-ready Meta ads.",
-    "ai_processed": true
-  },
-  {
-    "title": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
-    "link": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
-    "date_published": "2026-10-21",
-    "description": "An open source “bomb” drops from China",
-    "source_id": "latent_space",
-    "source_name": "Latent Space (The AI Index)",
-    "source_url": "https://www.latent.space/feed",
+    "description": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
     "categories": [
       "tech"
     ],
-    "relevance_score": 0.45,
+    "relevance_score": 0.5,
     "relevance_label": "high",
-    "title_en": "DeepSeek Releases Open-Source DeepInfer, Processing 155T Tokens/Day at ~80% Margin",
-    "summary_ko": "중국 AI 기업 DeepSeek이 오픈소스 추론 시스템 DeepInfer를 공개하며 하루 1550억 토큰 처리, 하루 2200만 달러 수익, 약 80% 마진의 성과를 달성했다. 이 시스템은 클러스터당 81일 내 투자 회수가 가능한 경제성을 보여준다. 오픈소스 형태로 공개된 이 기술은 글로벌 AI 인프라 경쟁에 상당한 파장을 일으킬 것으로 예상된다.",
-    "summary_en": "DeepSeek has released DeepInfer, an open-source inference system capable of processing 155 trillion tokens per day per cluster, reportedly generating $22M per day at approximately 80% profit margins. The system achieves an 81-day payback period per cluster, representing remarkable capital efficiency for AI inference infrastructure. The open-source release is being described as a disruptive 'bomb' from China into the global AI infrastructure landscape.",
-    "so_what_ko": "초고효율 오픈소스 AI 추론 인프라의 등장은 LG가 자체 AI 서비스 구축 시 인프라 비용을 크게 낮출 수 있는 가능성을 열어주므로, 기술 검토가 필요하다.",
-    "so_what_en": "The emergence of highly efficient open-source AI inference infrastructure could significantly reduce LG's cost of running AI-powered commerce and marketing services, warranting technical evaluation.",
+    "title_en": "OpenAI Models and Codex Workflows Come to Google Cloud's Model Garden",
+    "summary_ko": "OpenAI와 Google Cloud가 파트너십을 체결하여 OpenAI의 최전선 모델과 Codex 워크플로우를 Google Cloud의 Gemini Model Garden에서 제공하기로 했다. 이번 협력을 통해 개발자들은 Google Cloud Marketplace를 통해 OpenAI 모델에 접근할 수 있게 된다. AI 업계의 두 거대 기업이 클라우드 플랫폼 생태계에서 협력 관계를 구축한 것은 업계 전반에 주목할 만한 변화다.",
+    "summary_en": "OpenAI and Google Cloud have announced a partnership to bring OpenAI's frontier models and Codex workflows to Gemini's Model Garden, accessible via the Google Cloud Marketplace. This collaboration allows developers to access OpenAI models directly within the Google Cloud ecosystem. The partnership represents a notable cross-industry collaboration between two major AI players.",
+    "so_what_ko": "LG D2C가 AI 모델 도입 시 OpenAI와 Google Cloud의 통합 생태계를 활용하면 더욱 유연한 AI 인프라 선택이 가능해지며, 멀티클라우드 AI 전략 수립에 참고할 수 있다.",
+    "so_what_en": "LG D2C can leverage the integrated OpenAI-Google Cloud ecosystem to gain more flexible AI infrastructure options, informing a multi-cloud AI strategy.",
     "key_points": [
-      "DeepSeek's DeepInfer processes 155 trillion tokens per day per cluster",
-      "Reported ~80% profit margin with $22M daily revenue suggests extreme cost efficiency",
-      "81-day payback period represents strong ROI for AI inference infrastructure",
-      "Open-source release could democratize access to high-performance AI inference globally"
+      "OpenAI 모델과 Codex 워크플로우가 Google Cloud Marketplace를 통해 제공",
+      "Gemini Model Garden 내에서 OpenAI 프론티어 모델 접근 가능",
+      "AI 업계 경쟁사 간 이례적 협력으로 클라우드 AI 생태계 확장"
     ],
     "tags": [
-      "open-source-ai",
-      "ai-inference",
-      "deepseek",
+      "openai",
+      "google-cloud",
       "ai-infrastructure",
-      "llm"
+      "model-ecosystem",
+      "cloud-ai"
     ],
-    "confidence": 0.65,
-    "strategic_theme": "EMERGING_TECH",
+    "confidence": 0.85,
+    "strategic_theme": "PLATFORM_ECOSYSTEM",
     "regions": [
-      "GLOBAL",
-      "APAC"
+      "GLOBAL"
     ],
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "DeepSeek",
-      "DeepInfer"
+      "OpenAI",
+      "Google Cloud",
+      "Codex",
+      "Gemini Model Garden",
+      "Google Cloud Marketplace"
     ],
-    "one_line_insight_ko": "DeepSeek의 초고효율 오픈소스 추론 시스템은 AI 인프라 비용 구조를 근본적으로 바꾸며 글로벌 AI 경쟁 구도를 재편할 수 있다.",
-    "one_line_insight_en": "DeepSeek's ultra-efficient open-source inference system could fundamentally reshape AI infrastructure economics and intensify global competitive dynamics.",
+    "one_line_insight_ko": "OpenAI와 Google Cloud의 협력은 AI 모델 접근성을 높여 기업들의 멀티클라우드 AI 전략 채택을 가속화할 것이다.",
+    "one_line_insight_en": "The OpenAI-Google Cloud partnership expands AI model accessibility, accelerating enterprise adoption of multi-cloud AI strategies.",
     "ai_processed": true
   },
   {
-    "title": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
-    "link": "https://www.latent.space/p/tenex",
+    "title": "Meta says Muse has over 10M users, with shopping a top activity",
+    "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
     "date_published": "2026-10-21",
-    "description": "Listen now (44 mins) | Paying for outcomes, building with agents, and the last mile of enterprise AI adoption",
-    "source_id": "latent_space",
-    "source_name": "Latent Space (The AI Index)",
-    "source_url": "https://www.latent.space/feed",
+    "description": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "categories": [
+      "commerce",
+      "ai_marketing",
+      "agentic_commerce"
+    ],
+    "relevance_score": 0.88,
+    "relevance_label": "high",
+    "title_en": "Meta's Muse Surpasses 10M Users with Shopping Emerging as a Top Activity",
+    "summary_ko": "메타(Meta)는 Q3 실적 발표에서 자사 AI 앱 Muse의 사용자가 1,000만 명을 돌파했다고 밝혔다. 사용자들이 Muse를 가장 많이 활용하는 분야 중 하나로 쇼핑이 꼽혔으며, 개인 생산성도 주요 활용 사례로 언급됐다. Muse의 쇼핑 활용 급증은 AI 앱이 커머스 플랫폼으로 진화하고 있음을 보여주는 중요한 신호다.",
+    "summary_en": "Meta revealed during its Q3 earnings call that its AI app Muse has surpassed 10 million users. Shopping has emerged as one of the top activities on the platform, alongside personal productivity use cases. The rapid adoption of Muse for shopping signals that AI apps are evolving into significant commerce platforms.",
+    "so_what_ko": "Meta Muse와 같은 AI 앱이 쇼핑 채널로 급부상함에 따라, LG D2C는 AI 앱 내 제품 노출 및 구매 연결 전략을 조기에 수립해 새로운 소비자 접점을 선점해야 한다.",
+    "so_what_en": "As AI apps like Meta Muse rapidly emerge as shopping channels, LG D2C should develop early strategies for product visibility and purchase integration within these platforms to capture new consumer touchpoints.",
+    "key_points": [
+      "Meta Muse AI 앱 사용자 1,000만 명 돌파 (Q3 실적 발표 기준)",
+      "쇼핑이 Muse의 최상위 활용 사례 중 하나로 부상",
+      "AI 앱이 단순 도구를 넘어 커머스 플랫폼으로 진화하는 트렌드 확인"
+    ],
+    "tags": [
+      "meta-muse",
+      "ai-commerce",
+      "social-shopping",
+      "ai-app",
+      "platform-ecosystem"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "AI_COMMERCE",
+    "regions": [
+      "GLOBAL",
+      "AMER"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Meta",
+      "Muse"
+    ],
+    "one_line_insight_ko": "Meta Muse의 쇼핑 활용 급증은 AI 앱이 차세대 커머스 채널로 빠르게 자리잡고 있음을 증명한다.",
+    "one_line_insight_en": "Meta Muse's rise as a shopping destination proves that AI apps are rapidly becoming the next major commerce channel brands cannot afford to ignore.",
+    "ai_processed": true
+  },
+  {
+    "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+    "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+    "date_published": "2026-10-21",
+    "description": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "categories": [
+      "commerce",
+      "agentic_commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.97,
+    "relevance_label": "high",
+    "title_en": "Walmart Welcomes AI Shopping Agents While Amazon Blocks Them",
+    "summary_ko": "아마존(Amazon)이 AI 에이전트의 자사 사이트 내 쇼핑을 차단하는 동안, 월마트(Walmart)는 반대 전략을 택해 AI 에이전트가 고객을 대신해 구매할 수 있는 기술을 도입했다. 월마트의 새 기술은 지출 한도 설정 및 거래 승인 등 소비자 통제 기능을 포함하고 있다. 두 소매 거물의 상반된 전략은 에이전틱 커머스 시대의 플랫폼 개방성을 둘러싼 업계 내 중요한 분기점을 보여준다.",
+    "summary_en": "Amazon is blocking AI agents from shopping on its platform, while Walmart is taking the opposite approach by rolling out technology that enables AI agents to make purchases on behalf of customers. Walmart's solution includes consumer controls such as spending limits and transaction approval mechanisms. The contrasting strategies of these two retail giants highlight a pivotal industry divide over platform openness in the age of agentic commerce.",
+    "so_what_ko": "월마트와 아마존의 상반된 전략은 에이전틱 커머스 표준 수립의 핵심 전쟁터가 열렸음을 의미하며, LG D2C는 AI 에이전트 친화적 플랫폼 구축을 통해 미래 쇼핑 트렌드를 선점하는 전략적 선택을 조속히 검토해야 한다.",
+    "so_what_en": "The Walmart-Amazon divide signals that agentic commerce standards are being set now; LG D2C should urgently evaluate whether to build AI agent-friendly infrastructure to position itself ahead of this rapidly shifting retail paradigm.",
+    "key_points": [
+      "아마존은 AI 에이전트의 플랫폼 내 쇼핑을 차단하는 폐쇄적 전략 채택",
+      "월마트는 지출 한도·거래 승인 등 소비자 통제 기능을 갖춘 AI 에이전트 쇼핑 기술 도입",
+      "두 소매 거대기업의 상반된 접근 방식이 에이전틱 커머스 업계 표준 경쟁의 서막을 알림"
+    ],
+    "tags": [
+      "ai-agents",
+      "agentic-commerce",
+      "walmart",
+      "amazon",
+      "retail-strategy"
+    ],
+    "confidence": 0.85,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "AMER",
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Walmart",
+      "Amazon"
+    ],
+    "one_line_insight_ko": "월마트와 아마존의 AI 에이전트 정책 충돌은 에이전틱 커머스 표준을 둘러싼 소매 업계의 전략적 분기점이 이미 시작되었음을 알린다.",
+    "one_line_insight_en": "The Walmart-Amazon AI agent policy clash marks the opening battle over who will set the standards for agentic commerce in retail.",
+    "ai_processed": true
+  },
+  {
+    "title": "Fiserv taps AI for retail rethink",
+    "link": "https://www.paymentsdive.com/news/fiserv-taps-ai-retail-rethink-payments/833581/",
+    "date_published": "2026-10-21",
+    "description": "Merchants are grappling with how their payments technology will handle artificial intelligence-fueled digital commerce, a Fiserv executive said.",
+    "source_id": "payments_dive",
+    "source_name": "Payments Dive",
+    "source_url": "https://www.paymentsdive.com/feeds/news/",
+    "categories": [
+      "commerce",
+      "ai_commerce"
+    ],
+    "relevance_score": 0.72,
+    "relevance_label": "high",
+    "title_en": "Fiserv Taps AI to Rethink Retail Payments Infrastructure",
+    "summary_ko": "Fiserv 임원에 따르면, 가맹점들은 AI 기반 디지털 커머스에 맞춰 결제 기술을 어떻게 재편할지 고민하고 있다. AI가 상거래 전반에 영향을 미치면서 기존 결제 인프라의 변화가 불가피해지고 있다. Fiserv는 이러한 변화에 대응하기 위해 AI를 활용한 리테일 결제 혁신을 추진 중이다.",
+    "summary_en": "Fiserv executives highlighted that merchants are increasingly grappling with how their payments technology will handle AI-driven digital commerce. As AI reshapes the commerce landscape, legacy payment infrastructure faces mounting pressure to adapt. Fiserv is actively exploring AI integration to help merchants navigate this transformation.",
+    "so_what_ko": "LG D2C는 AI 기반 커머스 확산에 대비해 결제 인프라와 AI 연동 전략을 선제적으로 검토하고, 파트너사와의 기술 호환성을 점검해야 한다.",
+    "so_what_en": "LG D2C should proactively evaluate how its payment infrastructure aligns with AI-driven commerce trends and assess technology compatibility with key payment partners.",
+    "key_points": [
+      "가맹점들이 AI 기반 디지털 커머스에 맞는 결제 기술 전략 수립에 어려움을 겪고 있음",
+      "Fiserv는 AI를 활용해 리테일 결제 인프라 혁신을 추진 중",
+      "AI 커머스 확산으로 기존 결제 시스템의 재정비 필요성이 증가"
+    ],
+    "tags": [
+      "ai-commerce",
+      "payments",
+      "retail-tech",
+      "fiserv",
+      "digital-commerce"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "AI_COMMERCE",
+    "regions": [
+      "GLOBAL",
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Fiserv"
+    ],
+    "one_line_insight_ko": "AI 커머스 시대에 결제 인프라 혁신은 선택이 아닌 필수가 되고 있다.",
+    "one_line_insight_en": "As AI reshapes digital commerce, merchants must urgently rethink their payments infrastructure to stay competitive.",
+    "ai_processed": true
+  },
+  {
+    "title": "Making the case for context-aware AI",
+    "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+    "date_published": "2026-10-22",
+    "description": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead…",
+    "source_id": "mit_tech_review_ai",
+    "source_name": "MIT Technology Review (AI)",
+    "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+    "categories": [
+      "tech",
+      "strategy",
+      "ai_marketing"
+    ],
+    "relevance_score": 0.78,
+    "relevance_label": "high",
+    "title_en": "Context-Aware AI Is the Key to Moving Enterprise AI from Experimentation to Operations",
+    "summary_ko": "기업용 AI는 추천 생성, 업무 자동화, 의사결정 가속화 등에 활용되고 있으나, 비즈니스 운영 맥락을 이해하지 못하면 강력한 모델도 잘못된 결정을 내릴 수 있다. 기업들이 AI를 실험 단계에서 일상 운영으로 전환하려 할 때, 맥락 인식 능력의 부재가 핵심 장애물로 작용한다. 따라서 조직의 제약 조건과 관계를 이해하는 컨텍스트 인식 AI 도입이 필수적이다.",
+    "summary_en": "Enterprise AI tools can generate recommendations and automate tasks, but without understanding how a business actually operates, even powerful models risk making poor decisions. The transition from AI experimentation to everyday operations hinges on models grasping the constraints and relationships unique to each organization. Context-aware AI is being positioned as the critical next step for enterprises seeking reliable, operational AI.",
+    "so_what_ko": "LG D2C는 AI를 마케팅·운영에 실제 적용할 때 비즈니스 맥락(고객 세그먼트, 채널 특성, 재고 제약 등)을 AI 모델에 반영하는 컨텍스트 레이어 설계가 필요하다.",
+    "so_what_en": "LG D2C must invest in context-aware AI architectures that incorporate business-specific constraints—such as customer segments, channel dynamics, and inventory limits—to ensure AI decisions are operationally sound.",
+    "key_points": [
+      "비즈니스 맥락 부재 시 강력한 AI도 부적절한 의사결정을 내릴 수 있음",
+      "AI를 실험에서 운영으로 전환하는 데 컨텍스트 인식이 핵심 과제",
+      "조직별 제약 조건과 관계를 학습한 AI 모델이 실질적 가치를 창출"
+    ],
+    "tags": [
+      "context-aware-ai",
+      "enterprise-ai",
+      "ai-operations",
+      "decision-making"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "DATA_STRATEGY",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "MIT Technology Review"
+    ],
+    "one_line_insight_ko": "기업 AI의 실질적 가치는 모델 성능이 아닌 비즈니스 맥락 이해에서 나온다.",
+    "one_line_insight_en": "The true value of enterprise AI lies not in raw model power but in its ability to understand and operate within real business context.",
+    "ai_processed": true
+  },
+  {
+    "title": "AI’s hidden storage bill: What inference leaves behind",
+    "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+    "date_published": "2026-10-22",
+    "description": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs…",
+    "source_id": "mit_tech_review_ai",
+    "source_name": "MIT Technology Review (AI)",
+    "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
     "categories": [
       "tech",
       "strategy"
     ],
-    "relevance_score": 0.42,
+    "relevance_score": 0.55,
     "relevance_label": "high",
-    "title_en": "Tenex Builds AI-Native Software Development for Fortune 2000 Enterprises, Paying for Outcomes",
-    "summary_ko": "Tenex는 Fortune 2000 기업을 대상으로 AI 네이티브 소프트웨어 개발 생명주기(SDLC)를 구축하는 스타트업으로, 결과 기반 과금 모델을 채택하고 있다. AI 에이전트를 활용한 개발 방식과 엔터프라이즈 AI 도입의 '라스트 마일' 문제 해결에 초점을 맞추고 있다. 이 사례는 에이전트 기반 AI가 기업 소프트웨어 개발 방식을 어떻게 변화시키는지를 보여준다.",
-    "summary_en": "Tenex is building an AI-native Software Development Life Cycle (SDLC) platform targeting Fortune 2000 enterprises, featuring an outcome-based pricing model rather than traditional seat licenses. The company focuses on agent-based software development and solving the 'last mile' challenge of enterprise AI adoption. This approach illustrates how agentic AI is beginning to reshape how large organizations build and maintain software.",
-    "so_what_ko": "결과 기반 AI 과금 모델과 에이전트 기반 개발 방식은 LG D2C의 소프트웨어 조달 및 AI 솔루션 파트너십 전략에 새로운 기준을 제시한다.",
-    "so_what_en": "Outcome-based AI pricing models and agent-driven development represent a new procurement paradigm that LG D2C should consider when evaluating enterprise AI vendors and partnerships.",
+    "title_en": "AI's Hidden Cost: Exploding Data Storage Bills from Inference Workloads",
+    "summary_ko": "대부분의 경영진이 AI 비용을 GPU와 연산 자원 중심으로 인식하지만, 추론 과정에서 발생하는 데이터 스토리지 비용이 새로운 숨겨진 부담으로 부상하고 있다. 수십억 건의 일일 프롬프트, 이미지, 영상으로 생성되는 백엔드 데이터는 막대한 저장 비용을 유발한다. AI 운영을 확장하는 기업들은 스토리지 비용을 AI TCO(총소유비용)의 핵심 요소로 반드시 고려해야 한다.",
+    "summary_en": "While most executives focus on GPU costs as the primary AI expenditure, data storage costs generated by inference workloads represent a significant and often overlooked financial burden. Billions of daily prompts, images, and videos create massive volumes of back-end data that must be stored and managed. Companies scaling AI operations need to factor storage into their total cost of AI ownership.",
+    "so_what_ko": "LG D2C가 AI 마케팅·커머스 솔루션을 확장할 때, 추론 데이터 스토리지 비용을 AI 투자 계획에 명시적으로 포함시켜 예산 초과를 방지해야 한다.",
+    "so_what_en": "As LG D2C scales AI-powered marketing and commerce solutions, storage costs from inference workloads must be explicitly included in AI investment planning to avoid budget overruns.",
     "key_points": [
-      "Tenex targets Fortune 2000 companies with AI-native SDLC solutions",
-      "Outcome-based pricing model shifts risk from buyer to vendor in AI adoption",
-      "Agent-based development addresses the 'last mile' of enterprise AI integration",
-      "Signals broader trend of agentic AI entering core enterprise operations"
+      "AI 추론 과정에서 발생하는 데이터 스토리지 비용이 주요 숨겨진 지출로 부상",
+      "일일 수십억 건의 AI 요청이 대규모 백엔드 데이터를 생성",
+      "기업들은 GPU 비용 외 스토리지를 AI TCO의 핵심 항목으로 관리해야 함"
     ],
     "tags": [
-      "agentic-ai",
-      "enterprise-ai",
-      "sdlc",
-      "outcome-based-pricing",
-      "ai-adoption"
+      "ai-costs",
+      "data-storage",
+      "ai-infrastructure",
+      "inference",
+      "tco"
     ],
-    "confidence": 0.65,
+    "confidence": 0.75,
+    "strategic_theme": "DATA_STRATEGY",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "MIT Technology Review"
+    ],
+    "one_line_insight_ko": "AI 확장의 진짜 비용은 GPU가 아닌 추론 이후 폭증하는 스토리지에 숨어 있다.",
+    "one_line_insight_en": "The real hidden cost of scaling AI is not compute but the exploding data storage demands that inference workloads leave behind.",
+    "ai_processed": true
+  },
+  {
+    "title": "Why CNN International is building for agentic ad market that barely exists yet",
+    "link": "https://digiday.com/media/why-cnn-international-is-building-for-agentic-ad-market-that-barely-exists-yet/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-10-22",
+    "description": "CNN International is still chasing its first agent-sold dollar by Q1.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "marketing",
+      "agentic_commerce",
+      "ai_marketing"
+    ],
+    "relevance_score": 0.88,
+    "relevance_label": "high",
+    "title_en": "CNN International Builds Agentic Ad Infrastructure Ahead of an Emerging AI-Driven Market",
+    "summary_ko": "CNN 인터내셔널은 아직 초기 단계인 에이전틱 광고 시장을 선점하기 위해 AI 에이전트 기반 광고 판매 인프라를 구축하고 있다. 현재까지 에이전트를 통한 광고 판매 실적은 없지만, 1분기까지 첫 거래 성사를 목표로 하고 있다. 미디어 기업들이 AI 에이전트가 광고 구매의 주체가 되는 미래 시장에 선제적으로 대응하는 전략적 움직임이다.",
+    "summary_en": "CNN International is proactively building infrastructure for an agentic advertising market that is still in its nascent stages, with the goal of securing its first agent-sold ad deal by Q1. The initiative reflects a forward-looking bet that AI agents will increasingly become buyers and intermediaries in the advertising ecosystem. This positions CNN International as an early mover in defining how media and advertising will operate in an AI-agent-driven world.",
+    "so_what_ko": "LG D2C는 AI 에이전트가 광고 구매 및 쇼핑 의사결정에 개입하는 에이전틱 커머스 시대를 대비해, 에이전트 친화적 콘텐츠·광고 전략 수립을 지금부터 시작해야 한다.",
+    "so_what_en": "LG D2C should begin developing agent-friendly content and advertising strategies now, anticipating a future where AI agents act as key intermediaries in ad buying and consumer purchase decisions.",
+    "key_points": [
+      "CNN 인터내셔널이 에이전틱 광고 시장 선점을 위한 인프라 구축 중",
+      "현재 에이전트를 통한 광고 수익은 없으나 1분기 내 첫 거래 목표",
+      "AI 에이전트가 광고 구매 주체로 부상하는 미래 시장에 미디어 기업들이 선제 대응"
+    ],
+    "tags": [
+      "agentic-advertising",
+      "ai-agents",
+      "adtech",
+      "media",
+      "cnn"
+    ],
+    "confidence": 0.78,
     "strategic_theme": "AI_AGENT",
     "regions": [
       "GLOBAL",
+      "EMEA",
       "AMER"
     ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Tenex",
-      "Alex Lieberman",
-      "CJ Hess"
+      "CNN International",
+      "Digiday"
     ],
-    "one_line_insight_ko": "에이전트 기반 AI가 엔터프라이즈 소프트웨어 개발을 재편하면서, 결과 중심의 새로운 AI 파트너십 모델이 부상하고 있다.",
-    "one_line_insight_en": "Agentic AI is reshaping enterprise software development, giving rise to outcome-based partnership models that shift accountability to AI vendors.",
+    "one_line_insight_ko": "에이전틱 광고 시장은 아직 미개척지이지만, 선점 인프라를 구축하는 기업이 미래 광고 생태계를 지배할 것이다.",
+    "one_line_insight_en": "The agentic ad market is barely nascent, but early movers building the infrastructure today will define the rules of tomorrow's AI-driven advertising ecosystem.",
     "ai_processed": true
   },
   {
     "title": "Target’s holiday push stresses affordability, exclusives and an AI assistant",
-    "link": "https://www.modernretail.co/marketing/targets-holiday-push-stresses-affordability-exclusives-and-an-ai-assistant/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-10-21",
-    "description": "Target is betting on daily deals and a digital assistant to woo budget-conscious shoppers this holiday season.",
-    "source_id": "modern_retail",
-    "source_name": "Modern Retail",
-    "source_url": "https://www.modernretail.co/feed/",
+    "link": "https://digiday.com/marketing/targets-holiday-push-stresses-affordability-exclusives-and-an-ai-assistant/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-10-22",
+    "description": "Target is also rolling out an AI-powered assistant called Ask Target on Target.com and the Target app.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
     "categories": [
+      "commerce",
       "ai_marketing",
-      "commerce"
+      "marketing"
     ],
-    "relevance_score": 0.88,
+    "relevance_score": 0.92,
     "relevance_label": "high",
-    "title_en": "Target's Holiday Strategy Centers on Affordability, Exclusive Products, and an AI Shopping Assistant",
-    "summary_ko": "Target은 2026년 홀리데이 시즌을 맞아 매일 딜 프로모션, 독점 상품, 그리고 AI 디지털 어시스턴트를 전면에 내세워 가격에 민감한 소비자를 공략한다. AI 어시스턴트는 예산 절약형 쇼핑객이 원하는 상품을 더 쉽게 찾을 수 있도록 지원하는 역할을 담당한다. 이번 전략은 대형 유통업체들이 AI를 고객 경험의 핵심 도구로 통합하는 흐름을 잘 보여준다.",
-    "summary_en": "Target is launching its 2026 holiday season campaign with a focus on daily deals, exclusive products, and a new AI-powered digital assistant designed to attract budget-conscious shoppers. The AI assistant is intended to help customers more easily discover and navigate deals and product offerings throughout the holiday period. This strategy reflects a broader retail trend of integrating AI assistants directly into the customer shopping journey to drive conversion.",
-    "so_what_ko": "Target의 AI 쇼핑 어시스턴트 사례는 LG D2C가 홀리데이 시즌 등 피크 시즌에 AI 기반 상품 추천 및 고객 안내 기능을 강화할 필요성을 시사한다.",
-    "so_what_en": "Target's AI shopping assistant deployment shows that LG D2C should prioritize integrating AI-powered product discovery and deal navigation tools, especially during peak shopping seasons.",
+    "title_en": "Target's Holiday Strategy Combines Affordability, Exclusives, and an AI Shopping Assistant",
+    "summary_ko": "Target은 2026년 연휴 시즌 전략으로 가격 경쟁력, 독점 상품, 그리고 'Ask Target'이라는 AI 어시스턴트를 핵심 축으로 내세웠다. Ask Target은 Target.com과 Target 앱에서 제공되는 AI 기반 쇼핑 도우미로, 고객의 구매 여정을 지원한다. 주요 리테일러들이 연휴 성수기에 AI 어시스턴트를 쇼핑 경험의 핵심 도구로 통합하는 추세가 가속화되고 있다.",
+    "summary_en": "Target is anchoring its 2026 holiday season strategy on three pillars: affordability, exclusive products, and an AI-powered shopping assistant called Ask Target. The Ask Target assistant is being rolled out on Target.com and the Target app to guide customers through their purchase journey. The move signals a broader retail trend of embedding AI assistants as a core component of the holiday shopping experience.",
+    "so_what_ko": "LG D2C도 연휴 시즌 캠페인에 AI 쇼핑 어시스턴트를 통합함으로써 고객 구매 전환율을 높이고, Target의 사례를 벤치마크하여 자사 AI 어시스턴트 기능을 강화해야 한다.",
+    "so_what_en": "LG D2C should benchmark Target's Ask Target rollout to accelerate the integration of AI shopping assistants into its own D2C platforms, particularly during high-traffic seasonal campaigns.",
     "key_points": [
-      "Target integrates an AI digital assistant as a core part of its 2026 holiday retail strategy",
-      "Daily deals and exclusive products are paired with AI to attract budget-conscious consumers",
-      "Strategy reflects growing mainstream adoption of AI shopping assistants in retail",
-      "Demonstrates how AI can support both affordability messaging and product discovery simultaneously"
+      "Target이 연휴 전략의 핵심으로 AI 어시스턴트 'Ask Target'을 공식 론칭",
+      "Ask Target은 Target.com 및 앱에서 고객 쇼핑을 지원하는 AI 도우미",
+      "가격 경쟁력과 독점 상품을 AI 경험과 결합한 통합 연휴 전략 구사"
     ],
     "tags": [
       "ai-assistant",
       "retail-ai",
       "holiday-marketing",
-      "d2c",
-      "customer-experience"
+      "target",
+      "d2c"
     ],
     "confidence": 0.82,
     "strategic_theme": "CUSTOMER_EXPERIENCE",
@@ -656,57 +701,11 @@
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Target"
+      "Target",
+      "Ask Target"
     ],
-    "one_line_insight_ko": "Target의 AI 어시스턴트 도입은 홀리데이 시즌 쇼핑 경험에서 AI가 가격 민감 고객을 공략하는 핵심 도구로 자리잡고 있음을 보여준다.",
-    "one_line_insight_en": "Target's AI assistant strategy signals that AI-powered shopping guidance is becoming a standard competitive tool for winning budget-conscious consumers during peak retail seasons.",
-    "ai_processed": true
-  },
-  {
-    "title": "Magic: The Gathering reaches record $600M in quarterly revenue",
-    "link": "https://www.retaildive.com/news/hasbro-q3-magic-the-gathering-record-revenue/833451/",
-    "date_published": "2026-10-20",
-    "description": "Parent company Hasbro raised its 2026 financial outlook as it reported its strongest quarter of the year.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "commerce"
-    ],
-    "relevance_score": 0.22,
-    "relevance_label": "high",
-    "title_en": "Magic: The Gathering Hits Record $600M Quarterly Revenue, Boosting Hasbro's 2026 Outlook",
-    "summary_ko": "Hasbro의 Magic: The Gathering이 2026년 3분기에 분기 최고 매출인 6억 달러를 기록하며 Hasbro의 연간 재무 전망 상향을 이끌었다. 이는 Hasbro의 분기 중 가장 강력한 성과로, 수집형 카드 게임(TCG) 시장의 지속적인 성장세를 반영한다. AI 커머스나 마케팅과의 직접적 연관성은 원문에서 확인되지 않음.",
-    "summary_en": "Magic: The Gathering, a collectible card game under Hasbro, achieved a record $600M in quarterly revenue during Q3 2026, representing the strongest quarter of the year for the parent company. The milestone prompted Hasbro to raise its full-year 2026 financial outlook. The article reflects robust consumer demand for physical collectible gaming products, though no direct link to AI commerce or marketing is mentioned in the source.",
-    "so_what_ko": "이 기사는 AI 커머스·마케팅과의 직접적 연관성이 낮으나, 수집형 상품의 D2C 전략에서 커뮤니티 기반 수요 창출이 중요함을 간접적으로 시사한다.",
-    "so_what_en": "While not directly relevant to AI commerce, this article indirectly highlights the power of community-driven demand in D2C collectibles, a model worth noting for LG's premium product ecosystem strategies.",
-    "key_points": [
-      "Magic: The Gathering achieved record $600M in Q3 2026 quarterly revenue",
-      "Hasbro raised its full-year 2026 financial outlook on the back of this performance",
-      "Strong performance driven by collectible card game (TCG) market momentum",
-      "No direct AI commerce or marketing angle identified in the source article"
-    ],
-    "tags": [
-      "retail-performance",
-      "collectibles",
-      "hasbro",
-      "gaming",
-      "d2c"
-    ],
-    "confidence": 0.85,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "GLOBAL",
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Hasbro",
-      "Magic: The Gathering"
-    ],
-    "one_line_insight_ko": "Magic: The Gathering의 기록적 매출은 강력한 팬 커뮤니티와 수집 심리가 결합될 때 D2C 수익 모델이 얼마나 강력해질 수 있는지를 보여준다.",
-    "one_line_insight_en": "Magic: The Gathering's record revenue demonstrates how a loyal fan community combined with collectible scarcity mechanics can create exceptionally resilient D2C revenue streams.",
+    "one_line_insight_ko": "Target의 AI 어시스턴트 연휴 전략은 AI가 리테일 쇼핑 경험의 핵심 접점으로 완전히 자리 잡았음을 보여준다.",
+    "one_line_insight_en": "Target's holiday AI assistant rollout confirms that conversational AI has become a mainstream retail touchpoint, not a future experiment.",
     "ai_processed": true
   }
 ]
