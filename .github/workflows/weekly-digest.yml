@@ -61,7 +61,12 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "AI Trend Hub Bot"
           git add content/weekly/
-          git diff --staged --quiet || git commit -m "📊 Weekly Digest $(date +%Y-W%V)"
+          # Label the week the digest covers. On the Sunday schedule that is the
+          # current ISO week, but a manual backfill targets some earlier week and
+          # `date +%Y-W%V` would name the commit after today instead.
+          WEEK="${{ github.event.inputs.week }}"
+          [ -n "$WEEK" ] || WEEK=$(date -u -d "yesterday" +%Y-W%V)
+          git diff --staged --quiet || git commit -m "📊 Weekly Digest $WEEK"
           git push || echo "Nothing to push"
 
       - name: "Step 4: Upload to GitHub Pages"

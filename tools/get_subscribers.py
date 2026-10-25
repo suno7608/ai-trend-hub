@@ -6,7 +6,9 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import random
 import re
+import time
 from typing import Iterable
 
 from google.oauth2.credentials import Credentials
@@ -30,6 +32,47 @@ EMAIL_PATTERN = re.compile(r"^[A-Z0-9._%+\-]+@[A-Z0-9.\-]+\.[A-Z]{2,63}$", re.IG
 BLOCKED_EMAILS: set[str] = {
     "ektjs88@gmail.com",
 }
+
+
+class SubscriberFetchError(RuntimeError):
+    """Raised when the subscriber list could not be read because the API was unavailable."""
+
+
+# Sheets returns these while it is briefly unavailable or rate limiting. A single
+# 503 once silenced a whole newsletter run, so retry before giving up on a range.
+RETRYABLE_STATUS = {429, 500, 502, 503, 504}
+MAX_FETCH_ATTEMPTS = 5
+INITIAL_BACKOFF_SECONDS = 2.0
+
+
+def _http_status(error: HttpError) -> int | None:
+    """Return the HTTP status carried by an HttpError, or None if it has none."""
+    try:
+        return int(getattr(getattr(error, "resp", None), "status", None))
+    except (TypeError, ValueError):
+        return None
+
+
+def _fetch_range(service, spreadsheet_id: str, range_name: str) -> list[list[str]]:
+    """Read one A1 range, retrying transient Sheets failures with exponential backoff."""
+    for attempt in range(1, MAX_FETCH_ATTEMPTS + 1):
+        try:
+            result = (
+                service.spreadsheets()
+                .values()
+                .get(spreadsheetId=spreadsheet_id, range=range_name)
+                .execute()
+            )
+            return result.get("values", [])
+        except HttpError as error:
+            status = _http_status(error)
+            if status not in RETRYABLE_STATUS or attempt == MAX_FETCH_ATTEMPTS:
+                raise
+            delay = INITIAL_BACKOFF_SECONDS * (2 ** (attempt - 1))
+            delay += random.uniform(0, delay / 2)  # jitter: keep parallel runs out of lockstep
+            print(f"⏳ {range_name}: HTTP {status}, retrying in {delay:.1f}s ({attempt}/{MAX_FETCH_ATTEMPTS - 1})")
+            time.sleep(delay)
+    return []
 
 
 def normalize_email(raw: str) -> str:
@@ -122,15 +165,10 @@ def get_subscribers(
         return []
 
     all_rows: list[list[str]] = []
+    transient_failures: list[str] = []
     for range_name in resolved_ranges:
         try:
-            result = (
-                service.spreadsheets()
-                .values()
-                .get(spreadsheetId=resolved_spreadsheet_id, range=range_name)
-                .execute()
-            )
-            rows = result.get("values", [])
+            rows = _fetch_range(service, resolved_spreadsheet_id, range_name)
             # Flatten: each row may have multiple email columns
             for row in rows:
                 for cell in row:
@@ -138,9 +176,20 @@ def get_subscribers(
             if verbose:
                 print(f"ℹ️ {range_name}: {len(rows)} rows")
         except HttpError as error:
+            status = _http_status(error)
+            if status in RETRYABLE_STATUS:
+                transient_failures.append(f"{range_name} (HTTP {status})")
             print(f"⚠️ Skipping {range_name}: {error}")
         except Exception as error:
             print(f"⚠️ Skipping {range_name}: {error}")
+
+    # An outage must not read as "nobody is subscribed" — that silently skipped a
+    # send once. Raise so the caller fails loudly instead of mailing no one.
+    if not all_rows and transient_failures:
+        raise SubscriberFetchError(
+            f"Sheets API unavailable after {MAX_FETCH_ATTEMPTS} attempts: "
+            + ", ".join(transient_failures)
+        )
 
     if not all_rows:
         print("⚠️ No subscriber rows found.")

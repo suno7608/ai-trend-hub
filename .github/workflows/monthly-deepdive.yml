@@ -70,7 +70,12 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "AI Trend Hub Bot"
           git add content/monthly/
-          git diff --staged --quiet || git commit -m "📖 Monthly Deep Dive $(date +%Y-%m) (Enhanced v2.0)"
+          # Label the month the report covers, not the day the job ran. The
+          # generator defaults to the previous month, so `date +%Y-%m` named
+          # every scheduled commit one month ahead of its own contents.
+          MONTH="${{ github.event.inputs.month }}"
+          [ -n "$MONTH" ] || MONTH=$(date -u -d "last month" +%Y-%m)
+          git diff --staged --quiet || git commit -m "📖 Monthly Deep Dive $MONTH (Enhanced v2.0)"
           git push || echo "Nothing to push"
 
       - name: "Step 4: Upload to GitHub Pages"
