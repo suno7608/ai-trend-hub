@@ -1,5 +1,52 @@
 [
   {
+    "title": "Etsy updates AI policy, noting concerns about buyer trust",
+    "link": "https://www.digitalcommerce360.com/2026/10/26/etsy-ai-policy/",
+    "date_published": "2026-10-26",
+    "description": "Etsy published updated guidelines on artificial intelligence (AI) for sellers on Oct. 22. The marketplace is restricting specific categories of AI-generated content, tightening listing photo requirements and introducing new enforcement tools. The changes signal a larger effort to protect buyer trust, which Etsy says is being eroded as AI-generated listings proliferate across the platform. “AI […]\nThe post Etsy updates AI policy, noting concerns about buyer trust appeared first on Digital Commerce 360.",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
+    "categories": [
+      "commerce",
+      "ai_marketing"
+    ],
+    "relevance_score": 0.82,
+    "relevance_label": "high",
+    "title_en": "Etsy Updates AI Policy to Restrict AI-Generated Listings and Protect Buyer Trust",
+    "summary_ko": "Etsy는 2026년 10월 22일 판매자 대상 AI 정책을 업데이트하여 AI 생성 콘텐츠의 특정 카테고리를 제한하고 상품 사진 요건을 강화했다. 플랫폼 전반에 AI 생성 리스팅이 급증하면서 구매자 신뢰가 훼손되고 있다는 우려에 따른 조치다. Etsy는 새로운 집행 도구도 도입하여 정책 준수를 강화할 방침이다.",
+    "summary_en": "Etsy published updated AI guidelines for sellers on October 22, restricting specific categories of AI-generated content and tightening listing photo requirements. The marketplace is also introducing new enforcement tools to ensure compliance. These changes reflect a broader effort to protect buyer trust as AI-generated listings proliferate across the platform.",
+    "so_what_ko": "AI 생성 콘텐츠에 대한 소비자 신뢰 문제가 커지는 만큼, LG D2C는 제품 이미지 및 설명 생성 시 AI 활용 여부를 투명하게 공개하고 진정성 있는 콘텐츠 전략을 수립해야 한다.",
+    "so_what_en": "As consumer trust in AI-generated content erodes, LG D2C must establish transparent content policies that clearly distinguish AI-assisted from authentic product content to maintain credibility.",
+    "key_points": [
+      "Etsy는 AI 생성 콘텐츠 특정 카테고리를 플랫폼에서 제한",
+      "상품 리스팅 사진 요건을 강화하고 새로운 집행 도구 도입",
+      "AI 생성 리스팅 급증으로 인한 구매자 신뢰 훼손이 정책 변경의 핵심 동인",
+      "마켓플레이스 전반에서 AI 콘텐츠 진정성 문제가 핵심 과제로 부상"
+    ],
+    "tags": [
+      "ai-generated-content",
+      "buyer-trust",
+      "marketplace-policy",
+      "content-authenticity",
+      "ecommerce"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "AI_COMMERCE",
+    "regions": [
+      "GLOBAL",
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "Etsy"
+    ],
+    "one_line_insight_ko": "AI 생성 콘텐츠 남용으로 마켓플레이스 신뢰가 흔들리면서, D2C 브랜드의 콘텐츠 진정성 관리가 경쟁 차별화 요소로 부상하고 있다.",
+    "one_line_insight_en": "As AI-generated content proliferation erodes marketplace trust, authentic content governance is becoming a key D2C competitive differentiator.",
+    "ai_processed": true
+  },
+  {
     "title": "Walmart CMO breaks down retailer’s Muppet-fueled holiday campaign",
     "link": "https://www.marketingdive.com/news/walmart-cmo-breaks-down-retailers-muppet-fueled-holiday-campaign/833778/",
     "date_published": "2026-10-26",
@@ -8,159 +55,606 @@
     "source_name": "Marketing Dive",
     "source_url": "https://www.marketingdive.com/feeds/news/",
     "categories": [
-      "ai_marketing"
+      "marketing"
     ],
-    "relevance_score": 0,
+    "relevance_score": 0.35,
     "relevance_label": "high",
-    "summary_ko": "",
-    "summary_en": "",
-    "so_what_ko": "",
-    "so_what_en": "",
-    "key_points": [],
-    "tags": [],
-    "confidence": 0,
-    "ai_processed": false,
-    "ai_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CgQq6YK5Bqdn3yfyUpKoT\"}"
+    "title_en": "Walmart CMO Details Muppet-Fueled Holiday Campaign Built Around 'Who Knew?' Brand Platform",
+    "summary_ko": "Walmart은 2026년 연말 시즌을 위해 '머펫 크리스마스 캐럴' 세계관을 재현한 대규모 홀리데이 캠페인을 전개한다. 이번 캠페인은 Walmart의 '누가 알았겠어?(Who Knew?)' 브랜드 플랫폼과 통합되어 운영된다. CMO가 직접 캠페인 전략과 실행 방향을 공개하며 브랜드 일관성 강화에 초점을 맞췄다.",
+    "summary_en": "Walmart is launching a major holiday campaign that recreates the world of 'The Muppet Christmas Carol' as part of a unified seasonal push. The campaign extends the retailer's existing 'Who Knew?' brand platform for a cohesive consumer experience. Walmart's CMO outlined the strategy, emphasizing brand consistency across the holiday period.",
+    "so_what_ko": "대형 유통사의 IP 활용 감성 마케팅 사례는 LG D2C가 연말 시즌 캠페인에서 브랜드 스토리텔링과 감성적 연결을 강화하는 전략적 참고점이 될 수 있다.",
+    "so_what_en": "Walmart's IP-driven emotional marketing approach offers a strategic reference for LG D2C to explore brand storytelling and emotional engagement during peak seasonal campaigns.",
+    "key_points": [
+      "Walmart이 '머펫 크리스마스 캐럴' IP를 활용한 연말 홀리데이 캠페인 전개",
+      "'Who Knew?' 기존 브랜드 플랫폼과 연계한 통합 캠페인 전략 구사",
+      "CMO 주도의 브랜드 일관성 강화에 중점",
+      "AI 마케팅 활용에 대한 직접적 언급은 원문에서 확인되지 않음"
+    ],
+    "tags": [
+      "holiday-campaign",
+      "brand-marketing",
+      "retail-marketing",
+      "ip-collaboration",
+      "walmart"
+    ],
+    "confidence": 0.65,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Walmart"
+    ],
+    "one_line_insight_ko": "Walmart의 클래식 IP 활용 홀리데이 캠페인은 디지털 시대에도 감성적 브랜드 스토리텔링이 소비자 연결의 핵심임을 보여준다.",
+    "one_line_insight_en": "Walmart's classic IP-driven holiday campaign demonstrates that emotional brand storytelling remains central to consumer connection even in the digital age.",
+    "ai_processed": true
   },
   {
-    "title": "Agentic commerce: The infrastructure is ready for AI agents. Is your store?",
-    "link": "https://www.retaildive.com/spons/agentic-commerce-the-infrastructure-is-ready-for-ai-agents-is-your-store/833313/",
-    "date_published": "2026-10-26",
-    "description": "With the holidays approaching, check these signals to assess your AI readiness (and check it twice).",
+    "title": "5 of the biggest retail horror stories of 2026",
+    "link": "https://www.retaildive.com/news/retail-horror-stories-nike-turnaround-lululemon-chip-wilson-2026/833866/",
+    "date_published": "2026-10-27",
+    "description": "From Nike’s turnaround setbacks to Chip Wilson’s battle with Lululemon, the spookiest sights weren’t found on retailers’ shelves this year.",
     "source_id": "retail_dive",
     "source_name": "Retail Dive",
     "source_url": "https://www.retaildive.com/feeds/news/",
     "categories": [
-      "ai_commerce"
+      "commerce",
+      "strategy"
     ],
-    "relevance_score": 0,
+    "relevance_score": 0.2,
     "relevance_label": "high",
-    "summary_ko": "",
-    "summary_en": "",
-    "so_what_ko": "",
-    "so_what_en": "",
-    "key_points": [],
-    "tags": [],
-    "confidence": 0,
-    "ai_processed": false,
-    "ai_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CgQq6YK5Bqdn3yfyUpKoT\"}"
+    "title_en": "Five Biggest Retail Horror Stories of 2026: Nike Turnaround Struggles and Lululemon's Internal Battle",
+    "summary_ko": "2026년 유통업계의 주요 위기 사례 5가지를 돌아보며 Nike의 턴어라운드 차질과 Lululemon 창업자 Chip Wilson과의 갈등 등이 핵심 사례로 꼽혔다. 이 기사는 연간 결산 성격의 리뷰로, 올해 유통업계를 충격에 빠뜨린 사건들을 정리했다. AI 관련 내용은 원문에서 확인되지 않음.",
+    "summary_en": "Retail Dive reviewed five major retail crisis stories of 2026, including Nike's turnaround setbacks and Chip Wilson's public battle with Lululemon. The article serves as a year-in-review piece highlighting the most notable shocks to hit the retail sector. No direct connection to AI commerce or marketing is mentioned in the excerpt.",
+    "so_what_ko": "업계 선도 브랜드들의 실패 사례는 LG D2C가 브랜드 거버넌스, 재고 전략, 리더십 일관성 측면에서 리스크를 사전에 관리하는 데 참고할 수 있는 반면교사가 된다.",
+    "so_what_en": "High-profile retail failures serve as cautionary benchmarks for LG D2C to proactively manage brand governance, inventory strategy, and leadership alignment risks.",
+    "key_points": [
+      "Nike의 턴어라운드 전략이 기대에 미치지 못하며 위기 사례로 선정",
+      "Lululemon 창업자 Chip Wilson과의 경영 갈등이 주요 사건으로 부각",
+      "2026년 유통업계 전반의 구조적 위기 반영",
+      "AI 또는 D2C 전략과의 직접적 연관성은 원문에서 확인되지 않음"
+    ],
+    "tags": [
+      "retail-crisis",
+      "brand-governance",
+      "nike",
+      "lululemon",
+      "retail-trends"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "GLOBAL",
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Nike",
+      "Lululemon",
+      "Chip Wilson"
+    ],
+    "one_line_insight_ko": "2026년 유통업계 최대 위기 사례들은 브랜드 전략 실패와 내부 거버넌스 갈등이 기업 가치를 얼마나 빠르게 훼손할 수 있는지를 보여준다.",
+    "one_line_insight_en": "The biggest retail failures of 2026 underscore how quickly brand strategy missteps and internal governance conflicts can erode enterprise value.",
+    "ai_processed": true
   },
   {
-    "title": "The most expensive problems are the ones you’ve learned to live with",
-    "link": "https://www.retaildive.com/spons/the-most-expensive-problems-are-the-ones-youve-learned-to-live-with/833681/",
+    "title": "#248: The AI Cybersecurity Crisis, Dario Fights Back on Safety, OpenAI’s Monitoring Blind Spots & Claude Duet",
+    "link": "https://podcast.smarterx.ai/shownotes/248",
+    "date_published": "2026-10-27",
+    "description": "AI found a 14-year-old flaw in the code behind an estimated 70% of websites, and within 12 hours of it leaking, Cloudflare saw millions of attempts to exploit it. In Episode 248, Paul Roetzer and Mike Kaput break down this AI cybersecurity crisis: what happened, why it cascaded across banks, infrastructure, and medical records, and the steps you can take now.\nThey also cover Dario Amodei's defense of Anthropic's safety record, outside evaluators finding gaps in OpenAI's safeguards, Meta's Muse data exposure, and Anthropic's IPO filing at a valuation approaching $2 trillion, plus product and funding news in the rapid-fire round.\nAI-Pulse Survey: Fill out this week’s AI-Pulse Survey here.\nShow Notes: Access the show notes and show links here\nTimestamps:\n00:00:00 — Intro \n00:05:17 — The AI Cybersecurity Crisis Is Here\n00:29:55 — Dario Defends Anthropic’s Safety Record\n00:45:50 — Outside Evaluators Find Gaps in OpenAI’s AI Safeguards\n00:56:57 — Marketing AI Institute’s 10-Year Anniversary\n",
+    "source_id": "marketing_ai_show",
+    "source_name": "The Marketing AI Show (Podcast)",
+    "source_url": "https://feeds.megaphone.fm/marketingai",
+    "categories": [
+      "tech",
+      "strategy"
+    ],
+    "relevance_score": 0.55,
+    "relevance_label": "high",
+    "title_en": "AI Discovers 14-Year-Old Web Vulnerability, Sparks Mass Exploitation Crisis Within 12 Hours",
+    "summary_ko": "AI가 웹사이트 70%에서 사용되는 코드에서 14년 된 보안 취약점을 발견했으며, 유출 후 12시간 만에 Cloudflare는 수백만 건의 악용 시도를 탐지했다. 이번 사태는 은행, 인프라, 의료 기록 등 핵심 시스템으로 빠르게 확산되며 AI 사이버보안 위기의 심각성을 드러냈다. 한편 Anthropic의 IPO 신청(기업가치 약 2조 달러)과 OpenAI 안전장치 점검 결함 등 AI 업계 주요 이슈도 함께 다뤄졌다.",
+    "summary_en": "AI identified a 14-year-old security flaw present in code underlying an estimated 70% of websites, triggering millions of exploitation attempts detected by Cloudflare within 12 hours of the vulnerability leaking. The crisis cascaded across banks, critical infrastructure, and medical records systems, highlighting the dual-use risks of advanced AI capabilities. The episode also covers Anthropic's IPO filing at a valuation approaching $2 trillion and gaps found in OpenAI's AI safeguards by outside evaluators.",
+    "so_what_ko": "AI가 촉발한 사이버 위협의 확산 속도를 감안할 때, LG D2C는 AI 기반 상거래 및 고객 데이터 시스템의 보안 취약점 점검 주기를 대폭 단축하고 신속 대응 체계를 구축해야 한다.",
+    "so_what_en": "Given the speed at which AI-triggered cyber threats can escalate, LG D2C must significantly shorten security vulnerability assessment cycles for AI-powered commerce and customer data systems.",
+    "key_points": [
+      "AI가 14년 된 취약점 발견 후 12시간 내 수백만 건 악용 시도 발생",
+      "은행·인프라·의료 기록 등 핵심 시스템으로 사이버 위협 확산",
+      "Anthropic IPO 신청(기업가치 약 2조 달러 접근) 및 Dario Amodei의 안전성 방어 발언",
+      "외부 평가단이 OpenAI 안전장치에서 갭 발견"
+    ],
+    "tags": [
+      "ai-cybersecurity",
+      "vulnerability",
+      "anthropic",
+      "openai",
+      "ai-safety"
+    ],
+    "confidence": 0.72,
+    "strategic_theme": "EMERGING_TECH",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "Cloudflare",
+      "Anthropic",
+      "OpenAI",
+      "Meta"
+    ],
+    "one_line_insight_ko": "AI가 스스로 촉발하는 사이버 위기는 기업의 디지털 인프라 보안 전략을 근본적으로 재설계할 것을 요구하고 있다.",
+    "one_line_insight_en": "AI-triggered cybersecurity crises demand a fundamental redesign of enterprise digital infrastructure security strategies.",
+    "ai_processed": true
+  },
+  {
+    "title": "Retailers are still figuring out how to tie AI goals to executive compensation",
+    "link": "https://www.modernretail.co/operations/why-retailers-are-having-a-hard-time-tying-increased-ai-usage-to-executive-compensation/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-10-27",
+    "description": "AI is starting to show up more in conversations around executive incentive plans. But those conversations are still largely relegated to the tech industry. Here's why it's still an anomaly in retail.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
+    "categories": [
+      "commerce",
+      "strategy",
+      "ai_commerce"
+    ],
+    "relevance_score": 0.75,
+    "relevance_label": "high",
+    "title_en": "Retailers Struggle to Link AI Usage Metrics to Executive Compensation Plans",
+    "summary_ko": "AI 도입이 가속화되고 있음에도 불구하고, 유통업체들은 AI 활용 성과를 임원 보상과 연계하는 구체적인 방법을 아직 찾지 못하고 있다. 이러한 논의는 현재 주로 기술 업계에 국한되어 있으며, 유통 부문에서는 아직 예외적인 현상으로 간주된다. 명확한 AI 성과 지표와 인센티브 구조의 부재는 조직 내 AI 전략 실행력을 저해할 수 있다.",
+    "summary_en": "Despite accelerating AI adoption, retailers are struggling to define how increased AI usage should be tied to executive incentive and compensation plans. These conversations remain largely confined to the tech industry, making such linkages an anomaly in the retail sector. The absence of clear AI performance metrics and incentive structures risks undermining strategic AI execution across retail organizations.",
+    "so_what_ko": "LG D2C는 AI 전략의 실질적 실행력을 높이기 위해 AI 활용 KPI를 임원 및 팀 성과 지표에 조기 통합하고, 측정 가능한 AI 성과 프레임워크를 선제적으로 구축해야 한다.",
+    "so_what_en": "LG D2C should proactively integrate AI utilization KPIs into executive and team performance frameworks to accelerate strategic AI execution before industry norms solidify.",
+    "key_points": [
+      "유통업계에서 AI 성과를 임원 보상에 연계하는 사례가 극히 드묾",
+      "AI 관련 인센티브 논의는 현재 주로 기술 기업에 집중",
+      "명확한 AI KPI 부재가 조직 내 AI 전략 우선순위 설정을 어렵게 함",
+      "유통업계의 AI 성과 측정 체계 구축이 시급한 과제로 부상"
+    ],
+    "tags": [
+      "ai-governance",
+      "executive-compensation",
+      "retail-ai",
+      "kpi",
+      "organizational-strategy"
+    ],
+    "confidence": 0.78,
+    "strategic_theme": "DATA_STRATEGY",
+    "regions": [
+      "GLOBAL",
+      "AMER"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [],
+    "one_line_insight_ko": "AI 성과를 임원 보상에 연계하는 체계를 먼저 구축하는 유통 기업이 조직 전체의 AI 실행 속도를 경쟁 우위로 전환할 수 있다.",
+    "one_line_insight_en": "Retailers that first establish frameworks linking AI performance to executive compensation will convert organizational AI execution speed into a sustainable competitive advantage.",
+    "ai_processed": true
+  },
+  {
+    "title": "Banana Republic debuts TikTok content series in bid for younger shoppers",
+    "link": "https://www.retaildive.com/news/banana-republic-debuts-tiktok-content-series-in-bid-for-younger-shoppers/833851/",
     "date_published": "2026-10-26",
-    "description": "Some of retail’s biggest opportunities may be hiding inside familiar operational constraints.",
+    "description": "The effort spotlights various styles and arrives as parent Gap Inc. continues to emphasize entertainment marketing.",
     "source_id": "retail_dive",
     "source_name": "Retail Dive",
     "source_url": "https://www.retaildive.com/feeds/news/",
     "categories": [
-      "ai_commerce"
+      "marketing",
+      "ai_marketing"
     ],
-    "relevance_score": 0,
+    "relevance_score": 0.45,
     "relevance_label": "high",
-    "summary_ko": "",
-    "summary_en": "",
-    "so_what_ko": "",
-    "so_what_en": "",
-    "key_points": [],
-    "tags": [],
-    "confidence": 0,
-    "ai_processed": false,
-    "ai_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CgQq6YK5Bqdn3yfyUpKoT\"}"
+    "title_en": "Banana Republic Launches TikTok Content Series to Attract Younger Shoppers",
+    "summary_ko": "바나나 리퍼블릭이 젊은 소비자층을 공략하기 위해 TikTok 콘텐츠 시리즈를 론칭했다. 이 시리즈는 다양한 스타일을 조명하며, 모기업 Gap Inc.의 엔터테인먼트 마케팅 전략 강화 기조에 맞춰 진행된다. Gap Inc.는 젊은 세대와의 접점을 넓히기 위해 소셜 미디어 기반 콘텐츠 마케팅에 지속적으로 투자하고 있다.",
+    "summary_en": "Banana Republic has launched a TikTok content series aimed at attracting younger shoppers by spotlighting various styles. The effort aligns with parent company Gap Inc.'s broader emphasis on entertainment-driven marketing strategies. This move reflects a growing trend among legacy fashion retailers to leverage short-form video platforms to reconnect with younger demographics.",
+    "so_what_ko": "LG D2C 조직도 MZ세대 공략을 위해 TikTok 등 숏폼 플랫폼 기반의 엔터테인먼트 마케팅 콘텐츠 전략을 적극 검토해야 한다.",
+    "so_what_en": "LG D2C should consider investing in entertainment-led short-form content on TikTok to build brand relevance among younger consumer segments.",
+    "key_points": [
+      "바나나 리퍼블릭이 젊은 소비자 유입을 목표로 TikTok 콘텐츠 시리즈 론칭",
+      "Gap Inc.의 엔터테인먼트 마케팅 강화 전략의 일환으로 추진",
+      "레거시 패션 브랜드들이 숏폼 영상 플랫폼을 통해 젊은 세대와 소통하는 트렌드 반영"
+    ],
+    "tags": [
+      "tiktok-marketing",
+      "gen-z",
+      "entertainment-marketing",
+      "social-commerce",
+      "brand-strategy"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Banana Republic",
+      "Gap Inc.",
+      "TikTok"
+    ],
+    "one_line_insight_ko": "레거시 패션 브랜드들이 TikTok 숏폼 콘텐츠로 젊은 소비자 공략에 나서며 엔터테인먼트 마케팅이 핵심 전략으로 부상하고 있다.",
+    "one_line_insight_en": "Legacy fashion brands are turning to TikTok short-form content as a core strategy to win over younger consumers in an increasingly entertainment-driven marketing landscape.",
+    "ai_processed": true
   },
   {
-    "title": "Walmart Brings The Muppets and Walton Goggins Together For Its Own Holiday Carol",
-    "link": "https://www.adweek.com/creativity/walmart-brings-the-muppets-and-walton-goggins-together-for-its-own-holiday-carol/",
+    "title": "CVS wants to sell more Pokémon, collectibles",
+    "link": "https://www.retaildive.com/news/cvs-pokemon-collectibles-beauty-seasonal/872755/",
     "date_published": "2026-10-26",
-    "description": "Walmart's holiday campaign reimagines The Muppet Christmas Carol, with Walton Goggins playing Scrooge.",
+    "description": "The pharmacy retailer is expanding its assortment of toys and collectibles as adults fuel growth in those segments.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.3,
+    "relevance_label": "high",
+    "title_en": "CVS Expands Pokémon and Collectibles Assortment as Adult Hobbyist Market Grows",
+    "summary_ko": "CVS 약국 체인이 성인 수집가 시장의 성장에 힘입어 포켓몬 카드와 각종 수집품 라인업을 확대하고 있다. 완구 및 수집품 카테고리는 성인 소비자들이 성장을 이끌며 주요 유통 채널에서 주목받는 세그먼트로 부상했다. CVS는 기존 약국 및 미용 상품 중심의 구색에서 벗어나 고객 체류 시간과 구매 빈도를 높이는 방향으로 상품 전략을 다각화하고 있다.",
+    "summary_en": "CVS is expanding its assortment of toys and collectibles, including Pokémon products, driven by strong adult consumer demand in those categories. The pharmacy retailer sees collectibles and seasonal items as a growth opportunity beyond its traditional health and beauty focus. This strategy aims to increase basket size and store visit frequency among adult hobbyist shoppers.",
+    "so_what_ko": "LG D2C도 가전 외 라이프스타일 관련 카테고리 확장 시, 성인 취미 소비자를 타깃한 감성적 제품 큐레이션 전략을 참고할 수 있다.",
+    "so_what_en": "LG D2C can draw lessons from CVS's category diversification by curating lifestyle-adjacent products that appeal to adult hobby consumers beyond core electronics.",
+    "key_points": [
+      "CVS가 포켓몬 카드 등 수집품 카테고리를 적극 확장",
+      "성인 소비자가 완구·수집품 시장 성장을 주도하는 트렌드",
+      "약국 체인의 상품 구색 다각화를 통한 고객 유입 및 객단가 향상 전략"
+    ],
+    "tags": [
+      "retail-strategy",
+      "collectibles",
+      "category-expansion",
+      "adult-consumers",
+      "cvs"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "CVS",
+      "Pokémon"
+    ],
+    "one_line_insight_ko": "성인 수집가 시장의 부상이 약국 같은 비전통 유통 채널에서도 카테고리 혁신을 촉진하고 있다.",
+    "one_line_insight_en": "The rise of adult hobbyist consumers is driving category innovation even in non-traditional retail channels like pharmacy chains.",
+    "ai_processed": true
+  },
+  {
+    "title": "Target spruces up SoHo store, fan shops ahead of the holidays",
+    "link": "https://www.retaildive.com/news/target-soho-store-renovation-fan-shop-remodels-holidays/833925/",
+    "date_published": "2026-10-26",
+    "description": "In both cases, a localized presentation is key to what the retailer calls its “merchandising authority.”",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.3,
+    "relevance_label": "high",
+    "title_en": "Target Renovates SoHo Store and Fan Shops with Localized Merchandising for the Holidays",
+    "summary_ko": "타겟이 뉴욕 소호 매장 리뉴얼과 팬 샵 리모델링을 통해 홀리데이 시즌을 맞이하고 있다. 타겟은 지역화된 상품 구성을 핵심 전략으로 삼아 이를 '머천다이징 권위(merchandising authority)'라고 칭한다. 현지 소비자 특성에 맞춘 오프라인 매장 경험 강화가 대형 유통업체들의 주요 경쟁 전략으로 자리잡고 있다.",
+    "summary_en": "Target has renovated its SoHo flagship store and fan shops ahead of the holiday season, emphasizing a localized product presentation. The retailer describes this localized merchandising approach as central to its concept of 'merchandising authority.' The move highlights how major retailers are investing in differentiated in-store experiences tailored to local consumer preferences.",
+    "so_what_ko": "LG D2C는 오프라인 브랜드 경험 강화 시, 지역별 소비자 특성에 맞춘 로컬라이즈드 머천다이징 전략을 참고해 고객 경험을 차별화할 수 있다.",
+    "so_what_en": "LG D2C can enhance offline brand experience by adopting localized merchandising strategies tailored to regional consumer characteristics, as demonstrated by Target's approach.",
+    "key_points": [
+      "타겟이 소호 매장 리뉴얼 및 팬 샵 리모델링으로 홀리데이 시즌 대비",
+      "지역화된 상품 구성이 타겟의 핵심 머천다이징 전략",
+      "오프라인 매장의 차별화된 로컬 경험이 대형 유통업체의 경쟁력 강화 수단으로 부상"
+    ],
+    "tags": [
+      "retail-experience",
+      "localization",
+      "merchandising",
+      "holiday-retail",
+      "target"
+    ],
+    "confidence": 0.65,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Target"
+    ],
+    "one_line_insight_ko": "지역 맞춤형 머천다이징이 대형 유통업체의 오프라인 차별화 핵심 전략으로 자리잡고 있다.",
+    "one_line_insight_en": "Localized merchandising is becoming a key offline differentiation strategy for major retailers seeking to deepen community relevance.",
+    "ai_processed": true
+  },
+  {
+    "title": "RB Global grows revenue 7% in Q4 as AI expands across auctions",
+    "link": "https://www.digitalcommerce360.com/2026/10/26/rb-global-revenue-gtv-ai-q4-2025/",
+    "date_published": "2026-10-26",
+    "description": "RB Global reported higher revenue, net income and gross transaction value in 2025, ending on growth in Q4. It cited disciplined execution and expanded use of artificial intelligence (AI) to improve pricing, routing and productivity across its automotive salvage and equipment auction businesses. For the year ending Dec. 31, RB Global said revenue increased 7% […]\nPlatinum Memberships, Platinum Memberships – North American Platinum, Platinum Memberships – International Platinum, Platinum Memberships – Platinum Bundle, Gold Membership, Reoccuring Billing Test Product, Top 500 Database – Top 500 Database, Top 500 Database, Top 1000 Database – Top 1000 Database w/report, Top 1000 Database – Top 1000 Database, Europe Database, Latin America Database, Global Online Marketplaces Database, Complimentary Top 1000 Database, Next 1000 Database – Next 1000 Database, Clorox 2019 Gold Membership, Sodimac Gold Membership 2021, North American Retailer Starter Kit, International Retailer Starter Kit, Si",
+    "source_id": "digital_commerce_360",
+    "source_name": "Digital Commerce 360",
+    "source_url": "https://www.digitalcommerce360.com/feed",
+    "categories": [
+      "commerce",
+      "ai_marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.72,
+    "relevance_label": "high",
+    "title_en": "RB Global Posts 7% Revenue Growth in Q4 2025 Driven by AI-Powered Pricing and Routing",
+    "summary_ko": "RB Global이 2025년 4분기에 AI 활용 확대를 통해 매출 7% 성장, 순이익 및 총거래액(GTV) 증가를 달성했다. 회사는 AI를 자동차 폐차 및 장비 경매 사업 전반의 가격 책정, 물류 라우팅, 생산성 향상에 적극 활용했다. 규율 잡힌 실행 체계와 AI 기반 운영 최적화가 성장의 핵심 동인으로 평가된다.",
+    "summary_en": "RB Global reported 7% revenue growth in Q4 2025, along with higher net income and gross transaction value, driven by disciplined execution and expanded AI adoption. The company deployed AI across its automotive salvage and equipment auction businesses to improve pricing accuracy, logistics routing, and overall productivity. The results highlight how AI-driven operational optimization is translating into measurable financial performance in B2B commerce platforms.",
+    "so_what_ko": "LG D2C는 AI 기반 가격 최적화 및 물류 라우팅 기술 도입을 통해 운영 효율성을 높이고 수익성 개선을 추구할 수 있다.",
+    "so_what_en": "LG D2C can pursue operational efficiency and margin improvement by adopting AI-driven pricing optimization and logistics routing capabilities similar to RB Global's approach.",
+    "key_points": [
+      "RB Global, AI 활용 확대로 2025년 4분기 매출 7% 성장 달성",
+      "AI를 경매 가격 책정, 물류 라우팅, 생산성 향상에 적용",
+      "B2B 커머스 플랫폼에서 AI 운영 최적화가 실질적 재무 성과로 이어진 사례"
+    ],
+    "tags": [
+      "ai-commerce",
+      "pricing-optimization",
+      "b2b-platform",
+      "operational-ai",
+      "revenue-growth"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "AI_COMMERCE",
+    "regions": [
+      "AMER",
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "RB Global"
+    ],
+    "one_line_insight_ko": "RB Global의 AI 기반 가격·물류 최적화가 경매 플랫폼 전반의 수익성 향상으로 직결되며 커머스 AI의 실질적 ROI를 입증했다.",
+    "one_line_insight_en": "RB Global's AI-powered pricing and routing optimization demonstrates that operational AI adoption can deliver measurable revenue and profitability gains in commerce platforms.",
+    "ai_processed": true
+  },
+  {
+    "title": "The focus on AI safety disasters ignores everyday harms",
+    "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+    "date_published": "2026-10-26",
+    "description": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products…",
+    "source_id": "mit_tech_review_ai",
+    "source_name": "MIT Technology Review (AI)",
+    "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+    "categories": [
+      "tech",
+      "strategy"
+    ],
+    "relevance_score": 0.55,
+    "relevance_label": "high",
+    "title_en": "MIT Technology Review: Fixation on AI Catastrophes Overlooks Everyday Harms to Users",
+    "summary_ko": "MIT 테크놀로지 리뷰는 AI 안전 논의가 대재앙 시나리오에 집중된 나머지 일상적인 피해를 간과하고 있다고 지적한다. AI 기업들이 자살 조장 방지, 마약 거래 차단 등의 최소 기준은 충족하면서도 사용자에게 지속적으로 해를 끼치는 제품을 계속 출시하고 있다는 점이 문제로 제기된다. 기술 정책의 성공 기준이 너무 낮게 설정되어 있어, 실질적인 소비자 보호가 이루어지지 않고 있다는 비판이다.",
+    "summary_en": "MIT Technology Review argues that the AI safety discourse's focus on catastrophic scenarios is causing policymakers and companies to overlook the everyday harms AI products cause to users. While AI companies meet low bars such as not encouraging suicide or preventing fentanyl sales to minors, they continue to deploy products that harm users in subtler, persistent ways. The article calls for a broader and more rigorous standard for what constitutes responsible AI development and deployment.",
+    "so_what_ko": "LG D2C는 AI 마케팅 및 커머스 도구 도입 시, 거시적 리스크뿐 아니라 소비자에게 발생할 수 있는 일상적 피해와 신뢰 손상 가능성도 면밀히 검토해야 한다.",
+    "so_what_en": "When deploying AI marketing and commerce tools, LG D2C must evaluate not only catastrophic risks but also the everyday consumer harms and trust erosion that AI products can cause.",
+    "key_points": [
+      "AI 안전 논의가 대재앙 시나리오에 치중되어 일상적 피해를 간과",
+      "AI 기업들이 최소한의 안전 기준만 충족하며 소비자에게 지속적 피해를 주는 제품 출시",
+      "기술 정책의 성공 기준 상향 및 실질적 소비자 보호 강화 필요성 제기"
+    ],
+    "tags": [
+      "ai-safety",
+      "ai-ethics",
+      "consumer-protection",
+      "tech-policy",
+      "responsible-ai"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "EMERGING_TECH",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "MIT Technology Review"
+    ],
+    "one_line_insight_ko": "AI 안전 기준이 대재앙 방지에만 집중되는 동안, 소비자 일상에 미치는 누적적 AI 피해는 사각지대로 남아 기업 신뢰도를 위협하고 있다.",
+    "one_line_insight_en": "While AI safety discourse focuses on catastrophic risks, the cumulative everyday harms AI products inflict on consumers remain in a blind spot, posing a growing reputational threat to companies.",
+    "ai_processed": true
+  },
+  {
+    "title": "Publicis installs leadership atop Marcel as agentic drives growth plans",
+    "link": "https://www.marketingdive.com/news/publicis-installs-leadership-atop-marcel-as-agentic-drives-growth-plans/872691/",
+    "date_published": "2026-10-26",
+    "description": "The group wants to build out the internal AI tool’s capabilities in areas including creator marketing, sports and culture.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
+    "categories": [
+      "ai_marketing",
+      "agentic_commerce"
+    ],
+    "relevance_score": 0.82,
+    "relevance_label": "high",
+    "title_en": "Publicis Appoints New Leadership for Marcel AI Platform as Agentic Capabilities Drive Growth",
+    "summary_ko": "퍼블리시스 그룹이 내부 AI 플랫폼 '마르셀(Marcel)'의 리더십을 새롭게 구성하며 에이전틱 AI 기반 성장 전략을 본격화하고 있다. 마르셀은 크리에이터 마케팅, 스포츠, 문화 등 다양한 영역으로 기능을 확장할 계획이다. 이는 대형 광고 그룹들이 내부 AI 역량을 강화하며 에이전틱 자동화를 핵심 경쟁력으로 삼는 흐름을 반영한다.",
+    "summary_en": "Publicis Group has installed new leadership over its internal AI platform Marcel, signaling a strategic push to expand agentic AI capabilities across its operations. The platform is set to grow into areas such as creator marketing, sports, and culture. This move reflects a broader industry trend of major holding companies investing heavily in proprietary AI tools to drive competitive differentiation.",
+    "so_what_ko": "LG D2C 조직은 에이전틱 AI가 대형 마케팅 그룹의 핵심 인프라로 자리잡고 있음을 주목하고, 자체 AI 마케팅 플랫폼 역량 구축 또는 파트너십 전략을 검토해야 한다.",
+    "so_what_en": "LG D2C should take note that agentic AI is becoming core infrastructure for leading marketing organizations, prompting a need to evaluate building proprietary AI marketing capabilities or forging strategic partnerships.",
+    "key_points": [
+      "퍼블리시스가 내부 AI 플랫폼 마르셀에 신규 리더십 임명",
+      "크리에이터 마케팅, 스포츠, 문화 분야로 에이전틱 AI 기능 확장 예정",
+      "대형 광고 홀딩사들의 자체 AI 플랫폼 경쟁이 심화되는 추세"
+    ],
+    "tags": [
+      "agentic-ai",
+      "ai-marketing-platform",
+      "publicis-marcel",
+      "creator-marketing",
+      "holding-company-ai"
+    ],
+    "confidence": 0.72,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Publicis",
+      "Marcel",
+      "Agentic AI"
+    ],
+    "one_line_insight_ko": "퍼블리시스의 에이전틱 AI 플랫폼 강화는 마케팅 산업에서 AI 자동화가 경쟁의 핵심 축으로 부상하고 있음을 보여준다.",
+    "one_line_insight_en": "Publicis's agentic AI push signals that proprietary AI platforms are becoming the primary competitive battleground in the marketing industry.",
+    "ai_processed": true
+  },
+  {
+    "title": "Why Clorox shifted from creating brand campaigns to systems of relevance",
+    "link": "https://www.marketingdive.com/news/why-clorox-shifted-from-creating-brand-campaigns-to-systems-of-relevance/838232/",
+    "date_published": "2026-10-26",
+    "description": "CMO Eric Schwartz dug into Pine-Sol, Brita and Hidden Valley marketing that prioritized “intentional but flexible” and “insightful but bite-sized” efforts.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
+    "categories": [
+      "marketing",
+      "ai_marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.65,
+    "relevance_label": "high",
+    "title_en": "Clorox CMO Explains Shift from Brand Campaigns to 'Systems of Relevance' in Marketing Strategy",
+    "summary_ko": "클로락스의 CMO 에릭 슈워츠는 기존의 대형 브랜드 캠페인 중심 전략에서 '관련성의 시스템(Systems of Relevance)'으로 마케팅 접근 방식을 전환했다고 밝혔다. 파인-솔, 브리타, 히든 밸리 등 주요 브랜드에서 '의도적이지만 유연한', '통찰력 있지만 간결한' 마케팅을 실행했다. 이는 소비자와의 관련성을 지속적으로 유지하는 체계적 접근이 단발성 대형 캠페인보다 효과적이라는 판단에 근거한다.",
+    "summary_en": "Clorox CMO Eric Schwartz outlined how the company has shifted from creating large-scale brand campaigns to building 'systems of relevance' that prioritize ongoing consumer connection. The approach was applied across brands including Pine-Sol, Brita, and Hidden Valley with principles described as 'intentional but flexible' and 'insightful but bite-sized.' This strategic pivot reflects a broader move in marketing toward sustained, modular engagement rather than episodic campaign thinking.",
+    "so_what_ko": "LG D2C는 단발성 대형 캠페인 대신 소비자 맥락에 맞는 지속적이고 유연한 콘텐츠 시스템을 구축함으로써 브랜드 관련성을 높이는 전략을 검토할 수 있다.",
+    "so_what_en": "LG D2C can draw lessons from Clorox's model by developing always-on, modular content systems tailored to consumer context rather than relying on periodic large-scale campaigns.",
+    "key_points": [
+      "클로락스 CMO가 캠페인 중심에서 '관련성 시스템' 중심으로의 전략 전환 발표",
+      "'의도적이지만 유연한', '통찰력 있지만 간결한' 마케팅 원칙 적용",
+      "파인-솔, 브리타, 히든 밸리 등 복수 브랜드에 걸쳐 적용된 체계적 접근"
+    ],
+    "tags": [
+      "brand-strategy",
+      "systems-thinking",
+      "consumer-relevance",
+      "cmo-insights",
+      "content-marketing"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Clorox",
+      "Eric Schwartz",
+      "Pine-Sol",
+      "Brita",
+      "Hidden Valley"
+    ],
+    "one_line_insight_ko": "클로락스의 '관련성 시스템' 전략은 브랜드 마케팅이 단발성 캠페인에서 지속적 소비자 연결 체계로 진화하고 있음을 보여준다.",
+    "one_line_insight_en": "Clorox's 'systems of relevance' approach illustrates how brand marketing is evolving from episodic campaigns to persistent, context-driven consumer engagement frameworks.",
+    "ai_processed": true
+  },
+  {
+    "title": "Stagwell Snaps Up Freestar to Bolster Owned Media Ambitions",
+    "link": "https://www.adweek.com/media/stagwell-snaps-up-freestar-to-bolster-owned-media-ambitions/",
+    "date_published": "2026-10-26",
+    "description": "The adtech firm's publisher inventory and audience data will be integrated into the holdco's AI Media Machine.",
     "source_id": "adweek",
     "source_name": "Adweek",
     "source_url": "https://www.adweek.com/feed",
     "categories": [
-      "ai_marketing"
+      "ai_marketing",
+      "commerce",
+      "strategy"
     ],
-    "relevance_score": 0,
+    "relevance_score": 0.78,
     "relevance_label": "high",
-    "summary_ko": "",
-    "summary_en": "",
-    "so_what_ko": "",
-    "so_what_en": "",
-    "key_points": [],
-    "tags": [],
-    "confidence": 0,
-    "ai_processed": false,
-    "ai_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CgQq6YK5Bqdn3yfyUpKoT\"}"
+    "title_en": "Stagwell Acquires Adtech Firm Freestar to Strengthen Owned Media and AI Media Machine",
+    "summary_ko": "스테이그웰(Stagwell)이 광고 기술 회사 프리스타(Freestar)를 인수하며 자체 미디어 역량과 AI 미디어 머신(AI Media Machine) 강화에 나섰다. 프리스타의 퍼블리셔 인벤토리와 오디언스 데이터가 스테이그웰의 AI 플랫폼에 통합될 예정이다. 이 인수는 광고 홀딩사들이 데이터와 AI를 결합한 자체 미디어 생태계 구축 경쟁을 가속화하고 있음을 보여준다.",
+    "summary_en": "Stagwell has acquired adtech firm Freestar to bolster its owned media ambitions and integrate the company's publisher inventory and audience data into its AI Media Machine platform. The deal reflects Stagwell's strategy to build a vertically integrated media and data stack powered by AI. This acquisition is part of a broader trend among holding companies racing to own the data and technology layers that underpin modern media buying.",
+    "so_what_ko": "LG D2C는 퍼스트파티 오디언스 데이터와 AI 미디어 플랫폼의 통합이 광고 효율성의 핵심이 되고 있음을 인지하고, 자체 데이터 자산 강화 전략을 수립해야 한다.",
+    "so_what_en": "LG D2C should recognize that integrating first-party audience data with AI-driven media platforms is becoming essential for advertising efficiency, and should prioritize building proprietary data assets accordingly.",
+    "key_points": [
+      "스테이그웰이 광고기술 회사 프리스타 인수 완료",
+      "프리스타의 퍼블리셔 인벤토리와 오디언스 데이터를 AI 미디어 머신에 통합 예정",
+      "홀딩사들의 AI 기반 자체 미디어 생태계 구축 경쟁이 심화되는 추세"
+    ],
+    "tags": [
+      "adtech-acquisition",
+      "owned-media",
+      "ai-media-platform",
+      "audience-data",
+      "stagwell"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "DATA_STRATEGY",
+    "regions": [
+      "GLOBAL",
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Stagwell",
+      "Freestar",
+      "AI Media Machine"
+    ],
+    "one_line_insight_ko": "스테이그웰의 프리스타 인수는 AI 미디어 플랫폼과 퍼스트파티 데이터의 결합이 광고 홀딩사의 핵심 경쟁력이 되고 있음을 보여준다.",
+    "one_line_insight_en": "Stagwell's acquisition of Freestar underscores that combining AI media platforms with first-party publisher data is becoming a defining competitive advantage for marketing holding companies.",
+    "ai_processed": true
   },
   {
-    "title": "Agents and Creators: Ndidi Oteh’s Growth Plan for Accenture Song",
-    "link": "https://www.adweek.com/agencies/agents-and-creators-ndidi-otehs-growth-plan-for-accenture-song/",
+    "title": "Seth Rogen Checks Off His Gift List in Sephora’s Holiday Campaign",
+    "link": "https://www.adweek.com/brand-marketing/seth-rogen-checks-off-his-gift-list-in-sephoras-holiday-campaign/",
     "date_published": "2026-10-26",
-    "description": "A year after taking over from David Droga, the CEO is building around a $1 billion agentic commerce pipeline and the Whalar acquisition while eyeing the media space.",
+    "description": "Sephora brought unexpected ambassador Seth Rogen on board to make beauty gifting less intimidating and more fun.",
     "source_id": "adweek",
     "source_name": "Adweek",
     "source_url": "https://www.adweek.com/feed",
     "categories": [
-      "ai_marketing"
+      "marketing"
     ],
-    "relevance_score": 0,
+    "relevance_score": 0.45,
     "relevance_label": "high",
-    "summary_ko": "",
-    "summary_en": "",
-    "so_what_ko": "",
-    "so_what_en": "",
-    "key_points": [],
-    "tags": [],
-    "confidence": 0,
-    "ai_processed": false,
-    "ai_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CgQq6YK5Bqdn3yfyUpKoT\"}"
-  },
-  {
-    "title": "Salesforce’s $5.7 billion Braze deal puts marketers at an ecosystem crossroads",
-    "link": "https://digiday.com/marketing/salesforces-5-7-billion-braze-deal-puts-marketers-at-an-ecosystem-crossroads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-10-26",
-    "description": "The deal promises faster, more connected marketing, while raising questions about vendor lock-in and how brands stand out as AI automates campaign execution.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
-    "categories": [
-      "ai_marketing",
-      "adtech"
+    "title_en": "Sephora Taps Seth Rogen as Unlikely Holiday Campaign Ambassador to Demystify Beauty Gifting",
+    "summary_ko": "세포라(Sephora)가 배우 세스 로건(Seth Rogen)을 홀리데이 캠페인의 앰배서더로 기용해 뷰티 선물 구매를 덜 부담스럽고 재미있게 만드는 마케팅을 선보였다. 예상치 못한 인물 선택을 통해 뷰티에 친숙하지 않은 소비자층에게 브랜드 접근성을 높이는 전략이다. 이 캠페인은 비전통적인 앰배서더를 활용해 브랜드 인식을 확장하고 새로운 고객층을 유입하려는 시도를 보여준다.",
+    "summary_en": "Sephora has enlisted comedian and actor Seth Rogen as the face of its holiday campaign, aiming to make beauty gifting feel less intimidating and more approachable for a broader audience. The unexpected ambassador choice is a deliberate strategy to reach consumers who may not typically engage with beauty retail. The campaign exemplifies how brands are leveraging unconventional celebrity partnerships to expand brand relevance and attract new customer segments.",
+    "so_what_ko": "LG D2C는 비전통적인 앰배서더 기용을 통해 특정 제품 카테고리에 대한 소비자 진입 장벽을 낮추고 새로운 타겟층을 유입하는 전략을 참고할 수 있다.",
+    "so_what_en": "LG D2C can draw inspiration from Sephora's unconventional ambassador strategy to lower consumer entry barriers for complex product categories like home appliances and attract new demographics.",
+    "key_points": [
+      "세포라가 세스 로건을 홀리데이 캠페인 앰배서더로 기용",
+      "뷰티 선물 구매에 대한 부담감을 낮추고 접근성을 높이는 것이 캠페인의 핵심 목표",
+      "비전통적인 유명인 기용으로 새로운 소비자층 유입을 노리는 전략"
     ],
-    "relevance_score": 0,
-    "relevance_label": "high",
-    "summary_ko": "",
-    "summary_en": "",
-    "so_what_ko": "",
-    "so_what_en": "",
-    "key_points": [],
-    "tags": [],
-    "confidence": 0,
-    "ai_processed": false,
-    "ai_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CgQq6kdjhxQUpGKg6pfYf\"}"
-  },
-  {
-    "title": "Media Buying Briefing: Brands push toward retail and social while buyers ponder storm clouds",
-    "link": "https://digiday.com/media-buying/media-buying-briefing-brands-push-toward-retail-and-social-while-buyers-ponder-storm-clouds/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-10-26",
-    "description": "Ad dollars are flowing towards usual suspects in Q4 but media buyers say midterms give reasonsto be cautious.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
-    "categories": [
-      "ai_marketing",
-      "adtech"
+    "tags": [
+      "celebrity-marketing",
+      "holiday-campaign",
+      "brand-ambassador",
+      "sephora",
+      "beauty-retail"
     ],
-    "relevance_score": 0,
-    "relevance_label": "high",
-    "summary_ko": "",
-    "summary_en": "",
-    "so_what_ko": "",
-    "so_what_en": "",
-    "key_points": [],
-    "tags": [],
-    "confidence": 0,
-    "ai_processed": false,
-    "ai_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CgQq6kdjhxQUpGKg6pfYf\"}"
+    "confidence": 0.8,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Sephora",
+      "Seth Rogen"
+    ],
+    "one_line_insight_ko": "세포라의 세스 로건 캠페인은 비전통적 앰배서더 기용이 브랜드 친근감을 높이고 신규 소비자층을 확보하는 효과적인 전략임을 보여준다.",
+    "one_line_insight_en": "Sephora's Seth Rogen campaign demonstrates that unconventional ambassador casting can effectively lower brand barriers and drive engagement among non-traditional customer segments.",
+    "ai_processed": true
   },
   {
     "title": "Retailers take a targeted approach to seasonal hiring in preparation for historic holiday sales year",
@@ -171,189 +665,40 @@
     "source_name": "Modern Retail",
     "source_url": "https://www.modernretail.co/feed/",
     "categories": [
-      "ai_commerce",
-      "d2c_dtc"
+      "commerce",
+      "strategy"
     ],
-    "relevance_score": 0,
+    "relevance_score": 0.52,
     "relevance_label": "high",
-    "summary_ko": "",
-    "summary_en": "",
-    "so_what_ko": "",
-    "so_what_en": "",
-    "key_points": [],
-    "tags": [],
-    "confidence": 0,
-    "ai_processed": false,
-    "ai_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CgQq6kdjhxQUpGKg6pfYf\"}"
-  },
-  {
-    "title": "Pinterest Opens Its Inventory to Programmatic Buyers, With Magnite as Its Main Pipe",
-    "link": "https://www.adweek.com/programmatic/pinterest-opens-its-inventory-to-programmatic-buyers-with-magnite-as-its-main-pipe/",
-    "date_published": "2026-10-26",
-    "description": "The platform is making its display and video inventory available through Amazon, Google and Yahoo’s DSPs.",
-    "source_id": "adweek",
-    "source_name": "Adweek",
-    "source_url": "https://www.adweek.com/feed",
-    "categories": [
-      "ai_marketing"
+    "title_en": "Retailers Adopt Surgical Seasonal Hiring Strategies Ahead of $1 Trillion Holiday Sales Season",
+    "summary_ko": "소매업체와 물류 기업들이 1조 달러 규모로 예상되는 역대급 홀리데이 시즌을 앞두고 유연한 인력 배치와 물류 교차 훈련에 집중하는 정밀한 계절 채용 전략을 채택하고 있다. 과거의 대규모 일괄 채용 방식에서 벗어나 필요한 영역에 집중하는 '수술적' 접근법이 주목받고 있다. 이는 인건비 효율화와 운영 유연성을 동시에 확보하려는 소매 업계의 전략적 변화를 반영한다.",
+    "summary_en": "Retailers and logistics companies are adopting a more targeted, surgical approach to seasonal hiring ahead of what is projected to be a historic $1 trillion holiday sales season. Rather than broad mass hiring, the focus is on flexible staffing models and cross-training employees across logistics functions. This shift reflects the retail industry's effort to balance labor cost efficiency with operational flexibility during peak demand periods.",
+    "so_what_ko": "LG D2C는 홀리데이 시즌 수요 급증에 대비해 물류와 고객 지원 인력의 유연한 배치 전략과 교차 훈련을 통해 운영 효율성을 높이는 방안을 검토해야 한다.",
+    "so_what_en": "LG D2C should evaluate flexible staffing and logistics cross-training strategies to efficiently scale operations during peak holiday demand without overcommitting to fixed labor costs.",
+    "key_points": [
+      "소매업체들이 1조 달러 규모 홀리데이 시즌 대비 정밀 채용 전략 도입",
+      "대규모 일괄 채용 대신 유연한 인력 배치와 물류 교차 훈련 집중",
+      "인건비 효율화와 운영 유연성 동시 확보가 핵심 전략 목표"
     ],
-    "relevance_score": 0,
-    "relevance_label": "high",
-    "summary_ko": "",
-    "summary_en": "",
-    "so_what_ko": "",
-    "so_what_en": "",
-    "key_points": [],
-    "tags": [],
-    "confidence": 0,
-    "ai_processed": false,
-    "ai_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CgQq6kdjhxQUpGKg6pfYf\"}"
-  },
-  {
-    "title": "The Daily Mail tests GEO with brands ahead of AI visibility product",
-    "link": "https://digiday.com/media/the-daily-mail-tests-geo-with-brands-ahead-of-ai-visibility-product/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-10-26",
-    "description": "The Daily Mail is running around a dozen GEO tests to work out what works before turning its AI visibility offering into an official product early next year.",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
-    "categories": [
-      "ai_marketing",
-      "adtech"
+    "tags": [
+      "holiday-retail",
+      "seasonal-hiring",
+      "logistics",
+      "retail-operations",
+      "workforce-flexibility"
     ],
-    "relevance_score": 0,
-    "relevance_label": "high",
-    "summary_ko": "",
-    "summary_en": "",
-    "so_what_ko": "",
-    "so_what_en": "",
-    "key_points": [],
-    "tags": [],
-    "confidence": 0,
-    "ai_processed": false,
-    "ai_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CgQq6kdjhxQUpGKg6pfYf\"}"
-  },
-  {
-    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-    "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-    "date_published": "2026-10-25",
-    "description": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "categories": [
-      "ai_general",
-      "ai_commerce",
-      "startup"
+    "confidence": 0.75,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "AMER"
     ],
-    "relevance_score": 0,
-    "relevance_label": "high",
-    "summary_ko": "",
-    "summary_en": "",
-    "so_what_ko": "",
-    "so_what_en": "",
-    "key_points": [],
-    "tags": [],
-    "confidence": 0,
-    "ai_processed": false,
-    "ai_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CgQq6qPVibBU7N51hHFfZ\"}"
-  },
-  {
-    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-    "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-    "date_published": "2026-10-25",
-    "description": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "categories": [
-      "ai_general",
-      "ai_commerce",
-      "startup"
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Modern Retail"
     ],
-    "relevance_score": 0,
-    "relevance_label": "high",
-    "summary_ko": "",
-    "summary_en": "",
-    "so_what_ko": "",
-    "so_what_en": "",
-    "key_points": [],
-    "tags": [],
-    "confidence": 0,
-    "ai_processed": false,
-    "ai_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CgQq6qPVibBU7N51hHFfZ\"}"
-  },
-  {
-    "title": "The hottest AI wearables and gadgets you should know about",
-    "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-    "date_published": "2026-10-25",
-    "description": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "categories": [
-      "ai_general",
-      "ai_commerce",
-      "startup"
-    ],
-    "relevance_score": 0,
-    "relevance_label": "high",
-    "summary_ko": "",
-    "summary_en": "",
-    "so_what_ko": "",
-    "so_what_en": "",
-    "key_points": [],
-    "tags": [],
-    "confidence": 0,
-    "ai_processed": false,
-    "ai_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CgQq6qPVibBU7N51hHFfZ\"}"
-  },
-  {
-    "title": "The science behind TorchNeuron, Amazon&#8217;s new PyTorch backend for AWS Trainium chips",
-    "link": "https://www.amazon.science/blog/the-science-behind-torchneuron-amazons-new-pytorch-backend-for-aws-trainium-chips",
-    "date_published": "2026-10-22",
-    "description": "Runtime optimizations and a thorough evaluation process driven by agentic AI help ensure that models written in PyTorch will execute efficiently and reliably on Trainium systems.",
-    "source_id": "amazon_science",
-    "source_name": "Amazon Science",
-    "source_url": "https://www.amazon.science/index.rss",
-    "categories": [
-      "platform_vendor",
-      "ai_general"
-    ],
-    "relevance_score": 0,
-    "relevance_label": "high",
-    "summary_ko": "",
-    "summary_en": "",
-    "so_what_ko": "",
-    "so_what_en": "",
-    "key_points": [],
-    "tags": [],
-    "confidence": 0,
-    "ai_processed": false,
-    "ai_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CgQq6qPVibBU7N51hHFfZ\"}"
-  },
-  {
-    "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
-    "link": "https://latent.space/p/modal-d/",
-    "date_published": "2026-10-22",
-    "description": "Elastic GPUs, sandbox growth, and the economics of the agent cloud",
-    "source_id": "latent_space",
-    "source_name": "Latent Space (The AI Index)",
-    "source_url": "https://www.latent.space/feed",
-    "categories": [
-      "ai_general",
-      "engineering"
-    ],
-    "relevance_score": 0,
-    "relevance_label": "high",
-    "summary_ko": "",
-    "summary_en": "",
-    "so_what_ko": "",
-    "so_what_en": "",
-    "key_points": [],
-    "tags": [],
-    "confidence": 0,
-    "ai_processed": false,
-    "ai_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CgQq6qPVibBU7N51hHFfZ\"}"
+    "one_line_insight_ko": "1조 달러 홀리데이 시즌을 앞두고 소매업체들의 정밀 채용 전략은 운영 효율성과 유연성이 D2C 경쟁력의 핵심 요소로 부상하고 있음을 보여준다.",
+    "one_line_insight_en": "Retailers' surgical hiring approach ahead of a $1 trillion holiday season signals that operational agility and workforce flexibility are becoming critical competitive differentiators in D2C commerce.",
+    "ai_processed": true
   }
 ]
