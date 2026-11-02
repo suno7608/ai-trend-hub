@@ -1,523 +1,9 @@
 [
   {
-    "title": "Selena Gomez and Tate McRae Bring the Magic to Ulta Beauty’s Holiday Campaign",
-    "link": "https://www.adweek.com/creativity/selena-gomez-and-tate-mcrae-bring-the-magic-to-ulta-beautys-holiday-campaign/",
-    "date_published": "2026-10-31",
-    "description": "Ulta Beauty’s holiday campaign features Selena Gomez and Tate McRae, whose brands are both sold at the retailer.",
-    "source_id": "adweek",
-    "source_name": "Adweek",
-    "source_url": "https://www.adweek.com/feed",
-    "categories": [
-      "marketing",
-      "ai_marketing"
-    ],
-    "relevance_score": 0.35,
-    "relevance_label": "high",
-    "title_en": "Selena Gomez and Tate McRae Star in Ulta Beauty's Holiday Campaign",
-    "summary_ko": "울타 뷰티(Ulta Beauty)는 자사 매장에서 브랜드를 판매 중인 셀레나 고메즈(Selena Gomez)와 테이트 맥레이(Tate McRae)를 내세운 홀리데이 캠페인을 공개했다. 두 아티스트는 단순 모델을 넘어 자체 브랜드를 보유한 셀러브리티로, 울타 뷰티와의 시너지를 극대화했다. 이번 캠페인은 셀러브리티 브랜드와 유통 채널의 통합 마케팅 전략을 잘 보여주는 사례다.",
-    "summary_en": "Ulta Beauty launched its holiday campaign featuring Selena Gomez and Tate McRae, both of whom sell their own brands at the retailer. The campaign leverages the dual role of these celebrities as both brand founders and campaign ambassadors. This approach exemplifies an integrated marketing strategy that aligns celebrity equity with retail distribution.",
-    "so_what_ko": "셀러브리티 브랜드와 유통 채널을 동시에 활용하는 통합 마케팅 전략은 LG D2C에서도 브랜드 앰배서더 선정 시 제품 연관성과 채널 시너지를 고려해야 함을 시사한다.",
-    "so_what_en": "LG D2C teams should consider ambassador partnerships that align brand identity with product relevance and channel strategy, maximizing authentic storytelling and retail synergy.",
-    "key_points": [
-      "울타 뷰티 홀리데이 캠페인에 셀레나 고메즈, 테이트 맥레이 기용",
-      "두 셀러브리티는 울타 뷰티 내 자체 브랜드를 보유한 앰배서더로 이중 역할 수행",
-      "셀러브리티 브랜드 파워와 유통 채널을 결합한 통합 마케팅 전략 구사"
-    ],
-    "tags": [
-      "celebrity-marketing",
-      "holiday-campaign",
-      "beauty-retail",
-      "brand-partnership"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Ulta Beauty",
-      "Selena Gomez",
-      "Tate McRae"
-    ],
-    "one_line_insight_ko": "셀러브리티를 브랜드 창업자이자 앰배서더로 동시에 활용하는 전략이 유통 채널 마케팅의 새로운 표준으로 부상하고 있다.",
-    "one_line_insight_en": "Leveraging celebrities simultaneously as brand founders and campaign ambassadors is emerging as a powerful integrated retail marketing strategy.",
-    "ai_processed": true
-  },
-  {
-    "title": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
-    "link": "https://latent.space/p/arca/",
-    "date_published": "2026-10-31",
-    "description": "Arca's head of AI discusses persistent memory, the benefits of a custom harness, and agentic workflows that span days.",
-    "source_id": "latent_space",
-    "source_name": "Latent Space (The AI Index)",
-    "source_url": "https://www.latent.space/feed",
-    "categories": [
-      "tech",
-      "agentic_commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.72,
-    "relevance_label": "high",
-    "title_en": "Arca's Head of AI on Using Agentic Workflows for Long-Horizon Financial Tasks",
-    "summary_ko": "금융 투자사 Arca의 AI 책임자는 며칠에 걸쳐 실행되는 장기 에이전틱 워크플로우와 지속적 메모리(persistent memory) 활용 사례를 공유했다. 맞춤형 하네스(custom harness) 구축이 AI 에이전트의 성능과 신뢰성을 높이는 데 핵심적인 역할을 한다고 강조했다. 이는 복잡한 금융 업무에 AI 에이전트를 실질적으로 적용한 선도적 사례로 주목받고 있다.",
-    "summary_en": "Arca's head of AI shared insights on agentic workflows that span multiple days for complex financial tasks, highlighting the role of persistent memory in enabling continuity. The discussion emphasized the advantages of building a custom harness to optimize agent performance and reliability. This represents a leading real-world application of long-horizon AI agents in professional financial settings.",
-    "so_what_ko": "장기 실행 AI 에이전트와 지속적 메모리 기술은 LG D2C의 고객 여정 관리, 개인화 마케팅 자동화 등 복잡한 업무에도 적용 가능한 핵심 기술 방향성이다.",
-    "so_what_en": "Long-horizon agentic workflows with persistent memory represent a key technology direction applicable to LG D2C's complex tasks such as customer journey management and personalized marketing automation.",
-    "key_points": [
-      "며칠에 걸친 장기 에이전틱 워크플로우를 금융 업무에 실제 적용",
-      "지속적 메모리(persistent memory)가 복잡한 AI 에이전트 작업의 연속성을 보장",
-      "맞춤형 하네스 구축이 에이전트 신뢰성 및 성능 향상의 핵심 요소로 지목"
-    ],
-    "tags": [
-      "agentic-ai",
-      "persistent-memory",
-      "long-horizon-tasks",
-      "financial-ai",
-      "ai-agent"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Arca",
-      "Latent Space"
-    ],
-    "one_line_insight_ko": "며칠에 걸쳐 실행되는 장기 AI 에이전트와 지속적 메모리 기술이 복잡한 업무 자동화의 실용적 해법으로 부상하고 있다.",
-    "one_line_insight_en": "Long-horizon agentic AI workflows with persistent memory are emerging as practical solutions for automating complex, multi-step professional tasks.",
-    "ai_processed": true
-  },
-  {
-    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-    "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-    "date_published": "2026-10-31",
-    "description": "Apple's new CEO defended the company's current position in the AI landscape.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "categories": [
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.55,
-    "relevance_label": "high",
-    "title_en": "Apple CEO Defends Deliberate AI Strategy, Rejects 'AI for AI's Sake' Approach",
-    "summary_ko": "애플 CEO는 자사가 AI를 위한 AI를 출시하는 것을 원하지 않는다고 밝히며, 의도적이고 신중한 AI 전략을 옹호했다. 이는 경쟁사들의 빠른 AI 기능 출시 경쟁과 차별화되는 애플의 품질 우선 접근 방식을 강조한 것이다. 애플의 현재 AI 시장 내 포지셔닝에 대한 외부 비판에 대응하는 발언으로 해석된다.",
-    "summary_en": "Apple's CEO defended the company's measured approach to AI, stating they do not want to ship AI features purely for the sake of following trends. This stance differentiates Apple from competitors racing to release AI capabilities rapidly. The comments appear to be a response to external criticism about Apple's current positioning in the AI landscape.",
-    "so_what_ko": "AI 기능의 빠른 도입보다 실질적인 고객 가치 창출에 집중하는 전략이 중요하며, LG D2C도 AI 기능 도입 시 사용자 경험과 실용성을 우선 기준으로 삼아야 한다.",
-    "so_what_en": "LG D2C should prioritize AI adoption based on genuine customer value and user experience rather than competitive pressure alone, taking cues from Apple's quality-first philosophy.",
-    "key_points": [
-      "애플 CEO, 트렌드 추종식 AI 출시를 지양하고 실질적 가치 중심의 신중한 전략 강조",
-      "경쟁사 대비 빠른 AI 기능 출시보다 품질과 사용자 경험을 우선시하는 애플의 차별화 포지셔닝",
-      "AI 시장 내 애플의 현재 위치에 대한 외부 비판에 적극 대응"
-    ],
-    "tags": [
-      "apple",
-      "ai-strategy",
-      "product-philosophy",
-      "competitive-positioning"
-    ],
-    "confidence": 0.65,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Apple"
-    ],
-    "one_line_insight_ko": "애플의 'AI를 위한 AI 거부' 철학은 기업들이 AI 기능 도입 시 속도보다 실질적 고객 가치를 우선해야 함을 상기시킨다.",
-    "one_line_insight_en": "Apple's rejection of 'AI for AI's sake' underscores that meaningful customer value, not speed, should drive enterprise AI adoption decisions.",
-    "ai_processed": true
-  },
-  {
-    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-    "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-    "date_published": "2026-10-31",
-    "description": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "categories": [
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.3,
-    "relevance_label": "high",
-    "title_en": "NAACP Lawsuit Over xAI Data Center Pollution Cleared to Proceed",
-    "summary_ko": "판사가 xAI 데이터센터의 대기오염을 둘러싼 NAACP의 소송을 진행하도록 허가했다. NAACP는 SpaceX 계열 AI 기업인 xAI가 청정 대기법(Clean Air Act)을 위반했다고 주장하고 있다. 이번 소송은 AI 인프라 확장이 환경 및 지역사회에 미치는 부정적 영향에 대한 법적 책임 논의를 본격화하는 신호탄이 될 수 있다.",
-    "summary_en": "A judge has allowed an NAACP lawsuit targeting xAI's data center operations to move forward, alleging violations of the Clean Air Act. The lawsuit accuses xAI, associated with SpaceX, of causing pollution that negatively impacts surrounding communities. This case highlights growing legal and regulatory scrutiny of AI infrastructure expansion and its environmental consequences.",
-    "so_what_ko": "AI 인프라 구축 및 확장 시 환경 규제 준수와 지역사회 영향에 대한 리스크 관리가 필수적이며, LG D2C의 AI 파트너 선정 시에도 ESG 리스크를 고려해야 한다.",
-    "so_what_en": "LG D2C must factor in ESG and environmental compliance risks when selecting AI infrastructure partners, as regulatory scrutiny of AI data centers intensifies.",
-    "key_points": [
-      "NAACP의 xAI 데이터센터 대기오염 소송이 법원 허가로 본격 진행",
-      "xAI가 청정 대기법(Clean Air Act) 위반 혐의를 받고 있으며 지역사회 피해 주장",
-      "AI 인프라 확장에 따른 환경적 책임 및 법적 리스크가 업계 전반의 이슈로 부상"
-    ],
-    "tags": [
-      "xai",
-      "data-center",
-      "environmental-regulation",
-      "ai-infrastructure",
-      "esg"
-    ],
-    "confidence": 0.75,
-    "strategic_theme": "EMERGING_TECH",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "xAI",
-      "NAACP",
-      "SpaceX"
-    ],
-    "one_line_insight_ko": "AI 데이터센터 확장이 환경 소송으로 이어지면서 AI 인프라의 ESG 리스크 관리가 기업의 핵심 과제로 부상하고 있다.",
-    "one_line_insight_en": "AI data center expansion facing environmental lawsuits signals that ESG risk management is becoming a critical imperative for AI infrastructure operators.",
-    "ai_processed": true
-  },
-  {
-    "title": "OpenAI reportedly lowers funding target for new round",
-    "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-    "date_published": "2026-10-31",
-    "description": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-    "source_id": "techcrunch_ai",
-    "source_name": "TechCrunch AI",
-    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "categories": [
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.5,
-    "relevance_label": "high",
-    "title_en": "OpenAI Reportedly Reduces Target for Latest Funding Round",
-    "summary_ko": "오픈AI(OpenAI)가 최신 펀딩 라운드의 목표 금액을 낮춘 것으로 보도되었으며, 당초 기대에 미치지 못하는 상황이다. 이는 AI 스타트업에 대한 투자 심리가 일부 조정되고 있음을 시사할 수 있다. 오픈AI의 펀딩 목표 하향은 AI 업계 전반의 투자 환경 변화에 대한 신호로 주목받고 있다.",
-    "summary_en": "OpenAI has reportedly lowered its fundraising target for its latest funding round, falling short of initial expectations. This development may signal a cooling in investor sentiment toward AI companies. The news has drawn attention as a potential indicator of broader shifts in the AI investment landscape.",
-    "so_what_ko": "AI 투자 시장의 조정 가능성은 AI 솔루션 파트너들의 재무 안정성에 영향을 줄 수 있으며, LG D2C는 주요 AI 파트너의 펀딩 상황을 지속적으로 모니터링해야 한다.",
-    "so_what_en": "A potential cooling in AI investment may affect the financial stability of key AI solution providers; LG D2C should monitor the funding health of critical AI partners.",
-    "key_points": [
-      "오픈AI가 최신 펀딩 라운드 목표 금액을 하향 조정한 것으로 알려짐",
-      "당초 투자 기대치에 미치지 못하며 AI 투자 심리 조정 가능성 시사",
-      "AI 업계 전반의 투자 환경 변화 여부를 가늠하는 주요 지표로 주목"
-    ],
-    "tags": [
-      "openai",
-      "ai-funding",
-      "investment",
-      "startup-ecosystem"
-    ],
-    "confidence": 0.65,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "OpenAI"
-    ],
-    "one_line_insight_ko": "오픈AI의 펀딩 목표 하향은 AI 투자 과열이 진정되는 신호일 수 있으며, AI 파트너사의 재무 안정성 리스크 점검이 필요하다.",
-    "one_line_insight_en": "OpenAI's lowered funding target may signal a cooling AI investment climate, prompting a need to reassess the financial stability of key AI partners.",
-    "ai_processed": true
-  },
-  {
-    "title": "Amex nabs new risk chief",
-    "link": "https://www.paymentsdive.com/news/amex-us-bank-risk-chief-departs-richard-compliance-banking/873293/",
-    "date_published": "2026-10-30",
-    "description": "The executive shuffle comes at a pivotal time for Amex, which was hit this month with regulator penalties over anti-money laundering compliance failures.",
-    "source_id": "payments_dive",
-    "source_name": "Payments Dive",
-    "source_url": "https://www.paymentsdive.com/feeds/news/",
-    "categories": [
-      "commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.3,
-    "relevance_label": "high",
-    "title_en": "Amex Appoints New Risk Chief Amid Regulatory Penalties for AML Compliance Failures",
-    "summary_ko": "아메리칸 익스프레스(Amex)는 자금세탁방지(AML) 컴플라이언스 위반으로 규제 당국의 제재를 받은 직후 새로운 리스크 최고책임자를 선임했다. 이번 임원 교체는 금융 규제 환경이 강화되는 시점에 이루어진 것으로, 컴플라이언스 체계 강화가 시급한 과제로 부각되었다. Amex는 리스크 관리 조직 개편을 통해 규제 신뢰 회복에 나설 전망이다.",
-    "summary_en": "American Express has appointed a new risk chief following regulatory penalties related to anti-money laundering compliance failures. The executive reshuffle reflects growing pressure on financial institutions to strengthen compliance frameworks amid tightening regulatory scrutiny. Amex is expected to use this leadership change to rebuild regulatory trust and overhaul its risk management structure.",
-    "so_what_ko": "금융 결제 파트너를 선택하거나 D2C 결제 인프라를 구축할 때 파트너사의 컴플라이언스 안정성을 리스크 요소로 반드시 점검해야 한다.",
-    "so_what_en": "When selecting payment partners or building D2C payment infrastructure, compliance stability and regulatory track records of partner institutions must be evaluated as critical risk factors.",
-    "key_points": [
-      "Amex가 AML 컴플라이언스 위반으로 규제 당국의 제재를 받음",
-      "규제 제재 직후 리스크 최고책임자 교체라는 임원 개편 단행",
-      "금융 기관의 컴플라이언스 리스크 관리 강화 필요성 부각"
-    ],
-    "tags": [
-      "amex",
-      "risk-management",
-      "compliance",
-      "payments",
-      "financial-regulation"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "American Express",
-      "U.S. Bank"
-    ],
-    "one_line_insight_ko": "Amex의 AML 제재와 리스크 수장 교체는 결제 인프라 파트너 선정 시 컴플라이언스 리스크를 필수 검토 항목으로 삼아야 함을 상기시킨다.",
-    "one_line_insight_en": "Amex's AML penalties and leadership reshuffle underscore the importance of vetting compliance track records when selecting payment infrastructure partners.",
-    "ai_processed": true
-  },
-  {
-    "title": "AI agents won’t pay the way you do",
-    "link": "https://www.paymentsdive.com/news/ai-agents-wont-pay-same-ways-agentic-commerce-payments/873291/",
-    "date_published": "2026-10-30",
-    "description": "Plaid’s payments head explains how payment methods might shift as artificial intelligence begins choosing how to pay.",
-    "source_id": "payments_dive",
-    "source_name": "Payments Dive",
-    "source_url": "https://www.paymentsdive.com/feeds/news/",
-    "categories": [
-      "commerce",
-      "agentic_commerce",
-      "tech"
-    ],
-    "relevance_score": 0.95,
-    "relevance_label": "high",
-    "title_en": "AI Agents Will Reshape Payment Methods as Agentic Commerce Redefines How Transactions Are Made",
-    "summary_ko": "Plaid의 결제 부문 책임자는 AI 에이전트가 소비자를 대신해 결제를 수행하는 '에이전틱 커머스' 시대에는 기존 결제 방식이 근본적으로 변화할 것이라고 설명했다. AI가 결제 수단 선택권을 갖게 되면 신용카드, 간편결제 등 전통적인 결제 방법의 점유율이 재편될 가능성이 크다. 이에 따라 결제 인프라 제공업체와 브랜드 모두 AI 에이전트 친화적인 결제 경험 설계를 새롭게 고민해야 하는 시점이 도래했다.",
-    "summary_en": "Plaid's head of payments explains that AI agents acting on behalf of consumers will fundamentally alter which payment methods are used and how transactions are initiated. As AI gains authority over payment decisions, traditional methods like credit cards and digital wallets may lose ground to agent-optimized payment rails. Both payment infrastructure providers and brands must now reconsider how to design payment experiences that cater to AI-driven decision-making.",
-    "so_what_ko": "LG D2C는 AI 에이전트가 결제 주체가 되는 시나리오를 대비해, 에이전트 친화적 결제 API 및 체크아웃 플로우를 사전에 설계하고 Plaid 등 핀테크 파트너와의 협력을 모색해야 한다.",
-    "so_what_en": "LG D2C should proactively design agent-friendly payment APIs and checkout flows to prepare for a future where AI agents control purchasing decisions, and explore partnerships with fintech players like Plaid.",
-    "key_points": [
-      "AI 에이전트가 소비자 대신 결제 수단을 선택하고 거래를 실행하는 에이전틱 커머스 시대 도래",
-      "기존 신용카드·간편결제 중심의 결제 생태계가 AI 에이전트 최적화 방식으로 재편될 가능성",
-      "Plaid 결제 부문 수장이 에이전틱 커머스에서의 결제 방식 변화 방향 제시",
-      "브랜드와 결제 인프라 업체 모두 AI 에이전트 대응 결제 설계 필요"
-    ],
-    "tags": [
-      "agentic-commerce",
-      "ai-agents",
-      "payments",
-      "plaid",
-      "d2c-checkout"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "GLOBAL",
-      "AMER"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Plaid",
-      "AI Agents"
-    ],
-    "one_line_insight_ko": "AI 에이전트가 결제 주체로 부상하면서 기존 결제 방식이 재편되고 있으며, D2C 브랜드는 에이전트 친화적 결제 인프라 구축을 서둘러야 한다.",
-    "one_line_insight_en": "As AI agents become active payment decision-makers, D2C brands must urgently build agent-optimized payment infrastructure to stay competitive in agentic commerce.",
-    "ai_processed": true
-  },
-  {
-    "title": "Gemini Carbon aims to boost AI cyber defense, but is limited to a few",
-    "link": "https://aibusiness.com/cybersecurity/gemini-carbon-aims-boost-ai-cyber-defense-but-limited-to-a-few",
-    "date_published": "2026-10-30",
-    "description": "The model addresses security concerns. Yet its exclusive release means most enterprises won’t be able to test it.",
-    "source_id": "ai_business",
-    "source_name": "AI Business",
-    "source_url": "https://aibusiness.com/rss.xml",
-    "categories": [
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.4,
-    "relevance_label": "high",
-    "title_en": "Google's Gemini Carbon Model Targets AI Cyber Defense but Remains Limited to Select Enterprises",
-    "summary_ko": "구글은 AI 기반 사이버 보안 강화를 목표로 한 새로운 모델 'Gemini Carbon'을 발표했으나, 이 모델은 소수의 기업에만 제한적으로 제공된다. 광범위한 엔터프라이즈 접근이 불가능해 대부분의 기업은 실질적인 테스트나 활용이 어려운 상황이다. AI 사이버 방어 역량 강화에 대한 수요는 높지만, 접근성 제한이 기술 격차를 심화시킬 수 있다는 우려도 제기된다.",
-    "summary_en": "Google has introduced Gemini Carbon, a new AI model designed to enhance cybersecurity defenses, but access is currently restricted to a limited number of enterprises. The exclusive release means most organizations are unable to test or benefit from its capabilities in the near term. While demand for AI-driven cyber defense is growing, the limited availability risks widening the gap between well-resourced enterprises and others.",
-    "so_what_ko": "AI 기반 사이버 보안 솔루션에 대한 접근성이 제한되는 상황에서 LG D2C는 자체 AI 보안 역량 내재화와 함께 접근 가능한 대안 솔루션을 병행 검토해야 한다.",
-    "so_what_en": "Given restricted access to cutting-edge AI security models, LG D2C should build in-house AI security capabilities while also evaluating accessible alternative solutions to mitigate cyber risks.",
-    "key_points": [
-      "구글이 AI 사이버 방어 특화 모델 'Gemini Carbon' 출시",
-      "소수 기업에만 제한적으로 공개되어 광범위한 기업 접근 불가",
-      "AI 사이버 보안 수요 증가에도 불구하고 접근성 제한으로 기술 격차 심화 우려"
-    ],
-    "tags": [
-      "gemini",
-      "cybersecurity",
-      "ai-security",
-      "google",
-      "enterprise-ai"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "EMERGING_TECH",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Google",
-      "Gemini Carbon"
-    ],
-    "one_line_insight_ko": "Gemini Carbon의 제한적 출시는 AI 사이버 보안 역량의 기업 간 격차를 심화시킬 수 있으며, 자체 보안 역량 내재화가 더욱 중요해진다.",
-    "one_line_insight_en": "Gemini Carbon's exclusive release highlights the growing divide in AI security capabilities between enterprises, making in-house AI security investment increasingly critical.",
-    "ai_processed": true
-  },
-  {
-    "title": "Prompt: AI demand is booming; the economics are getting complicated",
-    "link": "https://aibusiness.com/generative-ai/prompt-ai-demand-is-booming",
-    "date_published": "2026-10-30",
-    "description": "Anthropic’s IPO filing offers a glimpse into soaring enterprise AI demand, but price competition and the cost of delivering AI are complicating the path to profitability.",
-    "source_id": "ai_business",
-    "source_name": "AI Business",
-    "source_url": "https://aibusiness.com/rss.xml",
-    "categories": [
-      "strategy",
-      "tech"
-    ],
-    "relevance_score": 0.6,
-    "relevance_label": "high",
-    "title_en": "AI Demand Surges but Profitability Remains Elusive as Price Competition and Costs Complicate Economics",
-    "summary_ko": "Anthropic의 IPO 신청서를 통해 엔터프라이즈 AI 수요가 급격히 증가하고 있음이 확인됐으나, 가격 경쟁 심화와 높은 AI 서비스 제공 비용으로 수익성 확보가 쉽지 않은 상황이다. AI 인프라 비용 증가와 공급자 간 가격 인하 경쟁이 동시에 진행되면서 AI 기업의 재무 구조가 복잡해지고 있다. 기업들은 AI 투자 확대와 동시에 수익성 경로를 명확히 제시해야 하는 압박에 직면해 있다.",
-    "summary_en": "Anthropic's IPO filing confirms a dramatic surge in enterprise AI demand, yet intensifying price competition and high delivery costs are complicating the path to profitability for AI providers. Simultaneously rising infrastructure costs and downward pricing pressure are creating a complex financial landscape for AI companies. Enterprises investing heavily in AI are under increasing pressure to articulate clear return-on-investment pathways.",
-    "so_what_ko": "LG D2C는 AI 솔루션 도입 시 단순 기능 도입보다 명확한 ROI 측정 체계를 사전에 수립하고, 비용 대비 가치를 지속적으로 검증하는 거버넌스 프레임워크를 마련해야 한다.",
-    "so_what_en": "When adopting AI solutions, LG D2C must establish clear ROI measurement frameworks upfront rather than focusing solely on feature adoption, and build governance structures to continuously validate cost-to-value ratios.",
-    "key_points": [
-      "Anthropic IPO 신청서를 통해 엔터프라이즈 AI 수요 급증 확인",
-      "AI 서비스 제공 비용 증가와 가격 경쟁 심화로 수익성 확보 난항",
-      "AI 투자에 대한 ROI 입증 압박이 기업 전반에서 강화되는 추세"
-    ],
-    "tags": [
-      "enterprise-ai",
-      "ai-economics",
-      "anthropic",
-      "ai-pricing",
-      "roi"
-    ],
-    "confidence": 0.75,
-    "strategic_theme": "DATA_STRATEGY",
-    "regions": [
-      "GLOBAL",
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Anthropic",
-      "SEC"
-    ],
-    "one_line_insight_ko": "AI 수요 급증에도 불구하고 수익성 확보가 어려운 시장 구조는 AI 투자 ROI를 명확히 측정하고 관리하는 기업이 경쟁 우위를 갖게 됨을 시사한다.",
-    "one_line_insight_en": "Despite booming AI demand, the complicated economics of AI delivery mean that enterprises with rigorous ROI measurement frameworks will hold a decisive competitive advantage.",
-    "ai_processed": true
-  },
-  {
-    "title": "Anthropic IPO puts enterprise AI returns in focus",
-    "link": "https://aibusiness.com/foundation-models/anthropic-ipo-puts-enterprise-ai-returns-in-focus",
-    "date_published": "2026-10-30",
-    "description": "The SEC filing reveals the scale of the vendor’s commercial growth while raising a broader question of how enterprise buyers can tell if AI spending is paying off.",
-    "source_id": "ai_business",
-    "source_name": "AI Business",
-    "source_url": "https://aibusiness.com/rss.xml",
-    "categories": [
-      "strategy",
-      "tech",
-      "ai_marketing"
-    ],
-    "relevance_score": 0.65,
-    "relevance_label": "high",
-    "title_en": "Anthropic IPO Filing Spotlights Enterprise AI Commercial Growth and the ROI Measurement Challenge",
-    "summary_ko": "Anthropic의 SEC 상장 신청서는 기업용 AI 시장의 급격한 상업적 성장을 가시화했으며, 동시에 AI 투자 효과를 측정하는 방법론에 대한 업계 전반의 고민을 수면 위로 끌어올렸다. 엔터프라이즈 AI 도입이 확산되는 가운데, 투자 대비 성과(ROI) 측정의 복잡성이 새로운 핵심 과제로 부각되고 있다. AI 공급자와 기업 구매자 모두 AI 지출의 실질적 가치를 입증해야 한다는 압박이 증가하고 있다.",
-    "summary_en": "Anthropic's SEC IPO filing has brought the rapid commercial growth of the enterprise AI market into sharp focus, while simultaneously raising urgent questions about how enterprise buyers can accurately measure the value of their AI spending. As AI adoption accelerates across industries, the complexity of ROI measurement is emerging as a central challenge for both buyers and vendors. Both AI suppliers and enterprise customers face mounting pressure to demonstrate the tangible business value of AI investments.",
-    "so_what_ko": "LG D2C는 AI 도입 확대 시 성과 측정 지표(KPI)와 ROI 산정 방법론을 조기에 표준화하여, AI 투자 정당성을 내부 및 외부 이해관계자에게 명확히 제시할 수 있는 체계를 구축해야 한다.",
-    "so_what_en": "LG D2C should standardize AI performance KPIs and ROI calculation methodologies early in the adoption process to clearly demonstrate the business value of AI investments to both internal and external stakeholders.",
-    "key_points": [
-      "Anthropic SEC IPO 신청서가 엔터프라이즈 AI 시장의 빠른 상업적 성장을 공식화",
-      "AI 투자 효과(ROI) 측정 방법론이 기업 AI 도입의 핵심 과제로 부상",
-      "AI 공급자와 기업 구매자 모두 AI 지출 가치 입증에 대한 압박 증가",
-      "AI 상업화 가속과 함께 투자 정당성 논의가 업계 전반으로 확산"
-    ],
-    "tags": [
-      "anthropic",
-      "enterprise-ai",
-      "ipo",
-      "ai-roi",
-      "ai-spending"
-    ],
-    "confidence": 0.8,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "GLOBAL",
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Anthropic",
-      "SEC",
-      "Claude"
-    ],
-    "one_line_insight_ko": "Anthropic IPO는 엔터프라이즈 AI 시장의 성장을 증명하는 동시에, AI 지출의 실질 ROI를 측정하고 입증하는 역량이 향후 기업 경쟁력의 핵심이 될 것임을 예고한다.",
-    "one_line_insight_en": "Anthropic's IPO validates explosive enterprise AI growth while signaling that the ability to measure and demonstrate real AI ROI will become a defining competitive capability for organizations.",
-    "ai_processed": true
-  },
-  {
-    "title": "Anthropic IPO filing offers clues for enterprise AI, model price wars",
-    "link": "https://aibusiness.com/generative-ai/anthropic-ipo-filing-offers-clues-enterprise-ai-model-price-wars",
-    "date_published": "2026-10-30",
-    "description": "With the frontier AI lab about to go public, businesses mull the long-term stability of the Claude creator. OpenAI goes on a price-cut binge to compete with cheap China models.",
-    "source_id": "ai_business",
-    "source_name": "AI Business",
-    "source_url": "https://aibusiness.com/rss.xml",
-    "categories": [
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.6,
-    "relevance_label": "high",
-    "title_en": "Anthropic IPO Filing Sheds Light on Enterprise AI Stability Amid Model Price Wars",
-    "summary_ko": "앤트로픽이 IPO를 앞두고 기업들은 Claude 개발사의 장기적 안정성을 주목하고 있다. OpenAI는 중국의 저가 모델과 경쟁하기 위해 잇따라 가격 인하를 단행하고 있다. 이번 IPO 공시는 프론티어 AI 시장의 경쟁 구도와 기업용 AI 도입 전략에 중요한 단서를 제공한다.",
-    "summary_en": "Anthropic's upcoming IPO is prompting businesses to evaluate the long-term stability of the Claude AI platform. OpenAI has been aggressively cutting prices to compete with low-cost Chinese AI models entering the market. The IPO filing offers key insights into the competitive landscape of frontier AI and its implications for enterprise adoption.",
-    "so_what_ko": "AI 모델 가격 경쟁이 심화됨에 따라 LG D2C는 벤더 안정성과 비용 효율성을 동시에 고려한 AI 파트너십 전략을 재검토해야 한다.",
-    "so_what_en": "As AI model price wars intensify, LG D2C should reassess its AI vendor strategy balancing long-term platform stability against emerging cost efficiencies.",
-    "key_points": [
-      "Anthropic IPO 공시가 기업용 AI 시장의 경쟁 구도에 대한 단서 제공",
-      "OpenAI가 중국 저가 모델 대응을 위해 연속적인 가격 인하 단행",
-      "기업들은 프론티어 AI 공급업체의 장기 안정성에 대한 우려 증가",
-      "AI 모델 가격 전쟁이 기업용 AI 도입 비용 구조에 직접적 영향"
-    ],
-    "tags": [
-      "ai-price-war",
-      "enterprise-ai",
-      "anthropic-ipo",
-      "frontier-models",
-      "openai"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Anthropic",
-      "OpenAI",
-      "Claude"
-    ],
-    "one_line_insight_ko": "AI 모델 가격 전쟁이 가속화되면서 기업용 AI 비용 구조가 근본적으로 변화하고 있다.",
-    "one_line_insight_en": "Accelerating AI model price wars are fundamentally reshaping the cost structure of enterprise AI adoption.",
-    "ai_processed": true
-  },
-  {
-    "title": "Google’s AI overhaul of search hits snags as ad revenue growth cools",
-    "link": "https://www.marketingdive.com/news/googles-ai-overhaul-of-search-hits-snags-as-ad-revenue-growth-cools/873150/",
-    "date_published": "2026-10-29",
-    "description": "The rate of ad revenue growth decelerated in Q3 for Google’s core business despite a jump in query volume driven by AI features.",
+    "title": "Express unwraps holiday campaign to build on brand metric gains",
+    "link": "https://www.marketingdive.com/news/express-unwraps-holiday-campaign-to-build-on-brand-metric-gains/873124/",
+    "date_published": "2026-11-02",
+    "description": "CMO Joe Berean explains how “Holiday, Hamlin Style” was inspired by the organic social engagement of the retailer’s spring campaign.",
     "source_id": "marketing_dive",
     "source_name": "Marketing Dive",
     "source_url": "https://www.marketingdive.com/feeds/news/",
@@ -525,179 +11,695 @@
       "marketing",
       "ai_marketing"
     ],
-    "relevance_score": 0.85,
+    "relevance_score": 0.45,
     "relevance_label": "high",
-    "title_en": "Google's AI-Driven Search Overhaul Faces Headwinds as Ad Revenue Growth Slows",
-    "summary_ko": "구글은 AI 기능 도입으로 검색 쿼리 볼륨을 늘렸지만, 3분기 광고 매출 성장률은 오히려 둔화됐다. AI 개요(AI Overviews) 등 AI 기반 검색 기능이 광고 수익 모델과 충돌하는 양상이 나타나고 있다. 이는 AI 검색이 기존 디지털 광고 생태계에 미치는 구조적 영향을 시사한다.",
-    "summary_en": "Google's integration of AI features into search successfully boosted query volume in Q3, but ad revenue growth decelerated despite the increased traffic. AI-powered search features such as AI Overviews appear to be creating tension with the platform's core advertising revenue model. This dynamic signals a structural disruption to the traditional digital advertising ecosystem driven by AI search transformation.",
-    "so_what_ko": "구글 AI 검색으로 인한 광고 효율 변화는 LG D2C의 디지털 광고 예산 배분과 검색 마케팅 전략 재검토를 요구한다.",
-    "so_what_en": "The decoupling of search query volume and ad revenue at Google signals that LG D2C must rethink its paid search strategy and diversify digital marketing channels.",
+    "title_en": "Express Launches 'Holiday, Hamlin Style' Campaign to Build on Spring Brand Momentum",
+    "summary_ko": "패션 리테일러 Express는 봄 캠페인의 유기적 소셜 참여에서 영감을 받아 'Holiday, Hamlin Style' 홀리데이 캠페인을 선보였다. CMO Joe Berean은 브랜드 지표 성과를 기반으로 이번 캠페인 전략을 수립했다고 밝혔다. 소셜 미디어에서의 자연 발생적 반응을 마케팅 전략으로 연결하는 접근 방식이 주목된다.",
+    "summary_en": "Fashion retailer Express has launched its 'Holiday, Hamlin Style' holiday campaign, drawing inspiration from the organic social engagement generated by its spring campaign. CMO Joe Berean highlighted that the campaign strategy was built upon measurable brand metric gains achieved earlier in the year. The approach demonstrates how organic social momentum can be intentionally scaled into a full seasonal marketing push.",
+    "so_what_ko": "유기적 소셜 반응을 공식 캠페인으로 전환하는 전략은 LG D2C가 고객 생성 콘텐츠와 소셜 신호를 마케팅 의사결정에 활용하는 데 참고할 수 있다.",
+    "so_what_en": "LG D2C can draw lessons from Express's approach of converting organic social signals into structured campaigns, using real audience behavior as a foundation for seasonal marketing strategy.",
     "key_points": [
-      "구글 AI 기능 도입으로 검색 쿼리 볼륨은 증가했으나 광고 매출 성장률은 둔화",
-      "AI Overviews 등 AI 검색 기능이 기존 광고 클릭 모델과 충돌 가능성",
-      "3분기 구글 핵심 사업 광고 매출 성장률 감소는 AI 전환의 구조적 영향을 시사",
-      "디지털 광고 예산의 채널 다변화 필요성 증가"
+      "'Holiday, Hamlin Style' 캠페인은 봄 시즌의 유기적 소셜 참여에서 영감을 받아 기획됨",
+      "CMO Joe Berean이 브랜드 지표 개선을 기반으로 캠페인 방향성 설명",
+      "소셜 유기적 반응을 공식 홀리데이 마케팅 전략으로 확장하는 접근법 채택"
     ],
     "tags": [
-      "google-ai-search",
-      "digital-advertising",
-      "ai-overviews",
-      "search-marketing",
-      "ad-revenue"
+      "holiday-campaign",
+      "social-engagement",
+      "brand-metrics",
+      "retail-marketing",
+      "seasonal-strategy"
     ],
-    "confidence": 0.8,
+    "confidence": 0.6,
     "strategic_theme": "AI_MARKETING",
     "regions": [
-      "GLOBAL"
+      "AMER"
     ],
-    "business_impact": "HIGH",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "Google",
-      "AI Overviews"
-    ],
-    "one_line_insight_ko": "구글 AI 검색의 확장이 광고 수익 성장을 압박하면서 기존 검색 광고 전략의 유효성이 흔들리고 있다.",
-    "one_line_insight_en": "Google's AI search expansion is decoupling traffic growth from ad revenue, fundamentally challenging the effectiveness of traditional paid search strategies.",
-    "ai_processed": true
-  },
-  {
-    "title": "An updated Model Spec for more capable and beneficial AI",
-    "link": "https://openai.com/index/updated-model-spec",
-    "date_published": "2026-10-29",
-    "description": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-    "source_id": "openai_blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
-    "categories": [
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.55,
-    "relevance_label": "high",
-    "title_en": "OpenAI Updates Model Spec to Guide Capable AI Toward Human Agency and Sound Judgment",
-    "summary_ko": "OpenAI는 더욱 강력해진 AI 모델을 올바른 방향으로 이끌기 위해 Model Spec을 업데이트하고 다섯 가지 핵심 가치를 제시했다. 이번 업데이트는 AI가 인간의 의도에 충실하고, 인간의 주체성을 보호하며, 건전한 판단력을 발휘하도록 설계됐다. 이는 AI 에이전트가 기업 환경에서 더 복잡한 역할을 맡게 됨에 따라 신뢰성과 안전성 확보의 중요성이 커지고 있음을 반영한다.",
-    "summary_en": "OpenAI has released an updated Model Spec that outlines five core values designed to guide increasingly capable AI models toward beneficial and trustworthy behavior. The specification emphasizes sound judgment, faithfulness to human intent, and the preservation of human agency as AI systems take on more complex roles. This update reflects the growing importance of AI alignment and governance as autonomous AI agents become more prevalent in enterprise settings.",
-    "so_what_ko": "AI 에이전트 도입을 검토하는 LG D2C는 OpenAI의 Model Spec과 같은 AI 거버넌스 프레임워크를 참고하여 안전하고 신뢰 가능한 AI 운영 기준을 수립해야 한다.",
-    "so_what_en": "As LG D2C evaluates AI agent adoption, OpenAI's Model Spec provides a governance framework reference to establish trustworthy and accountable AI operations standards.",
-    "key_points": [
-      "OpenAI가 AI 모델 행동 기준을 규정하는 Model Spec 업데이트 발표",
-      "다섯 가지 핵심 가치: 건전한 판단력, 인간 의도 충실성, 인간 주체성 보호 등 포함",
-      "강력해지는 AI 모델에 대한 정렬(alignment) 및 거버넌스 필요성 증가",
-      "기업 AI 에이전트 환경에서 신뢰성과 안전성 확보 중요성 강조"
-    ],
-    "tags": [
-      "ai-governance",
-      "openai-model-spec",
-      "ai-alignment",
-      "ai-agent",
-      "human-agency"
-    ],
-    "confidence": 0.75,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
+    "business_impact": "LOW",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "OpenAI",
-      "Model Spec"
+      "Express",
+      "Joe Berean"
     ],
-    "one_line_insight_ko": "OpenAI의 Model Spec 업데이트는 AI 에이전트의 기업 도입 확산에 앞서 신뢰 가능한 AI 거버넌스 기준 마련의 중요성을 강조한다.",
-    "one_line_insight_en": "OpenAI's updated Model Spec underscores the critical need for trustworthy AI governance frameworks as autonomous agents expand into enterprise environments.",
+    "one_line_insight_ko": "유기적 소셜 반응을 데이터 기반으로 공식 캠페인화하는 전략이 브랜드 지표 개선으로 이어질 수 있다.",
+    "one_line_insight_en": "Transforming organic social engagement into structured seasonal campaigns can compound brand metric gains across quarters.",
     "ai_processed": true
   },
   {
-    "title": "How we detect frontier model misalignment",
-    "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-    "date_published": "2026-10-29",
-    "description": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-    "source_id": "openai_blog",
-    "source_name": "OpenAI Blog",
-    "source_url": "https://openai.com/news/rss.xml",
-    "categories": [
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.5,
-    "relevance_label": "high",
-    "title_en": "OpenAI Unveils Layered Monitoring System to Detect Frontier Model Misalignment",
-    "summary_ko": "OpenAI는 프론티어 AI 모델의 오정렬(misalignment) 및 비인가 에이전트 행동을 탐지하기 위한 다층적 모니터링 시스템을 공개했다. 이 시스템은 사고가 확대되기 전에 담당자가 신속하게 개입할 수 있도록 설계됐다. AI 에이전트가 자율적으로 작동하는 환경에서 실시간 감지와 대응 체계의 중요성이 부각되고 있다.",
-    "summary_en": "OpenAI has disclosed a layered monitoring system designed to detect misalignment and unauthorized behavior in frontier AI models before incidents can escalate. The system enables rapid intervention by human responders, reflecting a proactive approach to AI safety at scale. This development highlights the operational challenges of deploying autonomous AI agents in real-world environments and the necessity of robust oversight mechanisms.",
-    "so_what_ko": "LG D2C가 AI 에이전트를 고객 접점 또는 운영 업무에 도입할 경우, OpenAI와 유사한 다층 모니터링 및 개입 체계를 갖추는 것이 리스크 관리에 필수적이다.",
-    "so_what_en": "As LG D2C deploys AI agents in customer-facing or operational roles, implementing multi-layered monitoring and intervention systems is essential for managing AI-related risks.",
-    "key_points": [
-      "OpenAI가 프론티어 모델 오정렬 탐지를 위한 다층적 모니터링 시스템 공개",
-      "비인가 에이전트 행동을 조기에 탐지하여 사고 확대 전 개입 가능",
-      "자율 AI 에이전트 운영 환경에서 실시간 감시 체계의 필요성 강조",
-      "AI 안전 및 거버넌스 인프라가 프론티어 AI 운용의 핵심 요소로 부상"
-    ],
-    "tags": [
-      "ai-safety",
-      "ai-misalignment",
-      "ai-monitoring",
-      "openai",
-      "agentic-ai"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "OpenAI"
-    ],
-    "one_line_insight_ko": "자율 AI 에이전트 시대에는 오정렬 탐지와 신속한 개입을 위한 다층적 모니터링 체계가 안전한 AI 운영의 핵심이다.",
-    "one_line_insight_en": "In the era of autonomous AI agents, multi-layered misalignment detection and rapid intervention systems are foundational to safe AI operations.",
-    "ai_processed": true
-  },
-  {
-    "title": "Profound vs. Peec AI: Which is right for your team?",
-    "link": "https://blog.hubspot.com/marketing/profound-vs-peec-ai",
-    "date_published": "2026-10-28",
-    "description": "Profound and Peec AI are two of the most frequently compared tools in the AEO category right now, and the decision isn’t so straightforward. The two platforms take different approaches to data collection, pricing, and what happens after you read a visibility score.",
-    "source_id": "hubspot_marketing",
-    "source_name": "HubSpot Marketing Blog",
-    "source_url": "https://blog.hubspot.com/marketing/rss.xml",
+    "title": "Why JCPenney is taking on deal fatigue for its holiday campaign",
+    "link": "https://www.marketingdive.com/news/why-jcpenney-is-taking-on-deal-fatigue-for-its-holiday-campaign/873354/",
+    "date_published": "2026-11-02",
+    "description": "Marisa Thalberg, chief customer and marketing officer at parent Catalyst Brands, explains the retailer’s focus on real people and no-fuss ways to save.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
     "categories": [
       "marketing",
       "ai_marketing"
     ],
-    "relevance_score": 0.8,
+    "relevance_score": 0.42,
     "relevance_label": "high",
-    "title_en": "Profound vs. Peec AI: Comparing the Top Tools in the AEO Category",
-    "summary_ko": "Profound과 Peec AI는 AI 검색 가시성을 측정하는 AEO(Answer Engine Optimization) 분야에서 가장 자주 비교되는 두 플랫폼이다. 두 도구는 데이터 수집 방식, 가격 정책, 가시성 점수 이후의 액션 플랜 제공 방식에서 서로 다른 접근법을 취한다. 팀의 목표와 예산에 따라 적합한 도구가 달라지므로 신중한 비교 검토가 필요하다.",
-    "summary_en": "Profound and Peec AI are among the most frequently compared platforms in the emerging AEO (Answer Engine Optimization) category, which focuses on AI search visibility measurement. The two tools differ significantly in their approaches to data collection, pricing structures, and the actionability of insights provided beyond a visibility score. Choosing between them requires careful consideration of team objectives, budget, and desired depth of post-measurement guidance.",
-    "so_what_ko": "LG D2C는 AI 검색 엔진 최적화 전략 수립을 위해 Profound, Peec AI와 같은 AEO 도구를 평가하고, 브랜드의 AI 검색 가시성을 체계적으로 관리하는 역량을 갖춰야 한다.",
-    "so_what_en": "LG D2C should evaluate AEO tools like Profound and Peec AI to systematically monitor and improve brand visibility in AI-driven search environments.",
+    "title_en": "JCPenney Targets 'Deal Fatigue' with Authentic, People-Focused Holiday Campaign",
+    "summary_ko": "JCPenney는 2026년 홀리데이 캠페인에서 소비자들의 '딜 피로감'을 정면으로 다루며 실제 사람들과 간편한 절약 방식에 집중하는 전략을 채택했다. 모회사 Catalyst Brands의 최고고객마케팅책임자 Marisa Thalberg가 이 접근 방식을 설명했다. 가격 할인 경쟁 대신 진정성 있는 소통을 통해 브랜드 차별화를 꾀하는 전략이 주목된다.",
+    "summary_en": "JCPenney is addressing consumer 'deal fatigue' head-on with a holiday campaign centered on real people and straightforward savings rather than aggressive promotional messaging. Marisa Thalberg, Chief Customer and Marketing Officer at parent company Catalyst Brands, outlined the retailer's shift away from discount-driven campaigns. The strategy prioritizes authentic connection and simplicity as competitive differentiators during a crowded holiday retail period.",
+    "so_what_ko": "할인 경쟁보다 진정성과 편의성을 앞세운 JCPenney의 전략은 LG D2C가 홀리데이 시즌 프로모션 메시지를 고객 중심으로 재구성하는 데 시사점을 제공한다.",
+    "so_what_en": "LG D2C should consider whether its own holiday promotions risk deal fatigue, and explore how authentic, value-led messaging can differentiate the brand beyond pure price competition.",
     "key_points": [
-      "AEO(Answer Engine Optimization)가 AI 검색 시대의 새로운 마케팅 최적화 영역으로 부상",
-      "Profound과 Peec AI는 데이터 수집 방식과 가격 정책에서 차별화된 접근법 보유",
-      "단순 가시성 점수 제공을 넘어 이후 액션 플랜의 질이 도구 선택의 핵심 기준",
-      "팀 규모, 예산, 목표에 따라 최적 도구가 달라지므로 맞춤형 평가 필요"
+      "소비자 '딜 피로감'을 캠페인의 핵심 인사이트로 삼아 전략 전환",
+      "실제 사람 중심의 스토리텔링과 간편한 절약 방식 강조",
+      "Catalyst Brands CMO Marisa Thalberg가 진정성 기반 마케팅 방향 제시"
     ],
     "tags": [
-      "aeo",
-      "ai-search-visibility",
-      "answer-engine-optimization",
-      "ai-marketing-tools",
-      "seo"
+      "deal-fatigue",
+      "holiday-campaign",
+      "authentic-marketing",
+      "retail-strategy",
+      "customer-experience"
     ],
-    "confidence": 0.75,
+    "confidence": 0.6,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "JCPenney",
+      "Catalyst Brands",
+      "Marisa Thalberg"
+    ],
+    "one_line_insight_ko": "할인 홍수 속에서 진정성과 간편함으로 승부하는 전략이 소비자 피로감을 역이용한 차별화 무기가 될 수 있다.",
+    "one_line_insight_en": "Countering deal fatigue with authenticity and simplicity can serve as a meaningful differentiator when consumers are overwhelmed by promotional noise.",
+    "ai_processed": true
+  },
+  {
+    "title": "Modern Retail+ Research: Brands’ holiday marketing tactics shift in 2026",
+    "link": "https://www.modernretail.co/marketing/modern-retail-research-brands-holiday-marketing-tactics-shift-in-2026/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-11-02",
+    "description": "Modern Retail's recent holiday survey found that brands and retailers plan to adjust the marketing tactics they’ll use during the 2026 holiday season in comparison to those they used in 2025. Here are some of the most notable changes.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
+    "categories": [
+      "marketing",
+      "commerce",
+      "ai_marketing"
+    ],
+    "relevance_score": 0.65,
+    "relevance_label": "high",
+    "title_en": "Modern Retail Research: Brands Shift Holiday Marketing Tactics Significantly in 2026",
+    "summary_ko": "Modern Retail의 2026년 홀리데이 서베이에 따르면 브랜드와 리테일러들이 2025년 대비 마케팅 전술을 상당 부분 변화시킬 계획인 것으로 나타났다. 디지털 채널 활용, AI 기반 개인화, 소셜 커머스 등 다양한 영역에서 전술적 변화가 감지되고 있다. 이번 조사는 홀리데이 시즌 마케팅 전략의 중요한 변곡점을 보여주는 데이터로 주목받고 있다.",
+    "summary_en": "Modern Retail's 2026 holiday survey reveals that brands and retailers are planning notable shifts in their marketing tactics compared to those employed in 2025. The research identifies key changes across digital channels, personalization approaches, and promotional strategies heading into the peak season. These findings signal a meaningful evolution in how retailers are approaching the competitive holiday marketing landscape.",
+    "so_what_ko": "2026년 홀리데이 마케팅 전술 변화 트렌드를 파악하여 LG D2C가 디지털 채널 전략과 개인화 접근 방식을 시의적절하게 조정하는 데 활용할 수 있다.",
+    "so_what_en": "LG D2C should benchmark its 2026 holiday marketing plans against these industry-wide tactical shifts to ensure alignment with evolving consumer expectations and channel dynamics.",
+    "key_points": [
+      "2026년 홀리데이 시즌 마케팅 전술이 전년 대비 뚜렷하게 변화 중",
+      "Modern Retail 서베이 기반으로 브랜드·리테일러의 전략적 우선순위 변화 포착",
+      "디지털·소셜·개인화 영역에서의 전술 조정이 두드러진 트렌드로 부상"
+    ],
+    "tags": [
+      "holiday-marketing",
+      "retail-research",
+      "marketing-tactics",
+      "d2c-strategy",
+      "2026-trends"
+    ],
+    "confidence": 0.55,
     "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER",
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Modern Retail"
+    ],
+    "one_line_insight_ko": "2026년 홀리데이 마케팅 전술의 업계적 전환은 D2C 브랜드가 채널 및 개인화 전략을 재점검해야 할 시점임을 시사한다.",
+    "one_line_insight_en": "Industry-wide shifts in 2026 holiday marketing tactics signal that D2C brands must urgently reassess their channel mix and personalization strategies to stay competitive.",
+    "ai_processed": true
+  },
+  {
+    "title": "The power of the mall: Why the best shopping centers are thriving",
+    "link": "https://www.retaildive.com/spons/the-power-of-the-mall-why-the-best-shopping-centers-are-thriving/873217/",
+    "date_published": "2026-11-02",
+    "description": "The mall is thriving. Here's what's driving its success and why it matters to retailers.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.38,
+    "relevance_label": "high",
+    "title_en": "Top Shopping Malls Are Thriving: What's Driving the Physical Retail Renaissance",
+    "summary_ko": "최고 수준의 쇼핑몰들이 다시 활기를 되찾으며 오프라인 리테일의 부활을 이끌고 있다. 체험형 쇼핑 환경, 큐레이션된 테넌트 믹스, 소비자의 대면 경험 수요 증가가 주요 성공 요인으로 꼽힌다. 이 같은 트렌드는 디지털과 오프라인을 결합한 옴니채널 전략의 중요성을 다시 한번 부각시키고 있다.",
+    "summary_en": "Premium shopping malls are experiencing a notable resurgence, driven by experiential retail environments, curated tenant mixes, and renewed consumer demand for in-person shopping experiences. The article explores the key factors behind the success of top-performing shopping centers and what this means for the broader retail landscape. This revival underscores the enduring importance of physical retail within an omnichannel strategy.",
+    "so_what_ko": "오프라인 쇼핑몰의 부활 트렌드는 LG D2C가 프리미엄 체험 중심의 오프라인 접점을 강화하고 옴니채널 전략을 재검토하는 계기로 삼을 수 있다.",
+    "so_what_en": "LG D2C should consider how thriving mall environments could serve as premium experiential touchpoints to complement digital channels and strengthen omnichannel customer journeys.",
+    "key_points": [
+      "상위권 쇼핑몰이 체험형 환경과 큐레이션된 테넌트 구성으로 부활 중",
+      "소비자의 대면 쇼핑 경험 수요 회복이 오프라인 리테일 성장 견인",
+      "디지털 시대에도 오프라인 채널의 전략적 가치가 유효함을 재확인"
+    ],
+    "tags": [
+      "physical-retail",
+      "omnichannel",
+      "mall-revival",
+      "experiential-retail",
+      "retail-strategy"
+    ],
+    "confidence": 0.55,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Retail Dive"
+    ],
+    "one_line_insight_ko": "프리미엄 쇼핑몰의 부활은 오프라인 체험이 디지털 시대에도 여전히 강력한 고객 획득 채널임을 증명한다.",
+    "one_line_insight_en": "The resurgence of top malls proves that physical experiential retail remains a powerful customer acquisition and brand-building channel even in the digital age.",
+    "ai_processed": true
+  },
+  {
+    "title": "How can associates power personalization in retail?",
+    "link": "https://www.retaildive.com/spons/how-can-associates-power-personalization-in-retail/873087/",
+    "date_published": "2026-11-02",
+    "description": "Empower retail associates with mobile technology to deliver personalized, seamless customer experiences.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "commerce",
+      "ai_marketing"
+    ],
+    "relevance_score": 0.62,
+    "relevance_label": "high",
+    "title_en": "Empowering Retail Associates with Mobile Tech to Drive In-Store Personalization",
+    "summary_ko": "리테일 매장 직원들이 모바일 기술을 활용해 개인화된 고객 경험을 제공할 수 있도록 역량을 강화하는 방안이 주목받고 있다. 직원 주도 개인화는 AI 기반 디지털 개인화와 보완적으로 작용하며 고객 만족도와 전환율 향상에 기여할 수 있다. 매장 직원을 개인화 실행의 핵심 주체로 보는 이 접근 방식은 오프라인 리테일 경쟁력 강화에 중요한 전략으로 부상하고 있다.",
+    "summary_en": "Retailers are exploring how empowering store associates with mobile technology can enable them to deliver personalized, seamless customer experiences at the point of interaction. Associate-driven personalization is positioned as complementary to AI-powered digital personalization, with potential to improve customer satisfaction and conversion rates. This approach reframes store employees as active agents of personalization rather than passive service providers.",
+    "so_what_ko": "LG D2C의 오프라인 매장 직원들에게 모바일 기반 고객 데이터 접근 권한을 부여하면 개인화된 상담 경험을 통해 전환율과 고객 충성도를 높일 수 있다.",
+    "so_what_en": "LG D2C should evaluate equipping in-store associates with mobile tools that surface customer data and AI-driven recommendations, turning frontline staff into personalization enablers.",
+    "key_points": [
+      "모바일 기술로 무장한 매장 직원이 개인화 경험 전달의 핵심 주체로 부상",
+      "직원 주도 개인화는 디지털 AI 개인화와 상호 보완적 역할 수행",
+      "원활한 고객 경험 제공을 위해 기술과 인적 역량의 통합이 필요"
+    ],
+    "tags": [
+      "retail-personalization",
+      "store-associates",
+      "mobile-technology",
+      "customer-experience",
+      "omnichannel"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "AI_PERSONALIZATION",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Profound",
-      "Peec AI"
+      "Retail Dive"
     ],
-    "one_line_insight_ko": "AI 검색 시대에 브랜드 가시성을 확보하려면 AEO 도구를 활용한 체계적인 AI 검색 최적화 전략이 필수적이다.",
-    "one_line_insight_en": "As AI-driven search reshapes discovery, adopting AEO tools to systematically optimize brand visibility in answer engines has become a marketing imperative.",
+    "one_line_insight_ko": "매장 직원에게 모바일 기반 개인화 도구를 제공하는 것이 AI 디지털 개인화와 결합하여 오프라인 고객 경험의 질을 극대화하는 핵심 전략이 될 수 있다.",
+    "one_line_insight_en": "Arming store associates with mobile personalization tools creates a human-AI hybrid approach that can significantly elevate in-store customer experience and drive conversion.",
+    "ai_processed": true
+  },
+  {
+    "title": "Kay Sends Colin Jost on a Gift-Seeking Odyssey for the Holiday Season",
+    "link": "https://www.adweek.com/creativity/kay-sends-colin-jost-on-a-gift-seeking-odyssey-for-the-holiday-season/",
+    "date_published": "2026-11-02",
+    "description": "Kay's holiday campaign starring SNL's Colin Jost lightens the pressure to give the perfect gift.",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
+    "categories": [
+      "marketing"
+    ],
+    "relevance_score": 0.3,
+    "relevance_label": "high",
+    "title_en": "Kay Jewelers Taps Colin Jost for Humorous Holiday Gift-Seeking Campaign",
+    "summary_ko": "케이 주얼러스는 SNL 코미디언 콜린 조스트를 기용해 완벽한 선물을 찾는 과정을 유쾌하게 담은 홀리데이 캠페인을 선보였다. 이 캠페인은 선물 선택에 대한 소비자들의 부담감을 줄이는 메시지를 중심으로 구성됐다. 유명 셀러브리티를 활용해 브랜드 친밀감을 높이는 전통적인 마케팅 접근법을 취하고 있다.",
+    "summary_en": "Kay Jewelers launched a holiday campaign featuring SNL comedian Colin Jost on a humorous gift-seeking journey. The campaign aims to alleviate consumer pressure around finding the perfect gift during the holiday season. It employs celebrity-driven storytelling to build brand affinity and drive seasonal sales.",
+    "so_what_ko": "D2C 브랜드는 홀리데이 시즌에 셀러브리티 기용과 감성적 스토리텔링을 결합해 소비자의 구매 부담을 낮추는 캠페인 전략을 참고할 수 있다.",
+    "so_what_en": "D2C brands can draw lessons from using celebrity-driven, emotionally resonant storytelling to reduce purchase friction and boost holiday season conversions.",
+    "key_points": [
+      "SNL 스타 콜린 조스트를 캠페인 주인공으로 기용해 유머와 공감을 결합",
+      "완벽한 선물에 대한 소비자 부담감 해소를 핵심 메시지로 설정",
+      "홀리데이 시즌 브랜드 인지도 및 구매 전환 제고 목적"
+    ],
+    "tags": [
+      "holiday-campaign",
+      "celebrity-marketing",
+      "brand-storytelling",
+      "jewelry",
+      "seasonal-retail"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Kay Jewelers",
+      "Colin Jost",
+      "SNL"
+    ],
+    "one_line_insight_ko": "셀러브리티 유머 마케팅으로 홀리데이 선물 구매 부담을 낮추는 전통적 캠페인 전략은 AI 없이도 강력한 소비자 공감을 이끌 수 있다.",
+    "one_line_insight_en": "Celebrity-driven humor campaigns remain a powerful tool for reducing holiday purchase anxiety, even without AI-powered personalization.",
+    "ai_processed": true
+  },
+  {
+    "title": "Levi’s Rings in Sweater Season With Help From Gus, a Cute Claymation Yeti",
+    "link": "https://www.adweek.com/brand-marketing/levis-rings-in-sweater-season-with-help-from-gus-a-cute-claymation-yeti/",
+    "date_published": "2026-11-02",
+    "description": "The denim brand's holiday campaign nods to its 1995 spot 'Clayman,' the first ever all-Claymation commercial.",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
+    "categories": [
+      "marketing"
+    ],
+    "relevance_score": 0.25,
+    "relevance_label": "high",
+    "title_en": "Levi's Holiday Campaign Revives Claymation Legacy with Yeti Character 'Gus'",
+    "summary_ko": "리바이스는 1995년 최초의 클레이메이션 광고 '클레이맨'을 오마주한 홀리데이 캠페인을 선보이며 귀여운 예티 캐릭터 '거스'를 주인공으로 내세웠다. 이 캠페인은 브랜드의 역사적 유산을 현대적으로 재해석해 소비자와의 감성적 연결을 강화하는 전략을 취한다. 스웨터 시즌을 겨냥한 이번 캠페인은 노스탤지어 마케팅의 현대적 활용 사례를 보여준다.",
+    "summary_en": "Levi's launched a holiday campaign featuring a claymation yeti character named 'Gus,' paying homage to its landmark 1995 all-claymation commercial 'Clayman.' The campaign leverages the brand's historical legacy to create an emotionally resonant connection with consumers during the sweater season. It exemplifies the modern use of nostalgia marketing to reinforce brand identity.",
+    "so_what_ko": "LG D2C 마케팅팀은 브랜드 헤리티지를 현대적 크리에이티브 형식으로 재해석하는 노스탤지어 전략이 소비자 감성을 자극하고 브랜드 충성도를 높이는 데 효과적임을 참고할 수 있다.",
+    "so_what_en": "LG D2C marketers can take note that reinterpreting brand heritage through modern creative formats is an effective strategy to evoke consumer emotion and strengthen brand loyalty.",
+    "key_points": [
+      "1995년 클레이메이션 광고 유산을 현대 홀리데이 캠페인으로 재해석",
+      "오리지널 캐릭터 '거스'를 통해 브랜드 스토리텔링 강화",
+      "노스탤지어 마케팅으로 세대를 아우르는 소비자 공감대 형성"
+    ],
+    "tags": [
+      "nostalgia-marketing",
+      "holiday-campaign",
+      "brand-heritage",
+      "claymation",
+      "seasonal-retail"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER",
+      "GLOBAL"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Levi's",
+      "Gus (Yeti character)"
+    ],
+    "one_line_insight_ko": "브랜드 헤리티지를 창의적으로 재해석한 노스탤지어 캠페인은 감성 마케팅의 강력한 도구로, 세대를 초월한 소비자 연결을 가능하게 한다.",
+    "one_line_insight_en": "Creatively reviving brand heritage through nostalgia campaigns remains a powerful emotional marketing tool capable of bridging generational consumer connections.",
+    "ai_processed": true
+  },
+  {
+    "title": "Jude Bellingham Strips Down for Calvin Klein After Lighting Up the World Cup",
+    "link": "https://www.adweek.com/creativity/jude-bellingham-strips-down-for-calvin-klein-after-lighting-up-the-world-cup/",
+    "date_published": "2026-11-02",
+    "description": "Calvin Klein has enlisted soccer star Jude Bellingham for its next campaign.",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
+    "categories": [
+      "marketing"
+    ],
+    "relevance_score": 0.25,
+    "relevance_label": "high",
+    "title_en": "Calvin Klein Enlists Soccer Star Jude Bellingham for Post-World Cup Campaign",
+    "summary_ko": "캘빈 클라인이 2026 월드컵 이후 주목받는 축구 스타 주드 벨링엄을 새 캠페인 모델로 기용했다. 이번 캠페인은 스포츠 스타의 전 세계적 인지도를 활용해 브랜드의 글로벌 도달 범위를 확대하는 전략의 일환이다. 캘빈 클라인은 스포츠와 패션의 교차점에서 젊은 소비자층을 겨냥한 마케팅을 지속적으로 강화하고 있다.",
+    "summary_en": "Calvin Klein has enlisted soccer star Jude Bellingham, who rose to global prominence during the World Cup, as the face of its latest campaign. The move leverages Bellingham's worldwide recognition to extend the brand's global reach and appeal to younger demographics. This continues Calvin Klein's strategy of intersecting sports culture and fashion to attract new consumer segments.",
+    "so_what_ko": "D2C 브랜드는 글로벌 스포츠 이벤트 이후 급부상한 스타를 신속하게 브랜드 앰버서더로 활용함으로써 폭발적인 소비자 관심을 브랜드 자산으로 전환할 수 있다.",
+    "so_what_en": "D2C brands can convert surging consumer interest into brand equity by quickly onboarding globally prominent sports stars following major events like the World Cup.",
+    "key_points": [
+      "월드컵 후 전 세계적 주목을 받은 주드 벨링엄을 캠페인 모델로 기용",
+      "스포츠와 패션의 교차점을 활용한 젊은 소비자층 공략 전략",
+      "글로벌 스포츠 이벤트의 마케팅 파급력을 브랜드 확장에 활용"
+    ],
+    "tags": [
+      "celebrity-marketing",
+      "sports-marketing",
+      "global-campaign",
+      "fashion-brand",
+      "influencer"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL",
+      "EMEA"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Calvin Klein",
+      "Jude Bellingham",
+      "World Cup"
+    ],
+    "one_line_insight_ko": "글로벌 스포츠 스타의 최고 주목도 시점을 포착해 브랜드 앰버서더로 연결하는 전략은 D2C 브랜드의 글로벌 인지도 확대에 효과적이다.",
+    "one_line_insight_en": "Capitalizing on a sports star's peak global visibility by quickly securing them as brand ambassador is a highly effective strategy for expanding D2C brand reach worldwide.",
+    "ai_processed": true
+  },
+  {
+    "title": "E.l.f. Cosmetics Recruits Alan Cumming to Narrate Its Nostalgic Holiday Ad Debut",
+    "link": "https://www.adweek.com/creativity/elf-cosmetics-recruits-alan-cumming-to-narrate-its-nostalgic-holiday-ad-debut/",
+    "date_published": "2026-11-02",
+    "description": "Alan Cumming narrates a nostalgic, Gen Z-leaning story for e.l.f.’s first holiday campaign.",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
+    "categories": [
+      "marketing"
+    ],
+    "relevance_score": 0.28,
+    "relevance_label": "high",
+    "title_en": "E.l.f. Cosmetics Debuts First Holiday Campaign with Alan Cumming as Nostalgic Narrator",
+    "summary_ko": "이엘에프 코스메틱스가 배우 앨런 커밍을 내레이터로 기용해 브랜드 최초의 홀리데이 캠페인을 선보였다. 이 캠페인은 Gen Z를 주요 타겟으로 노스탤지어 감성을 활용한 스토리텔링 방식을 채택했다. 이엘에프는 독창적인 크리에이티브 전략으로 뷰티 업계에서 젊은 소비자층과의 강한 연결을 이어가고 있다.",
+    "summary_en": "E.l.f. Cosmetics launched its very first holiday campaign, featuring actor Alan Cumming as a nostalgic narrator targeting a Gen Z audience. The campaign employs emotionally driven storytelling rooted in nostalgia to resonate with younger consumers. E.l.f. continues to distinguish itself in the beauty industry through bold and culturally relevant creative strategies.",
+    "so_what_ko": "Gen Z를 타겟으로 하는 D2C 브랜드는 노스탤지어 감성과 문화적으로 공감 가능한 크리에이티브를 결합해 젊은 소비자의 브랜드 충성도를 효과적으로 높일 수 있다.",
+    "so_what_en": "D2C brands targeting Gen Z can effectively build loyalty by combining nostalgic emotional cues with culturally resonant creative formats tailored to younger audiences.",
+    "key_points": [
+      "브랜드 최초의 홀리데이 캠페인으로 계절 마케팅 영역 확장",
+      "앨런 커밍의 내레이션으로 노스탤지어 감성의 Gen Z 타겟 스토리텔링 구현",
+      "이엘에프의 독창적 크리에이티브 전략이 뷰티 업계 내 차별화 요소로 작용"
+    ],
+    "tags": [
+      "gen-z-marketing",
+      "nostalgia-marketing",
+      "holiday-campaign",
+      "beauty-brand",
+      "celebrity-marketing"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "E.l.f. Cosmetics",
+      "Alan Cumming"
+    ],
+    "one_line_insight_ko": "Gen Z를 겨냥한 노스탤지어 기반 첫 홀리데이 캠페인은 이엘에프의 문화적 민첩성과 젊은 소비자와의 진정성 있는 연결 전략을 보여준다.",
+    "one_line_insight_en": "E.l.f.'s nostalgia-driven debut holiday campaign targeting Gen Z demonstrates how cultural agility and authentic storytelling can deepen connections with younger consumers.",
+    "ai_processed": true
+  },
+  {
+    "title": "People Inc. is building custom APIs to make its journalism easier for AI agents to use",
+    "link": "https://digiday.com/media/people-inc-is-building-custom-apis-to-make-its-journalism-easier-for-ai-agents-to-use/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-11-02",
+    "description": "People Inc. is moving toward custom APIs for AI systems, Forbes has adopted Markdown for agents, while the FT, Daily Mail are considering how agents could reach content for subscribers.",
+    "source_id": "digiday",
+    "source_name": "Digiday",
+    "source_url": "https://digiday.com/feed",
+    "categories": [
+      "tech",
+      "agentic_commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.82,
+    "relevance_label": "high",
+    "title_en": "People Inc. Builds Custom APIs to Make Journalism More Accessible to AI Agents",
+    "summary_ko": "피플 인크는 AI 에이전트가 저널리즘 콘텐츠를 보다 쉽게 활용할 수 있도록 맞춤형 API를 구축하고 있다. 포브스는 AI 에이전트를 위한 마크다운 형식을 도입했으며, 파이낸셜 타임스와 데일리 메일도 구독자 콘텐츠를 AI 에이전트에 제공하는 방안을 검토 중이다. 미디어 업계 전반에서 AI 에이전트를 새로운 콘텐츠 소비 채널로 인식하고 이에 대응하는 인프라 구축이 가속화되고 있다.",
+    "summary_en": "People Inc. is developing custom APIs to make its journalism content more easily accessible and usable by AI agents. Forbes has adopted Markdown formatting optimized for AI agents, while the Financial Times and Daily Mail are exploring how AI agents could deliver content to subscribers. The broader media industry is accelerating infrastructure development to treat AI agents as a legitimate new content consumption channel.",
+    "so_what_ko": "LG D2C 조직은 AI 에이전트가 제품 정보, 리뷰, 가이드 콘텐츠를 원활하게 활용할 수 있도록 구조화된 API와 콘텐츠 포맷을 선제적으로 구축해 에이전트 기반 쇼핑 환경에서 경쟁 우위를 확보해야 한다.",
+    "so_what_en": "LG D2C should proactively build structured APIs and AI-readable content formats for product information and guides to gain a competitive edge in the emerging AI agent-driven shopping ecosystem.",
+    "key_points": [
+      "피플 인크, AI 에이전트 전용 맞춤형 API 구축으로 콘텐츠 접근성 향상",
+      "포브스는 AI 에이전트 최적화 마크다운 형식 이미 도입 완료",
+      "FT, 데일리 메일 등 주요 미디어도 AI 에이전트 구독자 서비스 방안 검토 중",
+      "AI 에이전트를 새로운 콘텐츠 유통 채널로 보는 미디어 업계의 패러다임 전환 가속"
+    ],
+    "tags": [
+      "ai-agents",
+      "api-development",
+      "media-tech",
+      "agentic-commerce",
+      "content-distribution"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "GLOBAL",
+      "AMER",
+      "EMEA"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "People Inc.",
+      "Forbes",
+      "Financial Times",
+      "Daily Mail"
+    ],
+    "one_line_insight_ko": "미디어 기업들이 AI 에이전트를 위한 맞춤형 API를 구축하는 추세는 D2C 브랜드에도 에이전트 친화적 콘텐츠 인프라 선제 구축이 필수임을 시사한다.",
+    "one_line_insight_en": "As media companies build AI agent-ready APIs, D2C brands must proactively develop agent-friendly content infrastructure to remain discoverable and competitive in the agentic commerce era.",
+    "ai_processed": true
+  },
+  {
+    "title": "Salesforce vs. ActiveCampaign: Which CRM Fits Your Growing Business?",
+    "link": "https://www.salesforce.com/blog/salesforce-vs-activcampaign/",
+    "date_published": "2026-11-02",
+    "description": "Let’s take a look at these two CRMs side by side to see which would be a better fit for your business.",
+    "source_id": "salesforce_agentforce",
+    "source_name": "Salesforce Agentforce Blog",
+    "source_url": "https://www.salesforce.com/blog/category/ai/feed/",
+    "categories": [
+      "commerce",
+      "ai_marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.62,
+    "relevance_label": "high",
+    "title_en": "Salesforce vs. ActiveCampaign: Choosing the Right CRM for Your Growing Business",
+    "summary_ko": "Salesforce와 ActiveCampaign 두 CRM 플랫폼을 비교 분석하여 성장하는 비즈니스에 적합한 솔루션을 탐색하는 기사다. Salesforce는 엔터프라이즈급 기능과 AI 에이전트(Agentforce)를 강점으로 내세우며, ActiveCampaign은 중소기업을 위한 마케팅 자동화에 초점을 맞춘다. 두 플랫폼의 기능, 가격, 확장성을 비교해 비즈니스 규모와 목적에 맞는 선택을 돕는다.",
+    "summary_en": "This article compares Salesforce and ActiveCampaign side by side to help growing businesses determine which CRM best fits their needs. Salesforce emphasizes enterprise-grade capabilities and AI-powered agents via Agentforce, while ActiveCampaign focuses on marketing automation for SMBs. The comparison covers features, pricing, and scalability to guide informed CRM selection.",
+    "so_what_ko": "LG D2C 조직은 고객 데이터 통합 및 AI 에이전트 기반 자동화를 고려할 때 엔터프라이즈 CRM 선택이 장기적 마케팅 역량에 직결됨을 인식하고, Salesforce Agentforce와 같은 AI 네이티브 플랫폼의 도입 가능성을 전략적으로 검토해야 한다.",
+    "so_what_en": "LG D2C teams evaluating CRM investments should recognize that AI-native platforms like Salesforce Agentforce offer agentic automation capabilities that can significantly enhance customer engagement and marketing efficiency at scale.",
+    "key_points": [
+      "Salesforce offers enterprise-scale AI agent capabilities through Agentforce, while ActiveCampaign targets SMB marketing automation",
+      "CRM selection has long-term implications for AI-driven personalization and D2C customer lifecycle management",
+      "Scalability and integration depth are key differentiators between the two platforms"
+    ],
+    "tags": [
+      "crm-comparison",
+      "salesforce",
+      "marketing-automation",
+      "agentic-commerce",
+      "d2c"
+    ],
+    "confidence": 0.6,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Salesforce",
+      "ActiveCampaign",
+      "Agentforce"
+    ],
+    "one_line_insight_ko": "AI 에이전트 기능을 내장한 CRM 플랫폼 선택은 D2C 마케팅 자동화의 미래 경쟁력을 결정짓는 전략적 의사결정이다.",
+    "one_line_insight_en": "Choosing an AI-native CRM with built-in agentic capabilities is becoming a foundational strategic decision for future D2C marketing competitiveness.",
+    "ai_processed": true
+  },
+  {
+    "title": "More than half of online supplement shoppers say they’re worried about counterfeit products",
+    "link": "https://www.modernretail.co/operations/online-supplement-counterfeit-products/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "date_published": "2026-11-02",
+    "description": "An iHerb survey recently found that more than half of online supplement shoppers fear counterfeits, pushing retailers and brands to explore how they can improve trust within the fast-growing supplement space.",
+    "source_id": "modern_retail",
+    "source_name": "Modern Retail",
+    "source_url": "https://www.modernretail.co/feed/",
+    "categories": [
+      "commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.45,
+    "relevance_label": "high",
+    "title_en": "Over Half of Online Supplement Shoppers Fear Counterfeit Products, Driving Retailers to Boost Trust",
+    "summary_ko": "iHerb 설문조사에 따르면 온라인 건강보조식품 구매자의 절반 이상이 위조 제품에 대한 우려를 표명하고 있다. 이에 따라 소매업체와 브랜드들은 빠르게 성장하는 보조식품 시장에서 소비자 신뢰를 강화하기 위한 방안을 모색하고 있다. 진품 인증, 투명한 공급망 공개 등이 핵심 신뢰 구축 전략으로 부상하고 있다.",
+    "summary_en": "An iHerb survey reveals that more than half of online supplement shoppers are concerned about purchasing counterfeit products. This growing fear is prompting retailers and brands to explore trust-building strategies within the rapidly expanding supplement market. Approaches such as authenticity verification and transparent supply chain disclosure are emerging as key solutions.",
+    "so_what_ko": "LG D2C는 건강·웰니스 카테고리 제품의 온라인 판매 시 진품 인증 및 공급망 투명성 강화를 통해 소비자 신뢰를 차별화 요소로 활용할 수 있다.",
+    "so_what_en": "LG D2C can leverage authenticity verification and supply chain transparency as trust differentiators when selling health and wellness products online, particularly as counterfeit concerns grow among consumers.",
+    "key_points": [
+      "More than 50% of online supplement shoppers fear counterfeit products, per iHerb survey",
+      "Retailers are actively exploring trust-building mechanisms such as authenticity verification",
+      "The supplement market is growing rapidly, making consumer trust a critical competitive factor"
+    ],
+    "tags": [
+      "counterfeit-products",
+      "consumer-trust",
+      "supplement-retail",
+      "d2c",
+      "supply-chain"
+    ],
+    "confidence": 0.65,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "regions": [
+      "GLOBAL",
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "iHerb"
+    ],
+    "one_line_insight_ko": "위조품 우려가 확산되는 온라인 시장에서 진품 인증과 공급망 투명성은 D2C 브랜드의 신뢰 자산이 될 수 있다.",
+    "one_line_insight_en": "As counterfeit fears grow in e-commerce, authenticity verification and supply chain transparency are becoming essential trust assets for D2C brands.",
+    "ai_processed": true
+  },
+  {
+    "title": "Your catalog may already be visible to AI agents. Making it trustworthy is the next step.",
+    "link": "https://www.retaildive.com/spons/your-catalog-may-already-be-visible-to-ai-agents-making-it-trustworthy-is/872994/",
+    "date_published": "2026-11-02",
+    "description": "Three barriers hinder agentic optimization. Discover how AI agents evaluate products and sway shoppers.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "commerce",
+      "agentic_commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.95,
+    "relevance_label": "high",
+    "title_en": "Product Catalogs Are Already Being Scanned by AI Agents — Making Them Trustworthy Is the Next Imperative",
+    "summary_ko": "AI 에이전트가 이미 소매업체의 제품 카탈로그를 탐색하고 쇼핑 결정에 영향을 미치고 있으며, 카탈로그의 신뢰성과 최적화가 새로운 과제로 떠오르고 있다. 에이전틱 커머스 환경에서 제품 정보의 정확성, 구조화된 데이터, AI가 해석 가능한 콘텐츠 품질이 핵심 경쟁 요소가 된다. 기사는 에이전틱 최적화를 가로막는 세 가지 장벽을 제시하며 브랜드의 대응 전략을 촉구한다.",
+    "summary_en": "AI agents are already navigating retail product catalogs and influencing shopper decisions, making catalog trustworthiness a new business imperative. In the emerging agentic commerce landscape, product data accuracy, structured content, and AI-interpretable information quality are becoming key competitive differentiators. The article identifies three barriers to agentic optimization and urges brands to take proactive steps.",
+    "so_what_ko": "LG D2C는 AI 에이전트가 제품 카탈로그를 직접 탐색하고 추천하는 시대에 대비해 제품 데이터의 구조화, 정확성, AI 최적화를 우선순위로 삼아야 한다.",
+    "so_what_en": "LG D2C must prioritize structured, accurate, and AI-optimized product catalog data now, as AI agents increasingly act as the primary interface between products and consumers in agentic commerce.",
+    "key_points": [
+      "AI agents are already scanning and evaluating retail product catalogs to influence purchase decisions",
+      "Three key barriers hinder agentic optimization of product catalogs (specific barriers not detailed in excerpt)",
+      "Catalog trustworthiness and AI-interpretable data quality are emerging as core competitive requirements",
+      "Brands that fail to optimize for AI agents risk losing visibility in the agentic shopping era"
+    ],
+    "tags": [
+      "agentic-commerce",
+      "product-catalog",
+      "ai-agents",
+      "retail-optimization",
+      "d2c"
+    ],
+    "confidence": 0.72,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Retail Dive"
+    ],
+    "one_line_insight_ko": "AI 에이전트가 쇼핑의 주요 게이트키퍼로 부상함에 따라 제품 카탈로그의 AI 최적화는 D2C 브랜드의 필수 전략이 되었다.",
+    "one_line_insight_en": "As AI agents become primary shopping gatekeepers, optimizing product catalogs for AI interpretability is now a non-negotiable D2C strategy.",
+    "ai_processed": true
+  },
+  {
+    "title": "Stop counting tokens, start counting what ships",
+    "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+    "date_published": "2026-11-02",
+    "description": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls…",
+    "source_id": "mit_tech_review_ai",
+    "source_name": "MIT Technology Review (AI)",
+    "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+    "categories": [
+      "tech",
+      "strategy",
+      "ai_marketing"
+    ],
+    "relevance_score": 0.7,
+    "relevance_label": "high",
+    "title_en": "Stop Counting Tokens: Why AI Agent Output — Not Usage — Should Be the Real Metric",
+    "summary_ko": "AI 에이전트가 코딩 작업을 수행할 때 단순 챗봇과 달리 계획, 코드 생성, 테스트, 오류 수정 등 반복 프로세스를 거치며 기본 채팅 프롬프트보다 10~50배 더 많은 토큰을 사용한다. 이 기사는 토큰 소비량이 아닌 실제 완성된 작업 결과물을 기준으로 AI 에이전트의 가치를 측정해야 한다고 주장한다. 에이전트가 유용해질수록 API 호출 횟수가 증가하므로 비용 구조와 성과 측정 방식의 패러다임 전환이 필요하다.",
+    "summary_en": "When AI agents handle coding tasks, they engage in iterative processes — planning, generating code, testing, and correcting errors — consuming 10 to 50 times more tokens than a simple chat prompt. The article argues that measuring AI agent value by token consumption is misleading, and that shipped output and task completion should be the true metrics. As agents become more capable, their API call volume grows, demanding a fundamental rethink of cost structures and performance measurement.",
+    "so_what_ko": "LG D2C가 AI 에이전트를 마케팅·커머스 업무에 도입할 때, 토큰 비용이 아닌 실제 비즈니스 아웃풋(전환율, 캠페인 성과 등)을 성과 기준으로 설정해야 투자 효율을 정확히 평가할 수 있다.",
+    "so_what_en": "When deploying AI agents for D2C marketing and commerce tasks, LG should measure ROI by business outcomes — conversions, campaign results, revenue impact — rather than token usage or API call volume.",
+    "key_points": [
+      "AI agents use 10–50x more tokens than basic chat prompts due to iterative planning and error-correction loops",
+      "Token count is a poor proxy for AI agent value; shipped results and task completion are more meaningful metrics",
+      "Growing agent capability correlates with higher compute costs, requiring new cost-benefit frameworks",
+      "Organizations need to rethink how they evaluate and budget for agentic AI deployments"
+    ],
+    "tags": [
+      "ai-agents",
+      "token-efficiency",
+      "ai-cost",
+      "agentic-ai",
+      "performance-metrics"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "MIT Technology Review"
+    ],
+    "one_line_insight_ko": "AI 에이전트 도입 효과는 토큰 소비량이 아닌 실제 비즈니스 산출물로 측정해야 진정한 ROI를 파악할 수 있다.",
+    "one_line_insight_en": "True AI agent ROI can only be captured by measuring business outputs delivered, not tokens consumed.",
+    "ai_processed": true
+  },
+  {
+    "title": "The agentic web is here",
+    "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+    "date_published": "2026-11-02",
+    "description": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous software agents that could address our every…",
+    "source_id": "mit_tech_review_ai",
+    "source_name": "MIT Technology Review (AI)",
+    "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+    "categories": [
+      "commerce",
+      "tech",
+      "agentic_commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.93,
+    "relevance_label": "high",
+    "title_en": "The Agentic Web Has Arrived: Autonomous AI Agents Are Reshaping How We Navigate the Internet",
+    "summary_ko": "팀 버너스-리가 2001년 구상한 '시맨틱 웹'처럼 자율 소프트웨어 에이전트가 인터넷을 탐색하는 '에이전틱 웹' 시대가 본격적으로 도래했다. AI 에이전트는 단순한 정보 검색을 넘어 사용자를 대신해 복잡한 작업을 수행하며 웹 환경 전체를 재편하고 있다. 이는 검색, 쇼핑, 콘텐츠 소비 등 디지털 상호작용의 근본적 패러다임 변화를 의미한다.",
+    "summary_en": "The 'agentic web' — where autonomous AI agents navigate the internet on behalf of users — has arrived, echoing Tim Berners-Lee's 2001 vision of a Semantic Web designed for software agents. These agents go beyond simple information retrieval, performing complex multi-step tasks autonomously and fundamentally reshaping how the web is experienced. This marks a paradigm shift across search, shopping, and content consumption with broad implications for every digital industry.",
+    "so_what_ko": "에이전틱 웹의 부상은 LG D2C 채널 전략의 근본적 재검토를 요구한다. 소비자가 아닌 AI 에이전트가 제품을 탐색하고 구매 결정을 내리는 환경에 맞춰 콘텐츠, 카탈로그, 고객 접점 전반을 AI 친화적으로 재설계해야 한다.",
+    "so_what_en": "The agentic web demands a fundamental rethink of LG D2C channel strategy — as AI agents increasingly act on behalf of consumers, all content, catalogs, and customer touchpoints must be redesigned for AI-first discovery and decision-making.",
+    "key_points": [
+      "The 'agentic web' marks the realization of Tim Berners-Lee's 2001 Semantic Web vision, with AI agents autonomously navigating the internet",
+      "AI agents perform complex, multi-step tasks beyond simple search, fundamentally changing digital interaction patterns",
+      "This shift has sweeping implications for e-commerce, content discovery, and brand visibility in D2C channels",
+      "Businesses that fail to optimize for agentic web interactions risk becoming invisible to AI-mediated consumers"
+    ],
+    "tags": [
+      "agentic-web",
+      "autonomous-agents",
+      "semantic-web",
+      "ai-commerce",
+      "digital-transformation"
+    ],
+    "confidence": 0.82,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "MIT Technology Review",
+      "Tim Berners-Lee"
+    ],
+    "one_line_insight_ko": "에이전틱 웹의 도래로 AI 에이전트가 소비자의 쇼핑 행동을 대체하기 시작했으며, D2C 브랜드는 AI 우선 전략으로의 전환이 시급하다.",
+    "one_line_insight_en": "The agentic web signals that AI agents are beginning to replace human browsing behavior, making AI-first strategy an urgent priority for D2C brands.",
     "ai_processed": true
   }
 ]
