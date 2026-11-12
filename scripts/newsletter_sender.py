@@ -1,11 +1,18 @@
 #!/usr/bin/env python3
-"""Cron-friendly daily newsletter sender for AI Commerce Daily."""
+"""Cron-friendly daily newsletter sender for AI Commerce Daily.
+
+Duplicate sends are detected from the article URLs that were actually emailed,
+not from the wall-clock KST date. A delayed run that crosses midnight records
+that date, but it must not block a later run whose articles were never sent.
+"""
 
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import sys
+from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
 from typing import Any
@@ -22,8 +29,9 @@ KST = ZoneInfo("Asia/Seoul")
 if str(TOOLS_DIR) not in sys.path:
     sys.path.insert(0, str(TOOLS_DIR))
 
-from get_subscribers import get_subscribers  # noqa: E402
-from send_newsletter import generate_html_newsletter, send_newsletter  # noqa: E402
+# Gmail / Sheets imports stay inside main(). They pull in google-api libraries
+# that are not needed to decide whether a run is a duplicate, and tests import
+# the decision helpers without those packages installed.
 
 
 def _load_json(path: Path, default: Any) -> Any:
@@ -237,6 +245,283 @@ def _build_subject(date_str: str, language: str = "ko") -> str:
     return f"[AI Commerce Daily] {date_str} AI 커머스 & 마케팅 뉴스"
 
 
+def article_urls(news_items: list[dict]) -> list[str]:
+    """Unique article URLs in edition order. This is the dedup identity."""
+    urls: list[str] = []
+    seen: set[str] = set()
+    for item in news_items:
+        url = str(item.get("url") or item.get("link") or "").strip()
+        if url and url not in seen:
+            seen.add(url)
+            urls.append(url)
+    return urls
+
+
+def content_fingerprint(urls: list[str]) -> str:
+    payload = "\n".join(sorted(urls)).encode("utf-8")
+    return hashlib.sha256(payload).hexdigest()[:16]
+
+
+def _history_entries(state: dict, language: str) -> list[dict]:
+    raw = state.get(f"recently_sent_articles_{language}") or []
+    if not isinstance(raw, list):
+        return []
+    return [entry for entry in raw if isinstance(entry, dict)]
+
+
+def _sent_urls_for_language(state: dict, language: str) -> set[str]:
+    urls: set[str] = set()
+    for entry in _history_entries(state, language):
+        for url in entry.get("urls") or []:
+            if url:
+                urls.add(str(url))
+    return urls
+
+
+def _content_dates_sent(state: dict) -> set[str]:
+    raw = state.get("recently_sent_content_dates") or []
+    if not isinstance(raw, list):
+        return set()
+    return {str(value) for value in raw if value}
+
+
+@dataclass(frozen=True)
+class NewsletterDecision:
+    action: str  # "send" or "skip"
+    reason: str
+    message: str
+    new_count: int
+    total_count: int
+
+
+def decide_newsletter_send(
+    *,
+    news_items: list[dict],
+    state: dict,
+    language: str,
+    target_date: str,
+    selected_date: str,
+    allow_resend: bool,
+) -> NewsletterDecision:
+    """Decide whether this edition is a new send or a true duplicate.
+
+    The wall-clock KST date is intentionally not a skip key. A scheduled run
+    that slips past midnight records ``last_sent_date_*`` as the next day and
+    used to make the real run for that day skip, even when it had new articles.
+
+    Skip only when every article URL in this edition was already emailed for
+    this language, or when the fallback path is about to re-send an older
+    content date and we have no per-article history proving otherwise.
+    """
+    urls = article_urls(news_items)
+    total = len(urls)
+    if allow_resend:
+        return NewsletterDecision(
+            action="send",
+            reason="allow_resend",
+            message="Resend allowed; duplicate check bypassed.",
+            new_count=total,
+            total_count=total,
+        )
+
+    history = _history_entries(state, language)
+    sent_urls = _sent_urls_for_language(state, language)
+    new_count = sum(1 for url in urls if url not in sent_urls)
+
+    if history and total > 0 and new_count == 0:
+        return NewsletterDecision(
+            action="skip",
+            reason="duplicate_articles",
+            message=(
+                f"⏭️ Skip: {language.upper()} newsletter not sent. "
+                f"All {total} articles were already emailed "
+                f"(duplicate send / rerun). "
+                f"Wall-clock date {target_date} is not the dedup key."
+            ),
+            new_count=0,
+            total_count=total,
+        )
+
+    # Fallback editions (no items in the 3-day window) are labeled with an
+    # older selected_date. Keep blocking those when that date was already
+    # sent, unless per-article history shows these URLs were never emailed
+    # (the wall-clock bug stamped a date without those articles).
+    unsent_urls_known = bool(history) and new_count > 0
+    if selected_date != target_date and selected_date in _content_dates_sent(state) and not unsent_urls_known:
+        return NewsletterDecision(
+            action="skip",
+            reason="fallback_content_date",
+            message=(
+                f"⏭️ Skip: content for {selected_date} was already sent recently "
+                f"(fallback re-send prevention). No new articles for {target_date}."
+            ),
+            new_count=new_count,
+            total_count=total,
+        )
+
+    if total == 0:
+        return NewsletterDecision(
+            action="skip",
+            reason="no_articles",
+            message=f"⏭️ Skip: {language.upper()} newsletter has no article URLs.",
+            new_count=0,
+            total_count=0,
+        )
+
+    return NewsletterDecision(
+        action="send",
+        reason="new_articles",
+        message=(
+            f"{language.upper()} newsletter has {new_count} article(s) "
+            f"not emailed yet ({total} in this edition)."
+        ),
+        new_count=new_count,
+        total_count=total,
+    )
+
+
+def remember_sent_articles(
+    state: dict,
+    *,
+    language: str,
+    news_items: list[dict],
+    target_date: str,
+    selected_date: str,
+    sent_at_kst: str,
+    recipient_count: int,
+) -> None:
+    """Record the articles actually emailed. ``target_date`` is informational."""
+    urls = article_urls(news_items)
+    fingerprint = content_fingerprint(urls)
+    content_dates = sorted(
+        {
+            str(item.get("published") or "").strip()
+            for item in news_items
+            if str(item.get("published") or "").strip()
+        }
+    )
+    history = [
+        entry
+        for entry in _history_entries(state, language)
+        if entry.get("fingerprint") != fingerprint
+    ]
+    history.append(
+        {
+            "fingerprint": fingerprint,
+            "urls": urls,
+            "content_dates": content_dates,
+            "sent_on_kst_date": target_date,
+            "selected_date": selected_date,
+            "sent_at_kst": sent_at_kst,
+        }
+    )
+    history = history[-14:]
+
+    raw_dates = state.get("recently_sent_content_dates") or []
+    recently_sent = [str(value) for value in raw_dates if value] if isinstance(raw_dates, list) else []
+    if selected_date and selected_date not in recently_sent:
+        recently_sent.append(selected_date)
+    recently_sent = recently_sent[-14:]
+
+    latest_content_date = content_dates[-1] if content_dates else selected_date
+    state.update(
+        {
+            f"last_sent_date_{language}": target_date,
+            f"last_sent_content_date_{language}": latest_content_date,
+            f"last_sent_at_kst_{language}": sent_at_kst,
+            f"last_recipient_count_{language}": recipient_count,
+            "last_news_items": len(news_items),
+            "recently_sent_content_dates": recently_sent,
+            f"recently_sent_articles_{language}": history,
+        }
+    )
+
+
+_REASON_TEXT = {
+    "duplicate_articles": "these articles were already sent",
+    "fallback_content_date": "that content date was already sent",
+    "outside_window": "outside the send window",
+    "no_articles": "no articles",
+    "allow_resend": "resend allowed",
+    "new_articles": "new articles",
+    "subscribers": "subscriber lookup failed",
+    "no_recipients": "no recipients",
+    "load_news": "news could not be loaded",
+    "no_items": "no items after filtering",
+    "send": "send failed",
+}
+
+
+def format_newsletter_result(
+    language: str,
+    result: str,
+    *,
+    reason: str = "",
+    items: int | None = None,
+    new_items: int | None = None,
+) -> str:
+    """One machine-readable line. Tokens have no spaces so the workflow can parse them."""
+    parts = [f"NEWSLETTER_RESULT language={language} result={result}"]
+    if reason:
+        parts.append(f"reason={reason}")
+    if items is not None:
+        parts.append(f"items={items}")
+    if new_items is not None:
+        parts.append(f"new={new_items}")
+    return " ".join(parts)
+
+
+def _parse_result_line(line: str) -> dict[str, str]:
+    fields: dict[str, str] = {}
+    for token in (line or "").split():
+        if token == "NEWSLETTER_RESULT" or "=" not in token:
+            continue
+        key, value = token.split("=", 1)
+        fields[key] = value
+    return fields
+
+
+def describe_newsletter_result(label: str, line: str) -> str:
+    fields = _parse_result_line(line)
+    result = fields.get("result", "")
+    if result == "sent":
+        return f"{label} newsletter was sent ({fields.get('items', '?')} items)"
+    if result == "skipped":
+        reason = _REASON_TEXT.get(fields.get("reason", ""), fields.get("reason") or "skipped")
+        return f"{label} newsletter was skipped ({reason})"
+    if result == "dry_run":
+        return f"{label} newsletter dry-run only ({fields.get('items', '?')} items, not sent)"
+    if result == "failed":
+        reason = _REASON_TEXT.get(fields.get("reason", ""), "failed")
+        return f"{label} newsletter failed ({reason})"
+    return f"{label} newsletter status unknown"
+
+
+def summarize_run_status(ko_line: str, en_line: str) -> str:
+    """Notification text. Says skipped when a language was skipped."""
+    return (
+        "Daily pipeline completed. "
+        f"{describe_newsletter_result('KO', ko_line)}. "
+        f"{describe_newsletter_result('EN', en_line)}."
+    )
+
+
+def _status(
+    language: str,
+    code: int,
+    result: str,
+    *,
+    reason: str = "",
+    message: str = "",
+    items: int | None = None,
+    new_items: int | None = None,
+) -> int:
+    if message:
+        print(message)
+    print(format_newsletter_result(language, result, reason=reason, items=items, new_items=new_items))
+    return code
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="Send daily newsletter for AI Commerce Daily.")
     parser.add_argument("--date", default=None, help="Target date (YYYY-MM-DD). Default: today in KST.")
@@ -245,7 +530,7 @@ def main() -> int:
     parser.add_argument(
         "--allow-resend",
         action="store_true",
-        help="Allow sending even if this date is already marked as sent.",
+        help="Send even if these articles were already emailed.",
     )
     parser.add_argument("--max-items", type=int, default=12, help="Max news items in newsletter.")
     parser.add_argument(
@@ -278,59 +563,107 @@ def main() -> int:
 
     if not args.force and not _within_send_window(now_kst, target_hour=5, window_minutes=args.window_minutes):
         end_minute = max(args.window_minutes - 1, 0)
-        print(
-            f"⏭️ Skip: current KST time {now_kst.strftime('%Y-%m-%d %H:%M:%S')} "
-            f"is outside send window (05:00-05:{end_minute:02d})."
+        return _status(
+            args.language,
+            0,
+            "skipped",
+            reason="outside_window",
+            message=(
+                f"⏭️ Skip: current KST time {now_kst.strftime('%Y-%m-%d %H:%M:%S')} "
+                f"is outside send window (05:00-05:{end_minute:02d})."
+            ),
         )
-        return 0
 
+    # Decide from the articles this run would email, before any Google API call.
+    # A delayed previous run can stamp today's KST date without having sent
+    # today's articles; that must not block this edition.
     state = _load_json(STATE_PATH, default={})
+    if not isinstance(state, dict):
+        state = {}
+
+    try:
+        news_items, selected_date = _load_news_items(
+            target_date=target_date, max_items=args.max_items, language=args.language
+        )
+    except Exception as error:
+        return _status(
+            args.language,
+            1,
+            "failed",
+            reason="load_news",
+            message=f"❌ Failed to load newsletter news: {error}",
+        )
+
+    if not news_items:
+        return _status(
+            args.language,
+            1,
+            "failed",
+            reason="no_items",
+            message=(
+                f"🚫 BLOCKED: 0 news items after filtering for {target_date}. Newsletter NOT sent.\n"
+                "   Possible cause: summarized.json items missing 'link' field.\n"
+                "   Fix: check sync_obsidian_to_summarized.py URL parsing."
+            ),
+        )
+
+    decision = decide_newsletter_send(
+        news_items=news_items,
+        state=state,
+        language=args.language,
+        target_date=target_date,
+        selected_date=selected_date,
+        allow_resend=args.allow_resend,
+    )
+    if decision.action == "skip":
+        return _status(
+            args.language,
+            0,
+            "skipped",
+            reason=decision.reason,
+            message=decision.message,
+            items=decision.total_count,
+            new_items=decision.new_count,
+        )
+
     lang_key = f"last_sent_date_{args.language}"
-    already_sent = state.get(lang_key) == target_date or (
+    wall_clock_already_used = state.get(lang_key) == target_date or (
         args.language == "ko" and state.get("last_sent_date") == target_date and lang_key not in state
     )
-    if not args.allow_resend and already_sent:
-        print(f"⏭️ Skip: {args.language.upper()} newsletter already marked sent for {target_date}.")
-        return 0
+    if wall_clock_already_used:
+        print(
+            f"ℹ️ {args.language.upper()} state already records wall-clock date {target_date}, "
+            f"but {decision.new_count} of {decision.total_count} article(s) were not emailed yet. Sending."
+        )
+    else:
+        print(decision.message)
+
+    if len(news_items) < 3:
+        print(f"⚠️ WARNING: Only {len(news_items)} items for {target_date}. Proceeding but quality may be low.")
+
+    from get_subscribers import get_subscribers  # noqa: E402
+    from send_newsletter import generate_html_newsletter, send_newsletter  # noqa: E402
 
     try:
         subscribers = get_subscribers(verbose=True, language=args.language)
     except Exception as error:
-        print(f"❌ Failed to fetch subscribers: {error}")
-        return 1
+        return _status(
+            args.language,
+            1,
+            "failed",
+            reason="subscribers",
+            message=f"❌ Failed to fetch subscribers: {error}",
+        )
 
     recipients = list(dict.fromkeys([*subscribers, *args.recipient]))
     if not recipients:
-        print("⚠️ No recipients available. Check spreadsheet ID or pass --recipient for test.")
-        return 1
-
-    try:
-        news_items, selected_date = _load_news_items(target_date=target_date, max_items=args.max_items, language=args.language)
-    except Exception as error:
-        print(f"❌ Failed to load newsletter news: {error}")
-        return 1
-
-    if not news_items:
-        print(f"🚫 BLOCKED: 0 news items after filtering for {target_date}. Newsletter NOT sent.")
-        print("   Possible cause: summarized.json items missing 'link' field.")
-        print("   Fix: check sync_obsidian_to_summarized.py URL parsing.")
-        return 1
-
-    # ── Second duplicate guard: content-date based ─────────────────────────
-    # Prevents re-sending old content when today has no new articles and the
-    # fallback selects a previously-sent archive date.
-    # (First guard above checked target_date; this checks the actual content date.)
-    if not args.allow_resend and selected_date != target_date:
-        recently_sent = set(state.get("recently_sent_content_dates", []))
-        if selected_date in recently_sent:
-            print(
-                f"⏭️ Skip: content for {selected_date} was already sent recently "
-                f"(fallback re-send prevention). No new articles for {target_date}."
-            )
-            return 0
-
-    if len(news_items) < 3:
-        print(f"⚠️ WARNING: Only {len(news_items)} items for {target_date}. Proceeding but quality may be low.")
+        return _status(
+            args.language,
+            1,
+            "failed",
+            reason="no_recipients",
+            message="⚠️ No recipients available. Check spreadsheet ID or pass --recipient for test.",
+        )
 
     # Load insights if available
     insights_path = DATA_DIR / "newsletter_insights.json"
@@ -351,7 +684,7 @@ def main() -> int:
         dry_run=not args.send,
     )
     if not success:
-        return 1
+        return _status(args.language, 1, "failed", reason="send", items=len(news_items), new_items=decision.new_count)
 
     mode = "send" if args.send else "dry-run"
     print(
@@ -359,35 +692,41 @@ def main() -> int:
         f"(date={selected_date}, recipients={len(recipients)}, items={len(news_items)})."
     )
 
-    if args.send:
-        # Maintain a rolling 14-day window of content dates actually sent.
-        # This prevents the fallback from re-sending the same old content on days
-        # when no new articles are collected.
-        recently_sent = list(state.get("recently_sent_content_dates", []))
-        if selected_date not in recently_sent:
-            recently_sent.append(selected_date)
-        recently_sent = recently_sent[-14:]  # keep last 14 entries
+    if not args.send:
+        return _status(
+            args.language,
+            0,
+            "dry_run",
+            items=decision.total_count,
+            new_items=decision.new_count,
+        )
 
-        state.update({
-            f"last_sent_date_{args.language}": target_date,
-            f"last_sent_content_date_{args.language}": selected_date,
-            f"last_sent_at_kst_{args.language}": now_kst.isoformat(),
-            f"last_recipient_count_{args.language}": len(recipients),
-            "last_news_items": len(news_items),
-            "recently_sent_content_dates": recently_sent,
-        })
-        _save_json(STATE_PATH, state)
-        print(f"📌 Send state updated: {STATE_PATH}")
+    remember_sent_articles(
+        state,
+        language=args.language,
+        news_items=news_items,
+        target_date=target_date,
+        selected_date=selected_date,
+        sent_at_kst=now_kst.isoformat(),
+        recipient_count=len(recipients),
+    )
+    _save_json(STATE_PATH, state)
+    print(f"📌 Send state updated: {STATE_PATH}")
 
-        # Record sent titles for future dedup
-        try:
-            from sync_obsidian_to_summarized import record_sent_titles
-            record_sent_titles(news_items, selected_date)
-            print(f"🔄 Dedup history updated: {len(news_items)} titles recorded")
-        except Exception as e:
-            print(f"⚠️ Dedup history update failed: {e}")
+    try:
+        from sync_obsidian_to_summarized import record_sent_titles
+        record_sent_titles(news_items, selected_date)
+        print(f"🔄 Dedup history updated: {len(news_items)} titles recorded")
+    except Exception as error:
+        print(f"⚠️ Dedup history update failed: {error}")
 
-    return 0
+    return _status(
+        args.language,
+        0,
+        "sent",
+        items=decision.total_count,
+        new_items=decision.new_count,
+    )
 
 
 if __name__ == "__main__":

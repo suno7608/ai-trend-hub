@@ -1,0 +1,45 @@
+name: Deploy GitHub Pages (resilient)
+description: >-
+  Deploy the uploaded Pages artifact. Waits longer than the 10 minute
+  deploy-pages default, then retries once if that attempt times out.
+
+outputs:
+  page_url:
+    description: URL of the deployed GitHub Pages site
+    value: ${{ steps.deployment.outputs.page_url || steps.retry.outputs.page_url }}
+
+runs:
+  using: composite
+  steps:
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4
+      continue-on-error: true
+      with:
+        token: ${{ github.token }}
+        # actions/deploy-pages defaults to 600000 ms (10 minutes) and then
+        # aborts with "Timeout reached, aborting!". The 2026-11-10 daily
+        # deploy sat in syncing_files until that limit; a later rerun worked.
+        # 20 minutes covers a slow sync. A hung sync still fails this step
+        # and is retried once below.
+        timeout: "1200000"
+
+    - name: Wait for a cancelled deployment to clear
+      if: steps.deployment.outcome == 'failure'
+      shell: bash
+      run: sleep 60
+
+    - name: Retry GitHub Pages deploy
+      id: retry
+      if: steps.deployment.outcome == 'failure'
+      uses: actions/deploy-pages@v4
+      with:
+        token: ${{ github.token }}
+        timeout: "1200000"
+
+    - name: Fail if both Pages deploy attempts failed
+      if: steps.deployment.outcome == 'failure' && steps.retry.outcome != 'success'
+      shell: bash
+      run: |
+        echo "GitHub Pages deploy failed on both attempts."
+        exit 1
