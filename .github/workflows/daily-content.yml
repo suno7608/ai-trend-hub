@@ -2,8 +2,16 @@ name: Daily Content Pipeline
 
 on:
   schedule:
-    # Runs daily at 06:00 UTC (15:00 KST)
-    - cron: '0 6 * * *'
+    # 03:17 UTC = 12:17 KST.
+    # Moved earlier from 06:00 UTC (15:00 KST) and off the top of the hour.
+    # GitHub queues scheduled workflows hardest at minute 0, and this workflow
+    # has been starting 6-9 hours late. A 9 hour delay from 15:00 KST lands on
+    # 00:00 KST the next day, which used to stamp that day's newsletter as
+    # already sent. The same 9 hour delay from 12:17 KST starts around 21:17 KST,
+    # so the run still belongs to the same KST date (the job itself is about
+    # 20 minutes). Crossing midnight now takes a delay of about 11.5 hours.
+    # Weekly (Sunday 05:00 UTC) and monthly (1st 05:00 UTC) schedules are unchanged.
+    - cron: '17 3 * * *'
   workflow_dispatch:
     inputs:
       max_items:
@@ -73,8 +81,8 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "AI Trend Hub Bot"
-          # newsletter_state.json MUST be committed so next run can read last_sent_date
-          # and avoid sending the same newsletter twice (state was previously ephemeral)
+          # newsletter_state.json MUST be committed so the next run can see which
+          # article URLs were already emailed and skip a true duplicate send.
           git add content/ data/processed_urls.json data/archive/ data/summarized.json data/newsletter_state.json
           git diff --staged --quiet || git commit -m "📰 Daily content update $(date +%Y-%m-%d)"
           git push || echo "Nothing to push"
@@ -90,16 +98,22 @@ jobs:
           python-version: '3.11'
 
       - name: "Step 9: Send KR and EN newsletters"
+        id: newsletter
         run: |
           if [ ! -s data/summarized.json ] || [ "$(cat data/summarized.json)" = "[]" ]; then
             echo "⚠️ No summarized articles. Skipping newsletter."
+            echo "summary=Daily pipeline completed. KO newsletter was skipped (no articles). EN newsletter was skipped (no articles)." >> "$GITHUB_OUTPUT"
             exit 0
           fi
           pip install google-auth google-auth-oauthlib google-api-python-client
           # Write Google token from secret
           echo '${{ secrets.GOOGLE_TOKEN_JSON }}' > /tmp/google-token.json
-          python3 scripts/newsletter_sender.py --language ko --send --force
-          python3 scripts/newsletter_sender.py --language en --send --force
+          python3 scripts/newsletter_sender.py --language ko --send --force | tee /tmp/newsletter-ko.log
+          python3 scripts/newsletter_sender.py --language en --send --force | tee /tmp/newsletter-en.log
+          ko_line=$(grep '^NEWSLETTER_RESULT ' /tmp/newsletter-ko.log | tail -n 1 || true)
+          en_line=$(grep '^NEWSLETTER_RESULT ' /tmp/newsletter-en.log | tail -n 1 || true)
+          summary=$(python3 -c 'import sys; sys.path.insert(0, "scripts"); from newsletter_sender import summarize_run_status; print(summarize_run_status(sys.argv[1], sys.argv[2]))' "$ko_line" "$en_line")
+          echo "summary=${summary}" >> "$GITHUB_OUTPUT"
         env:
           GOOGLE_TOKEN_PATH: /tmp/google-token.json
 
@@ -112,7 +126,7 @@ jobs:
 
       - name: "Notify: Success"
         if: success()
-        run: node scripts/notify-telegram.js --status=success --pipeline=daily --details="Daily pipeline completed + KR/EN newsletters sent" --run-url="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+        run: node scripts/notify-telegram.js --status=success --pipeline=daily --details="${{ steps.newsletter.outputs.summary || 'Daily pipeline completed. Newsletter status unknown.' }}" --run-url="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
@@ -132,7 +146,11 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: pipeline
+    timeout-minutes: 50
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: ./.github/actions/deploy-pages-resilient
