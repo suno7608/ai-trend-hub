@@ -4,7 +4,6 @@
   "last_recipient_count": 59,
   "last_news_items": 12,
   "recently_sent_content_dates": [
-    "2026-10-29",
     "2026-10-30",
     "2026-10-31",
     "2026-11-01",
@@ -17,15 +16,70 @@
     "2026-11-08",
     "2026-11-10",
     "2026-11-11",
-    "2026-11-12"
+    "2026-11-12",
+    "2026-11-13"
   ],
   "last_sent_content_date": "2026-04-12",
-  "last_sent_date_ko": "2026-11-12",
-  "last_sent_date_en": "2026-11-12",
-  "last_sent_content_date_en": "2026-11-12",
-  "last_sent_at_kst_en": "2026-11-12T23:40:07.547547+09:00",
+  "last_sent_date_ko": "2026-11-13",
+  "last_sent_date_en": "2026-11-13",
+  "last_sent_content_date_en": "2026-11-13",
+  "last_sent_at_kst_en": "2026-11-13T20:16:00.019648+09:00",
   "last_recipient_count_en": 2,
-  "last_sent_content_date_ko": "2026-11-12",
-  "last_sent_at_kst_ko": "2026-11-12T23:40:05.261833+09:00",
-  "last_recipient_count_ko": 66
+  "last_sent_content_date_ko": "2026-11-13",
+  "last_sent_at_kst_ko": "2026-11-13T20:15:57.124986+09:00",
+  "last_recipient_count_ko": 66,
+  "recently_sent_articles_ko": [
+    {
+      "fingerprint": "b860a1dcdb003954",
+      "urls": [
+        "https://digiday.com/media-buying/ai-is-turning-ad-tech-into-a-fight-for-the-brain-behind-the-buy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://martech.org/cheap-cac-can-be-expensive-growth/",
+        "https://martech.org/dont-pay-a-premium-for-data-you-cant-use/",
+        "https://martech.org/iab-unveils-framework-for-measuring-ais-part-in-conversions/",
+        "https://digiday.com/media/media-briefing-the-iab-finds-ai-measurement-standards-elusive-for-publishers-amid-platform-data-gaps/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://martech.org/retailer-data-can-sharpen-social-it-can-also-inflate-the-bill/",
+        "https://digiday.com/media/yahoo-becomes-first-licensee-of-spotify-like-collective-ai-content-licensing-model/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://www.digitalcommerce360.com/2026/11/12/j-crew-claude-style-advisor/",
+        "https://www.digitalcommerce360.com/2026/11/11/lowes-partners-with-bilt-to-expand-loyalty-rewards-ai-powered-commerce/",
+        "https://www.practicalecommerce.com/new-ecommerce-tools-november-11-2026",
+        "https://aibusiness.com/generative-ai/openai-s-businesses-in-chatgpt-targets-enterprise-trust",
+        "https://digiday.com/marketing/tiktok-shop-launches-a-paid-premium-tier-for-1m-of-its-top-u-s-shoppers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss"
+      ],
+      "content_dates": [
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13"
+      ],
+      "sent_on_kst_date": "2026-11-13",
+      "selected_date": "2026-11-13",
+      "sent_at_kst": "2026-11-13T20:15:57.124986+09:00"
+    }
+  ],
+  "recently_sent_articles_en": [
+    {
+      "fingerprint": "b860a1dcdb003954",
+      "urls": [
+        "https://digiday.com/media-buying/ai-is-turning-ad-tech-into-a-fight-for-the-brain-behind-the-buy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://martech.org/cheap-cac-can-be-expensive-growth/",
+        "https://martech.org/dont-pay-a-premium-for-data-you-cant-use/",
+        "https://digiday.com/media/media-briefing-the-iab-finds-ai-measurement-standards-elusive-for-publishers-amid-platform-data-gaps/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://martech.org/iab-unveils-framework-for-measuring-ais-part-in-conversions/",
+        "https://martech.org/retailer-data-can-sharpen-social-it-can-also-inflate-the-bill/",
+        "https://digiday.com/media/yahoo-becomes-first-licensee-of-spotify-like-collective-ai-content-licensing-model/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://www.digitalcommerce360.com/2026/11/12/j-crew-claude-style-advisor/",
+        "https://www.digitalcommerce360.com/2026/11/11/lowes-partners-with-bilt-to-expand-loyalty-rewards-ai-powered-commerce/",
+        "https://www.practicalecommerce.com/new-ecommerce-tools-november-11-2026",
+        "https://aibusiness.com/generative-ai/openai-s-businesses-in-chatgpt-targets-enterprise-trust",
+        "https://digiday.com/marketing/tiktok-shop-launches-a-paid-premium-tier-for-1m-of-its-top-u-s-shoppers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss"
+      ],
+      "content_dates": [
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13"
+      ],
+      "sent_on_kst_date": "2026-11-13",
+      "selected_date": "2026-11-13",
+      "sent_at_kst": "2026-11-13T20:16:00.019648+09:00"
+    }
+  ]
 }
