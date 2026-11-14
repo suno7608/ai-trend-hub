@@ -4,7 +4,6 @@
   "last_recipient_count": 59,
   "last_news_items": 12,
   "recently_sent_content_dates": [
-    "2026-10-30",
     "2026-10-31",
     "2026-11-01",
     "2026-11-02",
@@ -17,16 +16,17 @@
     "2026-11-10",
     "2026-11-11",
     "2026-11-12",
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-14"
   ],
   "last_sent_content_date": "2026-04-12",
-  "last_sent_date_ko": "2026-11-13",
-  "last_sent_date_en": "2026-11-13",
+  "last_sent_date_ko": "2026-11-14",
+  "last_sent_date_en": "2026-11-14",
   "last_sent_content_date_en": "2026-11-13",
-  "last_sent_at_kst_en": "2026-11-13T20:16:00.019648+09:00",
+  "last_sent_at_kst_en": "2026-11-14T19:43:12.664200+09:00",
   "last_recipient_count_en": 2,
   "last_sent_content_date_ko": "2026-11-13",
-  "last_sent_at_kst_ko": "2026-11-13T20:15:57.124986+09:00",
+  "last_sent_at_kst_ko": "2026-11-14T19:43:10.433640+09:00",
   "last_recipient_count_ko": 66,
   "recently_sent_articles_ko": [
     {
@@ -53,6 +53,30 @@
       "sent_on_kst_date": "2026-11-13",
       "selected_date": "2026-11-13",
       "sent_at_kst": "2026-11-13T20:15:57.124986+09:00"
+    },
+    {
+      "fingerprint": "8f30c9d30e758661",
+      "urls": [
+        "https://blog.hubspot.com/marketing/ai-influencers",
+        "https://digiday.com/media-buying/ai-is-turning-ad-tech-into-a-fight-for-the-brain-behind-the-buy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://www.marketingdive.com/news/ai-derived-audience-insights-hurt-results-what-the-numbers-say/874565/",
+        "https://martech.org/iab-unveils-framework-for-measuring-ais-part-in-conversions/",
+        "https://digiday.com/media/media-briefing-the-iab-finds-ai-measurement-standards-elusive-for-publishers-amid-platform-data-gaps/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://martech.org/retailer-data-can-sharpen-social-it-can-also-inflate-the-bill/",
+        "https://digiday.com/sponsored/the-future-of-ctv-lies-in-standardization/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://www.marketingdive.com/news/twitch-debuts-shoppable-skippable-ads-as-twitchcon-feels-growing-pains/874614/",
+        "https://digiday.com/media/yahoo-becomes-first-licensee-of-spotify-like-collective-ai-content-licensing-model/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://www.digitalcommerce360.com/2026/11/13/asics-uses-ai-powered-drones-to-recover-misplaced-inventory-60-faster/",
+        "https://www.modernretail.co/operations/big-box-briefing-how-targets-and-walmarts-beauty-department-makeovers-are-reshaping-brand-strategies/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+        "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+      ],
+      "content_dates": [
+        "2026-11-12",
+        "2026-11-13"
+      ],
+      "sent_on_kst_date": "2026-11-14",
+      "selected_date": "2026-11-14",
+      "sent_at_kst": "2026-11-14T19:43:10.433640+09:00"
     }
   ],
   "recently_sent_articles_en": [
@@ -80,6 +104,30 @@
       "sent_on_kst_date": "2026-11-13",
       "selected_date": "2026-11-13",
       "sent_at_kst": "2026-11-13T20:16:00.019648+09:00"
+    },
+    {
+      "fingerprint": "9fa9abb9e55932d1",
+      "urls": [
+        "https://blog.hubspot.com/marketing/ai-influencers",
+        "https://digiday.com/media-buying/ai-is-turning-ad-tech-into-a-fight-for-the-brain-behind-the-buy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://digiday.com/sponsored/the-future-of-ctv-lies-in-standardization/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://digiday.com/media/media-briefing-the-iab-finds-ai-measurement-standards-elusive-for-publishers-amid-platform-data-gaps/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://martech.org/iab-unveils-framework-for-measuring-ais-part-in-conversions/",
+        "https://martech.org/retailer-data-can-sharpen-social-it-can-also-inflate-the-bill/",
+        "https://www.marketingdive.com/news/ai-derived-audience-insights-hurt-results-what-the-numbers-say/874565/",
+        "https://www.marketingdive.com/news/twitch-debuts-shoppable-skippable-ads-as-twitchcon-feels-growing-pains/874614/",
+        "https://digiday.com/media/yahoo-becomes-first-licensee-of-spotify-like-collective-ai-content-licensing-model/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://www.digitalcommerce360.com/2026/11/13/asics-uses-ai-powered-drones-to-recover-misplaced-inventory-60-faster/",
+        "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+        "https://www.digitalcommerce360.com/2026/11/13/grubmarket-ai-agent/"
+      ],
+      "content_dates": [
+        "2026-11-12",
+        "2026-11-13"
+      ],
+      "sent_on_kst_date": "2026-11-14",
+      "selected_date": "2026-11-14",
+      "sent_at_kst": "2026-11-14T19:43:12.664200+09:00"
     }
   ]
 }
