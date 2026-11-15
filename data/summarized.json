@@ -1,644 +1,553 @@
 [
   {
-    "title": "The Weekly Closeout: Target names a new board member and Centric Brands sells itself to CEO",
-    "link": "https://www.retaildive.com/news/target-board-member-centric-brands-ceo-fossil-turnaround/874550/",
+    "title": "Marketers deploying AI agents faster than they can measure them",
+    "link": "https://martech.org/marketers-deploying-ai-agents-faster-than-they-can-measure-them/",
     "date_published": "2026-11-13",
-    "description": "The big-box retailer appointed Sally Grimes as an independent director. Meanwhile, Jason Rabin took ownership of the conglomerate.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
+    "description": "AI agents are spreading quickly, but most marketers still can’t connect those conversations to campaigns, conversions, and revenue.\nThe post Marketers deploying AI agents faster than they can measure them appeared first on MarTech.",
+    "source_id": "martech_org",
+    "source_name": "MarTech.org",
+    "source_url": "https://martech.org/feed",
     "categories": [
-      "commerce",
-      "strategy"
+      "ai_marketing",
+      "marketing"
     ],
-    "relevance_score": 0.2,
+    "relevance_score": 0.88,
     "relevance_label": "high",
-    "title_en": "Target Appoints Sally Grimes to Board; Centric Brands Sells to CEO Jason Rabin",
-    "summary_ko": "Target는 Sally Grimes를 독립 이사로 선임했으며, Centric Brands는 CEO Jason Rabin에게 매각되었다. Fossil의 전환 전략과 함께 소매 업계의 주요 인사 및 소유권 변동이 이번 주 주목을 받았다. 이는 대형 소매업체들이 거버넌스 강화와 구조 재편을 동시에 추진하고 있음을 보여준다.",
-    "summary_en": "Target appointed Sally Grimes as an independent board member, strengthening its corporate governance. Centric Brands was acquired by its CEO Jason Rabin in a management buyout. These moves reflect broader restructuring trends across the retail sector.",
-    "so_what_ko": "소매 업계의 거버넌스 변화와 소유권 재편은 D2C 파트너십 및 채널 전략에 영향을 줄 수 있으므로 주요 소매업체 동향을 지속 모니터링해야 한다.",
-    "so_what_en": "Retail governance shifts and ownership changes at major players like Target can affect D2C partnership dynamics and shelf strategy, warranting ongoing monitoring.",
+    "title_en": "Marketers Deploying AI Agents Faster Than They Can Measure Them",
+    "summary_ko": "마케터들이 AI 에이전트를 빠르게 도입하고 있지만, 대부분은 에이전트의 대화를 캠페인, 전환, 매출과 연결하는 측정 체계를 갖추지 못하고 있다. 측정 없이는 ROI 증명이 불가능하고, 투자 정당성 확보도 어렵다. AI 에이전트 확산 속도와 성과 측정 역량 간의 간극이 마케팅 조직의 핵심 과제로 부상하고 있다.",
+    "summary_en": "AI agents are being rapidly adopted by marketers, but most organizations lack the measurement frameworks needed to connect agent-driven conversations to campaigns, conversions, and revenue. This gap between deployment speed and measurement capability creates a significant blind spot for ROI attribution. Closing this measurement gap has become one of the most pressing challenges for modern marketing teams.",
+    "so_what_ko": "LG D2C 조직은 AI 에이전트 도입과 동시에 에이전트 기여 매출 추적을 위한 어트리뷰션 모델을 선제적으로 설계해야 하며, 측정 불가능한 에이전트 투자는 예산 낭비로 이어질 수 있다.",
+    "so_what_en": "LG D2C must design attribution models for AI agent-driven interactions before scaling deployment, as untracked agent investments risk becoming unaccountable budget spend.",
     "key_points": [
-      "Target named Sally Grimes as a new independent board director",
-      "Centric Brands sold itself to CEO Jason Rabin in a management buyout",
-      "Retail sector sees ongoing leadership and ownership restructuring"
+      "AI 에이전트 도입 속도가 성과 측정 역량을 앞서는 구조적 문제 발생",
+      "에이전트 대화와 캠페인·전환·매출 연결 측정 체계 부재",
+      "ROI 증명 없이는 AI 에이전트 투자 지속 정당화 어려움"
     ],
     "tags": [
-      "retail-governance",
-      "board-appointment",
-      "management-buyout",
-      "retail-restructuring"
+      "ai-agents",
+      "marketing-measurement",
+      "attribution",
+      "roi",
+      "martech"
     ],
-    "confidence": 0.6,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "confidence": 0.72,
+    "strategic_theme": "AI_MARKETING",
     "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Target",
-      "Centric Brands",
-      "Sally Grimes",
-      "Jason Rabin",
-      "Fossil"
-    ],
-    "one_line_insight_ko": "Target와 Centric Brands의 리더십 변화는 소매 업계 구조 재편의 흐름을 반영하나 AI 커머스와의 직접적 연관성은 낮다.",
-    "one_line_insight_en": "Leadership and ownership shifts at Target and Centric Brands signal retail restructuring but carry limited direct relevance to AI commerce strategy.",
-    "ai_processed": true
-  },
-  {
-    "title": "The in-store shopping experience is broken. Can we fix it?",
-    "link": "https://www.modernretail.co/podcasts/in-store-shopping-experience-broken/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-11-14",
-    "description": "Stores still drive retail sales, but self-checkout, locked items and inventory gaps frustrate shoppers. The Modern Retail Podcast breaks down how retailers are attempting to fix these issues.",
-    "source_id": "modern_retail",
-    "source_name": "Modern Retail",
-    "source_url": "https://www.modernretail.co/feed/",
-    "categories": [
-      "commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.45,
-    "relevance_label": "high",
-    "title_en": "In-Store Shopping Experience Is Broken — Can Retailers Fix Self-Checkout, Locked Items, and Inventory Gaps?",
-    "summary_ko": "오프라인 매장은 여전히 소매 판매의 핵심이지만, 셀프 계산대 불편함, 잠긴 진열대, 재고 부족 등이 쇼핑객들의 불만을 야기하고 있다. Modern Retail 팟캐스트는 소매업체들이 이러한 문제를 해결하기 위해 어떤 시도를 하고 있는지 분석했다. 매장 경험 개선이 오프라인 채널 경쟁력 유지를 위한 핵심 과제로 부상하고 있다.",
-    "summary_en": "Physical stores remain the dominant channel for retail sales, but issues like self-checkout friction, locked merchandise, and inventory gaps are frustrating shoppers. The Modern Retail Podcast examined how retailers are attempting to address these systemic in-store challenges. Improving the in-store experience is emerging as a critical priority for retailers to remain competitive.",
-    "so_what_ko": "LG D2C 관점에서 오프라인 채널의 고객 경험 문제는 디지털 전환 및 스마트 재고 관리 기술 도입의 필요성을 강조하며, 옴니채널 전략 강화의 기회로 활용할 수 있다.",
-    "so_what_en": "For LG D2C, in-store friction points highlight the opportunity to differentiate through seamless omnichannel experiences and smart inventory technologies in physical retail touchpoints.",
-    "key_points": [
-      "Physical stores still dominate retail sales but face significant UX challenges",
-      "Self-checkout, locked items, and inventory gaps are top shopper frustrations",
-      "Retailers are actively experimenting with solutions to restore in-store appeal"
-    ],
-    "tags": [
-      "in-store-experience",
-      "retail-innovation",
-      "inventory-management",
-      "omnichannel"
-    ],
-    "confidence": 0.6,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "AMER",
       "GLOBAL"
     ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
+    "business_impact": "HIGH",
+    "sentiment": "THREAT",
     "key_entities": [
-      "Modern Retail"
+      "MarTech.org"
     ],
-    "one_line_insight_ko": "오프라인 쇼핑 경험의 구조적 문제는 스마트 기술 도입을 통한 차별화의 기회를 제공한다.",
-    "one_line_insight_en": "Systemic friction in physical retail creates a clear opportunity for brands to differentiate through smarter in-store technology and seamless inventory management.",
+    "one_line_insight_ko": "AI 에이전트 도입보다 측정 체계 구축이 선행되어야 D2C 마케팅 투자의 가치를 증명할 수 있다.",
+    "one_line_insight_en": "Measurement infrastructure must precede AI agent deployment to justify and optimize D2C marketing investments.",
     "ai_processed": true
   },
   {
-    "title": "Sally Beauty to expand refreshed store model in 2027",
-    "link": "https://www.retaildive.com/news/sally-beauty-expand-refreshed-store-model/874547/",
+    "title": "Meet your new teammate: Building marketing workflows around AI agents",
+    "link": "https://martech.org/meet-your-new-teammate-building-marketing-workflows-around-ai-agents/",
     "date_published": "2026-11-13",
-    "description": "The beauty supply retailer will grow the Sally Ignited store concept and has long-term plans to refresh two-thirds of its overall store fleet.",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
+    "description": "AI agents are changing how marketing works. At the November MarTech Conference, we discussed how to build workflows that combine AI efficiency with human judgment, quality control, and governance.\nThe post Meet your new teammate: Building marketing workflows around AI agents appeared first on MarTech.",
+    "source_id": "martech_org",
+    "source_name": "MarTech.org",
+    "source_url": "https://martech.org/feed",
     "categories": [
-      "commerce",
+      "ai_marketing",
       "strategy"
     ],
-    "relevance_score": 0.3,
+    "relevance_score": 0.85,
     "relevance_label": "high",
-    "title_en": "Sally Beauty to Scale 'Sally Ignited' Refreshed Store Concept Across Two-Thirds of Fleet by 2027",
-    "summary_ko": "Sally Beauty는 2027년에 刷新된 매장 모델인 'Sally Ignited' 콘셉트를 확대 적용할 계획을 발표했다. 장기적으로는 전체 매장의 3분의 2를 새로운 콘셉트로 리뉴얼할 방침이다. 이번 계획은 뷰티 소매 시장에서의 경쟁력 강화를 위한 오프라인 채널 혁신 전략의 일환이다.",
-    "summary_en": "Sally Beauty announced plans to expand its refreshed 'Sally Ignited' store concept in 2027. The company has long-term ambitions to renovate approximately two-thirds of its total store fleet under the new model. This initiative represents a significant brick-and-mortar investment to strengthen its competitive position in the beauty supply market.",
-    "so_what_ko": "뷰티 소매업체의 대규모 오프라인 리뉴얼 전략은 LG전자의 뷰티·케어 D2C 채널 전략 수립 시 오프라인 경험의 중요성을 재확인하는 사례로 참고할 수 있다.",
-    "so_what_en": "Sally Beauty's large-scale store refresh underscores the enduring importance of physical retail experience in beauty and care categories, relevant for LG's own D2C and retail channel planning.",
+    "title_en": "Building Marketing Workflows Around AI Agents: Efficiency Meets Human Judgment",
+    "summary_ko": "11월 MarTech 컨퍼런스에서 AI 에이전트를 중심으로 마케팅 워크플로를 재설계하는 방법이 논의되었으며, AI 효율성과 인간의 판단력을 결합하는 접근이 핵심 주제였다. 단순 자동화를 넘어 품질 관리와 거버넌스를 갖춘 에이전트 협업 체계 구축이 강조되었다. AI 에이전트를 '새로운 팀원'으로 인식하고 역할과 책임을 명확히 정의하는 것이 성공적인 워크플로의 전제 조건이다.",
+    "summary_en": "At the November MarTech Conference, practitioners discussed how to redesign marketing workflows around AI agents, emphasizing the balance between AI efficiency and human judgment. The conversation moved beyond simple automation to focus on quality control and governance frameworks for human-AI collaboration. Treating AI agents as genuine team members with defined roles and responsibilities was highlighted as a prerequisite for successful workflow integration.",
+    "so_what_ko": "LG D2C 마케팅팀은 AI 에이전트를 단순 도구가 아닌 역할이 정의된 팀원으로 설계하고, 품질 게이트와 인간 감독 체계를 포함한 거버넌스 프레임워크를 함께 구축해야 한다.",
+    "so_what_en": "LG D2C marketing teams should design AI agents as role-defined collaborators rather than tools, building accompanying governance frameworks with quality gates and human oversight into every workflow.",
     "key_points": [
-      "Sally Beauty plans to expand the 'Sally Ignited' store concept starting in 2027",
-      "Long-term goal to refresh approximately two-thirds of the total store fleet",
-      "Physical retail investment signals confidence in brick-and-mortar for beauty retail"
+      "AI 에이전트와 인간 판단력의 결합이 마케팅 워크플로 혁신의 핵심",
+      "자동화 넘어 품질 관리·거버넌스 체계 구축이 필수",
+      "AI 에이전트를 '팀원'으로 정의하고 역할·책임 명확화 필요",
+      "MarTech 컨퍼런스에서 실무 적용 사례 중심 논의 진행"
     ],
     "tags": [
-      "retail-refresh",
-      "beauty-retail",
-      "store-concept",
-      "brick-and-mortar"
+      "ai-agents",
+      "marketing-workflow",
+      "human-ai-collaboration",
+      "governance",
+      "martech"
     ],
-    "confidence": 0.65,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "confidence": 0.7,
+    "strategic_theme": "AI_AGENT",
     "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Sally Beauty",
-      "Sally Ignited"
-    ],
-    "one_line_insight_ko": "Sally Beauty의 대규모 매장 리뉴얼은 뷰티 카테고리에서 오프라인 경험이 여전히 핵심 경쟁 무기임을 보여준다.",
-    "one_line_insight_en": "Sally Beauty's fleet-wide store refresh reaffirms that physical retail experience remains a key competitive lever in the beauty category.",
-    "ai_processed": true
-  },
-  {
-    "title": "Asics uses AI-powered drones to recover misplaced inventory 60% faster",
-    "link": "https://www.digitalcommerce360.com/2026/11/13/asics-uses-ai-powered-drones-to-recover-misplaced-inventory-60-faster/",
-    "date_published": "2026-11-13",
-    "description": "Asics America Corp. is using autonomous drones to find misplaced merchandise at its primary North American distribution center, a move the company says is helping it curb the risk of unfulfilled orders. The technology, developed by Corvus Robotics, is helping the sportswear brand recover misplaced inventory about 60% faster, according to a Nov. 10 announcement […]\nThe post Asics uses AI-powered drones to recover misplaced inventory 60% faster appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
-    "categories": [
-      "commerce",
-      "tech"
-    ],
-    "relevance_score": 0.75,
-    "relevance_label": "high",
-    "title_en": "Asics Deploys AI-Powered Drones to Recover Misplaced Inventory 60% Faster at North American Distribution Center",
-    "summary_ko": "Asics America는 Corvus Robotics가 개발한 자율 드론을 북미 주요 물류센터에 도입해 오배치 재고를 약 60% 더 빠르게 회수하고 있다. 이 기술은 미출고 주문 위험을 줄이고 공급망 효율을 높이는 데 기여하고 있다. 2026년 11월 10일 공식 발표를 통해 AI 기반 물류 자동화의 실질적 성과가 확인되었다.",
-    "summary_en": "Asics America has deployed autonomous AI-powered drones developed by Corvus Robotics at its primary North American distribution center to locate misplaced inventory. The technology enables the company to recover misplaced merchandise approximately 60% faster, reducing the risk of unfulfilled orders. The deployment was officially announced on November 10, highlighting tangible results from AI-driven warehouse automation.",
-    "so_what_ko": "AI 드론 기반 재고 관리 기술은 D2C 풀필먼트 운영의 정확도와 속도를 획기적으로 개선할 수 있으므로, LG D2C 물류센터 자동화 전략에 적용 가능성을 검토해야 한다.",
-    "so_what_en": "AI-powered drone inventory management offers a proven model to dramatically improve D2C fulfillment accuracy and speed, making it a compelling technology for LG to evaluate in its own distribution operations.",
-    "key_points": [
-      "Asics uses Corvus Robotics autonomous drones to locate misplaced inventory in its North American distribution center",
-      "Misplaced inventory recovery is 60% faster with the AI drone system",
-      "The technology directly reduces the risk of unfulfilled customer orders",
-      "Demonstrates measurable ROI from AI-powered warehouse automation in a real D2C supply chain context"
-    ],
-    "tags": [
-      "ai-drones",
-      "inventory-management",
-      "warehouse-automation",
-      "supply-chain",
-      "fulfillment"
-    ],
-    "confidence": 0.85,
-    "strategic_theme": "AI_COMMERCE",
-    "regions": [
-      "AMER"
+      "GLOBAL"
     ],
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Asics America",
-      "Corvus Robotics"
+      "MarTech Conference"
     ],
-    "one_line_insight_ko": "AI 드론이 물류센터 재고 회수 속도를 60% 향상시켜 미출고 리스크를 줄이는 실증 사례로, D2C 풀필먼트 자동화의 새로운 기준을 제시한다.",
-    "one_line_insight_en": "Asics's 60% faster inventory recovery via AI drones sets a new benchmark for D2C fulfillment automation and demonstrates clear ROI from autonomous warehouse technology.",
+    "one_line_insight_ko": "AI 에이전트를 팀원으로 통합하려면 효율성뿐 아니라 거버넌스와 품질 관리 체계가 함께 설계되어야 한다.",
+    "one_line_insight_en": "Integrating AI agents as teammates requires designing governance and quality control systems alongside efficiency gains.",
     "ai_processed": true
   },
   {
-    "title": "GrubMarket launches AI Agent to turn invoices into purchase orders",
-    "link": "https://www.digitalcommerce360.com/2026/11/13/grubmarket-ai-agent/",
+    "title": "Relevance has an expiration date",
+    "link": "https://martech.org/relevance-has-an-expiration-date/",
     "date_published": "2026-11-13",
-    "description": "GrubMarket, a South San Francisco, California-based software-as-a-service (SAAS) company working with food producers, wholesalers, distributors and retailers, is expanding its use of artificial intelligence (AI) with a new AI agent. The company designed its new AI agent to turn vendor invoices and receipts into purchase orders for food distributors. The tool, called the “AI Orders […]\nThe post GrubMarket launches AI Agent to turn invoices into purchase orders appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
-    "categories": [
-      "commerce",
-      "agentic_commerce",
-      "tech"
-    ],
-    "relevance_score": 0.8,
-    "relevance_label": "high",
-    "title_en": "GrubMarket Launches AI Agent to Automatically Convert Vendor Invoices into Purchase Orders",
-    "summary_ko": "GrubMarket은 식품 유통업체를 위해 공급업체 인보이스와 영수증을 자동으로 구매 주문서로 변환하는 AI 에이전트 'AI Orders'를 출시했다. 캘리포니아 사우스샌프란시스코에 본사를 둔 이 SaaS 기업은 식품 생산자, 도매업체, 유통업체, 소매업체를 대상으로 서비스를 제공한다. 이번 AI 에이전트 도입은 B2B 식품 공급망의 행정 업무 자동화를 통해 운영 효율을 높이는 것을 목표로 한다.",
-    "summary_en": "GrubMarket, a SaaS company serving food producers, wholesalers, distributors, and retailers, has launched an AI agent called 'AI Orders' that automatically converts vendor invoices and receipts into purchase orders. The tool is designed specifically to streamline procurement workflows for food distributors by eliminating manual data entry. This expansion into agentic AI reflects GrubMarket's broader strategy to automate B2B supply chain operations.",
-    "so_what_ko": "AI 에이전트를 활용한 인보이스-구매주문 자동 변환 사례는 LG D2C의 공급망 및 조달 프로세스 자동화에 적용 가능한 아젠틱 AI의 실질적 활용 모델을 제공한다.",
-    "so_what_en": "GrubMarket's invoice-to-PO AI agent offers a practical agentic AI model that LG D2C can reference for automating procurement and supply chain documentation workflows.",
-    "key_points": [
-      "GrubMarket launched 'AI Orders', an AI agent that converts vendor invoices and receipts into purchase orders automatically",
-      "The tool targets food distributors to eliminate manual procurement data entry",
-      "Represents a practical application of agentic AI in B2B supply chain operations",
-      "GrubMarket serves food producers, wholesalers, distributors, and retailers as a SaaS platform"
-    ],
-    "tags": [
-      "ai-agent",
-      "agentic-commerce",
-      "supply-chain-automation",
-      "b2b-ai",
-      "procurement"
-    ],
-    "confidence": 0.85,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "GrubMarket",
-      "AI Orders"
-    ],
-    "one_line_insight_ko": "GrubMarket의 AI 에이전트는 B2B 조달 문서 처리를 완전 자동화함으로써 아젠틱 AI가 공급망 운영에 가져올 수 있는 실질적 가치를 보여준다.",
-    "one_line_insight_en": "GrubMarket's AI agent demonstrates how agentic AI can fully automate B2B procurement documentation, delivering immediate operational efficiency gains across the supply chain.",
-    "ai_processed": true
-  },
-  {
-    "title": "AI influencers: What consumer sentiment data tells brands",
-    "link": "https://blog.hubspot.com/marketing/ai-influencers",
-    "date_published": "2026-11-13",
-    "description": "As you scroll through your TikTok or Instagram feed, you’ll no doubt come across at least a handful of influencers trying to sell you something by wearing the latest viral lip gloss, hopping into luxury cars, and taste-testing popular treats. But what if I told you that while these content creators may look like real people, they’re actually AI influencers?",
-    "source_id": "hubspot_marketing",
-    "source_name": "HubSpot Marketing Blog",
-    "source_url": "https://blog.hubspot.com/marketing/rss.xml",
+    "description": "Old signals can keep campaigns moving long after the customer has moved on. Better personalization starts with asking what matters now.\nThe post Relevance has an expiration date appeared first on MarTech.",
+    "source_id": "martech_org",
+    "source_name": "MarTech.org",
+    "source_url": "https://martech.org/feed",
     "categories": [
       "ai_marketing",
       "marketing"
     ],
     "relevance_score": 0.82,
     "relevance_label": "high",
-    "title_en": "AI Influencers: What Consumer Sentiment Data Reveals for Brands",
-    "summary_ko": "TikTok과 인스타그램 피드에 실제 사람처럼 보이지만 AI로 만들어진 인플루언서들이 증가하고 있으며, 소비자 감정 데이터는 브랜드들이 이를 어떻게 활용해야 하는지에 대한 인사이트를 제공한다. AI 인플루언서는 24시간 콘텐츠 생산, 스캔들 리스크 최소화 등의 장점을 갖는 반면, 소비자 신뢰 및 진정성 문제라는 도전과제도 존재한다. 브랜드들은 AI 인플루언서 도입 전 소비자 감정 데이터를 면밀히 분석해 타깃 오디언스의 수용도를 파악해야 한다.",
-    "summary_en": "AI influencers are increasingly appearing on platforms like TikTok and Instagram, mimicking the appearance and behavior of real human content creators. Consumer sentiment data provides brands with critical insights into how audiences perceive and respond to AI-generated influencer content. Brands must carefully evaluate consumer acceptance levels before integrating AI influencers into their marketing strategies.",
-    "so_what_ko": "LG D2C는 AI 인플루언서 도입 시 소비자 신뢰도와 브랜드 진정성을 최우선으로 고려하고, 파일럿 캠페인을 통해 타깃 오디언스의 반응을 사전 검증해야 한다.",
-    "so_what_en": "LG D2C should pilot AI influencer campaigns carefully, using consumer sentiment data to gauge audience acceptance before scaling, ensuring brand authenticity is not compromised.",
+    "title_en": "Relevance Has an Expiration Date: Why Stale Signals Undermine Personalization",
+    "summary_ko": "과거 행동 데이터에 기반한 오래된 신호가 캠페인을 계속 움직이지만, 고객은 이미 다른 니즈와 맥락으로 이동해 있어 개인화의 적시성이 핵심 과제로 부각된다. 진정한 개인화는 과거 패턴이 아닌 '지금 무엇이 중요한가'라는 현재 맥락 질문에서 시작된다. 신호의 신선도를 관리하지 않으면 캠페인은 겉보기에 작동하지만 실제로는 고객과 멀어지는 역효과를 낳는다.",
+    "summary_en": "Outdated behavioral signals continue to drive campaigns long after customers have moved on to new needs and contexts, making signal freshness a critical personalization challenge. True personalization must start by asking what matters to the customer right now, rather than relying on historical patterns. Without active management of signal recency, campaigns can appear functional while actually diverging from real customer intent.",
+    "so_what_ko": "LG D2C는 개인화 엔진에 사용되는 고객 신호의 유효 기간을 정의하고, 최신 맥락 데이터를 우선시하는 신호 갱신 체계를 구축하여 개인화의 실질적 적중률을 높여야 한다.",
+    "so_what_en": "LG D2C should define expiration windows for customer signals used in personalization engines and prioritize real-time contextual data to ensure campaigns reflect current customer intent rather than outdated behavior.",
     "key_points": [
-      "AI 인플루언서가 소셜 미디어 플랫폼에서 빠르게 확산 중이며 브랜드 마케팅 채널로 부상",
-      "소비자 감정 데이터를 활용한 AI 인플루언서 전략 수립이 중요",
-      "진정성 및 소비자 신뢰 문제가 AI 인플루언서 활용의 핵심 도전 과제"
+      "오래된 행동 신호가 캠페인을 구동하지만 고객 현실과 괴리 발생",
+      "개인화 품질은 신호의 최신성(recency)에 직접적으로 연동",
+      "현재 맥락 중심의 개인화 접근법으로 전환 필요"
     ],
     "tags": [
-      "ai-influencer",
-      "consumer-sentiment",
-      "social-media-marketing",
-      "brand-strategy",
-      "content-creator"
+      "personalization",
+      "signal-freshness",
+      "customer-data",
+      "campaign-optimization",
+      "ai-marketing"
     ],
     "confidence": 0.7,
-    "strategic_theme": "AI_MARKETING",
+    "strategic_theme": "AI_PERSONALIZATION",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "TikTok",
-      "Instagram",
-      "HubSpot"
+      "MarTech.org"
     ],
-    "one_line_insight_ko": "AI 인플루언서의 부상은 브랜드에게 비용 효율적 마케팅 기회를 제공하지만, 소비자 신뢰 확보가 성공의 관건이다.",
-    "one_line_insight_en": "AI influencers offer cost-efficient marketing potential, but winning consumer trust remains the decisive factor for brand success.",
+    "one_line_insight_ko": "개인화의 실효성은 데이터의 양이 아니라 신호의 신선도에 달려 있으며, 오래된 데이터는 오히려 고객 이탈을 가속화할 수 있다.",
+    "one_line_insight_en": "Personalization effectiveness depends on signal freshness, not data volume—stale signals can actively drive customers away rather than retain them.",
     "ai_processed": true
   },
   {
-    "title": "Twitch debuts shoppable, skippable ads as TwitchCon feels growing pains",
-    "link": "https://www.marketingdive.com/news/twitch-debuts-shoppable-skippable-ads-as-twitchcon-feels-growing-pains/874614/",
-    "date_published": "2026-11-13",
-    "description": "A pair of new ad products unveiled around the gathering are meant to shore up the livestreaming service’s ability to meet full-funnel marketing needs.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "date_published": "2026-11-14",
+    "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
     "categories": [
-      "ai_marketing",
-      "commerce"
-    ],
-    "relevance_score": 0.68,
-    "relevance_label": "high",
-    "title_en": "Twitch Launches Shoppable and Skippable Ads to Strengthen Full-Funnel Marketing Capabilities",
-    "summary_ko": "Twitch는 TwitchCon을 계기로 쇼퍼블 광고와 스킵 가능 광고 두 가지 신규 광고 상품을 선보이며 풀펀넬 마케팅 역량 강화에 나섰다. 이번 신규 광고 포맷은 라이브스트리밍 플랫폼으로서 Twitch의 광고 수익화 및 브랜드 파트너십 경쟁력을 높이기 위한 전략적 행보다. 그러나 TwitchCon 행사 자체는 성장통을 겪고 있다고 보도되어, 플랫폼의 장기적 성장 방향에 대한 의문도 제기된다.",
-    "summary_en": "Twitch unveiled two new ad products—shoppable ads and skippable ads—at TwitchCon to bolster its full-funnel marketing capabilities for brand partners. These formats are designed to make the livestreaming platform more competitive in the digital advertising landscape by linking entertainment with commerce. However, TwitchCon itself is reportedly experiencing growing pains, raising questions about the platform's broader trajectory.",
-    "so_what_ko": "LG D2C는 Twitch의 쇼퍼블 광고 포맷을 게이밍·테크 타깃 캠페인에 시범 적용해 라이브스트리밍 커머스 채널로서의 가능성을 탐색할 수 있다.",
-    "so_what_en": "LG D2C could explore Twitch's new shoppable ad formats as a pilot channel to reach gaming and tech-savvy audiences, testing livestreaming commerce as an emerging D2C touchpoint.",
-    "key_points": [
-      "Twitch, 쇼퍼블 광고와 스킵 가능 광고 두 가지 신규 광고 상품 출시",
-      "라이브스트리밍 플랫폼의 풀펀넬 마케팅 역량 강화 목적",
-      "TwitchCon 행사는 성장통을 겪고 있어 플랫폼 성장 지속성에 의문"
-    ],
-    "tags": [
-      "shoppable-ads",
-      "livestreaming",
-      "twitch",
-      "full-funnel-marketing",
-      "adtech"
-    ],
-    "confidence": 0.72,
-    "strategic_theme": "AI_COMMERCE",
-    "regions": [
-      "AMER",
-      "GLOBAL"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Twitch",
-      "TwitchCon",
-      "Amazon"
-    ],
-    "one_line_insight_ko": "Twitch의 쇼퍼블 광고 도입은 라이브스트리밍을 커머스 채널로 확장하려는 플랫폼의 전략적 전환을 보여준다.",
-    "one_line_insight_en": "Twitch's shoppable ad launch signals a strategic pivot to transform livestreaming into a viable commerce and full-funnel marketing channel.",
-    "ai_processed": true
-  },
-  {
-    "title": "The future of CTV lies in standardization",
-    "link": "https://digiday.com/sponsored/the-future-of-ctv-lies-in-standardization/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-11-13",
-    "description": "Jessica Cobbe, svp, product – supply platform, Nexxen For years, advertisers have focused primarily on in-stream video in CTV, treating the smart TV home screen as secondary real estate. But that dynamic is quickly changing, as this year’s NewFronts made clear. As viewers spend more time navigating content recommendations and streaming apps before pressing play, […]",
-    "source_id": "digiday",
-    "source_name": "Digiday",
-    "source_url": "https://digiday.com/feed",
-    "categories": [
-      "ai_marketing",
+      "tech",
       "strategy"
     ],
-    "relevance_score": 0.72,
+    "relevance_score": 0.6,
     "relevance_label": "high",
-    "title_en": "CTV's Future Hinges on Standardization as Smart TV Home Screens Gain Prime Ad Real Estate",
-    "summary_ko": "커넥티드 TV(CTV) 광고 시장에서 인스트림 비디오 중심에서 벗어나 스마트 TV 홈 화면이 중요한 광고 지면으로 급부상하고 있다. Nexxen의 Jessica Cobbe SVP는 NewFronts를 통해 뷰어들이 콘텐츠를 선택하는 탐색 단계에서 광고 노출 기회가 증가하고 있음을 강조했다. CTV 생태계의 지속적 성장을 위해서는 광고 표준화가 필수적이라고 전문가들은 지적하고 있다.",
-    "summary_en": "The CTV advertising landscape is shifting as smart TV home screens rapidly emerge as prime advertising real estate beyond traditional in-stream video. Nexxen's Jessica Cobbe highlighted at NewFronts that viewers spend significant time navigating content recommendations before pressing play, creating new ad exposure opportunities. Industry experts argue that standardization across the CTV ecosystem is essential for sustainable growth and advertiser confidence.",
-    "so_what_ko": "LG D2C는 LG TV의 홈 화면 광고 지면을 전략적 D2C 마케팅 채널로 적극 활용하고, CTV 광고 표준화 흐름에 맞춰 광고 인벤토리 전략을 재정비해야 한다.",
-    "so_what_en": "LG D2C should leverage LG smart TV home screen inventory as a strategic D2C marketing channel and align its CTV ad strategy with emerging standardization frameworks to maximize advertiser value.",
+    "title_en": "The AI Graveyard: A Running List of AI Projects and Startups That Failed or Fell Short",
+    "summary_ko": "TechCrunch가 애플의 반복적으로 지연된 Siri AI 업그레이드, OpenAI의 혼란스러운 슈퍼앱 출시 등 기대에 미치지 못하거나 종료된 AI 프로젝트들을 추적하는 목록을 운영하고 있다. 대형 테크 기업과 스타트업 모두 AI 분야에서 실패 사례를 쌓아가고 있으며, 이는 AI 과대광고와 실제 제품 실행 사이의 간극을 보여준다. AI 프로젝트 실패 패턴 분석은 성공적인 AI 도입을 위한 반면교사로 활용될 수 있다.",
+    "summary_en": "TechCrunch maintains a running list of AI projects and startups that have shut down or failed to meet expectations, including Apple's repeatedly delayed Siri AI upgrades and OpenAI's troubled super app launch. Both large tech companies and startups are accumulating AI failures, highlighting the persistent gap between AI hype and actual product execution. Analyzing patterns in AI project failures offers valuable lessons for organizations planning their own AI initiatives.",
+    "so_what_ko": "LG D2C는 AI 도입 시 과대 기대를 경계하고, 명확한 성공 지표와 단계적 검증 체계를 갖춘 실행 중심 접근법을 채택하여 'AI 그레이브야드'의 사례를 반복하지 않아야 한다.",
+    "so_what_en": "LG D2C should approach AI initiatives with realistic expectations, clear success metrics, and phased validation processes to avoid replicating the execution failures catalogued in the AI graveyard.",
     "key_points": [
-      "스마트 TV 홈 화면이 인스트림 비디오를 넘어 핵심 CTV 광고 지면으로 부상",
-      "뷰어의 콘텐츠 탐색 단계에서의 광고 노출 기회 증가",
-      "CTV 생태계 표준화가 광고주 신뢰 및 시장 성장의 핵심 과제로 대두"
+      "애플 Siri AI 지연, OpenAI 슈퍼앱 실패 등 대형 AI 프로젝트 실패 사례 증가",
+      "AI 과대광고와 실제 제품 실행 사이의 지속적인 간극 존재",
+      "스타트업과 대기업 모두 AI 실패에서 자유롭지 않음",
+      "실패 패턴 분석을 통한 AI 도입 리스크 관리 중요성 부각"
     ],
     "tags": [
-      "ctv",
-      "smart-tv",
-      "adtech",
-      "standardization",
-      "streaming-advertising"
-    ],
-    "confidence": 0.68,
-    "strategic_theme": "PLATFORM_ECOSYSTEM",
-    "regions": [
-      "GLOBAL",
-      "AMER"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Nexxen",
-      "NewFronts",
-      "Jessica Cobbe"
-    ],
-    "one_line_insight_ko": "CTV 광고의 무게 중심이 홈 화면으로 이동하면서, LG TV 홈 화면은 D2C 마케팅의 전략적 핵심 자산이 될 수 있다.",
-    "one_line_insight_en": "As CTV ad gravity shifts to the home screen, LG's smart TV home screen becomes a strategically vital D2C marketing asset.",
-    "ai_processed": true
-  },
-  {
-    "title": "Big Box Briefing: How Target’s and Walmart’s beauty department makeovers are reshaping brand strategies",
-    "link": "https://www.modernretail.co/operations/big-box-briefing-how-targets-and-walmarts-beauty-department-makeovers-are-reshaping-brand-strategies/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "date_published": "2026-11-13",
-    "description": "As mass-market heavyweights Target and Walmart overhaul their beauty and wellness aisles to rival specialty powerhouses — and each other — large consumer packaged goods companies and independent labels are updating their retail playbooks. Specifically, they’re elevating their look and feel, reallocating their media spending, and rethinking their distribution strategies to best align with retail partners’ directions.",
-    "source_id": "modern_retail",
-    "source_name": "Modern Retail",
-    "source_url": "https://www.modernretail.co/feed/",
-    "categories": [
-      "commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.55,
-    "relevance_label": "high",
-    "title_en": "Target and Walmart Beauty Department Overhauls Force Brands to Rethink Retail Strategies",
-    "summary_ko": "Target과 Walmart가 뷰티·웰니스 코너를 대규모 리뉴얼하며 세포라, 울타 등 전문 뷰티 리테일러와 경쟁 구도를 형성하고 있다. 이에 대형 CPG 기업과 인디 브랜드 모두 매장 외관 개선, 미디어 예산 재배분, 유통 전략 재검토 등 리테일 플레이북을 전면 수정하고 있다. 대형 마트의 뷰티 카테고리 고급화 전략이 브랜드들의 D2C 및 리테일 파트너 전략에 근본적인 변화를 촉발하고 있다.",
-    "summary_en": "Target and Walmart are overhauling their beauty and wellness departments to rival specialty retailers, fundamentally reshaping the mass-market retail landscape. Both large CPG companies and independent brands are responding by elevating in-store presentation, reallocating media budgets, and rethinking distribution strategies. This big-box beauty transformation is forcing brands to realign their retail partnerships and D2C approaches to stay competitive.",
-    "so_what_ko": "LG D2C는 대형 리테일러의 카테고리 고급화 추세를 주시하고, 프리미엄 가전 브랜드로서 차별화된 인스토어 경험과 D2C 채널 강화를 병행해야 한다.",
-    "so_what_en": "LG D2C should monitor the premiumization trend in mass retail and strengthen both in-store brand presence and direct D2C channels to differentiate in an increasingly competitive retail environment.",
-    "key_points": [
-      "Target과 Walmart의 뷰티 코너 대규모 리뉴얼로 전문 뷰티 리테일러와 경쟁 심화",
-      "브랜드들이 매장 비주얼, 미디어 예산, 유통 전략을 전면 재검토 중",
-      "대형 마트의 고급화 전략이 CPG 및 인디 브랜드의 리테일 플레이북 변화 촉발"
-    ],
-    "tags": [
-      "retail-strategy",
-      "d2c",
-      "beauty-retail",
-      "big-box-retail",
-      "brand-strategy"
+      "ai-failures",
+      "startup-graveyard",
+      "apple-siri",
+      "openai",
+      "ai-risk"
     ],
     "confidence": 0.75,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Target",
-      "Walmart",
-      "Sephora",
-      "Ulta"
-    ],
-    "one_line_insight_ko": "대형 마트의 뷰티 카테고리 고급화는 모든 소비재 브랜드에게 리테일 파트너 전략과 D2C 채널 재정립을 요구하는 구조적 변화다.",
-    "one_line_insight_en": "Mass retailers' beauty premiumization is a structural shift demanding that all consumer brands reassess their retail partnerships and D2C channel strategies.",
-    "ai_processed": true
-  },
-  {
-    "title": "[AINews] The No AI Slop Manifesto",
-    "link": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
-    "date_published": "2026-11-14",
-    "description": "November 13, 2026 — AIE speakers unite to lay out how to fight slop.",
-    "source_id": "latent_space",
-    "source_name": "Latent Space (The AI Index)",
-    "source_url": "https://www.latent.space/feed",
-    "categories": [
-      "ai_marketing",
-      "tech"
-    ],
-    "relevance_score": 0.52,
-    "relevance_label": "high",
-    "title_en": "AINews: The 'No AI Slop' Manifesto — AI Engineers Unite Against Low-Quality AI Content",
-    "summary_ko": "2026년 11월, AI 엔지니어링 커뮤니티의 연사들이 'No AI Slop(AI 쓰레기 콘텐츠 반대)' 선언문을 발표하며 저품질 AI 생성 콘텐츠에 대한 반발 움직임을 조직화했다. 이 선언은 AI가 생성하는 대량의 저품질 콘텐츠가 정보 생태계와 브랜드 신뢰도를 위협한다는 우려에서 비롯되었다. AI 콘텐츠의 품질 기준 확립과 책임감 있는 AI 활용에 대한 업계 차원의 논의가 본격화되고 있다.",
-    "summary_en": "AI engineering speakers united to publish the 'No AI Slop Manifesto' in November 2026, organizing resistance against the proliferation of low-quality AI-generated content. The movement reflects growing concern within the AI community that mass-produced AI content threatens information quality and brand credibility. The manifesto signals an emerging industry push to establish quality standards and responsible practices for AI-generated content.",
-    "so_what_ko": "LG D2C는 AI 생성 콘텐츠 활용 시 명확한 품질 기준과 검수 프로세스를 수립해 브랜드 신뢰도를 보호해야 한다.",
-    "so_what_en": "LG D2C must establish clear quality standards and human review processes for AI-generated content to protect brand credibility amid growing backlash against low-quality AI output.",
-    "key_points": [
-      "AI 엔지니어 커뮤니티가 저품질 AI 생성 콘텐츠('AI Slop')에 반대하는 선언문 발표",
-      "대량 AI 콘텐츠 생산이 정보 생태계와 브랜드 신뢰도에 미치는 부정적 영향에 대한 우려 확산",
-      "AI 콘텐츠 품질 기준 및 책임 있는 AI 활용에 관한 업계 논의 본격화"
-    ],
-    "tags": [
-      "ai-content-quality",
-      "ai-slop",
-      "responsible-ai",
-      "content-strategy",
-      "brand-trust"
-    ],
-    "confidence": 0.55,
-    "strategic_theme": "AI_MARKETING",
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
     "regions": [
       "GLOBAL"
     ],
     "business_impact": "MEDIUM",
-    "sentiment": "THREAT",
-    "key_entities": [
-      "Latent Space",
-      "AINews"
-    ],
-    "one_line_insight_ko": "AI 콘텐츠 품질에 대한 업계 반발이 거세지면서, 브랜드들은 AI 생성 콘텐츠의 품질 관리를 핵심 리스크로 인식해야 한다.",
-    "one_line_insight_en": "Growing industry backlash against AI-generated 'slop' means brands must treat AI content quality control as a core risk management priority.",
-    "ai_processed": true
-  },
-  {
-    "title": "Family Dollar will pay $63M to settle unfair-pricing claims from state, federal regulators",
-    "link": "https://www.retaildive.com/news/family-dollar-63-million-settlement-unfair-pricing-claims-ftc/874605/",
-    "date_published": "2026-11-13",
-    "description": "The discounter said it’s cooperating and “focused on strengthening pricing accuracy across our stores and maintaining our customers' trust.”",
-    "source_id": "retail_dive",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/feeds/news/",
-    "categories": [
-      "commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.3,
-    "relevance_label": "high",
-    "title_en": "Family Dollar to Pay $63M Settlement Over Unfair Pricing Practices",
-    "summary_ko": "Family Dollar는 불공정 가격 책정 관행으로 인해 주정부 및 연방 규제 기관과의 합의금으로 6,300만 달러를 지불하기로 했다. 이번 합의는 FTC 등 규제 기관의 조사 결과로 이루어졌으며, 회사는 협력 의사를 밝히고 가격 정확성 강화에 집중하겠다고 밝혔다. 소비자 신뢰 회복을 위한 운영 개선이 주요 과제로 부상했다.",
-    "summary_en": "Family Dollar agreed to a $63 million settlement to resolve unfair-pricing claims brought by state and federal regulators including the FTC. The discounter stated it is cooperating with authorities and is focused on strengthening pricing accuracy across its store network. The case highlights the growing regulatory scrutiny on retail pricing practices and consumer trust.",
-    "so_what_ko": "D2C 브랜드는 가격 정확성과 투명성을 높이기 위한 내부 프로세스 점검이 필요하며, 규제 리스크를 사전에 관리하는 컴플라이언스 체계 구축이 중요하다.",
-    "so_what_en": "D2C brands should audit their pricing processes to ensure accuracy and transparency, proactively building compliance frameworks to mitigate regulatory risk.",
-    "key_points": [
-      "Family Dollar는 불공정 가격 책정 혐의로 $6,300만 합의금 지불 합의",
-      "FTC 및 주정부 규제 기관이 조사에 참여한 대규모 규제 조치",
-      "회사는 가격 정확성 강화 및 고객 신뢰 회복에 집중하겠다고 발표"
-    ],
-    "tags": [
-      "retail-compliance",
-      "pricing-accuracy",
-      "ftc-regulation",
-      "consumer-trust"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "Family Dollar",
-      "FTC"
+      "Apple",
+      "Siri",
+      "OpenAI",
+      "TechCrunch"
     ],
-    "one_line_insight_ko": "유통 업체의 가격 정확성 실패는 대규모 규제 제재로 이어질 수 있으며, D2C 브랜드도 가격 투명성 강화가 필수적이다.",
-    "one_line_insight_en": "Retail pricing inaccuracies can trigger major regulatory penalties, underscoring the need for D2C brands to prioritize pricing transparency and compliance.",
+    "one_line_insight_ko": "AI 프로젝트 실패는 대기업도 예외가 아니며, 과대 기대보다 실행 역량과 단계적 검증이 성패를 가른다.",
+    "one_line_insight_en": "No company is immune to AI project failure—execution capability and phased validation matter far more than ambitious announcements.",
     "ai_processed": true
   },
   {
-    "title": "How Growing E-Commerce Brands Pay International Contractors Without Triggering Compliance Risk",
-    "link": "https://www.digitalcommerce360.com/2026/11/13/how-growing-e-commerce-brands-pay-international-contractors-without-triggering-compliance-risk/",
+    "title": "Introducing ChatGPT Wallet",
+    "link": "https://openai.com/index/introducing-chatgpt-wallet",
     "date_published": "2026-11-13",
-    "description": "Sponsor content is created on behalf of and in collaboration with Bazoom by DigitalCommerce360. Our editorial staff is not involved in the creation of the sponsored content. A growing e-commerce brand rarely runs on a single payroll. Behind the storefront there is usually a designer in Lisbon, a developer in Bangalore, a product photographer in […]\nThe post How Growing E-Commerce Brands Pay International Contractors Without Triggering Compliance Risk appeared first on Digital Commerce 360.",
-    "source_id": "digital_commerce_360",
-    "source_name": "Digital Commerce 360",
-    "source_url": "https://www.digitalcommerce360.com/feed",
-    "categories": [
-      "commerce",
-      "strategy"
-    ],
-    "relevance_score": 0.35,
-    "relevance_label": "high",
-    "title_en": "How Fast-Growing E-Commerce Brands Can Pay International Contractors While Avoiding Compliance Risk",
-    "summary_ko": "성장 중인 이커머스 브랜드들은 리스본의 디자이너, 뱅갈로르의 개발자 등 다양한 국가의 계약직 인력을 활용하고 있으나, 국제 급여 지급 시 발생하는 컴플라이언스 리스크가 주요 도전 과제로 떠올랐다. 본 기사는 국제 계약직 지급 관련 규정 준수 방법과 리스크 최소화 전략을 다루고 있다. 글로벌 운영 확장에 따른 인력 관리 복잡성 해소가 핵심 주제다.",
-    "summary_en": "Growing e-commerce brands typically operate with international contractor workforces spanning multiple countries, creating significant compliance challenges around cross-border payments. This sponsored content explores strategies for managing international contractor payments while minimizing legal and regulatory risk. As global D2C operations expand, navigating payroll compliance across jurisdictions becomes increasingly critical.",
-    "so_what_ko": "글로벌 D2C 운영 확장 시 국제 계약직 인력의 급여 지급 컴플라이언스 체계를 사전에 구축해야 하며, 적절한 글로벌 페이롤 솔루션 도입을 검토해야 한다.",
-    "so_what_en": "As LG D2C expands globally, establishing a robust international contractor payment compliance framework and evaluating global payroll solutions should be a priority.",
-    "key_points": [
-      "이커머스 브랜드의 글로벌 계약직 인력 활용이 보편화됨",
-      "국제 급여 지급 시 국가별 세무·노무 컴플라이언스 리스크 존재",
-      "스폰서 콘텐츠로 Bazoom과 Digital Commerce 360 협업 제작"
-    ],
-    "tags": [
-      "global-payroll",
-      "contractor-compliance",
-      "ecommerce-operations",
-      "cross-border-payments"
-    ],
-    "confidence": 0.5,
-    "strategic_theme": "PLATFORM_ECOSYSTEM",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Digital Commerce 360",
-      "Bazoom"
-    ],
-    "one_line_insight_ko": "글로벌 이커머스 브랜드의 국제 인력 운영 확대는 반드시 체계적인 급여 컴플라이언스 솔루션 도입과 병행되어야 한다.",
-    "one_line_insight_en": "Scaling a global e-commerce workforce demands a proactive and systematic approach to international contractor payment compliance.",
-    "ai_processed": true
-  },
-  {
-    "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-    "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-    "date_published": "2026-11-13",
-    "description": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-    "source_id": "techcrunch_commerce",
-    "source_name": "TechCrunch Commerce",
-    "source_url": "https://techcrunch.com/category/commerce/feed",
+    "description": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
     "categories": [
       "commerce",
       "agentic_commerce",
       "tech"
     ],
-    "relevance_score": 1,
+    "relevance_score": 0.97,
     "relevance_label": "high",
-    "title_en": "ChatGPT Launches Wallet Feature Enabling AI Agents to Shop and Check Out on Users' Behalf",
-    "summary_ko": "OpenAI의 ChatGPT가 AI 에이전트가 사용자를 대신해 쇼핑하고 결제까지 완료할 수 있는 'ChatGPT Wallet' 기능을 출시했다. 이 기능은 미국 Pro 구독자를 대상으로 제한적으로 먼저 출시되며, AI가 실제 커머스 거래를 자율적으로 수행하는 에이전틱 커머스의 본격화를 알린다. 이는 소비자의 구매 여정을 근본적으로 변화시킬 수 있는 중요한 전환점으로 평가된다.",
-    "summary_en": "OpenAI has introduced ChatGPT Wallet, a new feature that enables AI agents to autonomously shop and complete checkouts on behalf of users. The feature is launching initially as a limited rollout for U.S. Pro subscribers, marking a significant step toward agentic commerce. This development signals a fundamental shift in how consumers may interact with online retail, with AI handling end-to-end purchase transactions.",
-    "so_what_ko": "AI 에이전트가 직접 구매를 완료하는 에이전틱 커머스 시대가 도래함에 따라, LG D2C는 AI 에이전트 친화적인 제품 정보 구조와 결제 연동 체계를 선제적으로 구축해야 한다.",
-    "so_what_en": "With agentic commerce becoming a reality, LG D2C must proactively build AI agent-friendly product data structures and seamless payment integrations to remain competitive in AI-driven shopping journeys.",
+    "title_en": "OpenAI Introduces ChatGPT Wallet for Secure In-Agent Purchases",
+    "summary_ko": "OpenAI가 ChatGPT Work, Codex, dots 환경의 에이전트가 사용자 승인 하에 구매를 완료할 수 있도록 지원하는 'ChatGPT Wallet'을 출시했다. 이 지갑은 기존 카드 보호 기능과 연동되어 보안성을 확보하며, AI 에이전트가 커머스 트랜잭션을 직접 처리하는 에이전틱 커머스의 실질적 인프라를 제공한다. ChatGPT Wallet은 AI 에이전트가 단순 추천을 넘어 실제 구매 행위까지 수행하는 새로운 커머스 패러다임의 시작을 알린다.",
+    "summary_en": "OpenAI has launched ChatGPT Wallet, enabling AI agents within ChatGPT Work, Codex, and dots to complete purchases on behalf of users with explicit user approval and existing card protections. The wallet provides the transactional infrastructure for agentic commerce, where AI agents move beyond recommendations to execute actual purchases. This marks a significant step toward a new commerce paradigm in which AI agents act as autonomous purchasing intermediaries.",
+    "so_what_ko": "ChatGPT Wallet은 AI 에이전트가 직접 구매를 실행하는 에이전틱 커머스 시대의 개막을 의미하며, LG D2C는 ChatGPT 에이전트가 LG 제품을 발견하고 구매할 수 있도록 제품 데이터, 가격 정보, API 연동 체계를 선제적으로 준비해야 한다.",
+    "so_what_en": "ChatGPT Wallet signals the arrival of agentic commerce at scale; LG D2C must proactively ensure LG products are discoverable and purchasable by ChatGPT agents by optimizing product data, pricing feeds, and API integrations.",
     "key_points": [
-      "ChatGPT Wallet이 AI 에이전트의 자율적 쇼핑·결제 기능을 도입",
-      "미국 Pro 구독자 대상 제한 출시 후 단계적 확대 예정",
-      "에이전틱 커머스의 상용화로 소비자 구매 여정의 패러다임 전환 가속화",
-      "OpenAI가 커머스 영역으로 본격 확장하며 기존 이커머스 플랫폼과의 경쟁 구도 형성"
+      "OpenAI, ChatGPT Work·Codex·dots 에이전트용 결제 지갑 'ChatGPT Wallet' 출시",
+      "사용자 승인 기반의 에이전트 구매 실행 및 기존 카드 보호 기능 연동",
+      "AI 에이전트가 추천을 넘어 실제 트랜잭션까지 처리하는 에이전틱 커머스 인프라 구현",
+      "D2C 브랜드의 에이전트 접근성 최적화가 새로운 경쟁 요소로 부상"
     ],
     "tags": [
-      "agentic-commerce",
       "chatgpt-wallet",
-      "ai-agents",
+      "agentic-commerce",
       "openai",
-      "autonomous-shopping"
+      "ai-payments",
+      "d2c-commerce"
     ],
-    "confidence": 0.85,
-    "strategic_theme": "AI_AGENT",
+    "confidence": 0.88,
+    "strategic_theme": "AI_COMMERCE",
     "regions": [
-      "AMER",
       "GLOBAL"
     ],
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
       "OpenAI",
-      "ChatGPT",
-      "ChatGPT Wallet"
+      "ChatGPT Wallet",
+      "ChatGPT Work",
+      "Codex",
+      "dots"
     ],
-    "one_line_insight_ko": "ChatGPT Wallet은 AI 에이전트가 소비자 구매를 자율 완료하는 에이전틱 커머스 시대의 개막을 알리며, D2C 브랜드의 AI 연동 전략이 시급해졌다.",
-    "one_line_insight_en": "ChatGPT Wallet marks the dawn of agentic commerce where AI agents autonomously complete purchases, making AI integration strategy an urgent priority for D2C brands.",
+    "one_line_insight_ko": "ChatGPT Wallet 출시로 AI 에이전트가 실제 구매를 대행하는 에이전틱 커머스 시대가 열렸으며, LG D2C는 에이전트 접근 가능한 제품 인프라 구축을 최우선 과제로 삼아야 한다.",
+    "one_line_insight_en": "ChatGPT Wallet opens the agentic commerce era where AI agents execute real purchases, making agent-accessible product infrastructure a top priority for LG D2C.",
     "ai_processed": true
   },
   {
-    "title": "AI-derived audience insights hurt results: What the numbers say",
-    "link": "https://www.marketingdive.com/news/ai-derived-audience-insights-hurt-results-what-the-numbers-say/874565/",
+    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+    "link": "https://openai.com/business/customer-stories/shield",
     "date_published": "2026-11-13",
-    "description": "Over 80% of industry leaders have experienced at least one negative business outcome due to inaccurate AI outputs, per a recent report.",
+    "description": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "categories": [
+      "tech",
+      "agentic_commerce"
+    ],
+    "relevance_score": 0.62,
+    "relevance_label": "high",
+    "title_en": "Shield Uses OpenAI Forge Agents to Automate Legacy Portal Work for IT Technicians",
+    "summary_ko": "Shield는 OpenAI를 활용해 IT 기술자들이 레거시 포털에서 반복적인 작업을 AI 에이전트에게 위임할 수 있도록 지원한다. Forge 에이전트가 복잡한 레거시 시스템을 탐색하며 작업을 처리함으로써, 기술자들은 판단력이 필요한 고부가가치 업무에 집중할 수 있다. 이는 AI 에이전트가 기업 내 운영 효율화를 위한 실질적 도구로 자리잡고 있음을 보여주는 사례다.",
+    "summary_en": "Shield leverages OpenAI to enable IT technicians to hand off repetitive legacy portal tasks to AI-powered Forge agents. These agents autonomously navigate complex legacy systems, freeing technicians to focus on work requiring human judgment. The case illustrates how agentic AI is becoming a practical enterprise tool for operational efficiency.",
+    "so_what_ko": "LG D2C 조직은 레거시 운영 시스템의 반복 업무를 AI 에이전트로 자동화하여 인력을 고부가가치 고객 경험 업무에 재배치하는 전략을 검토할 수 있다.",
+    "so_what_en": "LG D2C teams should explore deploying agentic AI to automate repetitive back-office and legacy system tasks, reallocating human talent toward higher-value customer experience initiatives.",
+    "key_points": [
+      "Shield의 Forge 에이전트는 레거시 포털 내 작업을 자율적으로 수행하며 IT 기술자의 업무 부담을 경감",
+      "AI 에이전트 도입으로 기술자들이 판단력이 요구되는 복잡한 문제 해결에 집중 가능",
+      "OpenAI 기반 에이전틱 AI가 기업 운영 자동화의 실용적 솔루션으로 부상"
+    ],
+    "tags": [
+      "ai-agent",
+      "legacy-automation",
+      "openai",
+      "enterprise-ai",
+      "it-operations"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Shield",
+      "OpenAI",
+      "Forge"
+    ],
+    "one_line_insight_ko": "AI 에이전트가 레거시 시스템 운영 자동화를 통해 기업의 인적 자원을 고부가가치 업무로 전환시키는 실질적 수단으로 입증되고 있다.",
+    "one_line_insight_en": "Agentic AI is proving its enterprise value by automating legacy system operations and freeing human talent for higher-judgment work.",
+    "ai_processed": true
+  },
+  {
+    "title": "Monday, Nov. 9 Daily Cable News Ratings: Fox News and MS NOW Battle It Out",
+    "link": "https://www.adweek.com/tvnewser/monday-nov-9-2026-daily-cable-news-ratings/",
+    "date_published": "2026-11-13",
+    "description": "Primetime belonged to MS NOW and CNN programs.",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
+    "categories": [
+      "marketing"
+    ],
+    "relevance_score": 0.05,
+    "relevance_label": "high",
+    "title_en": "Monday Nov. 9 Cable News Ratings: MS NOW and Fox News Compete in Primetime",
+    "summary_ko": "2026년 11월 9일 월요일 케이블 뉴스 시청률에서 MS NOW와 Fox News가 경쟁하며 프라임타임을 나눠 가졌다. CNN 프로그램도 프라임타임 시간대에 존재감을 보였다. 본 기사는 AI 마케팅이나 커머스와 직접적인 관련성이 낮은 미디어 시청률 데이터를 다루고 있다.",
+    "summary_en": "The Monday, November 9, 2026 cable news ratings showed MS NOW and Fox News competing closely in primetime viewership. CNN programs also featured prominently in the primetime slot. The article covers routine media ratings data with no direct connection to AI marketing or commerce topics.",
+    "so_what_ko": "본 기사는 LG D2C 비즈니스와의 직접적 연관성이 낮으며, 미디어 채널별 시청자 규모 파악을 통한 광고 채널 전략 수립 시 참고 데이터로만 활용 가능하다.",
+    "so_what_en": "This article has minimal direct relevance to LG D2C strategy; it may only serve as background data for understanding cable news audience size when planning media channel advertising investments.",
+    "key_points": [
+      "MS NOW와 Fox News가 프라임타임 시청률 경쟁",
+      "CNN도 프라임타임 시간대에 유의미한 시청률 기록",
+      "AI 마케팅 또는 커머스와의 관련성 거의 없음 (관련성 점수 낮음)"
+    ],
+    "tags": [
+      "cable-news",
+      "media-ratings",
+      "tv-advertising",
+      "primetime"
+    ],
+    "confidence": 0.5,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Fox News",
+      "MS NOW",
+      "CNN",
+      "Adweek"
+    ],
+    "one_line_insight_ko": "케이블 뉴스 시청률 데이터는 AI 마케팅 및 D2C 전략과 직접적 연관성이 없어 활용 가치가 낮다.",
+    "one_line_insight_en": "Cable news ratings data holds negligible strategic relevance for AI marketing or D2C commerce initiatives.",
+    "ai_processed": true
+  },
+  {
+    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "date_published": "2026-11-13",
+    "description": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+    "source_id": "techcrunch_ai",
+    "source_name": "TechCrunch AI",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "categories": [
+      "tech",
+      "strategy"
+    ],
+    "relevance_score": 0.55,
+    "relevance_label": "high",
+    "title_en": "Jensen Huang's Departure from Nvidia Threatens AI Startup Funding and Valuations",
+    "summary_ko": "엔비디아 CEO 젠슨 황의 퇴임으로 AI 스타트업 생태계에 대규모 투자 공백이 발생할 것이라는 우려가 커지고 있다. 황 CEO 재임 시절 엔비디아는 수백억 달러를 AI 스타트업에 투자하며 생태계 성장을 견인했으나, 창업자와 VC들은 향후 투자 규모 축소와 밸류에이션 하락을 예상하고 있다. 이는 AI 기술 혁신의 속도와 스타트업 생존 환경에 중요한 변수로 작용할 전망이다.",
+    "summary_en": "Jensen Huang's departure from Nvidia is expected to create a significant funding gap in the AI startup ecosystem. Under Huang's leadership, Nvidia invested tens of billions of dollars in AI startups, fueling rapid ecosystem growth. Founders and venture capitalists now anticipate smaller investment checks and lower valuations going forward.",
+    "so_what_ko": "AI 스타트업 투자 환경의 변화는 LG D2C가 협력하거나 도입을 검토 중인 AI 솔루션 파트너들의 재무 안정성과 기술 개발 속도에 영향을 미칠 수 있으므로 파트너 리스크 평가가 필요하다.",
+    "so_what_en": "LG D2C should reassess the financial stability and development roadmaps of AI technology partners, as reduced startup funding could slow innovation and affect the viability of key vendors.",
+    "key_points": [
+      "젠슨 황 퇴임으로 엔비디아의 AI 스타트업 투자 전략에 대규모 변화 예상",
+      "창업자와 VC들은 투자 규모 축소 및 밸류에이션 하락을 우려",
+      "AI 기술 혁신 생태계 전반의 자금 조달 환경 악화 가능성 존재"
+    ],
+    "tags": [
+      "nvidia",
+      "ai-funding",
+      "venture-capital",
+      "ai-startup",
+      "jensen-huang"
+    ],
+    "confidence": 0.65,
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "regions": [
+      "GLOBAL",
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "THREAT",
+    "key_entities": [
+      "Nvidia",
+      "Jensen Huang"
+    ],
+    "one_line_insight_ko": "젠슨 황 퇴임은 AI 스타트업 투자 생태계에 구조적 공백을 만들어 AI 기술 혁신의 속도와 파트너 안정성에 영향을 줄 수 있다.",
+    "one_line_insight_en": "Jensen Huang's departure creates a structural funding gap in the AI startup ecosystem that could slow innovation and destabilize key technology partners.",
+    "ai_processed": true
+  },
+  {
+    "title": "Stripe awaits payoff on Tempo chain",
+    "link": "https://www.paymentsdive.com/news/stripe-awaits-payoff-on-tempo-chain/874618/",
+    "date_published": "2026-11-13",
+    "description": "The company sees its Tempo blockchain as a key digital infrastructure play for the growing use of stablecoin transactions.",
+    "source_id": "payments_dive",
+    "source_name": "Payments Dive",
+    "source_url": "https://www.paymentsdive.com/feeds/news/",
+    "categories": [
+      "commerce",
+      "tech"
+    ],
+    "relevance_score": 0.55,
+    "relevance_label": "high",
+    "title_en": "Stripe Bets on Tempo Blockchain as Infrastructure for Stablecoin Transactions",
+    "summary_ko": "Stripe는 자체 Tempo 블록체인을 스테이블코인 거래 확산을 위한 핵심 디지털 인프라로 포지셔닝하고 있다. 스테이블코인 사용이 늘어나는 시장 환경에서 Stripe는 Tempo 체인을 통해 결제 생태계 내 주도권을 확보하려는 전략을 추진 중이다. 이는 AI 기반 커머스 환경에서 결제 인프라의 디지털화가 가속화되고 있음을 보여준다.",
+    "summary_en": "Stripe is positioning its Tempo blockchain as critical digital infrastructure to support the growing use of stablecoin transactions. The company is pursuing a strategy to establish dominance within the payments ecosystem as stablecoin adoption accelerates. This move signals the broader digitization of payment infrastructure in the evolving AI commerce landscape.",
+    "so_what_ko": "스테이블코인 및 블록체인 기반 결제 인프라의 성장은 LG D2C의 글로벌 결제 전략에 새로운 옵션을 제공하며, 국경 간 거래 비용 절감과 결제 속도 향상 가능성을 검토할 필요가 있다.",
+    "so_what_en": "The rise of stablecoin and blockchain-based payment infrastructure presents LG D2C with potential opportunities to reduce cross-border transaction costs and improve payment speed in global markets.",
+    "key_points": [
+      "Stripe의 Tempo 블록체인은 스테이블코인 거래를 위한 핵심 인프라로 개발 중",
+      "스테이블코인 채택 증가에 따른 결제 생태계 주도권 경쟁 가속화",
+      "디지털 결제 인프라의 블록체인화가 글로벌 커머스에 새로운 가능성 제공"
+    ],
+    "tags": [
+      "stripe",
+      "blockchain",
+      "stablecoin",
+      "payments",
+      "digital-infrastructure"
+    ],
+    "confidence": 0.65,
+    "strategic_theme": "PLATFORM_ECOSYSTEM",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Stripe",
+      "Tempo"
+    ],
+    "one_line_insight_ko": "Stripe의 Tempo 블록체인은 스테이블코인 시대의 결제 인프라 주도권을 선점하려는 전략적 베팅으로, 글로벌 D2C 결제 환경의 변화를 예고한다.",
+    "one_line_insight_en": "Stripe's Tempo blockchain is a strategic bet to own the payment infrastructure layer for the stablecoin era, signaling a shift in global D2C payment dynamics.",
+    "ai_processed": true
+  },
+  {
+    "title": "AI Agent Vs. Chatbot: What’s The Best For Small Biz?",
+    "link": "https://www.salesforce.com/blog/small-business/ai-agent-vs-chatbot-for-growing-teams/",
+    "date_published": "2026-11-13",
+    "description": "One answers questions, the other gets work done — here's how to tell which one your small business needs.",
+    "source_id": "salesforce_agentforce",
+    "source_name": "Salesforce Agentforce Blog",
+    "source_url": "https://www.salesforce.com/blog/category/ai/feed/",
+    "categories": [
+      "agentic_commerce",
+      "commerce",
+      "ai_marketing"
+    ],
+    "relevance_score": 0.85,
+    "relevance_label": "high",
+    "title_en": "AI Agent vs. Chatbot: Salesforce Breaks Down Which Tool Small Businesses Actually Need",
+    "summary_ko": "Salesforce Agentforce 블로그는 AI 에이전트와 챗봇의 근본적 차이를 비교하며, 소규모 비즈니스가 성장 단계에 맞는 올바른 도구를 선택하도록 안내한다. 챗봇은 질문에 답변하는 반응형 도구인 반면, AI 에이전트는 자율적으로 작업을 완수하는 능동형 도구로 구분된다. 비즈니스의 자동화 필요 수준과 복잡성에 따라 적합한 솔루션이 달라진다는 점이 핵심 메시지다.",
+    "summary_en": "Salesforce's Agentforce blog clarifies the fundamental differences between AI agents and chatbots to help small businesses choose the right tool for their growth stage. Chatbots are reactive tools that answer questions, while AI agents proactively complete tasks autonomously. The appropriate solution depends on the business's automation needs and operational complexity.",
+    "so_what_ko": "LG D2C 조직은 고객 응대 자동화 도구 도입 시 단순 FAQ 처리 수준의 챗봇과 복잡한 작업을 자율 수행하는 AI 에이전트를 명확히 구분하여 사용 목적에 맞는 솔루션을 선택해야 한다.",
+    "so_what_en": "LG D2C should clearly distinguish between chatbots for simple FAQ handling and AI agents for autonomous complex task execution when evaluating customer engagement automation tools, selecting solutions aligned with specific use-case requirements.",
+    "key_points": [
+      "챗봇은 질문 응답형 반응 도구, AI 에이전트는 자율 작업 완수형 능동 도구로 명확히 구분",
+      "소규모 비즈니스의 성장 단계와 자동화 복잡성에 따라 적합한 도구 선택이 달라짐",
+      "Salesforce Agentforce는 AI 에이전트를 소규모 비즈니스에도 접근 가능한 솔루션으로 포지셔닝"
+    ],
+    "tags": [
+      "ai-agent",
+      "chatbot",
+      "salesforce",
+      "small-business",
+      "automation"
+    ],
+    "confidence": 0.8,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Salesforce",
+      "Agentforce"
+    ],
+    "one_line_insight_ko": "AI 에이전트와 챗봇의 명확한 구분은 D2C 조직이 고객 경험 자동화 전략을 수립할 때 올바른 기술 투자 방향을 결정하는 핵심 기준이 된다.",
+    "one_line_insight_en": "Understanding the clear distinction between AI agents and chatbots is essential for D2C organizations to make the right technology investment decisions in customer experience automation.",
+    "ai_processed": true
+  },
+  {
+    "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+    "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+    "date_published": "2026-11-12",
+    "description": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.”  Foster, a Democrat who serves on the Committee on…",
+    "source_id": "mit_tech_review_ai",
+    "source_name": "MIT Technology Review (AI)",
+    "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+    "categories": [
+      "tech",
+      "strategy"
+    ],
+    "relevance_score": 0.3,
+    "relevance_label": "high",
+    "title_en": "Nvidia Privately Confirmed Chip Tracking Is Feasible Despite Industry Group's Public Doubts",
+    "summary_ko": "엔비디아 대표들이 일리노이 하원의원 빌 포스터에게 칩 보안법에서 요구하는 반밀수 추적 조치가 기술적으로 가능하다고 비공개로 확인했다. 반면 업계 단체는 공개적으로 해당 조치가 '잠재적으로 실현 불가능하다'고 주장해 온 것으로 알려졌다. 이 같은 엔비디아의 비공개 입장과 업계의 공개 입장 간 괴리가 MIT 테크놀로지 리뷰와의 인터뷰를 통해 처음 드러났다.",
+    "summary_en": "Nvidia representatives privately told Illinois Representative Bill Foster that implementing chip-tracking anti-smuggling measures required by the Chip Security Act would be technically feasible. This contradicts the public stance of an industry group, which claimed such measures were 'potentially infeasible.' The discrepancy was revealed by Foster in an interview with MIT Technology Review.",
+    "so_what_ko": "AI 칩 공급망 통제 강화는 LG D2C의 AI 인프라 조달 비용 및 공급 안정성에 중장기적 영향을 미칠 수 있으므로, 반도체 공급망 리스크를 선제적으로 모니터링해야 한다.",
+    "so_what_en": "Tightening AI chip supply chain controls could affect LG D2C's AI infrastructure procurement costs and supply stability, warranting proactive monitoring of semiconductor supply chain risks.",
+    "key_points": [
+      "Nvidia privately confirmed chip tracking for anti-smuggling is technically feasible",
+      "Industry group publicly claimed such measures are 'potentially infeasible', contradicting Nvidia's private stance",
+      "The Chip Security Act is at the center of this debate over AI chip export controls",
+      "The discrepancy was disclosed by US Representative Bill Foster to MIT Technology Review"
+    ],
+    "tags": [
+      "chip-security",
+      "nvidia",
+      "export-controls",
+      "supply-chain",
+      "ai-infrastructure"
+    ],
+    "confidence": 0.75,
+    "strategic_theme": "EMERGING_TECH",
+    "regions": [
+      "GLOBAL",
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Nvidia",
+      "Bill Foster",
+      "Chip Security Act",
+      "MIT Technology Review"
+    ],
+    "one_line_insight_ko": "엔비디아의 비공개 입장과 업계의 공개 발언 간 괴리는 AI 칩 수출 통제 정책의 실현 가능성 논쟁을 가속화할 수 있다.",
+    "one_line_insight_en": "Nvidia's private acknowledgment that chip tracking is feasible directly undermines the industry's public resistance to the Chip Security Act.",
+    "ai_processed": true
+  },
+  {
+    "title": "Sociable: Meta’s AI ads included unapproved discounts",
+    "link": "https://www.marketingdive.com/news/sociable-metas-ai-ads-included-unapproved-discounts/874525/",
+    "date_published": "2026-11-12",
+    "description": "Recent reports found that the artificial intelligence-powered ad tools posted discount offers to customers even with promotions turned off.",
     "source_id": "marketing_dive",
     "source_name": "Marketing Dive",
     "source_url": "https://www.marketingdive.com/feeds/news/",
     "categories": [
       "ai_marketing",
-      "marketing",
-      "strategy"
+      "marketing"
     ],
     "relevance_score": 0.9,
     "relevance_label": "high",
-    "title_en": "Study: Over 80% of Leaders Report Negative Outcomes from Inaccurate AI-Derived Audience Insights",
-    "summary_ko": "최근 보고서에 따르면 업계 리더의 80% 이상이 부정확한 AI 출력으로 인해 최소 하나 이상의 부정적인 비즈니스 결과를 경험한 것으로 나타났다. AI 기반 오디언스 인사이트의 정확도 문제가 마케팅 성과에 직접적인 악영향을 미치고 있음이 수치로 확인됐다. 이는 AI 마케팅 도구의 맹목적 신뢰보다 데이터 품질 검증과 인간 감독의 중요성을 부각시키는 결과다.",
-    "summary_en": "A recent report reveals that over 80% of industry leaders have experienced at least one negative business outcome resulting from inaccurate AI-generated outputs. AI-derived audience insights, while widely adopted, are showing measurable negative impacts on marketing performance and business results. The findings underscore the critical need for data quality validation and human oversight when deploying AI-driven marketing tools.",
-    "so_what_ko": "LG D2C는 AI 기반 오디언스 인사이트 도구 도입 시 데이터 품질 검증 프로세스와 인간 감독 체계를 함께 구축해 AI 오류로 인한 마케팅 성과 저하 리스크를 최소화해야 한다.",
-    "so_what_en": "LG D2C should implement robust data quality validation and human oversight processes alongside any AI audience insight tools to minimize the risk of inaccurate outputs undermining marketing performance.",
+    "title_en": "Meta's AI Ad Tools Served Unapproved Discounts to Customers Even When Promotions Were Disabled",
+    "summary_ko": "메타의 AI 기반 광고 도구가 광고주가 프로모션 기능을 비활성화했음에도 불구하고 고객에게 무단 할인 혜택을 제공한 사례가 보고됐다. 이는 AI 광고 자동화 도구의 통제 범위와 광고주의 의도 사이에 심각한 간극이 존재함을 보여준다. 광고주들의 브랜드 신뢰와 마케팅 예산 통제에 직접적인 위협이 될 수 있는 사안이다.",
+    "summary_en": "Meta's AI-powered ad tools were reported to have posted unauthorized discount offers to customers even when promotions had been turned off by advertisers. This highlights a significant gap between AI automation capabilities and advertiser control over campaign parameters. The incident raises serious concerns about brand safety and budget management in AI-driven advertising.",
+    "so_what_ko": "LG D2C가 메타 등 외부 AI 광고 플랫폼을 활용할 때 자동화 범위와 승인 프로세스를 명확히 설정하고, AI 광고 도구의 실시간 모니터링 체계를 갖춰야 한다.",
+    "so_what_en": "LG D2C must establish clear automation boundaries and approval workflows when using Meta's AI ad tools, alongside real-time monitoring to prevent unauthorized promotional offers.",
     "key_points": [
-      "업계 리더 80% 이상이 부정확한 AI 출력으로 부정적 비즈니스 결과 경험",
-      "AI 오디언스 인사이트의 정확도 문제가 마케팅 ROI에 직접적 악영향",
-      "AI 도구 활용 시 데이터 검증과 인간 감독의 병행이 필수적임을 시사"
+      "Meta's AI ad tools offered unapproved discounts even when promotions were turned off by advertisers",
+      "The incident reveals a critical control gap in AI-automated advertising platforms",
+      "Brand safety and budget integrity are at risk when AI acts beyond advertiser-defined parameters",
+      "This underscores the need for robust human oversight in AI-driven campaign management"
     ],
     "tags": [
-      "ai-accuracy",
-      "audience-insights",
-      "marketing-risk",
-      "data-quality",
+      "meta-ads",
+      "ai-advertising",
+      "brand-safety",
+      "ad-automation",
       "ai-marketing"
     ],
     "confidence": 0.8,
@@ -649,56 +558,156 @@
     "business_impact": "HIGH",
     "sentiment": "THREAT",
     "key_entities": [
-      "Marketing Dive"
+      "Meta",
+      "Meta AI Ads"
     ],
-    "one_line_insight_ko": "AI 오디언스 인사이트의 부정확성이 마케팅 성과를 저해하고 있어, D2C 브랜드는 AI 도구 도입 시 반드시 데이터 품질 검증과 인간 감독을 병행해야 한다.",
-    "one_line_insight_en": "Inaccurate AI audience insights are actively hurting marketing results, making human oversight and data validation non-negotiable for D2C brands adopting AI marketing tools.",
+    "one_line_insight_ko": "메타 AI 광고 도구의 무단 할인 제공 사례는 AI 광고 자동화의 통제권 상실 리스크를 직접적으로 보여주며, D2C 광고주의 즉각적인 대응이 필요하다.",
+    "one_line_insight_en": "Meta's AI ad tools serving unapproved discounts expose a critical loss-of-control risk in AI-driven advertising that D2C brands must urgently address.",
     "ai_processed": true
   },
   {
-    "title": "Ticker: Savannah Guthrie to Remain on Today After Contract Extension",
-    "link": "https://www.adweek.com/tvnewser/ticker-savannah-guthrie-to-remain-on-today-after-contract-extension/",
-    "date_published": "2026-11-13",
-    "description": "NBC News has canceled the primetime program Stay Tuned, which aired on NBC News Now.",
-    "source_id": "adweek",
-    "source_name": "Adweek",
-    "source_url": "https://www.adweek.com/feed",
+    "title": "Oreo refreshes holiday creative with spin on Santa’s milk and cookies",
+    "link": "https://www.marketingdive.com/news/oreo-refreshes-holiday-creative-with-spin-on-santas-milk-and-cookies/874493/",
+    "date_published": "2026-11-12",
+    "description": "Saint Nick takes revenge on a dad who sneaks a bite of his Oreos in the brand’s first new seasonal work in five years.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
     "categories": [
       "marketing"
     ],
-    "relevance_score": 0.05,
+    "relevance_score": 0.3,
     "relevance_label": "high",
-    "title_en": "NBC Extends Savannah Guthrie's Contract; Cancels Primetime Show Stay Tuned",
-    "summary_ko": "NBC News가 사바나 거스리의 'Today' 프로그램 출연 계약을 연장했다. 동시에 NBC News Now에서 방영되던 프라임타임 프로그램 'Stay Tuned'는 폐지됐다. 이번 소식은 미디어 업계의 인사 및 프로그램 편성 변화에 관한 단신 뉴스다.",
-    "summary_en": "NBC News has extended Savannah Guthrie's contract, confirming she will remain a host on the Today show. At the same time, NBC News has canceled its primetime program Stay Tuned, which aired on NBC News Now. This brief news item covers personnel and programming changes at a major U.S. broadcast network.",
-    "so_what_ko": "본 기사는 AI 커머스 또는 D2C 마케팅과 직접적인 관련성이 낮아 LG D2C 전략 관점에서 참고 가치가 제한적이다.",
-    "so_what_en": "This article has little direct relevance to AI commerce or D2C marketing strategy and offers limited strategic value for LG's D2C organization.",
+    "title_en": "Oreo Launches First New Holiday Campaign in Five Years with Santa's Cookie Revenge Twist",
+    "summary_ko": "오레오가 5년 만에 처음으로 새로운 시즌 광고 캠페인을 선보이며, 산타클로스가 아빠의 오레오 과자 훔쳐먹기에 복수하는 유머러스한 스토리를 담았다. 이번 캠페인은 오레오의 오랜 '산타와 우유, 쿠키' 전통에 창의적인 변주를 더한 작품이다. 브랜드가 휴일 시즌 감성 마케팅을 통해 소비자와의 정서적 유대를 강화하는 전통적 접근 방식을 보여준다.",
+    "summary_en": "Oreo has unveiled its first new holiday creative campaign in five years, featuring a humorous story in which Santa Claus takes revenge on a father who sneaks a bite of his Oreos. The campaign puts a fresh spin on the classic holiday tradition of leaving milk and cookies for Santa. It reflects Oreo's strategy to reinvigorate emotional brand connections with consumers during the festive season.",
+    "so_what_ko": "계절성 감성 스토리텔링을 활용한 브랜드 캠페인은 AI 마케팅과 결합할 경우 개인화된 콘텐츠로 확장 가능하며, LG D2C도 시즌별 감성 콘텐츠 전략을 검토할 수 있다.",
+    "so_what_en": "Seasonal emotional storytelling campaigns like Oreo's can serve as inspiration for LG D2C to explore personalized festive content strategies, potentially enhanced with AI-driven creative tools.",
     "key_points": [
-      "사바나 거스리, NBC Today 프로그램 출연 계약 연장 확정",
-      "NBC News Now 프라임타임 프로그램 'Stay Tuned' 폐지 결정",
-      "AI 커머스 또는 마케팅과의 관련성 낮음"
+      "Oreo's first new holiday campaign in five years features a Santa's cookie revenge narrative",
+      "The campaign creatively reinvents the classic 'milk and cookies for Santa' tradition",
+      "Emotional, story-driven seasonal marketing remains a powerful tool for brand engagement"
     ],
     "tags": [
-      "nbc-news",
-      "media-industry",
-      "tv-programming"
+      "holiday-marketing",
+      "brand-storytelling",
+      "seasonal-campaign",
+      "oreo",
+      "creative-strategy"
     ],
-    "confidence": 0.9,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
+    "confidence": 0.85,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
     "regions": [
-      "AMER"
+      "AMER",
+      "GLOBAL"
     ],
     "business_impact": "LOW",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "NBC News",
-      "Savannah Guthrie",
-      "Today",
-      "Stay Tuned",
-      "NBC News Now"
+      "Oreo"
     ],
-    "one_line_insight_ko": "본 기사는 미디어 업계 인사 단신으로 AI 커머스 및 D2C 전략과의 관련성이 거의 없다.",
-    "one_line_insight_en": "This article is a media industry personnel brief with negligible relevance to AI commerce or D2C strategy.",
+    "one_line_insight_ko": "오레오의 5년 만의 시즌 캠페인 쇄신은 감성 스토리텔링이 여전히 소비자 브랜드 연결의 핵심 무기임을 보여준다.",
+    "one_line_insight_en": "Oreo's first new holiday campaign in five years reaffirms that emotionally resonant storytelling remains a timeless driver of consumer brand engagement.",
+    "ai_processed": true
+  },
+  {
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "link": "https://openai.com/business/customer-stories/amplitude",
+    "date_published": "2026-11-12",
+    "description": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "categories": [
+      "tech",
+      "agentic_commerce",
+      "strategy"
+    ],
+    "relevance_score": 0.75,
+    "relevance_label": "high",
+    "title_en": "Amplitude Ships Product Improvements in 1–2 Days Using OpenAI-Powered Agent Wave",
+    "summary_ko": "앰플리튜드는 OpenAI 모델 기반의 프로액티브 제품 에이전트 'Wave'를 구축해, 무엇을 개발할지 파악하고 코딩 에이전트로 변경사항을 빠르게 배포하며 그 영향을 측정하는 전 과정을 자동화했다. 이를 통해 제품 개선 사이클을 기존 대비 대폭 단축해 1~2일 내에 출시가 가능해졌다. AI 에이전트가 제품 개발의 계획-실행-측정 루프를 자율적으로 운영하는 사례로 주목받고 있다.",
+    "summary_en": "Amplitude built a proactive product agent called Wave, primarily powered by OpenAI models, which identifies what to build, helps engineering teams ship changes using coding agents, and measures the resulting impact. This AI-driven workflow has enabled Amplitude to compress product improvement cycles to just 1–2 days. The case demonstrates how agentic AI can autonomously manage the full plan-build-measure loop in product development.",
+    "so_what_ko": "LG D2C는 AI 에이전트를 활용해 제품 개선 및 고객 경험 최적화의 사이클을 단축할 수 있으며, OpenAI 기반 에이전트 아키텍처 도입을 전략적으로 검토할 필요가 있다.",
+    "so_what_en": "LG D2C should explore deploying AI agents similar to Wave to accelerate product and customer experience improvement cycles, potentially adopting OpenAI-based agentic architectures.",
+    "key_points": [
+      "Amplitude's AI agent 'Wave' is built primarily on OpenAI models and automates the product improvement lifecycle",
+      "Product changes can now be identified, built, and shipped in 1–2 days using coding agents",
+      "The agent autonomously handles the plan-build-measure loop, reducing human bottlenecks",
+      "This represents a practical enterprise application of agentic AI in product development"
+    ],
+    "tags": [
+      "ai-agent",
+      "openai",
+      "product-development",
+      "agentic-ai",
+      "automation"
+    ],
+    "confidence": 0.85,
+    "strategic_theme": "AI_AGENT",
+    "regions": [
+      "GLOBAL",
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Amplitude",
+      "OpenAI",
+      "Wave"
+    ],
+    "one_line_insight_ko": "앰플리튜드의 AI 에이전트 Wave는 계획-개발-측정 루프를 자율화해 제품 출시 주기를 1~2일로 단축시킨 실질적인 에이전틱 AI 성공 사례다.",
+    "one_line_insight_en": "Amplitude's Wave agent demonstrates that agentic AI can autonomously compress the full product improvement cycle to just 1–2 days, setting a new benchmark for enterprise AI adoption.",
+    "ai_processed": true
+  },
+  {
+    "title": "Gondola doubles revenue as its team builds more with Codex",
+    "link": "https://openai.com/business/customer-stories/gondola",
+    "date_published": "2026-11-12",
+    "description": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
+    "categories": [
+      "tech",
+      "strategy"
+    ],
+    "relevance_score": 0.6,
+    "relevance_label": "high",
+    "title_en": "Gondola Doubles Revenue After Lead Engineer Boosts Output 50% with OpenAI Codex",
+    "summary_ko": "창작자 이력 관리 플랫폼 곤돌라는 OpenAI의 Codex를 도입해 수석 엔지니어의 개발 생산성을 50% 향상시키고, ChatGPT로 일상 업무도 간소화하면서 전체 매출을 두 배로 늘리는 성과를 달성했다. 소규모 팀에서도 AI 코딩 도구가 조직 전체의 비즈니스 성과에 직접적인 영향을 미칠 수 있음을 보여주는 사례다. AI 도구 도입이 단순한 생산성 향상을 넘어 매출 성장으로 이어진 구체적인 증거로 주목된다.",
+    "summary_en": "Gondola, a platform helping creatives get credit and find work, doubled its revenue after adopting OpenAI's Codex, which boosted its lead engineer's output by 50%, while ChatGPT streamlined daily operations. The case illustrates how AI coding tools can deliver direct business impact even for small teams. It provides concrete evidence that AI tool adoption can translate beyond productivity gains into measurable revenue growth.",
+    "so_what_ko": "LG D2C의 개발 조직도 OpenAI Codex와 같은 AI 코딩 도구 도입을 통해 엔지니어링 생산성을 높이고, 더 빠른 디지털 서비스 개선으로 매출 성장을 가속화할 수 있다.",
+    "so_what_en": "LG D2C's engineering teams could adopt AI coding tools like Codex to significantly boost developer productivity, accelerating digital service improvements and driving measurable revenue growth.",
+    "key_points": [
+      "Gondola doubled its revenue after integrating OpenAI Codex into its development workflow",
+      "Lead engineer's output increased by 50% with Codex, demonstrating significant productivity gains",
+      "ChatGPT was used to simplify daily work beyond just coding tasks",
+      "The case shows AI tools can drive direct business outcomes for small and lean teams"
+    ],
+    "tags": [
+      "openai-codex",
+      "ai-coding",
+      "developer-productivity",
+      "revenue-growth",
+      "ai-tools"
+    ],
+    "confidence": 0.82,
+    "strategic_theme": "AI_COMMERCE",
+    "regions": [
+      "GLOBAL",
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Gondola",
+      "OpenAI",
+      "Codex",
+      "ChatGPT"
+    ],
+    "one_line_insight_ko": "곤돌라의 사례는 AI 코딩 도구가 개발 생산성 향상을 넘어 매출 2배 성장이라는 직접적인 비즈니스 성과로 이어질 수 있음을 증명한다.",
+    "one_line_insight_en": "Gondola's revenue doubling proves that AI coding tools like Codex can deliver direct business outcomes far beyond productivity improvements.",
     "ai_processed": true
   }
 ]
