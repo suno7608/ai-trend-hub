@@ -2,9 +2,8 @@
   "last_sent_date": "2026-04-12",
   "last_sent_at_kst": "2026-04-12T16:22:20.398220+09:00",
   "last_recipient_count": 59,
-  "last_news_items": 12,
+  "last_news_items": 8,
   "recently_sent_content_dates": [
-    "2026-11-01",
     "2026-11-02",
     "2026-11-03",
     "2026-11-04",
@@ -17,16 +16,17 @@
     "2026-11-12",
     "2026-11-13",
     "2026-11-14",
-    "2026-11-15"
+    "2026-11-15",
+    "2026-11-16"
   ],
   "last_sent_content_date": "2026-04-12",
-  "last_sent_date_ko": "2026-11-15",
-  "last_sent_date_en": "2026-11-15",
-  "last_sent_content_date_en": "2026-11-13",
-  "last_sent_at_kst_en": "2026-11-15T20:12:55.860182+09:00",
+  "last_sent_date_ko": "2026-11-16",
+  "last_sent_date_en": "2026-11-16",
+  "last_sent_content_date_en": "2026-11-16",
+  "last_sent_at_kst_en": "2026-11-16T20:41:52.480664+09:00",
   "last_recipient_count_en": 2,
-  "last_sent_content_date_ko": "2026-11-13",
-  "last_sent_at_kst_ko": "2026-11-15T20:12:53.407152+09:00",
+  "last_sent_content_date_ko": "2026-11-16",
+  "last_sent_at_kst_ko": "2026-11-16T20:41:50.327632+09:00",
   "last_recipient_count_ko": 66,
   "recently_sent_articles_ko": [
     {
@@ -100,6 +100,27 @@
       "sent_on_kst_date": "2026-11-15",
       "selected_date": "2026-11-15",
       "sent_at_kst": "2026-11-15T20:12:53.407152+09:00"
+    },
+    {
+      "fingerprint": "eff8877dd2f7db8d",
+      "urls": [
+        "https://www.retaildive.com/spons/holiday-retails-ai-test-from-skeptical-shoppers-to-agents-they-trust-afte/874054/",
+        "https://www.marketingdive.com/spons/ai-is-transforming-marketing-can-marketers-prove-its-working/874404/",
+        "https://www.marketingdive.com/spons/commerce-media-networks-6-questions-agencies-should-ask-before-investing/874217/",
+        "https://digiday.com/marketing/deloitte-digital-takes-the-holdco-operating-system-pitch-straight-to-the-ceo/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://digiday.com/media/how-bustle-digital-group-is-helping-pampers-and-innisfree-show-up-in-ai-recommendations/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+        "https://openai.com/index/lvmh-media-division-partnership",
+        "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+      ],
+      "content_dates": [
+        "2026-11-14",
+        "2026-11-15",
+        "2026-11-16"
+      ],
+      "sent_on_kst_date": "2026-11-16",
+      "selected_date": "2026-11-16",
+      "sent_at_kst": "2026-11-16T20:41:50.327632+09:00"
     }
   ],
   "recently_sent_articles_en": [
@@ -174,6 +195,27 @@
       "sent_on_kst_date": "2026-11-15",
       "selected_date": "2026-11-15",
       "sent_at_kst": "2026-11-15T20:12:55.860182+09:00"
+    },
+    {
+      "fingerprint": "eff8877dd2f7db8d",
+      "urls": [
+        "https://www.retaildive.com/spons/holiday-retails-ai-test-from-skeptical-shoppers-to-agents-they-trust-afte/874054/",
+        "https://www.marketingdive.com/spons/ai-is-transforming-marketing-can-marketers-prove-its-working/874404/",
+        "https://digiday.com/media/how-bustle-digital-group-is-helping-pampers-and-innisfree-show-up-in-ai-recommendations/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://www.marketingdive.com/spons/commerce-media-networks-6-questions-agencies-should-ask-before-investing/874217/",
+        "https://digiday.com/marketing/deloitte-digital-takes-the-holdco-operating-system-pitch-straight-to-the-ceo/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+        "https://openai.com/index/lvmh-media-division-partnership",
+        "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+      ],
+      "content_dates": [
+        "2026-11-14",
+        "2026-11-15",
+        "2026-11-16"
+      ],
+      "sent_on_kst_date": "2026-11-16",
+      "selected_date": "2026-11-16",
+      "sent_at_kst": "2026-11-16T20:41:52.480664+09:00"
     }
   ]
 }
