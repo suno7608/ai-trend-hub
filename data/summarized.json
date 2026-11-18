@@ -1,106 +1,9 @@
 [
   {
-    "title": "The 2026 Holiday Ads Worth Watching",
-    "link": "https://www.adweek.com/creativity/the-2026-holiday-ads-worth-watching/",
+    "title": "Home Depot names longtime company vet as CEO",
+    "link": "https://www.retaildive.com/news/home-depot-ceo-richard-mcphail-coo-cfo/874893/",
     "date_published": "2026-11-17",
-    "description": "Watch festive campaigns from Apple, Oreo, Goodwipes, and more.",
-    "source_id": "adweek",
-    "source_name": "Adweek",
-    "source_url": "https://www.adweek.com/feed",
-    "categories": [
-      "marketing",
-      "ai_marketing"
-    ],
-    "relevance_score": 0.4,
-    "relevance_label": "high",
-    "title_en": "2026 Holiday Ad Campaigns Worth Watching: Apple, Oreo, and More",
-    "summary_ko": "Adweek이 2026년 홀리데이 시즌을 맞아 주목할 만한 광고 캠페인들을 선정했다. Apple, Oreo, Goodwipes 등 주요 브랜드들의 페스티브 캠페인이 소개되었다. 구체적인 캠페인 내용 및 AI 활용 여부는 원문에서 충분히 확인되지 않는다.",
-    "summary_en": "Adweek has curated a list of notable holiday advertising campaigns for the 2026 festive season. Featured brands include Apple, Oreo, and Goodwipes, among others. Detailed campaign content and strategic details are not fully available from the provided excerpt.",
-    "so_what_ko": "LG D2C 팀은 주요 브랜드의 홀리데이 캠페인 전략을 벤치마킹하여 자사 시즌 마케팅 크리에이티브 방향성 수립에 참고할 수 있다.",
-    "so_what_en": "LG D2C teams should benchmark leading brand holiday campaigns to inform their own seasonal creative and marketing strategies.",
-    "key_points": [
-      "Apple, Oreo, Goodwipes 등 주요 브랜드의 2026 홀리데이 광고 캠페인 선정",
-      "페스티브 시즌 광고 트렌드 파악을 위한 큐레이션 콘텐츠",
-      "세부 캠페인 전략 및 AI 활용 여부는 원문에서 확인되지 않음"
-    ],
-    "tags": [
-      "holiday-advertising",
-      "brand-campaigns",
-      "seasonal-marketing",
-      "creative-strategy"
-    ],
-    "confidence": 0.5,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "GLOBAL",
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "Apple",
-      "Oreo",
-      "Goodwipes",
-      "Adweek"
-    ],
-    "one_line_insight_ko": "2026 홀리데이 시즌, 주요 글로벌 브랜드들의 페스티브 광고 캠페인은 D2C 마케팅 크리에이티브의 중요한 벤치마크가 된다.",
-    "one_line_insight_en": "Major global brands' 2026 holiday campaigns offer a key creative benchmark for D2C marketers planning seasonal activations.",
-    "ai_processed": true
-  },
-  {
-    "title": "Track ChatGPT Product Referrals in GA4",
-    "link": "https://www.practicalecommerce.com/track-chatgpt-product-referrals-in-ga4",
-    "date_published": "2026-11-16",
-    "description": "Shoppers increasingly ask ChatGPT for product recommendations and comparisons. \nThe post Track ChatGPT Product Referrals in GA4 appeared first on Practical Ecommerce.",
-    "source_id": "practical_ecommerce",
-    "source_name": "Practical Ecommerce",
-    "source_url": "https://www.practicalecommerce.com/feed",
-    "categories": [
-      "commerce",
-      "ai_commerce"
-    ],
-    "relevance_score": 0.85,
-    "relevance_label": "high",
-    "title_en": "How to Track ChatGPT Product Referrals in Google Analytics 4",
-    "summary_ko": "소비자들이 제품 추천과 비교를 위해 ChatGPT를 활용하는 사례가 증가하면서, 이커머스 사업자들에게 ChatGPT로부터 유입되는 트래픽 추적의 필요성이 높아지고 있다. Practical Ecommerce는 GA4를 통해 ChatGPT 제품 추천 유입을 추적하는 방법을 소개했다. 이는 AI 기반 쇼핑 행동이 실질적인 구매 전환에 미치는 영향을 측정하기 위한 실용적 가이드이다.",
-    "summary_en": "Shoppers are increasingly turning to ChatGPT for product recommendations and comparisons, creating a new referral traffic source for e-commerce businesses. Practical Ecommerce provides a practical guide on how to track these ChatGPT-driven referrals using Google Analytics 4. This capability is becoming essential as AI-assisted shopping behavior grows and influences purchase conversion.",
-    "so_what_ko": "LG D2C 팀은 GA4 설정을 업데이트하여 ChatGPT 등 AI 플랫폼으로부터 유입되는 쇼핑 트래픽을 별도로 추적하고, AI 추천이 실제 구매 전환에 미치는 기여도를 측정해야 한다.",
-    "so_what_en": "LG D2C teams should update GA4 configurations to separately track AI-platform referral traffic from sources like ChatGPT and measure its actual contribution to purchase conversion.",
-    "key_points": [
-      "ChatGPT를 활용한 제품 검색 및 비교 쇼핑 행동이 소비자 사이에서 증가 중",
-      "GA4를 통해 ChatGPT 유입 트래픽을 별도로 추적하는 방법 제시",
-      "AI 추천 채널의 전환 기여도 측정이 이커머스 분석의 새로운 과제로 부상",
-      "AI 기반 쇼핑 여정 데이터 확보가 마케팅 최적화에 중요해짐"
-    ],
-    "tags": [
-      "chatgpt-referrals",
-      "ga4-analytics",
-      "ai-shopping",
-      "traffic-tracking",
-      "ecommerce-analytics"
-    ],
-    "confidence": 0.75,
-    "strategic_theme": "DATA_STRATEGY",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [
-      "ChatGPT",
-      "Google Analytics 4",
-      "OpenAI",
-      "Practical Ecommerce"
-    ],
-    "one_line_insight_ko": "ChatGPT가 새로운 제품 추천 채널로 부상함에 따라, GA4를 통한 AI 유입 트래픽 추적은 D2C 전환 분석의 필수 역량이 되고 있다.",
-    "one_line_insight_en": "As ChatGPT emerges as a product discovery channel, tracking AI-driven referrals in GA4 is becoming a must-have capability for D2C conversion analysis.",
-    "ai_processed": true
-  },
-  {
-    "title": "Dillard’s grabs some market share again despite weak sales growth",
-    "link": "https://www.retaildive.com/news/dillards-grabs-market-share-weak-sales-growth/874735/",
-    "date_published": "2026-11-16",
-    "description": "In Q3 the department store eked out 1% increases in retail sales and comps compared to last year, but that beat expectations.",
+    "description": "CFO Richard McPhail, who started at the retailer in 2005, will take the chief executive role, and 40-plus-year vet Ann-Marie Campbell will be COO.",
     "source_id": "retail_dive",
     "source_name": "Retail Dive",
     "source_url": "https://www.retaildive.com/feeds/news/",
@@ -108,223 +11,259 @@
       "commerce",
       "strategy"
     ],
-    "relevance_score": 0.3,
+    "relevance_score": 0.2,
     "relevance_label": "high",
-    "title_en": "Dillard's Gains Market Share Despite Modest 1% Sales Growth in Q3",
-    "summary_ko": "미국 백화점 체인 Dillard's는 2026년 3분기에 소매 매출과 동일 매장 매출 모두 전년 대비 1% 증가를 기록하며 기대치를 소폭 상회했다. 전반적인 매출 성장세는 약하지만, 경쟁사 대비 시장 점유율을 확대하는 데 성공했다. 이는 약한 소비 환경 속에서도 선별적 성과를 거두고 있음을 보여준다.",
-    "summary_en": "Department store chain Dillard's reported Q3 2026 retail sales and comparable store sales growth of 1% year-over-year, slightly beating market expectations despite overall weak growth. The retailer managed to gain market share against competitors even amid sluggish top-line performance. This suggests selective resilience in a challenging consumer spending environment.",
-    "so_what_ko": "소비 성장이 둔화된 환경에서도 시장 점유율 확대가 가능하다는 점은, LG D2C가 경쟁사 대비 차별화된 고객 경험과 가치 제안으로 점유율 경쟁에 나설 수 있음을 시사한다.",
-    "so_what_en": "The fact that market share gains are achievable even in weak growth environments suggests LG D2C can compete for share by differentiating on customer experience and value proposition.",
+    "title_en": "Home Depot Promotes CFO Richard McPhail to CEO, Names Ann-Marie Campbell as COO",
+    "summary_ko": "홈디포는 2005년부터 재직해온 CFO 리처드 맥페일을 신임 CEO로 임명했다. 40년 이상의 경력을 가진 앤-마리 캠벨은 COO로 선임됐다. 내부 베테랑 인사를 통한 리더십 교체로 안정적인 경영 연속성을 추구하는 행보다.",
+    "summary_en": "Home Depot has appointed CFO Richard McPhail, who joined the company in 2005, as its new CEO. Ann-Marie Campbell, a 40-plus-year company veteran, will take on the role of COO. The leadership transition reflects the retailer's preference for internal succession to ensure operational continuity.",
+    "so_what_ko": "대형 오프라인 리테일러의 내부 승진 기반 리더십 교체는 단기적 전략 변화보다 안정성을 우선시하는 신호로, D2C 파트너십 및 협업 전략 수립 시 참고할 수 있다.",
+    "so_what_en": "Home Depot's internal succession signals strategic continuity over disruption, which D2C organizations should factor in when planning retail partnerships or competitive positioning against major home improvement players.",
     "key_points": [
-      "Dillard's Q3 소매 매출 및 동일 매장 매출 전년 대비 1% 증가로 기대치 상회",
-      "약한 매출 성장에도 불구하고 경쟁사 대비 시장 점유율 확대 성공",
-      "전반적인 소비 환경 약세 속에서 선별적 성과 달성"
+      "CFO Richard McPhail named new CEO after 20+ years at Home Depot",
+      "Ann-Marie Campbell, a 40+ year veteran, appointed as COO",
+      "Leadership change driven by internal promotion, suggesting operational stability"
     ],
     "tags": [
-      "retail-performance",
-      "market-share",
-      "department-store",
-      "q3-earnings"
+      "retail-leadership",
+      "home-depot",
+      "ceo-transition",
+      "brick-and-mortar"
     ],
     "confidence": 0.7,
-    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "strategic_theme": "COMPETITIVE_DYNAMICS",
     "regions": [
       "AMER"
     ],
     "business_impact": "LOW",
     "sentiment": "NEUTRAL",
     "key_entities": [
-      "Dillard's"
+      "Home Depot",
+      "Richard McPhail",
+      "Ann-Marie Campbell"
     ],
-    "one_line_insight_ko": "Dillard's의 약성장 속 시장 점유율 확대는 소비 둔화기에도 차별화 전략이 경쟁 우위를 만들 수 있음을 보여준다.",
-    "one_line_insight_en": "Dillard's market share gains amid weak growth demonstrate that differentiation strategies can still build competitive advantage during consumer spending slowdowns.",
+    "one_line_insight_ko": "홈디포의 내부 승진 CEO 선임은 대형 리테일러의 경영 안정성 우선 기조를 반영한다.",
+    "one_line_insight_en": "Home Depot's internal CEO promotion signals a stability-first approach at one of retail's largest home improvement players.",
     "ai_processed": true
   },
   {
-    "title": "OpenAI launches ChatGPT Wallet for AI purchases through retailer checkouts",
-    "link": "https://www.digitalcommerce360.com/2026/11/16/openai-chatgpt-wallet-for-ai-purchases-through-retailer-checkouts/",
-    "date_published": "2026-11-16",
-    "description": "OpenAI is giving its artificial intelligence (AI) shopping agents a way to pay through retailers’ checkout systems, marking another shift in the ChatGPT maker’s evolving agentic commerce strategy. Launched Nov. 13 in partnership with American Express, Chase, Mastercard and Visa, ChatGPT Wallet lets OpenAI’s “always-on” personal agents, known as dots, complete purchases on shoppers’ behalf. […]\nThe post OpenAI launches ChatGPT Wallet for AI purchases through retailer checkouts appeared first on Digital Commerce 360.",
+    "title": "Target’s Black Friday sale includes in-store gift card giveaway",
+    "link": "https://www.retaildive.com/news/targets-black-friday-sale-gift-card-giveaway/874891/",
+    "date_published": "2026-11-17",
+    "description": "The mass retailer is aiming to provide value to budget-conscious shoppers and will give early deal access to paid membership customers.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "commerce",
+      "marketing"
+    ],
+    "relevance_score": 0.35,
+    "relevance_label": "high",
+    "title_en": "Target Launches Black Friday Sale with In-Store Gift Card Giveaways and Early Access for Members",
+    "summary_ko": "타겟은 블랙프라이데이 세일에 매장 내 기프트카드 증정 행사를 포함시키며 가격 민감 소비자를 적극 공략한다. 유료 멤버십 고객에게는 얼리 딜 액세스를 제공해 충성 고객 혜택을 강화했다. 이는 소비자들의 가성비 추구 트렌드에 대응하는 전략적 판촉 행사다.",
+    "summary_en": "Target is running a Black Friday sale featuring in-store gift card giveaways aimed at budget-conscious shoppers. The retailer is also offering early deal access exclusively to paid membership customers to reward loyalty. This strategy reflects Target's effort to drive both foot traffic and membership value amid value-seeking consumer behavior.",
+    "so_what_ko": "유료 멤버십 연계 조기 접근 혜택은 D2C 구독 모델에서도 적용 가능한 충성 고객 활성화 전략으로, LG의 멤버십 프로그램 설계에 시사점을 제공한다.",
+    "so_what_en": "Target's early-access perk for paid members is a proven loyalty mechanic that LG D2C can adapt to incentivize subscription or membership upgrades during peak shopping seasons.",
+    "key_points": [
+      "In-store gift card giveaways target budget-conscious holiday shoppers",
+      "Paid membership customers receive early deal access, reinforcing loyalty program value",
+      "Strategy addresses the growing consumer demand for value during the holiday season"
+    ],
+    "tags": [
+      "black-friday",
+      "target",
+      "retail-promotions",
+      "membership-loyalty",
+      "holiday-shopping"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Target"
+    ],
+    "one_line_insight_ko": "타겟의 멤버십 연계 블랙프라이데이 전략은 유료 충성 고객에게 차별화된 가치를 제공하는 D2C 멤버십 설계의 참고 사례다.",
+    "one_line_insight_en": "Target's membership-linked Black Friday perks illustrate how tiered loyalty programs can drive both traffic and subscription value during peak retail periods.",
+    "ai_processed": true
+  },
+  {
+    "title": "This year, every day is Black Friday",
+    "link": "https://www.retaildive.com/news/black-friday-2026-preview-ai-resale-stores/874163/",
+    "date_published": "2026-11-17",
+    "description": "Deal-hunting consumers have already started their holiday shopping and also plan to shop late. Yet the day itself remains imperative.",
+    "source_id": "retail_dive",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/feeds/news/",
+    "categories": [
+      "commerce",
+      "ai_marketing"
+    ],
+    "relevance_score": 0.6,
+    "relevance_label": "high",
+    "title_en": "Black Friday 2026: AI and Resale Trends Are Making Every Day Feel Like a Deal Day",
+    "summary_ko": "2026년 블랙프라이데이는 AI와 중고거래 트렌드의 영향으로 소비자들이 연중 내내 할인 쇼핑을 즐기면서 특정일의 중요성이 희석되고 있다. 딜 헌팅 소비자들은 이미 홀리데이 쇼핑을 일찍 시작했으며 늦게까지 이어갈 계획도 가지고 있다. 그러나 블랙프라이데이 당일 자체는 여전히 소매업계에서 중요한 행사로 유지되고 있다.",
+    "summary_en": "AI tools and the rise of resale are transforming holiday shopping, making deal-hunting a year-round activity and diluting the exclusivity of Black Friday. Consumers are starting their holiday shopping earlier and plan to continue later into the season. Despite this shift, Black Friday itself remains a critically important retail event.",
+    "so_what_ko": "AI 기반 가격 추적 및 중고거래 확산으로 할인 행사의 경쟁이 연중으로 분산되는 추세에서, LG D2C는 단일 이벤트 의존보다 지속적 가치 제안과 AI 개인화 전략을 강화해야 한다.",
+    "so_what_en": "As AI-driven deal-hunting and resale flatten the Black Friday spike into a year-round phenomenon, LG D2C should shift from event-dependent promotions toward always-on personalized value strategies.",
+    "key_points": [
+      "AI tools and resale platforms are enabling year-round deal-hunting, reducing Black Friday's exclusivity",
+      "Consumers are both starting holiday shopping earlier and planning to shop later in the season",
+      "Black Friday remains significant despite the broader spread of deal-seeking behavior"
+    ],
+    "tags": [
+      "black-friday",
+      "ai-shopping",
+      "resale",
+      "holiday-retail",
+      "deal-hunting"
+    ],
+    "confidence": 0.65,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "AMER",
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Black Friday"
+    ],
+    "one_line_insight_ko": "AI와 중고거래의 확산으로 블랙프라이데이가 연중 할인 경쟁으로 진화하면서, D2C 브랜드는 상시 개인화 전략으로의 전환이 필요하다.",
+    "one_line_insight_en": "AI and resale are turning Black Friday into a year-round deal environment, pushing D2C brands to adopt always-on personalization over single-event promotions.",
+    "ai_processed": true
+  },
+  {
+    "title": "Tractor Supply joins Uber Marketplace, adding delivery options for rural customers",
+    "link": "https://www.digitalcommerce360.com/2026/11/17/tractor-supply-joins-uber-marketplace-adding-delivery-options-for-rural-customers/",
+    "date_published": "2026-11-17",
+    "description": "Tractor Supply Co. is adding Uber as a delivery partner, making its products available through the Uber, Uber Eats and Postmates apps. The companies announced the nationwide partnership Nov. 12. Customers can order pet food, animal care products, lawn and garden supplies, tools and outdoor gear for on-demand delivery. Tractor Supply operated 2,486 stores in […]\nThe post Tractor Supply joins Uber Marketplace, adding delivery options for rural customers appeared first on Digital Commerce 360.",
     "source_id": "digital_commerce_360",
     "source_name": "Digital Commerce 360",
     "source_url": "https://www.digitalcommerce360.com/feed",
     "categories": [
       "commerce",
-      "ai_commerce",
-      "agentic_commerce"
+      "strategy"
     ],
-    "relevance_score": 0.98,
+    "relevance_score": 0.4,
     "relevance_label": "high",
-    "title_en": "OpenAI Launches ChatGPT Wallet to Enable AI Agent Purchases at Retailer Checkouts",
-    "summary_ko": "OpenAI는 2026년 11월 13일 American Express, Chase, Mastercard, Visa와 협력하여 ChatGPT Wallet을 출시했다. 이 서비스는 'dots'로 불리는 항상 켜져 있는(always-on) 개인 AI 에이전트가 소비자를 대신해 소매업체 결제 시스템을 통해 직접 구매를 완료할 수 있게 한다. 이는 OpenAI의 에이전틱 커머스 전략의 핵심 전환점으로, AI가 실질적인 구매 의사결정 및 트랜잭션까지 수행하는 시대가 본격화되고 있음을 의미한다.",
-    "summary_en": "OpenAI launched ChatGPT Wallet on November 13, 2026, in partnership with American Express, Chase, Mastercard, and Visa, enabling AI shopping agents to complete purchases on behalf of shoppers. The feature powers OpenAI's 'always-on' personal agents, called dots, which can transact directly through retailers' checkout systems. This marks a pivotal step in OpenAI's agentic commerce strategy, signaling that AI agents are moving from recommendation to full transaction execution.",
-    "so_what_ko": "LG D2C는 ChatGPT Wallet과 같은 AI 에이전트 결제 시스템과의 호환성을 조기에 확보하고, AI 에이전트가 LG 제품을 우선 추천·구매할 수 있도록 제품 데이터 최적화 및 파트너십 전략을 수립해야 한다.",
-    "so_what_en": "LG D2C must urgently ensure compatibility with AI agent payment systems like ChatGPT Wallet and optimize product data and partnerships so that AI agents prioritize LG products in their purchase recommendations and executions.",
+    "title_en": "Tractor Supply Partners with Uber Marketplace to Offer On-Demand Delivery for Rural Customers",
+    "summary_ko": "트랙터 서플라이는 우버, 우버이츠, 포스트메이츠 앱을 통해 제품을 판매하는 우버 마켓플레이스 파트너십을 체결했다. 이번 협력으로 농촌 지역 고객들은 반려동물 사료, 동물 케어 용품, 잔디 및 정원 용품 등을 온디맨드 배송으로 받을 수 있다. 2,486개 매장을 운영하는 트랙터 서플라이는 이를 통해 라스트마일 배송 접근성을 전국 단위로 확대한다.",
+    "summary_en": "Tractor Supply Co. has joined the Uber Marketplace, making its products available through Uber, Uber Eats, and Postmates apps for on-demand delivery. Rural customers can now order pet food, animal care products, lawn and garden supplies, and outdoor gear for fast delivery. The nationwide partnership, announced November 12, extends Tractor Supply's last-mile reach across its 2,486 stores.",
+    "so_what_ko": "대형 리테일러의 라이드쉐어 플랫폼 연계 온디맨드 배송 확장은 LG D2C가 플랫폼 생태계 파트너십을 통해 배송 접근성을 높이는 전략을 검토하는 데 참고할 수 있다.",
+    "so_what_en": "Tractor Supply's Uber Marketplace integration demonstrates how retailers can leverage platform ecosystems to extend last-mile delivery reach, a model LG D2C could explore to improve product accessibility in underserved regions.",
     "key_points": [
-      "OpenAI, 2026년 11월 13일 ChatGPT Wallet 출시 — Amex, Chase, Mastercard, Visa와 파트너십 체결",
-      "'dots' AI 에이전트가 소비자 대신 소매업체 결제 시스템을 통해 직접 구매 완료 가능",
-      "AI 에이전트가 추천을 넘어 실제 트랜잭션까지 수행하는 에이전틱 커머스 시대 본격화",
-      "소매업체 및 D2C 브랜드는 AI 에이전트 결제 호환성 확보가 시급한 과제로 부상"
+      "Tractor Supply products now available via Uber, Uber Eats, and Postmates for on-demand delivery",
+      "Partnership targets rural customers who may have limited access to physical stores",
+      "Nationwide rollout spans Tractor Supply's 2,486 store locations"
     ],
     "tags": [
-      "chatgpt-wallet",
-      "agentic-commerce",
-      "ai-payments",
-      "openai",
-      "retail-checkout"
+      "last-mile-delivery",
+      "tractor-supply",
+      "uber-marketplace",
+      "on-demand-delivery",
+      "platform-ecosystem"
     ],
-    "confidence": 0.92,
-    "strategic_theme": "AGENTIC_COMMERCE",
+    "confidence": 0.8,
+    "strategic_theme": "PLATFORM_ECOSYSTEM",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Tractor Supply Co.",
+      "Uber",
+      "Uber Eats",
+      "Postmates"
+    ],
+    "one_line_insight_ko": "트랙터 서플라이의 우버 마켓플레이스 연계는 플랫폼 파트너십을 통한 라스트마일 접근성 확대가 오프라인 리테일의 새로운 성장 경로가 됨을 보여준다.",
+    "one_line_insight_en": "Tractor Supply's Uber Marketplace tie-up shows that platform partnerships are becoming a key last-mile growth lever for brick-and-mortar retailers reaching underserved customers.",
+    "ai_processed": true
+  },
+  {
+    "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+    "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+    "date_published": "2026-11-17",
+    "description": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
+    "source_id": "techcrunch_commerce",
+    "source_name": "TechCrunch Commerce",
+    "source_url": "https://techcrunch.com/category/commerce/feed",
+    "categories": [
+      "commerce",
+      "agentic_commerce",
+      "ai_marketing"
+    ],
+    "relevance_score": 0.95,
+    "relevance_label": "high",
+    "title_en": "Daydream Launches AI Shopping Agent That Styles, Tries On, and Buys Clothes for You",
+    "summary_ko": "패션 AI 스타트업 데이드림은 개인 스타일리스트 역할을 하는 AI 쇼핑 에이전트를 출시했다. 이 에이전트는 사용자의 스타일을 기억하고, 옷을 가상으로 착용해보고, 기존 옷장과 어울리는 코디를 제안하며, 세일을 추적하고 구매까지 완료할 수 있다. 에이전트형 커머스의 실제 구현 사례로서 AI가 소비자의 쇼핑 전 과정을 대행하는 새로운 패러다임을 제시한다.",
+    "summary_en": "Fashion AI startup Daydream has launched a new AI shopping agent that serves as a personal stylist capable of remembering user preferences and style. The agent can virtually try on clothes, plan outfits around existing wardrobes, track sales, and autonomously complete purchases on behalf of users. This represents a significant real-world example of agentic commerce, where AI handles the full shopping journey end-to-end.",
+    "so_what_ko": "AI 에이전트가 스타일 기억부터 구매 완료까지 쇼핑 전 과정을 자율적으로 수행하는 시대가 열리면서, LG D2C는 AI 에이전트 채널 최적화 및 에이전트 친화적 제품 데이터 구조 구축을 선제적으로 준비해야 한다.",
+    "so_what_en": "As AI agents begin autonomously handling the full consumer shopping journey—from discovery to purchase—LG D2C must proactively optimize its product data and commerce infrastructure to be discoverable and purchasable by AI shopping agents.",
+    "key_points": [
+      "Daydream's AI agent remembers user style preferences and plans outfits around existing wardrobes",
+      "Agent can virtually try on clothes and autonomously complete purchases, enabling end-to-end agentic commerce",
+      "Tracks sales and deal alerts, reducing friction across the entire consumer shopping journey",
+      "Represents a concrete commercialization of AI agent technology in fashion retail"
+    ],
+    "tags": [
+      "ai-agent",
+      "agentic-commerce",
+      "personal-stylist",
+      "fashion-tech",
+      "autonomous-shopping"
+    ],
+    "confidence": 0.85,
+    "strategic_theme": "AI_AGENT",
     "regions": [
       "GLOBAL",
       "AMER"
     ],
     "business_impact": "HIGH",
-    "sentiment": "THREAT",
+    "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "OpenAI",
-      "ChatGPT Wallet",
-      "American Express",
-      "Mastercard",
-      "Visa"
+      "Daydream",
+      "AI shopping agent"
     ],
-    "one_line_insight_ko": "ChatGPT Wallet의 출시로 AI 에이전트가 직접 결제를 완료하는 에이전틱 커머스가 현실화되면서, D2C 브랜드들은 AI 에이전트 호환 결제 인프라와 제품 데이터 최적화를 즉시 준비해야 한다.",
-    "one_line_insight_en": "With ChatGPT Wallet making agentic commerce a reality, D2C brands must immediately prepare AI-agent-compatible checkout infrastructure and optimized product data to remain competitive.",
+    "one_line_insight_ko": "데이드림의 AI 쇼핑 에이전트는 구매 전 과정을 자율화하는 에이전틱 커머스 시대의 도래를 알리며, D2C 브랜드의 AI 에이전트 대응 전략 수립이 시급함을 시사한다.",
+    "one_line_insight_en": "Daydream's end-to-end AI shopping agent signals that agentic commerce is moving from concept to reality, making it urgent for D2C brands to build AI-agent-ready commerce infrastructure.",
     "ai_processed": true
   },
   {
-    "title": "If AI Does the Entry-Level Work, Who Becomes the Next Generation of Leaders?",
-    "link": "https://www.marketingaiinstitute.com/blog/ai-and-the-future-of-work-maicon-2026",
-    "date_published": "2026-11-16",
-    "description": "SmarterX founder and CEO Paul Roetzer opened MAICON 2026 with a striking admission: Had ChatGPT existed in 2000, he likely never would have gotten his start in marketing.",
-    "source_id": "marketing_ai_institute",
-    "source_name": "Marketing AI Institute",
-    "source_url": "https://www.marketingaiinstitute.com/blog/rss.xml",
+    "title": "Why Qualcomm teamed with F1’s new star in race for sports marketing ROI",
+    "link": "https://www.marketingdive.com/news/why-qualcomm-teamed-with-f1s-new-star-in-race-for-sports-marketing-roi/874895/",
+    "date_published": "2026-11-17",
+    "description": "CMO Don McGuire explains how Snapdragon’s deal with Formula One phenom Kimi Antonelli helps the brand connect with racing’s growing audience.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
     "categories": [
-      "marketing",
-      "ai_marketing",
-      "strategy"
-    ],
-    "relevance_score": 0.72,
-    "relevance_label": "high",
-    "title_en": "MAICON 2026: If AI Handles Entry-Level Work, Who Becomes the Next Generation of Marketing Leaders?",
-    "summary_ko": "SmarterX 창업자 겸 CEO Paul Roetzer는 MAICON 2026 기조연설에서 2000년에 ChatGPT가 존재했다면 자신은 마케팅 커리어를 시작하지 못했을 것이라고 고백하며 AI가 주니어 마케터의 역할을 대체하고 있음을 지적했다. 이는 AI가 엔트리 레벨 업무를 수행할 경우 차세대 마케팅 리더십을 누가 양성하고 어떻게 육성할 것인가에 대한 근본적인 질문을 제기한다. AI 도입이 가속화되는 시대에 조직의 인재 파이프라인과 역량 개발 전략의 재설계가 필요함을 시사한다.",
-    "summary_en": "SmarterX founder and CEO Paul Roetzer opened MAICON 2026 with the candid admission that had ChatGPT existed in 2000, he likely would never have broken into marketing. This raises a fundamental question about the future of talent development: if AI handles entry-level marketing work, who trains and nurtures the next generation of leaders? The session highlights the urgent need for organizations to rethink their talent pipelines and capability development strategies in an AI-accelerated environment.",
-    "so_what_ko": "LG D2C 조직은 AI가 엔트리 레벨 업무를 대체함에 따라 주니어 인재 양성 방식을 재설계하고, AI 활용 역량을 중심으로 한 새로운 커리어 개발 경로와 조직 학습 체계를 구축해야 한다.",
-    "so_what_en": "LG D2C leadership must redesign junior talent development programs as AI displaces entry-level work, building new career pathways and organizational learning frameworks centered on AI fluency.",
-    "key_points": [
-      "Paul Roetzer, MAICON 2026 기조연설에서 AI의 엔트리 레벨 마케팅 업무 대체 현실 지적",
-      "AI 도입으로 주니어 마케터 역할 축소 시 차세대 리더 육성 방식에 대한 근본적 의문 제기",
-      "조직의 인재 파이프라인 및 역량 개발 전략 재설계 필요성 강조",
-      "AI 시대에 마케팅 조직의 구조적 변화와 인력 전략 재검토가 시급"
-    ],
-    "tags": [
-      "ai-workforce",
-      "talent-development",
-      "marketing-leadership",
-      "maicon-2026",
-      "future-of-work"
-    ],
-    "confidence": 0.78,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "GLOBAL",
-      "AMER"
-    ],
-    "business_impact": "MEDIUM",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Paul Roetzer",
-      "SmarterX",
-      "MAICON 2026",
-      "ChatGPT",
-      "Marketing AI Institute"
-    ],
-    "one_line_insight_ko": "AI가 마케팅 엔트리 레벨 업무를 대체하면서 차세대 리더 육성 방식의 근본적 재설계가 D2C 조직의 핵심 인재 전략 과제로 부상하고 있다.",
-    "one_line_insight_en": "As AI displaces entry-level marketing roles, fundamentally reimagining talent development pipelines is becoming a critical strategic imperative for D2C organizations.",
-    "ai_processed": true
-  },
-  {
-    "title": "The open-source movement wants Jensen Huang back",
-    "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
-    "date_published": "2026-11-16",
-    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia…",
-    "source_id": "mit_tech_review_ai",
-    "source_name": "MIT Technology Review (AI)",
-    "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-    "categories": [
-      "tech",
-      "strategy"
-    ],
-    "relevance_score": 0.3,
-    "relevance_label": "high",
-    "title_en": "Open-Source Community Circulates Petition to Reinstate Jensen Huang as Nvidia CEO",
-    "summary_ko": "소셜 미디어에서 젠슨 황을 엔비디아 CEO로 복귀시키려는 청원이 시작되었으며, 일론 머스크 등 주요 인사들이 서명한 것으로 알려졌다. 오픈소스 커뮤니티를 중심으로 이 움직임이 확산되고 있다. 해당 기사는 엔비디아 리더십 변화와 오픈소스 AI 생태계 간의 긴장 관계를 조명한다.",
-    "summary_en": "A petition to reinstate Jensen Huang as Nvidia CEO began circulating on social media and quickly gained notable signatories, including Elon Musk. The movement appears to be driven by the open-source AI community. The article highlights tensions between Nvidia's leadership direction and open-source AI ecosystem stakeholders.",
-    "so_what_ko": "엔비디아 리더십 불확실성은 GPU 공급망 및 AI 인프라 전략에 단기적 영향을 줄 수 있으므로, LG D2C는 AI 인프라 파트너십 다변화를 고려해야 한다.",
-    "so_what_en": "Potential leadership instability at Nvidia could affect GPU supply chains and AI infrastructure strategies, prompting LG D2C to consider diversifying AI infrastructure partnerships.",
-    "key_points": [
-      "Petition to reinstate Jensen Huang as Nvidia CEO circulated on social media",
-      "Notable signatories include Elon Musk and influential Nvidia figures",
-      "Open-source community is a key driver of the movement",
-      "Reflects broader tensions between Nvidia's strategic direction and open-source AI advocates"
-    ],
-    "tags": [
-      "nvidia",
-      "open-source",
-      "ai-leadership",
-      "jensen-huang"
-    ],
-    "confidence": 0.5,
-    "strategic_theme": "COMPETITIVE_DYNAMICS",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Nvidia",
-      "Jensen Huang",
-      "Elon Musk",
-      "MIT Technology Review"
-    ],
-    "one_line_insight_ko": "엔비디아 리더십 불안정성은 AI 인프라 의존도가 높은 기업들에게 공급망 리스크로 작용할 수 있다.",
-    "one_line_insight_en": "Nvidia leadership uncertainty signals potential supply chain risk for AI-infrastructure-dependent organizations.",
-    "ai_processed": true
-  },
-  {
-    "title": "Claude AI for marketing: How teams use it with HubSpot",
-    "link": "https://blog.hubspot.com/marketing/claude-for-marketing",
-    "date_published": "2026-11-16",
-    "description": "I’ve been experimenting with Claude AI for marketing workflows over the past year, and it’s now my go-to assistant. In this field, AI use is close to universal: 98% of marketing teams use it in some way, according to HubSpot’s State of AI in Marketing report. For campaign marketers, that might look like turning a product announcement into a week of social posts, tightening ad copy to fit character limits, or pressure-testing campaign messaging before a stakeholder review.",
-    "source_id": "hubspot_marketing",
-    "source_name": "HubSpot Marketing Blog",
-    "source_url": "https://blog.hubspot.com/marketing/rss.xml",
-    "categories": [
-      "ai_marketing",
       "marketing"
     ],
-    "relevance_score": 0.85,
+    "relevance_score": 0.45,
     "relevance_label": "high",
-    "title_en": "How Marketing Teams Use Claude AI with HubSpot to Streamline Campaigns",
-    "summary_ko": "HubSpot의 AI 마케팅 현황 보고서에 따르면 마케팅 팀의 98%가 AI를 활용하고 있으며, Claude AI는 소셜 포스트 작성, 광고 카피 최적화, 캠페인 메시지 검토 등 다양한 워크플로에 활용되고 있다. Claude AI는 HubSpot과 통합되어 마케터들의 일상적인 콘텐츠 작업을 보조하는 주요 도구로 자리잡고 있다. 이 기사는 실제 마케팅 현장에서 Claude AI를 활용하는 구체적인 사례를 소개한다.",
-    "summary_en": "According to HubSpot's State of AI in Marketing report, 98% of marketing teams now use AI in some capacity. Claude AI is being used in conjunction with HubSpot for tasks such as turning product announcements into social posts, refining ad copy, and pressure-testing campaign messaging. The article provides practical examples of Claude AI integration into everyday marketing workflows.",
-    "so_what_ko": "LG D2C 마케팅 팀은 Claude AI와 같은 LLM 기반 도구를 HubSpot 등 기존 마케팅 플랫폼과 연동하여 콘텐츠 제작 효율을 대폭 높일 수 있다.",
-    "so_what_en": "LG D2C marketing teams can significantly boost content production efficiency by integrating LLM tools like Claude AI with existing platforms such as HubSpot.",
+    "title_en": "Qualcomm Partners with F1 Rising Star Kimi Antonelli to Drive Snapdragon Brand ROI",
+    "summary_ko": "퀄컴의 CMO Don McGuire는 스냅드래곤 브랜드가 F1 신성 키미 안토넬리와의 파트너십을 통해 성장하는 F1 팬덤에 접근하는 전략을 설명했다. 이 스폰서십은 단순 노출을 넘어 스포츠 마케팅 ROI를 극대화하려는 목적으로 설계되었다. F1은 최근 젊은 글로벌 팬층 확대로 브랜드 마케팅의 핵심 플랫폼으로 부상하고 있다.",
+    "summary_en": "Qualcomm CMO Don McGuire outlined how the Snapdragon brand is leveraging a partnership with F1 rising star Kimi Antonelli to reach Formula One's rapidly growing audience. The sponsorship is designed to go beyond mere exposure and maximize sports marketing ROI. F1 has emerged as a key brand marketing platform due to its expanding young, global fanbase.",
+    "so_what_ko": "LG D2C는 프리미엄 스포츠 스폰서십을 통해 젊은 글로벌 소비자층과 감성적으로 연결하고 브랜드 인지도를 높이는 전략을 검토할 수 있다.",
+    "so_what_en": "LG D2C should consider premium sports sponsorships to build emotional brand connections with younger global consumers and drive awareness.",
     "key_points": [
-      "98% of marketing teams use AI in some form, per HubSpot's State of AI in Marketing report",
-      "Claude AI is used for social post generation, ad copy refinement, and campaign message validation",
-      "HubSpot integration enables seamless AI-assisted marketing workflows",
-      "Claude AI is positioned as a primary AI assistant for campaign marketers"
+      "퀄컴 스냅드래곤이 F1 신예 키미 안토넬리와 스폰서십 체결",
+      "스포츠 마케팅 ROI 극대화를 위한 전략적 파트너십 설계",
+      "F1은 젊은 글로벌 팬층 성장으로 브랜드 마케팅 플랫폼으로 급부상"
     ],
     "tags": [
-      "claude-ai",
-      "ai-marketing",
-      "hubspot",
-      "content-automation",
-      "llm"
+      "sports-marketing",
+      "sponsorship",
+      "brand-awareness",
+      "f1",
+      "roi"
     ],
-    "confidence": 0.8,
+    "confidence": 0.65,
     "strategic_theme": "AI_MARKETING",
     "regions": [
       "GLOBAL"
@@ -332,46 +271,229 @@
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Claude AI",
-      "Anthropic",
-      "HubSpot"
+      "Qualcomm",
+      "Snapdragon",
+      "Kimi Antonelli",
+      "Formula One"
     ],
-    "one_line_insight_ko": "AI 마케팅 도구의 보편화가 가속화되면서, Claude AI와 HubSpot의 결합은 마케팅 콘텐츠 생산성의 새로운 기준을 제시하고 있다.",
-    "one_line_insight_en": "With AI adoption near-universal in marketing, Claude AI's HubSpot integration sets a new productivity benchmark for content-driven marketing teams.",
+    "one_line_insight_ko": "F1의 글로벌 팬덤 성장은 테크 브랜드에게 젊은 소비자층 공략을 위한 스포츠 마케팅 기회를 제공한다.",
+    "one_line_insight_en": "F1's surging global fanbase offers tech brands a compelling sports marketing vehicle to engage younger consumer demographics.",
     "ai_processed": true
   },
   {
-    "title": "Deloitte Digital’s new agentic tools aim to fix messy marketing workflows",
-    "link": "https://www.marketingdive.com/news/deloitte-digitals-new-agentic-tools-aim-to-fix-messy-marketing-workflows/874779/",
-    "date_published": "2026-11-16",
-    "description": "The consultancy’s marketing services arm is responding to data that shows the pace of AI advancement is bumping up against organizational constraints.",
+    "title": "Holiday TV ads from retailers arrive earlier, more frequently in 2026",
+    "link": "https://www.marketingdive.com/news/holiday-tv-ads-from-retailers-arrive-earlier-more-frequently-in-2026/874883/",
+    "date_published": "2026-11-17",
+    "description": "The number of holiday ads running in September across categories was six times that of 2021 as brands raced to make the most of the Q4 season.",
     "source_id": "marketing_dive",
     "source_name": "Marketing Dive",
     "source_url": "https://www.marketingdive.com/feeds/news/",
     "categories": [
-      "ai_marketing",
-      "agentic_commerce",
-      "strategy"
+      "marketing"
     ],
-    "relevance_score": 0.9,
+    "relevance_score": 0.55,
     "relevance_label": "high",
-    "title_en": "Deloitte Digital Launches Agentic AI Tools to Untangle Complex Marketing Workflows",
-    "summary_ko": "딜로이트 디지털이 복잡하고 비효율적인 마케팅 워크플로를 개선하기 위한 에이전틱 AI 도구를 출시했다. 이 움직임은 AI 발전 속도가 조직 내부의 구조적 제약에 부딪히고 있다는 데이터에 기반한 대응이다. 컨설팅 기업이 마케팅 운영 자동화 영역에서 에이전틱 AI를 본격적으로 상용화하고 있다는 점에서 업계 전반의 변화를 예고한다.",
-    "summary_en": "Deloitte Digital has launched new agentic AI tools designed to address inefficient and fragmented marketing workflows. The initiative is a direct response to data indicating that the rapid pace of AI advancement is running into organizational constraints. The move signals that major consultancies are now commercializing agentic AI for marketing operations at scale.",
-    "so_what_ko": "LG D2C는 에이전틱 AI 도입 시 조직 내부의 프로세스 정비와 데이터 거버넌스를 선제적으로 구축해야 기술 투자 효과를 극대화할 수 있다.",
-    "so_what_en": "LG D2C should proactively establish internal process alignment and data governance before deploying agentic AI tools to maximize the return on technology investment.",
+    "title_en": "Holiday TV Ads from Retailers Arrive Earlier and More Frequently in 2026",
+    "summary_ko": "2026년 9월에 집행된 홀리데이 광고 수는 2021년 대비 6배 증가하며 브랜드들이 Q4 시즌을 최대한 활용하려는 경쟁이 심화되고 있다. 리테일러들은 경쟁 우위를 확보하기 위해 홀리데이 TV 광고를 더 이르게, 더 자주 집행하는 전략을 채택하고 있다. 이는 소비자 구매 결정 사이클이 앞당겨지고 있음을 반영하는 추세다.",
+    "summary_en": "The number of holiday ads running in September 2026 was six times that of 2021, reflecting an intensified race among brands to capitalize on the Q4 season. Retailers are adopting strategies to run holiday TV ads earlier and more frequently to gain competitive advantage. This trend reflects an accelerating consumer purchase decision cycle ahead of the holiday season.",
+    "so_what_ko": "LG D2C는 Q4 홀리데이 시즌에 대한 광고 집행 시점을 앞당기고 멀티채널 캠페인 빈도를 높여 경쟁사보다 먼저 소비자 인지도를 선점해야 한다.",
+    "so_what_en": "LG D2C should shift holiday campaign launch timelines earlier and increase multi-channel ad frequency to capture consumer mindshare before competitors.",
     "key_points": [
-      "Deloitte Digital launched agentic AI tools targeting fragmented marketing workflows",
-      "AI advancement pace is outpacing organizational readiness, per Deloitte's data",
-      "Major consultancies are now offering commercialized agentic AI marketing solutions",
-      "Organizational constraints are identified as the primary barrier to AI-driven marketing transformation"
+      "2026년 9월 홀리데이 광고 수가 2021년 대비 6배 증가",
+      "브랜드들이 Q4 시즌 선점을 위해 광고 집행 시기를 앞당기는 추세",
+      "소비자 구매 결정 사이클의 조기화 현상이 광고 전략 변화를 주도"
     ],
     "tags": [
-      "agentic-ai",
-      "marketing-automation",
-      "deloitte",
-      "workflow-optimization",
-      "enterprise-ai"
+      "holiday-marketing",
+      "tv-advertising",
+      "retail",
+      "q4-strategy",
+      "brand-campaigns"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "AMER",
+      "GLOBAL"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Marketing Dive"
+    ],
+    "one_line_insight_ko": "홀리데이 광고의 조기화·고빈도 추세는 D2C 브랜드가 Q4 캠페인 전략을 근본적으로 재설계해야 함을 시사한다.",
+    "one_line_insight_en": "The trend toward earlier and more frequent holiday advertising signals that D2C brands must fundamentally rethink their Q4 campaign timing strategies.",
+    "ai_processed": true
+  },
+  {
+    "title": "Burger King’s feedback campaign takes aim at its own restaurants",
+    "link": "https://www.marketingdive.com/news/burger-kings-push-for-consumer-feedback-takes-aim-at-its-own-restaurants/874704/",
+    "date_published": "2026-11-17",
+    "description": "CMO Joel Yashinsky explains how the chain is listening to customers, a push that has helped it deliver comparable sales increases.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
+    "categories": [
+      "marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.48,
+    "relevance_label": "high",
+    "title_en": "Burger King's Customer Feedback Campaign Targets Its Own Restaurant Experience",
+    "summary_ko": "버거킹 CMO Joel Yashinsky는 고객 피드백을 적극 수렴하는 캠페인을 통해 자사 레스토랑 경험 개선에 나서고 있다고 설명했다. 이 고객 중심 접근법은 버거킹이 비교 가능한 매출 증가를 달성하는 데 기여한 것으로 나타났다. 소비자의 목소리를 브랜드 전략의 중심에 놓는 이 방식은 QSR(퀵서비스 레스토랑) 업계에서 주목받고 있다.",
+    "summary_en": "Burger King CMO Joel Yashinsky explained how the chain is actively incorporating customer feedback to improve its restaurant experience. This customer-centric approach has contributed to the brand achieving comparable sales increases. The strategy of placing consumer voice at the center of brand decisions is drawing attention across the QSR industry.",
+    "so_what_ko": "LG D2C는 고객 피드백 루프를 마케팅 및 제품 개선 전략에 체계적으로 통합하여 소비자 신뢰와 매출을 동시에 높이는 접근법을 도입할 수 있다.",
+    "so_what_en": "LG D2C can systematically integrate customer feedback loops into marketing and product improvement strategies to simultaneously build consumer trust and drive sales.",
+    "key_points": [
+      "버거킹이 고객 피드백을 중심으로 한 캠페인으로 자사 레스토랑 경험 개선 추진",
+      "고객 중심 전략이 비교 가능한 매출 증가로 이어지는 성과 확인",
+      "소비자 목소리를 브랜드 전략의 핵심 요소로 활용하는 접근법"
+    ],
+    "tags": [
+      "customer-feedback",
+      "brand-strategy",
+      "customer-experience",
+      "qsr",
+      "consumer-insights"
+    ],
+    "confidence": 0.65,
+    "strategic_theme": "CUSTOMER_EXPERIENCE",
+    "regions": [
+      "AMER"
+    ],
+    "business_impact": "MEDIUM",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Burger King",
+      "Joel Yashinsky"
+    ],
+    "one_line_insight_ko": "고객 피드백을 브랜드 전략의 중심에 두는 접근법은 소비자 신뢰 구축과 매출 성장을 동시에 실현하는 강력한 도구다.",
+    "one_line_insight_en": "Placing customer feedback at the core of brand strategy is a powerful lever for simultaneously building consumer trust and driving measurable sales growth.",
+    "ai_processed": true
+  },
+  {
+    "title": "Holiday marketing hits inflection point in 2026: What brands need to know",
+    "link": "https://www.marketingdive.com/news/holiday-marketing-hits-inflection-point-in-2026-what-brands-need-to-know/874758/",
+    "date_published": "2026-11-17",
+    "description": "Consumers’ push-pull relationship with buzzy tactics like AI and tried-and-true strategies like creator tie-ups is challenging brands to find the right balance.",
+    "source_id": "marketing_dive",
+    "source_name": "Marketing Dive",
+    "source_url": "https://www.marketingdive.com/feeds/news/",
+    "categories": [
+      "marketing",
+      "ai_marketing"
+    ],
+    "relevance_score": 0.75,
+    "relevance_label": "high",
+    "title_en": "Holiday Marketing Reaches Inflection Point in 2026: AI and Creator Strategies in Play",
+    "summary_ko": "2026년 홀리데이 마케팅은 AI와 크리에이터 협업 등 새로운 전술과 검증된 전략 사이에서 균형을 찾으려는 브랜드들의 도전이 커지는 변곡점에 도달했다. 소비자들은 AI 기반 마케팅 전술에 대해 흥미와 거부감이 공존하는 복잡한 반응을 보이고 있다. 브랜드들은 AI와 인간적 창의성을 효과적으로 결합하는 전략적 균형점을 모색하고 있다.",
+    "summary_en": "Holiday marketing in 2026 has reached an inflection point, with brands facing growing challenges in balancing new tactics like AI and proven strategies like creator partnerships. Consumers display a complex push-pull relationship with AI-driven marketing tactics, showing both curiosity and resistance. Brands are actively seeking a strategic equilibrium that effectively combines AI capabilities with human creativity.",
+    "so_what_ko": "LG D2C는 AI 기반 마케팅 도구와 크리에이터 협업을 전략적으로 결합하되, 소비자의 AI 피로감을 고려한 균형 잡힌 홀리데이 캠페인 설계가 필요하다.",
+    "so_what_en": "LG D2C needs to strategically combine AI-powered marketing tools with creator partnerships, designing holiday campaigns that account for consumer AI fatigue.",
+    "key_points": [
+      "2026년 홀리데이 마케팅에서 AI와 크리에이터 전략의 균형이 핵심 과제로 부상",
+      "소비자들의 AI 마케팅 전술에 대한 양가적 반응(관심+거부감) 확인",
+      "브랜드들이 AI 기술과 인간적 창의성의 효과적 결합점을 모색 중"
+    ],
+    "tags": [
+      "holiday-marketing",
+      "ai-marketing",
+      "creator-economy",
+      "brand-strategy",
+      "consumer-behavior"
+    ],
+    "confidence": 0.72,
+    "strategic_theme": "AI_MARKETING",
+    "regions": [
+      "GLOBAL",
+      "AMER"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Marketing Dive"
+    ],
+    "one_line_insight_ko": "AI와 크리에이터 전략의 균형이 2026년 홀리데이 마케팅 성패를 가르는 핵심 변수로 떠올랐다.",
+    "one_line_insight_en": "Striking the right balance between AI-driven tactics and creator-led strategies has become the defining factor for holiday marketing success in 2026.",
+    "ai_processed": true
+  },
+  {
+    "title": "Ad Buyers Embrace Retail Media’s Honeymoon With Streaming",
+    "link": "https://www.adweek.com/commerce/ad-buyers-embrace-retail-medias-honeymoon-with-streaming/",
+    "date_published": "2026-11-17",
+    "description": "TV deals with shopping data have created a powerful tool.",
+    "source_id": "adweek",
+    "source_name": "Adweek",
+    "source_url": "https://www.adweek.com/feed",
+    "categories": [
+      "commerce",
+      "marketing",
+      "ai_marketing"
+    ],
+    "relevance_score": 0.78,
+    "relevance_label": "high",
+    "title_en": "Ad Buyers Embrace the Powerful Convergence of Retail Media and Streaming TV",
+    "summary_ko": "광고 구매자들이 리테일 미디어와 스트리밍 TV의 결합이 만들어낸 강력한 광고 도구를 적극 수용하고 있다. 쇼핑 데이터와 TV 광고를 결합한 이 모델은 타겟팅 정밀도와 구매 전환율을 동시에 높이는 효과를 제공한다. 리테일 미디어 네트워크의 스트리밍 플랫폼 연계는 D2C 및 리테일 브랜드에게 새로운 성과 기반 광고 채널로 주목받고 있다.",
+    "summary_en": "Ad buyers are increasingly embracing the powerful advertising tool created by the convergence of retail media networks and streaming TV platforms. This model, combining shopping data with TV advertising, delivers both enhanced targeting precision and higher purchase conversion rates. The integration of retail media with streaming is gaining attention as a new performance-driven advertising channel for D2C and retail brands.",
+    "so_what_ko": "LG D2C는 리테일 미디어 네트워크와 스트리밍 플랫폼의 연계 광고 솔루션을 활용하여 구매 데이터 기반의 정밀 타겟팅과 전환율 향상을 추구해야 한다.",
+    "so_what_en": "LG D2C should leverage the integration of retail media networks with streaming platforms to pursue purchase-data-driven precision targeting and improved conversion rates.",
+    "key_points": [
+      "리테일 미디어와 스트리밍 TV 결합이 광고 구매자들에게 강력한 도구로 부상",
+      "쇼핑 데이터와 TV 광고 연계로 타겟팅 정밀도와 구매 전환율 향상 가능",
+      "D2C 브랜드에게 성과 기반 광고 채널로서의 리테일 미디어-스트리밍 연계가 주목받는 중"
+    ],
+    "tags": [
+      "retail-media",
+      "streaming",
+      "connected-tv",
+      "d2c-advertising",
+      "commerce-media"
+    ],
+    "confidence": 0.7,
+    "strategic_theme": "RETAIL_TRANSFORMATION",
+    "regions": [
+      "AMER",
+      "GLOBAL"
+    ],
+    "business_impact": "HIGH",
+    "sentiment": "OPPORTUNITY",
+    "key_entities": [
+      "Adweek"
+    ],
+    "one_line_insight_ko": "리테일 미디어와 스트리밍의 결합은 쇼핑 데이터 기반 정밀 타겟팅으로 D2C 광고 효율을 획기적으로 높일 수 있는 채널로 급부상하고 있다.",
+    "one_line_insight_en": "The convergence of retail media and streaming TV is rapidly emerging as a channel that can dramatically improve D2C advertising efficiency through purchase-data-driven precision targeting.",
+    "ai_processed": true
+  },
+  {
+    "title": "When AI agents evaluate B2B vendors, what earns consideration?",
+    "link": "https://martech.org/when-ai-agents-evaluate-b2b-vendors-what-earns-consideration/",
+    "date_published": "2026-11-17",
+    "description": "Similar B2B solutions need more than competitive features. Clear product information and credible evidence can turn AI discovery into buyer consideration.\nThe post When AI agents evaluate B2B vendors, what earns consideration? appeared first on MarTech.",
+    "source_id": "martech_org",
+    "source_name": "MarTech.org",
+    "source_url": "https://martech.org/feed",
+    "categories": [
+      "ai_marketing",
+      "strategy"
+    ],
+    "relevance_score": 0.88,
+    "relevance_label": "high",
+    "title_en": "When AI Agents Evaluate B2B Vendors, What Earns Consideration?",
+    "summary_ko": "AI 에이전트가 B2B 벤더를 평가하는 시대에, 명확한 제품 정보와 신뢰할 수 있는 증거가 AI 기반 구매 검토 단계에서 핵심 경쟁력으로 부상하고 있다. 유사한 기능을 가진 솔루션들 사이에서 AI의 선택을 받으려면 단순한 기능 나열을 넘어선 콘텐츠 전략이 필요하다. AI 에이전트가 벤더 탐색의 주체가 되면서 B2B 마케팅의 기준이 근본적으로 변화하고 있다.",
+    "summary_en": "As AI agents increasingly take on the role of evaluating B2B vendors, clear product information and credible evidence are becoming critical differentiators in the discovery process. Solutions with similar features must go beyond competitive specs to earn AI-driven consideration. This shift signals a fundamental change in how B2B marketing content must be structured and positioned.",
+    "so_what_ko": "LG D2C 조직은 AI 에이전트가 벤더를 평가할 때 선택받을 수 있도록 제품 정보의 명확성과 신뢰성 있는 증거 자료(케이스 스터디, 데이터 등)를 중심으로 디지털 콘텐츠 전략을 재정비해야 한다.",
+    "so_what_en": "LG D2C should restructure its digital content strategy to ensure AI agents can clearly parse product information and credible proof points, as AI-mediated vendor evaluation becomes a standard step in the B2B buying journey.",
+    "key_points": [
+      "AI 에이전트가 B2B 벤더 탐색 및 평가의 주요 주체로 부상",
+      "명확한 제품 정보와 신뢰할 수 있는 근거 자료가 AI 선택의 핵심 요인",
+      "유사 솔루션 간 차별화를 위해 기능 이상의 콘텐츠 전략 필요"
+    ],
+    "tags": [
+      "ai-agent",
+      "b2b-marketing",
+      "vendor-evaluation",
+      "ai-discovery",
+      "content-strategy"
     ],
     "confidence": 0.75,
     "strategic_theme": "AI_AGENT",
@@ -381,143 +503,46 @@
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Deloitte Digital",
-      "Marketing Dive"
+      "MarTech.org"
     ],
-    "one_line_insight_ko": "딜로이트의 에이전틱 마케팅 도구 출시는 조직 역량 강화 없이는 AI 도입이 한계에 부딪힌다는 현실을 반영한다.",
-    "one_line_insight_en": "Deloitte's agentic marketing tools highlight that organizational readiness, not technology, is now the critical bottleneck for AI-driven marketing transformation.",
+    "one_line_insight_ko": "AI 에이전트가 B2B 구매의 첫 번째 평가자가 되면서, 명확하고 신뢰성 있는 디지털 콘텐츠가 곧 영업력이 된다.",
+    "one_line_insight_en": "As AI agents become the first screeners in B2B purchasing, structured and credible digital content is now a core sales asset.",
     "ai_processed": true
   },
   {
-    "title": "Meow Mix reimagines iconic cat memes for multichannel campaign",
-    "link": "https://www.marketingdive.com/news/meow-mix-reimagines-iconic-cat-memes-for-multichannel-campaign/874724/",
-    "date_published": "2026-11-16",
-    "description": "The J.M. Smucker Co. cat food brand fictionalized behind-the-scenes videos for internet-famous characters including Keyboard Cat and Huh Cat.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
+    "title": "The agentic era brings new challenges for commerce. Here’s how to solve them.",
+    "link": "https://www.salesforce.com/blog/agentic-commerce-challenges-solutions/",
+    "date_published": "2026-11-17",
+    "description": "Digital commerce constantly reinvents itself. The 90s launched shopping online, the early aughts brought the cloud, and the 2010s ushered in mobile and social commerce. Each new wave forced retailers to rethink how…",
+    "source_id": "salesforce_agentforce",
+    "source_name": "Salesforce Agentforce Blog",
+    "source_url": "https://www.salesforce.com/blog/category/ai/feed/",
     "categories": [
-      "marketing"
+      "agentic_commerce",
+      "commerce",
+      "strategy"
     ],
-    "relevance_score": 0.4,
+    "relevance_score": 0.95,
     "relevance_label": "high",
-    "title_en": "Meow Mix Reimagines Iconic Internet Cat Memes for Multichannel Campaign",
-    "summary_ko": "미국 고양이 사료 브랜드 미아우 믹스가 키보드 캣, 허 캣 등 인터넷 밈으로 유명한 고양이 캐릭터들의 비하인드 스토리를 가상으로 연출한 멀티채널 캠페인을 선보였다. 이 캠페인은 J.M. 스머커 컴퍼니의 브랜드가 디지털 문화와 밈 마케팅을 본격 활용한 사례다. 소비자에게 친숙한 인터넷 문화 콘텐츠를 브랜드 스토리텔링과 결합한 창의적 접근이 주목된다.",
-    "summary_en": "Meow Mix, a cat food brand under J.M. Smucker Co., launched a multichannel campaign featuring fictionalized behind-the-scenes videos of internet-famous cats like Keyboard Cat and Huh Cat. The campaign leverages iconic meme culture to build brand storytelling across multiple channels. It represents a creative approach to connecting digital culture with brand narratives for consumer engagement.",
-    "so_what_ko": "LG D2C는 소비자에게 친숙한 디지털 문화 요소를 브랜드 콘텐츠에 접목하는 밈 마케팅 전략을 멀티채널 캠페인에 응용할 수 있다.",
-    "so_what_en": "LG D2C can explore meme-driven storytelling strategies that tap into digital culture touchpoints to enhance multichannel campaign engagement.",
+    "title_en": "The Agentic Era Brings New Commerce Challenges — And Salesforce Has Solutions",
+    "summary_ko": "Salesforce는 에이전틱 커머스 시대가 온라인 쇼핑, 클라우드, 모바일·소셜 커머스에 이은 차세대 혁신 물결이라고 진단한다. AI 에이전트가 구매 여정에 개입하면서 소매업체들은 비즈니스 운영 방식을 근본적으로 재설계해야 하는 도전에 직면했다. Salesforce Agentforce는 이러한 에이전틱 커머스의 새로운 과제들에 대한 솔루션을 제시하고 있다.",
+    "summary_en": "Salesforce identifies the agentic era as the next major wave in digital commerce, following online shopping, cloud, and mobile/social commerce. As AI agents increasingly intervene in the buying journey, retailers must fundamentally rethink how they operate. Salesforce Agentforce positions itself as a solution provider for the unique challenges this new paradigm introduces.",
+    "so_what_ko": "LG D2C는 에이전틱 커머스로의 전환을 단순한 기술 트렌드가 아닌 비즈니스 모델 재설계의 계기로 삼아, AI 에이전트와의 연동 및 자동화된 구매 흐름 대응 역량을 조기에 구축해야 한다.",
+    "so_what_en": "LG D2C should treat agentic commerce not as a distant trend but as an imminent operational shift, proactively building capabilities to integrate with AI agent-driven purchase flows.",
     "key_points": [
-      "Meow Mix created fictionalized behind-the-scenes videos featuring Keyboard Cat and Huh Cat",
-      "Campaign spans multiple channels leveraging internet meme culture",
-      "J.M. Smucker Co. is using digital culture narratives for brand storytelling",
-      "Creative use of familiar internet icons to drive consumer engagement"
+      "에이전틱 커머스는 디지털 커머스의 차세대 패러다임 전환으로 규정됨",
+      "AI 에이전트의 구매 여정 개입으로 소매업체의 운영 전반 재설계 필요",
+      "Salesforce Agentforce가 에이전틱 커머스 과제 해결을 위한 플랫폼으로 포지셔닝",
+      "각 커머스 혁신 물결은 소매업체에게 근본적 변화를 강요했다는 역사적 패턴 존재"
     ],
     "tags": [
-      "meme-marketing",
-      "multichannel-campaign",
-      "brand-storytelling",
-      "digital-culture"
-    ],
-    "confidence": 0.75,
-    "strategic_theme": "AI_MARKETING",
-    "regions": [
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Meow Mix",
-      "J.M. Smucker Co.",
-      "Keyboard Cat",
-      "Huh Cat"
-    ],
-    "one_line_insight_ko": "인터넷 밈을 브랜드 스토리텔링에 통합하는 전략은 디지털 네이티브 소비자와의 감성적 연결을 강화하는 효과적인 수단이다.",
-    "one_line_insight_en": "Integrating internet meme culture into brand storytelling offers an effective way to build emotional resonance with digitally native consumers.",
-    "ai_processed": true
-  },
-  {
-    "title": "Amazon puts Arnold Schwarzenegger in Santa suit to extend holiday push",
-    "link": "https://www.marketingdive.com/news/amazon-puts-arnold-schwarzenegger-in-santa-suit-to-extend-holiday-push/874675/",
-    "date_published": "2026-11-16",
-    "description": "The spot builds on a “Joy Delivered\" campaign and takes inspiration from an upcoming Prime Video original holiday movie starring the “Terminator” actor.",
-    "source_id": "marketing_dive",
-    "source_name": "Marketing Dive",
-    "source_url": "https://www.marketingdive.com/feeds/news/",
-    "categories": [
-      "marketing",
-      "commerce"
-    ],
-    "relevance_score": 0.45,
-    "relevance_label": "high",
-    "title_en": "Amazon Features Arnold Schwarzenegger in Santa Suit to Amplify Holiday Campaign",
-    "summary_ko": "아마존이 아놀드 슈워제네거를 산타 복장으로 등장시키는 광고 캠페인을 통해 연말 홀리데이 마케팅 공세를 강화했다. 이 캠페인은 '조이 딜리버드(Joy Delivered)' 시리즈의 연장선으로, 슈워제네거가 출연하는 프라임 비디오 오리지널 홀리데이 영화와도 연계된다. 스타 파워와 콘텐츠 IP를 결합한 크로스 미디어 전략으로 아마존의 커머스와 스트리밍 플랫폼을 동시에 홍보하는 효과를 노린다.",
-    "summary_en": "Amazon launched a holiday campaign featuring Arnold Schwarzenegger dressed as Santa Claus, extending its 'Joy Delivered' campaign series. The spot is tied to an upcoming Prime Video original holiday movie starring Schwarzenegger. The campaign exemplifies Amazon's cross-media strategy of linking its e-commerce and streaming platforms through celebrity-driven content.",
-    "so_what_ko": "LG D2C는 자사 콘텐츠 플랫폼 및 브랜드 IP와 연계된 시즌 마케팅 캠페인 기획 시 스타 파워와 멀티 플랫폼 연동 전략을 참고할 수 있다.",
-    "so_what_en": "LG D2C can draw inspiration from Amazon's cross-platform, celebrity-integrated seasonal campaign model when planning holiday marketing tied to content or product launches.",
-    "key_points": [
-      "Amazon's holiday campaign features Arnold Schwarzenegger dressed as Santa Claus",
-      "Campaign extends the 'Joy Delivered' series with a celebrity-driven narrative",
-      "Tied to a Prime Video original holiday movie starring Schwarzenegger",
-      "Demonstrates Amazon's cross-media strategy linking e-commerce and streaming platforms"
-    ],
-    "tags": [
-      "holiday-marketing",
-      "amazon",
-      "celebrity-marketing",
-      "cross-platform",
-      "prime-video"
+      "agentic-commerce",
+      "ai-agent",
+      "salesforce",
+      "retail-transformation",
+      "digital-commerce"
     ],
     "confidence": 0.8,
-    "strategic_theme": "CUSTOMER_EXPERIENCE",
-    "regions": [
-      "GLOBAL",
-      "AMER"
-    ],
-    "business_impact": "LOW",
-    "sentiment": "NEUTRAL",
-    "key_entities": [
-      "Amazon",
-      "Arnold Schwarzenegger",
-      "Prime Video",
-      "Joy Delivered"
-    ],
-    "one_line_insight_ko": "아마존의 홀리데이 캠페인은 스타 IP와 스트리밍 콘텐츠를 커머스와 결합하는 크로스 미디어 전략의 모범 사례다.",
-    "one_line_insight_en": "Amazon's holiday campaign exemplifies how celebrity IP and streaming content can be seamlessly woven into a cross-platform commerce strategy.",
-    "ai_processed": true
-  },
-  {
-    "title": "Bloomreach goes back to its roots with AthenaHQ acquisition",
-    "link": "https://martech.org/bloomreach-goes-back-to-its-roots-with-athenahq-acquisition/",
-    "date_published": "2026-11-16",
-    "description": "Can anyone prove ROI in AI search? Bloomreach’s AthenaHQ acquisition hopes to connect conversational discovery directly to customer revenue. \nThe post Bloomreach goes back to its roots with AthenaHQ acquisition appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
-    "categories": [
-      "commerce",
-      "ai_marketing",
-      "agentic_commerce"
-    ],
-    "relevance_score": 0.85,
-    "relevance_label": "high",
-    "title_en": "Bloomreach Acquires AthenaHQ to Connect Conversational AI Search Directly to Revenue",
-    "summary_ko": "Bloomreach가 AthenaHQ를 인수하며 대화형 AI 검색과 고객 매출을 직접 연결하는 ROI 증명에 나섰다. 이번 인수는 AI 검색이 실제 비즈니스 성과로 이어진다는 점을 입증하려는 전략적 행보다. Bloomreach는 커머스 검색 및 개인화 플랫폼의 핵심 역량으로 돌아가 AI 기반 구매 여정 최적화를 강화할 계획이다.",
-    "summary_en": "Bloomreach has acquired AthenaHQ to directly link conversational AI discovery to customer revenue outcomes. The acquisition is a strategic move to prove ROI in AI-powered search, a challenge that has persisted across the martech industry. By returning to its commerce search and personalization roots, Bloomreach aims to strengthen its AI-driven shopping journey capabilities.",
-    "so_what_ko": "LG D2C는 AI 검색이 실질적인 매출 전환에 기여하는지 측정하는 체계를 구축하고, 대화형 탐색 기능을 고객 구매 여정에 통합하는 방안을 검토해야 한다.",
-    "so_what_en": "LG D2C should evaluate how conversational AI search can be tied to measurable revenue outcomes and explore integrating discovery tools directly into the purchase funnel.",
-    "key_points": [
-      "Bloomreach acquired AthenaHQ to bridge conversational AI search and customer revenue",
-      "The deal addresses the persistent challenge of proving ROI in AI search",
-      "Bloomreach is refocusing on its core commerce discovery and personalization strengths"
-    ],
-    "tags": [
-      "ai-search",
-      "conversational-commerce",
-      "martech-acquisition",
-      "roi-measurement",
-      "personalization"
-    ],
-    "confidence": 0.7,
     "strategic_theme": "AI_COMMERCE",
     "regions": [
       "GLOBAL"
@@ -525,45 +550,45 @@
     "business_impact": "HIGH",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "Bloomreach",
-      "AthenaHQ"
+      "Salesforce",
+      "Agentforce"
     ],
-    "one_line_insight_ko": "Bloomreach의 AthenaHQ 인수는 AI 검색의 ROI 증명이 차세대 커머스 경쟁력의 핵심 과제임을 시사한다.",
-    "one_line_insight_en": "Bloomreach's acquisition of AthenaHQ signals that proving AI search ROI is becoming the defining competitive challenge in commerce personalization.",
+    "one_line_insight_ko": "에이전틱 커머스는 디지털 커머스의 다음 혁신 물결로, 지금 대응 역량을 갖추지 못하면 다음 경쟁에서 뒤처질 수 있다.",
+    "one_line_insight_en": "Agentic commerce is the next defining wave in retail — brands that don't build agent-ready infrastructure now risk being left behind.",
     "ai_processed": true
   },
   {
-    "title": "Beyond deployment: How to lead the change and make AI adoption stick",
-    "link": "https://martech.org/beyond-deployment-how-to-lead-the-change-and-make-ai-adoption-stick/",
-    "date_published": "2026-11-16",
-    "description": "Tool adoption stalls when teams feel unsafe. At the November MarTech Conference, we discussed how to turn AI apprehension into confident, high-value execution.\nThe post Beyond deployment: How to lead the change and make AI adoption stick appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
+    "title": "How to use AI to write a blog post (that isn’t slop)",
+    "link": "https://blog.hubspot.com/marketing/how-to-use-ai-to-write-a-blog-post",
+    "date_published": "2026-11-10",
+    "description": "As a seasoned marketer and lifelong writer, even I will admit AI can be a helpful tool in creating content. HubSpot’s 2026 State of Marketing backs me up, finding that 42.5% of marketing teams use AI extensively as a content creation tool, and another 38% use it occasionally — but the keyword here is “tool.”",
+    "source_id": "hubspot_marketing",
+    "source_name": "HubSpot Marketing Blog",
+    "source_url": "https://blog.hubspot.com/marketing/rss.xml",
     "categories": [
       "ai_marketing",
-      "strategy"
+      "marketing"
     ],
-    "relevance_score": 0.75,
+    "relevance_score": 0.65,
     "relevance_label": "high",
-    "title_en": "AI Adoption Stalls Without Cultural Change — Leaders Must Turn Apprehension Into Confident Execution",
-    "summary_ko": "AI 도구 도입이 실패하는 주요 원인은 팀원들이 심리적 안전감을 느끼지 못하기 때문이라는 사실이 11월 MarTech 컨퍼런스에서 논의됐다. 단순한 기술 배포를 넘어 조직 문화와 리더십 변화가 AI 채택의 성패를 좌우한다. AI에 대한 막연한 불안감을 자신감 있는 고부가가치 실행으로 전환시키는 변화 관리가 핵심 과제로 부각됐다.",
-    "summary_en": "At the November MarTech Conference, speakers highlighted that AI tool adoption fails primarily because teams lack psychological safety rather than technical readiness. Successful AI integration requires going beyond deployment to address organizational culture and leadership change management. Converting AI apprehension into confident, high-value execution was identified as the central challenge for marketing organizations.",
-    "so_what_ko": "LG D2C 조직은 AI 툴 도입 시 기술 구현뿐 아니라 구성원의 심리적 안전감과 역량 강화를 위한 체계적인 변화 관리 프로그램을 병행해야 한다.",
-    "so_what_en": "LG D2C must pair AI tool rollouts with structured change management programs that build psychological safety and upskill teams to ensure adoption translates into real performance gains.",
+    "title_en": "HubSpot Guide: How to Use AI to Write Blog Posts That Actually Have Value",
+    "summary_ko": "HubSpot의 2026 마케팅 현황 보고서에 따르면 마케팅 팀의 42.5%가 AI를 콘텐츠 제작에 광범위하게 활용하고 있으며, 38%는 가끔 사용하는 것으로 나타났다. HubSpot은 AI를 콘텐츠 제작의 '도구'로 올바르게 활용하면 질 낮은 콘텐츠('슬롭')를 피하면서도 생산성을 높일 수 있다고 강조한다. 숙련된 마케터의 편집 역량과 AI의 효율성을 결합하는 것이 고품질 블로그 콘텐츠 제작의 핵심이다.",
+    "summary_en": "HubSpot's 2026 State of Marketing report reveals that 42.5% of marketing teams use AI extensively for content creation, with another 38% using it occasionally. The article emphasizes that AI should be treated as a tool — not a replacement — for skilled marketers to avoid producing low-quality 'slop' content. Combining human editorial judgment with AI efficiency is presented as the formula for high-quality blog content.",
+    "so_what_ko": "LG D2C 마케팅팀은 AI 콘텐츠 도구 도입 시 단순 자동화보다는 숙련된 마케터의 편집 역량과 AI를 결합한 하이브리드 워크플로우를 구축하여 콘텐츠 품질과 생산성을 동시에 확보해야 한다.",
+    "so_what_en": "LG D2C marketing teams should build hybrid AI-human content workflows that leverage AI for efficiency while preserving skilled editorial oversight to maintain content quality and brand credibility.",
     "key_points": [
-      "Psychological safety, not technical barriers, is the primary reason AI adoption stalls",
-      "Leadership-driven change management is essential for making AI adoption stick",
-      "Organizations must actively convert AI apprehension into confident execution"
+      "HubSpot 2026 보고서: 마케팅 팀 42.5%가 AI를 콘텐츠 제작에 광범위 활용",
+      "AI는 대체재가 아닌 도구로 활용해야 품질 저하('슬롭') 방지 가능",
+      "숙련된 마케터의 편집 판단력과 AI 효율성의 결합이 핵심 접근법"
     ],
     "tags": [
-      "ai-adoption",
-      "change-management",
-      "organizational-culture",
-      "martech",
-      "leadership"
+      "ai-content",
+      "blog-writing",
+      "content-marketing",
+      "hubspot",
+      "ai-tools"
     ],
-    "confidence": 0.65,
+    "confidence": 0.85,
     "strategic_theme": "AI_MARKETING",
     "regions": [
       "GLOBAL"
@@ -571,141 +596,104 @@
     "business_impact": "MEDIUM",
     "sentiment": "OPPORTUNITY",
     "key_entities": [
-      "MarTech Conference"
+      "HubSpot"
     ],
-    "one_line_insight_ko": "AI 도입의 진짜 장벽은 기술이 아닌 심리적 안전감과 조직 문화이며, 리더십의 변화 관리가 성패를 결정한다.",
-    "one_line_insight_en": "The real barrier to AI adoption is psychological safety and culture, not technology — making leadership-driven change management the decisive factor.",
+    "one_line_insight_ko": "AI 콘텐츠 도구의 대중화 속에서 차별화된 콘텐츠 품질을 유지하려면 인간 편집자의 역할이 오히려 더 중요해진다.",
+    "one_line_insight_en": "As AI content tools become ubiquitous, human editorial judgment becomes the true differentiator for content quality and brand authenticity.",
     "ai_processed": true
   },
   {
-    "title": "How to protect brand reputation in the AI era",
-    "link": "https://martech.org/how-to-protect-brand-reputation-in-the-ai-era/",
-    "date_published": "2026-11-16",
-    "description": "Your brand's story is increasingly told by others. Here's how to build a stronger reputation across search, AI, and third-party sources.\nThe post How to protect brand reputation in the AI era appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
+    "title": "This smell startup says its AI nose is as good as a human’s",
+    "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+    "date_published": "2026-11-18",
+    "description": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation…",
+    "source_id": "mit_tech_review_ai",
+    "source_name": "MIT Technology Review (AI)",
+    "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
     "categories": [
-      "ai_marketing",
-      "strategy"
+      "tech"
     ],
-    "relevance_score": 0.8,
+    "relevance_score": 0.3,
     "relevance_label": "high",
-    "title_en": "Brand Reputation in the AI Era: How to Stay in Control When AI and Third Parties Tell Your Story",
-    "summary_ko": "AI 시대에 브랜드의 이야기는 검색, AI 플랫폼, 서드파티 소스 등 외부 채널을 통해 전달되는 경우가 늘고 있다. 브랜드가 직접 통제하지 못하는 환경에서도 일관된 평판을 유지하려면 선제적인 평판 관리 전략이 필요하다. 검색 엔진, AI 모델, 외부 콘텐츠 소스 전반에 걸쳐 강력한 브랜드 존재감을 구축하는 것이 핵심 과제다.",
-    "summary_en": "In the AI era, a brand's narrative is increasingly shaped by external forces including AI platforms, search engines, and third-party sources beyond the brand's direct control. Maintaining a consistent and strong reputation requires proactive strategies that extend well beyond owned media. Building robust brand presence across search, AI-generated responses, and third-party sources has become a critical marketing priority.",
-    "so_what_ko": "LG D2C는 AI 검색 결과와 서드파티 플랫폼에서 LG 브랜드가 어떻게 표현되는지 모니터링하고, AI 모델이 참조하는 외부 콘텐츠 소스에서의 브랜드 신뢰도를 높이는 전략을 수립해야 한다.",
-    "so_what_en": "LG D2C should monitor how LG's brand is represented in AI-generated search results and third-party sources, and develop strategies to strengthen brand authority in the content AI models draw upon.",
+    "title_en": "AI Startup Osmo Claims Its AI Nose Matches Human Olfactory Accuracy",
+    "summary_ko": "AI 스타트업 Osmo는 뉴저지에 위치한 연구소에서 약 30명의 전문 후각 평가사들이 수집한 훈련 데이터를 기반으로 세계 최초의 후각 파운데이션 모델을 개발하고 있다고 주장한다. 이 AI 코는 화학적 분석과 인간의 감각적 묘사를 결합한 데이터셋을 학습하여 인간 수준의 냄새 인식 능력을 목표로 한다. 이 기술은 향수, 식품, 환경 센서링 등 다양한 산업에 응용될 가능성을 보여준다.",
+    "summary_en": "AI startup Osmo is developing what it claims to be the world's first olfactory foundation model, trained on data collected by approximately 30 expert human sniffers cataloging every odor on Earth. The model combines chemical analysis with sensory descriptors to replicate human-level smell recognition. The technology has potential applications across fragrance, food, and environmental sensing industries.",
+    "so_what_ko": "후각 AI는 현재 LG D2C 비즈니스와의 직접적 연관성은 낮으나, 감각 AI 기술의 발전은 장기적으로 가전제품(공기청정기, 냉장고 등)의 스마트 센서 기능 강화에 활용될 수 있는 신흥 기술로 모니터링 가치가 있다.",
+    "so_what_en": "While not immediately relevant to LG D2C commerce, olfactory AI represents an emerging sensory technology worth monitoring for potential long-term integration into smart home appliances such as air purifiers and refrigerators.",
     "key_points": [
-      "Brand narratives are increasingly shaped by AI platforms and third-party sources outside brand control",
-      "Proactive reputation management must now span search, AI, and external content ecosystems",
-      "Consistency across AI-generated and third-party brand representations is a growing strategic imperative"
+      "Osmo가 세계 최초의 후각 파운데이션 AI 모델 개발 주장",
+      "약 30명의 전문 후각 평가사 데이터와 화학 분석을 결합한 학습 데이터셋 구축",
+      "향수, 식품, 환경 센서링 등 다양한 산업 응용 가능성 보유"
     ],
     "tags": [
-      "brand-reputation",
-      "ai-search",
-      "third-party-content",
-      "brand-safety",
-      "ai-era"
+      "olfactory-ai",
+      "sensory-ai",
+      "foundation-model",
+      "emerging-tech",
+      "osmo"
     ],
-    "confidence": 0.65,
-    "strategic_theme": "AI_MARKETING",
+    "confidence": 0.8,
+    "strategic_theme": "EMERGING_TECH",
     "regions": [
-      "GLOBAL"
+      "AMER"
     ],
-    "business_impact": "HIGH",
-    "sentiment": "THREAT",
-    "key_entities": [],
-    "one_line_insight_ko": "AI가 브랜드 스토리를 대신 전달하는 시대에 LG는 AI 모델과 서드파티 소스에서의 브랜드 평판 관리를 새로운 마케팅 핵심 역량으로 확립해야 한다.",
-    "one_line_insight_en": "As AI increasingly narrates brand stories, LG must treat AI-mediated brand reputation management as a core marketing competency alongside owned-channel messaging.",
+    "business_impact": "LOW",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "Osmo",
+      "MIT Technology Review"
+    ],
+    "one_line_insight_ko": "후각 AI는 아직 초기 단계이지만, 감각 데이터의 디지털화는 장기적으로 스마트홈 가전의 새로운 가능성을 열 수 있다.",
+    "one_line_insight_en": "Olfactory AI is nascent, but the digitization of sensory data could unlock new smart home appliance capabilities in the long term.",
     "ai_processed": true
   },
   {
-    "title": "Marketing ops can turn AI agent readiness from a blind spot to a strength",
-    "link": "https://martech.org/marketing-ops-can-turn-ai-agent-readiness-from-a-blind-spot-to-a-strength/",
-    "date_published": "2026-11-16",
-    "description": "Disconnected data leaves AI agents making promises your brand can’t keep. Here is an opportunity for marketing ops to connect the customer journey and drive real growth.\nThe post Marketing ops can turn AI agent readiness from a blind spot to a strength appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
+    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+    "date_published": "2026-11-18",
+    "description": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/news/rss.xml",
     "categories": [
-      "agentic_commerce",
-      "ai_marketing",
-      "strategy"
+      "strategy",
+      "ai_marketing"
     ],
-    "relevance_score": 0.95,
+    "relevance_score": 0.55,
     "relevance_label": "high",
-    "title_en": "Marketing Ops Can Transform AI Agent Readiness from a Blind Spot Into a Competitive Strength",
-    "summary_ko": "데이터가 단절된 환경에서 AI 에이전트가 고객에게 이행하지 못할 약속을 하게 되는 문제가 AI 에이전트 도입의 핵심 리스크로 지목됐다. 마케팅 운영팀은 고객 여정 전반의 데이터를 연결함으로써 AI 에이전트의 준비 상태를 취약점에서 성장 동력으로 전환할 수 있다. 마케팅 옵스가 AI 에이전트 인프라의 중심 역할을 맡아 실질적인 비즈니스 성장을 이끄는 기회가 열리고 있다.",
-    "summary_en": "Disconnected data systems cause AI agents to make promises that brands cannot fulfill, representing a critical risk as agentic AI becomes more prevalent in customer interactions. Marketing operations teams have a unique opportunity to connect fragmented customer journey data and thereby transform AI agent readiness from a vulnerability into a growth driver. By taking ownership of AI agent infrastructure, marketing ops can play a central role in delivering meaningful business growth.",
-    "so_what_ko": "LG D2C의 마케팅 운영팀은 고객 데이터 통합 아키텍처를 선제적으로 구축해 AI 에이전트가 일관되고 신뢰할 수 있는 고객 경험을 제공할 수 있는 기반을 마련해야 한다.",
-    "so_what_en": "LG D2C's marketing ops team should proactively build a unified customer data architecture to ensure AI agents can deliver consistent, fulfillable brand promises across all touchpoints.",
+    "title_en": "Le Groupe Figaro and OpenAI Partner to Surface French Journalism in ChatGPT",
+    "summary_ko": "프랑스 주요 미디어 그룹인 Le Groupe Figaro가 OpenAI와 파트너십을 체결하여 르피가로의 저널리즘 콘텐츠를 ChatGPT를 통해 요약 및 발췌 형태로 제공하기로 했다. 이 파트너십은 원본 기사 링크를 포함하여 콘텐츠 접근성을 높이면서도 원본 출처로의 트래픽 유도를 함께 추구한다. 이는 OpenAI가 주요 미디어 그룹들과 콘텐츠 라이선싱 계약을 확대하는 글로벌 추세의 일환이다.",
+    "summary_en": "Le Groupe Figaro has partnered with OpenAI to integrate Le Figaro's journalism into ChatGPT through summaries and excerpts, with links back to original articles. The partnership aims to enhance content accessibility while driving traffic to the original source. This continues OpenAI's expanding pattern of content licensing agreements with major media organizations globally.",
+    "so_what_ko": "OpenAI와 미디어 그룹 간 콘텐츠 라이선싱 파트너십 확대는 AI가 콘텐츠 유통의 핵심 채널로 부상하고 있음을 의미하며, LG D2C도 AI 플랫폼을 통한 브랜드 콘텐츠 노출 전략을 검토할 필요가 있다.",
+    "so_what_en": "The expanding trend of media-AI content partnerships signals that AI platforms are becoming critical content distribution channels, prompting LG D2C to consider how brand content can be surfaced through AI-native discovery touchpoints.",
     "key_points": [
-      "Disconnected data is the primary cause of AI agents making unfulfillable brand promises",
-      "Marketing ops teams are uniquely positioned to unify customer journey data for AI agent readiness",
-      "Owning AI agent infrastructure gives marketing ops a strategic role in driving real growth"
+      "Le Groupe Figaro와 OpenAI가 ChatGPT 내 르피가로 저널리즘 콘텐츠 제공 파트너십 체결",
+      "요약 및 발췌 제공과 함께 원본 기사 링크를 통한 트래픽 유도 병행",
+      "OpenAI의 글로벌 미디어 콘텐츠 라이선싱 확대 전략의 일환"
     ],
     "tags": [
-      "ai-agents",
-      "marketing-ops",
-      "data-integration",
-      "customer-journey",
-      "agentic-commerce"
+      "openai",
+      "chatgpt",
+      "media-partnership",
+      "content-licensing",
+      "ai-distribution"
     ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_AGENT",
+    "confidence": 0.9,
+    "strategic_theme": "PLATFORM_ECOSYSTEM",
     "regions": [
+      "EMEA",
       "GLOBAL"
     ],
-    "business_impact": "HIGH",
-    "sentiment": "OPPORTUNITY",
-    "key_entities": [],
-    "one_line_insight_ko": "AI 에이전트의 성패는 마케팅 기술이 아닌 데이터 연결성에 달려 있으며, 마케팅 옵스가 그 핵심 열쇠를 쥐고 있다.",
-    "one_line_insight_en": "AI agent success hinges not on the technology itself but on data connectivity — making marketing ops the critical enabler of agentic commerce readiness.",
-    "ai_processed": true
-  },
-  {
-    "title": "AI agents make CX marketing’s problem",
-    "link": "https://martech.org/ai-agents-make-cx-marketings-problem/",
-    "date_published": "2026-11-16",
-    "description": "Brand messaging has limits when AI agents weigh real-world performance. Marketers must push for operational improvements that drive growth.\nThe post AI agents make CX marketing’s problem appeared first on MarTech.",
-    "source_id": "martech_org",
-    "source_name": "MarTech.org",
-    "source_url": "https://martech.org/feed",
-    "categories": [
-      "agentic_commerce",
-      "ai_marketing",
-      "commerce"
+    "business_impact": "MEDIUM",
+    "sentiment": "NEUTRAL",
+    "key_entities": [
+      "OpenAI",
+      "ChatGPT",
+      "Le Groupe Figaro",
+      "Le Figaro"
     ],
-    "relevance_score": 0.95,
-    "relevance_label": "high",
-    "title_en": "AI Agents Raise the Stakes for CX, Making Customer Experience Every Marketer's Accountability",
-    "summary_ko": "AI 에이전트가 실제 고객 경험 성과를 평가 기준으로 삼으면서 브랜드 메시지만으로는 한계가 명확해졌다. 마케터는 이제 운영적 개선을 직접 추진하여 AI 에이전트가 측정하고 반영하는 실질적인 고객 경험을 향상시켜야 하는 책임을 갖게 됐다. AI 에이전트 시대에는 CX가 마케팅의 직접적인 책임 영역이 되며 성장의 핵심 동력으로 부상하고 있다.",
-    "summary_en": "AI agents evaluate brands based on real-world customer experience performance rather than brand messaging, exposing the limits of traditional marketing communications. Marketers must now take ownership of operational improvements that directly impact the customer experience AI agents measure and report on. In the agentic AI era, customer experience becomes marketing's direct accountability and a primary driver of growth.",
-    "so_what_ko": "LG D2C 마케터는 광고 메시지와 실제 고객 경험 간의 간극을 줄이기 위해 운영, 서비스, 물류 등 CX 전반의 개선을 주도하는 역할을 확장해야 한다.",
-    "so_what_en": "LG D2C marketers must expand their remit beyond messaging to actively drive operational, service, and logistics improvements that close the gap between brand promises and actual customer experiences AI agents will evaluate.",
-    "key_points": [
-      "AI agents assess brands on real CX performance, not just brand messaging",
-      "Traditional marketing communications have diminishing influence when AI agents weigh operational realities",
-      "Marketers must take accountability for driving operational CX improvements to remain competitive in an agentic world"
-    ],
-    "tags": [
-      "ai-agents",
-      "customer-experience",
-      "cx-accountability",
-      "agentic-commerce",
-      "brand-performance"
-    ],
-    "confidence": 0.7,
-    "strategic_theme": "AI_AGENT",
-    "regions": [
-      "GLOBAL"
-    ],
-    "business_impact": "HIGH",
-    "sentiment": "THREAT",
-    "key_entities": [],
-    "one_line_insight_ko": "AI 에이전트가 실제 CX 성과로 브랜드를 평가하는 시대에 마케팅의 역할은 메시지 전달을 넘어 운영 개선의 주도자로 확장되어야 한다.",
-    "one_line_insight_en": "When AI agents judge brands by real CX outcomes, marketing's role must evolve from messaging to ownership of the operational improvements that determine those outcomes.",
+    "one_line_insight_ko": "AI 플랫폼이 콘텐츠 유통의 새로운 관문이 되면서, 브랜드 콘텐츠의 AI 가시성 확보가 차세대 디지털 마케팅의 핵심 과제로 떠오르고 있다.",
+    "one_line_insight_en": "As AI platforms emerge as new content distribution gatekeepers, ensuring brand visibility within AI-native discovery is becoming a core next-generation marketing challenge.",
     "ai_processed": true
   }
 ]
