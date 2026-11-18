@@ -4,7 +4,6 @@
   "last_recipient_count": 59,
   "last_news_items": 12,
   "recently_sent_content_dates": [
-    "2026-11-03",
     "2026-11-04",
     "2026-11-05",
     "2026-11-06",
@@ -17,16 +16,17 @@
     "2026-11-14",
     "2026-11-15",
     "2026-11-16",
-    "2026-11-17"
+    "2026-11-17",
+    "2026-11-18"
   ],
   "last_sent_content_date": "2026-04-12",
-  "last_sent_date_ko": "2026-11-17",
-  "last_sent_date_en": "2026-11-17",
-  "last_sent_content_date_en": "2026-11-16",
-  "last_sent_at_kst_en": "2026-11-17T21:07:11.118282+09:00",
+  "last_sent_date_ko": "2026-11-18",
+  "last_sent_date_en": "2026-11-18",
+  "last_sent_content_date_en": "2026-11-17",
+  "last_sent_at_kst_en": "2026-11-18T20:59:10.854052+09:00",
   "last_recipient_count_en": 2,
-  "last_sent_content_date_ko": "2026-11-16",
-  "last_sent_at_kst_ko": "2026-11-17T21:07:08.750227+09:00",
+  "last_sent_content_date_ko": "2026-11-17",
+  "last_sent_at_kst_ko": "2026-11-18T20:59:08.610607+09:00",
   "last_recipient_count_ko": 66,
   "recently_sent_articles_ko": [
     {
@@ -144,6 +144,30 @@
       "sent_on_kst_date": "2026-11-17",
       "selected_date": "2026-11-17",
       "sent_at_kst": "2026-11-17T21:07:08.750227+09:00"
+    },
+    {
+      "fingerprint": "3add04d728c9e95b",
+      "urls": [
+        "https://martech.org/beyond-deployment-how-to-lead-the-change-and-make-ai-adoption-stick/",
+        "https://blog.hubspot.com/marketing/claude-for-marketing",
+        "https://www.marketingdive.com/news/deloitte-digitals-new-agentic-tools-aim-to-fix-messy-marketing-workflows/874779/",
+        "https://martech.org/how-to-protect-brand-reputation-in-the-ai-era/",
+        "https://martech.org/when-ai-agents-evaluate-b2b-vendors-what-earns-consideration/",
+        "https://www.adweek.com/commerce/ad-buyers-embrace-retail-medias-honeymoon-with-streaming/",
+        "https://martech.org/bloomreach-goes-back-to-its-roots-with-athenahq-acquisition/",
+        "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+        "https://www.retaildive.com/spons/holiday-retails-ai-test-from-skeptical-shoppers-to-agents-they-trust-afte/874054/",
+        "https://www.digitalcommerce360.com/2026/11/16/openai-chatgpt-wallet-for-ai-purchases-through-retailer-checkouts/",
+        "https://www.retaildive.com/news/black-friday-2026-preview-ai-resale-stores/874163/",
+        "https://www.practicalecommerce.com/track-chatgpt-product-referrals-in-ga4"
+      ],
+      "content_dates": [
+        "2026-11-16",
+        "2026-11-17"
+      ],
+      "sent_on_kst_date": "2026-11-18",
+      "selected_date": "2026-11-18",
+      "sent_at_kst": "2026-11-18T20:59:08.610607+09:00"
     }
   ],
   "recently_sent_articles_en": [
@@ -262,6 +286,30 @@
       "sent_on_kst_date": "2026-11-17",
       "selected_date": "2026-11-17",
       "sent_at_kst": "2026-11-17T21:07:11.118282+09:00"
+    },
+    {
+      "fingerprint": "3add04d728c9e95b",
+      "urls": [
+        "https://martech.org/beyond-deployment-how-to-lead-the-change-and-make-ai-adoption-stick/",
+        "https://martech.org/how-to-protect-brand-reputation-in-the-ai-era/",
+        "https://www.marketingdive.com/news/deloitte-digitals-new-agentic-tools-aim-to-fix-messy-marketing-workflows/874779/",
+        "https://blog.hubspot.com/marketing/claude-for-marketing",
+        "https://martech.org/when-ai-agents-evaluate-b2b-vendors-what-earns-consideration/",
+        "https://www.adweek.com/commerce/ad-buyers-embrace-retail-medias-honeymoon-with-streaming/",
+        "https://www.retaildive.com/news/black-friday-2026-preview-ai-resale-stores/874163/",
+        "https://martech.org/bloomreach-goes-back-to-its-roots-with-athenahq-acquisition/",
+        "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+        "https://www.retaildive.com/spons/holiday-retails-ai-test-from-skeptical-shoppers-to-agents-they-trust-afte/874054/",
+        "https://www.practicalecommerce.com/track-chatgpt-product-referrals-in-ga4",
+        "https://www.digitalcommerce360.com/2026/11/16/openai-chatgpt-wallet-for-ai-purchases-through-retailer-checkouts/"
+      ],
+      "content_dates": [
+        "2026-11-16",
+        "2026-11-17"
+      ],
+      "sent_on_kst_date": "2026-11-18",
+      "selected_date": "2026-11-18",
+      "sent_at_kst": "2026-11-18T20:59:10.854052+09:00"
     }
   ]
 }
