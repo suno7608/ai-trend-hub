@@ -4,7 +4,6 @@
   "last_recipient_count": 59,
   "last_news_items": 12,
   "recently_sent_content_dates": [
-    "2026-11-04",
     "2026-11-05",
     "2026-11-06",
     "2026-11-07",
@@ -17,16 +16,17 @@
     "2026-11-15",
     "2026-11-16",
     "2026-11-17",
-    "2026-11-18"
+    "2026-11-18",
+    "2026-11-19"
   ],
   "last_sent_content_date": "2026-04-12",
-  "last_sent_date_ko": "2026-11-18",
-  "last_sent_date_en": "2026-11-18",
-  "last_sent_content_date_en": "2026-11-17",
-  "last_sent_at_kst_en": "2026-11-18T20:59:10.854052+09:00",
+  "last_sent_date_ko": "2026-11-19",
+  "last_sent_date_en": "2026-11-19",
+  "last_sent_content_date_en": "2026-11-19",
+  "last_sent_at_kst_en": "2026-11-19T20:56:29.997680+09:00",
   "last_recipient_count_en": 2,
-  "last_sent_content_date_ko": "2026-11-17",
-  "last_sent_at_kst_ko": "2026-11-18T20:59:08.610607+09:00",
+  "last_sent_content_date_ko": "2026-11-19",
+  "last_sent_at_kst_ko": "2026-11-19T20:56:27.945791+09:00",
   "last_recipient_count_ko": 66,
   "recently_sent_articles_ko": [
     {
@@ -168,6 +168,31 @@
       "sent_on_kst_date": "2026-11-18",
       "selected_date": "2026-11-18",
       "sent_at_kst": "2026-11-18T20:59:08.610607+09:00"
+    },
+    {
+      "fingerprint": "4d720ea4e51b82fc",
+      "urls": [
+        "https://podcast.smarterx.ai/shownotes/253",
+        "https://martech.org/doing-more-work-wont-make-you-a-more-valuable-marketer/",
+        "https://martech.org/enterprise-ai-governance-alone-cant-protect-your-brand/",
+        "https://martech.org/even-the-smartest-ai-needs-your-business-knowledge/",
+        "https://martech.org/when-ai-agents-evaluate-b2b-vendors-what-earns-consideration/",
+        "https://www.adweek.com/commerce/ad-buyers-embrace-retail-medias-honeymoon-with-streaming/",
+        "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+        "https://www.retaildive.com/news/home-depot-lowes-digital-sales-boost-q3-ecommerce/875054/",
+        "https://www.paymentsdive.com/news/klarna-launches-ai-concierge/875033/",
+        "https://www.practicalecommerce.com/new-ecommerce-tools-november-18-2026",
+        "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+        "https://www.retaildive.com/news/black-friday-2026-preview-ai-resale-stores/874163/"
+      ],
+      "content_dates": [
+        "2026-11-17",
+        "2026-11-18",
+        "2026-11-19"
+      ],
+      "sent_on_kst_date": "2026-11-19",
+      "selected_date": "2026-11-19",
+      "sent_at_kst": "2026-11-19T20:56:27.945791+09:00"
     }
   ],
   "recently_sent_articles_en": [
@@ -310,6 +335,31 @@
       "sent_on_kst_date": "2026-11-18",
       "selected_date": "2026-11-18",
       "sent_at_kst": "2026-11-18T20:59:10.854052+09:00"
+    },
+    {
+      "fingerprint": "4d720ea4e51b82fc",
+      "urls": [
+        "https://martech.org/doing-more-work-wont-make-you-a-more-valuable-marketer/",
+        "https://martech.org/enterprise-ai-governance-alone-cant-protect-your-brand/",
+        "https://martech.org/even-the-smartest-ai-needs-your-business-knowledge/",
+        "https://podcast.smarterx.ai/shownotes/253",
+        "https://martech.org/when-ai-agents-evaluate-b2b-vendors-what-earns-consideration/",
+        "https://www.adweek.com/commerce/ad-buyers-embrace-retail-medias-honeymoon-with-streaming/",
+        "https://www.retaildive.com/news/black-friday-2026-preview-ai-resale-stores/874163/",
+        "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+        "https://www.retaildive.com/news/home-depot-lowes-digital-sales-boost-q3-ecommerce/875054/",
+        "https://www.paymentsdive.com/news/klarna-launches-ai-concierge/875033/",
+        "https://www.practicalecommerce.com/new-ecommerce-tools-november-18-2026",
+        "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/"
+      ],
+      "content_dates": [
+        "2026-11-17",
+        "2026-11-18",
+        "2026-11-19"
+      ],
+      "sent_on_kst_date": "2026-11-19",
+      "selected_date": "2026-11-19",
+      "sent_at_kst": "2026-11-19T20:56:29.997680+09:00"
     }
   ]
 }
