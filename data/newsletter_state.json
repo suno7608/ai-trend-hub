@@ -4,7 +4,6 @@
   "last_recipient_count": 59,
   "last_news_items": 12,
   "recently_sent_content_dates": [
-    "2026-11-06",
     "2026-11-07",
     "2026-11-08",
     "2026-11-10",
@@ -17,16 +16,17 @@
     "2026-11-17",
     "2026-11-18",
     "2026-11-19",
-    "2026-11-20"
+    "2026-11-20",
+    "2026-11-21"
   ],
   "last_sent_content_date": "2026-04-12",
-  "last_sent_date_ko": "2026-11-20",
-  "last_sent_date_en": "2026-11-20",
+  "last_sent_date_ko": "2026-11-21",
+  "last_sent_date_en": "2026-11-21",
   "last_sent_content_date_en": "2026-11-20",
-  "last_sent_at_kst_en": "2026-11-20T20:57:29.829813+09:00",
+  "last_sent_at_kst_en": "2026-11-21T20:23:13.960563+09:00",
   "last_recipient_count_en": 2,
   "last_sent_content_date_ko": "2026-11-20",
-  "last_sent_at_kst_ko": "2026-11-20T20:57:27.675742+09:00",
+  "last_sent_at_kst_ko": "2026-11-21T20:23:11.177178+09:00",
   "last_recipient_count_ko": 66,
   "recently_sent_articles_ko": [
     {
@@ -218,6 +218,30 @@
       "sent_on_kst_date": "2026-11-20",
       "selected_date": "2026-11-20",
       "sent_at_kst": "2026-11-20T20:57:27.675742+09:00"
+    },
+    {
+      "fingerprint": "38f8aa7bb2fccf58",
+      "urls": [
+        "https://podcast.smarterx.ai/shownotes/253",
+        "https://blog.hubspot.com/marketing/ai-search-volatility",
+        "https://www.marketingdive.com/news/campaign-trail-tiffany-tells-human-holiday-story-with-hollywood-talent/874914/",
+        "https://www.marketingdive.com/news/coca-cola-pivots-from-divisive-ai-generated-ads-for-holiday-campaign/875215/",
+        "https://www.marketingaiinstitute.com/blog/how-to-build-a-marketing-agent",
+        "https://martech.org/how-psychology-can-make-ai-powered-customer-personas-more-useful/",
+        "https://martech.org/intuit-finds-a-buyer-for-mailchimp-in-bending-spoons/",
+        "https://www.marketingdive.com/news/walmart-mulls-role-advertising-will-play-in-an-agentic-shopping-world/875185/",
+        "https://www.retaildive.com/news/mall-of-america-debuts-ai-concierge-mallie/875089/",
+        "https://www.modernretail.co/operations/on-is-making-a-bigger-play-for-american-shoppers-one-store-at-a-time/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+        "https://www.retaildive.com/news/nyc-surveillance-pricing-ban-fabfitfun-walmart/875277/",
+        "https://www.practicalecommerce.com/top-ecommerce-fraud-risks-for-2027"
+      ],
+      "content_dates": [
+        "2026-11-19",
+        "2026-11-20"
+      ],
+      "sent_on_kst_date": "2026-11-21",
+      "selected_date": "2026-11-21",
+      "sent_at_kst": "2026-11-21T20:23:11.177178+09:00"
     }
   ],
   "recently_sent_articles_en": [
@@ -410,6 +434,30 @@
       "sent_on_kst_date": "2026-11-20",
       "selected_date": "2026-11-20",
       "sent_at_kst": "2026-11-20T20:57:29.829813+09:00"
+    },
+    {
+      "fingerprint": "38f8aa7bb2fccf58",
+      "urls": [
+        "https://blog.hubspot.com/marketing/ai-search-volatility",
+        "https://www.marketingdive.com/news/coca-cola-pivots-from-divisive-ai-generated-ads-for-holiday-campaign/875215/",
+        "https://www.marketingaiinstitute.com/blog/how-to-build-a-marketing-agent",
+        "https://martech.org/how-psychology-can-make-ai-powered-customer-personas-more-useful/",
+        "https://podcast.smarterx.ai/shownotes/253",
+        "https://martech.org/intuit-finds-a-buyer-for-mailchimp-in-bending-spoons/",
+        "https://www.marketingdive.com/news/campaign-trail-tiffany-tells-human-holiday-story-with-hollywood-talent/874914/",
+        "https://www.marketingdive.com/news/walmart-mulls-role-advertising-will-play-in-an-agentic-shopping-world/875185/",
+        "https://www.retaildive.com/news/mall-of-america-debuts-ai-concierge-mallie/875089/",
+        "https://www.retaildive.com/news/nyc-surveillance-pricing-ban-fabfitfun-walmart/875277/",
+        "https://www.modernretail.co/operations/on-is-making-a-bigger-play-for-american-shoppers-one-store-at-a-time/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+        "https://www.practicalecommerce.com/top-ecommerce-fraud-risks-for-2027"
+      ],
+      "content_dates": [
+        "2026-11-19",
+        "2026-11-20"
+      ],
+      "sent_on_kst_date": "2026-11-21",
+      "selected_date": "2026-11-21",
+      "sent_at_kst": "2026-11-21T20:23:13.960563+09:00"
     }
   ]
 }
