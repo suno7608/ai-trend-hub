@@ -4,7 +4,6 @@
   "last_recipient_count": 59,
   "last_news_items": 12,
   "recently_sent_content_dates": [
-    "2026-11-07",
     "2026-11-08",
     "2026-11-10",
     "2026-11-11",
@@ -17,16 +16,17 @@
     "2026-11-18",
     "2026-11-19",
     "2026-11-20",
-    "2026-11-21"
+    "2026-11-21",
+    "2026-11-22"
   ],
   "last_sent_content_date": "2026-04-12",
-  "last_sent_date_ko": "2026-11-21",
-  "last_sent_date_en": "2026-11-21",
-  "last_sent_content_date_en": "2026-11-20",
-  "last_sent_at_kst_en": "2026-11-21T20:23:13.960563+09:00",
+  "last_sent_date_ko": "2026-11-22",
+  "last_sent_date_en": "2026-11-22",
+  "last_sent_content_date_en": "2026-11-21",
+  "last_sent_at_kst_en": "2026-11-22T20:42:42.846608+09:00",
   "last_recipient_count_en": 2,
-  "last_sent_content_date_ko": "2026-11-20",
-  "last_sent_at_kst_ko": "2026-11-21T20:23:11.177178+09:00",
+  "last_sent_content_date_ko": "2026-11-21",
+  "last_sent_at_kst_ko": "2026-11-22T20:42:40.051613+09:00",
   "last_recipient_count_ko": 66,
   "recently_sent_articles_ko": [
     {
@@ -242,6 +242,30 @@
       "sent_on_kst_date": "2026-11-21",
       "selected_date": "2026-11-21",
       "sent_at_kst": "2026-11-21T20:23:11.177178+09:00"
+    },
+    {
+      "fingerprint": "cd2e5a2d0ad52ab5",
+      "urls": [
+        "https://blog.hubspot.com/marketing/ai-search-volatility",
+        "https://www.marketingdive.com/news/campaign-trail-tiffany-tells-human-holiday-story-with-hollywood-talent/874914/",
+        "https://martech.org/intuit-finds-a-buyer-for-mailchimp-in-bending-spoons/",
+        "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "https://www.modernretail.co/operations/on-is-making-a-bigger-play-for-american-shoppers-one-store-at-a-time/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+        "https://www.retaildive.com/news/nyc-surveillance-pricing-ban-fabfitfun-walmart/875277/",
+        "https://www.modernretail.co/operations/walmarts-convenience-lures-high-income-shoppers/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+        "https://www.adweek.com/creativity/ai-is-off-the-festive-dinner-menu-in-cokes-2026-holiday-ad/",
+        "https://www.salesforce.com/blog/small-business/ai-orchestrator-basics/",
+        "https://www.salesforce.com/blog/self-evolving-systems/",
+        "https://www.practicalecommerce.com/ceos-need-ai-agents-says-appsumo-vet",
+        "https://martech.org/give-holiday-shoppers-more-value-without-relying-on-discounts/"
+      ],
+      "content_dates": [
+        "2026-11-20",
+        "2026-11-21"
+      ],
+      "sent_on_kst_date": "2026-11-22",
+      "selected_date": "2026-11-22",
+      "sent_at_kst": "2026-11-22T20:42:40.051613+09:00"
     }
   ],
   "recently_sent_articles_en": [
@@ -458,6 +482,30 @@
       "sent_on_kst_date": "2026-11-21",
       "selected_date": "2026-11-21",
       "sent_at_kst": "2026-11-21T20:23:13.960563+09:00"
+    },
+    {
+      "fingerprint": "02ba7a6a30102cf7",
+      "urls": [
+        "https://blog.hubspot.com/marketing/ai-search-volatility",
+        "https://martech.org/intuit-finds-a-buyer-for-mailchimp-in-bending-spoons/",
+        "https://www.marketingdive.com/news/campaign-trail-tiffany-tells-human-holiday-story-with-hollywood-talent/874914/",
+        "https://www.retaildive.com/news/nyc-surveillance-pricing-ban-fabfitfun-walmart/875277/",
+        "https://www.modernretail.co/operations/on-is-making-a-bigger-play-for-american-shoppers-one-store-at-a-time/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+        "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "https://www.modernretail.co/operations/walmarts-convenience-lures-high-income-shoppers/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+        "https://www.salesforce.com/blog/small-business/ai-orchestrator-basics/",
+        "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+        "https://www.practicalecommerce.com/ceos-need-ai-agents-says-appsumo-vet",
+        "https://www.adweek.com/creativity/ai-is-off-the-festive-dinner-menu-in-cokes-2026-holiday-ad/",
+        "https://digiday.com/marketing/why-more-brands-are-paying-creators-to-make-their-ads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss"
+      ],
+      "content_dates": [
+        "2026-11-20",
+        "2026-11-21"
+      ],
+      "sent_on_kst_date": "2026-11-22",
+      "selected_date": "2026-11-22",
+      "sent_at_kst": "2026-11-22T20:42:42.846608+09:00"
     }
   ]
 }
