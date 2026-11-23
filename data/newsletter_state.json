@@ -2,9 +2,8 @@
   "last_sent_date": "2026-04-12",
   "last_sent_at_kst": "2026-04-12T16:22:20.398220+09:00",
   "last_recipient_count": 59,
-  "last_news_items": 12,
+  "last_news_items": 8,
   "recently_sent_content_dates": [
-    "2026-11-08",
     "2026-11-10",
     "2026-11-11",
     "2026-11-12",
@@ -17,16 +16,17 @@
     "2026-11-19",
     "2026-11-20",
     "2026-11-21",
-    "2026-11-22"
+    "2026-11-22",
+    "2026-11-23"
   ],
   "last_sent_content_date": "2026-04-12",
-  "last_sent_date_ko": "2026-11-22",
-  "last_sent_date_en": "2026-11-22",
-  "last_sent_content_date_en": "2026-11-21",
-  "last_sent_at_kst_en": "2026-11-22T20:42:42.846608+09:00",
+  "last_sent_date_ko": "2026-11-23",
+  "last_sent_date_en": "2026-11-23",
+  "last_sent_content_date_en": "2026-11-23",
+  "last_sent_at_kst_en": "2026-11-23T22:07:08.434251+09:00",
   "last_recipient_count_en": 2,
-  "last_sent_content_date_ko": "2026-11-21",
-  "last_sent_at_kst_ko": "2026-11-22T20:42:40.051613+09:00",
+  "last_sent_content_date_ko": "2026-11-23",
+  "last_sent_at_kst_ko": "2026-11-23T22:07:06.453087+09:00",
   "last_recipient_count_ko": 66,
   "recently_sent_articles_ko": [
     {
@@ -266,6 +266,26 @@
       "sent_on_kst_date": "2026-11-22",
       "selected_date": "2026-11-22",
       "sent_at_kst": "2026-11-22T20:42:40.051613+09:00"
+    },
+    {
+      "fingerprint": "b60ce0f386a534cd",
+      "urls": [
+        "https://digiday.com/media-buying/brands-boost-black-friday-ctv-retail-and-search-spending/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://www.adweek.com/media/chatgpts-agent-writes-its-own-queries-to-serve-ads-advertisers-dont-get-to-see-them/",
+        "https://digiday.com/marketing/d-research-brands-holiday-marketing-tactics-shift-in-2026/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://digiday.com/marketing/gap-inc-is-betting-on-fashiontainment-to-fuel-growth/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://martech.org/whats-missing-from-your-2027-marketing-ai-budget/",
+        "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+        "https://www.adweek.com/commerce/why-airlines-are-suddenly-racing-to-launch-media-networks/"
+      ],
+      "content_dates": [
+        "2026-11-21",
+        "2026-11-23"
+      ],
+      "sent_on_kst_date": "2026-11-23",
+      "selected_date": "2026-11-23",
+      "sent_at_kst": "2026-11-23T22:07:06.453087+09:00"
     }
   ],
   "recently_sent_articles_en": [
@@ -506,6 +526,26 @@
       "sent_on_kst_date": "2026-11-22",
       "selected_date": "2026-11-22",
       "sent_at_kst": "2026-11-22T20:42:42.846608+09:00"
+    },
+    {
+      "fingerprint": "b60ce0f386a534cd",
+      "urls": [
+        "https://digiday.com/media-buying/brands-boost-black-friday-ctv-retail-and-search-spending/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://digiday.com/marketing/d-research-brands-holiday-marketing-tactics-shift-in-2026/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://www.adweek.com/media/chatgpts-agent-writes-its-own-queries-to-serve-ads-advertisers-dont-get-to-see-them/",
+        "https://digiday.com/marketing/gap-inc-is-betting-on-fashiontainment-to-fuel-growth/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://martech.org/whats-missing-from-your-2027-marketing-ai-budget/",
+        "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+        "https://www.adweek.com/commerce/why-airlines-are-suddenly-racing-to-launch-media-networks/"
+      ],
+      "content_dates": [
+        "2026-11-21",
+        "2026-11-23"
+      ],
+      "sent_on_kst_date": "2026-11-23",
+      "selected_date": "2026-11-23",
+      "sent_at_kst": "2026-11-23T22:07:08.434251+09:00"
     }
   ]
 }
