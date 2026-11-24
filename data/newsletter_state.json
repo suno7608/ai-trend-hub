@@ -2,9 +2,8 @@
   "last_sent_date": "2026-04-12",
   "last_sent_at_kst": "2026-04-12T16:22:20.398220+09:00",
   "last_recipient_count": 59,
-  "last_news_items": 8,
+  "last_news_items": 12,
   "recently_sent_content_dates": [
-    "2026-11-10",
     "2026-11-11",
     "2026-11-12",
     "2026-11-13",
@@ -17,16 +16,17 @@
     "2026-11-20",
     "2026-11-21",
     "2026-11-22",
-    "2026-11-23"
+    "2026-11-23",
+    "2026-11-24"
   ],
   "last_sent_content_date": "2026-04-12",
-  "last_sent_date_ko": "2026-11-23",
-  "last_sent_date_en": "2026-11-23",
-  "last_sent_content_date_en": "2026-11-23",
-  "last_sent_at_kst_en": "2026-11-23T22:07:08.434251+09:00",
+  "last_sent_date_ko": "2026-11-24",
+  "last_sent_date_en": "2026-11-24",
+  "last_sent_content_date_en": "2026-11-24",
+  "last_sent_at_kst_en": "2026-11-24T22:59:15.278967+09:00",
   "last_recipient_count_en": 2,
-  "last_sent_content_date_ko": "2026-11-23",
-  "last_sent_at_kst_ko": "2026-11-23T22:07:06.453087+09:00",
+  "last_sent_content_date_ko": "2026-11-24",
+  "last_sent_at_kst_ko": "2026-11-24T22:59:13.123377+09:00",
   "last_recipient_count_ko": 66,
   "recently_sent_articles_ko": [
     {
@@ -286,6 +286,30 @@
       "sent_on_kst_date": "2026-11-23",
       "selected_date": "2026-11-23",
       "sent_at_kst": "2026-11-23T22:07:06.453087+09:00"
+    },
+    {
+      "fingerprint": "470d6c2680263e0f",
+      "urls": [
+        "https://digiday.com/media-buying/brands-boost-black-friday-ctv-retail-and-search-spending/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://www.adweek.com/media/chatgpts-agent-writes-its-own-queries-to-serve-ads-advertisers-dont-get-to-see-them/",
+        "https://digiday.com/marketing/d-research-brands-holiday-marketing-tactics-shift-in-2026/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://digiday.com/marketing/gap-inc-is-betting-on-fashiontainment-to-fuel-growth/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://martech.org/whats-missing-from-your-2027-marketing-ai-budget/",
+        "https://digiday.com/marketing/amazon-is-buying-chatgpt-ads-while-blocking-openai-crawlers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://www.retaildive.com/news/black-friday-cyber-monday-shopping-projected-to-slip/875473/",
+        "https://www.modernretail.co/operations/how-dibs-beauty-uses-heat-maps-to-optimize-its-ulta-beauty-presence/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+        "https://www.practicalecommerce.com/new-ecommerce-tools-november-24-2026",
+        "https://www.practicalecommerce.com/test-your-ecommerce-site-for-ai-access",
+        "https://digiday.com/marketing/walmart-is-letting-metas-muse-shop-its-shelves-but-on-its-own-terms/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://podcast.smarterx.ai/shownotes/254"
+      ],
+      "content_dates": [
+        "2026-11-23",
+        "2026-11-24"
+      ],
+      "sent_on_kst_date": "2026-11-24",
+      "selected_date": "2026-11-24",
+      "sent_at_kst": "2026-11-24T22:59:13.123377+09:00"
     }
   ],
   "recently_sent_articles_en": [
@@ -546,6 +570,30 @@
       "sent_on_kst_date": "2026-11-23",
       "selected_date": "2026-11-23",
       "sent_at_kst": "2026-11-23T22:07:08.434251+09:00"
+    },
+    {
+      "fingerprint": "a2c38303eeeabb93",
+      "urls": [
+        "https://digiday.com/media-buying/brands-boost-black-friday-ctv-retail-and-search-spending/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://digiday.com/marketing/d-research-brands-holiday-marketing-tactics-shift-in-2026/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://www.adweek.com/media/chatgpts-agent-writes-its-own-queries-to-serve-ads-advertisers-dont-get-to-see-them/",
+        "https://digiday.com/marketing/gap-inc-is-betting-on-fashiontainment-to-fuel-growth/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://martech.org/whats-missing-from-your-2027-marketing-ai-budget/",
+        "https://digiday.com/marketing/amazon-is-buying-chatgpt-ads-while-blocking-openai-crawlers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://www.retaildive.com/news/black-friday-cyber-monday-shopping-projected-to-slip/875473/",
+        "https://www.modernretail.co/operations/how-dibs-beauty-uses-heat-maps-to-optimize-its-ulta-beauty-presence/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+        "https://www.practicalecommerce.com/test-your-ecommerce-site-for-ai-access",
+        "https://www.practicalecommerce.com/new-ecommerce-tools-november-24-2026",
+        "https://digiday.com/marketing/walmart-is-letting-metas-muse-shop-its-shelves-but-on-its-own-terms/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://martech.org/how-ai-is-re-shaping-mid-market-marketing/"
+      ],
+      "content_dates": [
+        "2026-11-23",
+        "2026-11-24"
+      ],
+      "sent_on_kst_date": "2026-11-24",
+      "selected_date": "2026-11-24",
+      "sent_at_kst": "2026-11-24T22:59:15.278967+09:00"
     }
   ]
 }
