@@ -4,7 +4,6 @@
   "last_recipient_count": 59,
   "last_news_items": 12,
   "recently_sent_content_dates": [
-    "2026-11-12",
     "2026-11-13",
     "2026-11-14",
     "2026-11-15",
@@ -17,16 +16,17 @@
     "2026-11-22",
     "2026-11-23",
     "2026-11-24",
-    "2026-11-25"
+    "2026-11-25",
+    "2026-11-26"
   ],
   "last_sent_content_date": "2026-04-12",
-  "last_sent_date_ko": "2026-11-25",
-  "last_sent_date_en": "2026-11-25",
-  "last_sent_content_date_en": "2026-11-24",
-  "last_sent_at_kst_en": "2026-11-25T22:12:43.810096+09:00",
+  "last_sent_date_ko": "2026-11-26",
+  "last_sent_date_en": "2026-11-26",
+  "last_sent_content_date_en": "2026-11-25",
+  "last_sent_at_kst_en": "2026-11-26T21:53:06.128820+09:00",
   "last_recipient_count_en": 2,
   "last_sent_content_date_ko": "2026-11-25",
-  "last_sent_at_kst_ko": "2026-11-25T22:12:41.292950+09:00",
+  "last_sent_at_kst_ko": "2026-11-26T21:53:03.314515+09:00",
   "last_recipient_count_ko": 66,
   "recently_sent_articles_ko": [
     {
@@ -335,6 +335,30 @@
       "sent_on_kst_date": "2026-11-25",
       "selected_date": "2026-11-25",
       "sent_at_kst": "2026-11-25T22:12:41.292950+09:00"
+    },
+    {
+      "fingerprint": "83175451ccefd65f",
+      "urls": [
+        "https://www.marketingaiinstitute.com/blog/ai-that-wins-buyers-maicon-2026",
+        "https://www.marketingaiinstitute.com/blog/build-a-content-research-database-with-ai",
+        "https://martech.org/how-to-create-expert-content-your-competitors-cant-copy/",
+        "https://martech.org/the-more-ai-can-do-the-more-marketers-need-to-know/",
+        "https://martech.org/what-you-need-to-know-about-chatgpt-ads-vs-google-ads/",
+        "https://www.digitalcommerce360.com/2026/11/25/adobe-online-holiday-spending-data/",
+        "https://digiday.com/marketing/amazon-is-buying-chatgpt-ads-while-blocking-openai-crawlers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://www.retaildive.com/news/dollar-tree-q3-holiday-shoppers-buy-closer-to-need/875619/",
+        "https://digiday.com/marketing/in-graphic-detail-how-shoppers-are-adopting-ai-for-product-research-ahead-of-black-friday/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://www.practicalecommerce.com/new-ecommerce-tools-november-24-2026",
+        "https://www.retaildive.com/news/black-friday-retailers-tech-outages-ai/875541/",
+        "https://www.retaildive.com/news/shein-to-pay-100m-in-ftc-settlement-over-deceptive-practices-claims/875748/"
+      ],
+      "content_dates": [
+        "2026-11-24",
+        "2026-11-25"
+      ],
+      "sent_on_kst_date": "2026-11-26",
+      "selected_date": "2026-11-26",
+      "sent_at_kst": "2026-11-26T21:53:03.314515+09:00"
     }
   ],
   "recently_sent_articles_en": [
@@ -643,6 +667,30 @@
       "sent_on_kst_date": "2026-11-25",
       "selected_date": "2026-11-25",
       "sent_at_kst": "2026-11-25T22:12:43.810096+09:00"
+    },
+    {
+      "fingerprint": "5950b4f78359710f",
+      "urls": [
+        "https://www.marketingaiinstitute.com/blog/ai-that-wins-buyers-maicon-2026",
+        "https://martech.org/the-more-ai-can-do-the-more-marketers-need-to-know/",
+        "https://martech.org/what-you-need-to-know-about-chatgpt-ads-vs-google-ads/",
+        "https://www.marketingaiinstitute.com/blog/build-a-content-research-database-with-ai",
+        "https://martech.org/how-to-create-expert-content-your-competitors-cant-copy/",
+        "https://www.digitalcommerce360.com/2026/11/25/adobe-online-holiday-spending-data/",
+        "https://digiday.com/marketing/amazon-is-buying-chatgpt-ads-while-blocking-openai-crawlers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+        "https://www.retaildive.com/news/dollar-tree-q3-holiday-shoppers-buy-closer-to-need/875619/",
+        "https://www.digitalcommerce360.com/2026/11/24/why-your-holiday-support-spike-is-a-repetition-problem-not-a-staffing-problem/",
+        "https://www.practicalecommerce.com/new-ecommerce-tools-november-24-2026",
+        "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+        "https://www.digitalcommerce360.com/2026/11/24/your-catalog-is-out-of-date-the-day-it-ships-heres-how-to-fix-that/"
+      ],
+      "content_dates": [
+        "2026-11-24",
+        "2026-11-25"
+      ],
+      "sent_on_kst_date": "2026-11-26",
+      "selected_date": "2026-11-26",
+      "sent_at_kst": "2026-11-26T21:53:06.128820+09:00"
     }
   ]
 }
